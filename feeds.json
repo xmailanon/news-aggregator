@@ -1,1 +1,9 @@
 
+{
+  "feeds": [
+    "http://www.bbc.co.uk/zhongwen/simp/index.xml",
+    "https://rss.dw.com/xml/podcast_radio_chi_all",
+    "https://www.voachinese.com/api/zyrmteqkmr"
+  ],
+  "max_items": 200
+}
