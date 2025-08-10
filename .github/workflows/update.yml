@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write      # ✅ 允许把 news.json 推回仓库
     steps:
       - uses: actions/checkout@v4
         with:
