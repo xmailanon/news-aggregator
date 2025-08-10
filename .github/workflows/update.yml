@@ -1,22 +1,27 @@
-name: Update News
+name: Update News (every 15m)
 on:
   schedule:
-    - cron: "0 * * * *" # 每小时更新
+    - cron: "*/15 * * * *"   # 每15分钟（UTC）
   workflow_dispatch:
+concurrency:
+  group: "news-update"
+  cancel-in-progress: true
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 允许推回 news.json
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.11"
       - run: pip install feedparser
       - run: python scripts/aggregator.py
-      - run: |
+      - name: Commit & Push
+        run: |
           git config user.name "bot"
-          git config user.email "bot@example.com"
+          git config user.email "bot@users.noreply.github.com"
           git add news.json
-          git commit -m "update news" || echo "no changes"
+          git commit -m "chore: update news.json" || echo "no changes"
           git push
-
