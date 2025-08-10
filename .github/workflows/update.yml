@@ -3,16 +3,20 @@ on:
   schedule:
     - cron: "*/15 * * * *"   # 每15分钟（UTC）
   workflow_dispatch:
+
 concurrency:
   group: "news-update"
   cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write   # 允许推回 news.json
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
