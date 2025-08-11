@@ -1,84 +1,76 @@
 {
   "feeds": [
-    // 🌏 海外主流媒体
-    "http://www.bbc.co.uk/zhongwen/simp/index.xml",
-    "http://www.bbc.co.uk/zhongwen/simp/china/index.xml",
-    "http://www.bbc.co.uk/zhongwen/simp/world/index.xml",
+    { "group": "🌏 海外主流媒体", "url": "http://www.bbc.co.uk/zhongwen/simp/index.xml" },
+    { "url": "http://www.bbc.co.uk/zhongwen/simp/china/index.xml" },
+    { "url": "http://www.bbc.co.uk/zhongwen/simp/world/index.xml" },
 
-    "https://rss.dw.com/rdf/rss-chi-news",
-    "https://rss.dw.com/rdf/rss-chi-all",
+    { "url": "https://rss.dw.com/rdf/rss-chi-news" },
+    { "url": "https://rss.dw.com/rdf/rss-chi-all" },
 
-    "https://www.voachinese.com/api/zyrmteqkmr",
-    "https://www.voachinese.com/api/zyqqrepmim",
+    { "url": "https://www.voachinese.com/api/zyrmteqkmr" },
+    { "url": "https://www.voachinese.com/api/zyqqrepmim" },
 
-    "https://cn.nytimes.com/rss/",
-    "https://cn.nytimes.com/china/feed/",
-    "https://cn.nytimes.com/world/feed/",
+    { "url": "https://cn.nytimes.com/rss/" },
+    { "url": "https://cn.nytimes.com/china/feed/" },
+    { "url": "https://cn.nytimes.com/world/feed/" },
 
-    "https://www.zaobao.com.sg/rss.xml",
-    "https://www.zaobao.com.sg/realtime/china/rss.xml",
-    "https://www.zaobao.com.sg/realtime/world/rss.xml",
+    { "url": "https://www.zaobao.com.sg/rss.xml" },
+    { "url": "https://www.zaobao.com.sg/realtime/china/rss.xml" },
+    { "url": "https://www.zaobao.com.sg/realtime/world/rss.xml" },
 
-    "https://www.rfi.fr/cn/rss",
+    { "url": "https://www.rfi.fr/cn/rss" },
 
-    "https://cn.reuters.com/rssFeed/CNTopNews",
-    "https://cn.reuters.com/rssFeed/CNBusFinNews",
-    "https://cn.reuters.com/rssFeed/CNSportsNews",
+    { "url": "https://cn.reuters.com/rssFeed/CNTopNews" },
+    { "url": "https://cn.reuters.com/rssFeed/CNBusFinNews" },
+    { "url": "https://cn.reuters.com/rssFeed/CNSportsNews" },
 
-    "https://feeds.bloomberg.cn/feed/podcast/1358",
-    "https://feeds.bloomberg.cn/feed/podcast/1247",
+    { "url": "https://feeds.bloomberg.cn/feed/podcast/1358" },
+    { "url": "https://feeds.bloomberg.cn/feed/podcast/1247" },
 
-    "https://www.ftchinese.com/rss/feed",
+    { "url": "https://www.ftchinese.com/rss/feed" },
 
-    // 🇭🇰 香港媒体
-    "https://www.hk01.com/rss",
-    "https://www.mingpao.com/rss/pns/s00001.xml",
-    "https://std.stheadline.com/realtime/rss/news.xml",
-    "https://www.hkej.com/rss",
+    { "group": "🇭🇰 香港媒体", "url": "https://www.hk01.com/rss" },
+    { "url": "https://www.mingpao.com/rss/pns/s00001.xml" },
+    { "url": "https://std.stheadline.com/realtime/rss/news.xml" },
+    { "url": "https://www.hkej.com/rss" },
 
-    // 🇲🇴 澳门
-    "https://www.exmoo.com/rss", 
-    "https://www.macaodaily.com/rss",
+    { "group": "🇲🇴 澳门", "url": "https://www.exmoo.com/rss" },
+    { "url": "https://www.macaodaily.com/rss" },
 
-    // 🇹🇼 台湾媒体
-    "https://www.cna.com.tw/rss.aspx?Type=firstnews",
-    "https://udn.com/rssfeed/news/2/6638?ch=news",
-    "https://udn.com/rssfeed/news/1/6?ch=news",
-    "https://www.ltn.com.tw/rss/all.xml",
-    "https://www.chinatimes.com/rss/realtimenews.xml",
-    "https://www.storm.mg/rss/all",
+    { "group": "🇹🇼 台湾媒体", "url": "https://www.cna.com.tw/rss.aspx?Type=firstnews" },
+    { "url": "https://udn.com/rssfeed/news/2/6638?ch=news" },
+    { "url": "https://udn.com/rssfeed/news/1/6?ch=news" },
+    { "url": "https://www.ltn.com.tw/rss/all.xml" },
+    { "url": "https://www.chinatimes.com/rss/realtimenews.xml" },
+    { "url": "https://www.storm.mg/rss/all" },
 
-    // 📈 商业 & 金融
-    "https://economy.udn.com/rssfeed/news/1/1001?ch=economy",
-    "https://money.udn.com/rssfeed/news/1001/5588?ch=money",
-    "https://www.moneydj.com/KMDJ/News/NewsRSS.aspx?cat=AA",
+    { "group": "📈 商业 & 金融", "url": "https://economy.udn.com/rssfeed/news/1/1001?ch=economy" },
+    { "url": "https://money.udn.com/rssfeed/news/1001/5588?ch=money" },
+    { "url": "https://www.moneydj.com/KMDJ/News/NewsRSS.aspx?cat=AA" },
 
-    // 🌐 华人社区 & 海外门户
-    "https://www.backchina.com/rss/news.xml",        // 倍可亲
-    "https://www.vanfun.net/rss.xml",               // 温哥华港湾
-    "https://www.bcbay.com/news/rss.php",           // 加西网
-    "https://www.sinovision.net/rss.php",           // 美国中文网
-    "https://www.singtaousa.com/feed/",             // 星岛日报美西
-    "https://www.chinesenews.net/rss/",             // Chinese News Net
+    { "group": "🌐 华人社区 & 海外门户", "url": "https://www.backchina.com/rss/news.xml" },
+    { "url": "https://www.vanfun.net/rss.xml" },
+    { "url": "https://www.bcbay.com/news/rss.php" },
+    { "url": "https://www.sinovision.net/rss.php" },
+    { "url": "https://www.singtaousa.com/feed/" },
+    { "url": "https://www.chinesenews.net/rss/" },
 
-    // 📰 地区/综合类中文新闻
-    "https://news.sina.com.hk/rss/hongkong",
-    "https://news.sina.com.hk/rss/china",
-    "https://news.sina.com.hk/rss/world",
+    { "group": "📰 地区/综合类中文新闻", "url": "https://news.sina.com.hk/rss/hongkong" },
+    { "url": "https://news.sina.com.hk/rss/china" },
+    { "url": "https://news.sina.com.hk/rss/world" },
 
-    "https://hk.epochtimes.com/rss/news.xml",       // ⚠️ 已检查此为香港本地综合新闻站版块，无敏感背景
-    "https://www.thestandnews.com/rss",             // 立场新闻（需确认可访问性）
+    { "url": "https://hk.epochtimes.com/rss/news.xml" },
+    { "url": "https://www.thestandnews.com/rss" },
 
-    "https://china.huanqiu.com/rss/china.xml",
-    "https://world.huanqiu.com/rss/world.xml",
+    { "url": "https://china.huanqiu.com/rss/china.xml" },
+    { "url": "https://world.huanqiu.com/rss/world.xml" },
 
-    "https://www.orientaldaily.com.my/rss",         // 马来西亚东方日报
-    "https://www.chinapress.com.my/feed/",          // 中国报（马来西亚）
+    { "url": "https://www.orientaldaily.com.my/rss" },
+    { "url": "https://www.chinapress.com.my/feed/" },
 
-    // 🌏 新马中文门户
-    "https://www.8world.com/rss",                   // 8视界新闻
-    "https://www.todayonline.com/china/rss",        // TODAY 中文
-    "https://www.todayonline.com/world/rss"
+    { "group": "🌏 新马中文门户", "url": "https://www.8world.com/rss" },
+    { "url": "https://www.todayonline.com/china/rss" },
+    { "url": "https://www.todayonline.com/world/rss" }
   ],
   "max_items": 200,
   "max_days": 30
