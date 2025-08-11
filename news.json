@@ -1,6 +1,13 @@
 {
-  "updated": 1754905829,
+  "updated": 1754906278,
   "items": [
+    {
+      "id": "fc8a4caecf41",
+      "title": "川普集團高爾夫球場計畫徵地　越南農民僅獲微薄補償",
+      "url": "https://money.udn.com/money/story/5599/8932025",
+      "source": "money.udn.com",
+      "published": 1754905532
+    },
     {
       "id": "c89ed98d8f5c",
       "title": "緬甸若開軍槓上軍政府　矢言轄區不設大選投票站",
@@ -345,13 +352,6 @@
       "published": 1754892034
     },
     {
-      "id": "793654c175ca",
-      "title": "「熊讚」登大阪世博掀熱潮  邀日人體驗台北五感之旅",
-      "url": "https://money.udn.com/money/story/5599/8931461",
-      "source": "money.udn.com",
-      "published": 1754892034
-    },
-    {
       "id": "4763c11e3fb3",
       "title": "特朗普要求無家可歸者「立即」搬離華盛頓特區",
       "url": "https://www.bbc.com/zhongwen/articles/c5yll4ek474o/trad?at_medium=RSS&at_campaign=rss",
@@ -490,6 +490,13 @@
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20250810-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E9%A6%96%E9%83%BD%E9%99%84%E8%BF%91%E6%8E%A5%E8%BF%9E%E5%9C%B0%E9%9C%87",
       "source": "rfi.fr",
       "published": 1754847949
+    },
+    {
+      "id": "5d0f0993f561",
+      "title": "Manus与Benchmark：一项同时令中美不满的AI交易",
+      "url": "https://www.ftchinese.com/story/001107282",
+      "source": "ftchinese.com",
+      "published": 1754841600
     },
     {
       "id": "9994680e2832",
@@ -947,13 +954,6 @@
       "published": 1754582400
     },
     {
-      "id": "e6b2e651a274",
-      "title": "葡萄牙南部小城里的“中国风”",
-      "url": "https://www.ftchinese.com/story/001107252",
-      "source": "ftchinese.com",
-      "published": 1754582400
-    },
-    {
       "id": "a186dbcc8d62",
       "title": "背着房贷的中国年轻人该何去何从",
       "url": "https://www.dw.com/zh/背着房贷的中国年轻人该何去何从/a-73559282?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1752751620
     }
   ],
-  "build_id": 1754905829
+  "build_id": 1754906278
 }
