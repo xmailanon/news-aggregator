@@ -3,7 +3,7 @@ name: Update News (every 15m)
 on:
   schedule:
     - cron: "*/15 * * * *"      # 00/15/30/45（UTC）
-    - cron: "7-59/15 * * * *"   # 07/22/37/52 兜底，减少抖动
+    - cron: "7-59/15 * * * *"   # 07/22/37/52 兜底，减少 GitHub 定时抖动
   workflow_dispatch:
 
 concurrency:
@@ -28,8 +28,8 @@ jobs:
         run: |
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
-          # 确保每轮都有改动：提交 news.json + 心跳文件
-          git add news.json .last_run || true
+          # 关键：提交 news.json + 心跳文件，确保每轮都有改动
+          git add news.json .last_run
           git commit -m "chore: update news.json (auto)" || echo "no changes"
           git pull --rebase origin main || true
           git push || echo "push failed"
