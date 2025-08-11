@@ -1,12 +1,26 @@
 {
-  "updated": 1754898465,
+  "updated": 1754898970,
   "items": [
+    {
+      "id": "baf9700b4c9e",
+      "title": "美俄歷史交織之地　川普蒲亭將於阿拉斯加會談",
+      "url": "https://money.udn.com/money/story/5599/8931714",
+      "source": "money.udn.com",
+      "published": 1754898851
+    },
     {
       "id": "fbfab474b3cb",
       "title": "長者護腦新招「滑手機」？ 新研究：罹患認知障礙、失智比例較低",
       "url": "https://money.udn.com/money/story/5599/8931706",
       "source": "money.udn.com",
       "published": 1754898682
+    },
+    {
+      "id": "365abc2b2e54",
+      "title": "對等關稅目前是疊加 鄭麗君：努力爭取最終稅率不疊加",
+      "url": "https://udn.com/news/story/124552/8931679",
+      "source": "udn.com",
+      "published": 1754897830
     },
     {
       "id": "5ea4eb3d84cc",
@@ -282,13 +296,6 @@
       "published": 1754888742
     },
     {
-      "id": "6be7098abaf0",
-      "title": "【重磅快評】不選黨主席 透視盧秀燕「+1」哲學",
-      "url": "https://udn.com/news/story/6656/8931279",
-      "source": "udn.com",
-      "published": 1754888501
-    },
-    {
       "id": "10186de62600",
       "title": "范斯：俄烏和平協議難令雙方滿意　美持續協商",
       "url": "https://money.udn.com/money/story/5599/8931257",
@@ -308,13 +315,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c5yk019y14po/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1754887434
-    },
-    {
-      "id": "38db4983a4ba",
-      "title": "川普盼陸大豆購買量增4倍 以減少貿易逆差",
-      "url": "https://money.udn.com/money/story/5599/8931229",
-      "source": "money.udn.com",
-      "published": 1754887176
     },
     {
       "id": "f02583296df0",
@@ -1402,5 +1402,5 @@
       "published": 1752852540
     }
   ],
-  "build_id": 1754898465
+  "build_id": 1754898970
 }
