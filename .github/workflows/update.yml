@@ -1,7 +1,8 @@
 name: Update News (every 15m)
+
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/15 * * * *"    # 每15分钟（UTC）
   workflow_dispatch:
 
 concurrency:
@@ -12,7 +13,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write         # 允许推回 news.json
     steps:
       - uses: actions/checkout@v4
         with:
