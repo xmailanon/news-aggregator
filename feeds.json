@@ -1,8 +1,22 @@
 {
   "feeds": [
     "http://www.bbc.co.uk/zhongwen/simp/index.xml",
+    "http://www.bbc.co.uk/zhongwen/simp/china/index.xml",
+    "http://www.bbc.co.uk/zhongwen/simp/world/index.xml",
     "https://rss.dw.com/xml/podcast_radio_chi_all",
-    "https://www.voachinese.com/api/zyrmteqkmr"
+    "https://rss.dw.com/rdf/rss-chi-news",
+    "https://www.voachinese.com/api/zyrmteqkmr",
+    "https://www.voachinese.com/api/zyqqrepmim",
+    "https://cn.nytimes.com/rss/",
+    "https://cn.nytimes.com/china/feed/",
+    "https://cn.nytimes.com/world/feed/",
+    "https://www.zaobao.com.sg/rss.xml",
+    "https://www.zaobao.com.sg/realtime/china/rss.xml",
+    "https://www.zaobao.com.sg/realtime/world/rss.xml",
+    "http://news.qq.com/newsgn/rss_newsgn.xml",
+    "http://news.qq.com/newsgj/rss_newswj.xml",
+    "http://news.sina.com.cn/rss/tech/china.xml",
+    "http://news.sina.com.cn/rss/tech/global.xml"
   ],
-  "max_items": 200
+  "max_items": 400
 }
