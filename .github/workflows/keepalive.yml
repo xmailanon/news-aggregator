@@ -2,19 +2,12 @@ name: Keep Repository Active
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 每天凌晨 0 点执行一次
+    - cron: '0 */6 * * *'   # 每6小时自动运行一次
+  workflow_dispatch:         # 👈 启用手动触发按钮
 
 jobs:
-  keepalive:
+  keep-alive:
     runs-on: ubuntu-latest
     steps:
-      - name: Keep alive
-        run: |
-          echo "keepalive at $(date)" > .keepalive
-          git config --global user.name 'bot'
-          git config --global user.email 'bot@users.noreply.github.com'
-          git init
-          git remote add origin https://github.com/<你的用户名>/<你的仓库>.git
-          git add .keepalive
-          git commit -m "keepalive"
-          git push origin HEAD:main || true
+      - name: Do nothing, just keep the repo active
+        run: echo "🟢 Repository is still alive at $(date)"
