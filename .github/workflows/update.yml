@@ -1,56 +1,24 @@
-name: Update News (every 15m)
+name: Update News Feed
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
-    - cron: "7-59/15 * * * *"
-    - cron: "2,17,32,47 * * * *"
-  workflow_dispatch:
-
-concurrency:
-  group: "news-update"
-  cancel-in-progress: true
+    - cron: '*/30 * * * *'   # 每 30 分钟运行一次
+  workflow_dispatch:         # 手动触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pages: write
-      id-token: write
-
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: 3.11
 
       - name: Install dependencies
         run: pip install feedparser
 
       - name: Run aggregator script
         run: python scripts/aggregator.py
-
-      - name: Update .last_run to force commit
-        run: date +%s > .last_run
-
-      - name: Commit and Push Changes
-        run: |
-          git config user.name "bot"
-          git config user.email "bot@users.noreply.github.com"
-
-          git add news.json .last_run
-          git commit -m "chore: auto update news" || echo "nothing to commit"
-          git pull --rebase origin main || true
-          git push origin main || echo "push failed"
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./   # 如果你根目录就是静态站点
