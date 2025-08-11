@@ -4,8 +4,8 @@
     "http://www.bbc.co.uk/zhongwen/simp/china/index.xml",
     "http://www.bbc.co.uk/zhongwen/simp/world/index.xml",
 
-    "https://rss.dw.com/xml/podcast_radio_chi_all",
     "https://rss.dw.com/rdf/rss-chi-news",
+    "https://rss.dw.com/rdf/rss-chi-all",
 
     "https://www.voachinese.com/api/zyrmteqkmr",
     "https://www.voachinese.com/api/zyqqrepmim",
@@ -16,7 +16,10 @@
 
     "https://www.zaobao.com.sg/rss.xml",
     "https://www.zaobao.com.sg/realtime/china/rss.xml",
-    "https://www.zaobao.com.sg/realtime/world/rss.xml"
+    "https://www.zaobao.com.sg/realtime/world/rss.xml",
+
+    "https://www.rfi.fr/cn/rss",
+    "https://feedx.net/rss/guanchazhe.xml"
   ],
   "max_items": 200,
   "max_days": 30
