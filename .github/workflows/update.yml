@@ -2,7 +2,8 @@ name: Update News (every 15m)
 
 on:
   schedule:
-    - cron: "*/15 * * * *"    # 每15分钟（UTC）
+    - cron: "*/15 * * * *"      # 00/15/30/45（UTC）
+    - cron: "7-59/15 * * * *"   # 07/22/37/52 兜底，减少抖动
   workflow_dispatch:
 
 concurrency:
@@ -13,7 +14,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write         # 允许推回 news.json
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -27,7 +28,8 @@ jobs:
         run: |
           git config user.name "bot"
           git config user.email "bot@users.noreply.github.com"
-          git add news.json
-          git commit -m "chore: update news.json" || echo "no changes"
+          # 确保每轮都有改动：提交 news.json + 心跳文件
+          git add news.json .last_run || true
+          git commit -m "chore: update news.json (auto)" || echo "no changes"
           git pull --rebase origin main || true
           git push || echo "push failed"
