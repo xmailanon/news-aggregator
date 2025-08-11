@@ -1,75 +1,61 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>简易新闻汇</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #fff;
-      color: #000;
-    }
-    header {
-      padding: 12px 16px;
-      border-bottom: 1px solid #eee;
-      text-align: left;
-    }
-    header h1 {
-      font-size: 20px;
-      margin: 0;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-    }
-    .update-time {
-      font-size: 13px;
-      color: #888;
-      margin-top: 4px;
-    }
-    .news-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    .news-item {
-      padding: 10px 16px;
-      border-bottom: 1px solid #f0f0f0;
-    }
-    .news-item a {
-      font-size: 15px;
-      font-weight: 500;
-      color: #0056b3;
-      text-decoration: none;
-      line-height: 1.4;
-    }
-    .news-item a:hover {
-      text-decoration: underline;
-    }
-    .source {
-      font-size: 12px;
-      color: #777;
-      margin-top: 2px;
-    }
-  </style>
-</head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>简易新闻汇</title>
+<style>
+  :root{
+    --fg:#111; --muted:#6b7280; --link:#0b57d0; --border:#e5e7eb;
+    --h1: 20px; --meta: 13px; --title: 15px; --container: min(760px, 92vw);
+  }
+  body{ margin:0; color:var(--fg); background:#fff;
+        font: 16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"PingFang SC","Microsoft YaHei",sans-serif; }
+  .wrap{ width:var(--container); margin: max(8px, env(safe-area-inset-top)) auto 24px;
+         padding: 0 max(12px, env(safe-area-inset-left)) 24px max(12px, env(safe-area-inset-right)); }
+  header{ padding:12px 0 6px; border-bottom:1px solid var(--border); }
+  h1{ font-size:var(--h1); margin:0 0 4px; font-weight:700; display:flex; gap:6px; align-items:center; }
+  .ut{ font-size:var(--meta); color:var(--muted); }
+  ul{ list-style:none; margin:0; padding:0; }
+  li{ border-bottom:1px solid var(--border); }
+  a.item{ display:block; padding:10px 0; text-decoration:none; min-height:44px; }
+  .t{ font-size:var(--title); line-height:1.45; color:var(--link); word-break:break-word; overflow-wrap:anywhere; }
+  .m{ display:block; margin-top:4px; font-size:var(--meta); color:var(--muted); }
+</style>
 <body>
-  <header>
-    <h1>📰 简易新闻汇</h1>
-    <div class="update-time">更新于 2025-08-10 20:11</div>
-  </header>
-  <ul class="news-list">
-    <li class="news-item">
-      <a href="#">普京向中印领导人通报与美国谈判情况</a>
-      <div class="source">来源：cn.nytimes.com · 39分钟前</div>
-    </li>
-    <li class="news-item">
-      <a href="#">解放军高层陷入混乱，习近平寻求加强控制</a>
-      <div class="source">来源：cn.nytimes.com · 1小时前</div>
-    </li>
-    <!-- 其他新闻条目 -->
-  </ul>
+  <div class="wrap">
+    <header>
+      <h1>📰 简易新闻汇</h1>
+      <div id="updated" class="ut">更新中…</div>
+    </header>
+    <ul id="list"></ul>
+  </div>
+
+<script>
+function timeAgo(ts){
+  const d = Math.floor(Date.now()/1000 - ts);
+  if (d>=86400) return Math.floor(d/86400)+"天前";
+  if (d>=3600) return Math.floor(d/3600)+"小时前";
+  if (d>=60) return Math.floor(d/60)+"分钟前";
+  return "刚刚";
+}
+fetch("news.json?_="+Date.now())
+  .then(r=>r.json())
+  .then(d=>{
+    const upd = new Date(d.updated*1000);
+    document.getElementById("updated").textContent =
+      "更新于 " + upd.getFullYear()+"-"+String(upd.getMonth()+1).padStart(2,'0')+"-"+String(upd.getDate()).padStart(2,'0')+
+      " "+String(upd.getHours()).padStart(2,'0')+":"+String(upd.getMinutes()).padStart(2,'0');
+    const list = document.getElementById("list");
+    d.items.forEach(it=>{
+      const li = document.createElement("li");
+      li.innerHTML = `<a class="item" href="${it.url}" target="_blank" rel="noopener">
+          <span class="t">${it.title}</span>
+          <span class="m">来源：${it.source} · ${timeAgo(it.published)}</span>
+        </a>`;
+      list.appendChild(li);
+    });
+  })
+  .catch(() => { document.getElementById("updated").textContent = "无法加载新闻数据"; });
+</script>
 </body>
 </html>
