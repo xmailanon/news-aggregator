@@ -1,0 +1,77 @@
+{
+  "feeds": [
+    { "group": "🌏 海外主流媒体", "url": "http://www.bbc.co.uk/zhongwen/simp/index.xml" },
+    { "url": "http://www.bbc.co.uk/zhongwen/simp/china/index.xml" },
+    { "url": "http://www.bbc.co.uk/zhongwen/simp/world/index.xml" },
+
+    { "url": "https://rss.dw.com/rdf/rss-chi-news" },
+    { "url": "https://rss.dw.com/rdf/rss-chi-all" },
+
+    { "url": "https://www.voachinese.com/api/zyrmteqkmr" },
+    { "url": "https://www.voachinese.com/api/zyqqrepmim" },
+
+    { "url": "https://cn.nytimes.com/rss/" },
+    { "url": "https://cn.nytimes.com/china/feed/" },
+    { "url": "https://cn.nytimes.com/world/feed/" },
+
+    { "url": "https://www.zaobao.com.sg/rss.xml" },
+    { "url": "https://www.zaobao.com.sg/realtime/china/rss.xml" },
+    { "url": "https://www.zaobao.com.sg/realtime/world/rss.xml" },
+
+    { "url": "https://www.rfi.fr/cn/rss" },
+
+    { "url": "https://cn.reuters.com/rssFeed/CNTopNews" },
+    { "url": "https://cn.reuters.com/rssFeed/CNBusFinNews" },
+    { "url": "https://cn.reuters.com/rssFeed/CNSportsNews" },
+
+    { "url": "https://feeds.bloomberg.cn/feed/podcast/1358" },
+    { "url": "https://feeds.bloomberg.cn/feed/podcast/1247" },
+
+    { "url": "https://www.ftchinese.com/rss/feed" },
+
+    { "group": "🇭🇰 香港媒体", "url": "https://www.hk01.com/rss" },
+    { "url": "https://www.mingpao.com/rss/pns/s00001.xml" },
+    { "url": "https://std.stheadline.com/realtime/rss/news.xml" },
+    { "url": "https://www.hkej.com/rss" },
+
+    { "group": "🇲🇴 澳门", "url": "https://www.exmoo.com/rss" },
+    { "url": "https://www.macaodaily.com/rss" },
+
+    { "group": "🇹🇼 台湾媒体", "url": "https://www.cna.com.tw/rss.aspx?Type=firstnews" },
+    { "url": "https://udn.com/rssfeed/news/2/6638?ch=news" },
+    { "url": "https://udn.com/rssfeed/news/1/6?ch=news" },
+    { "url": "https://www.ltn.com.tw/rss/all.xml" },
+    { "url": "https://www.chinatimes.com/rss/realtimenews.xml" },
+    { "url": "https://www.storm.mg/rss/all" },
+
+    { "group": "📈 商业 & 金融", "url": "https://economy.udn.com/rssfeed/news/1/1001?ch=economy" },
+    { "url": "https://money.udn.com/rssfeed/news/1001/5588?ch=money" },
+    { "url": "https://www.moneydj.com/KMDJ/News/NewsRSS.aspx?cat=AA" },
+
+    { "group": "🌐 华人社区 & 海外门户", "url": "https://www.backchina.com/rss/news.xml" },
+    { "url": "https://www.vanfun.net/rss.xml" },
+    { "url": "https://www.bcbay.com/news/rss.php" },
+    { "url": "https://www.sinovision.net/rss.php" },
+    { "url": "https://www.singtaousa.com/feed/" },
+    { "url": "https://www.chinesenews.net/rss/" },
+
+    { "group": "📰 地区/综合类中文新闻", "url": "https://news.sina.com.hk/rss/hongkong" },
+    { "url": "https://news.sina.com.hk/rss/china" },
+    { "url": "https://news.sina.com.hk/rss/world" },
+
+    { "url": "https://hk.epochtimes.com/rss/news.xml" },
+    { "url": "https://www.thestandnews.com/rss" },
+
+    { "url": "https://china.huanqiu.com/rss/china.xml" },
+    { "url": "https://world.huanqiu.com/rss/world.xml" },
+
+    { "url": "https://www.orientaldaily.com.my/rss" },
+    { "url": "https://www.chinapress.com.my/feed/" },
+
+    { "group": "🌏 新马中文门户", "url": "https://www.8world.com/rss" },
+    { "url": "https://www.todayonline.com/china/rss" },
+    { "url": "https://www.todayonline.com/world/rss" }
+  ],
+  "max_items": 200,
+  "max_days": 30
+}
