@@ -102,11 +102,10 @@ def main():
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    import time
-
-    with open(".last_run", "w", encoding="utf-8") as f:
-    f.write(str(int(time.time())))
-
+    # ===== 新增：写入心跳文件，确保每轮都有改动 =====
+    with open(".last_run", "w", encoding="utf-8") as hb:
+        hb.write(str(now))
+    # ================================================
 
     print(f"[info] 输出 {len(out['items'])} 条（原始 {len(items)} 条，窗口 {max_days}天，max_items={max_items}）")
 
