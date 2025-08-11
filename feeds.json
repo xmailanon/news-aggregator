@@ -19,7 +19,14 @@
     "https://www.zaobao.com.sg/realtime/world/rss.xml",
 
     "https://www.rfi.fr/cn/rss",
-    "https://feedx.net/rss/guanchazhe.xml"
+    "https://feedx.net/rss/guanchazhe.xml",
+
+    "https://www.rfa.org/mandarin/rss2.xml",
+    "https://chinadigitaltimes.net/chinese/feed/",
+    "https://www.worldjournal.com/wj/feed/",
+    "https://www.storm.mg/rss/",
+    "https://www.solidot.org/index.rss",
+    "https://www.ithome.com/rss/"
   ],
   "max_items": 200,
   "max_days": 30
