@@ -20,6 +20,7 @@
   a.item{ display:block; padding:10px 0; text-decoration:none; min-height:44px; }
   .t{ font-size:var(--title); line-height:1.45; color:var(--link); word-break:break-word; overflow-wrap:anywhere; }
   .m{ display:block; margin-top:4px; font-size:var(--meta); color:var(--muted); }
+  .read .t { color: #999 !important; }  /* ✅ 新增：已读变灰 */
 </style>
 <body>
   <div class="wrap">
@@ -38,6 +39,10 @@ function timeAgo(ts){
   if (d>=60) return Math.floor(d/60)+"分钟前";
   return "刚刚";
 }
+
+// 获取已读链接列表
+const readLinks = JSON.parse(localStorage.getItem("readLinks") || "[]");
+
 fetch("news.json?_="+Date.now())
   .then(r=>r.json())
   .then(d=>{
@@ -48,10 +53,18 @@ fetch("news.json?_="+Date.now())
     const list = document.getElementById("list");
     d.items.forEach(it=>{
       const li = document.createElement("li");
-      li.innerHTML = `<a class="item" href="${it.url}" target="_blank" rel="noopener">
+      const isRead = readLinks.includes(it.url);
+      li.innerHTML = `<a class="item${isRead ? ' read' : ''}" href="${it.url}" target="_blank" rel="noopener">
           <span class="t">${it.title}</span>
           <span class="m">来源：${it.source} · ${timeAgo(it.published)}</span>
         </a>`;
+      // 添加点击监听器，标记为已读
+      li.querySelector("a").addEventListener("click", () => {
+        if (!readLinks.includes(it.url)) {
+          readLinks.push(it.url);
+          localStorage.setItem("readLinks", JSON.stringify(readLinks));
+        }
+      });
       list.appendChild(li);
     });
   })
