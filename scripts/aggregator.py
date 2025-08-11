@@ -1,14 +1,10 @@
-# scripts/aggregator.py  —— 兼容字符串/对象两种 feeds，含时间过滤
-import json, time, hashlib, sys
+import json, time, hashlib, sys, os
 from urllib.parse import urlparse
 import feedparser
 
 REQUEST_HEADERS = {"User-Agent": "DysonxNewsBot/1.0 (+https://dysonx.com)"}
 
 def load_config():
-    """读取 feeds.json，兼容:
-       ["url1","url2", ...] 以及
-       [{"url":"..."}, {"group":"xx","url":"..."} , ...] 混用。"""
     try:
         with open("feeds.json", "r", encoding="utf-8") as f:
             cfg = json.load(f)
@@ -41,7 +37,7 @@ def load_config():
         sys.exit(1)
 
     max_items = int(cfg.get("max_items", 200))
-    max_days  = int(cfg.get("max_days", 30))  # 只收最近 N 天
+    max_days  = int(cfg.get("max_days", 30))
     return feeds, max_items, max_days
 
 def normalize_ts(entry):
@@ -55,11 +51,16 @@ def host_of(link: str) -> str:
     host = urlparse(link).netloc.lower()
     return host.replace("www.", "")
 
+def hash_file(path):
+    if not os.path.exists(path):
+        return None
+    with open(path, "rb") as f:
+        return hashlib.sha1(f.read()).hexdigest()
+
 def main():
     feeds, max_items, max_days = load_config()
     now = int(time.time())
     cutoff = now - max_days * 86400
-    print(f"[info] 源数量: {len(feeds)} · 时间窗口: {max_days}天 · cutoff={cutoff}")
 
     items = []
     for url in feeds:
@@ -72,7 +73,6 @@ def main():
                 if not link:
                     continue
                 ts = normalize_ts(e)
-                # 时间过滤（丢弃过旧/未来）
                 if ts < cutoff or ts > now + 3600:
                     continue
                 title = getattr(e, "title", "(untitled)").strip()
@@ -86,9 +86,8 @@ def main():
                 })
         except Exception as ex:
             print(f"[error] 抓取失败 {url} -> {ex}")
-        time.sleep(0.3)  # 轻微间隔
+        time.sleep(0.3)
 
-    # 去重 + 时间倒序
     seen, deduped = set(), []
     for it in sorted(items, key=lambda x: x["published"], reverse=True):
         if it["url"] in seen: continue
@@ -99,15 +98,32 @@ def main():
         "items": deduped[:max_items],
         "build_id": now
     }
+
+    # ==== 比较变更前后 news.json 哈希 ====
+    old_hash = hash_file("news.json")
+
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=2)
 
-    # ===== 新增：写入心跳文件，确保每轮都有改动 =====
+    new_hash = hash_file("news.json")
+
+    # ==== 强制写入 .last_run（不影响是否 commit）====
     with open(".last_run", "w", encoding="utf-8") as hb:
         hb.write(str(now))
-    # ================================================
 
-    print(f"[info] 输出 {len(out['items'])} 条（原始 {len(items)} 条，窗口 {max_days}天，max_items={max_items}）")
+    # ==== Git 提交控制逻辑 ====
+    if old_hash != new_hash:
+        print("[info] 内容有更新，执行 git 提交")
+        os.system("git config user.name 'bot'")
+        os.system("git config user.email 'bot@users.noreply.github.com'")
+        os.system("git add news.json .last_run")
+        os.system("git commit -m 'auto update news'")
+        os.system("git pull --rebase origin main || true")
+        os.system("git push origin main || echo 'push failed'")
+    else:
+        print("[info] 内容无变化，跳过 git 提交")
+
+    print(f"[info] 输出 {len(out['items'])} 条（原始 {len(items)} 条）")
 
 if __name__ == "__main__":
     main()
