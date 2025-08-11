@@ -1,6 +1,13 @@
 {
-  "updated": 1754862489,
+  "updated": 1754879619,
   "items": [
+    {
+      "id": "35875822aebb",
+      "title": "歐洲正如何減少對中國稀土產品的依賴？",
+      "url": "https://www.bbc.com/zhongwen/articles/c14gklzrkmvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1754871087
+    },
     {
       "id": "a938173cf4a2",
       "title": "DeepSeek震撼市場之後是否改變了整個人工智能產業",
@@ -77,13 +84,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cglne94k69po/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1754612963
-    },
-    {
-      "id": "d5afa85e46ae",
-      "title": "美國對69國批量開徵調整後關稅  貿易體系重塑如何影響中國？",
-      "url": "https://www.bbc.com/zhongwen/articles/c620673z22ro/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1754571875
     },
     {
       "id": "b9d9cc3a9672",
@@ -267,5 +267,6 @@
       "source": "bbc.com",
       "published": 1751414864
     }
-  ]
+  ],
+  "build_id": 1754879619
 }
