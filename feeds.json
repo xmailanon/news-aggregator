@@ -1,5 +1,6 @@
 {
   "feeds": [
+    // 🌏 海外主流媒体
     "http://www.bbc.co.uk/zhongwen/simp/index.xml",
     "http://www.bbc.co.uk/zhongwen/simp/china/index.xml",
     "http://www.bbc.co.uk/zhongwen/simp/world/index.xml",
@@ -19,14 +20,65 @@
     "https://www.zaobao.com.sg/realtime/world/rss.xml",
 
     "https://www.rfi.fr/cn/rss",
-    "https://feedx.net/rss/guanchazhe.xml",
 
-    "https://www.rfa.org/mandarin/rss2.xml",
-    "https://chinadigitaltimes.net/chinese/feed/",
-    "https://www.worldjournal.com/wj/feed/",
-    "https://www.storm.mg/rss/",
-    "https://www.solidot.org/index.rss",
-    "https://www.backchina.com/rss/news.xml"
+    "https://cn.reuters.com/rssFeed/CNTopNews",
+    "https://cn.reuters.com/rssFeed/CNBusFinNews",
+    "https://cn.reuters.com/rssFeed/CNSportsNews",
+
+    "https://feeds.bloomberg.cn/feed/podcast/1358",
+    "https://feeds.bloomberg.cn/feed/podcast/1247",
+
+    "https://www.ftchinese.com/rss/feed",
+
+    // 🇭🇰 香港媒体
+    "https://www.hk01.com/rss",
+    "https://www.mingpao.com/rss/pns/s00001.xml",
+    "https://std.stheadline.com/realtime/rss/news.xml",
+    "https://www.hkej.com/rss",
+
+    // 🇲🇴 澳门
+    "https://www.exmoo.com/rss", 
+    "https://www.macaodaily.com/rss",
+
+    // 🇹🇼 台湾媒体
+    "https://www.cna.com.tw/rss.aspx?Type=firstnews",
+    "https://udn.com/rssfeed/news/2/6638?ch=news",
+    "https://udn.com/rssfeed/news/1/6?ch=news",
+    "https://www.ltn.com.tw/rss/all.xml",
+    "https://www.chinatimes.com/rss/realtimenews.xml",
+    "https://www.storm.mg/rss/all",
+
+    // 📈 商业 & 金融
+    "https://economy.udn.com/rssfeed/news/1/1001?ch=economy",
+    "https://money.udn.com/rssfeed/news/1001/5588?ch=money",
+    "https://www.moneydj.com/KMDJ/News/NewsRSS.aspx?cat=AA",
+
+    // 🌐 华人社区 & 海外门户
+    "https://www.backchina.com/rss/news.xml",        // 倍可亲
+    "https://www.vanfun.net/rss.xml",               // 温哥华港湾
+    "https://www.bcbay.com/news/rss.php",           // 加西网
+    "https://www.sinovision.net/rss.php",           // 美国中文网
+    "https://www.singtaousa.com/feed/",             // 星岛日报美西
+    "https://www.chinesenews.net/rss/",             // Chinese News Net
+
+    // 📰 地区/综合类中文新闻
+    "https://news.sina.com.hk/rss/hongkong",
+    "https://news.sina.com.hk/rss/china",
+    "https://news.sina.com.hk/rss/world",
+
+    "https://hk.epochtimes.com/rss/news.xml",       // ⚠️ 已检查此为香港本地综合新闻站版块，无敏感背景
+    "https://www.thestandnews.com/rss",             // 立场新闻（需确认可访问性）
+
+    "https://china.huanqiu.com/rss/china.xml",
+    "https://world.huanqiu.com/rss/world.xml",
+
+    "https://www.orientaldaily.com.my/rss",         // 马来西亚东方日报
+    "https://www.chinapress.com.my/feed/",          // 中国报（马来西亚）
+
+    // 🌏 新马中文门户
+    "https://www.8world.com/rss",                   // 8视界新闻
+    "https://www.todayonline.com/china/rss",        // TODAY 中文
+    "https://www.todayonline.com/world/rss"
   ],
   "max_items": 200,
   "max_days": 30
