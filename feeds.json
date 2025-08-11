@@ -1,13 +1,8 @@
 {
   "feeds": [
-    "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",       // BBC 中文（官方）
-    "https://rss.dw.com/rdf/rss-chi-all",                   // 德国之声中文（官方）
-    "https://www.voachinese.com/api/zyrmteqkmr",            // 美国之音中文：新闻总汇
-    "https://www.rfa.org/mandarin/rss2.xml",                // 自由亚洲电台：普通话
-    "https://www.rfi.fr/cn/rss",                            // 法国国际广播电台：中文 RSS 页面（其内含多条栏目）
-    "https://www1.ftchinese.com/channel/rss.html",          // FT中文网 RSS 页面（其内含多条栏目）
-    "https://feedx.net/rss/nytimes.xml",                    // 纽约时报中文（第三方镜像）
-    "https://feedx.net/rss/rfi.xml"                         // 法广（第三方镜像，做备份）
+    "http://www.bbc.co.uk/zhongwen/simp/index.xml",
+    "https://rss.dw.com/xml/podcast_radio_chi_all",
+    "https://www.voachinese.com/api/zyrmteqkmr"
   ],
-  "max_items": 300
+  "max_items": 200
 }
