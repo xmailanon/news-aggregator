@@ -1,6 +1,13 @@
 {
-  "updated": 1754926989,
+  "updated": 1754927975,
   "items": [
+    {
+      "id": "192726bded40",
+      "title": "工具機大廠遇台美關稅 40年最慘烈、面臨淘汰戰",
+      "url": "https://udn.com/news/story/124552/8932617",
+      "source": "udn.com",
+      "published": 1754927184
+    },
     {
       "id": "e321d765df53",
       "title": "川普：將派遣國民兵　進駐華府打擊犯罪",
@@ -9,8 +16,15 @@
       "published": 1754927132
     },
     {
+      "id": "4005ede6c515",
+      "title": "台機械業、工具機 對上日德低關稅衝擊大",
+      "url": "https://udn.com/news/story/124552/8932605",
+      "source": "udn.com",
+      "published": 1754927024
+    },
+    {
       "id": "37d3335d4743",
-      "title": "特朗普：接管华盛顿特区警队及清除无家可归者",
+      "title": "特朗普：为打击犯罪接管华盛顿特区警队及清除无家可归者",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250811-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%8E%A5%E7%AE%A1%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%89%B9%E5%8C%BA%E8%AD%A6%E9%98%9F%E5%8F%8A%E6%B8%85%E9%99%A4%E6%97%A0%E5%AE%B6%E5%8F%AF%E5%BD%92%E8%80%85",
       "source": "rfi.fr",
       "published": 1754926894
@@ -37,9 +51,9 @@
       "published": 1754925356
     },
     {
-      "id": "fa8e65e40b8b",
+      "id": "288b22f9a1c1",
       "title": "新聞幕後／關稅「疊加」周末炸鍋 府院推鄭上火線",
-      "url": "https://udn.com/news/story/6656/8932587",
+      "url": "https://udn.com/news/story/124552/8932587",
       "source": "udn.com",
       "published": 1754925214
     },
@@ -378,20 +392,6 @@
       "url": "https://udn.com/news/story/124552/8932113",
       "source": "udn.com",
       "published": 1754907851
-    },
-    {
-      "id": "26ee98d5baa6",
-      "title": "劉世芳要求李貞秀放棄外國籍才能遞補立委 黃國昌批劉：民進黨打手",
-      "url": "https://udn.com/news/story/6656/8932112",
-      "source": "udn.com",
-      "published": 1754907786
-    },
-    {
-      "id": "8407c6a30b14",
-      "title": "審計長人事案 賴總統提名陳瑞敏續任",
-      "url": "https://udn.com/news/story/6656/8932067",
-      "source": "udn.com",
-      "published": 1754906668
     },
     {
       "id": "44368f97d558",
@@ -1402,5 +1402,5 @@
       "published": 1752916260
     }
   ],
-  "build_id": 1754926989
+  "build_id": 1754927975
 }
