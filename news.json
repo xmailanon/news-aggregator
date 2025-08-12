@@ -1,17 +1,38 @@
 {
-  "updated": 1755031212,
+  "updated": 1755034394,
   "items": [
     {
-      "id": "40799bac37e2",
+      "id": "55b6f92c97aa",
+      "title": "首尔法院批准逮捕金建希 韩国史上首次前总统夫妇同遭羁押",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250812-%E9%A6%96%E5%B0%94%E6%B3%95%E9%99%A2%E6%89%B9%E5%87%86%E9%80%AE%E6%8D%95%E9%87%91%E5%BB%BA%E5%B8%8C-%E9%9F%A9%E5%9B%BD%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E5%89%8D%E6%80%BB%E7%BB%9F%E5%A4%AB%E5%A6%87%E5%90%8C%E9%81%AD%E7%BE%81%E6%8A%BC",
+      "source": "rfi.fr",
+      "published": 1755033306
+    },
+    {
+      "id": "5e2f33299b67",
+      "title": "川普與蒲亭會談　白宮：有助判斷如何終結俄烏戰爭",
+      "url": "https://money.udn.com/money/story/5599/8935531",
+      "source": "money.udn.com",
+      "published": 1755033153
+    },
+    {
+      "id": "fefb0d8b5157",
+      "title": "美通膨數據推升降息期望　美股收紅道瓊大漲近500點",
+      "url": "https://money.udn.com/money/story/123398/8935527",
+      "source": "money.udn.com",
+      "published": 1755032435
+    },
+    {
+      "id": "a8c92f07ef17",
       "title": "市場評估美俄元首會談影響　國際油價收低",
-      "url": "https://money.udn.com/money/story/10511/8935517",
+      "url": "https://money.udn.com/money/story/5599/8935517",
       "source": "money.udn.com",
       "published": 1755030990
     },
     {
-      "id": "d02413bfcc22",
+      "id": "72d134398f14",
       "title": "提告施壓聯準會降息？川普指控鮑爾不當管理裝修工程",
-      "url": "https://money.udn.com/money/story/5599/8935516",
+      "url": "https://money.udn.com/money/story/10511/8935516",
       "source": "money.udn.com",
       "published": 1755029895
     },
@@ -273,20 +294,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250812-%E6%B3%95%E5%AA%92-%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%83%9C%E4%BB%A3%E4%BB%B7%E6%89%93%E9%80%A0-%E6%B5%B7%E5%86%9B%E5%B7%A8%E5%85%BD-%EF%BC%8C%E6%8C%91%E6%88%98%E7%BE%8E%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1755014378
-    },
-    {
-      "id": "7d96325dad5f",
-      "title": "美前國務院顧問再撰文 質疑美國會對台支持 籲台應重新定義台灣",
-      "url": "https://money.udn.com/money/story/5599/8935422",
-      "source": "money.udn.com",
-      "published": 1755013876
-    },
-    {
-      "id": "5238b55e7bf2",
-      "title": "川普再施壓鮑爾降息 批聯準會整修案揚言提告",
-      "url": "https://money.udn.com/money/story/10511/8935390",
-      "source": "money.udn.com",
-      "published": 1755012633
     },
     {
       "id": "f81838c7cfae",
@@ -777,13 +784,6 @@
       "url": "https://www.dw.com/zh/德国政府：不能越过乌克兰谈和平/a-73597574?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1754910780
-    },
-    {
-      "id": "1750cc5f4b43",
-      "title": "刘建超“被失联” 王毅或成中国任期最长外长",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250811-%E5%88%98%E5%BB%BA%E8%B6%85-%E8%A2%AB%E5%A4%B1%E8%81%94-%E7%8E%8B%E6%AF%85%E6%88%96%E6%88%90%E4%B8%AD%E5%9B%BD%E4%BB%BB%E6%9C%9F%E6%9C%80%E9%95%BF%E5%A4%96%E9%95%BF",
-      "source": "rfi.fr",
-      "published": 1754909805
     },
     {
       "id": "efd730172efe",
@@ -1395,5 +1395,5 @@
       "published": 1752751620
     }
   ],
-  "build_id": 1755031212
+  "build_id": 1755034394
 }
