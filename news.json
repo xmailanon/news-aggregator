@@ -1,5 +1,5 @@
 {
-  "updated": 1755113274,
+  "updated": 1755114145,
   "items": [
     {
       "id": "eb21a9ee59bc",
@@ -170,6 +170,13 @@
       "published": 1755103151
     },
     {
+      "id": "5004d013764f",
+      "title": "核三重啟 總統表態不同意",
+      "url": "https://udn.com/news/story/124565/8938010",
+      "source": "udn.com",
+      "published": 1755103044
+    },
+    {
       "id": "42a351c47011",
       "title": "核三重啟即使公投通過 還有兩關",
       "url": "https://udn.com/news/story/124565/8938022",
@@ -226,9 +233,9 @@
       "published": 1755100800
     },
     {
-      "id": "7293bf567fc3",
-      "title": "政院今提特別條例修正案 綠黨團：努力10月底開始普發現金",
-      "url": "https://udn.com/news/story/6656/8938091",
+      "id": "fe25592d3642",
+      "title": "新聞眼／不甩刺耳忠言 賴總統路恐愈走愈窄",
+      "url": "https://udn.com/news/story/6656/8938087",
       "source": "udn.com",
       "published": 1755100800
     },
@@ -240,9 +247,9 @@
       "published": 1755100800
     },
     {
-      "id": "fe25592d3642",
-      "title": "新聞眼／不甩刺耳忠言 賴總統路恐愈走愈窄",
-      "url": "https://udn.com/news/story/6656/8938087",
+      "id": "7293bf567fc3",
+      "title": "政院今提特別條例修正案 綠黨團：努力10月底開始普發現金",
+      "url": "https://udn.com/news/story/6656/8938091",
       "source": "udn.com",
       "published": 1755100800
     },
@@ -308,13 +315,6 @@
       "url": "https://udn.com/news/story/6656/8938039",
       "source": "udn.com",
       "published": 1755099433
-    },
-    {
-      "id": "4e27cf9701a5",
-      "title": "「敦親睦鄰費」爭議 郭智輝反問：這叫做失言嗎？",
-      "url": "https://udn.com/news/story/124565/8938030",
-      "source": "udn.com",
-      "published": 1755099276
     },
     {
       "id": "ae6a1942744c",
@@ -1402,5 +1402,5 @@
       "published": 1752845520
     }
   ],
-  "build_id": 1755113274
+  "build_id": 1755114145
 }
