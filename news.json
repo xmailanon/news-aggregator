@@ -1,6 +1,27 @@
 {
-  "updated": 1755114145,
+  "updated": 1755117558,
   "items": [
+    {
+      "id": "ed045999b185",
+      "title": "塑膠減產條文遭刪　全球公約談判引爆多國反彈",
+      "url": "https://money.udn.com/money/story/5599/8938078",
+      "source": "money.udn.com",
+      "published": 1755116754
+    },
+    {
+      "id": "087898da6089",
+      "title": "川普：若普丁不同意結束俄烏戰爭　將面臨嚴重後果",
+      "url": "https://money.udn.com/money/story/5599/8938245",
+      "source": "money.udn.com",
+      "published": 1755114846
+    },
+    {
+      "id": "9f8fa1572207",
+      "title": "韩国总统李在明即将访美：韩媒恐将是高风险低回报的行程",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250813-%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8D%B3%E5%B0%86%E8%AE%BF%E7%BE%8E-%E9%9F%A9%E5%AA%92%E6%81%90%E5%B0%86%E6%98%AF%E9%AB%98%E9%A3%8E%E9%99%A9%E4%BD%8E%E5%9B%9E%E6%8A%A5%E7%9A%84%E8%A1%8C%E7%A8%8B",
+      "source": "rfi.fr",
+      "published": 1755114390
+    },
     {
       "id": "eb21a9ee59bc",
       "title": "供給遠高於需求 布蘭特原油 恐跌破60美元",
@@ -58,9 +79,9 @@
       "published": 1755111598
     },
     {
-      "id": "dd40e579ff95",
-      "title": "川普：與蒲亭峰會後　盼立刻加入澤倫斯基召開3方會議",
-      "url": "https://money.udn.com/money/story/10511/8938229",
+      "id": "e0e7e2d265b0",
+      "title": "川普：與普丁峰會後　盼立刻加入澤倫斯基召開3方會議",
+      "url": "https://money.udn.com/money/story/5599/8938229",
       "source": "money.udn.com",
       "published": 1755110167
     },
@@ -203,20 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/8938060",
       "source": "money.udn.com",
       "published": 1755101705
-    },
-    {
-      "id": "4fde58a655d9",
-      "title": "通膨數據鼓舞鴿派 市場對聯準會大手筆降息的押注升溫",
-      "url": "https://money.udn.com/money/story/5599/8935588",
-      "source": "money.udn.com",
-      "published": 1755101621
-    },
-    {
-      "id": "222787493083",
-      "title": "黃仁勳說服川普 業界受惠",
-      "url": "https://money.udn.com/money/story/5599/8938064",
-      "source": "money.udn.com",
-      "published": 1755101594
     },
     {
       "id": "23ca55675355",
@@ -602,13 +609,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250812-%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E5%8F%8C%E6%99%AE%E4%BC%9A-%E5%A6%82%E4%BD%95%E9%81%BF%E5%BC%80%E9%99%B7%E9%98%B1",
       "source": "rfi.fr",
       "published": 1755035745
-    },
-    {
-      "id": "8b233fb99570",
-      "title": "纽时：台湾志愿兵赴乌作战　训练营遭俄导弹轰炸",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250812-%E7%BA%BD%E6%97%B6-%E5%8F%B0%E6%B9%BE%E5%BF%97%E6%84%BF%E5%85%B5%E8%B5%B4%E4%B9%8C%E4%BD%9C%E6%88%98-%E8%AE%AD%E7%BB%83%E8%90%A5%E9%81%AD%E4%BF%84%E5%AF%BC%E5%BC%B9%E8%BD%B0%E7%82%B8",
-      "source": "rfi.fr",
-      "published": 1755034746
     },
     {
       "id": "fb15b4de330c",
@@ -1402,5 +1402,5 @@
       "published": 1752845520
     }
   ],
-  "build_id": 1755114145
+  "build_id": 1755117558
 }
