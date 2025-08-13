@@ -1,33 +1,327 @@
 {
-  "updated": 1755041543,
+  "updated": 1755056478,
   "items": [
     {
-      "id": "8c6ecd8b5c95",
-      "title": "台積電ADR收漲 日月光聯電勁揚逾1%",
-      "url": "https://money.udn.com/money/story/123398/8935602",
-      "source": "money.udn.com",
-      "published": 1755041008
+      "id": "1a993d3951cc",
+      "title": "挨批垃圾部長 郭智輝表示個人看法無需評論",
+      "url": "https://udn.com/news/story/7314/8936172",
+      "source": "udn.com",
+      "published": 1755055384
     },
     {
-      "id": "f5f04953dc80",
-      "title": "輝達售中晶片15%收益上繳美政府  可能擴及其他公司",
-      "url": "https://money.udn.com/money/story/5599/8935600",
-      "source": "money.udn.com",
-      "published": 1755040892
+      "id": "c88d0b0b3578",
+      "title": "恆春居民因敦親睦鄰費才支持核三   郭智輝：這是失言嗎？",
+      "url": "https://udn.com/news/story/6656/8936156",
+      "source": "udn.com",
+      "published": 1755055125
     },
     {
-      "id": "d3e43b1a95d8",
-      "title": "南韓法院批准拘捕前一夫人金建希 憲政史上首見前總統夫婦同時遭押",
-      "url": "https://money.udn.com/money/story/5599/8935599",
+      "id": "327a534c8527",
+      "title": "輝達撐腰的CoreWeave盤後暴跌10% 營收超預期但虧損擴大",
+      "url": "https://money.udn.com/money/story/123398/8936154",
       "source": "money.udn.com",
-      "published": 1755040890
+      "published": 1755055109
     },
     {
-      "id": "35ab111b62aa",
-      "title": "美股收盤／標普500與那指再創新高 市場樂觀預期9月會降息",
-      "url": "https://money.udn.com/money/story/123398/8935595",
+      "id": "d385a52fdcd1",
+      "title": "BBC揭露：北韓勞工在俄羅斯如奴隸般工作 每日18小時、全年363天",
+      "url": "https://money.udn.com/money/story/5599/8936142",
       "source": "money.udn.com",
-      "published": 1755040271
+      "published": 1755054750
+    },
+    {
+      "id": "b6132184ff2d",
+      "title": "特朗普即將會見普京  烏克蘭拒絕割讓頓巴斯的提議",
+      "url": "https://www.bbc.com/zhongwen/articles/c98ldp67lgmo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1755054737
+    },
+    {
+      "id": "3385cafc5a8a",
+      "title": "影／大罷免嚴重撕裂台灣社會 桃園副市長蘇俊賓：沒有人是贏家",
+      "url": "https://udn.com/news/story/124323/8936102",
+      "source": "udn.com",
+      "published": 1755054521
+    },
+    {
+      "id": "fba2a07bd410",
+      "title": "郭智輝扯核三睦鄰費炸鍋 她轟：最後稻草還要根才下台？",
+      "url": "https://udn.com/news/story/124565/8936130",
+      "source": "udn.com",
+      "published": 1755054505
+    },
+    {
+      "id": "3b19187a6a8d",
+      "title": "楊柳颱風侵台前夕 14共機6共艦出海擾台",
+      "url": "https://udn.com/news/story/10930/8936073",
+      "source": "udn.com",
+      "published": 1755053758
+    },
+    {
+      "id": "3ff9c87319f6",
+      "title": "郭智輝談核三又失言 吳思瑤無奈：我不是經濟部發言人",
+      "url": "https://udn.com/news/story/124565/8936072",
+      "source": "udn.com",
+      "published": 1755053757
+    },
+    {
+      "id": "3b84112054cd",
+      "title": "核三公投說明會第四場 反核少女吳亞昕：核廢無解，反對核三重啟",
+      "url": "https://udn.com/news/story/124565/8936074",
+      "source": "udn.com",
+      "published": 1755053756
+    },
+    {
+      "id": "3404a05deb0e",
+      "title": "影／罷免說明會領銜人嗆江啟臣：選區建設做不好憑什麼選市長",
+      "url": "https://udn.com/news/story/124323/8936076",
+      "source": "udn.com",
+      "published": 1755053756
+    },
+    {
+      "id": "8c07ddaa9eed",
+      "title": "美俄峰會前 俄軍攻破烏東重要前線！烏軍官指戰況「一片混亂」",
+      "url": "https://money.udn.com/money/story/5599/8936060",
+      "source": "money.udn.com",
+      "published": 1755053635
+    },
+    {
+      "id": "b02c30f1f91a",
+      "title": "盧秀燕不選黨魁朱立倫再扛？ 李乾龍：要找民意接受的人",
+      "url": "https://udn.com/news/story/6656/8936059",
+      "source": "udn.com",
+      "published": 1755053609
+    },
+    {
+      "id": "64dd4a6da585",
+      "title": "中印關係逐漸回暖  據報最快9月恢復直航航班",
+      "url": "https://money.udn.com/money/story/5599/8936028",
+      "source": "money.udn.com",
+      "published": 1755053113
+    },
+    {
+      "id": "4865dfa6c6e1",
+      "title": "以軍擴大加薩行動　尼坦雅胡再提「允許」巴人離開",
+      "url": "https://money.udn.com/money/story/5599/8936029",
+      "source": "money.udn.com",
+      "published": 1755053110
+    },
+    {
+      "id": "7ee624e0273a",
+      "title": "影／7成恆春人愛核電？ 莊瑞雄：不要把屏東居民講得像白癡",
+      "url": "https://udn.com/news/story/124565/8936020",
+      "source": "udn.com",
+      "published": 1755053081
+    },
+    {
+      "id": "4b151b7f1ade",
+      "title": "指盧秀燕曾表達選黨主席強烈意願 李乾龍：講好了怎又不選？",
+      "url": "https://udn.com/news/story/6656/8936004",
+      "source": "udn.com",
+      "published": 1755052780
+    },
+    {
+      "id": "59fac9e5915a",
+      "title": "川普還得再找財源？美7月關稅收入創高 但堵不住愈挖愈大的預算窟窿",
+      "url": "https://money.udn.com/money/story/5599/8935965",
+      "source": "money.udn.com",
+      "published": 1755052363
+    },
+    {
+      "id": "7d88e87a3041",
+      "title": "美關稅疊加 侯友宜轟中央：不要口號、擠壓式說明",
+      "url": "https://udn.com/news/story/124552/8935941",
+      "source": "udn.com",
+      "published": 1755051886
+    },
+    {
+      "id": "abd147250057",
+      "title": "影／張善政再開砲 點名一問題未解「賴政府民調會再掉」",
+      "url": "https://udn.com/news/story/6656/8935943",
+      "source": "udn.com",
+      "published": 1755051885
+    },
+    {
+      "id": "07ca2778110d",
+      "title": "美國成為「加密首都」？江森：加密危機山雨欲來 美國將嚐苦果",
+      "url": "https://money.udn.com/money/story/122381/8935896",
+      "source": "money.udn.com",
+      "published": 1755051750
+    },
+    {
+      "id": "19da7d9d43c3",
+      "title": "民眾黨不分區立委將大換血 綠白能否重建關係變數大",
+      "url": "https://udn.com/news/story/6656/8935922",
+      "source": "udn.com",
+      "published": 1755051322
+    },
+    {
+      "id": "e097e6159f93",
+      "title": "美發布人權報告批西歐網路管制　淡化以色列問題",
+      "url": "https://money.udn.com/money/story/10511/8935912",
+      "source": "money.udn.com",
+      "published": 1755051152
+    },
+    {
+      "id": "ddcb323d4e51",
+      "title": "白宮稱川普會蒲亭重在傾聽　降低俄烏停火協議期望",
+      "url": "https://money.udn.com/money/story/10511/8935910",
+      "source": "money.udn.com",
+      "published": 1755051152
+    },
+    {
+      "id": "b2874d39e6ef",
+      "title": "范斯訪英格蘭鄉村度假　維安擾民當地人抗議",
+      "url": "https://money.udn.com/money/story/10511/8935909",
+      "source": "money.udn.com",
+      "published": 1755051152
+    },
+    {
+      "id": "b34421b67e9a",
+      "title": "影／黃國昌選新北衝擊李四川？ 蔣萬安開金嗓：川伯在哪都會攬牢牢",
+      "url": "https://udn.com/news/story/6656/8935855",
+      "source": "udn.com",
+      "published": 1755050345
+    },
+    {
+      "id": "352d5eea9d2c",
+      "title": "黃國昌昨拜會蔣萬安何時到新北？ 侯友宜一句揭態度",
+      "url": "https://udn.com/news/story/6656/8935852",
+      "source": "udn.com",
+      "published": 1755050265
+    },
+    {
+      "id": "3b4e726ee9d9",
+      "title": "郭智輝酸核三睦鄰費周春米也不挺 莊瑞雄：政府要有憐憫心",
+      "url": "https://udn.com/news/story/124565/8935841",
+      "source": "udn.com",
+      "published": 1755050081
+    },
+    {
+      "id": "4cb5a4646a0c",
+      "title": "影／卓榮泰民調低也不換？ 吳宗憲：請總統把人民放在台獨理念之前",
+      "url": "https://udn.com/news/story/6656/8935835",
+      "source": "udn.com",
+      "published": 1755049961
+    },
+    {
+      "id": "f64d0d295685",
+      "title": "6架次共機越中線擾台 國軍嚴密監控應處",
+      "url": "https://udn.com/news/story/10930/8935788",
+      "source": "udn.com",
+      "published": 1755049845
+    },
+    {
+      "id": "97f896f6ccc4",
+      "title": "日本投降80週年：這群香港老人堅持向日本索賠軍票",
+      "url": "https://www.bbc.com/zhongwen/articles/c0e9978ree7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1755049313
+    },
+    {
+      "id": "fc3a6db300dd",
+      "title": "美中關稅休兵再延90天 美財長：2至3個月內 再啟經貿談判",
+      "url": "https://money.udn.com/money/story/5599/8935816",
+      "source": "money.udn.com",
+      "published": 1755049307
+    },
+    {
+      "id": "d0a21f70ed99",
+      "title": "川普下令驅離華府遊民　白宮：不配合恐遭監禁",
+      "url": "https://money.udn.com/money/story/10511/8935810",
+      "source": "money.udn.com",
+      "published": 1755049002
+    },
+    {
+      "id": "dd8dde92d2fd",
+      "title": "路透：北京當局約談騰訊、字節跳動等陸企 警告慎購輝達H20晶片",
+      "url": "https://money.udn.com/money/story/5599/8935807",
+      "source": "money.udn.com",
+      "published": 1755048990
+    },
+    {
+      "id": "c51d531508a2",
+      "title": "民眾黨2年條款…王安祥明年接棒不分區立委 黃珊珊讚即戰力",
+      "url": "https://udn.com/news/story/6656/8935804",
+      "source": "udn.com",
+      "published": 1755048963
+    },
+    {
+      "id": "333fe1315089",
+      "title": "中国海警船与解放军军舰相撞，菲律宾批“危险动作”",
+      "url": "https://cn.nytimes.com/asia-pacific/20250813/south-china-sea-chinese-navy-philippines-collision/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1755048823
+    },
+    {
+      "id": "82a5e809f38e",
+      "title": "歐洲熱浪助長野火　多國傳死傷與高溫警報",
+      "url": "https://money.udn.com/money/story/5599/8935790",
+      "source": "money.udn.com",
+      "published": 1755048732
+    },
+    {
+      "id": "26c539949bb2",
+      "title": "會「講笑話」的公共電話佇立華府郊區　大人小孩都愛",
+      "url": "https://money.udn.com/money/story/5599/8935787",
+      "source": "money.udn.com",
+      "published": 1755048732
+    },
+    {
+      "id": "d3dc8e1ea7ca",
+      "title": "從廢墟遷往廢墟？以色列被曝與「東非這國」洽談安置加薩人",
+      "url": "https://money.udn.com/money/story/5599/8935792",
+      "source": "money.udn.com",
+      "published": 1755048722
+    },
+    {
+      "id": "f2ff4f2e617b",
+      "title": "跟進美股收紅 日經首度漲破43000點",
+      "url": "https://money.udn.com/money/story/5599/8935764",
+      "source": "money.udn.com",
+      "published": 1755048077
+    },
+    {
+      "id": "2196fef59431",
+      "title": "美媒：關稅戰嚴峻  黃仁勳殺入華府為科技業解套",
+      "url": "https://money.udn.com/money/story/10511/8935738",
+      "source": "money.udn.com",
+      "published": 1755047558
+    },
+    {
+      "id": "443d4f4435f9",
+      "title": "柏林史普里河禁止游泳　民眾跳河爭取解除百年禁泳令",
+      "url": "https://money.udn.com/money/story/5599/8935724",
+      "source": "money.udn.com",
+      "published": 1755047202
+    },
+    {
+      "id": "30909ddd0fe8",
+      "title": "UFC主席：明年國慶白宮將辦格鬥賽　慶建國250週年",
+      "url": "https://money.udn.com/money/story/10511/8935706",
+      "source": "money.udn.com",
+      "published": 1755046841
+    },
+    {
+      "id": "2861d946bb1e",
+      "title": "客座評論：台灣失去川普了嗎？癥結在於難打入MAGA核心",
+      "url": "https://www.dw.com/zh/客座評論：台灣失去川普了嗎？癥結在於難打入maga核心/a-73617906?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1755046740
+    },
+    {
+      "id": "a522ce2defbb",
+      "title": "特朗普为与中国达成贸易协议会作出哪些让步",
+      "url": "https://cn.nytimes.com/business/20250813/trump-china-trade-deal-chips/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1755044785
+    },
+    {
+      "id": "61641bd3cb21",
+      "title": "朝鮮勞工：我們被送往俄羅斯從事「奴隸般的」工作",
+      "url": "https://www.bbc.com/zhongwen/articles/czerwg5yl2eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1755044423
     },
     {
       "id": "5a21667607db",
@@ -35,13 +329,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250812-%E9%A9%AC%E5%85%8B%E9%BE%99%E6%89%93%E7%A0%B4%E7%A6%81%E5%BF%8C%EF%BC%8C%E6%89%BF%E8%AE%A4%E6%B3%95%E5%9B%BD%E6%9B%BE%E5%9C%A8%E5%96%80%E9%BA%A6%E9%9A%86%E5%8F%91%E5%8A%A8-%E6%88%98%E4%BA%89",
       "source": "rfi.fr",
       "published": 1755039181
-    },
-    {
-      "id": "295050a906f1",
-      "title": "美前國務院顧問再撰文 質疑美國會對台支持 籲台應重新定義台灣",
-      "url": "https://udn.com/news/story/6656/8935422",
-      "source": "udn.com",
-      "published": 1755039060
     },
     {
       "id": "054463d3620f",
@@ -58,13 +345,6 @@
       "published": 1755038266
     },
     {
-      "id": "66debdd17dc5",
-      "title": "中國宣布與帕維爾斷絕往來　捷克總統府：未改變現況",
-      "url": "https://money.udn.com/money/story/5599/8935577",
-      "source": "money.udn.com",
-      "published": 1755038204
-    },
-    {
       "id": "03ddbb691693",
       "title": "国民警卫队进驻华盛顿特区引发抗议",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250812-%E5%9B%BD%E6%B0%91%E8%AD%A6%E5%8D%AB%E9%98%9F%E8%BF%9B%E9%A9%BB%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%89%B9%E5%8C%BA%E5%BC%95%E5%8F%91%E6%8A%97%E8%AE%AE",
@@ -77,13 +357,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250812-%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E5%8F%8C%E6%99%AE%E4%BC%9A-%E5%A6%82%E4%BD%95%E9%81%BF%E5%BC%80%E9%99%B7%E9%98%B1",
       "source": "rfi.fr",
       "published": 1755035745
-    },
-    {
-      "id": "b5b7e20c6696",
-      "title": "大罷免第二波 盧秀燕的823戰役牽一髮動全身",
-      "url": "https://udn.com/news/story/6656/8935432",
-      "source": "udn.com",
-      "published": 1755035400
     },
     {
       "id": "8b233fb99570",
@@ -126,258 +399,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250812-%E9%A6%96%E5%B0%94%E6%B3%95%E9%99%A2%E6%89%B9%E5%87%86%E9%80%AE%E6%8D%95%E9%87%91%E5%BB%BA%E5%B8%8C-%E9%9F%A9%E5%9B%BD%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E5%89%8D%E6%80%BB%E7%BB%9F%E5%A4%AB%E5%A6%87%E5%90%8C%E9%81%AD%E7%BE%81%E6%8A%BC",
       "source": "rfi.fr",
       "published": 1755033306
-    },
-    {
-      "id": "5e2f33299b67",
-      "title": "川普與蒲亭會談　白宮：有助判斷如何終結俄烏戰爭",
-      "url": "https://money.udn.com/money/story/5599/8935531",
-      "source": "money.udn.com",
-      "published": 1755033153
-    },
-    {
-      "id": "fefb0d8b5157",
-      "title": "美通膨數據推升降息期望　美股收紅道瓊大漲近500點",
-      "url": "https://money.udn.com/money/story/123398/8935527",
-      "source": "money.udn.com",
-      "published": 1755032435
-    },
-    {
-      "id": "a8c92f07ef17",
-      "title": "市場評估美俄元首會談影響　國際油價收低",
-      "url": "https://money.udn.com/money/story/5599/8935517",
-      "source": "money.udn.com",
-      "published": 1755030990
-    },
-    {
-      "id": "72d134398f14",
-      "title": "提告施壓聯準會降息？川普指控鮑爾不當管理裝修工程",
-      "url": "https://money.udn.com/money/story/10511/8935516",
-      "source": "money.udn.com",
-      "published": 1755029895
-    },
-    {
-      "id": "c2d5d2bb4833",
-      "title": "韓媒：尹錫悅夫人被捕　韓國前總統伉儷首次同遭羈押",
-      "url": "https://money.udn.com/money/story/5599/8935515",
-      "source": "money.udn.com",
-      "published": 1755029553
-    },
-    {
-      "id": "57da02029563",
-      "title": "川普政府目標清除華府遊民：送收容所或監獄",
-      "url": "https://money.udn.com/money/story/5599/8935514",
-      "source": "money.udn.com",
-      "published": 1755029553
-    },
-    {
-      "id": "6982f16f237a",
-      "title": "俄軍突推進深入烏東　澤倫斯基：很快會消滅他們",
-      "url": "https://money.udn.com/money/story/5599/8935500",
-      "source": "money.udn.com",
-      "published": 1755026010
-    },
-    {
-      "id": "1085fd2fff97",
-      "title": "「雙普會」周五登場 白宮：這是一次聆聽的行程",
-      "url": "https://money.udn.com/money/story/5599/8935501",
-      "source": "money.udn.com",
-      "published": 1755026008
-    },
-    {
-      "id": "cf05714075c7",
-      "title": "美中關稅戰再休兵至11月10日 為10月川習會鋪路",
-      "url": "https://money.udn.com/money/story/5599/8935289",
-      "source": "money.udn.com",
-      "published": 1755025798
-    },
-    {
-      "id": "553a64160b0a",
-      "title": "美聯邦政府介入維持華府治安 白宮不排除長於30天",
-      "url": "https://money.udn.com/money/story/5599/8935496",
-      "source": "money.udn.com",
-      "published": 1755024869
-    },
-    {
-      "id": "3cf18372236e",
-      "title": "輝達降規版晶片銷陸 川普考慮大鬆綁",
-      "url": "https://money.udn.com/money/story/5599/8935266",
-      "source": "money.udn.com",
-      "published": 1755022961
-    },
-    {
-      "id": "dbc8e0bf9b8e",
-      "title": "反罷免操到傷身！游顥凌晨血尿就醫  喊停掃街全力防颱",
-      "url": "https://udn.com/news/story/124323/8935494",
-      "source": "udn.com",
-      "published": 1755022925
-    },
-    {
-      "id": "7d0c1c03e4e9",
-      "title": "烏克蘭擬上調男性禁出境年齡至滿22歲　提高海外升學",
-      "url": "https://money.udn.com/money/story/5599/8935491",
-      "source": "money.udn.com",
-      "published": 1755022410
-    },
-    {
-      "id": "fc5e0e323bbd",
-      "title": "美7月 CPI 漲幅低於預期 市場研判 Fed 9月降息",
-      "url": "https://money.udn.com/money/story/5599/8935295",
-      "source": "money.udn.com",
-      "published": 1755020328
-    },
-    {
-      "id": "3ebbbd4e215d",
-      "title": "1分鐘看世界／水母堵住冷卻設備… 法國葛拉夫林核電廠停止運轉",
-      "url": "https://money.udn.com/money/story/5599/8935339",
-      "source": "money.udn.com",
-      "published": 1755020166
-    },
-    {
-      "id": "410ea137da79",
-      "title": "挪威主權基金 績效閃耀",
-      "url": "https://money.udn.com/money/story/5599/8935294",
-      "source": "money.udn.com",
-      "published": 1755020078
-    },
-    {
-      "id": "b96056bfb94f",
-      "title": "為風災道歉 卓揆暗示內閣將改組「必要時 處理重要人事」",
-      "url": "https://udn.com/news/story/6656/8935401",
-      "source": "udn.com",
-      "published": 1755015665
-    },
-    {
-      "id": "7a2ff8541c71",
-      "title": "因應關稅衝擊 工總促政府加大產業紓困",
-      "url": "https://udn.com/news/story/124552/8935367",
-      "source": "udn.com",
-      "published": 1755015549
-    },
-    {
-      "id": "70be067b319e",
-      "title": "卓揆：台美關稅談判最後階段會說明 在野批擠牙膏",
-      "url": "https://udn.com/news/story/124552/8935373",
-      "source": "udn.com",
-      "published": 1755015506
-    },
-    {
-      "id": "54c76fdc4c95",
-      "title": "卷證資料流出？ 林岱樺：暗黑勢力介入 戰到底",
-      "url": "https://udn.com/news/story/6656/8935414",
-      "source": "udn.com",
-      "published": 1755015230
-    },
-    {
-      "id": "52f3ca493c47",
-      "title": "黃國昌拜會 蔣萬安巧提李四川",
-      "url": "https://udn.com/news/story/6656/8935416",
-      "source": "udn.com",
-      "published": 1755015104
-    },
-    {
-      "id": "1b6e0aac422b",
-      "title": "劉世芳發言惹議 卓揆：以中華民國憲法為兩岸共同依據",
-      "url": "https://udn.com/news/story/6656/8935420",
-      "source": "udn.com",
-      "published": 1755015066
-    },
-    {
-      "id": "c2bfc281947f",
-      "title": "普發一萬 卓揆：十月底發完有困難",
-      "url": "https://udn.com/news/story/6656/8935424",
-      "source": "udn.com",
-      "published": 1755015000
-    },
-    {
-      "id": "03b5bbc0f4f8",
-      "title": "相對論／盧秀燕：因為桃機牆 才會結緣 方文山：我媽台中人 都是緣分",
-      "url": "https://udn.com/news/story/7314/8935319",
-      "source": "udn.com",
-      "published": 1755014549
-    },
-    {
-      "id": "ec93b1b2e9ed",
-      "title": "相對論／盧秀燕vs.方文山 聊人生酸甜苦澀",
-      "url": "https://udn.com/news/story/7314/8935357",
-      "source": "udn.com",
-      "published": 1755014549
-    },
-    {
-      "id": "e1b2341872bc",
-      "title": "相對論／盧秀燕伸張正義 改革性在血液裡 方文山書寫歌詞 服務別人的情感",
-      "url": "https://udn.com/news/story/7314/8935355",
-      "source": "udn.com",
-      "published": 1755014549
-    },
-    {
-      "id": "40cefd7864df",
-      "title": "相對論／方文山：分手也好 靠想像力寫情歌 盧秀燕：感謝失戀 才遇到現在老公",
-      "url": "https://udn.com/news/story/7314/8935405",
-      "source": "udn.com",
-      "published": 1755014546
-    },
-    {
-      "id": "13f28c7d98e7",
-      "title": "恒大清盘人18个月仅追回2.55亿美元资产",
-      "url": "https://www.ftchinese.com/story/001107299",
-      "source": "ftchinese.com",
-      "published": 1755014400
-    },
-    {
-      "id": "af55536e07c9",
-      "title": "中国科技公司被要求解释订购英伟达芯片理由",
-      "url": "https://www.ftchinese.com/story/001107298",
-      "source": "ftchinese.com",
-      "published": 1755014400
-    },
-    {
-      "id": "1219035eeaca",
-      "title": "中国如何扭转外商投资持续下降趋势？",
-      "url": "https://www.ftchinese.com/story/001107280",
-      "source": "ftchinese.com",
-      "published": 1755014400
-    },
-    {
-      "id": "48b5ffc59860",
-      "title": "閣揆難換…局部改組機率大 郭智輝、邱泰源、鄭英耀爭議多遭點名",
-      "url": "https://udn.com/news/story/6656/8935365",
-      "source": "udn.com",
-      "published": 1755014400
-    },
-    {
-      "id": "ed0b7e984bc5",
-      "title": "爽約南韓官員挨轟「傲慢無禮」 林明昕：對方諒解又做不同反應",
-      "url": "https://udn.com/news/story/6656/8935368",
-      "source": "udn.com",
-      "published": 1755014400
-    },
-    {
-      "id": "ac75f71f7347",
-      "title": "國安團隊傳異動 趙怡翔、李淳 可能進國安會",
-      "url": "https://udn.com/news/story/6656/8935384",
-      "source": "udn.com",
-      "published": 1755014400
-    },
-    {
-      "id": "f84c16685b88",
-      "title": "新聞眼／當家鬧事陷困 局部改組難止血",
-      "url": "https://udn.com/news/story/6656/8935348",
-      "source": "udn.com",
-      "published": 1755014400
-    },
-    {
-      "id": "ff908a01c302",
-      "title": "外交失禮 龔中誠：要多跑幾趟化解",
-      "url": "https://udn.com/news/story/6656/8935372",
-      "source": "udn.com",
-      "published": 1755014400
-    },
-    {
-      "id": "d0fe2b744350",
-      "title": "從讀賣、產經到朝日新聞 小笠原：賴總統失去日本輿論支持",
-      "url": "https://udn.com/news/story/6656/8935375",
-      "source": "udn.com",
-      "published": 1755014400
     },
     {
       "id": "f2a9c1a1b27a",
@@ -667,104 +688,6 @@
       "published": 1754928766
     },
     {
-      "id": "4eabdbea013a",
-      "title": "国民待遇——解决养老金断崖危机之道",
-      "url": "https://www.ftchinese.com/story/001107286",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "fe90bf40f99f",
-      "title": "“动态工资”把工作变成赌博",
-      "url": "https://www.ftchinese.com/story/001107297",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "97e2e9e67a86",
-      "title": "斯堪尼亚在华工厂生产的一半卡车将用于出口",
-      "url": "https://www.ftchinese.com/story/001107296",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "bf6e5d219de7",
-      "title": "特朗普的芯片收入分成安排开创了危险先例",
-      "url": "https://www.ftchinese.com/story/001107293",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "0dd6072a7492",
-      "title": "汇丰73%的香港商业地产贷款标记为有风险",
-      "url": "https://www.ftchinese.com/story/001107294",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "fa57b832e0f0",
-      "title": "Lex专栏：特朗普出口关税对英伟达来说是划算的",
-      "url": "https://www.ftchinese.com/story/001107291",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "c8dc556c3c95",
-      "title": "胡里奥•蒙特西诺斯：美国资本“走”，欧洲资本“来”",
-      "url": "https://www.ftchinese.com/story/001107289",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "e21a18d840ff",
-      "title": "季度业绩平平无奇 大健云仓为何急升？",
-      "url": "https://www.ftchinese.com/story/001107288",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "5c5ae9a8e09f",
-      "title": "拿下日本收单牌照后 移卡能否输出“中国模式”？",
-      "url": "https://www.ftchinese.com/story/001107287",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "ee3d1fcc1947",
-      "title": "特朗普将对华贸易休战再延长90天",
-      "url": "https://www.ftchinese.com/story/001107285",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "9f649849a98c",
-      "title": "中国对英伟达H20芯片不放心的背后",
-      "url": "https://www.ftchinese.com/story/001107284",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "c1d303ed9c18",
-      "title": "从“最美日本庭园”看企业家精神",
-      "url": "https://www.ftchinese.com/story/001107278",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "5d2fb645e9ec",
-      "title": "债券收益征税，市场何去何从？",
-      "url": "https://www.ftchinese.com/story/001107277",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
-      "id": "8fee64800c62",
-      "title": "哥伦比亚总统参选人遇刺两个月后去世",
-      "url": "https://www.ftchinese.com/story/001107283",
-      "source": "ftchinese.com",
-      "published": 1754928000
-    },
-    {
       "id": "ecfb349eb582",
       "title": "德语媒体：在稀土领域，欧洲正在丧失主权",
       "url": "https://www.dw.com/zh/德语媒体：在稀土领域，欧洲正在丧失主权/a-73603836?maca=chi-rss-chi-all-1127-rdf",
@@ -849,13 +772,6 @@
       "published": 1754894287
     },
     {
-      "id": "4763c11e3fb3",
-      "title": "特朗普要求無家可歸者「立即」搬離華盛頓特區",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yll4ek474o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1754889852
-    },
-    {
       "id": "90d077eef3ec",
       "title": "非洲發現的最大火星隕石在紐約拍出高價  引發爭議",
       "url": "https://www.bbc.com/zhongwen/articles/c5yk019y14po/trad?at_medium=RSS&at_campaign=rss",
@@ -912,27 +828,6 @@
       "published": 1754850242
     },
     {
-      "id": "5d0f0993f561",
-      "title": "Manus与Benchmark：一项同时令中美不满的AI交易",
-      "url": "https://www.ftchinese.com/story/001107282",
-      "source": "ftchinese.com",
-      "published": 1754841600
-    },
-    {
-      "id": "9994680e2832",
-      "title": "英伟达与AMD将向美国政府上缴在华芯片销售收入的15%",
-      "url": "https://www.ftchinese.com/story/001107281",
-      "source": "ftchinese.com",
-      "published": 1754841600
-    },
-    {
-      "id": "5b1335f40265",
-      "title": "CEO被特朗普要求辞职，英特尔能否顶住压力？",
-      "url": "https://www.ftchinese.com/story/001107279",
-      "source": "ftchinese.com",
-      "published": 1754841600
-    },
-    {
       "id": "30b9541d307b",
       "title": "墙外文摘：“好的性”与“坏的性”——国家的情欲审查",
       "url": "https://www.dw.com/zh/墙外文摘：-好的性-与-坏的性-国家的情欲审查/a-73592050?maca=chi-rss-chi-all-1127-rdf",
@@ -945,20 +840,6 @@
       "url": "https://www.dw.com/zh/俄罗斯商用飞机深陷制造困境，工业濒临衰退边缘/a-73575288?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1754810220
-    },
-    {
-      "id": "a938173cf4a2",
-      "title": "DeepSeek震撼市場之後是否改變了整個人工智能產業",
-      "url": "https://www.bbc.com/zhongwen/articles/cy7ynlj4r35o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1754806151
-    },
-    {
-      "id": "486696fddade",
-      "title": "以色列「接管加沙城」： 內塔尼亞胡的險棋和百萬巴勒斯坦人的噩夢",
-      "url": "https://www.bbc.com/zhongwen/articles/cj6y1j76343o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1754802051
     },
     {
       "id": "196ec81c0ee0",
@@ -1129,13 +1010,6 @@
       "published": 1754539302
     },
     {
-      "id": "913d1bf57a9b",
-      "title": "遏制中国同盟破裂？特朗普为何向印度“宣战”",
-      "url": "https://cn.nytimes.com/business/20250807/india-china-trump-tariffs/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1754537994
-    },
-    {
       "id": "731b74feab66",
       "title": "中国7月出口激增超预期，主要运往美国以外地区",
       "url": "https://cn.nytimes.com/business/20250808/china-tariffs-exports-imports/?utm_source=RSS",
@@ -1155,13 +1029,6 @@
       "url": "https://cn.nytimes.com/china/20250807/china-artificial-intelligence-information-warfare/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1754507169
-    },
-    {
-      "id": "8b477374cb6d",
-      "title": "巴基斯坦再现“荣誉处决”，女性因婚外情被枪杀引发抗议",
-      "url": "https://cn.nytimes.com/world/20250807/pakistan-honor-killing-gender-violence/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1754506111
     },
     {
       "id": "b05e176ebfc9",
@@ -1395,5 +1262,5 @@
       "published": 1752751620
     }
   ],
-  "build_id": 1755041543
+  "build_id": 1755056478
 }
