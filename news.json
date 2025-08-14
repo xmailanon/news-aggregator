@@ -1,6 +1,20 @@
 {
-  "updated": 1755204003,
+  "updated": 1755207176,
   "items": [
+    {
+      "id": "200b91c6cae9",
+      "title": "印度克什米爾突發暴雨  釀46死逾200人失蹤",
+      "url": "https://money.udn.com/money/story/5599/8940705",
+      "source": "money.udn.com",
+      "published": 1755205580
+    },
+    {
+      "id": "a00cb84b6e81",
+      "title": "乌克兰战争：默茨成功地让欧洲团结到一起",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250814-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89-%E9%BB%98%E8%8C%A8%E6%88%90%E5%8A%9F%E5%9C%B0%E8%AE%A9%E6%AC%A7%E6%B4%B2%E5%9B%A2%E7%BB%93%E5%88%B0%E4%B8%80%E8%B5%B7",
+      "source": "rfi.fr",
+      "published": 1755204050
+    },
     {
       "id": "8c2f1d717a44",
       "title": "市場關注川蒲會及美國降息前景　油價大漲",
@@ -273,13 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/8940408",
       "source": "money.udn.com",
       "published": 1755182129
-    },
-    {
-      "id": "9b287f5e69a5",
-      "title": "克宮：雙普會沒有計畫簽署任何文件",
-      "url": "https://money.udn.com/money/story/5599/8940403",
-      "source": "money.udn.com",
-      "published": 1755182087
     },
     {
       "id": "7d95f4b3c973",
@@ -588,13 +595,6 @@
       "url": "https://cn.nytimes.com/technology/20250814/coding-ai-jobs-students/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1755116946
-    },
-    {
-      "id": "9f8fa1572207",
-      "title": "韩国总统李在明即将访美：韩媒称恐将是高风险低回报的行程",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250813-%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8D%B3%E5%B0%86%E8%AE%BF%E7%BE%8E-%E9%9F%A9%E5%AA%92%E6%81%90%E5%B0%86%E6%98%AF%E9%AB%98%E9%A3%8E%E9%99%A9%E4%BD%8E%E5%9B%9E%E6%8A%A5%E7%9A%84%E8%A1%8C%E7%A8%8B",
-      "source": "rfi.fr",
-      "published": 1755114390
     },
     {
       "id": "7ef9fc99572b",
@@ -1388,5 +1388,5 @@
       "published": 1752751620
     }
   ],
-  "build_id": 1755204003
+  "build_id": 1755207176
 }
