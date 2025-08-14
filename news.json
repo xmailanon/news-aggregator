@@ -1,6 +1,34 @@
 {
-  "updated": 1755200155,
+  "updated": 1755204003,
   "items": [
+    {
+      "id": "8c2f1d717a44",
+      "title": "市場關注川蒲會及美國降息前景　油價大漲",
+      "url": "https://money.udn.com/money/story/10511/8940695",
+      "source": "money.udn.com",
+      "published": 1755202893
+    },
+    {
+      "id": "1dabe24c727f",
+      "title": "將與普丁雙邊會 川普：盼為美俄烏峰會鋪路",
+      "url": "https://money.udn.com/money/story/5599/8940690",
+      "source": "money.udn.com",
+      "published": 1755200730
+    },
+    {
+      "id": "4bd76b87936d",
+      "title": "美俄峰会前夕：俄罗斯明目张胆加快攻击乌东领土",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250814-%E7%BE%8E%E4%BF%84%E5%B3%B0%E4%BC%9A%E5%89%8D%E5%A4%95-%E4%BF%84%E7%BD%97%E6%96%AF%E6%98%8E%E7%9B%AE%E5%BC%A0%E8%83%86%E5%8A%A0%E5%BF%AB%E6%94%BB%E5%87%BB%E4%B9%8C%E4%B8%9C%E9%A2%86%E5%9C%9F",
+      "source": "rfi.fr",
+      "published": 1755200431
+    },
+    {
+      "id": "b608650a28a5",
+      "title": "特朗普估计与普京会晤失败可能性为25%",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250814-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%B0%E8%AE%A1%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4%E5%A4%B1%E8%B4%A5%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%BA25",
+      "source": "rfi.fr",
+      "published": 1755199902
+    },
     {
       "id": "8a1e29e028f8",
       "title": "拉丁美洲國家因關稅向中國靠攏？川普：不擔心",
@@ -59,7 +87,7 @@
     },
     {
       "id": "03473e7b06b7",
-      "title": "川蒲高峰會前夕　俄烏展開新一波換俘行動",
+      "title": "川普高峰會前夕　俄烏展開新一波換俘行動",
       "url": "https://money.udn.com/money/story/5599/8940675",
       "source": "money.udn.com",
       "published": 1755196245
@@ -79,18 +107,18 @@
       "published": 1755190472
     },
     {
-      "id": "7ec814ceff44",
-      "title": "美躉售通膨攀上三年高點  Fed 降息預期降溫 股市早盤走跌",
-      "url": "https://money.udn.com/money/story/5599/8940483",
-      "source": "money.udn.com",
-      "published": 1755189635
-    },
-    {
       "id": "75a3c5d66fa5",
       "title": "特談晶片銷陸協議 美財長：抽成輝達 將成「模板」",
       "url": "https://money.udn.com/money/story/5599/8940537",
       "source": "money.udn.com",
       "published": 1755189477
+    },
+    {
+      "id": "7ec814ceff44",
+      "title": "美躉售通膨攀上三年高點  Fed 降息預期降溫 股市早盤走跌",
+      "url": "https://money.udn.com/money/story/5599/8940483",
+      "source": "money.udn.com",
+      "published": 1755189395
     },
     {
       "id": "95174ffaf7a8",
@@ -252,20 +280,6 @@
       "url": "https://money.udn.com/money/story/5599/8940403",
       "source": "money.udn.com",
       "published": 1755182087
-    },
-    {
-      "id": "7608e4ee046c",
-      "title": "西班牙1名志願消防員殉職 夏季野火罹難者增至3人",
-      "url": "https://money.udn.com/money/story/5599/8940370",
-      "source": "money.udn.com",
-      "published": 1755181276
-    },
-    {
-      "id": "0dbe2b33e044",
-      "title": "美7月生產者物價指數月增0.9% 遠高於預期",
-      "url": "https://money.udn.com/money/story/5599/8940348",
-      "source": "money.udn.com",
-      "published": 1755180749
     },
     {
       "id": "7d95f4b3c973",
@@ -695,25 +709,11 @@
       "published": 1755100800
     },
     {
-      "id": "358de878bfec",
-      "title": "美财长自曝曾质问G7领导人是否愿对华征收200%的二级关税",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250813-%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%87%AA%E7%88%86%E6%9B%BE%E8%B4%A8%E9%97%AEg7%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%98%AF%E5%90%A6%E6%84%BF%E5%AF%B9%E5%8D%8E%E5%BE%81%E6%94%B6200-%E7%9A%84%E4%BA%8C%E7%BA%A7%E5%85%B3%E7%A8%8E",
-      "source": "rfi.fr",
-      "published": 1755100491
-    },
-    {
       "id": "0f92c66590be",
       "title": "消息人士：美国在AI芯片货物中暗装定位追踪器",
       "url": "https://www.dw.com/zh/消息人士：美国在ai芯片货物中暗装定位追踪器/a-73627034?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1755097560
-    },
-    {
-      "id": "bde7d88b54a4",
-      "title": "李在明在访美前将先访日与石破茂会谈 被指有意表明对韩日和韩美日合作重视",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250813-%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%9C%A8%E8%AE%BF%E7%BE%8E%E5%89%8D%E5%B0%86%E5%85%88%E8%AE%BF%E6%97%A5%E4%B8%8E%E7%9F%B3%E7%A0%B4%E8%8C%82%E4%BC%9A%E8%B0%88-%E8%A2%AB%E6%8C%87%E6%9C%89%E6%84%8F%E8%A1%A8%E6%98%8E%E5%AF%B9%E9%9F%A9%E6%97%A5%E5%92%8C%E9%9F%A9%E7%BE%8E%E6%97%A5%E5%90%88%E4%BD%9C%E9%87%8D%E8%A7%86",
-      "source": "rfi.fr",
-      "published": 1755093989
     },
     {
       "id": "58ac88bb0b94",
@@ -1388,5 +1388,5 @@
       "published": 1752751620
     }
   ],
-  "build_id": 1755200155
+  "build_id": 1755204003
 }
