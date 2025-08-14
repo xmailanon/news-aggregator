@@ -1,6 +1,20 @@
 {
-  "updated": 1755190216,
+  "updated": 1755193180,
   "items": [
+    {
+      "id": "970b2c7c772b",
+      "title": "川普蒲亭峰會在即　歐股收紅",
+      "url": "https://money.udn.com/money/story/10511/8940656",
+      "source": "money.udn.com",
+      "published": 1755190472
+    },
+    {
+      "id": "1f842d9d6db2",
+      "title": "現在還有誰真正關心烏克蘭？俄烏戰爭給台灣的啟示",
+      "url": "https://udn.com/news/story/6656/8940654",
+      "source": "udn.com",
+      "published": 1755190200
+    },
     {
       "id": "75a3c5d66fa5",
       "title": "特談晶片銷陸協議 美財長：抽成輝達 將成「模板」",
@@ -23,6 +37,13 @@
       "published": 1755187991
     },
     {
+      "id": "58dafb0f98e0",
+      "title": "特別條例預算增至5900億 普發現金最快9月開始發放",
+      "url": "https://udn.com/news/story/6656/8940501",
+      "source": "udn.com",
+      "published": 1755187200
+    },
+    {
       "id": "6fc34222dcef",
       "title": "歷史上的今天／1960年女星若松和子與紺野瑜珈姊妹來台",
       "url": "https://udn.com/news/story/7314/8935756",
@@ -40,13 +61,6 @@
       "id": "d6411f0640c7",
       "title": "新聞眼／扁挺卓揆的弦外之音 總統聽得進去？",
       "url": "https://udn.com/news/story/6656/8940559",
-      "source": "udn.com",
-      "published": 1755187200
-    },
-    {
-      "id": "58dafb0f98e0",
-      "title": "特別條例預算增至5900億 普發現金最快9月開始發放",
-      "url": "https://udn.com/news/story/6656/8940501",
       "source": "udn.com",
       "published": 1755187200
     },
@@ -122,7 +136,7 @@
     },
     {
       "id": "091bef258a5e",
-      "title": "盧秀燕槓行政院長卓榮泰 雙北、桃園聲援",
+      "title": "行政院會槓卓榮泰 雙北、桃園聲援盧秀燕",
       "url": "https://udn.com/news/story/6656/8940491",
       "source": "udn.com",
       "published": 1755186063
@@ -289,13 +303,6 @@
       "published": 1755178271
     },
     {
-      "id": "be3ae034d5ad",
-      "title": "川普會蒲亭前夕 俄軍稱再占烏克蘭東部兩處聚落",
-      "url": "https://money.udn.com/money/story/10511/8940290",
-      "source": "money.udn.com",
-      "published": 1755178245
-    },
-    {
       "id": "78b473d70d78",
       "title": "卓揆端5900億特別預算...機械業喊「台幣升值壓力大」 政院：央行聽見心聲",
       "url": "https://udn.com/news/story/6656/8940288",
@@ -315,13 +322,6 @@
       "url": "https://udn.com/news/story/10930/8940270",
       "source": "udn.com",
       "published": 1755177705
-    },
-    {
-      "id": "bb9acdbbcd74",
-      "title": "政院提878億追加預算案 民眾黨團：僅支持提升國軍待遇等3項",
-      "url": "https://udn.com/news/story/6656/8940254",
-      "source": "udn.com",
-      "published": 1755177124
     },
     {
       "id": "102258d2ecf0",
@@ -1388,5 +1388,5 @@
       "published": 1752751620
     }
   ],
-  "build_id": 1755190216
+  "build_id": 1755193180
 }
