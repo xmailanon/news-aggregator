@@ -1,6 +1,27 @@
 {
-  "updated": 1755254612,
+  "updated": 1755257308,
   "items": [
+    {
+      "id": "8f21ea11161c",
+      "title": "美政府懸賞3億元　尋求緝拿墨西哥聯合販毒集團領袖",
+      "url": "https://money.udn.com/money/story/5599/8942428",
+      "source": "money.udn.com",
+      "published": 1755256356
+    },
+    {
+      "id": "eb4a413dce29",
+      "title": "盧秀燕爭636億補助被卓榮泰制止 國民黨：怕聽真話？",
+      "url": "https://udn.com/news/story/6656/8942419",
+      "source": "udn.com",
+      "published": 1755256122
+    },
+    {
+      "id": "625b858efff9",
+      "title": "防止英法德重啟制裁　伊朗外長：正與中俄合作",
+      "url": "https://money.udn.com/money/story/5599/8942411",
+      "source": "money.udn.com",
+      "published": 1755255633
+    },
     {
       "id": "c328cd7f9ef0",
       "title": "800國民兵全數進駐華府 聯邦緝毒局接管特區警局",
@@ -9,9 +30,9 @@
       "published": 1755254798
     },
     {
-      "id": "077baee9be6c",
-      "title": "美俄峰會前就核武控管釋善意　路透分析蒲亭盤算",
-      "url": "https://money.udn.com/money/story/10511/8942395",
+      "id": "ec5375b770bb",
+      "title": "美俄峰會前就核武控管釋善意 路透分析普丁盤算",
+      "url": "https://money.udn.com/money/story/5599/8942395",
       "source": "money.udn.com",
       "published": 1755254798
     },
@@ -269,7 +290,7 @@
     },
     {
       "id": "bad048db7ed2",
-      "title": "中联部副部长孙海燕据报8月初被拘留 与刘建超被带走问话有关",
+      "title": "路透社称中联部副部长孙海燕8月初被拘留 联早：孙目前正常上班",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250815-%E4%B8%AD%E8%81%94%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E5%AD%99%E6%B5%B7%E7%87%95%E6%8D%AE%E6%8A%A58%E6%9C%88%E5%88%9D%E8%A2%AB%E6%8B%98%E7%95%99-%E4%B8%8E%E5%88%98%E5%BB%BA%E8%B6%85%E8%A2%AB%E5%B8%A6%E8%B5%B0%E9%97%AE%E8%AF%9D%E6%9C%89%E5%85%B3",
       "source": "rfi.fr",
       "published": 1755244955
@@ -310,32 +331,11 @@
       "published": 1755243552
     },
     {
-      "id": "376cb8a31a21",
-      "title": "抗戰勝利80周年 國防部公布紀念音樂會及慶祝軍人節系列活動",
-      "url": "https://udn.com/news/story/10930/8941968",
-      "source": "udn.com",
-      "published": 1755243264
-    },
-    {
       "id": "a745443923d9",
       "title": "Google的潛在殺手？AI新創Perplexity創辦人有多強",
       "url": "https://money.udn.com/money/story/122381/8940937",
       "source": "money.udn.com",
       "published": 1755242782
-    },
-    {
-      "id": "8b23b04046df",
-      "title": "經濟成長優於預期　日股勁揚",
-      "url": "https://money.udn.com/money/story/5599/8941944",
-      "source": "money.udn.com",
-      "published": 1755242493
-    },
-    {
-      "id": "60a7271e07e3",
-      "title": "塑膠減產條文回歸仍難救局　日內瓦談判宣告失敗",
-      "url": "https://money.udn.com/money/story/5599/8941914",
-      "source": "money.udn.com",
-      "published": 1755242011
     },
     {
       "id": "6c5d20eaf5a6",
@@ -504,6 +504,13 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250814-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%95%91%E6%8F%B4%E7%99%BE%E5%90%8D%E6%B5%B7%E9%9A%BE%E4%BA%9A%E9%9D%9E%E6%B0%91%E4%BC%97",
       "source": "rfi.fr",
       "published": 1755195175
+    },
+    {
+      "id": "6c2474cab30d",
+      "title": "特朗普解雇美国劳工统计局局长是个坏消息",
+      "url": "https://www.ftchinese.com/story/001107338",
+      "source": "ftchinese.com",
+      "published": 1755187200
     },
     {
       "id": "71a201b1b5aa",
@@ -845,13 +852,6 @@
       "id": "b53e0e20ae9c",
       "title": "DeepSeek新模型因华为芯片问题推迟发布",
       "url": "https://www.ftchinese.com/story/001107322",
-      "source": "ftchinese.com",
-      "published": 1755100800
-    },
-    {
-      "id": "ea9634059666",
-      "title": "特朗普关税战也许会意外促成金砖国家的长期团结",
-      "url": "https://www.ftchinese.com/story/001107320",
       "source": "ftchinese.com",
       "published": 1755100800
     },
@@ -1395,5 +1395,5 @@
       "published": 1752751620
     }
   ],
-  "build_id": 1755254612
+  "build_id": 1755257308
 }
