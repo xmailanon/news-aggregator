@@ -1,9 +1,114 @@
 {
-  "updated": 1755247842,
+  "updated": 1755250730,
   "items": [
     {
+      "id": "1933173cd40f",
+      "title": "日本男子北海道登山　被熊拖入樹叢後身亡",
+      "url": "https://money.udn.com/money/story/5599/8942215",
+      "source": "money.udn.com",
+      "published": 1755250239
+    },
+    {
+      "id": "7f9e2da2e759",
+      "title": "去函要求政院檢討罷免失敗？總統府：王鴻薇移花接木公然造假",
+      "url": "https://udn.com/news/story/124323/8942205",
+      "source": "udn.com",
+      "published": 1755249946
+    },
+    {
+      "id": "af6839445149",
+      "title": "台灣想成為AI產業鏈樞紐，但電力夠用嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cj4eez54yewo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1755249862
+    },
+    {
+      "id": "9c480ca75d5a",
+      "title": "二战终战80周年 赖清德：牢记教训，让侵略无法得逞，自由民主长存",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250815-%E4%BA%8C%E6%88%98%E7%BB%88%E6%88%9880%E5%91%A8%E5%B9%B4-%E8%B5%96%E6%B8%85%E5%BE%B7-%E7%89%A2%E8%AE%B0%E6%95%99%E8%AE%AD%EF%BC%8C%E8%AE%A9%E4%BE%B5%E7%95%A5%E6%97%A0%E6%B3%95%E5%BE%97%E9%80%9E%EF%BC%8C%E8%87%AA%E7%94%B1%E6%B0%91%E4%B8%BB%E9%95%BF%E5%AD%98",
+      "source": "rfi.fr",
+      "published": 1755249510
+    },
+    {
+      "id": "7bbab565370b",
+      "title": "“8.15”日本举行战殁者追悼仪式  农相参拜靖国神社",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250815-8-15-%E6%97%A5%E6%9C%AC%E4%B8%BE%E8%A1%8C%E6%88%98%E6%AE%81%E8%80%85%E8%BF%BD%E6%82%BC%E4%BB%AA%E5%BC%8F-%E5%86%9C%E7%9B%B8%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE",
+      "source": "rfi.fr",
+      "published": 1755249436
+    },
+    {
+      "id": "aac1d9e545ef",
+      "title": "傳府要求政院檢討726罷免失敗 她指若823再失利：卓榮泰只能請辭",
+      "url": "https://udn.com/news/story/124323/8942188",
+      "source": "udn.com",
+      "published": 1755249244
+    },
+    {
+      "id": "43ace1347830",
+      "title": "823罷免再失利就下台？ 卓榮泰：政治工作者隨時對國人負責",
+      "url": "https://udn.com/news/story/124323/8942180",
+      "source": "udn.com",
+      "published": 1755249121
+    },
+    {
+      "id": "5f9757fb2584",
+      "title": "Google在AI競賽的意外新盟友是「它」 股價狂飆60%",
+      "url": "https://money.udn.com/money/story/5599/8942175",
+      "source": "money.udn.com",
+      "published": 1755249099
+    },
+    {
+      "id": "3247bfbef427",
+      "title": "雙普會將登場 阿拉斯加民眾上街抗議聲援烏克蘭",
+      "url": "https://money.udn.com/money/story/5599/8942174",
+      "source": "money.udn.com",
+      "published": 1755248953
+    },
+    {
+      "id": "a8a8fc122fb4",
+      "title": "全球塑料污染治理谈判以失败告终 未达成具有法律约束力的国际协议",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250815-%E5%85%A8%E7%90%83%E5%A1%91%E6%96%99%E6%B1%A1%E6%9F%93%E6%B2%BB%E7%90%86%E8%B0%88%E5%88%A4%E4%BB%A5%E5%A4%B1%E8%B4%A5%E5%91%8A%E7%BB%88-%E6%9C%AA%E8%BE%BE%E6%88%90%E5%85%B7%E6%9C%89%E6%B3%95%E5%BE%8B%E7%BA%A6%E6%9D%9F%E5%8A%9B%E7%9A%84%E5%9B%BD%E9%99%85%E5%8D%8F%E8%AE%AE",
+      "source": "rfi.fr",
+      "published": 1755248766
+    },
+    {
+      "id": "dbb4d27e1c1f",
+      "title": "高價綠電下的台灣企業：從被動承受到主動創值的能源轉型戰略",
+      "url": "https://udn.com/news/story/7314/8942129",
+      "source": "udn.com",
+      "published": 1755248755
+    },
+    {
+      "id": "2e1e787cbecc",
+      "title": "失業率增經濟疲弱　紐西蘭人口外流創13年來新高",
+      "url": "https://money.udn.com/money/story/5599/8942158",
+      "source": "money.udn.com",
+      "published": 1755248484
+    },
+    {
+      "id": "e2c46b7f3fbc",
+      "title": "罷免戰火升溫…遭罷團指控「顧中輕本」 游顥火力全開批造謠",
+      "url": "https://udn.com/news/story/124323/8942148",
+      "source": "udn.com",
+      "published": 1755248361
+    },
+    {
+      "id": "455a33717c1e",
+      "title": "管中閔批賴清德：不提光復意義 竟以參加侵略者日本的活動為榮",
+      "url": "https://udn.com/news/story/6656/8942131",
+      "source": "udn.com",
+      "published": 1755247835
+    },
+    {
+      "id": "43ce8ad34ba8",
+      "title": "賴清德避談抗戰 馬英九：媚日遺忘國人屈辱、不配當中華民國總統",
+      "url": "https://udn.com/news/story/6656/8942133",
+      "source": "udn.com",
+      "published": 1755247824
+    },
+    {
       "id": "081a8fee35c9",
-      "title": "賴清德迴避抗戰 謝龍介：討好日本連歷史都不要 還會被尊重？",
+      "title": "賴清德迴避抗戰挨酸美化日本 謝龍介：尊嚴都不要了還會尊重我們嗎？",
       "url": "https://udn.com/news/story/6656/8942113",
       "source": "udn.com",
       "published": 1755247635
@@ -170,25 +275,11 @@
       "published": 1755240633
     },
     {
-      "id": "b45e70388ba5",
-      "title": "批賴清德對不起國軍抗戰犧牲 國民黨：否定中華民國 應道歉",
-      "url": "https://udn.com/news/story/6656/8941852",
-      "source": "udn.com",
-      "published": 1755240456
-    },
-    {
       "id": "561fb43c9648",
       "title": "川普豁免蘋果關稅　業界人士憂無力在美設廠難倖免",
       "url": "https://money.udn.com/money/story/10511/8941812",
       "source": "money.udn.com",
       "published": 1755239793
-    },
-    {
-      "id": "3509f3fc4376",
-      "title": "9旬台籍日本兵周良仁嘆戰火無情 盼別再有戰爭",
-      "url": "https://udn.com/news/story/6656/8941716",
-      "source": "udn.com",
-      "published": 1755239526
     },
     {
       "id": "3b3a969d41d6",
@@ -198,46 +289,11 @@
       "published": 1755239434
     },
     {
-      "id": "ee95ec859c4e",
-      "title": "白委質詢卓榮泰狂問再生能源 韓國瑜無奈制止：主題是打詐",
-      "url": "https://udn.com/news/story/7314/8941795",
-      "source": "udn.com",
-      "published": 1755239367
-    },
-    {
-      "id": "067b1926e398",
-      "title": "關稅衝擊勞工支持方案地方盼增人力 勞動部允諾",
-      "url": "https://udn.com/news/story/124552/8941715",
-      "source": "udn.com",
-      "published": 1755239200
-    },
-    {
       "id": "f808a374c1b7",
       "title": "二戰終戰80年　韓總統李在明籲日本正視歷史",
       "url": "https://money.udn.com/money/story/5599/8941782",
       "source": "money.udn.com",
       "published": 1755238890
-    },
-    {
-      "id": "2892c3111f31",
-      "title": "打詐專報劉書彬質詢談能源 韓國瑜提醒名不符實",
-      "url": "https://udn.com/news/story/7314/8941686",
-      "source": "udn.com",
-      "published": 1755238400
-    },
-    {
-      "id": "f911456ccafe",
-      "title": "台美續磋商關稅 俞大㵢：未來經貿夥伴關係將更緊密",
-      "url": "https://udn.com/news/story/124552/8941562",
-      "source": "udn.com",
-      "published": 1755238364
-    },
-    {
-      "id": "491b78580e63",
-      "title": "賴政府拿「專業」否決公投正當性 無視民意何來民主？",
-      "url": "https://udn.com/news/story/124565/8941752",
-      "source": "udn.com",
-      "published": 1755238311
     },
     {
       "id": "555ccdacf77f",
@@ -268,32 +324,18 @@
       "published": 1755237271
     },
     {
-      "id": "ba37cc977ba0",
-      "title": "川普、普丁將在阿拉斯加會面 美俄烏不同利益一次看",
-      "url": "https://money.udn.com/money/story/5599/8941666",
-      "source": "money.udn.com",
-      "published": 1755236731
+      "id": "6c5d20eaf5a6",
+      "title": "誰發明了烤腸？德國兩州份如何爭論不休",
+      "url": "https://www.bbc.com/zhongwen/articles/c5ylpzwzje1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1755236242
     },
     {
-      "id": "0678d6c568cb",
-      "title": "年輕人青睞也敵不過關稅！Coach 母公司獲利預測失色 股價跌逾15%",
-      "url": "https://money.udn.com/money/story/123398/8941657",
-      "source": "money.udn.com",
-      "published": 1755236550
-    },
-    {
-      "id": "c77cbfecce05",
-      "title": "美對印度祭50%關稅 莫迪矢言「像牆一樣守護農民」",
-      "url": "https://money.udn.com/money/story/5599/8941618",
-      "source": "money.udn.com",
-      "published": 1755235842
-    },
-    {
-      "id": "6dbf62ab0b51",
-      "title": "除了減碼蘋果與美銀 波克夏也揭曉這三檔「神祕」持股",
-      "url": "https://money.udn.com/money/story/5599/8941564",
-      "source": "money.udn.com",
-      "published": 1755234809
+      "id": "40f0f4529ddf",
+      "title": "AI設計用於抗生素研究，治療淋病和金黃色葡萄球菌超級細菌",
+      "url": "https://www.bbc.com/zhongwen/articles/c30zv4ndpr8o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1755235781
     },
     {
       "id": "c77ff2e29df0",
@@ -723,20 +765,6 @@
       "published": 1755158921
     },
     {
-      "id": "5665e2455359",
-      "title": "黎智英「勾外案」结案陈词逾百人冒雨轮候旁听  审讯终因恶劣天气延期明天",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250814-%E9%BB%8E%E6%99%BA%E8%8B%B1-%E5%8B%BE%E5%A4%96%E6%A1%88-%E7%BB%93%E6%A1%88%E9%99%88%E8%AF%8D%E9%80%BE%E7%99%BE%E4%BA%BA%E5%86%92%E9%9B%A8%E8%BD%AE%E5%80%99%E6%97%81%E5%90%AC-%E5%AE%A1%E8%AE%AF%E7%BB%88%E5%9B%A0%E6%81%B6%E5%8A%A3%E5%A4%A9%E6%B0%94%E5%BB%B6%E6%9C%9F%E6%98%8E%E5%A4%A9",
-      "source": "rfi.fr",
-      "published": 1755158604
-    },
-    {
-      "id": "019ec0fffbae",
-      "title": "港府召开首次反恐督导组会议 本月下旬将举行大型反恐演练",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250814-%E6%B8%AF%E5%BA%9C%E5%8F%AC%E5%BC%80%E9%A6%96%E6%AC%A1%E5%8F%8D%E6%81%90%E7%9D%A3%E5%AF%BC%E7%BB%84%E4%BC%9A%E8%AE%AE-%E6%9C%AC%E6%9C%88%E4%B8%8B%E6%97%AC%E5%B0%86%E4%B8%BE%E8%A1%8C%E5%A4%A7%E5%9E%8B%E5%8F%8D%E6%81%90%E6%BC%94%E7%BB%83",
-      "source": "rfi.fr",
-      "published": 1755158099
-    },
-    {
       "id": "b6a69b07c0d6",
       "title": "特朗普普京安克雷奇會晤：特別的地點和會談的預期",
       "url": "https://www.bbc.com/zhongwen/articles/c4gzk08x339o/trad?at_medium=RSS&at_campaign=rss",
@@ -772,25 +800,11 @@
       "published": 1755141733
     },
     {
-      "id": "52a34b0aacf0",
-      "title": "美俄峰會前夕與特朗普通話 歐洲領袖稱會「暫時抱持希望」",
-      "url": "https://www.bbc.com/zhongwen/articles/c8607wnqv9eo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1755141434
-    },
-    {
       "id": "8cb407510798",
       "title": "波浪能：這種新型潔淨能源為何讓各國趨之若鶩？",
       "url": "https://www.bbc.com/zhongwen/articles/c209z37339ro/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1755130798
-    },
-    {
-      "id": "5c697fc521fd",
-      "title": "马克龙：乌克兰的领土问题只能由乌克兰总统来谈判",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250813-%E9%A9%AC%E5%85%8B%E9%BE%99-%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9A%84%E9%A2%86%E5%9C%9F%E9%97%AE%E9%A2%98%E5%8F%AA%E8%83%BD%E7%94%B1%E4%B9%8C%E5%85%8B%E5%85%B0%E6%80%BB%E7%BB%9F%E6%9D%A5%E8%B0%88%E5%88%A4",
-      "source": "rfi.fr",
-      "published": 1755123652
     },
     {
       "id": "005bdf8d4a61",
@@ -903,13 +917,6 @@
       "url": "https://cn.nytimes.com/world/20250813/trump-putin-meeting-russia-ukraine/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1755056997
-    },
-    {
-      "id": "b6132184ff2d",
-      "title": "特朗普即將會見普京  烏克蘭拒絕割讓頓巴斯的提議",
-      "url": "https://www.bbc.com/zhongwen/articles/c98ldp67lgmo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1755054737
     },
     {
       "id": "97f896f6ccc4",
@@ -1388,5 +1395,5 @@
       "published": 1752751620
     }
   ],
-  "build_id": 1755247842
+  "build_id": 1755250730
 }
