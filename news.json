@@ -1,6 +1,41 @@
 {
-  "updated": 1755362569,
+  "updated": 1755365481,
   "items": [
+    {
+      "id": "94b266c47371",
+      "title": "國民黨人士：藍白合仍重重關卡 對黃國昌戰新北實力保留",
+      "url": "https://udn.com/news/story/6656/8944273",
+      "source": "udn.com",
+      "published": 1755365001
+    },
+    {
+      "id": "46648f375710",
+      "title": "藍白合來勢猛…民進黨內憂心：再不調整戰略 2026恐大敗",
+      "url": "https://udn.com/news/story/6656/8944271",
+      "source": "udn.com",
+      "published": 1755364741
+    },
+    {
+      "id": "3fa4fafcae7c",
+      "title": "TAIWAN PLUS大阪第二週　台灣經典美食攤人氣強強滾",
+      "url": "https://money.udn.com/money/story/5599/8944297",
+      "source": "money.udn.com",
+      "published": 1755364355
+    },
+    {
+      "id": "4404b0f345c5",
+      "title": "聰明瘦身法 8／放假補眠、不曬太陽、愛滑手機或玩遊戲...日本減重權威：為何你總是吃太多？",
+      "url": "https://money.udn.com/money/story/122979/8770791",
+      "source": "money.udn.com",
+      "published": 1755360410
+    },
+    {
+      "id": "0ca7602b9fb2",
+      "title": "聰明瘦身法 7／愛吃就是因為睡不夠！日本減重權威教你三招「消失飢餓感」",
+      "url": "https://money.udn.com/money/story/122979/8770788",
+      "source": "money.udn.com",
+      "published": 1755360230
+    },
     {
       "id": "b54ffcaac616",
       "title": "聯合報一周大事8/10~8/16",
@@ -56,13 +91,6 @@
       "url": "https://udn.com/news/story/6656/8944184",
       "source": "udn.com",
       "published": 1755359322
-    },
-    {
-      "id": "71fcf159ade8",
-      "title": "黃金周末藍白集結 籲投「同意重啟核三」",
-      "url": "https://udn.com/news/story/124565/8944258",
-      "source": "udn.com",
-      "published": 1755359284
     },
     {
       "id": "1a53cf59efb4",
@@ -296,39 +324,11 @@
       "published": 1755342168
     },
     {
-      "id": "213262f97ec3",
-      "title": "中二罷免黃金周決戰！顏寬恒掃街固盤 罷團「小英號」鎮暴車領軍遊行",
-      "url": "https://udn.com/news/story/124323/8943938",
-      "source": "udn.com",
-      "published": 1755342145
-    },
-    {
       "id": "19fabe721db9",
       "title": "終結俄烏戰爭最佳方式 川普：直接達成和平協議",
       "url": "https://money.udn.com/money/story/5599/8943933",
       "source": "money.udn.com",
       "published": 1755342048
-    },
-    {
-      "id": "1c5c9d5eafc2",
-      "title": "星馬共構綠色經濟典範　跨境合作引領東協淨零轉型",
-      "url": "https://money.udn.com/money/story/5599/8943935",
-      "source": "money.udn.com",
-      "published": 1755342046
-    },
-    {
-      "id": "42f3cf3a9cc0",
-      "title": "新加坡馬來西亞綠電交易拚上路  企業減碳解方浮現",
-      "url": "https://money.udn.com/money/story/5599/8943934",
-      "source": "money.udn.com",
-      "published": 1755342046
-    },
-    {
-      "id": "8dc5704a67ec",
-      "title": "星馬綠電與碳權交易協議  打造區域淨零新路徑",
-      "url": "https://money.udn.com/money/story/5599/8943920",
-      "source": "money.udn.com",
-      "published": 1755341681
     },
     {
       "id": "51f7df8ffbd3",
@@ -674,6 +674,125 @@
       "published": 1755195348
     },
     {
+      "id": "6c2474cab30d",
+      "title": "特朗普解雇美国劳工统计局局长是个坏消息",
+      "url": "https://www.ftchinese.com/story/001107338",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "71a201b1b5aa",
+      "title": "中国严控外国企业囤积稀土",
+      "url": "https://www.ftchinese.com/story/001107337",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "fa1428583dfe",
+      "title": "AI情感经济的传播学死局：为什么完美AI伴侣是最差的产品",
+      "url": "https://www.ftchinese.com/story/001107332",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "a6344c80e90a",
+      "title": "网络如何造成恋爱能力的退化",
+      "url": "https://www.ftchinese.com/story/001107336",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "1f73916568e0",
+      "title": "经历贸易战硝烟的法国干邑",
+      "url": "https://www.ftchinese.com/story/001107329",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "ff5a70df008e",
+      "title": "林火逼近南欧几个首都城市",
+      "url": "https://www.ftchinese.com/story/001107335",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "a6249bbefa57",
+      "title": "美国无形经济的崛起",
+      "url": "https://www.ftchinese.com/story/001107334",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "0015af1b0de8",
+      "title": "中国公职人员出国规定真的有变化吗？",
+      "url": "https://www.ftchinese.com/story/001107333",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "2d54bc6bb8e4",
+      "title": "向晨：全球绿色转型的底层逻辑正在转向地缘政治竞争",
+      "url": "https://www.ftchinese.com/story/001107331",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "b681103671ed",
+      "title": "美俄峰会也许能促成欧洲国家的团结强硬",
+      "url": "https://www.ftchinese.com/story/001107330",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "d6e3d42d0b82",
+      "title": "管虎的“历史演绎法”",
+      "url": "https://www.ftchinese.com/story/001107326",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "b7e9d7d79c4e",
+      "title": "西岸美术馆的艺术实验：听出另一个上海",
+      "url": "https://www.ftchinese.com/story/001107325",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "09630c03e712",
+      "title": "马可•奥勒留：罗马帝国的双面君王",
+      "url": "https://www.ftchinese.com/story/001107308",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "0070b19728fe",
+      "title": "长和：港口出售交易今年不会完成",
+      "url": "https://www.ftchinese.com/story/001107328",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "807687fb70d8",
+      "title": "“资本主义诞生在爱丁堡街头，它也几乎死在了那里”",
+      "url": "https://www.ftchinese.com/story/001107307",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "7d3b30dcac03",
+      "title": "普京称赞特朗普为结束俄乌战争所做“努力”",
+      "url": "https://www.ftchinese.com/story/001107327",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
+      "id": "61b5d4588355",
+      "title": "RWA: 金融交易之范式变革",
+      "url": "https://www.ftchinese.com/story/001107324",
+      "source": "ftchinese.com",
+      "published": 1755187200
+    },
+    {
       "id": "97e4f04cdee5",
       "title": "德语媒体：五国联手抗衡特朗普",
       "url": "https://www.dw.com/zh/德语媒体：五国联手抗衡特朗普/a-73640583?maca=chi-rss-chi-all-1127-rdf",
@@ -756,6 +875,27 @@
       "url": "https://www.bbc.com/zhongwen/articles/c4gl7yy442zo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1755101105
+    },
+    {
+      "id": "0924ad49133b",
+      "title": "战争拐点？双普会前的和平悬念",
+      "url": "https://www.ftchinese.com/story/001107321",
+      "source": "ftchinese.com",
+      "published": 1755100800
+    },
+    {
+      "id": "c7e6b536a78c",
+      "title": "特朗普的贸易政策越来越胡来",
+      "url": "https://www.ftchinese.com/story/001107323",
+      "source": "ftchinese.com",
+      "published": 1755100800
+    },
+    {
+      "id": "b53e0e20ae9c",
+      "title": "DeepSeek新模型因华为芯片问题推迟发布",
+      "url": "https://www.ftchinese.com/story/001107322",
+      "source": "ftchinese.com",
+      "published": 1755100800
     },
     {
       "id": "539b58ee0462",
@@ -1234,5 +1374,5 @@
       "published": 1752845520
     }
   ],
-  "build_id": 1755362569
+  "build_id": 1755365481
 }
