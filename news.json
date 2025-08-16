@@ -1,19 +1,96 @@
 {
-  "updated": 1755358332,
+  "updated": 1755362569,
   "items": [
+    {
+      "id": "b54ffcaac616",
+      "title": "聯合報一周大事8/10~8/16",
+      "url": "https://udn.com/news/story/7314/8944237",
+      "source": "udn.com",
+      "published": 1755360128
+    },
+    {
+      "id": "2d2be91f0921",
+      "title": "歷史上的今天／1957年大崙尾山大火 400人登山滅火",
+      "url": "https://udn.com/news/story/7314/8943133",
+      "source": "udn.com",
+      "published": 1755360000
+    },
+    {
+      "id": "c80ddb9eda74",
+      "title": "盧秀燕槓卓榮泰 侯友宜：謝謝燕子為地方發聲",
+      "url": "https://udn.com/news/story/6656/8944167",
+      "source": "udn.com",
+      "published": 1755359365
+    },
+    {
+      "id": "13de4191be83",
+      "title": "籲賴清德辭民進黨主席 呂秀蓮：總統應考慮跨黨派組閣",
+      "url": "https://udn.com/news/story/6656/8944169",
+      "source": "udn.com",
+      "published": 1755359365
+    },
+    {
+      "id": "76c4b623477f",
+      "title": "盧秀燕批綠當家鬧事 蔣萬安喊823「7比0完封」",
+      "url": "https://udn.com/news/story/124323/8944163",
+      "source": "udn.com",
+      "published": 1755359364
+    },
+    {
+      "id": "cc4008fc3bb7",
+      "title": "藍白入閣？綠委：沒崩解到這地步",
+      "url": "https://udn.com/news/story/6656/8944175",
+      "source": "udn.com",
+      "published": 1755359323
+    },
+    {
+      "id": "66e71cddb005",
+      "title": "與綠和解？藍不樂觀 白促放柯文哲",
+      "url": "https://udn.com/news/story/6656/8944176",
+      "source": "udn.com",
+      "published": 1755359323
+    },
+    {
+      "id": "669ad7abbc2b",
+      "title": "觀察站／朝野想和解 賴須先遞橄欖枝",
+      "url": "https://udn.com/news/story/6656/8944184",
+      "source": "udn.com",
+      "published": 1755359322
+    },
+    {
+      "id": "71fcf159ade8",
+      "title": "黃金周末藍白集結 籲投「同意重啟核三」",
+      "url": "https://udn.com/news/story/124565/8944258",
+      "source": "udn.com",
+      "published": 1755359284
+    },
+    {
+      "id": "1a53cf59efb4",
+      "title": "所罗门群岛阻止美中台参会 图瓦卢总理考虑不参加太平洋岛国论坛峰会",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250816-%E6%89%80%E7%BD%97%E9%97%A8%E7%BE%A4%E5%B2%9B%E9%98%BB%E6%AD%A2%E7%BE%8E%E4%B8%AD%E5%8F%B0%E5%8F%82%E4%BC%9A-%E5%9B%BE%E7%93%A6%E5%8D%A2%E6%80%BB%E7%90%86%E8%80%83%E8%99%91%E4%B8%8D%E5%8F%82%E5%8A%A0%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B2%9B%E5%9B%BD%E8%AE%BA%E5%9D%9B%E5%B3%B0%E4%BC%9A",
+      "source": "rfi.fr",
+      "published": 1755358917
+    },
+    {
+      "id": "a8710aeafee9",
+      "title": "法英德領袖17日主持烏克蘭盟友會議　討論和平步驟",
+      "url": "https://money.udn.com/money/story/5599/8944227",
+      "source": "money.udn.com",
+      "published": 1755357713
+    },
+    {
+      "id": "0897dd7c330a",
+      "title": "投資最忌諱抱不住 研究揭露「手癢」害人損失近兩成",
+      "url": "https://money.udn.com/money/story/5599/8944221",
+      "source": "money.udn.com",
+      "published": 1755357635
+    },
     {
       "id": "4c71f7846182",
       "title": "名廚安德瑞斯赴加薩 率世界中央廚房日援百萬份餐",
       "url": "https://money.udn.com/money/story/5599/8944159",
       "source": "money.udn.com",
       "published": 1755356791
-    },
-    {
-      "id": "bea57d82d873",
-      "title": "「飲食男女」大阪放映  楊貴媚見證台日跨世代共鳴",
-      "url": "https://money.udn.com/money/story/5599/8944139",
-      "source": "money.udn.com",
-      "published": 1755356436
     },
     {
       "id": "cf12ba09ed08",
@@ -226,13 +303,6 @@
       "published": 1755342145
     },
     {
-      "id": "6889c48db7b0",
-      "title": "韓國瑜大唱「客家本色」批罷免錯誤 籲客家鄉親大動員挺林思銘",
-      "url": "https://udn.com/news/story/124323/8943936",
-      "source": "udn.com",
-      "published": 1755342068
-    },
-    {
       "id": "19fabe721db9",
       "title": "終結俄烏戰爭最佳方式 川普：直接達成和平協議",
       "url": "https://money.udn.com/money/story/5599/8943933",
@@ -252,20 +322,6 @@
       "url": "https://money.udn.com/money/story/5599/8943934",
       "source": "money.udn.com",
       "published": 1755342046
-    },
-    {
-      "id": "96bab51c8fd4",
-      "title": "陸大陣仗紀念抗戰勝利 黨政人士：矮化中華民國捏造台灣歸屬",
-      "url": "https://udn.com/news/story/8101/8943919",
-      "source": "udn.com",
-      "published": 1755342045
-    },
-    {
-      "id": "7fcfb90cbe6f",
-      "title": "黃國昌表態參選…現任新北市長回應了！侯友宜：少說多做",
-      "url": "https://udn.com/news/story/6656/8943901",
-      "source": "udn.com",
-      "published": 1755341697
     },
     {
       "id": "8dc5704a67ec",
@@ -289,60 +345,11 @@
       "published": 1755341210
     },
     {
-      "id": "b890e6b131f9",
-      "title": "影／藍白中部合體 黃國昌：賴清德想的都是在鬥爭在野黨",
-      "url": "https://udn.com/news/story/124323/8943907",
-      "source": "udn.com",
-      "published": 1755341062
-    },
-    {
-      "id": "58e4dfaa0391",
-      "title": "影／漢子、禿子、燕子同台 為江啟臣宣傳反罷免",
-      "url": "https://udn.com/news/story/124323/8943899",
-      "source": "udn.com",
-      "published": 1755340543
-    },
-    {
-      "id": "499b74a89cde",
-      "title": "重啟核三公投倒數 民團遊行籲投下反對票",
-      "url": "https://udn.com/news/story/124565/8943893",
-      "source": "udn.com",
-      "published": 1755340055
-    },
-    {
-      "id": "1e0c9772cbd2",
-      "title": "大摩：看好蘋果營運轉強  估iPhone本季產量增8%",
-      "url": "https://money.udn.com/money/story/5599/8943886",
-      "source": "money.udn.com",
-      "published": 1755339471
-    },
-    {
       "id": "f282c58e51a4",
       "title": "澳菲在南海附近举行两国最大规模双边军演 逾3600名军人参与",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250816-%E6%BE%B3%E8%8F%B2%E5%9C%A8%E5%8D%97%E6%B5%B7%E9%99%84%E8%BF%91%E4%B8%BE%E8%A1%8C%E4%B8%A4%E5%9B%BD%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%8C%E8%BE%B9%E5%86%9B%E6%BC%94-%E9%80%BE3600%E5%90%8D%E5%86%9B%E4%BA%BA%E5%8F%82%E4%B8%8E",
       "source": "rfi.fr",
       "published": 1755339233
-    },
-    {
-      "id": "deaa5a452d9e",
-      "title": "批綠營只顧罷免忽略民生 盧秀燕嘆「當家鬧事」：連敗才能促總統重視民意",
-      "url": "https://udn.com/news/story/124323/8943879",
-      "source": "udn.com",
-      "published": 1755338764
-    },
-    {
-      "id": "e208da1cc887",
-      "title": "823重啟核三公投在即 屏東議員：生存權問題不能表決",
-      "url": "https://udn.com/news/story/124565/8943857",
-      "source": "udn.com",
-      "published": 1755337459
-    },
-    {
-      "id": "06d976efad59",
-      "title": "助陣羅明才 劉和然：823再用7比0打醒裝睡的民進黨政府",
-      "url": "https://udn.com/news/story/124323/8943859",
-      "source": "udn.com",
-      "published": 1755337062
     },
     {
       "id": "e332b02cba7c",
@@ -569,13 +576,6 @@
       "published": 1755249436
     },
     {
-      "id": "bad048db7ed2",
-      "title": "路透社称中联部副部长孙海燕8月初被拘留 联早：孙目前正常上班",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250815-%E4%B8%AD%E8%81%94%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E5%AD%99%E6%B5%B7%E7%87%95%E6%8D%AE%E6%8A%A58%E6%9C%88%E5%88%9D%E8%A2%AB%E6%8B%98%E7%95%99-%E4%B8%8E%E5%88%98%E5%BB%BA%E8%B6%85%E8%A2%AB%E5%B8%A6%E8%B5%B0%E9%97%AE%E8%AF%9D%E6%9C%89%E5%85%B3",
-      "source": "rfi.fr",
-      "published": 1755244955
-    },
-    {
       "id": "6c5d20eaf5a6",
       "title": "誰發明了烤腸？德國兩州份如何爭論不休",
       "url": "https://www.bbc.com/zhongwen/articles/c5ylpzwzje1o/trad?at_medium=RSS&at_campaign=rss",
@@ -674,125 +674,6 @@
       "published": 1755195348
     },
     {
-      "id": "6c2474cab30d",
-      "title": "特朗普解雇美国劳工统计局局长是个坏消息",
-      "url": "https://www.ftchinese.com/story/001107338",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "71a201b1b5aa",
-      "title": "中国严控外国企业囤积稀土",
-      "url": "https://www.ftchinese.com/story/001107337",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "fa1428583dfe",
-      "title": "AI情感经济的传播学死局：为什么完美AI伴侣是最差的产品",
-      "url": "https://www.ftchinese.com/story/001107332",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "a6344c80e90a",
-      "title": "网络如何造成恋爱能力的退化",
-      "url": "https://www.ftchinese.com/story/001107336",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "1f73916568e0",
-      "title": "经历贸易战硝烟的法国干邑",
-      "url": "https://www.ftchinese.com/story/001107329",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "ff5a70df008e",
-      "title": "林火逼近南欧几个首都城市",
-      "url": "https://www.ftchinese.com/story/001107335",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "a6249bbefa57",
-      "title": "美国无形经济的崛起",
-      "url": "https://www.ftchinese.com/story/001107334",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "0015af1b0de8",
-      "title": "中国公职人员出国规定真的有变化吗？",
-      "url": "https://www.ftchinese.com/story/001107333",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "2d54bc6bb8e4",
-      "title": "向晨：全球绿色转型的底层逻辑正在转向地缘政治竞争",
-      "url": "https://www.ftchinese.com/story/001107331",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "b681103671ed",
-      "title": "美俄峰会也许能促成欧洲国家的团结强硬",
-      "url": "https://www.ftchinese.com/story/001107330",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "d6e3d42d0b82",
-      "title": "管虎的“历史演绎法”",
-      "url": "https://www.ftchinese.com/story/001107326",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "b7e9d7d79c4e",
-      "title": "西岸美术馆的艺术实验：听出另一个上海",
-      "url": "https://www.ftchinese.com/story/001107325",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "09630c03e712",
-      "title": "马可•奥勒留：罗马帝国的双面君王",
-      "url": "https://www.ftchinese.com/story/001107308",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "0070b19728fe",
-      "title": "长和：港口出售交易今年不会完成",
-      "url": "https://www.ftchinese.com/story/001107328",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "807687fb70d8",
-      "title": "“资本主义诞生在爱丁堡街头，它也几乎死在了那里”",
-      "url": "https://www.ftchinese.com/story/001107307",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "7d3b30dcac03",
-      "title": "普京称赞特朗普为结束俄乌战争所做“努力”",
-      "url": "https://www.ftchinese.com/story/001107327",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
-      "id": "61b5d4588355",
-      "title": "RWA: 金融交易之范式变革",
-      "url": "https://www.ftchinese.com/story/001107324",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
       "id": "97e4f04cdee5",
       "title": "德语媒体：五国联手抗衡特朗普",
       "url": "https://www.dw.com/zh/德语媒体：五国联手抗衡特朗普/a-73640583?maca=chi-rss-chi-all-1127-rdf",
@@ -875,27 +756,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c4gl7yy442zo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1755101105
-    },
-    {
-      "id": "0924ad49133b",
-      "title": "战争拐点？双普会前的和平悬念",
-      "url": "https://www.ftchinese.com/story/001107321",
-      "source": "ftchinese.com",
-      "published": 1755100800
-    },
-    {
-      "id": "c7e6b536a78c",
-      "title": "特朗普的贸易政策越来越胡来",
-      "url": "https://www.ftchinese.com/story/001107323",
-      "source": "ftchinese.com",
-      "published": 1755100800
-    },
-    {
-      "id": "b53e0e20ae9c",
-      "title": "DeepSeek新模型因华为芯片问题推迟发布",
-      "url": "https://www.ftchinese.com/story/001107322",
-      "source": "ftchinese.com",
-      "published": 1755100800
     },
     {
       "id": "539b58ee0462",
@@ -1374,5 +1234,5 @@
       "published": 1752845520
     }
   ],
-  "build_id": 1755358332
+  "build_id": 1755362569
 }
