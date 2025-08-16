@@ -1,6 +1,27 @@
 {
-  "updated": 1755372303,
+  "updated": 1755373001,
   "items": [
+    {
+      "id": "e7eb91e82d24",
+      "title": "路透訪調 61%學者估 Fed 下月降1碼",
+      "url": "https://money.udn.com/money/story/10511/8944191",
+      "source": "money.udn.com",
+      "published": 1755373067
+    },
+    {
+      "id": "a37dd6b7269a",
+      "title": "雙普會落幕 俄烏停火沒進展 全球石油供應難有實質轉變",
+      "url": "https://money.udn.com/money/story/5599/8944136",
+      "source": "money.udn.com",
+      "published": 1755372895
+    },
+    {
+      "id": "52db8360dd1e",
+      "title": "川普受訪揭露習近平說法 稱任內陸不會犯台",
+      "url": "https://money.udn.com/money/story/5599/8944141",
+      "source": "money.udn.com",
+      "published": 1755372756
+    },
     {
       "id": "d15b81bd943a",
       "title": "iPhone 本季產量 大摩上修預測 看好下季表現",
@@ -233,13 +254,6 @@
       "published": 1755354074
     },
     {
-      "id": "e987615ca880",
-      "title": "2025大西洋首個颶風　艾倫增強為危險4級",
-      "url": "https://money.udn.com/money/story/5599/8944091",
-      "source": "money.udn.com",
-      "published": 1755354073
-    },
-    {
       "id": "c5cb90bbd9d5",
       "title": "爭奪抗戰話語權？陸將八年抗戰改十四年 學者：還是中華民國在抗日",
       "url": "https://udn.com/news/story/8101/8944070",
@@ -289,13 +303,6 @@
       "published": 1755350624
     },
     {
-      "id": "741cd54eea38",
-      "title": "季風豪雨釀暴洪　巴基斯坦北部累計至少321死",
-      "url": "https://money.udn.com/money/story/5599/8944038",
-      "source": "money.udn.com",
-      "published": 1755349929
-    },
-    {
       "id": "356374c26ff0",
       "title": "影／綠喊話823拚到底「是對縣民大侮辱」 朱立倫呼籲新竹客家鄉親團結",
       "url": "https://udn.com/news/story/124323/8944037",
@@ -308,13 +315,6 @@
       "url": "https://udn.com/news/story/124323/8944033",
       "source": "udn.com",
       "published": 1755349579
-    },
-    {
-      "id": "73e27cb226d9",
-      "title": "川普會終戰未果落幕　各國反應一次看",
-      "url": "https://money.udn.com/money/story/5599/8944029",
-      "source": "money.udn.com",
-      "published": 1755349247
     },
     {
       "id": "0029edb8b4b8",
@@ -1374,5 +1374,5 @@
       "published": 1752845520
     }
   ],
-  "build_id": 1755372303
+  "build_id": 1755373001
 }
