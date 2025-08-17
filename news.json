@@ -1,6 +1,27 @@
 {
-  "updated": 1755466257,
+  "updated": 1755470356,
   "items": [
+    {
+      "id": "5b1057fc5c40",
+      "title": "特拉維夫大型集會　訴求結束戰爭人質歸來",
+      "url": "https://money.udn.com/money/story/5599/8945698",
+      "source": "money.udn.com",
+      "published": 1755469289
+    },
+    {
+      "id": "84ee63eb7c43",
+      "title": "非洲贝宁忧其在加蓬侨民处境",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20250817-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E8%B4%9D%E5%AE%81%E5%BF%A7%E5%85%B6%E5%9C%A8%E5%8A%A0%E8%93%AC%E4%BE%A8%E6%B0%91%E5%A4%84%E5%A2%83",
+      "source": "rfi.fr",
+      "published": 1755467603
+    },
+    {
+      "id": "a39a94330fb7",
+      "title": "【總編開箱】從雙普會 台灣看到了什麼",
+      "url": "https://udn.com/news/story/6656/8945635",
+      "source": "udn.com",
+      "published": 1755467400
+    },
     {
       "id": "b9a51676a28d",
       "title": "中国7月统计数据显示房市及外贸压力拖累经济动能减弱",
@@ -268,13 +289,6 @@
       "published": 1755443533
     },
     {
-      "id": "2afdb9520508",
-      "title": "陸委會查處唱和中共藝人 文化部：按法律程序進行",
-      "url": "https://udn.com/news/story/6656/8944994",
-      "source": "udn.com",
-      "published": 1755443105
-    },
-    {
       "id": "6166ed2bf205",
       "title": "對等關稅豁免列車 大家搶搭",
       "url": "https://money.udn.com/money/story/122381/8945325",
@@ -308,13 +322,6 @@
       "url": "https://money.udn.com/money/story/5599/8945404",
       "source": "money.udn.com",
       "published": 1755439950
-    },
-    {
-      "id": "76e7b83de188",
-      "title": "外資：新興市場 AI 概念股 漲勢超越科技七雄 看好台、韓表現",
-      "url": "https://money.udn.com/money/story/5599/8945399",
-      "source": "money.udn.com",
-      "published": 1755439721
     },
     {
       "id": "789ca2bd6701",
@@ -595,13 +602,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250816-%E8%A2%AB%E6%82%AC%E7%BA%A2%E9%80%9A%E7%BC%89%E7%9A%84%E9%A6%99%E6%B8%AF%E5%89%8D%E7%AB%8B%E6%B3%95%E4%BC%9A%E8%AE%AE%E5%91%98%E8%AE%B8%E6%99%BA%E5%B3%AF%E8%8E%B7%E6%BE%B3%E6%94%BF%E5%BA%9C%E6%89%B9%E5%87%86%E5%BA%87%E6%8A%A4",
       "source": "rfi.fr",
       "published": 1755350928
-    },
-    {
-      "id": "5e3f20cd7406",
-      "title": "特朗普夫人就乌被绑架儿童问题致信普京 希拉里称将有条件提名特朗普角逐诺奖",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250816-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E5%B0%B1%E4%B9%8C%E8%A2%AB%E7%BB%91%E6%9E%B6%E5%84%BF%E7%AB%A5%E9%97%AE%E9%A2%98%E8%87%B4%E4%BF%A1%E6%99%AE%E4%BA%AC-%E5%B8%8C%E6%8B%89%E9%87%8C%E7%A7%B0%E5%B0%86%E6%9C%89%E6%9D%A1%E4%BB%B6%E6%8F%90%E5%90%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%92%E9%80%90%E8%AF%BA%E5%A5%96",
-      "source": "rfi.fr",
-      "published": 1755347438
     },
     {
       "id": "51f7df8ffbd3",
@@ -1367,5 +1367,5 @@
       "published": 1752916260
     }
   ],
-  "build_id": 1755466257
+  "build_id": 1755470356
 }
