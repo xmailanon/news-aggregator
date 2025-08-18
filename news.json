@@ -1,10 +1,24 @@
 {
-  "updated": 1755546217,
+  "updated": 1755549270,
   "items": [
     {
-      "id": "6a0a64ebdd82",
+      "id": "f68916b70b8b",
+      "title": "與歐洲領袖峰會聚焦安全保證 川普預告俄國擬釋放上千俘虜",
+      "url": "https://money.udn.com/money/story/5599/8947814",
+      "source": "money.udn.com",
+      "published": 1755547649
+    },
+    {
+      "id": "e11cede0f1d1",
+      "title": "澤倫斯基赴白宮會川普　稱尋求以外交結束俄烏戰爭",
+      "url": "https://money.udn.com/money/story/10511/8947807",
+      "source": "money.udn.com",
+      "published": 1755545769
+    },
+    {
+      "id": "65c886d1a913",
       "title": "「川澤會」氣氛好　川普不排除派軍赴烏克蘭維和",
-      "url": "https://money.udn.com/money/story/10511/8947804",
+      "url": "https://money.udn.com/money/story/5599/8947804",
       "source": "money.udn.com",
       "published": 1755544874
     },
@@ -133,20 +147,6 @@
       "url": "https://money.udn.com/money/story/123398/8947616",
       "source": "money.udn.com",
       "published": 1755536057
-    },
-    {
-      "id": "198367d15f33",
-      "title": "【專家之眼】「雙普會」是新雅爾達密約？",
-      "url": "https://money.udn.com/money/story/5599/8947764",
-      "source": "money.udn.com",
-      "published": 1755535771
-    },
-    {
-      "id": "6a171dd5574b",
-      "title": "川普即將會晤澤倫斯基　歐股收盤走勢分歧",
-      "url": "https://money.udn.com/money/story/5599/8947763",
-      "source": "money.udn.com",
-      "published": 1755535687
     },
     {
       "id": "257d8f934a46",
@@ -472,7 +472,7 @@
     },
     {
       "id": "5c1b74b5981c",
-      "title": "特朗普会泽连斯基前发文：乌克兰收不回克里米亚，也不能加入北约",
+      "title": "特朗普会泽连斯基前发文亮底牌：乌克兰收不回克里米亚，也不能加入北约",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250818-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%89%8D%E5%8F%91%E6%96%87-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%94%B6%E4%B8%8D%E5%9B%9E%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%EF%BC%8C%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6",
       "source": "rfi.fr",
       "published": 1755505591
@@ -1360,5 +1360,5 @@
       "published": 1753096320
     }
   ],
-  "build_id": 1755546217
+  "build_id": 1755549270
 }
