@@ -1,6 +1,27 @@
 {
-  "updated": 1755559810,
+  "updated": 1755560607,
   "items": [
+    {
+      "id": "4601cf3a5de5",
+      "title": "川普白宮會晤澤倫斯基　要點一次看",
+      "url": "https://money.udn.com/money/story/5599/8947887",
+      "source": "money.udn.com",
+      "published": 1755559834
+    },
+    {
+      "id": "92da5a053d60",
+      "title": "台積電ADR上漲1.1% 較台北交易溢價22.9%",
+      "url": "https://money.udn.com/money/story/123398/8947880",
+      "source": "money.udn.com",
+      "published": 1755559388
+    },
+    {
+      "id": "e7b276493160",
+      "title": "川普、澤倫斯基與歐洲領袖會談重點一次看",
+      "url": "https://money.udn.com/money/story/5599/8947879",
+      "source": "money.udn.com",
+      "published": 1755559349
+    },
     {
       "id": "55ccf0f90ed3",
       "title": "2026新北市長最新民調 他曝黃國昌大幅升 最強仍是李四川",
@@ -212,32 +233,18 @@
       "published": 1755541953
     },
     {
-      "id": "3415907bcf09",
-      "title": "避開關稅最糟情境+Fed 降息預期 全球股市衝高兩大催化劑",
-      "url": "https://money.udn.com/money/story/5599/8947691",
-      "source": "money.udn.com",
-      "published": 1755540347
-    },
-    {
-      "id": "7e566123f976",
-      "title": "日股兩大指數登頂",
-      "url": "https://money.udn.com/money/story/5599/8947696",
-      "source": "money.udn.com",
-      "published": 1755539942
-    },
-    {
-      "id": "0087fb3424c9",
-      "title": "標普500漲幅太集中…隱憂",
-      "url": "https://money.udn.com/money/story/123398/8947698",
-      "source": "money.udn.com",
-      "published": 1755539807
-    },
-    {
       "id": "257d8f934a46",
       "title": "俄乌战争未了 传欧洲驻华外交官拟抵制出席九三阅兵",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E6%9C%AA%E4%BA%86-%E4%BC%A0%E6%AC%A7%E6%B4%B2%E9%A9%BB%E5%8D%8E%E5%A4%96%E4%BA%A4%E5%AE%98%E6%8B%9F%E6%8A%B5%E5%88%B6%E5%87%BA%E5%B8%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5",
       "source": "rfi.fr",
       "published": 1755534699
+    },
+    {
+      "id": "8aac457cd756",
+      "title": "阿根廷总统米莱受益于反对党“群龙无首”",
+      "url": "https://www.ftchinese.com/story/001107359",
+      "source": "ftchinese.com",
+      "published": 1755532800
     },
     {
       "id": "16c6570d5d7e",
@@ -933,13 +940,6 @@
       "published": 1755195348
     },
     {
-      "id": "6c2474cab30d",
-      "title": "特朗普解雇美国劳工统计局局长是个坏消息",
-      "url": "https://www.ftchinese.com/story/001107338",
-      "source": "ftchinese.com",
-      "published": 1755187200
-    },
-    {
       "id": "97e4f04cdee5",
       "title": "德语媒体：五国联手抗衡特朗普",
       "url": "https://www.dw.com/zh/德语媒体：五国联手抗衡特朗普/a-73640583?maca=chi-rss-chi-all-1127-rdf",
@@ -1360,5 +1360,5 @@
       "published": 1753096320
     }
   ],
-  "build_id": 1755559810
+  "build_id": 1755560607
 }
