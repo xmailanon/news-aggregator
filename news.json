@@ -1,12 +1,54 @@
 {
-  "updated": 1755574200,
+  "updated": 1755576005,
   "items": [
+    {
+      "id": "c71a77ce934e",
+      "title": "無法理解俄烏訴求 專家：川普政府「搞不清楚自己在做什麼」",
+      "url": "https://money.udn.com/money/story/5599/8948457",
+      "source": "money.udn.com",
+      "published": 1755575550
+    },
+    {
+      "id": "4e6be267b09a",
+      "title": "美烏歐閉門會議內幕曝光！傳對烏4項安全保證 川普不准說「停火」",
+      "url": "https://money.udn.com/money/story/5599/8948434",
+      "source": "money.udn.com",
+      "published": 1755575156
+    },
+    {
+      "id": "fdbea18c59a6",
+      "title": "選新北市長?李四川首鬆口:若明年必須承擔 我不會排斥",
+      "url": "https://udn.com/news/story/6656/8948432",
+      "source": "udn.com",
+      "published": 1755575005
+    },
+    {
+      "id": "99291e8daf3a",
+      "title": "台日共享欲從台赴日外國人資訊　防諜趁亂進日本",
+      "url": "https://money.udn.com/money/story/5599/8948418",
+      "source": "money.udn.com",
+      "published": 1755574572
+    },
+    {
+      "id": "2a322f6af324",
+      "title": "八炯寫「百萬網紅」他無端遭網暴 Cheap：過去半年是多可怕",
+      "url": "https://udn.com/news/story/6656/8948403",
+      "source": "udn.com",
+      "published": 1755574289
+    },
     {
       "id": "4b5f02ac9428",
       "title": "朱立倫會見自民黨青年局訪團 盼共同深化台日關係",
       "url": "https://udn.com/news/story/6656/8948260",
       "source": "udn.com",
       "published": 1755574069
+    },
+    {
+      "id": "c29b2ce9fc29",
+      "title": "CNN：川澤白宮峰會令烏克蘭陰霾漸散 但川普「髮夾彎」疑慮揮之不去",
+      "url": "https://money.udn.com/money/story/5599/8948373",
+      "source": "money.udn.com",
+      "published": 1755574054
     },
     {
       "id": "aafa7b4d4ed7",
@@ -184,13 +226,6 @@
       "published": 1755569143
     },
     {
-      "id": "1596039677c1",
-      "title": "回蔣萬安 府：童子賢是成功企業家 組閣是假議題且非市政優先",
-      "url": "https://udn.com/news/story/6656/8948113",
-      "source": "udn.com",
-      "published": 1755568984
-    },
-    {
       "id": "e965736c34e5",
       "title": "奧特曼警告美國低估中國 AI 進展！OpenAI 釋出開放權重模型因應競爭",
       "url": "https://money.udn.com/money/story/5599/8948103",
@@ -224,13 +259,6 @@
       "url": "https://cn.nytimes.com/world/20250819/russia-donbas-importance/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1755567813
-    },
-    {
-      "id": "6fa9ff96acc9",
-      "title": "823核三公投 卓榮泰表態：遵守「兩必須、三原則」",
-      "url": "https://udn.com/news/story/124565/8948060",
-      "source": "udn.com",
-      "published": 1755567726
     },
     {
       "id": "373188c7a760",
@@ -273,34 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/8947969",
       "source": "money.udn.com",
       "published": 1755564806
-    },
-    {
-      "id": "61121847e172",
-      "title": "澤倫斯基提議：歐洲出資 烏採購1,000億美元美國軍售以換取安全保障",
-      "url": "https://money.udn.com/money/story/5599/8947966",
-      "source": "money.udn.com",
-      "published": 1755564511
-    },
-    {
-      "id": "14b0688f266d",
-      "title": "台日簽備忘錄：避免大陸間諜趁台灣有事混進日本 事前審查入境外國人",
-      "url": "https://money.udn.com/money/story/5599/8947959",
-      "source": "money.udn.com",
-      "published": 1755564339
-    },
-    {
-      "id": "e8e7f56f2d13",
-      "title": "澤倫斯基：會晤川普氣氛「溫暖」 準備好與普亭展開雙邊會談",
-      "url": "https://money.udn.com/money/story/5599/8947948",
-      "source": "money.udn.com",
-      "published": 1755563851
-    },
-    {
-      "id": "38c1adda9a7a",
-      "title": "澤倫斯基：願意與蒲亭舉行雙邊會談　盼結束戰爭",
-      "url": "https://money.udn.com/money/story/10511/8947942",
-      "source": "money.udn.com",
-      "published": 1755563433
     },
     {
       "id": "e09b4a6b5d9f",
@@ -378,6 +378,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E6%9C%AA%E4%BA%86-%E4%BC%A0%E6%AC%A7%E6%B4%B2%E9%A9%BB%E5%8D%8E%E5%A4%96%E4%BA%A4%E5%AE%98%E6%8B%9F%E6%8A%B5%E5%88%B6%E5%87%BA%E5%B8%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5",
       "source": "rfi.fr",
       "published": 1755534699
+    },
+    {
+      "id": "25c6a79b36d2",
+      "title": "1945年胜利价值：“抗战建国”之重温（下）",
+      "url": "https://www.ftchinese.com/story/001107362",
+      "source": "ftchinese.com",
+      "published": 1755532800
     },
     {
       "id": "a9df19560ade",
@@ -840,13 +847,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn9289100r9o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1755406760
-    },
-    {
-      "id": "38d9699cc0fb",
-      "title": "当我们忘了怎么说“我不知道”",
-      "url": "https://www.ftchinese.com/story/001107344",
-      "source": "ftchinese.com",
-      "published": 1755360000
     },
     {
       "id": "34adff711c57",
@@ -1353,5 +1353,5 @@
       "published": 1753096320
     }
   ],
-  "build_id": 1755574200
+  "build_id": 1755576005
 }
