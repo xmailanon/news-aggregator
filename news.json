@@ -1,6 +1,13 @@
 {
-  "updated": 1755622099,
+  "updated": 1755624890,
   "items": [
+    {
+      "id": "571dcb86085a",
+      "title": "投資人關注俄烏和談進展　歐股收漲",
+      "url": "https://money.udn.com/money/story/5599/8950276",
+      "source": "money.udn.com",
+      "published": 1755622469
+    },
     {
       "id": "29afd5086702",
       "title": "台日簽備忘錄 迄今未送立院備查",
@@ -28,13 +35,6 @@
       "url": "https://udn.com/news/story/6656/8950210",
       "source": "udn.com",
       "published": 1755620524
-    },
-    {
-      "id": "54281bae0935",
-      "title": "竹南、後龍農地劃設產業用地 國審會未過",
-      "url": "https://udn.com/news/story/7314/8950161",
-      "source": "udn.com",
-      "published": 1755620060
     },
     {
       "id": "5ad4100502bf",
@@ -114,6 +114,13 @@
       "published": 1755619200
     },
     {
+      "id": "71cc4f5d1b27",
+      "title": "美「北方打擊」軍演 台500官兵參加",
+      "url": "https://udn.com/news/story/10930/8949989",
+      "source": "udn.com",
+      "published": 1755619200
+    },
+    {
       "id": "125ebd3e3ab2",
       "title": "企業都更潮翻轉敦化北路　璞永「敦睦」打造鎏金板塊靜巷傳奇",
       "url": "https://udn.com/news/story/7314/8938684",
@@ -126,6 +133,13 @@
       "url": "https://udn.com/news/story/6656/8950028",
       "source": "udn.com",
       "published": 1755619183
+    },
+    {
+      "id": "74f3cec8188e",
+      "title": "外交官涉性騷女下屬 監院彈劾送懲戒法院",
+      "url": "https://udn.com/news/story/6656/8950167",
+      "source": "udn.com",
+      "published": 1755618863
     },
     {
       "id": "76a0ed36f93e",
@@ -247,13 +261,6 @@
       "published": 1755613291
     },
     {
-      "id": "859cd8d48827",
-      "title": "警違法攔檢強壓少年致受傷 監院糾正彰化縣警局",
-      "url": "https://udn.com/news/story/6656/8949837",
-      "source": "udn.com",
-      "published": 1755613018
-    },
-    {
       "id": "377c72b75513",
       "title": "高盛前交易員新創的避險基金據悉獲 Millennium 投入10億美元",
       "url": "https://money.udn.com/money/story/5599/8948734",
@@ -282,16 +289,16 @@
       "published": 1755611973
     },
     {
-      "id": "044285c2f4ee",
-      "title": "美股早盤／英特爾雙喜臨門股價暴漲逾11% 台積電 ADR 下挫",
-      "url": "https://money.udn.com/money/story/123398/8949910",
+      "id": "e16d65a271eb",
+      "title": "石破茂會比爾蓋茲 允供5.5億美元助疫苗普及",
+      "url": "https://money.udn.com/money/story/5599/8949912",
       "source": "money.udn.com",
       "published": 1755611668
     },
     {
-      "id": "e16d65a271eb",
-      "title": "石破茂會比爾蓋茲 允供5.5億美元助疫苗普及",
-      "url": "https://money.udn.com/money/story/5599/8949912",
+      "id": "044285c2f4ee",
+      "title": "美股早盤／英特爾雙喜臨門股價暴漲逾11% 台積電 ADR 下挫",
+      "url": "https://money.udn.com/money/story/123398/8949910",
       "source": "money.udn.com",
       "published": 1755611668
     },
@@ -320,13 +327,6 @@
       "id": "bdb6f54c6478",
       "title": "哈瑪斯同意加薩停火 卡達：內容幾與以色列版本一致",
       "url": "https://money.udn.com/money/story/5599/8949872",
-      "source": "money.udn.com",
-      "published": 1755610569
-    },
-    {
-      "id": "8a879053da5a",
-      "title": "邊境衝突後柬埔寨外勞返鄉 泰國開放斯里蘭卡人替代",
-      "url": "https://money.udn.com/money/story/5599/8949871",
       "source": "money.udn.com",
       "published": 1755610569
     },
@@ -1367,5 +1367,5 @@
       "published": 1753096320
     }
   ],
-  "build_id": 1755622099
+  "build_id": 1755624890
 }
