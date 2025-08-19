@@ -1,30 +1,135 @@
 {
-  "updated": 1755610606,
+  "updated": 1755614508,
   "items": [
     {
+      "id": "0f79327d8187",
+      "title": "印度需求下降 中国炼油厂趁低接手俄罗斯原油",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250819-%E5%8D%B0%E5%BA%A6%E9%9C%80%E6%B1%82%E4%B8%8B%E9%99%8D-%E4%B8%AD%E5%9B%BD%E7%82%BC%E6%B2%B9%E5%8E%82%E8%B6%81%E4%BD%8E%E6%8E%A5%E6%89%8B%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%9F%E6%B2%B9",
+      "source": "rfi.fr",
+      "published": 1755614290
+    },
+    {
+      "id": "c43353a6f363",
+      "title": "川普打壓綠能竟扯AI榮景後腿？克魯曼：美短期有經濟衰退之虞",
+      "url": "https://money.udn.com/money/story/5599/8949965",
+      "source": "money.udn.com",
+      "published": 1755613914
+    },
+    {
+      "id": "0b18f4cf0465",
+      "title": "台積電真要變美積電？盧特尼克批晶片補助白送台積電 不如「這麼做」",
+      "url": "https://money.udn.com/money/story/5599/8949958",
+      "source": "money.udn.com",
+      "published": 1755613836
+    },
+    {
+      "id": "0169eb79c5e9",
+      "title": "日2026年防衛預算擬編1.8兆創新高 大量引進無人機",
+      "url": "https://money.udn.com/money/story/5599/8949943",
+      "source": "money.udn.com",
+      "published": 1755613291
+    },
+    {
+      "id": "859cd8d48827",
+      "title": "警違法攔檢強壓少年致受傷 監院糾正彰化縣警局",
+      "url": "https://udn.com/news/story/6656/8949837",
+      "source": "udn.com",
+      "published": 1755613018
+    },
+    {
+      "id": "377c72b75513",
+      "title": "高盛前交易員新創的避險基金據悉獲 Millennium 投入10億美元",
+      "url": "https://money.udn.com/money/story/5599/8948734",
+      "source": "money.udn.com",
+      "published": 1755612819
+    },
+    {
+      "id": "c49638659bfe",
+      "title": "俄烏峰會有望登場 瑞士表態願給蒲亭逮捕豁免權",
+      "url": "https://money.udn.com/money/story/5599/8949935",
+      "source": "money.udn.com",
+      "published": 1755612807
+    },
+    {
+      "id": "ee590365c666",
+      "title": "普京与泽连斯基峰会在望？能在莫斯科见？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20250819-%E6%99%AE%E4%BA%AC%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%B3%B0%E4%BC%9A%E5%9C%A8%E6%9C%9B",
+      "source": "rfi.fr",
+      "published": 1755612372
+    },
+    {
+      "id": "004ede093181",
+      "title": "美國半導體業在中國銷售停滯 美政府的對華管制帶來什麼副作用？",
+      "url": "https://money.udn.com/money/story/120769/8949309",
+      "source": "money.udn.com",
+      "published": 1755611973
+    },
+    {
+      "id": "044285c2f4ee",
+      "title": "美股早盤／英特爾雙喜臨門股價暴漲逾11% 台積電 ADR 下挫",
+      "url": "https://money.udn.com/money/story/123398/8949910",
+      "source": "money.udn.com",
+      "published": 1755611668
+    },
+    {
+      "id": "e16d65a271eb",
+      "title": "石破茂會比爾蓋茲 允供5.5億美元助疫苗普及",
+      "url": "https://money.udn.com/money/story/5599/8949912",
+      "source": "money.udn.com",
+      "published": 1755611668
+    },
+    {
+      "id": "6eb06ca5cf76",
+      "title": "台日機密備忘錄引關注 外交部：非針對「台灣有事」",
+      "url": "https://udn.com/news/story/6656/8949907",
+      "source": "udn.com",
+      "published": 1755611487
+    },
+    {
+      "id": "ca2f6a0d95fb",
+      "title": "SHEIN希音拟将总部迁回中国 为香港上市铺路",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250819-shein%E5%B8%8C%E9%9F%B3%E6%8B%9F%E5%B0%86%E6%80%BB%E9%83%A8%E8%BF%81%E5%9B%9E%E4%B8%AD%E5%9B%BD-%E4%B8%BA%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E9%93%BA%E8%B7%AF",
+      "source": "rfi.fr",
+      "published": 1755611445
+    },
+    {
+      "id": "d2a54dd01cb4",
+      "title": "美商務部長批資金流向台積電 希望英特爾在美取得成功",
+      "url": "https://money.udn.com/money/story/10511/8949901",
+      "source": "money.udn.com",
+      "published": 1755611231
+    },
+    {
+      "id": "6a87e958079b",
+      "title": "美財長貝森特：美國的任何投資 都是為了讓英特爾更穩定",
+      "url": "https://money.udn.com/money/story/5599/8949880",
+      "source": "money.udn.com",
+      "published": 1755610949
+    },
+    {
       "id": "bd319b229b7b",
-      "title": "蔣萬安拋童子賢組閣 卓榮泰酸不要急...北市1句話反擊",
+      "title": "蔣萬安拋找童子賢組閣 卓榮泰酸不要急…北市1句話反擊",
       "url": "https://udn.com/news/story/6656/8949873",
       "source": "udn.com",
       "published": 1755610625
     },
     {
-      "id": "8a879053da5a",
-      "title": "邊境衝突後柬埔寨外勞返鄉　泰國開放斯里蘭卡人替代",
-      "url": "https://money.udn.com/money/story/5599/8949871",
-      "source": "money.udn.com",
-      "published": 1755610569
-    },
-    {
       "id": "bdb6f54c6478",
-      "title": "哈瑪斯同意加薩停火　卡達：內容幾與以色列版本一致",
+      "title": "哈瑪斯同意加薩停火 卡達：內容幾與以色列版本一致",
       "url": "https://money.udn.com/money/story/5599/8949872",
       "source": "money.udn.com",
       "published": 1755610569
     },
     {
+      "id": "8a879053da5a",
+      "title": "邊境衝突後柬埔寨外勞返鄉 泰國開放斯里蘭卡人替代",
+      "url": "https://money.udn.com/money/story/5599/8949871",
+      "source": "money.udn.com",
+      "published": 1755610569
+    },
+    {
       "id": "45071206ae3c",
-      "title": "抗議王毅訪印度談邊界  30流亡藏人遭捕",
+      "title": "抗議王毅訪印度談邊界 30流亡藏人遭捕",
       "url": "https://money.udn.com/money/story/5599/8949862",
       "source": "money.udn.com",
       "published": 1755610250
@@ -45,7 +150,7 @@
     },
     {
       "id": "e44cd9775d47",
-      "title": "巴基斯坦洪患釀近400死　災民嘆幾分鐘內生活全變調",
+      "title": "巴基斯坦洪患釀近400死 災民嘆幾分鐘內生活全變調",
       "url": "https://money.udn.com/money/story/5599/8949836",
       "source": "money.udn.com",
       "published": 1755609690
@@ -107,13 +212,6 @@
       "published": 1755604850
     },
     {
-      "id": "611312b539f1",
-      "title": "菲總統小馬可仕揭防洪弊案 參議院啟動調查聽證",
-      "url": "https://money.udn.com/money/story/5599/8949624",
-      "source": "money.udn.com",
-      "published": 1755604850
-    },
-    {
       "id": "34d3f716e621",
       "title": "民進黨反核文宣遭日媒打臉仍掛臉書 民眾黨酸：預算被在野黨刪減？",
       "url": "https://udn.com/news/story/124565/8949620",
@@ -149,41 +247,6 @@
       "published": 1755604458
     },
     {
-      "id": "3addc7daf69f",
-      "title": "美國和歐洲據悉立即開始制定為烏克蘭提供安全保障的方案",
-      "url": "https://money.udn.com/money/story/5599/8949263",
-      "source": "money.udn.com",
-      "published": 1755604402
-    },
-    {
-      "id": "1382d142b29c",
-      "title": "印度國家安全顧問稱印中關係呈「上升趨勢」",
-      "url": "https://money.udn.com/money/story/5599/8949325",
-      "source": "money.udn.com",
-      "published": 1755604066
-    },
-    {
-      "id": "e3883f88a5d1",
-      "title": "高利率澆熄房市 美修繕零售巨擘上季財報慘遭「三殺」",
-      "url": "https://money.udn.com/money/story/123398/8949590",
-      "source": "money.udn.com",
-      "published": 1755603989
-    },
-    {
-      "id": "7a0227d7a8c7",
-      "title": "捷克藝術家慕夏遺作 「斯拉夫史詩」系列闡述和平",
-      "url": "https://money.udn.com/money/story/5599/8949585",
-      "source": "money.udn.com",
-      "published": 1755603949
-    },
-    {
-      "id": "01f33372fd54",
-      "title": "ICE拒絕將歐盟聯合債務納入主權債券指數 歐盟債券應聲走低",
-      "url": "https://money.udn.com/money/story/5599/8949478",
-      "source": "money.udn.com",
-      "published": 1755603671
-    },
-    {
       "id": "afb8059d2162",
       "title": "林右昌請辭後新人事？傳徐國勇接任民進黨秘書長 鄭俊昇接副秘書長",
       "url": "https://udn.com/news/story/6656/8949579",
@@ -198,13 +261,6 @@
       "published": 1755603480
     },
     {
-      "id": "77763e362981",
-      "title": "高盛：黃金像曼哈頓房產 價格由「這兩類買家」決定",
-      "url": "https://money.udn.com/money/story/5599/8949577",
-      "source": "money.udn.com",
-      "published": 1755603468
-    },
-    {
       "id": "fb29442cd650",
       "title": "美軍「北方打擊」演習逾500台官兵參演 分析：小島秘密行動避北京飛彈",
       "url": "https://udn.com/news/story/10930/8949480",
@@ -212,32 +268,11 @@
       "published": 1755603443
     },
     {
-      "id": "8268516f1a82",
-      "title": "美國情報總監稱英國不再要求蘋果公司針對美國用戶數據「開後門」",
-      "url": "https://money.udn.com/money/story/5599/8949190",
-      "source": "money.udn.com",
-      "published": 1755602919
-    },
-    {
-      "id": "cb7c81161058",
-      "title": "特斯拉推出六座Model Y 定價對標理想L8車型",
-      "url": "https://money.udn.com/money/story/5599/8949191",
-      "source": "money.udn.com",
-      "published": 1755602847
-    },
-    {
       "id": "3e131d612246",
       "title": "IORG：中共加強散播台灣民主失敗論 擴散威權價值",
       "url": "https://udn.com/news/story/6656/8949535",
       "source": "udn.com",
       "published": 1755602621
-    },
-    {
-      "id": "be28bc879a19",
-      "title": "科技泡沫恐再現？美國期權交易員買入「災難」看跌期權",
-      "url": "https://money.udn.com/money/story/123398/8949517",
-      "source": "money.udn.com",
-      "published": 1755602569
     },
     {
       "id": "c7d551762d63",
@@ -296,20 +331,6 @@
       "published": 1755597589
     },
     {
-      "id": "989cf8281a2c",
-      "title": "台日簽備忘錄防大陸間諜 牛煦庭 ：針對戰時特殊情況",
-      "url": "https://udn.com/news/story/6656/8949389",
-      "source": "udn.com",
-      "published": 1755597348
-    },
-    {
-      "id": "08fc77437259",
-      "title": "藍委喊要多聽韓國瑜的話 卓榮泰：我跟他有很多故事「不能讓人知道」",
-      "url": "https://udn.com/news/story/6656/8949386",
-      "source": "udn.com",
-      "published": 1755597305
-    },
-    {
       "id": "162590d60902",
       "title": "台灣「重啟核三公投」為何引起爭議？",
       "url": "https://www.bbc.com/zhongwen/articles/crr2xd8wd4qo/trad?at_medium=RSS&at_campaign=rss",
@@ -346,7 +367,7 @@
     },
     {
       "id": "40b6777eda37",
-      "title": "菲澳“阿隆” 演习期间  菲澳加三国在南海联合航行",
+      "title": "菲澳“阿隆” 联演期间  菲澳加三国在南海联合航行",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250819-%E8%8F%B2%E6%BE%B3-%E9%98%BF%E9%9A%86-%E6%BC%94%E4%B9%A0%E6%9C%9F%E9%97%B4-%E8%8F%B2%E6%BE%B3%E5%8A%A0%E4%B8%89%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E8%81%94%E5%90%88%E8%88%AA%E8%A1%8C",
       "source": "rfi.fr",
       "published": 1755592865
@@ -497,13 +518,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%8D%97%E9%83%A8%E9%9D%9E%E6%B4%B2%E5%8F%91%E5%B1%95%E5%85%B1%E5%90%8C%E4%BD%932025%E5%B3%B0%E4%BC%9A",
       "source": "rfi.fr",
       "published": 1755554180
-    },
-    {
-      "id": "9f0eed2e11dc",
-      "title": "贸易争端升级：中国延长对欧乳制品反补贴调查",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-%E8%B4%B8%E6%98%93%E4%BA%89%E7%AB%AF%E5%8D%87%E7%BA%A7-%E4%B8%AD%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%AF%B9%E6%AC%A7%E4%B9%B3%E5%88%B6%E5%93%81%E5%8F%8D%E8%A1%A5%E8%B4%B4%E8%B0%83%E6%9F%A5",
-      "source": "rfi.fr",
-      "published": 1755552756
     },
     {
       "id": "9702e1bc97a3",
@@ -660,13 +674,6 @@
       "published": 1755530631
     },
     {
-      "id": "cb00077a3dbe",
-      "title": "中国回应特朗普“我任期内习近平不会攻台”称，台湾“问题”是内部事务",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%91%E6%89%A7%E6%94%BF%E6%9C%9F%E9%97%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8D%E4%BC%9A%E6%94%BB%E5%8F%B0-%E7%A7%B0%EF%BC%8C%E5%8F%B0%E6%B9%BE-%E9%97%AE%E9%A2%98-%E6%98%AF%E5%86%85%E9%83%A8%E4%BA%8B%E5%8A%A1",
-      "source": "rfi.fr",
-      "published": 1755528890
-    },
-    {
       "id": "06e2d57e4205",
       "title": "德语媒体：“德国制造”需要“中国速度”",
       "url": "https://www.dw.com/zh/德语媒体：-德国制造-需要-中国速度/a-73682179?maca=chi-rss-chi-all-1127-rdf",
@@ -728,13 +735,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/ckgjyz1dw22o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1755509665
-    },
-    {
-      "id": "9c6957533a91",
-      "title": "中国谴责德国“炒作”亚洲地区紧张局势",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-%E4%B8%AD%E5%9B%BD%E8%B0%B4%E8%B4%A3%E5%BE%B7%E5%9B%BD-%E7%82%92%E4%BD%9C-%E4%BA%9A%E6%B4%B2%E5%9C%B0%E5%8C%BA%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF",
-      "source": "rfi.fr",
-      "published": 1755508239
     },
     {
       "id": "292dda135d06",
@@ -1360,5 +1360,5 @@
       "published": 1753096320
     }
   ],
-  "build_id": 1755610606
+  "build_id": 1755614508
 }
