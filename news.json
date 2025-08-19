@@ -1,6 +1,27 @@
 {
-  "updated": 1755602843,
+  "updated": 1755603721,
   "items": [
+    {
+      "id": "01f33372fd54",
+      "title": "ICE拒絕將歐盟聯合債務納入主權債券指數 歐盟債券應聲走低",
+      "url": "https://money.udn.com/money/story/5599/8949478",
+      "source": "money.udn.com",
+      "published": 1755603671
+    },
+    {
+      "id": "77763e362981",
+      "title": "高盛：黃金像曼哈頓房產 價格由「這兩類買家」決定",
+      "url": "https://money.udn.com/money/story/5599/8949577",
+      "source": "money.udn.com",
+      "published": 1755603468
+    },
+    {
+      "id": "8268516f1a82",
+      "title": "美國情報總監稱英國不再要求蘋果公司針對美國用戶數據「開後門」",
+      "url": "https://money.udn.com/money/story/5599/8949190",
+      "source": "money.udn.com",
+      "published": 1755602919
+    },
     {
       "id": "cb7c81161058",
       "title": "特斯拉推出六座Model Y 定價對標理想L8車型",
@@ -9,11 +30,25 @@
       "published": 1755602847
     },
     {
+      "id": "3e131d612246",
+      "title": "IORG：中共加強散播台灣民主失敗論 擴散威權價值",
+      "url": "https://udn.com/news/story/6656/8949535",
+      "source": "udn.com",
+      "published": 1755602621
+    },
+    {
       "id": "be28bc879a19",
       "title": "科技泡沫恐再現？美國期權交易員買入「災難」看跌期權",
       "url": "https://money.udn.com/money/story/123398/8949517",
       "source": "money.udn.com",
       "published": 1755602569
+    },
+    {
+      "id": "c7d551762d63",
+      "title": "南橫重創...高市選委會提醒三里里民823公投日 返鄉投票注意安全",
+      "url": "https://udn.com/news/story/124565/8949554",
+      "source": "udn.com",
+      "published": 1755602549
     },
     {
       "id": "33af0ca6141f",
@@ -303,46 +338,11 @@
       "published": 1755592393
     },
     {
-      "id": "fba7c68687eb",
-      "title": "王毅訪問印度 印外交部：對台立場不變",
-      "url": "https://money.udn.com/money/story/5599/8949195",
-      "source": "money.udn.com",
-      "published": 1755592226
-    },
-    {
       "id": "6ec451de3f26",
       "title": "金正恩呼吁“快速扩张”国家核能力 刑满的前平壤间谍申请回朝鲜",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250819-%E9%87%91%E6%AD%A3%E6%81%A9%E5%91%BC%E5%90%81-%E5%BF%AB%E9%80%9F%E6%89%A9%E5%BC%A0-%E5%9B%BD%E5%AE%B6%E6%A0%B8%E8%83%BD%E5%8A%9B-%E5%88%91%E6%BB%A1%E7%9A%84%E5%89%8D%E5%B9%B3%E5%A3%A4%E9%97%B4%E8%B0%8D%E7%94%B3%E8%AF%B7%E5%9B%9E%E6%9C%9D%E9%B2%9C",
       "source": "rfi.fr",
       "published": 1755592225
-    },
-    {
-      "id": "bf3eb3759da7",
-      "title": "OpenAI印度推最平價ChatGPT方案 月費138元搶客",
-      "url": "https://money.udn.com/money/story/5599/8949192",
-      "source": "money.udn.com",
-      "published": 1755592224
-    },
-    {
-      "id": "36acc7f30af0",
-      "title": "羅明才服務處宣講 強調爭取建設、籲823投下不同意票",
-      "url": "https://udn.com/news/story/124323/8949180",
-      "source": "udn.com",
-      "published": 1755591944
-    },
-    {
-      "id": "b5fea69d899d",
-      "title": "加航空服員無視復工令 罷工已影響50萬旅客",
-      "url": "https://money.udn.com/money/story/5599/8949168",
-      "source": "money.udn.com",
-      "published": 1755591674
-    },
-    {
-      "id": "aad06b5a55a8",
-      "title": "監院曝財產申報！蔣萬安存款暴增+繳清房貸 李四川背債2000萬",
-      "url": "https://udn.com/news/story/6656/8949129",
-      "source": "udn.com",
-      "published": 1755590568
     },
     {
       "id": "8494498b145e",
@@ -1353,5 +1353,5 @@
       "published": 1753096320
     }
   ],
-  "build_id": 1755602843
+  "build_id": 1755603721
 }
