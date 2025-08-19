@@ -1,23 +1,219 @@
 {
-  "updated": 1755588684,
+  "updated": 1755593388,
   "items": [
     {
-      "id": "7d2065ee51e2",
+      "id": "c94f6a92534a",
+      "title": "傳輝達打造銷陸新晶片「B30A」 性能超越H20",
+      "url": "https://money.udn.com/money/story/5599/8949252",
+      "source": "money.udn.com",
+      "published": 1755593372
+    },
+    {
+      "id": "40b6777eda37",
+      "title": "菲澳“阿隆” 演习期间  菲澳加三国在南海联合航行",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250819-%E8%8F%B2%E6%BE%B3-%E9%98%BF%E9%9A%86-%E6%BC%94%E4%B9%A0%E6%9C%9F%E9%97%B4-%E8%8F%B2%E6%BE%B3%E5%8A%A0%E4%B8%89%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E8%81%94%E5%90%88%E8%88%AA%E8%A1%8C",
+      "source": "rfi.fr",
+      "published": 1755592865
+    },
+    {
+      "id": "8c54799392d3",
+      "title": "韓國火車事故釀2死5傷 疑安全管理疏失",
+      "url": "https://money.udn.com/money/story/5599/8949214",
+      "source": "money.udn.com",
+      "published": 1755592605
+    },
+    {
+      "id": "7bb6f6f541cb",
+      "title": "袁嘉蔚今刑满获释 「47人案」被告至今有12人出狱",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250819-%E8%A2%81%E5%98%89%E8%94%9A%E4%BB%8A%E5%88%91%E6%BB%A1%E8%8E%B7%E9%87%8A-47%E4%BA%BA%E6%A1%88-%E8%A2%AB%E5%91%8A%E8%87%B3%E4%BB%8A%E6%9C%8912%E4%BA%BA%E5%87%BA%E7%8B%B1",
+      "source": "rfi.fr",
+      "published": 1755592449
+    },
+    {
+      "id": "48832fe4698e",
+      "title": "美經濟轉壞領先指標？開學購物季起跑 當鋪生意大好",
+      "url": "https://money.udn.com/money/story/10511/8949200",
+      "source": "money.udn.com",
+      "published": 1755592393
+    },
+    {
+      "id": "fba7c68687eb",
+      "title": "王毅訪問印度 印外交部：對台立場不變",
+      "url": "https://money.udn.com/money/story/5599/8949195",
+      "source": "money.udn.com",
+      "published": 1755592226
+    },
+    {
+      "id": "6ec451de3f26",
+      "title": "金正恩呼吁“快速扩张”国家核能力 刑满的前平壤间谍申请回朝鲜",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250819-%E9%87%91%E6%AD%A3%E6%81%A9%E5%91%BC%E5%90%81-%E5%BF%AB%E9%80%9F%E6%89%A9%E5%BC%A0-%E5%9B%BD%E5%AE%B6%E6%A0%B8%E8%83%BD%E5%8A%9B-%E5%88%91%E6%BB%A1%E7%9A%84%E5%89%8D%E5%B9%B3%E5%A3%A4%E9%97%B4%E8%B0%8D%E7%94%B3%E8%AF%B7%E5%9B%9E%E6%9C%9D%E9%B2%9C",
+      "source": "rfi.fr",
+      "published": 1755592225
+    },
+    {
+      "id": "bf3eb3759da7",
+      "title": "OpenAI印度推最平價ChatGPT方案 月費138元搶客",
+      "url": "https://money.udn.com/money/story/5599/8949192",
+      "source": "money.udn.com",
+      "published": 1755592224
+    },
+    {
+      "id": "36acc7f30af0",
+      "title": "羅明才服務處宣講 強調爭取建設呼籲823投下不同意票",
+      "url": "https://udn.com/news/story/124323/8949180",
+      "source": "udn.com",
+      "published": 1755591944
+    },
+    {
+      "id": "60ca07e7632f",
+      "title": "桃園張善政化身DJ推音樂節 被問身家破億只回一句話",
+      "url": "https://udn.com/news/story/6656/8949167",
+      "source": "udn.com",
+      "published": 1755591688
+    },
+    {
+      "id": "b5fea69d899d",
+      "title": "加航空服員無視復工令 罷工已影響50萬旅客",
+      "url": "https://money.udn.com/money/story/5599/8949168",
+      "source": "money.udn.com",
+      "published": 1755591674
+    },
+    {
+      "id": "94a0589fb609",
+      "title": "北宜高鐵進入環評大會 張勝德質問交通部：「說好的說明會呢？」",
+      "url": "https://udn.com/news/story/7314/8949159",
+      "source": "udn.com",
+      "published": 1755591225
+    },
+    {
+      "id": "614bd86e9c4c",
+      "title": "痛斥美國威脅 委內瑞拉總統揚言動員450萬民兵因應",
+      "url": "https://money.udn.com/money/story/5599/8949156",
+      "source": "money.udn.com",
+      "published": 1755591133
+    },
+    {
+      "id": "aad06b5a55a8",
+      "title": "監院曝財產申報！蔣萬安存款暴增+繳清房貸 李四川背債2000萬",
+      "url": "https://udn.com/news/story/6656/8949129",
+      "source": "udn.com",
+      "published": 1755590568
+    },
+    {
+      "id": "2637ab6d3b3f",
+      "title": "核三延役公投前 葛如鈞率跨黨派委員赴核三廠考察",
+      "url": "https://udn.com/news/story/124565/8949131",
+      "source": "udn.com",
+      "published": 1755590567
+    },
+    {
+      "id": "3ba6a227f446",
+      "title": "遭疑台灣關稅疊加比日本高9% 卓榮泰：簽訂協議後爭取合理稅率",
+      "url": "https://udn.com/news/story/6656/8949133",
+      "source": "udn.com",
+      "published": 1755590566
+    },
+    {
+      "id": "0895cfebb406",
+      "title": "「零日攻擊」導演遭控拿千萬補助難驗核 卓榮泰：若有不法就辦",
+      "url": "https://udn.com/news/story/6656/8949127",
+      "source": "udn.com",
+      "published": 1755590524
+    },
+    {
+      "id": "474760bb0be8",
+      "title": "日警派80人赴柬埔寨　將押送29名日籍詐欺犯嫌回國",
+      "url": "https://money.udn.com/money/story/5599/8949124",
+      "source": "money.udn.com",
+      "published": 1755590457
+    },
+    {
+      "id": "ddde026833be",
+      "title": "路透民調：川普支持率維持40%　仍處任期最低點",
+      "url": "https://money.udn.com/money/story/10511/8949114",
+      "source": "money.udn.com",
+      "published": 1755590412
+    },
+    {
+      "id": "8494498b145e",
+      "title": "印度总理莫迪将于8月底访问中国 出席上合峰会",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250819-%E5%8D%B0%E5%BA%A6%E6%80%BB%E7%90%86%E8%8E%AB%E8%BF%AA%E5%B0%86%E4%BA%8E8%E6%9C%88%E5%BA%95%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD-%E5%87%BA%E5%B8%AD%E4%B8%8A%E5%90%88%E5%B3%B0%E4%BC%9A",
+      "source": "rfi.fr",
+      "published": 1755590299
+    },
+    {
+      "id": "67ce8f52d941",
+      "title": "民進黨發言人：在野黨刪凍國防預算 向美傳遞投降主義想法",
+      "url": "https://udn.com/news/story/6656/8949022",
+      "source": "udn.com",
+      "published": 1755590060
+    },
+    {
+      "id": "0d1872a86c0e",
+      "title": "被通缉的「香港议会议员」钱宝芬 其在港妹妹被国安警带走助查",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250819-%E8%A2%AB%E9%80%9A%E7%BC%89%E7%9A%84-%E9%A6%99%E6%B8%AF%E8%AE%AE%E4%BC%9A%E8%AE%AE%E5%91%98-%E9%92%B1%E5%AE%9D%E8%8A%AC-%E5%85%B6%E5%9C%A8%E6%B8%AF%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%B8%A6%E8%B5%B0%E5%8A%A9%E6%9F%A5",
+      "source": "rfi.fr",
+      "published": 1755589677
+    },
+    {
+      "id": "918979e85f39",
+      "title": "澳大利亚审查瑙鲁与中国公司签订的商业协议，是否违反澳瑙两国安全协议",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250819-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%AE%A1%E6%9F%A5%E7%91%99%E9%B2%81%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E7%AD%BE%E8%AE%A2%E7%9A%84%E5%95%86%E4%B8%9A%E5%8D%8F%E8%AE%AE%EF%BC%8C%E6%98%AF%E5%90%A6%E8%BF%9D%E5%8F%8D%E6%BE%B3%E7%91%99%E4%B8%A4%E5%9B%BD%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE",
+      "source": "rfi.fr",
+      "published": 1755589473
+    },
+    {
+      "id": "386b53fee799",
+      "title": "李四川表態願承擔2026新北 要不要藍白合？ 朱立倫說話了",
+      "url": "https://udn.com/news/story/6656/8949081",
+      "source": "udn.com",
+      "published": 1755589400
+    },
+    {
+      "id": "301973ab3c39",
+      "title": "「饮水门」：港府疑受骗中港骗子 中标国产水供应商夫妇涉造假被控",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250819-%E9%A5%AE%E6%B0%B4%E9%97%A8-%E6%B8%AF%E5%BA%9C%E7%96%91%E5%8F%97%E9%AA%97%E4%B8%AD%E6%B8%AF%E9%AA%97%E5%AD%90-%E4%B8%AD%E6%A0%87%E5%9B%BD%E4%BA%A7%E6%B0%B4%E4%BE%9B%E5%BA%94%E5%95%86%E5%A4%AB%E5%A6%87%E6%B6%89%E9%80%A0%E5%81%87%E8%A2%AB%E6%8E%A7",
+      "source": "rfi.fr",
+      "published": 1755589378
+    },
+    {
+      "id": "833e378b865b",
+      "title": "立陶宛政局重整 勞動部長可望成為第3位女總理",
+      "url": "https://money.udn.com/money/story/5599/8949065",
+      "source": "money.udn.com",
+      "published": 1755589005
+    },
+    {
+      "id": "a41111432058",
+      "title": "供毒致男星馬修派瑞猝死 毒販「K他命女王」認罪",
+      "url": "https://money.udn.com/money/story/10511/8949064",
+      "source": "money.udn.com",
+      "published": 1755588968
+    },
+    {
+      "id": "bf07f85d1da6",
+      "title": "李四川鬆口願承擔 新北白議員喊藍白合：才能力抗民進黨",
+      "url": "https://udn.com/news/story/6656/8949056",
+      "source": "udn.com",
+      "published": 1755588784
+    },
+    {
+      "id": "386f8754a530",
       "title": "川普承諾澤倫斯基：美國將協助保障烏克蘭安全",
-      "url": "https://money.udn.com/money/story/10511/8949052",
+      "url": "https://money.udn.com/money/story/5599/8949052",
       "source": "money.udn.com",
       "published": 1755588642
     },
     {
       "id": "480839efc48f",
-      "title": "投資人觀望聯準會政策方向　日股震盪收低",
+      "title": "投資人觀望聯準會政策方向 日股震盪收低",
       "url": "https://money.udn.com/money/story/5599/8949053",
       "source": "money.udn.com",
       "published": 1755588640
     },
     {
       "id": "3537c4569348",
-      "title": "影/李四川表態「願承擔」 黃國昌：與藍共推最強候選人",
+      "title": "影／李四川表態「願承擔」新北市長 黃國昌：與藍共推最強候選人",
       "url": "https://udn.com/news/story/6656/8949042",
       "source": "udn.com",
       "published": 1755588418
@@ -149,13 +345,6 @@
       "published": 1755584803
     },
     {
-      "id": "dd591acb72e9",
-      "title": "大阪道頓堀火災奪2命 失火建物消防檢驗曾不合格",
-      "url": "https://money.udn.com/money/story/5599/8948878",
-      "source": "money.udn.com",
-      "published": 1755584552
-    },
-    {
       "id": "af909fb01794",
       "title": "立院新會期將審下年度總預算 卓榮泰：主動介入協商",
       "url": "https://udn.com/news/story/6656/8948816",
@@ -163,151 +352,11 @@
       "published": 1755584344
     },
     {
-      "id": "c1914cb5fa71",
-      "title": "美韓周五峰會前 三星傳考慮擴大注資德州泰勒晶圓廠",
-      "url": "https://money.udn.com/money/story/5599/8948851",
-      "source": "money.udn.com",
-      "published": 1755583810
-    },
-    {
-      "id": "d4c880b71130",
-      "title": "政治穿搭學 澤倫斯基靠「衣Ｑ」博川普好感",
-      "url": "https://money.udn.com/money/story/5599/8948840",
-      "source": "money.udn.com",
-      "published": 1755583573
-    },
-    {
       "id": "7a1a5afa7ade",
       "title": "蔣萬安籲找童子賢組閣遭嗆脫離市政 藍引「雜質說」：卓沒資格批蔣",
       "url": "https://udn.com/news/story/6656/8948829",
       "source": "udn.com",
       "published": 1755583313
-    },
-    {
-      "id": "a82dd348692e",
-      "title": "智慧盜刷團騙過刷卡機詐全台 銀行無配套恐釀國安危機",
-      "url": "https://udn.com/news/story/6656/8948749",
-      "source": "udn.com",
-      "published": 1755583200
-    },
-    {
-      "id": "95816fa4e669",
-      "title": "外交部：利用產業優勢推CPTPP 試與智利、大馬合作",
-      "url": "https://udn.com/news/story/6656/8948797",
-      "source": "udn.com",
-      "published": 1755583084
-    },
-    {
-      "id": "27c5db401db9",
-      "title": "影／美國男子向俄國媒體抱怨零件難買 普亭送他一輛全新摩托車",
-      "url": "https://money.udn.com/money/story/5599/8948805",
-      "source": "money.udn.com",
-      "published": 1755582990
-    },
-    {
-      "id": "d0d5b8719355",
-      "title": "民進黨自民黨青年局座談 聚焦台日執政黨面臨挑戰",
-      "url": "https://udn.com/news/story/6656/8948752",
-      "source": "udn.com",
-      "published": 1755582924
-    },
-    {
-      "id": "6d54eb28fdf9",
-      "title": "作為對台策略參考 CNN：中國密切關注川普推動俄烏和平",
-      "url": "https://money.udn.com/money/story/5599/8948789",
-      "source": "money.udn.com",
-      "published": 1755582710
-    },
-    {
-      "id": "c3dd000a641d",
-      "title": "選新北市長黃國昌、李四川相繼表態 林右昌辦公室表示：沒有回應",
-      "url": "https://udn.com/news/story/6656/8948781",
-      "source": "udn.com",
-      "published": 1755582392
-    },
-    {
-      "id": "0df560797c34",
-      "title": "爭取台美關稅不疊加 卓榮泰：還沒定案",
-      "url": "https://udn.com/news/story/6656/8948555",
-      "source": "udn.com",
-      "published": 1755581944
-    },
-    {
-      "id": "2651b6418abd",
-      "title": "才上任兩年　美國空軍參謀長擬提早退休",
-      "url": "https://money.udn.com/money/story/10511/8948741",
-      "source": "money.udn.com",
-      "published": 1755581450
-    },
-    {
-      "id": "485e751a9913",
-      "title": "王毅訪印度會晤外長  中國恢復供稀土化肥潛盾機",
-      "url": "https://money.udn.com/money/story/5599/8948740",
-      "source": "money.udn.com",
-      "published": 1755581449
-    },
-    {
-      "id": "6b5e20d73e3d",
-      "title": "南韓日益轉向單人家庭 國際不動產業者搶攻「獨居」租屋商機",
-      "url": "https://money.udn.com/money/story/5599/8948743",
-      "source": "money.udn.com",
-      "published": 1755581448
-    },
-    {
-      "id": "3be646687309",
-      "title": "美軍披露 500台灣軍人參與今年北方打擊演習",
-      "url": "https://udn.com/news/story/10930/8948732",
-      "source": "udn.com",
-      "published": 1755581423
-    },
-    {
-      "id": "414a47605f5a",
-      "title": "核三重啟公投倒數4天 逾530位學者聯署反對",
-      "url": "https://udn.com/news/story/124565/8948725",
-      "source": "udn.com",
-      "published": 1755581195
-    },
-    {
-      "id": "84fb8b417047",
-      "title": "「川普學」總複習！烏歐領袖「全班在白宮上外交課」 有1人險惹怒川普",
-      "url": "https://money.udn.com/money/story/5599/8948723",
-      "source": "money.udn.com",
-      "published": 1755581130
-    },
-    {
-      "id": "95a728f5f12a",
-      "title": "李四川鬆口願承擔 洪孟楷：支持最具民意者參選",
-      "url": "https://udn.com/news/story/6656/8948719",
-      "source": "udn.com",
-      "published": 1755581103
-    },
-    {
-      "id": "13240553bcfc",
-      "title": "澤倫斯基談華府峰會成果　聚焦安全保障與烏俄談判",
-      "url": "https://money.udn.com/money/story/10511/8948713",
-      "source": "money.udn.com",
-      "published": 1755580883
-    },
-    {
-      "id": "a00a675fe3a7",
-      "title": "高盛：聯準會降息 未必能看到資金狂潮湧入股市",
-      "url": "https://money.udn.com/money/story/123398/8948709",
-      "source": "money.udn.com",
-      "published": 1755580841
-    },
-    {
-      "id": "d3cecc0b54ce",
-      "title": "中選會公告：823核三重啟公投 門檻500萬同意票",
-      "url": "https://udn.com/news/story/124565/8948700",
-      "source": "udn.com",
-      "published": 1755580532
-    },
-    {
-      "id": "bca22e0053e3",
-      "title": "蔣萬安籲童子賢組閣 黃國昌盼賴總統不要小圈圈取暖",
-      "url": "https://udn.com/news/story/6656/8948680",
-      "source": "udn.com",
-      "published": 1755580144
     },
     {
       "id": "2c3abd5c707e",
@@ -429,6 +478,13 @@
       "published": 1755550369
     },
     {
+      "id": "ed1786ac7b98",
+      "title": "泽连斯基能信任特朗普吗？乌克兰的命运或许取决于此",
+      "url": "https://cn.nytimes.com/usa/20250819/zelensky-trump-ukraine-trust/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1755547832
+    },
+    {
       "id": "25f2ed098dbe",
       "title": "哈马斯宣布接受新停火提议",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250818-%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E5%B8%83%E6%8E%A5%E5%8F%97%E6%96%B0%E5%81%9C%E7%81%AB%E6%8F%90%E8%AE%AE",
@@ -520,13 +576,6 @@
       "published": 1755530631
     },
     {
-      "id": "e8d355a4f198",
-      "title": "欧洲思想文化长廊：德国浪漫主义之四：丰饶之地--哥尼斯堡的传奇",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A/20250818-%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A-%E5%BE%B7%E5%9B%BD%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E4%B9%8B%E5%9B%9B-%E4%B8%B0%E9%A5%B6%E4%B9%8B%E5%9C%B0-%E5%93%A5%E5%B0%BC%E6%96%AF%E5%A0%A1%E7%9A%84%E4%BC%A0%E5%A5%87",
-      "source": "rfi.fr",
-      "published": 1755530285
-    },
-    {
       "id": "a8dac181f7a7",
       "title": "乌战华盛顿会谈：欧多国领导人与泽连斯基携手共进",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20250818-%E4%B9%8C%E6%88%98%E5%8D%8E%E7%9B%9B%E9%A1%BF%E4%BC%9A%E8%B0%88-%E6%AC%A7%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%90%BA%E6%89%8B%E5%85%B1%E8%BF%9B",
@@ -576,13 +625,6 @@
       "published": 1755518539
     },
     {
-      "id": "42ff658a86fe",
-      "title": "玻利维亚政局大转弯： 总统选举首轮投票两名右翼候选人胜出",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250818-%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%E6%94%BF%E5%B1%80%E5%A4%A7%E8%BD%AC%E5%BC%AF-%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E9%A6%96%E8%BD%AE%E6%8A%95%E7%A5%A8%E4%B8%A4%E5%90%8D%E5%8F%B3%E7%BF%BC%E5%80%99%E9%80%89%E4%BA%BA%E8%83%9C%E5%87%BA",
-      "source": "rfi.fr",
-      "published": 1755518410
-    },
-    {
       "id": "a840e22c841c",
       "title": "香港法庭听取黎智英案结案陈词 检方控黎意图煽动对中港的制裁",
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20250818-%E9%A6%99%E6%B8%AF%E6%B3%95%E5%BA%AD%E5%90%AC%E5%8F%96%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88%E7%BB%93%E6%A1%88%E9%99%88%E8%AF%8D",
@@ -609,13 +651,6 @@
       "url": "https://www.dw.com/zh/特朗普加大施压：泽连斯基可以立即结束战争/a-73678208?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1755511980
-    },
-    {
-      "id": "d151316dbfc6",
-      "title": "日本首相表示：解决俄乌问题时不能给国际秩序留下隐患",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E8%A1%A8%E7%A4%BA-%E8%A7%A3%E5%86%B3%E4%BF%84%E4%B9%8C%E9%97%AE%E9%A2%98%E6%97%B6%E4%B8%8D%E8%83%BD%E7%BB%99%E5%9B%BD%E9%99%85%E7%A7%A9%E5%BA%8F%E7%95%99%E4%B8%8B%E9%9A%90%E6%82%A3",
-      "source": "rfi.fr",
-      "published": 1755511085
     },
     {
       "id": "ab755afe263e",
@@ -653,13 +688,6 @@
       "published": 1755507766
     },
     {
-      "id": "688d74508430",
-      "title": "中国呼吁乌克兰和平谈判“各方”尽早达成协议",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-%E4%B8%AD%E5%9B%BD%E5%91%BC%E5%90%81%E4%B9%8C%E5%85%8B%E5%85%B0%E5%92%8C%E5%B9%B3%E8%B0%88%E5%88%A4-%E5%90%84%E6%96%B9-%E5%B0%BD%E6%97%A9%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1755506999
-    },
-    {
       "id": "4bb0a8fe4e67",
       "title": "觀察：澤連斯基要在強勢普京的陰影下會見特朗普？",
       "url": "https://www.bbc.com/zhongwen/articles/c1mp7j222n4o/trad?at_medium=RSS&at_campaign=rss",
@@ -674,25 +702,11 @@
       "published": 1755505591
     },
     {
-      "id": "c5d939a4f482",
-      "title": "中国外长王毅访问印度 北京希望恢复边境贸易 特朗普关税“助推”一把",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E8%AE%BF%E9%97%AE%E5%8D%B0%E5%BA%A6-%E5%8C%97%E4%BA%AC%E5%B8%8C%E6%9C%9B%E6%81%A2%E5%A4%8D%E8%BE%B9%E5%A2%83%E8%B4%B8%E6%98%93",
-      "source": "rfi.fr",
-      "published": 1755503484
-    },
-    {
       "id": "9e466aafa93a",
       "title": "患有癡呆症的貓或可幫助找到治療阿茲海默症的方法",
       "url": "https://www.bbc.com/zhongwen/articles/cn02kger3nno/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1755500142
-    },
-    {
-      "id": "11cb7ce8c555",
-      "title": "港府急叫停国产水供港 疑供应商属冒牌 评论：今次是「中国优先」之过",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-%E6%B8%AF%E5%BA%9C%E6%80%A5%E5%8F%AB%E5%81%9C%E5%9B%BD%E4%BA%A7%E6%B0%B4%E4%BE%9B%E6%B8%AF-%E7%96%91%E4%BE%9B%E5%BA%94%E5%95%86%E5%B1%9E%E5%86%92%E7%89%8C-%E8%AF%84%E8%AE%BA-%E4%BB%8A%E6%AC%A1%E6%98%AF-%E4%B8%AD%E5%9B%BD%E4%BC%98%E5%85%88-%E4%B9%8B%E8%BF%87",
-      "source": "rfi.fr",
-      "published": 1755499757
     },
     {
       "id": "ac11d6bd5697",
@@ -728,13 +742,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cpdj61djyngo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1755487939
-    },
-    {
-      "id": "5d082e8286e4",
-      "title": "欧洲的领导人们星期一去华盛顿和泽连斯基与特朗普举行俄乌问题会谈",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250817-%E6%AC%A7%E6%B4%B2%E7%9A%84%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BB%AC%E6%98%9F%E6%9C%9F%E4%B8%80%E5%8E%BB%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%92%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BE%E8%A1%8C%E4%BF%84%E4%B9%8C%E9%97%AE%E9%A2%98%E4%BC%9A%E8%B0%88",
-      "source": "rfi.fr",
-      "published": 1755470654
     },
     {
       "id": "da5301a42b48",
@@ -1094,13 +1101,6 @@
       "published": 1755028930
     },
     {
-      "id": "67b196fdc0f6",
-      "title": "12岁的“伟大向导者”：金正恩如何为女儿打造接班人形象",
-      "url": "https://cn.nytimes.com/asia-pacific/20250812/kim-daughter-north-korea/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1755025679
-    },
-    {
       "id": "986aa5247351",
       "title": "德语媒体：中俄会军事联手对抗西方吗？",
       "url": "https://www.dw.com/zh/德语媒体：中俄会军事联手对抗西方吗？/a-73614779?maca=chi-rss-chi-all-1127-rdf",
@@ -1353,5 +1353,5 @@
       "published": 1753096320
     }
   ],
-  "build_id": 1755588684
+  "build_id": 1755593388
 }
