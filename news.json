@@ -1,16 +1,58 @@
 {
-  "updated": 1755600136,
+  "updated": 1755602843,
   "items": [
     {
+      "id": "cb7c81161058",
+      "title": "特斯拉推出六座Model Y 定價對標理想L8車型",
+      "url": "https://money.udn.com/money/story/5599/8949191",
+      "source": "money.udn.com",
+      "published": 1755602847
+    },
+    {
+      "id": "be28bc879a19",
+      "title": "科技泡沫恐再現？美國期權交易員買入「災難」看跌期權",
+      "url": "https://money.udn.com/money/story/123398/8949517",
+      "source": "money.udn.com",
+      "published": 1755602569
+    },
+    {
+      "id": "33af0ca6141f",
+      "title": "川澤會後市場觀望 亞股互有漲跌",
+      "url": "https://money.udn.com/money/story/5599/8949536",
+      "source": "money.udn.com",
+      "published": 1755602011
+    },
+    {
+      "id": "9dfdf7a71af5",
+      "title": "路透：輝達為中國打造新AI晶片 性能超越H20",
+      "url": "https://money.udn.com/money/story/5599/8949537",
+      "source": "money.udn.com",
+      "published": 1755602010
+    },
+    {
+      "id": "be7d1bfe04eb",
+      "title": "陳佩琪為柯文哲屢失控 醫再曝殘酷真相：最冷寒冬恐還沒來",
+      "url": "https://udn.com/news/story/6656/8949529",
+      "source": "udn.com",
+      "published": 1755601604
+    },
+    {
+      "id": "8fd4af78ef0d",
+      "title": "日本软银投资20亿美元 入股英特尔",
+      "url": "https://www.dw.com/zh/日本软银投资20亿美元-入股英特尔/a-73690532?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1755599820
+    },
+    {
       "id": "b6093d2fa937",
-      "title": "諾魯與中資簽商業協議恐違反安全條約　澳洲展開調查",
+      "title": "諾魯與中資簽商業協議恐違反安全條約 澳洲展開調查",
       "url": "https://money.udn.com/money/story/5599/8949491",
       "source": "money.udn.com",
       "published": 1755599803
     },
     {
       "id": "414ce97f40df",
-      "title": "民進黨反核文宣遭日媒狠打臉 國民黨批「丟臉丟到國際」",
+      "title": "民進黨發布「反核文宣」遭日媒狠打臉 國民黨：丟臉丟到國際",
       "url": "https://udn.com/news/story/6656/8949485",
       "source": "udn.com",
       "published": 1755599585
@@ -24,7 +66,7 @@
     },
     {
       "id": "eee085b6cf36",
-      "title": "賴士葆指政院要求各部會揩油追加預算 卓榮泰聽一句話笑出來",
+      "title": "賴士葆指「政院要求各部會揩油追加預算」 卓榮泰聽一句話笑出來",
       "url": "https://udn.com/news/story/6656/8949473",
       "source": "udn.com",
       "published": 1755599224
@@ -296,39 +338,11 @@
       "published": 1755591674
     },
     {
-      "id": "614bd86e9c4c",
-      "title": "痛斥美國威脅 委內瑞拉總統揚言動員450萬民兵因應",
-      "url": "https://money.udn.com/money/story/5599/8949156",
-      "source": "money.udn.com",
-      "published": 1755591133
-    },
-    {
       "id": "aad06b5a55a8",
       "title": "監院曝財產申報！蔣萬安存款暴增+繳清房貸 李四川背債2000萬",
       "url": "https://udn.com/news/story/6656/8949129",
       "source": "udn.com",
       "published": 1755590568
-    },
-    {
-      "id": "2637ab6d3b3f",
-      "title": "核三延役公投前 葛如鈞率跨黨派委員赴核三廠考察",
-      "url": "https://udn.com/news/story/124565/8949131",
-      "source": "udn.com",
-      "published": 1755590567
-    },
-    {
-      "id": "474760bb0be8",
-      "title": "日警派80人赴柬埔寨　將押送29名日籍詐欺犯嫌回國",
-      "url": "https://money.udn.com/money/story/5599/8949124",
-      "source": "money.udn.com",
-      "published": 1755590457
-    },
-    {
-      "id": "ddde026833be",
-      "title": "路透民調：川普支持率維持40%　仍處任期最低點",
-      "url": "https://money.udn.com/money/story/10511/8949114",
-      "source": "money.udn.com",
-      "published": 1755590412
     },
     {
       "id": "8494498b145e",
@@ -357,13 +371,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250819-%E9%A5%AE%E6%B0%B4%E9%97%A8-%E6%B8%AF%E5%BA%9C%E7%96%91%E5%8F%97%E9%AA%97%E4%B8%AD%E6%B8%AF%E9%AA%97%E5%AD%90-%E4%B8%AD%E6%A0%87%E5%9B%BD%E4%BA%A7%E6%B0%B4%E4%BE%9B%E5%BA%94%E5%95%86%E5%A4%AB%E5%A6%87%E6%B6%89%E9%80%A0%E5%81%87%E8%A2%AB%E6%8E%A7",
       "source": "rfi.fr",
       "published": 1755589378
-    },
-    {
-      "id": "833e378b865b",
-      "title": "立陶宛政局重整 勞動部長可望成為第3位女總理",
-      "url": "https://money.udn.com/money/story/5599/8949065",
-      "source": "money.udn.com",
-      "published": 1755589005
     },
     {
       "id": "bdb8c5da2c5c",
@@ -539,6 +546,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250818-%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E6%9C%AA%E4%BA%86-%E4%BC%A0%E6%AC%A7%E6%B4%B2%E9%A9%BB%E5%8D%8E%E5%A4%96%E4%BA%A4%E5%AE%98%E6%8B%9F%E6%8A%B5%E5%88%B6%E5%87%BA%E5%B8%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5",
       "source": "rfi.fr",
       "published": 1755534699
+    },
+    {
+      "id": "481d92a6b5d4",
+      "title": "货币政策和财政政策之间的界限已经模糊",
+      "url": "https://www.ftchinese.com/story/001107366",
+      "source": "ftchinese.com",
+      "published": 1755532800
     },
     {
       "id": "47b3293b4b04",
@@ -838,13 +852,6 @@
       "id": "ba7bc69517bc",
       "title": "乌克兰和欧洲学会对付特朗普",
       "url": "https://www.ftchinese.com/story/001107348",
-      "source": "ftchinese.com",
-      "published": 1755446400
-    },
-    {
-      "id": "4833e425ef6b",
-      "title": "美国信贷利差缩窄至本世纪最低水平",
-      "url": "https://www.ftchinese.com/story/001107347",
       "source": "ftchinese.com",
       "published": 1755446400
     },
@@ -1346,5 +1353,5 @@
       "published": 1753096320
     }
   ],
-  "build_id": 1755600136
+  "build_id": 1755602843
 }
