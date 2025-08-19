@@ -1,17 +1,31 @@
 {
-  "updated": 1755646180,
+  "updated": 1755646979,
   "items": [
     {
-      "id": "3fe9aa6a7ccd",
-      "title": "台積電ADR大跌3.6% 較台北交易溢價急縮至18.3%",
-      "url": "https://money.udn.com/money/story/5599/8950369",
+      "id": "fa897c559562",
+      "title": "川普上任美媒變動　自由派MSNBC新聞頻道更名",
+      "url": "https://money.udn.com/money/story/10511/8950376",
+      "source": "money.udn.com",
+      "published": 1755646591
+    },
+    {
+      "id": "0fd12d1a0e52",
+      "title": "義大利人道援助加薩    軍機空投逾100噸物資",
+      "url": "https://money.udn.com/money/story/5599/8950375",
+      "source": "money.udn.com",
+      "published": 1755646236
+    },
+    {
+      "id": "7927ec716812",
+      "title": "美科技股為何大跌？MIT 報告稱「95%生成式 AI 投資零回報」嚇壞市場",
+      "url": "https://money.udn.com/money/story/123398/8950370",
       "source": "money.udn.com",
       "published": 1755645749
     },
     {
-      "id": "48c3a8d05ff8",
-      "title": "美科技股為何大跌？MIT報告稱「95%生成式AI投資零回報」嚇壞市場",
-      "url": "https://money.udn.com/money/story/5599/8950370",
+      "id": "1d7ce6c40570",
+      "title": "台積電ADR大跌3.6% 較台北交易溢價急縮至18.3%",
+      "url": "https://money.udn.com/money/story/123398/8950369",
       "source": "money.udn.com",
       "published": 1755645749
     },
@@ -184,20 +198,6 @@
       "published": 1755628311
     },
     {
-      "id": "afb39c1d5e4e",
-      "title": "正裝獲讚、演說致謝11次… 澤倫斯基學會跟白宮打交道",
-      "url": "https://money.udn.com/money/story/5599/8950091",
-      "source": "money.udn.com",
-      "published": 1755627876
-    },
-    {
-      "id": "81befcecd9eb",
-      "title": "美課鋼鋁50%關稅範圍擴大 發亮、金屬、沾點邊的都可能在清單上",
-      "url": "https://money.udn.com/money/story/5599/8950038",
-      "source": "money.udn.com",
-      "published": 1755625457
-    },
-    {
       "id": "48ad8da2c964",
       "title": "朱盧結盟拚連任黨主席？凌濤：意志堅定「一定交棒」",
       "url": "https://udn.com/news/story/6656/8950285",
@@ -259,6 +259,13 @@
       "url": "https://udn.com/news/story/6656/8950188",
       "source": "udn.com",
       "published": 1755619222
+    },
+    {
+      "id": "c98b05a85d41",
+      "title": "乌克兰停火希望终结欧洲防务概念股涨势",
+      "url": "https://www.ftchinese.com/story/001107370",
+      "source": "ftchinese.com",
+      "published": 1755619200
     },
     {
       "id": "5223ae0e6539",
@@ -877,13 +884,6 @@
       "published": 1755446400
     },
     {
-      "id": "892f2234538d",
-      "title": "适应气候变化，中国农村社区开始“自学”",
-      "url": "https://www.ftchinese.com/story/001107351",
-      "source": "ftchinese.com",
-      "published": 1755446400
-    },
-    {
       "id": "775b04c64819",
       "title": "许智峯获澳庇护 港政府强烈反对",
       "url": "https://www.dw.com/zh/许智峯获澳庇护-港政府强烈反对/a-73672202?maca=chi-rss-chi-all-1127-rdf",
@@ -1367,5 +1367,5 @@
       "published": 1753096320
     }
   ],
-  "build_id": 1755646180
+  "build_id": 1755646979
 }
