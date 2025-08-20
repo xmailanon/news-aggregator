@@ -1,6 +1,13 @@
 {
-  "updated": 1755718649,
+  "updated": 1755722304,
   "items": [
+    {
+      "id": "c783a5859dbb",
+      "title": "路透民調：多數美國人認為　各國應承認巴勒斯坦國",
+      "url": "https://money.udn.com/money/story/10511/8952708",
+      "source": "money.udn.com",
+      "published": 1755719131
+    },
     {
       "id": "d844f04b608f",
       "title": "關稅衝擊 日7月出口慘跌",
@@ -156,9 +163,9 @@
       "published": 1755707974
     },
     {
-      "id": "9b46aae8c784",
+      "id": "7f1a20b4b63c",
       "title": "川普擴大施壓聯準會　發文要求理事庫克馬上辭職",
-      "url": "https://money.udn.com/money/story/10511/8952658",
+      "url": "https://money.udn.com/money/story/5599/8952658",
       "source": "money.udn.com",
       "published": 1755706604
     },
@@ -245,13 +252,6 @@
       "url": "https://money.udn.com/money/story/5599/8952600",
       "source": "money.udn.com",
       "published": 1755704211
-    },
-    {
-      "id": "f8aa5c4bf390",
-      "title": "阿富汗：中國外長王毅來訪　討論開礦及加入一帶一路",
-      "url": "https://money.udn.com/money/story/5599/8952601",
-      "source": "money.udn.com",
-      "published": 1755704171
     },
     {
       "id": "267b7e316528",
@@ -1395,5 +1395,5 @@
       "published": 1753233982
     }
   ],
-  "build_id": 1755718649
+  "build_id": 1755722304
 }
