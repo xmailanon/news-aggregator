@@ -1,6 +1,20 @@
 {
-  "updated": 1755808593,
+  "updated": 1755811777,
   "items": [
+    {
+      "id": "ec6328e996ca",
+      "title": "俄烏和談僵局與美國需求強勁　油價上漲逾1%",
+      "url": "https://money.udn.com/money/story/5599/8955236",
+      "source": "money.udn.com",
+      "published": 1755810808
+    },
+    {
+      "id": "88106bfd51be",
+      "title": "市場緊盯聯準會主席重要演說　美股收黑",
+      "url": "https://money.udn.com/money/story/5599/8955231",
+      "source": "money.udn.com",
+      "published": 1755809648
+    },
     {
       "id": "e392f1bc55bd",
       "title": "美歐公布貿易架構聯合聲明：藥品、半導體關稅最高15%",
@@ -149,25 +163,11 @@
       "published": 1755794406
     },
     {
-      "id": "6c516171f022",
-      "title": "川普：風電、光電…世紀騙局 撂下狠話「不會核准任何開發案」",
-      "url": "https://money.udn.com/money/story/5599/8955001",
-      "source": "money.udn.com",
-      "published": 1755794406
-    },
-    {
       "id": "33d35bcc7bba",
       "title": "綠指新北議會通過普發4.6萬 侯友宜：混淆視聽",
       "url": "https://udn.com/news/story/6656/8954834",
       "source": "udn.com",
       "published": 1755794147
-    },
-    {
-      "id": "01ceb7823816",
-      "title": "烏克蘭安全保障　路透：選項包括歐洲派部隊美國指揮",
-      "url": "https://money.udn.com/money/story/5599/8955154",
-      "source": "money.udn.com",
-      "published": 1755793448
     },
     {
       "id": "93fdca02be9c",
@@ -1402,5 +1402,5 @@
       "published": 1753885320
     }
   ],
-  "build_id": 1755808593
+  "build_id": 1755811777
 }
