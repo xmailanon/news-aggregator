@@ -1,10 +1,10 @@
 {
-  "updated": 1755802123,
+  "updated": 1755804278,
   "items": [
     {
-      "id": "4a8da370ba06",
+      "id": "4c848cbbc8fc",
       "title": "美國對歐盟關稅採全包式15%　汽車調降酒類未豁免",
-      "url": "https://money.udn.com/money/story/10511/8955208",
+      "url": "https://money.udn.com/money/story/5599/8955208",
       "source": "money.udn.com",
       "published": 1755801378
     },
@@ -65,16 +65,16 @@
       "published": 1755800277
     },
     {
-      "id": "3adf3ad37342",
+      "id": "42cb205f6aee",
       "title": "聯邦接管華府治安 川普預告周四晚上與警察一起巡邏",
-      "url": "https://money.udn.com/money/story/5599/8955192",
+      "url": "https://money.udn.com/money/story/10511/8955192",
       "source": "money.udn.com",
       "published": 1755798450
     },
     {
-      "id": "c8e9d1bb5381",
+      "id": "061b4195474c",
       "title": "川普推各州選區重劃 密蘇里州是下一個",
-      "url": "https://money.udn.com/money/story/5599/8955191",
+      "url": "https://money.udn.com/money/story/10511/8955191",
       "source": "money.udn.com",
       "published": 1755798410
     },
@@ -84,6 +84,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250821-%E4%B8%AD%E5%9B%BD%E6%AC%B2%E5%A4%A7%E6%89%B9%E9%87%8F%E9%87%87%E8%B4%AD%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA-%E8%AE%A2%E5%8D%95%E9%AB%98%E8%BE%BE500%E6%9E%B6",
       "source": "rfi.fr",
       "published": 1755796260
+    },
+    {
+      "id": "efa1a831aece",
+      "title": "軍公教調薪 未納入總預算 經濟成長趨緩、新版財劃法與普發現金等影響",
+      "url": "https://udn.com/news/story/6656/8955061",
+      "source": "udn.com",
+      "published": 1755795809
     },
     {
       "id": "c693c006baf0",
@@ -107,11 +114,18 @@
       "published": 1755795272
     },
     {
-      "id": "62028eec4dd8",
+      "id": "e930691f34c4",
       "title": "紐約上訴法院推翻近5億美元罰款 川普：完全勝利",
-      "url": "https://money.udn.com/money/story/5599/8955170",
+      "url": "https://money.udn.com/money/story/10511/8955170",
       "source": "money.udn.com",
       "published": 1755795272
+    },
+    {
+      "id": "b8bd65c60d68",
+      "title": "川普：風電、光電…世紀騙局 撂下狠話「不會核准任何開發案」",
+      "url": "https://udn.com/news/story/124577/8955001",
+      "source": "udn.com",
+      "published": 1755794406
     },
     {
       "id": "6c516171f022",
@@ -128,9 +142,9 @@
       "published": 1755794147
     },
     {
-      "id": "f2fbd49a7596",
+      "id": "01ceb7823816",
       "title": "烏克蘭安全保障　路透：選項包括歐洲派部隊美國指揮",
-      "url": "https://money.udn.com/money/story/10511/8955154",
+      "url": "https://money.udn.com/money/story/5599/8955154",
       "source": "money.udn.com",
       "published": 1755793448
     },
@@ -266,20 +280,6 @@
       "url": "https://udn.com/news/story/7314/8954515",
       "source": "udn.com",
       "published": 1755792000
-    },
-    {
-      "id": "ffae24c9a79b",
-      "title": "823後內閣改組 國安外交傳異動、賴卓體制將延續",
-      "url": "https://udn.com/news/story/6656/8955111",
-      "source": "udn.com",
-      "published": 1755791860
-    },
-    {
-      "id": "1cb9f2bd27ba",
-      "title": "藍委推動「無期徒刑三級制」 第一級終身監禁不得假釋",
-      "url": "https://udn.com/news/story/6656/8955046",
-      "source": "udn.com",
-      "published": 1755791623
     },
     {
       "id": "3c7fcc88d75b",
@@ -1402,5 +1402,5 @@
       "published": 1753885320
     }
   ],
-  "build_id": 1755802123
+  "build_id": 1755804278
 }
