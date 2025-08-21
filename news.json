@@ -1,6 +1,27 @@
 {
-  "updated": 1755805086,
+  "updated": 1755808593,
   "items": [
+    {
+      "id": "e392f1bc55bd",
+      "title": "美歐公布貿易架構聯合聲明：藥品、半導體關稅最高15%",
+      "url": "https://money.udn.com/money/story/5599/8955226",
+      "source": "money.udn.com",
+      "published": 1755808468
+    },
+    {
+      "id": "d8dc2e2bf27f",
+      "title": "國民兵進駐華府　川普預告將與軍警夜巡街頭",
+      "url": "https://money.udn.com/money/story/10511/8955223",
+      "source": "money.udn.com",
+      "published": 1755806667
+    },
+    {
+      "id": "c010d0a4ee6b",
+      "title": "尼坦雅胡：啟動加薩停火談判　結束戰爭釋放人質",
+      "url": "https://money.udn.com/money/story/5599/8955218",
+      "source": "money.udn.com",
+      "published": 1755804966
+    },
     {
       "id": "4c848cbbc8fc",
       "title": "美國對歐盟關稅採全包式15%　汽車調降酒類未豁免",
@@ -163,20 +184,6 @@
       "published": 1755792734
     },
     {
-      "id": "794eb1abacd2",
-      "title": "AI轉運史 2／曾讓日本陷入大混亂的生成式AI，解決三痛點化解大家不滿",
-      "url": "https://money.udn.com/money/story/122979/8892315",
-      "source": "money.udn.com",
-      "published": 1755792385
-    },
-    {
-      "id": "8412ac975fa3",
-      "title": "AI運轉史 1／「那個用AI來做不就好了？」老闆一句話曾讓日本陷入大混亂",
-      "url": "https://money.udn.com/money/story/122979/8892314",
-      "source": "money.udn.com",
-      "published": 1755792205
-    },
-    {
       "id": "f6fe77a96372",
       "title": "無期徒刑分級 學者：較符合民意",
       "url": "https://udn.com/news/story/6656/8955123",
@@ -280,13 +287,6 @@
       "url": "https://udn.com/news/story/7314/8954515",
       "source": "udn.com",
       "published": 1755792000
-    },
-    {
-      "id": "3c7fcc88d75b",
-      "title": "近幾周最大空襲 俄574架無人機、40枚飛彈襲烏",
-      "url": "https://money.udn.com/money/story/5599/8955093",
-      "source": "money.udn.com",
-      "published": 1755790739
     },
     {
       "id": "ec784422bffc",
@@ -1402,5 +1402,5 @@
       "published": 1753885320
     }
   ],
-  "build_id": 1755805086
+  "build_id": 1755808593
 }
