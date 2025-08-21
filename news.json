@@ -1,61 +1,292 @@
 {
-  "updated": 1755790675,
+  "updated": 1755802123,
   "items": [
     {
-      "id": "9a8a4bf30f23",
-      "title": "川普批綠電是騙局 童子賢不贊同：台灣綠能需核能幫忙",
-      "url": "https://udn.com/news/story/7314/8955030",
-      "source": "udn.com",
-      "published": 1755790663
-    },
-    {
-      "id": "94eceb6e0205",
-      "title": "川普轟綠電「世紀騙局」",
-      "url": "https://udn.com/news/story/7314/8955023",
-      "source": "udn.com",
-      "published": 1755790624
-    },
-    {
-      "id": "d2afa420c73b",
-      "title": "以色列準備攻占加薩市　通知醫院援助團體擬撤離計畫",
-      "url": "https://money.udn.com/money/story/5599/8955025",
+      "id": "4a8da370ba06",
+      "title": "美國對歐盟關稅採全包式15%　汽車調降酒類未豁免",
+      "url": "https://money.udn.com/money/story/10511/8955208",
       "source": "money.udn.com",
-      "published": 1755789689
+      "published": 1755801378
     },
     {
-      "id": "0d40a18d4966",
-      "title": "無懼川普政策恐讓財政惡化 兩大理由...美債魅力勝歐債",
-      "url": "https://money.udn.com/money/story/5599/8954976",
+      "id": "7cbae5d90942",
+      "title": "歐美8月綜合 PMI  同步攀高 歐元區8月升至51.1 製造業逾三年來首次擴張",
+      "url": "https://money.udn.com/money/story/5599/8955004",
       "source": "money.udn.com",
-      "published": 1755788968
+      "published": 1755800783
     },
     {
-      "id": "dfb8e6d58c98",
-      "title": "日本「新聞周刊」台灣有事特輯 專家挺台「豪豬戰略」",
-      "url": "https://money.udn.com/money/story/5599/8954957",
+      "id": "79285e3f79f7",
+      "title": "總統李在明「送禮」 韓投資美國加碼1,500億美元",
+      "url": "https://money.udn.com/money/story/5599/8955009",
       "source": "money.udn.com",
-      "published": 1755788433
+      "published": 1755800623
     },
     {
-      "id": "2994fd321e1a",
-      "title": "大阪世博遊客突破1500萬人  暑假人氣旺",
-      "url": "https://money.udn.com/money/story/5599/8954955",
+      "id": "bb381a3dce05",
+      "title": "貿易談判內容公布 歐盟輸美汽車降稅 仍未明朗",
+      "url": "https://money.udn.com/money/story/5599/8955014",
       "source": "money.udn.com",
-      "published": 1755788433
+      "published": 1755800581
     },
     {
-      "id": "cab479c32a70",
-      "title": "災後台南石綿瓦處理量能不足 陳亭妃兩度質詢盼中央協助",
-      "url": "https://udn.com/news/story/6656/8954928",
+      "id": "e599be94a8cb",
+      "title": "1分鐘看世界／瑞士黃金7月出口美國激增 攀至51公噸 四個月新高",
+      "url": "https://money.udn.com/money/story/5599/8955002",
+      "source": "money.udn.com",
+      "published": 1755800506
+    },
+    {
+      "id": "2d2797c3d756",
+      "title": "沃爾瑪第2季獲利失色 拖累股價",
+      "url": "https://money.udn.com/money/story/5599/8954939",
+      "source": "money.udn.com",
+      "published": 1755800441
+    },
+    {
+      "id": "e616d5f0587b",
+      "title": "亞洲富裕家族加碼加密幣",
+      "url": "https://money.udn.com/money/story/5599/8954941",
+      "source": "money.udn.com",
+      "published": 1755800370
+    },
+    {
+      "id": "8795163a9c30",
+      "title": "華爾街先知示警 美「兩極化經濟」帶來風險",
+      "url": "https://money.udn.com/money/story/10511/8954942",
+      "source": "money.udn.com",
+      "published": 1755800320
+    },
+    {
+      "id": "8fed0171e286",
+      "title": "Meta 凍結招聘 AI 人才",
+      "url": "https://money.udn.com/money/story/123398/8954944",
+      "source": "money.udn.com",
+      "published": 1755800277
+    },
+    {
+      "id": "3adf3ad37342",
+      "title": "聯邦接管華府治安 川普預告周四晚上與警察一起巡邏",
+      "url": "https://money.udn.com/money/story/5599/8955192",
+      "source": "money.udn.com",
+      "published": 1755798450
+    },
+    {
+      "id": "c8e9d1bb5381",
+      "title": "川普推各州選區重劃 密蘇里州是下一個",
+      "url": "https://money.udn.com/money/story/5599/8955191",
+      "source": "money.udn.com",
+      "published": 1755798410
+    },
+    {
+      "id": "54782018e6f4",
+      "title": "中国欲大批量采购波音飞机 订单高达500架",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250821-%E4%B8%AD%E5%9B%BD%E6%AC%B2%E5%A4%A7%E6%89%B9%E9%87%8F%E9%87%87%E8%B4%AD%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA-%E8%AE%A2%E5%8D%95%E9%AB%98%E8%BE%BE500%E6%9E%B6",
+      "source": "rfi.fr",
+      "published": 1755796260
+    },
+    {
+      "id": "c693c006baf0",
+      "title": "Fed多數官員支持不降息 通膨風險憂慮高於勞動市場惡化",
+      "url": "https://money.udn.com/money/story/5599/8955067",
+      "source": "money.udn.com",
+      "published": 1755795706
+    },
+    {
+      "id": "741d186f7f2f",
+      "title": "川普施壓 要理事庫克下台",
+      "url": "https://money.udn.com/money/story/5599/8955066",
+      "source": "money.udn.com",
+      "published": 1755795673
+    },
+    {
+      "id": "333482f0d6e3",
+      "title": "歐美貿易協議細節曝光　歐股多收紅",
+      "url": "https://money.udn.com/money/story/5599/8955171",
+      "source": "money.udn.com",
+      "published": 1755795272
+    },
+    {
+      "id": "62028eec4dd8",
+      "title": "紐約上訴法院推翻近5億美元罰款 川普：完全勝利",
+      "url": "https://money.udn.com/money/story/5599/8955170",
+      "source": "money.udn.com",
+      "published": 1755795272
+    },
+    {
+      "id": "6c516171f022",
+      "title": "川普：風電、光電…世紀騙局 撂下狠話「不會核准任何開發案」",
+      "url": "https://money.udn.com/money/story/5599/8955001",
+      "source": "money.udn.com",
+      "published": 1755794406
+    },
+    {
+      "id": "33d35bcc7bba",
+      "title": "綠指新北議會通過普發4.6萬 侯友宜：混淆視聽",
+      "url": "https://udn.com/news/story/6656/8954834",
       "source": "udn.com",
-      "published": 1755788082
+      "published": 1755794147
     },
     {
-      "id": "fae452c77303",
-      "title": "批軍警加薪政院該編未編 吳宗憲：監察院該醒了吧",
-      "url": "https://udn.com/news/story/6656/8954925",
+      "id": "f2fbd49a7596",
+      "title": "烏克蘭安全保障　路透：選項包括歐洲派部隊美國指揮",
+      "url": "https://money.udn.com/money/story/10511/8955154",
+      "source": "money.udn.com",
+      "published": 1755793448
+    },
+    {
+      "id": "93fdca02be9c",
+      "title": "地方統籌分配款增4165億 卓揆：須舉債4000億因應",
+      "url": "https://udn.com/news/story/6656/8955105",
       "source": "udn.com",
-      "published": 1755787919
+      "published": 1755792845
+    },
+    {
+      "id": "4a7dc8e3e953",
+      "title": "新聞眼／硬湊國防預算 只為給川普看",
+      "url": "https://udn.com/news/story/10930/8955103",
+      "source": "udn.com",
+      "published": 1755792734
+    },
+    {
+      "id": "794eb1abacd2",
+      "title": "AI轉運史 2／曾讓日本陷入大混亂的生成式AI，解決三痛點化解大家不滿",
+      "url": "https://money.udn.com/money/story/122979/8892315",
+      "source": "money.udn.com",
+      "published": 1755792385
+    },
+    {
+      "id": "8412ac975fa3",
+      "title": "AI運轉史 1／「那個用AI來做不就好了？」老闆一句話曾讓日本陷入大混亂",
+      "url": "https://money.udn.com/money/story/122979/8892314",
+      "source": "money.udn.com",
+      "published": 1755792205
+    },
+    {
+      "id": "f6fe77a96372",
+      "title": "無期徒刑分級 學者：較符合民意",
+      "url": "https://udn.com/news/story/6656/8955123",
+      "source": "udn.com",
+      "published": 1755792041
+    },
+    {
+      "id": "eeed40c632d4",
+      "title": "涉詐廣告未依時限下架 數發部第3度開罰Meta",
+      "url": "https://udn.com/news/story/7314/8955127",
+      "source": "udn.com",
+      "published": 1755792026
+    },
+    {
+      "id": "872cc2b3c0f4",
+      "title": "明年度總預算未調軍警消待遇 在野批違法",
+      "url": "https://udn.com/news/story/6656/8955080",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "1864da3be388",
+      "title": "韓國瑜批罷免形同政治屠殺 盧秀燕：用選票讓總統回歸國政",
+      "url": "https://udn.com/news/story/124323/8955115",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "d970ad0b1c53",
+      "title": "歷史上的今天／1962年赴印尼開亞運會議 我官員遭拒入境",
+      "url": "https://udn.com/news/story/7314/8952868",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "096b8e95543b",
+      "title": "罷團「好立委投同意」圖卡 藍提告涉詐",
+      "url": "https://udn.com/news/story/124323/8955122",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "1f49fa0a0149",
+      "title": "李洋掌運動部？卓揆沒有否認",
+      "url": "https://udn.com/news/story/6656/8955119",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "64576d786953",
+      "title": "葉丙成走定了？疑鋪路回台大",
+      "url": "https://udn.com/news/story/6656/8955117",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "7b183f1cec0d",
+      "title": "武器維持、人員訓練費 趕不上採購研發 揭仲：國防支出結構嚴重失衡",
+      "url": "https://udn.com/news/story/10930/8955089",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "337b2ede2f25",
+      "title": "閱讀秘書／北約模式 提高軍事費用",
+      "url": "https://udn.com/news/story/10930/8955087",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "fa82f51808d7",
+      "title": "參考北約模式 國防預算大增逾3100億",
+      "url": "https://udn.com/news/story/10930/8955083",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "3062be5ea33d",
+      "title": "新聞眼／面對新民意 對抗式執政須修正",
+      "url": "https://udn.com/news/story/6656/8955113",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "376c4a5bd217",
+      "title": "「健康宅」掀潮流，國際健康建築認證成「豪宅加分題」！",
+      "url": "https://udn.com/news/story/7314/8953261",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "2699ee18b8e5",
+      "title": "新時代企業成功的關鍵—臺大「跨世代領導人班」招生中",
+      "url": "https://udn.com/news/story/7314/8954484",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "2b47e10946dc",
+      "title": "「南投48拍短影音限時創作賽」頒獎典禮圓滿舉行 創意與實力齊放光芒",
+      "url": "https://udn.com/news/story/7314/8954515",
+      "source": "udn.com",
+      "published": 1755792000
+    },
+    {
+      "id": "ffae24c9a79b",
+      "title": "823後內閣改組 國安外交傳異動、賴卓體制將延續",
+      "url": "https://udn.com/news/story/6656/8955111",
+      "source": "udn.com",
+      "published": 1755791860
+    },
+    {
+      "id": "1cb9f2bd27ba",
+      "title": "藍委推動「無期徒刑三級制」 第一級終身監禁不得假釋",
+      "url": "https://udn.com/news/story/6656/8955046",
+      "source": "udn.com",
+      "published": 1755791623
+    },
+    {
+      "id": "3c7fcc88d75b",
+      "title": "近幾周最大空襲 俄574架無人機、40枚飛彈襲烏",
+      "url": "https://money.udn.com/money/story/5599/8955093",
+      "source": "money.udn.com",
+      "published": 1755790739
     },
     {
       "id": "ec784422bffc",
@@ -72,25 +303,11 @@
       "published": 1755787749
     },
     {
-      "id": "f294efcd1412",
-      "title": "英國申請庇護件數創新高　1年多達11萬餘件",
-      "url": "https://money.udn.com/money/story/5599/8954924",
-      "source": "money.udn.com",
-      "published": 1755787530
-    },
-    {
       "id": "9478ae380844",
       "title": "印度和俄罗斯外长在莫斯科会晤后同意加强贸易关系",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250821-%E5%8D%B0%E5%BA%A6%E5%92%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E5%9C%A8%E8%8E%AB%E6%96%AF%E7%A7%91%E4%BC%9A%E6%99%A4%E5%90%8E%E5%90%8C%E6%84%8F%E5%8A%A0%E5%BC%BA%E8%B4%B8%E6%98%93%E5%85%B3%E7%B3%BB",
       "source": "rfi.fr",
       "published": 1755787509
-    },
-    {
-      "id": "0ff7921fe6d9",
-      "title": "裕信銀行料英國央行大幅降息 預計英鎊匯率重挫",
-      "url": "https://money.udn.com/money/story/5599/8952829",
-      "source": "money.udn.com",
-      "published": 1755787482
     },
     {
       "id": "bb0eebba46a2",
@@ -100,95 +317,11 @@
       "published": 1755786780
     },
     {
-      "id": "a01525fcbe7c",
-      "title": "川普對付政敵查房貸不查水錶！用這家AI軟體揪詐欺超有效率",
-      "url": "https://money.udn.com/money/story/5599/8954904",
-      "source": "money.udn.com",
-      "published": 1755786748
-    },
-    {
-      "id": "6b6a2221aad3",
-      "title": "黃國昌提刪「串證羈押」 民眾黨團：檢方常違背憲法無罪推定原則",
-      "url": "https://udn.com/news/story/6656/8954898",
-      "source": "udn.com",
-      "published": 1755786685
-    },
-    {
-      "id": "ab8c6ed32ec0",
-      "title": "烏克蘭男在義大利被捕　疑涉北溪天然氣管線爆炸案",
-      "url": "https://money.udn.com/money/story/5599/8954896",
-      "source": "money.udn.com",
-      "published": 1755786633
-    },
-    {
-      "id": "a21e528e56cc",
-      "title": "美擬用補助換台積股權 政院：國家利益優先將持續關注",
-      "url": "https://udn.com/news/story/6656/8954893",
-      "source": "udn.com",
-      "published": 1755786606
-    },
-    {
-      "id": "af2402d07846",
-      "title": "黨團協商AI基本法仍有歧見 耗時4小時討論後送院長協商",
-      "url": "https://udn.com/news/story/7314/8954882",
-      "source": "udn.com",
-      "published": 1755786281
-    },
-    {
-      "id": "fa8b9c26127a",
-      "title": "奈及利亞查緝網路犯罪　50名涉案中國人遭驅逐出境",
-      "url": "https://money.udn.com/money/story/5599/8954867",
-      "source": "money.udn.com",
-      "published": 1755785565
-    },
-    {
       "id": "cfd1fc4d57e2",
       "title": "DeepSeek 推出新版 升级强在哪里？",
       "url": "https://www.dw.com/zh/deepseek-推出新版-升级强在哪里？/a-73721110?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1755785400
-    },
-    {
-      "id": "54da4a36fe03",
-      "title": "義大利總理梅洛尼推動「輕量版北約」方案 為烏克蘭提供安全保障",
-      "url": "https://money.udn.com/money/story/5599/8952876",
-      "source": "money.udn.com",
-      "published": 1755785033
-    },
-    {
-      "id": "6c36e11b928c",
-      "title": "俄外長：先解決合法性問題　蒲亭願與澤倫斯基會談",
-      "url": "https://money.udn.com/money/story/5599/8954840",
-      "source": "money.udn.com",
-      "published": 1755784859
-    },
-    {
-      "id": "ed5cf155f2cf",
-      "title": "瑞典出生率創23年來新低  政府嚴正以待尋找對策",
-      "url": "https://money.udn.com/money/story/5599/8954839",
-      "source": "money.udn.com",
-      "published": 1755784858
-    },
-    {
-      "id": "0269da4ae1a2",
-      "title": "桃中嘉出現爛尾樓 內政部提修正草案「3重點」強化預售屋履約擔保",
-      "url": "https://udn.com/news/story/7314/8954837",
-      "source": "udn.com",
-      "published": 1755784825
-    },
-    {
-      "id": "7a3589ef9628",
-      "title": "川普不爽全球最低稅負 OECD端三招盼美國息怒",
-      "url": "https://money.udn.com/money/story/5599/8954835",
-      "source": "money.udn.com",
-      "published": 1755784805
-    },
-    {
-      "id": "361dfe202215",
-      "title": "抗議微軟與以色列商業往來的示威者在總部被捕",
-      "url": "https://money.udn.com/money/story/5599/8953122",
-      "source": "money.udn.com",
-      "published": 1755784361
     },
     {
       "id": "3d36d8662823",
@@ -198,39 +331,11 @@
       "published": 1755784020
     },
     {
-      "id": "209808fc670b",
-      "title": "美股早盤／失業救濟數據遜色 四大指數齊跌",
-      "url": "https://money.udn.com/money/story/123398/8954817",
-      "source": "money.udn.com",
-      "published": 1755783929
-    },
-    {
-      "id": "62dca6f20382",
-      "title": "日本20年期國債殖利率升至1999年以來最高水準",
-      "url": "https://money.udn.com/money/story/5599/8953345",
-      "source": "money.udn.com",
-      "published": 1755783902
-    },
-    {
       "id": "35825d25086b",
       "title": "“北溪”爆炸案一名嫌疑人在意大利被捕",
       "url": "https://www.dw.com/zh/北溪-爆炸案一名嫌疑人在意大利被捕/a-73720905?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1755783840
-    },
-    {
-      "id": "3df2758143bb",
-      "title": "聯準會曾披露逾2.2萬筆涉欺詐抵押貸款 與理事 Cook 被曝出的問題類似",
-      "url": "https://money.udn.com/money/story/5599/8953346",
-      "source": "money.udn.com",
-      "published": 1755783702
-    },
-    {
-      "id": "ec77951c7da6",
-      "title": "小米電動車進入市場僅一年就有望盈利 快速成功背後的隱憂是什麼？",
-      "url": "https://money.udn.com/money/story/120769/8954407",
-      "source": "money.udn.com",
-      "published": 1755783435
     },
     {
       "id": "a5f780020b92",
@@ -247,53 +352,11 @@
       "published": 1755782578
     },
     {
-      "id": "2cf439a61e9b",
-      "title": "中印開始重建關係  分析：可能只是冷和平改善有限",
-      "url": "https://money.udn.com/money/story/5599/8954799",
-      "source": "money.udn.com",
-      "published": 1755782488
-    },
-    {
-      "id": "e138f2cc78cc",
-      "title": "渣打全球固定收益研究主管 Rudra 退休",
-      "url": "https://money.udn.com/money/story/5599/8953347",
-      "source": "money.udn.com",
-      "published": 1755782156
-    },
-    {
-      "id": "a9c317eb6772",
-      "title": "藍白民代高雄同批能源政策錯誤 「砍樹、種電培養一堆綠友友」",
-      "url": "https://udn.com/news/story/124565/8954787",
-      "source": "udn.com",
-      "published": 1755781713
-    },
-    {
-      "id": "5118922a3fb5",
-      "title": "核三延役公投前夕 黃國昌轟綠電黑金：跟民進黨算總帳",
-      "url": "https://udn.com/news/story/124565/8954783",
-      "source": "udn.com",
-      "published": 1755781548
-    },
-    {
-      "id": "c4741f429f15",
-      "title": "影／參選黨主席？盧秀燕與鄭麗文同台為楊瓊瓔站台",
-      "url": "https://udn.com/news/story/6656/8954716",
-      "source": "udn.com",
-      "published": 1755779044
-    },
-    {
       "id": "efba3dd2ac44",
       "title": "法新社：习近平在罕见访藏期间呼吁民族团结 人权组织：西藏宗教自由被压制",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250821-%E6%B3%95%E6%96%B0%E7%A4%BE-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E7%BD%95%E8%A7%81%E8%AE%BF%E8%97%8F%E6%9C%9F%E9%97%B4%E5%91%BC%E5%90%81%E6%B0%91%E6%97%8F%E5%9B%A2%E7%BB%93-%E4%BA%BA%E6%9D%83%E7%BB%84%E7%BB%87-%E8%A5%BF%E8%97%8F%E5%AE%97%E6%95%99%E8%87%AA%E7%94%B1%E8%A2%AB%E5%8E%8B%E5%88%B6",
       "source": "rfi.fr",
       "published": 1755778345
-    },
-    {
-      "id": "f73f44554b84",
-      "title": "花蓮藍白合體拚核三延役公投 傅崐萁點名村長要求大力催票",
-      "url": "https://udn.com/news/story/124565/8954686",
-      "source": "udn.com",
-      "published": 1755778108
     },
     {
       "id": "285ef94f5b33",
@@ -303,60 +366,11 @@
       "published": 1755777633
     },
     {
-      "id": "580eadc8d196",
-      "title": "政院公布史上最高國防預算 國民黨向國際喊話：挺國防但綠削弱戰力",
-      "url": "https://udn.com/news/story/6656/8954621",
-      "source": "udn.com",
-      "published": 1755776682
-    },
-    {
-      "id": "1a97fd11ff63",
-      "title": "迷你足協千萬補助支出違規 監院糾正體育署控管失靈",
-      "url": "https://udn.com/news/story/7314/8954001",
-      "source": "udn.com",
-      "published": 1755776518
-    },
-    {
-      "id": "c812a66d802d",
-      "title": "核三重啟公投倒數 澎湖藍白馬公市掃街催同意票",
-      "url": "https://udn.com/news/story/124565/8954587",
-      "source": "udn.com",
-      "published": 1755776283
-    },
-    {
-      "id": "0c8437cbd499",
-      "title": "AI基本法協商有進展 法案名稱等無共識仍保留",
-      "url": "https://udn.com/news/story/7314/8954575",
-      "source": "udn.com",
-      "published": 1755776224
-    },
-    {
       "id": "2a14a1630adb",
       "title": "俄罗斯要求参与乌克兰安全保障",
       "url": "https://www.dw.com/zh/俄罗斯要求参与乌克兰安全保障/a-73718224?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1755775020
-    },
-    {
-      "id": "19fedb2f3c07",
-      "title": "影／726反罷拿下全國最高票 高虹安替林思銘站台延續氣勢",
-      "url": "https://udn.com/news/story/124323/8954560",
-      "source": "udn.com",
-      "published": 1755774894
-    },
-    {
-      "id": "db62998f15dd",
-      "title": "鄭麗文表態選黨魁後首合體 盧秀燕緊握手「講這句」藏玄機",
-      "url": "https://udn.com/news/story/6656/8954551",
-      "source": "udn.com",
-      "published": 1755774724
-    },
-    {
-      "id": "143445ac445d",
-      "title": "丹娜絲風災募款專案達標 1個月內募得5.39億元、逾6千戶災民受惠",
-      "url": "https://udn.com/news/story/7314/8954516",
-      "source": "udn.com",
-      "published": 1755773446
     },
     {
       "id": "3da33fcbd0d9",
@@ -371,13 +385,6 @@
       "url": "https://www.dw.com/zh/印度试射中程弹道导弹-射程可覆盖中国全境/a-73716952?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1755772500
-    },
-    {
-      "id": "3ebaae6f981c",
-      "title": "駁預售屋解約潮 內政部：解約案件約占整體交易的1.1%",
-      "url": "https://udn.com/news/story/7314/8954490",
-      "source": "udn.com",
-      "published": 1755772384
     },
     {
       "id": "c6ea73851b81",
@@ -770,13 +777,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn85ze1xe85o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1755690850
-    },
-    {
-      "id": "246674014e3a",
-      "title": "特朗普打电话给欧尔班询问：为何阻止乌克兰与欧盟进行入盟谈判",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250820-%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%93%E7%94%B5%E8%AF%9D%E7%BB%99%E6%AC%A7%E5%B0%94%E7%8F%AD%E8%AF%A2%E9%97%AE-%E4%B8%BA%E4%BD%95%E9%98%BB%E6%AD%A2%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8E%E6%AC%A7%E7%9B%9F%E8%BF%9B%E8%A1%8C%E5%85%A5%E7%9B%9F%E8%B0%88%E5%88%A4",
-      "source": "rfi.fr",
-      "published": 1755690183
     },
     {
       "id": "58c91f0160a4",
@@ -1402,5 +1402,5 @@
       "published": 1753885320
     }
   ],
-  "build_id": 1755790675
+  "build_id": 1755802123
 }
