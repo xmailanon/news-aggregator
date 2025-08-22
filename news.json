@@ -1,6 +1,13 @@
 {
-  "updated": 1755847780,
+  "updated": 1755848529,
   "items": [
+    {
+      "id": "d97c21824878",
+      "title": "黃豆玉米豐收 美農民卻愁了：中國大陸一船也沒買",
+      "url": "https://money.udn.com/money/story/5599/8956473",
+      "source": "money.udn.com",
+      "published": 1755848146
+    },
     {
       "id": "ae22d3699070",
       "title": "投資人觀望各國央行政策訊號　日股小漲作收",
@@ -9,9 +16,37 @@
       "published": 1755847854
     },
     {
-      "id": "3b863f05409b",
+      "id": "199d4bc7325f",
+      "title": "龔明鑫傳有望任經濟部長 張啓楷：賴政府只能小圈圈玩大風吹",
+      "url": "https://udn.com/news/story/6656/8956455",
+      "source": "udn.com",
+      "published": 1755847827
+    },
+    {
+      "id": "51f8954779c5",
+      "title": "立院大清倉 風災條例、追加預算、關稅條例下周拚三讀",
+      "url": "https://udn.com/news/story/6656/8956451",
+      "source": "udn.com",
+      "published": 1755847743
+    },
+    {
+      "id": "a1ae079577a3",
+      "title": "張惇涵、龔明鑫傳內閣新人事 行政院：有消息將適時說明",
+      "url": "https://udn.com/news/story/6656/8956447",
+      "source": "udn.com",
+      "published": 1755847623
+    },
+    {
+      "id": "316c875665eb",
+      "title": "立院三讀軍人調薪政院未編預算 賴清德：若合憲將追溯補齊",
+      "url": "https://udn.com/news/story/6656/8956444",
+      "source": "udn.com",
+      "published": 1755847544
+    },
+    {
+      "id": "082ea3a68179",
       "title": "穩定能源不可缺 前國代蔡志弘：支持核三重啟",
-      "url": "https://udn.com/news/story/6656/8956433",
+      "url": "https://udn.com/news/story/124565/8956433",
       "source": "udn.com",
       "published": 1755847129
     },
@@ -240,18 +275,11 @@
       "published": 1755839669
     },
     {
-      "id": "01b015872c47",
-      "title": "內閣改組！傳張惇涵轉任政院秘書長、龔明鑫接經濟部長",
-      "url": "https://udn.com/news/story/6656/8956099",
-      "source": "udn.com",
-      "published": 1755839032
-    },
-    {
-      "id": "01ae08fb4336",
-      "title": "823倒數24小時 綠雙北黨部深坑車掃催同意罷免票",
-      "url": "https://udn.com/news/story/124323/8956096",
-      "source": "udn.com",
-      "published": 1755838906
+      "id": "c845da9332e7",
+      "title": "涉冒犯君主罪　泰國前總理戴克辛獲判無罪",
+      "url": "https://money.udn.com/money/story/5599/8956092",
+      "source": "money.udn.com",
+      "published": 1755838842
     },
     {
       "id": "41aff84d129c",
@@ -261,39 +289,11 @@
       "published": 1755838842
     },
     {
-      "id": "c845da9332e7",
-      "title": "涉冒犯君主罪　泰國前總理戴克辛獲判無罪",
-      "url": "https://money.udn.com/money/story/5599/8956092",
-      "source": "money.udn.com",
-      "published": 1755838842
-    },
-    {
-      "id": "fd0f1a90d2de",
-      "title": "李來希再喊9月修法停砍年金 藍委：823過關後 沒理由不回應",
-      "url": "https://udn.com/news/story/6656/8956075",
-      "source": "udn.com",
-      "published": 1755838725
-    },
-    {
-      "id": "634e05fd3ebc",
-      "title": "國民黨智庫：核能網路聲量竄升 討論聚焦供電、電價與減碳",
-      "url": "https://udn.com/news/story/124565/8956063",
-      "source": "udn.com",
-      "published": 1755838564
-    },
-    {
       "id": "4f1c779750f0",
       "title": "日本7月米價年增90.7%　但較前幾個月漲幅放緩",
       "url": "https://money.udn.com/money/story/5599/8956040",
       "source": "money.udn.com",
       "published": 1755837929
-    },
-    {
-      "id": "e577af461fd6",
-      "title": "哥倫比亞兩起攻擊案至少18死　當局歸咎前革命軍派系",
-      "url": "https://money.udn.com/money/story/5599/8956024",
-      "source": "money.udn.com",
-      "published": 1755837388
     },
     {
       "id": "57d767b90e47",
@@ -1402,5 +1402,5 @@
       "published": 1753885320
     }
   ],
-  "build_id": 1755847780
+  "build_id": 1755848529
 }
