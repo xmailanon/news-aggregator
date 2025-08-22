@@ -1,6 +1,20 @@
 {
-  "updated": 1755891391,
+  "updated": 1755894986,
   "items": [
+    {
+      "id": "7e37a74b48df",
+      "title": "加拿大取消多項對美報復性關稅　9月1日生效",
+      "url": "https://money.udn.com/money/story/10511/8957526",
+      "source": "money.udn.com",
+      "published": 1755892900
+    },
+    {
+      "id": "bcc9881d581b",
+      "title": "川普表示英特爾已同意　由美國政府持10%股權",
+      "url": "https://money.udn.com/money/story/10511/8957523",
+      "source": "money.udn.com",
+      "published": 1755891931
+    },
     {
       "id": "ac49c9efcb56",
       "title": "聯準會主席面對川普壓力　重要談話為降息留餘地",
@@ -135,6 +149,13 @@
       "published": 1755878987
     },
     {
+      "id": "d6fdf2ecb92f",
+      "title": "內閣將改組 龔明鑫傳任經長、張惇涵接政院秘書長",
+      "url": "https://udn.com/news/story/124579/8957310",
+      "source": "udn.com",
+      "published": 1755878962
+    },
+    {
       "id": "c7d06802fc64",
       "title": "軍警消調薪 政院提釋憲 在野痛批違憲違法",
       "url": "https://udn.com/news/story/6656/8957387",
@@ -175,6 +196,13 @@
       "url": "https://udn.com/news/story/10930/8957312",
       "source": "udn.com",
       "published": 1755878686
+    },
+    {
+      "id": "f8a63140597d",
+      "title": "台電董座曾文生透露 核三自我安檢需二年",
+      "url": "https://udn.com/news/story/124565/8957313",
+      "source": "udn.com",
+      "published": 1755878669
     },
     {
       "id": "8412ac975fa3",
@@ -261,25 +289,11 @@
       "published": 1755878400
     },
     {
-      "id": "b0402f275da8",
-      "title": "印度能源巨擘  呼籲發展「可負擔」核能",
-      "url": "https://money.udn.com/money/story/5599/8957453",
-      "source": "money.udn.com",
-      "published": 1755878188
-    },
-    {
       "id": "d358da38e84a",
       "title": "【视频】夏日避暑：在巴黎塞纳河中畅游 吸引数万游泳爱好者",
       "url": "https://www.rfi.fr/cn/%E9%AD%85%E5%8A%9B%E6%B3%95%E5%85%B0%E8%A5%BF/20250822-%E8%A7%86%E9%A2%91-%E5%A4%8F%E6%97%A5%E9%81%BF%E6%9A%91-%E5%9C%A8%E5%B7%B4%E9%BB%8E%E5%A1%9E%E7%BA%B3%E6%B2%B3%E4%B8%AD%E7%95%85%E6%B8%B8-%E5%90%B8%E5%BC%95%E6%95%B0%E4%B8%87%E6%B8%B8%E6%B3%B3%E7%88%B1%E5%A5%BD%E8%80%85",
       "source": "rfi.fr",
       "published": 1755878166
-    },
-    {
-      "id": "d71434a6984b",
-      "title": "斯里蘭卡左派政府肅貪　前總統威克瑞米辛赫遭逮捕",
-      "url": "https://money.udn.com/money/story/5599/8957451",
-      "source": "money.udn.com",
-      "published": 1755878086
     },
     {
       "id": "1d830fe37524",
@@ -324,25 +338,11 @@
       "published": 1755872880
     },
     {
-      "id": "233a9fc3b852",
-      "title": "選前之夜 國民黨集結挺羅明才",
-      "url": "https://udn.com/news/story/124323/8957217",
-      "source": "udn.com",
-      "published": 1755872464
-    },
-    {
       "id": "5b1b9fa88819",
       "title": "德语媒体：习近平亮相拉萨 健康与权势的双重宣示",
       "url": "https://www.dw.com/zh/德语媒体：习近平亮相拉萨-健康与权势的双重宣示/a-73735321?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1755872280
-    },
-    {
-      "id": "6239b509abd6",
-      "title": "挺核三延役 童子賢「義大利廢核後擁核」：綠電占據農業空間",
-      "url": "https://udn.com/news/story/124565/8957207",
-      "source": "udn.com",
-      "published": 1755871924
     },
     {
       "id": "dca231080560",
@@ -1402,5 +1402,5 @@
       "published": 1753885320
     }
   ],
-  "build_id": 1755891391
+  "build_id": 1755894986
 }
