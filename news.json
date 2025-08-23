@@ -1,6 +1,13 @@
 {
-  "updated": 1755984414,
+  "updated": 1755985032,
   "items": [
+    {
+      "id": "b49d8f6d5dc1",
+      "title": "俄羅斯擊落飛往莫斯科無人機 多處機場暫停運作",
+      "url": "https://money.udn.com/money/story/5599/8959122",
+      "source": "money.udn.com",
+      "published": 1755984091
+    },
     {
       "id": "3d204c986001",
       "title": "土耳其第一夫人呼吁和梅拉尼娅共同关注加沙儿童命运",
@@ -371,13 +378,6 @@
       "url": "https://money.udn.com/money/story/122381/8958810",
       "source": "money.udn.com",
       "published": 1755957684
-    },
-    {
-      "id": "8f195c717be5",
-      "title": "以色列再次攻擊加薩地區 至少25人死亡",
-      "url": "https://money.udn.com/money/story/5599/8958802",
-      "source": "money.udn.com",
-      "published": 1755956848
     },
     {
       "id": "96215b16afa3",
@@ -1367,5 +1367,5 @@
       "published": 1753607700
     }
   ],
-  "build_id": 1755984414
+  "build_id": 1755985032
 }
