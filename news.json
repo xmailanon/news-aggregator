@@ -1,6 +1,27 @@
 {
-  "updated": 1755985032,
+  "updated": 1755988392,
   "items": [
+    {
+      "id": "05db8cb168eb",
+      "title": "北韓官媒：成功試射兩枚新型防空飛彈",
+      "url": "https://money.udn.com/money/story/5599/8959131",
+      "source": "money.udn.com",
+      "published": 1755986435
+    },
+    {
+      "id": "d7f471345fa1",
+      "title": "立委罷免案0通過、核三公投一面倒 圖解開票關鍵數據",
+      "url": "https://udn.com/news/story/124323/8959074",
+      "source": "udn.com",
+      "published": 1755985800
+    },
+    {
+      "id": "131c73ca2cff",
+      "title": "【總編開箱】二次罷免與公投落幕 台灣政治回到原點之後？",
+      "url": "https://udn.com/news/story/6656/8959040",
+      "source": "udn.com",
+      "published": 1755985800
+    },
     {
       "id": "b49d8f6d5dc1",
       "title": "俄羅斯擊落飛往莫斯科無人機 多處機場暫停運作",
@@ -275,20 +296,6 @@
       "published": 1755966997
     },
     {
-      "id": "5e4beeacadb1",
-      "title": "民進黨內未逼宮 但劍指柯建銘辭總召",
-      "url": "https://udn.com/news/story/124323/8959054",
-      "source": "udn.com",
-      "published": 1755966943
-    },
-    {
-      "id": "26524f7b0b50",
-      "title": "接不接黨魁？快刀斬亂麻 盧秀燕今接招",
-      "url": "https://udn.com/news/story/122404/8959024",
-      "source": "udn.com",
-      "published": 1755966785
-    },
-    {
       "id": "cd7f07049df9",
       "title": "「大罷免」失敗後的台灣政局：藍白綠未來兩年的走向將會如何？",
       "url": "https://www.bbc.com/zhongwen/articles/cj4wp0rek74o/trad?at_medium=RSS&at_campaign=rss",
@@ -371,13 +378,6 @@
       "url": "https://money.udn.com/money/story/5599/8958825",
       "source": "money.udn.com",
       "published": 1755958349
-    },
-    {
-      "id": "9c20dadaab94",
-      "title": "Fed 主席鮑爾傑克森洞「大師級」講演 贏得美債漲聲雷動",
-      "url": "https://money.udn.com/money/story/122381/8958810",
-      "source": "money.udn.com",
-      "published": 1755957684
     },
     {
       "id": "96215b16afa3",
@@ -1367,5 +1367,5 @@
       "published": 1753607700
     }
   ],
-  "build_id": 1755985032
+  "build_id": 1755988392
 }
