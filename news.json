@@ -1,6 +1,34 @@
 {
-  "updated": 1756046020,
+  "updated": 1756049495,
   "items": [
+    {
+      "id": "d22c3fba8c3c",
+      "title": "八二三大罷免挫敗 蔡賴合體喊團結",
+      "url": "https://udn.com/news/story/124323/8960429",
+      "source": "udn.com",
+      "published": 1756049382
+    },
+    {
+      "id": "fdbf67d99026",
+      "title": "盧秀燕不參選黨主席 「最困難的時候 媽媽會留在家裡」",
+      "url": "https://udn.com/news/story/122404/8960433",
+      "source": "udn.com",
+      "published": 1756049214
+    },
+    {
+      "id": "06f2c2c273d7",
+      "title": "罷免後怎麼走？李文忠籲民進黨面對少數執政現實 質疑司法濫押在野黨",
+      "url": "https://udn.com/news/story/124323/8960301",
+      "source": "udn.com",
+      "published": 1756046823
+    },
+    {
+      "id": "fb9cb762d5a0",
+      "title": "以军称袭击了也门总统府所在的军事站点 报复胡塞武装袭击",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20250824-%E4%BB%A5%E5%86%9B%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%BA%86%E4%B9%9F%E9%97%A8%E6%80%BB%E7%BB%9F%E5%BA%9C%E6%89%80%E5%9C%A8%E7%9A%84%E5%86%9B%E4%BA%8B%E7%AB%99%E7%82%B9-%E6%8A%A5%E5%A4%8D%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB",
+      "source": "rfi.fr",
+      "published": 1756046283
+    },
     {
       "id": "b159c32a6092",
       "title": "韓總統特使團見中國外長王毅　盼韓中關係回正軌",
@@ -345,13 +373,6 @@
       "published": 1756029052
     },
     {
-      "id": "4c8272771c1b",
-      "title": "盧秀燕不選黨主席 黃國昌：相信盧有方方面面考慮",
-      "url": "https://udn.com/news/story/122404/8959975",
-      "source": "udn.com",
-      "published": 1756028922
-    },
-    {
       "id": "be4d8fdce605",
       "title": "觀光客太多 日本92個地方政府考慮徵住宿稅",
       "url": "https://money.udn.com/money/story/5599/8959958",
@@ -364,20 +385,6 @@
       "url": "https://money.udn.com/money/story/5599/8959944",
       "source": "money.udn.com",
       "published": 1756027834
-    },
-    {
-      "id": "fd2c3e96e9a8",
-      "title": "大罷免失利屢遭點名究責 沈伯洋處理母親後事：保佑不孝的孩兒",
-      "url": "https://udn.com/news/story/124323/8959941",
-      "source": "udn.com",
-      "published": 1756027723
-    },
-    {
-      "id": "50ba28c5408a",
-      "title": "獨／劉世芳快閃金門 對於罷免議題低調不受訪機場大玩躲貓貓",
-      "url": "https://udn.com/news/story/124323/8959936",
-      "source": "udn.com",
-      "published": 1756027484
     },
     {
       "id": "9a08d24259aa",
@@ -623,13 +630,6 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250823-%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%A6%96%E8%AE%BF%E5%9C%B0%E9%80%89%E6%8B%A9%E6%97%A5%E6%9C%AC%E6%8A%B5%E8%BE%BE%E4%B8%9C%E4%BA%AC",
       "source": "rfi.fr",
       "published": 1755947728
-    },
-    {
-      "id": "d5e47827a9f5",
-      "title": "823台湾第二波罢免投票绑重启核三公投 选民用公投表达立场",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250823-823%E5%8F%B0%E6%B9%BE%E7%AC%AC%E4%BA%8C%E6%B3%A2%E7%BD%A2%E5%85%8D%E6%8A%95%E7%A5%A8%E7%BB%91%E9%87%8D%E5%90%AF%E6%A0%B8%E4%B8%89%E5%85%AC%E6%8A%95-%E9%80%89%E6%B0%91%E7%94%A8%E5%85%AC%E6%8A%95%E8%A1%A8%E8%BE%BE%E7%AB%8B%E5%9C%BA",
-      "source": "rfi.fr",
-      "published": 1755947277
     },
     {
       "id": "8a91c90c8d70",
@@ -1402,5 +1402,5 @@
       "published": 1753883340
     }
   ],
-  "build_id": 1756046020
+  "build_id": 1756049495
 }
