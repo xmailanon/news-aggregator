@@ -1,6 +1,27 @@
 {
-  "updated": 1756074958,
+  "updated": 1756078166,
   "items": [
+    {
+      "id": "0254477d7589",
+      "title": "【專家之眼】對823結果的另一種解讀—君子求諸己",
+      "url": "https://udn.com/news/story/6656/8960599",
+      "source": "udn.com",
+      "published": 1756076501
+    },
+    {
+      "id": "bf3e6826d6d9",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/8960596",
+      "source": "money.udn.com",
+      "published": 1756076321
+    },
+    {
+      "id": "290c95b36e64",
+      "title": "【專家之眼】823挫敗後兩岸的變與不變",
+      "url": "https://udn.com/news/story/6656/8960593",
+      "source": "udn.com",
+      "published": 1756075818
+    },
     {
       "id": "bd9ea85c3121",
       "title": "【專家之眼】八日當空：特別預算齊出，人民如烈日焚身",
@@ -317,6 +338,34 @@
       "published": 1756051222
     },
     {
+      "id": "ff06f73e2e1e",
+      "title": "康桥随笔：盛夏的追忆",
+      "url": "https://www.ftchinese.com/story/001107403",
+      "source": "ftchinese.com",
+      "published": 1756051200
+    },
+    {
+      "id": "e40b5d611edc",
+      "title": "中产留学变鸡肋：教育变迁背后的真相",
+      "url": "https://www.ftchinese.com/story/001107406",
+      "source": "ftchinese.com",
+      "published": 1756051200
+    },
+    {
+      "id": "cac52da0806e",
+      "title": "中国清洁能源能否助力巴西再工业化？",
+      "url": "https://www.ftchinese.com/story/001107405",
+      "source": "ftchinese.com",
+      "published": 1756051200
+    },
+    {
+      "id": "09bafceb7e33",
+      "title": "反内卷需要坚持市场化路径",
+      "url": "https://www.ftchinese.com/story/001107404",
+      "source": "ftchinese.com",
+      "published": 1756051200
+    },
+    {
       "id": "ba58e8a420cc",
       "title": "歷史上的今天／1956年貢江號兩度擊沉匪艦 凱旋基隆港",
       "url": "https://udn.com/news/story/7314/8959990",
@@ -329,27 +378,6 @@
       "url": "https://udn.com/news/story/124565/8960482",
       "source": "udn.com",
       "published": 1756051200
-    },
-    {
-      "id": "86b1e1d9eb5f",
-      "title": "預算中心：追加預算回編率高 弱化立院職權",
-      "url": "https://udn.com/news/story/6656/8960487",
-      "source": "udn.com",
-      "published": 1756051200
-    },
-    {
-      "id": "8a1a4e3eba67",
-      "title": "鳥籠公投投票率低 藍白擬修法「重回公投綁大選」",
-      "url": "https://udn.com/news/story/124565/8960483",
-      "source": "udn.com",
-      "published": 1756051200
-    },
-    {
-      "id": "a20f7d473287",
-      "title": "英語篇  AI英語會話5分鐘 最快提升能力的特訓",
-      "url": "https://money.udn.com/money/story/122979/8952216",
-      "source": "money.udn.com",
-      "published": 1756050172
     },
     {
       "id": "0faacd3fb677",
@@ -961,34 +989,6 @@
       "published": 1755705600
     },
     {
-      "id": "3516e52a4f39",
-      "title": "美联储应如何应对美国滞胀风险？",
-      "url": "https://www.ftchinese.com/story/001107389",
-      "source": "ftchinese.com",
-      "published": 1755705600
-    },
-    {
-      "id": "c500b2cb27cb",
-      "title": "美商务部长出言“不逊” 英伟达H20芯片在中国遇冷",
-      "url": "https://www.ftchinese.com/story/001107387",
-      "source": "ftchinese.com",
-      "published": 1755705600
-    },
-    {
-      "id": "60265b8756d1",
-      "title": "英法“意愿联盟”是保护乌克兰安全的北约替代品吗？",
-      "url": "https://www.ftchinese.com/story/001107386",
-      "source": "ftchinese.com",
-      "published": 1755705600
-    },
-    {
-      "id": "6e5cc53dcfd2",
-      "title": "均胜电子谋港上市 提升估值还看机器人",
-      "url": "https://www.ftchinese.com/story/001107385",
-      "source": "ftchinese.com",
-      "published": 1755705600
-    },
-    {
       "id": "4f0d18a8e02c",
       "title": "德语媒体：共产党员特朗普",
       "url": "https://www.dw.com/zh/德语媒体：共产党员特朗普/a-73704512?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1753883340
     }
   ],
-  "build_id": 1756074958
+  "build_id": 1756078166
 }
