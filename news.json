@@ -1,6 +1,13 @@
 {
-  "updated": 1756063374,
+  "updated": 1756064268,
   "items": [
+    {
+      "id": "8ab38a52f61a",
+      "title": "俄烏新一波換俘　阿聯斡旋各有146人回歸",
+      "url": "https://money.udn.com/money/story/5599/8960546",
+      "source": "money.udn.com",
+      "published": 1756064190
+    },
     {
       "id": "ab6b7e048428",
       "title": "乌克兰独立日看顿巴斯地区的特殊意义",
@@ -227,7 +234,7 @@
     },
     {
       "id": "aa712fdfd647",
-      "title": "工商協進會 盼核能納考量",
+      "title": "順應公投民意 工商協進會盼核能納考量",
       "url": "https://udn.com/news/story/124565/8960482",
       "source": "udn.com",
       "published": 1756051200
@@ -240,9 +247,9 @@
       "published": 1756051200
     },
     {
-      "id": "e75cbd6d522b",
+      "id": "8a1a4e3eba67",
       "title": "鳥籠公投投票率低 藍白擬修法「重回公投綁大選」",
-      "url": "https://udn.com/news/story/6656/8960483",
+      "url": "https://udn.com/news/story/124565/8960483",
       "source": "udn.com",
       "published": 1756051200
     },
@@ -308,13 +315,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20250824-%E4%BB%A5%E5%86%9B%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%BA%86%E4%B9%9F%E9%97%A8%E6%80%BB%E7%BB%9F%E5%BA%9C%E6%89%80%E5%9C%A8%E7%9A%84%E5%86%9B%E4%BA%8B%E7%AB%99%E7%82%B9-%E6%8A%A5%E5%A4%8D%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%A2%AD%E5%87%BB",
       "source": "rfi.fr",
       "published": 1756046283
-    },
-    {
-      "id": "b159c32a6092",
-      "title": "韓總統特使團見中國外長王毅　盼韓中關係回正軌",
-      "url": "https://money.udn.com/money/story/5599/8960286",
-      "source": "money.udn.com",
-      "published": 1756045831
     },
     {
       "id": "28a91af50730",
@@ -1402,5 +1402,5 @@
       "published": 1753883340
     }
   ],
-  "build_id": 1756063374
+  "build_id": 1756064268
 }
