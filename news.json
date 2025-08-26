@@ -1,6 +1,62 @@
 {
-  "updated": 1756219147,
+  "updated": 1756222515,
   "items": [
+    {
+      "id": "e0e2ab90a72b",
+      "title": "聯準會理事庫克不理會川普將她開除　稱其無權這麼做",
+      "url": "https://money.udn.com/money/story/10511/8964983",
+      "source": "money.udn.com",
+      "published": 1756221684
+    },
+    {
+      "id": "33883eb64984",
+      "title": "出席IPAC晚宴 蕭美琴：台灣在國際社會被孤立但我們沒有退縮",
+      "url": "https://udn.com/news/story/6656/8964919",
+      "source": "udn.com",
+      "published": 1756220764
+    },
+    {
+      "id": "f5bac76d9dd1",
+      "title": "太平洋島國學員來台培訓 邀原民青年加入添外交動能",
+      "url": "https://udn.com/news/story/7314/8964886",
+      "source": "udn.com",
+      "published": 1756220292
+    },
+    {
+      "id": "7c4092d50622",
+      "title": "美商务部长：五角大楼正讨论收购洛马等国防承包商的股权",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250826-%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%AD%A3%E8%AE%A8%E8%AE%BA%E6%94%B6%E8%B4%AD%E6%B4%9B%E9%A9%AC%E7%AD%89%E5%9B%BD%E9%98%B2%E6%89%BF%E5%8C%85%E5%95%86%E7%9A%84%E8%82%A1%E6%9D%83",
+      "source": "rfi.fr",
+      "published": 1756219887
+    },
+    {
+      "id": "36ee19770fca",
+      "title": "梅尔茨谴责以军空袭加沙医院：德国停供武器是对的",
+      "url": "https://www.dw.com/zh/梅尔茨谴责以军空袭加沙医院：德国停供武器是对的/a-73772879?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756219320
+    },
+    {
+      "id": "c77686379b8a",
+      "title": "天津上合峰会强人秀：习近平将欢迎普京和莫迪来访",
+      "url": "https://www.dw.com/zh/天津上合峰会强人秀：习近平将欢迎普京和莫迪来访/a-73772833?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756219140
+    },
+    {
+      "id": "6544754ceefc",
+      "title": "聯合國：全球1/4民眾缺乏安全飲用水",
+      "url": "https://money.udn.com/money/story/5599/8964840",
+      "source": "money.udn.com",
+      "published": 1756218989
+    },
+    {
+      "id": "17d954e864fb",
+      "title": "日經朝日控Perplexity AI侵權　各求償22億日圓",
+      "url": "https://money.udn.com/money/story/5599/8964839",
+      "source": "money.udn.com",
+      "published": 1756218989
+    },
     {
       "id": "e965f9cab14c",
       "title": "大九學堂結束上海行返台 看「南京照相館」訪四行倉庫",
@@ -9,9 +65,9 @@
       "published": 1756218685
     },
     {
-      "id": "35503e6ec5be",
+      "id": "78304d4f4668",
       "title": "澤倫斯基與蒲亭會談 芬蘭總統表示不樂觀",
-      "url": "https://money.udn.com/money/story/10511/8964829",
+      "url": "https://money.udn.com/money/story/5599/8964829",
       "source": "money.udn.com",
       "published": 1756218634
     },
@@ -21,6 +77,13 @@
       "url": "https://money.udn.com/money/story/5599/8964828",
       "source": "money.udn.com",
       "published": 1756218632
+    },
+    {
+      "id": "3de5de16592b",
+      "title": "德语媒体：人工智能能否拯救中国的人口危机？",
+      "url": "https://www.dw.com/zh/德语媒体：人工智能能否拯救中国的人口危机？/a-73772703?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756218180
     },
     {
       "id": "30bd089db705",
@@ -254,32 +317,11 @@
       "published": 1756210282
     },
     {
-      "id": "e0bd8f3a8943",
-      "title": "鋪天蓋地沙塵暴吞噬鳳凰城　機場停擺數萬戶停電",
-      "url": "https://money.udn.com/money/story/10511/8964676",
-      "source": "money.udn.com",
-      "published": 1756209980
-    },
-    {
       "id": "7af0918ba2f2",
       "title": "李成钢本周将赴华盛顿会见美贸易代表副手、财政部官员及商界人士",
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20250826-%E6%9D%8E%E6%88%90%E9%92%A2%E6%9C%AC%E5%91%A8%E5%B0%86%E8%B5%B4%E5%8D%8E%E7%9B%9B%E9%A1%BF%E4%BC%9A%E8%A7%81%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BB%A3%E8%A1%A8%E5%89%AF%E6%89%8B-%E8%B4%A2%E6%94%BF%E9%83%A8%E5%AE%98%E5%91%98%E5%8F%8A%E5%95%86%E7%95%8C%E4%BA%BA%E5%A3%AB",
       "source": "rfi.fr",
       "published": 1756209811
-    },
-    {
-      "id": "5d9e29c84496",
-      "title": "日本102歲人瑞登頂富士山　創最年長紀錄",
-      "url": "https://money.udn.com/money/story/5599/8964653",
-      "source": "money.udn.com",
-      "published": 1756209269
-    },
-    {
-      "id": "f572285a1ff0",
-      "title": "日本政黨支持率最新民調 參政黨居在野黨第一名",
-      "url": "https://money.udn.com/money/story/5599/8964651",
-      "source": "money.udn.com",
-      "published": 1756209269
     },
     {
       "id": "38e9ceca0b2b",
@@ -296,16 +338,16 @@
       "published": 1756208464
     },
     {
-      "id": "87ec36a4a7b3",
-      "title": "再挥关税大棒 特朗普瞄准数字税",
-      "url": "https://www.dw.com/zh/再挥关税大棒-特朗普瞄准数字税/a-73769740?maca=chi-rss-chi-all-1127-rdf",
+      "id": "59fbcc967ad4",
+      "title": "不用中国货了!德国本土厂商接盘北海风电场",
+      "url": "https://www.dw.com/zh/不用中国货了-德国本土厂商接盘北海风电场/a-73769242?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756208400
     },
     {
-      "id": "59fbcc967ad4",
-      "title": "不用中国货了!德国本土厂商接盘北海风电场",
-      "url": "https://www.dw.com/zh/不用中国货了-德国本土厂商接盘北海风电场/a-73769242?maca=chi-rss-chi-all-1127-rdf",
+      "id": "87ec36a4a7b3",
+      "title": "再挥关税大棒 特朗普瞄准数字税",
+      "url": "https://www.dw.com/zh/再挥关税大棒-特朗普瞄准数字税/a-73769740?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756208400
     },
@@ -357,20 +399,6 @@
       "url": "https://udn.com/news/story/6656/8964516",
       "source": "udn.com",
       "published": 1756205500
-    },
-    {
-      "id": "0f05c4596bc8",
-      "title": "綠委籲「以租換貸」助農民重建 農業部長：年底前規劃",
-      "url": "https://udn.com/news/story/6656/8964479",
-      "source": "udn.com",
-      "published": 1756205321
-    },
-    {
-      "id": "01b5596b0423",
-      "title": "首批直接換裝勇鷹高教機學員 完成結訓獲頒飛行胸章",
-      "url": "https://udn.com/news/story/10930/8964491",
-      "source": "udn.com",
-      "published": 1756205195
     },
     {
       "id": "cda24e059a80",
@@ -702,13 +730,6 @@
       "published": 1756137600
     },
     {
-      "id": "288602bbc473",
-      "title": "英特尔警告称美政府持股可能损害国际销售 特朗普：将继续进行类似英特尔的交易",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250825-%E8%8B%B1%E7%89%B9%E5%B0%94%E8%AD%A6%E5%91%8A%E7%A7%B0%E7%BE%8E%E6%94%BF%E5%BA%9C%E6%8C%81%E8%82%A1%E5%8F%AF%E8%83%BD%E6%8D%9F%E5%AE%B3%E5%9B%BD%E9%99%85%E9%94%80%E5%94%AE-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%BF%9B%E8%A1%8C%E7%B1%BB%E4%BC%BC%E8%8B%B1%E7%89%B9%E5%B0%94%E7%9A%84%E4%BA%A4%E6%98%93",
-      "source": "rfi.fr",
-      "published": 1756135328
-    },
-    {
       "id": "54129bae635c",
       "title": "万斯称普京已让步 俄外长表态依旧强硬",
       "url": "https://www.dw.com/zh/万斯称普京已让步-俄外长表态依旧强硬/a-73760295?maca=chi-rss-chi-all-1127-rdf",
@@ -742,13 +763,6 @@
       "url": "https://www.dw.com/zh/拼多多第二季度营收超过市场预期/a-73759379?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756128420
-    },
-    {
-      "id": "390e1047a709",
-      "title": "涉嫌向中国提供美军基地信息 美籍男子在德被捕",
-      "url": "https://www.dw.com/zh/涉嫌向中国提供美军基地信息-美籍男子在德被捕/a-73759077?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756127640
     },
     {
       "id": "7e16b65db7a6",
@@ -812,13 +826,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cz0yjgmmje2o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1756101463
-    },
-    {
-      "id": "aca3de0a7028",
-      "title": "回應台灣疑美聲浪？美媒揭台軍參與密西根演習",
-      "url": "https://www.dw.com/zh/回應台灣疑美聲浪？美媒揭台軍參與密西根演習/a-73748893?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756098060
     },
     {
       "id": "36b4f1ccacfe",
@@ -1052,13 +1059,6 @@
       "published": 1755872280
     },
     {
-      "id": "785df06f8f67",
-      "title": "德国经济不及预期 二季度萎缩0.3%",
-      "url": "https://www.dw.com/zh/德国经济不及预期-二季度萎缩0-3/a-73730453?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1755858960
-    },
-    {
       "id": "d9e9eeb438b6",
       "title": "95歲戰俘：我想回朝鮮終老",
       "url": "https://www.bbc.com/zhongwen/articles/cde3511d3rjo/trad?at_medium=RSS&at_campaign=rss",
@@ -1262,13 +1262,6 @@
       "published": 1755527580
     },
     {
-      "id": "467f34dbe5e3",
-      "title": "墙外文摘：独裁者的治理灾难和权力强化",
-      "url": "https://www.dw.com/zh/墙外文摘：独裁者的治理灾难和权力强化/a-73671523?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1755429540
-    },
-    {
       "id": "87a6581371c7",
       "title": "德国数字主权路漫漫",
       "url": "https://www.dw.com/zh/德国数字主权路漫漫/a-73614719?maca=chi-rss-chi-all-1127-rdf",
@@ -1360,13 +1353,6 @@
       "published": 1754986154
     },
     {
-      "id": "6add0236f30f",
-      "title": "川普行政命令拍板 美中關稅休戰再延長90天",
-      "url": "https://www.dw.com/zh/川普行政命令拍板-美中關稅休戰再延長90天/a-73607091?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1754970780
-    },
-    {
       "id": "44368f97d558",
       "title": "香港大學N號檔深偽圖片受害女生：「這是一個法律黑洞」",
       "url": "https://www.bbc.com/zhongwen/articles/cp94nmgde2xo/trad?at_medium=RSS&at_campaign=rss",
@@ -1395,12 +1381,26 @@
       "published": 1754627520
     },
     {
+      "id": "fa8c9d50954c",
+      "title": "德语媒体：美印相争 中国得利？",
+      "url": "https://www.dw.com/zh/德语媒体：美印相争-中国得利？/a-73559933?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1754571540
+    },
+    {
       "id": "37c8b1a798df",
       "title": "德国警方突查四州：打击涉嫌卖淫华人团伙",
       "url": "https://www.dw.com/zh/德国警方突查四州：打击涉嫌卖淫华人团伙/a-73556813?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1754561280
+    },
+    {
+      "id": "8344db20a2a1",
+      "title": "科技製造業成就了亞洲，如今成為特朗普關稅的犧牲品",
+      "url": "https://www.bbc.com/zhongwen/articles/ce83yze2l1ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1754287171
     }
   ],
-  "build_id": 1756219147
+  "build_id": 1756222515
 }
