@@ -1,5 +1,5 @@
 {
-  "updated": 1756243653,
+  "updated": 1756244421,
   "items": [
     {
       "id": "667598428f37",
@@ -7,6 +7,13 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250826-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%9B%9E%E5%87%BB%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
       "source": "rfi.fr",
       "published": 1756243454
+    },
+    {
+      "id": "759c9700a745",
+      "title": "投資人不受川普開除Fed理事影響　美股收高",
+      "url": "https://money.udn.com/money/story/10511/8965183",
+      "source": "money.udn.com",
+      "published": 1756243272
     },
     {
       "id": "2e78c3dab3bd",
@@ -217,13 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/8962773",
       "source": "money.udn.com",
       "published": 1756227200
-    },
-    {
-      "id": "11baa65fa0a7",
-      "title": "馬斯克起訴蘋果和 OpenAI  指控其損害人工智慧競爭",
-      "url": "https://money.udn.com/money/story/5599/8962810",
-      "source": "money.udn.com",
-      "published": 1756226907
     },
     {
       "id": "cc9992d9e625",
@@ -1402,5 +1402,5 @@
       "published": 1754287171
     }
   ],
-  "build_id": 1756243653
+  "build_id": 1756244421
 }
