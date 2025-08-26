@@ -1,6 +1,13 @@
 {
-  "updated": 1756236207,
+  "updated": 1756237092,
   "items": [
+    {
+      "id": "6cb33f6907cb",
+      "title": "从美加德到玻利维亚 各国政要为稀土而忙",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20250826-%E4%BB%8E%E7%BE%8E%E5%8A%A0%E5%BE%B7%E5%88%B0%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A-%E5%90%84%E5%9B%BD%E6%94%BF%E8%A6%81%E4%B8%BA%E7%A8%80%E5%9C%9F%E8%80%8C%E5%BF%99",
+      "source": "rfi.fr",
+      "published": 1756236405
+    },
     {
       "id": "fa75f8c7de19",
       "title": "特朗普解雇美联储理事库克引发宪政风暴 怎么回事？",
@@ -16,6 +23,13 @@
       "published": 1756235568
     },
     {
+      "id": "3e6c99b09573",
+      "title": "川普撤換 Fed 理事庫克 恐動搖央行獨立性 美元應聲走軟、金價上漲",
+      "url": "https://money.udn.com/money/story/5599/8965016",
+      "source": "money.udn.com",
+      "published": 1756235509
+    },
+    {
       "id": "0a4325a0568e",
       "title": "川普逼大陸出口稀土 放話對陸課200%關稅 強調握有更多籌碼",
       "url": "https://money.udn.com/money/story/5599/8964962",
@@ -24,7 +38,7 @@
     },
     {
       "id": "dfb9e4efe907",
-      "title": "美：南韓15%關稅不變 兩國舉行峰會 承諾加碼投資",
+      "title": "美：南韓15%關稅不變 兩國舉行峰會 韓方承諾加碼投資",
       "url": "https://money.udn.com/money/story/5599/8964959",
       "source": "money.udn.com",
       "published": 1756235244
@@ -147,13 +161,6 @@
       "url": "https://money.udn.com/money/story/123398/8965117",
       "source": "money.udn.com",
       "published": 1756226685
-    },
-    {
-      "id": "39f4c4d6d41a",
-      "title": "川普威脅以出口限制和關稅報復數位稅 稱有關措施歧視美國科技業",
-      "url": "https://money.udn.com/money/story/5599/8962967",
-      "source": "money.udn.com",
-      "published": 1756226043
     },
     {
       "id": "cc9992d9e625",
@@ -623,13 +630,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20250825-%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E8%A8%80%E8%BE%9E%E8%B0%B4%E8%B4%A3%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%8A%A0%E6%B2%99%E5%8D%97%E9%83%A8%E7%BA%B3%E8%B5%9B%E5%B0%94-nasser-%E5%8C%BB%E9%99%A2",
       "source": "rfi.fr",
       "published": 1756155804
-    },
-    {
-      "id": "d0f141fb0147",
-      "title": "美媒：英伟达停止为中国生产H20芯片",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250825-%E7%BE%8E%E5%AA%92-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%81%9C%E6%AD%A2%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%94%9F%E4%BA%A7h20%E8%8A%AF%E7%89%87",
-      "source": "rfi.fr",
-      "published": 1756155701
     },
     {
       "id": "5bbdeb20e616",
@@ -1402,5 +1402,5 @@
       "published": 1754287171
     }
   ],
-  "build_id": 1756236207
+  "build_id": 1756237092
 }
