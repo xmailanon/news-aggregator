@@ -1,6 +1,27 @@
 {
-  "updated": 1756337224,
+  "updated": 1756337806,
   "items": [
+    {
+      "id": "0cbef843454f",
+      "title": "美反情報官員：涉國防部技術研究最終落入北京手",
+      "url": "https://money.udn.com/money/story/5599/8967831",
+      "source": "money.udn.com",
+      "published": 1756337435
+    },
+    {
+      "id": "3820d41dd3b4",
+      "title": "澄清抄襲以色列 中科院解密雄蜂飛彈自主研發真相",
+      "url": "https://udn.com/news/story/10930/8964472",
+      "source": "udn.com",
+      "published": 1756337400
+    },
+    {
+      "id": "75000adfe0fa",
+      "title": "台積電ADR漲0.2% 較台北交易溢價23%",
+      "url": "https://money.udn.com/money/story/123398/8967821",
+      "source": "money.udn.com",
+      "published": 1756336871
+    },
     {
       "id": "74141391de90",
       "title": "李洋掌運動部 林郁婷曝他人格特質：對我們來說是希望",
@@ -136,7 +157,7 @@
     },
     {
       "id": "585829c0a555",
-      "title": "金融時報：中國擬大增AI晶片產量　降低對輝達依賴",
+      "title": "金融時報：中國擬大增 AI 晶片產量 降低對輝達依賴",
       "url": "https://money.udn.com/money/story/5599/8967753",
       "source": "money.udn.com",
       "published": 1756326074
@@ -289,25 +310,11 @@
       "published": 1756314364
     },
     {
-      "id": "d6dba6a03bff",
-      "title": "輝達財報公布前　歐股互有漲跌",
-      "url": "https://money.udn.com/money/story/5599/8967712",
-      "source": "money.udn.com",
-      "published": 1756312768
-    },
-    {
       "id": "b0b074a2fbd8",
       "title": "北京“九三阅兵”背后的历史叙事争议",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250827-%E5%8C%97%E4%BA%AC-%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5-%E8%83%8C%E5%90%8E%E7%9A%84%E5%8E%86%E5%8F%B2%E5%8F%99%E4%BA%8B%E4%BA%89%E8%AE%AE",
       "source": "rfi.fr",
       "published": 1756312221
-    },
-    {
-      "id": "bb4c2a1bb2a3",
-      "title": "美國明尼蘇達州天主教小學爆槍響　官員：3死20傷",
-      "url": "https://money.udn.com/money/story/10511/8967708",
-      "source": "money.udn.com",
-      "published": 1756311850
     },
     {
       "id": "f9197dd45e87",
@@ -364,13 +371,6 @@
       "url": "https://udn.com/news/story/124323/8967635",
       "source": "udn.com",
       "published": 1756310731
-    },
-    {
-      "id": "b9d64eb88371",
-      "title": "國民黨主席領表延後2周 投票日不變…改選添變數？",
-      "url": "https://udn.com/news/story/122404/8967641",
-      "source": "udn.com",
-      "published": 1756310646
     },
     {
       "id": "d3009ee8bf80",
@@ -1402,5 +1402,5 @@
       "published": 1754205600
     }
   ],
-  "build_id": 1756337224
+  "build_id": 1756337806
 }
