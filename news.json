@@ -1,6 +1,20 @@
 {
-  "updated": 1756413173,
+  "updated": 1756416457,
   "items": [
+    {
+      "id": "6d10ea4e39de",
+      "title": "美股收紅　道瓊、標普500創新高",
+      "url": "https://money.udn.com/money/story/5599/8970318",
+      "source": "money.udn.com",
+      "published": 1756416089
+    },
+    {
+      "id": "c06c17fae942",
+      "title": "市場靜候川普就俄烏局勢發聲明　油價收高",
+      "url": "https://money.udn.com/money/story/10511/8970313",
+      "source": "money.udn.com",
+      "published": 1756414449
+    },
     {
       "id": "05ff6d7ae327",
       "title": "美國CDC主任遭免職 白宮：總統下令開除",
@@ -177,25 +191,11 @@
       "published": 1756397376
     },
     {
-      "id": "c6d941bb2ae3",
-      "title": "美政府對輝達「抽成制」沒立法...免繳",
-      "url": "https://money.udn.com/money/story/5599/8970099",
-      "source": "money.udn.com",
-      "published": 1756397257
-    },
-    {
       "id": "0041a99e0af5",
       "title": "綠19議員連署建言賴總統 王鴻薇：自家議員都看不下去",
       "url": "https://udn.com/news/story/124323/8970114",
       "source": "udn.com",
       "published": 1756397195
-    },
-    {
-      "id": "b091e7e0fa61",
-      "title": "分析師：輝達股價看漲12%",
-      "url": "https://money.udn.com/money/story/123398/8970103",
-      "source": "money.udn.com",
-      "published": 1756397148
     },
     {
       "id": "44965512d39d",
@@ -1402,5 +1402,5 @@
       "published": 1754205600
     }
   ],
-  "build_id": 1756413173
+  "build_id": 1756416457
 }
