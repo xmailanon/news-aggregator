@@ -1,6 +1,20 @@
 {
-  "updated": 1756409813,
+  "updated": 1756413173,
   "items": [
+    {
+      "id": "05ff6d7ae327",
+      "title": "美國CDC主任遭免職 白宮：總統下令開除",
+      "url": "https://money.udn.com/money/story/5599/8970301",
+      "source": "money.udn.com",
+      "published": 1756411482
+    },
+    {
+      "id": "9b687140b039",
+      "title": "被控違法開除聯準會理事 白宮：會據理力爭",
+      "url": "https://money.udn.com/money/story/5599/8970300",
+      "source": "money.udn.com",
+      "published": 1756411390
+    },
     {
       "id": "bd4fd54911eb",
       "title": "日英防長會談聯合聲明　重申台海和平穩定重要性",
@@ -280,20 +294,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cvg0yv9mp8go/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1756395760
-    },
-    {
-      "id": "3fa90a44eb9f",
-      "title": "川普害的...美電池廠2030年恐爆產能過剩危機",
-      "url": "https://money.udn.com/money/story/5599/8970101",
-      "source": "money.udn.com",
-      "published": 1756394398
-    },
-    {
-      "id": "f2d4a7f94546",
-      "title": "抗拒川普開除　美國聯準會理事庫克提告",
-      "url": "https://money.udn.com/money/story/10511/8970024",
-      "source": "money.udn.com",
-      "published": 1756392871
     },
     {
       "id": "650ef774d044",
@@ -1402,5 +1402,5 @@
       "published": 1754205600
     }
   ],
-  "build_id": 1756409813
+  "build_id": 1756413173
 }
