@@ -1,6 +1,48 @@
 {
-  "updated": 1756499502,
+  "updated": 1756502798,
   "items": [
+    {
+      "id": "90a6df0f1ded",
+      "title": "日印峰会更新安保合作宣言 对中国扩张表达深切担忧",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250829-%E6%97%A5%E5%8D%B0%E5%B3%B0%E4%BC%9A%E6%9B%B4%E6%96%B0%E5%AE%89%E4%BF%9D%E5%90%88%E4%BD%9C%E5%AE%A3%E8%A8%80-%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%89%A9%E5%BC%A0%E8%A1%A8%E8%BE%BE%E6%B7%B1%E5%88%87%E6%8B%85%E5%BF%A7",
+      "source": "rfi.fr",
+      "published": 1756502742
+    },
+    {
+      "id": "58437542fafe",
+      "title": "美国出台新规 限制三星、SK海力士与英特尔在中国制造芯片",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250829-%E7%BE%8E%E5%9B%BD%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84-%E9%99%90%E5%88%B6%E4%B8%89%E6%98%9F-sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E4%B8%8E%E8%8B%B1%E7%89%B9%E5%B0%94%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E8%8A%AF%E7%89%87",
+      "source": "rfi.fr",
+      "published": 1756502534
+    },
+    {
+      "id": "f536ba4b5e78",
+      "title": "美国联大前拒发巴勒斯坦官员签证 引发外交风波",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250829-%E7%BE%8E%E5%9B%BD%E5%9C%A8%E8%81%94%E5%A4%A7%E5%89%8D%E6%8B%92%E5%8F%91%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%AE%98%E5%91%98%E7%AD%BE%E8%AF%81-%E5%BC%95%E5%8F%91%E5%A4%96%E4%BA%A4%E9%A3%8E%E6%B3%A2",
+      "source": "rfi.fr",
+      "published": 1756502238
+    },
+    {
+      "id": "7647d5a14a86",
+      "title": "泰总理被罢免重创钦纳瓦家族政治王朝 自豪泰党称已获足够支持组建新政府",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250829-%E6%B3%B0%E6%80%BB%E7%90%86%E8%A2%AB%E7%BD%A2%E5%85%8D%E9%87%8D%E5%88%9B%E9%92%A6%E7%BA%B3%E7%93%A6%E5%AE%B6%E6%97%8F%E6%94%BF%E6%B2%BB%E7%8E%8B%E6%9C%9D-%E8%87%AA%E8%B1%AA%E6%B3%B0%E5%85%9A%E7%A7%B0%E5%B7%B2%E8%8E%B7%E8%B6%B3%E5%A4%9F%E6%94%AF%E6%8C%81%E7%BB%84%E5%BB%BA%E6%96%B0%E6%94%BF%E5%BA%9C",
+      "source": "rfi.fr",
+      "published": 1756502025
+    },
+    {
+      "id": "01e44b16f5fb",
+      "title": "白宫：特朗普持续推动普京泽连斯基会晤 力图“终结战争”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250829-%E7%99%BD%E5%AE%AB-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%81%E7%BB%AD%E6%8E%A8%E5%8A%A8%E6%99%AE%E4%BA%AC%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BC%9A%E6%99%A4-%E5%8A%9B%E5%9B%BE-%E7%BB%88%E7%BB%93%E6%88%98%E4%BA%89",
+      "source": "rfi.fr",
+      "published": 1756501725
+    },
+    {
+      "id": "cd9a4d7e96dd",
+      "title": "聯合國峰會將召開　美拒向巴勒斯坦官員核發簽證",
+      "url": "https://money.udn.com/money/story/10511/8972491",
+      "source": "money.udn.com",
+      "published": 1756499769
+    },
     {
       "id": "8d26a050d74a",
       "title": "美超微披露財務控管存在弱點　盤中股價重挫近5%",
@@ -266,13 +308,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250829-%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%82%80%E6%97%A5%E6%B8%90%E9%9D%A0%E6%8B%A2%E6%99%AE%E4%BA%AC%E7%9A%84%E9%87%91%E6%AD%A3%E6%81%A9%E5%87%BA%E5%B8%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%EF%BC%8C%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F",
       "source": "rfi.fr",
       "published": 1756481425
-    },
-    {
-      "id": "9a02ae4c6de2",
-      "title": "澳盛銀行 CEO 推進全面改革 出勤率不達標的員工將面臨減薪",
-      "url": "https://money.udn.com/money/story/5599/8970597",
-      "source": "money.udn.com",
-      "published": 1756481224
     },
     {
       "id": "a16b25bec6e1",
@@ -583,32 +618,11 @@
       "published": 1756418230
     },
     {
-      "id": "8b1c50eefc6b",
-      "title": "中国航空业复苏乏力 国航南航上半年仍亏损",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250828-%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E4%B8%9A%E5%A4%8D%E8%8B%8F%E4%B9%8F%E5%8A%9B-%E5%9B%BD%E8%88%AA%E5%8D%97%E8%88%AA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%BB%8D%E4%BA%8F%E6%8D%9F",
-      "source": "rfi.fr",
-      "published": 1756417669
-    },
-    {
-      "id": "4e0431c68ad5",
-      "title": "金正恩首登多边外交舞台 巩固与中俄合作",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250828-%E9%87%91%E6%AD%A3%E6%81%A9%E9%A6%96%E7%99%BB%E5%A4%9A%E8%BE%B9%E5%A4%96%E4%BA%A4%E8%88%9E%E5%8F%B0-%E5%B7%A9%E5%9B%BA%E4%B8%8E%E4%B8%AD%E4%BF%84%E5%90%88%E4%BD%9C",
-      "source": "rfi.fr",
-      "published": 1756417449
-    },
-    {
       "id": "e3656b473b1c",
       "title": "伊核谈判陷僵局 法英德启动恢复联合国制裁伊朗程序",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250828-%E4%BC%8A%E6%A0%B8%E8%B0%88%E5%88%A4%E9%99%B7%E5%83%B5%E5%B1%80-%E6%B3%95%E8%8B%B1%E5%BE%B7%E5%90%AF%E5%8A%A8%E6%81%A2%E5%A4%8D%E8%81%94%E5%90%88%E5%9B%BD%E5%88%B6%E8%A3%81%E4%BC%8A%E6%9C%97%E7%A8%8B%E5%BA%8F",
       "source": "rfi.fr",
       "published": 1756417163
-    },
-    {
-      "id": "12b78fd14d2b",
-      "title": "俄中贸易降温 普京盼与习近平会晤推动回升",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250828-%E4%BF%84%E4%B8%AD%E8%B4%B8%E6%98%93%E9%99%8D%E6%B8%A9-%E6%99%AE%E4%BA%AC%E7%9B%BC%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E6%99%A4%E6%8E%A8%E5%8A%A8%E5%9B%9E%E5%8D%87",
-      "source": "rfi.fr",
-      "published": 1756416711
     },
     {
       "id": "3aee3dec833c",
@@ -637,13 +651,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%AD%E5%8D%8E%E4%B8%96%E7%95%8C/20250828-%E7%A6%BB%E6%95%A3%E7%9A%84%E4%BA%BA%E4%B9%9F%E4%BC%9A%E6%9C%89%E5%AE%B6-%E4%B8%AD%E5%9B%BDz%E4%B8%96%E4%BB%A3%E5%B9%B4%E8%BD%BB%E7%A7%BB%E6%B0%91%E5%9C%A8%E5%B7%B4%E9%BB%8E%E6%8E%A8%E5%8A%A8%E6%80%A7%E5%88%AB%E5%B9%B3%E6%9D%83-%E4%B8%8B",
       "source": "rfi.fr",
       "published": 1756406817
-    },
-    {
-      "id": "44965512d39d",
-      "title": "欧洲联合战机项目受挫，法德西力争年底前破局",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250828-%E6%AC%A7%E6%B4%B2%E8%81%94%E5%90%88%E6%88%98%E6%9C%BA%E9%A1%B9%E7%9B%AE%E5%8F%97%E6%8C%AB%EF%BC%8C%E6%B3%95%E5%BE%B7%E8%A5%BF%E5%8A%9B%E4%BA%89%E5%B9%B4%E5%BA%95%E5%89%8D%E7%A0%B4%E5%B1%80",
-      "source": "rfi.fr",
-      "published": 1756397115
     },
     {
       "id": "ef2b5cd11d03",
@@ -875,13 +882,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cdj20vkd9m3o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1756340386
-    },
-    {
-      "id": "5935537d577e",
-      "title": "习近平清洗解放军高层规模之大 毛也望尘莫及",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250828-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B8%85%E6%B4%97%E8%A7%A3%E6%94%BE%E5%86%9B%E9%AB%98%E5%B1%82%E8%A7%84%E6%A8%A1%E4%B9%8B%E5%A4%A7-%E6%AF%9B%E4%B9%9F%E6%9C%9B%E5%B0%98%E8%8E%AB%E5%8F%8A",
-      "source": "rfi.fr",
-      "published": 1756339671
     },
     {
       "id": "fcfecfcd5824",
@@ -1402,5 +1402,5 @@
       "published": 1754737860
     }
   ],
-  "build_id": 1756499502
+  "build_id": 1756502798
 }
