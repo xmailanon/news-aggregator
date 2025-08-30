@@ -1,6 +1,13 @@
 {
-  "updated": 1756596405,
+  "updated": 1756597066,
   "items": [
+    {
+      "id": "a365f3af567d",
+      "title": "RIAT航展／U-2偵察機飛70年 衛星及無人機取代不了她",
+      "url": "https://udn.com/news/story/10930/8972866",
+      "source": "udn.com",
+      "published": 1756596600
+    },
     {
       "id": "c224c5e29246",
       "title": "台美貿易談判進行式 俞大㵢：包裹處理232關稅",
@@ -329,13 +336,6 @@
       "url": "https://udn.com/news/story/124582/8973791",
       "source": "udn.com",
       "published": 1756568524
-    },
-    {
-      "id": "0d8a2202f7fc",
-      "title": "學者促中央公布計算公式 跟地方算法比對就知誰算錯",
-      "url": "https://udn.com/news/story/124582/8973792",
-      "source": "udn.com",
-      "published": 1756568421
     },
     {
       "id": "a741067a6abd",
@@ -1402,5 +1402,5 @@
       "published": 1754287171
     }
   ],
-  "build_id": 1756596405
+  "build_id": 1756597066
 }
