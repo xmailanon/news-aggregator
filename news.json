@@ -1,6 +1,20 @@
 {
-  "updated": 1756567655,
+  "updated": 1756568284,
   "items": [
+    {
+      "id": "a741067a6abd",
+      "title": "俄國發動對烏克蘭大規模空襲 基輔回敬襲擊煉油廠",
+      "url": "https://money.udn.com/money/story/5599/8973789",
+      "source": "money.udn.com",
+      "published": 1756567870
+    },
+    {
+      "id": "96ca8b679446",
+      "title": "以色列發動空襲　葉門叛軍證實自家政府總理喪命",
+      "url": "https://money.udn.com/money/story/5599/8973788",
+      "source": "money.udn.com",
+      "published": 1756567832
+    },
     {
       "id": "f12754061606",
       "title": "日本九州將部署長程飛彈  射程涵蓋中國沿岸台灣海域",
@@ -275,20 +289,6 @@
       "published": 1756551120
     },
     {
-      "id": "a260675f5031",
-      "title": "沙烏地阿拉伯邊陲省擁氣候優勢 拚當旅遊熱點",
-      "url": "https://money.udn.com/money/story/122381/8960144",
-      "source": "money.udn.com",
-      "published": 1756551034
-    },
-    {
-      "id": "0c6ee09b0007",
-      "title": "星鏈網路又貴又慢 肯亞用戶漸流失",
-      "url": "https://money.udn.com/money/story/122381/8960146",
-      "source": "money.udn.com",
-      "published": 1756551033
-    },
-    {
       "id": "4f49eb2d6d7d",
       "title": "統籌分配款居六都之末 台南財長坦言「很難過」：對市民不公平",
       "url": "https://udn.com/news/story/124582/8973421",
@@ -541,16 +541,16 @@
       "published": 1756478078
     },
     {
-      "id": "412c33ea08e6",
-      "title": "印尼摩的司机被警车撞倒身亡 抗议激化",
-      "url": "https://www.dw.com/zh/印尼摩的司机被警车撞倒身亡-抗议激化/a-73812837?maca=chi-rss-chi-all-1127-rdf",
+      "id": "4d4758e9ed46",
+      "title": "欧盟拟对美国商品免税 换取特朗普小幅让步",
+      "url": "https://www.dw.com/zh/欧盟拟对美国商品免税-换取特朗普小幅让步/a-73812857?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756477980
     },
     {
-      "id": "4d4758e9ed46",
-      "title": "欧盟拟对美国商品免税 换取特朗普小幅让步",
-      "url": "https://www.dw.com/zh/欧盟拟对美国商品免税-换取特朗普小幅让步/a-73812857?maca=chi-rss-chi-all-1127-rdf",
+      "id": "412c33ea08e6",
+      "title": "印尼摩的司机被警车撞倒身亡 抗议激化",
+      "url": "https://www.dw.com/zh/印尼摩的司机被警车撞倒身亡-抗议激化/a-73812837?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756477980
     },
@@ -1283,13 +1283,6 @@
       "published": 1755696060
     },
     {
-      "id": "438b73397269",
-      "title": "“强制社保”要来了，中国人担心什么？",
-      "url": "https://www.dw.com/zh/强制社保-要来了，中国人担心什么？/a-73703127?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1755691080
-    },
-    {
       "id": "8797bab44b94",
       "title": "台积电与特朗普的“美国制造”梦",
       "url": "https://www.dw.com/zh/台积电与特朗普的-美国制造-梦/a-73678146?maca=chi-rss-chi-all-1127-rdf",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/德国警方突查四州：打击涉嫌卖淫华人团伙/a-73556813?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1754561280
+    },
+    {
+      "id": "8344db20a2a1",
+      "title": "科技製造業成就了亞洲，如今成為特朗普關稅的犧牲品",
+      "url": "https://www.bbc.com/zhongwen/articles/ce83yze2l1ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1754287171
     }
   ],
-  "build_id": 1756567655
+  "build_id": 1756568284
 }
