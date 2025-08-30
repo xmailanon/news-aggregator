@@ -1,6 +1,13 @@
 {
-  "updated": 1756546053,
+  "updated": 1756546663,
   "items": [
+    {
+      "id": "af99358e71ed",
+      "title": "莫迪同乘新幹線訪半導體工廠  石破茂藉機宣傳",
+      "url": "https://money.udn.com/money/story/5599/8973374",
+      "source": "money.udn.com",
+      "published": 1756546589
+    },
     {
       "id": "31136e24fbe8",
       "title": "早餐會美參議院軍委會訪團 韓國瑜：朝野共同支持國防預算占GDP3%",
@@ -322,13 +329,6 @@
       "url": "https://money.udn.com/money/story/5599/8973083",
       "source": "money.udn.com",
       "published": 1756531800
-    },
-    {
-      "id": "31d17ceae7db",
-      "title": "日媒：華府擬要求擴大買美國米　日官員訪美急喊停",
-      "url": "https://money.udn.com/money/story/5599/8973045",
-      "source": "money.udn.com",
-      "published": 1756530035
     },
     {
       "id": "df07766b37fa",
@@ -1402,5 +1402,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1756546053
+  "build_id": 1756546663
 }
