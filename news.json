@@ -1,5 +1,5 @@
 {
-  "updated": 1756668104,
+  "updated": 1756669030,
   "items": [
     {
       "id": "080877dbbf46",
@@ -618,6 +618,13 @@
       "published": 1756560060
     },
     {
+      "id": "e9ee4fa01f47",
+      "title": "马克龙、默茨推动对俄罗斯支持者实施二级制裁 加大普京压力",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250830-%E9%A9%AC%E5%85%8B%E9%BE%99-%E9%BB%98%E8%8C%A8%E6%8E%A8%E5%8A%A8%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E6%94%AF%E6%8C%81%E8%80%85%E5%AE%9E%E6%96%BD%E4%BA%8C%E7%BA%A7%E5%88%B6%E8%A3%81",
+      "source": "rfi.fr",
+      "published": 1756554678
+    },
+    {
       "id": "3b2a839ee5ee",
       "title": "习莫普天津会晤：金砖国家被特朗普越挫越旺？",
       "url": "https://www.dw.com/zh/习莫普天津会晤：金砖国家被特朗普越挫越旺？/a-73819601?maca=chi-rss-chi-all-1127-rdf",
@@ -630,13 +637,6 @@
       "url": "https://www.dw.com/zh/法庭裁决加征关税违宪-特朗普诉诸最高院/a-73819143?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756546980
-    },
-    {
-      "id": "d41de8405a69",
-      "title": "美参院军委会主席预期美台未来将联手制造武器",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20250830-%E7%BE%8E%E5%8F%82%E9%99%A2%E5%86%9B%E5%A7%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%E9%A2%84%E6%9C%9F%E7%BE%8E%E5%8F%B0%E6%9C%AA%E6%9D%A5%E5%B0%86%E8%81%94%E6%89%8B%E5%88%B6%E9%80%A0%E6%AD%A6%E5%99%A8",
-      "source": "rfi.fr",
-      "published": 1756544954
     },
     {
       "id": "7ebc75ed3f18",
@@ -1367,5 +1367,5 @@
       "published": 1754205420
     }
   ],
-  "build_id": 1756668104
+  "build_id": 1756669030
 }
