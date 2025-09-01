@@ -1,6 +1,20 @@
 {
-  "updated": 1756744888,
+  "updated": 1756747761,
   "items": [
+    {
+      "id": "6c832840a86c",
+      "title": "新聞幕後／徐斯儉將接駐美代表？國安、外交系統角力",
+      "url": "https://udn.com/news/story/6656/8977537",
+      "source": "udn.com",
+      "published": 1756747199
+    },
+    {
+      "id": "30fd3fc0d9b0",
+      "title": "投資人觀望聯準會9月利率決策　歐股收盤小漲",
+      "url": "https://money.udn.com/money/story/5599/8977570",
+      "source": "money.udn.com",
+      "published": 1756746749
+    },
     {
       "id": "7db72d3903f1",
       "title": "美國7月消費支出創四個月來最大增幅 頑固通膨背景下需求依然堅韌",
@@ -65,6 +79,13 @@
       "published": 1756742669
     },
     {
+      "id": "9ce1e781338d",
+      "title": "原林義雄宅 被審定為轉型正義場址",
+      "url": "https://udn.com/news/story/7314/8977497",
+      "source": "udn.com",
+      "published": 1756742664
+    },
+    {
       "id": "588ff462c5ae",
       "title": "張惇涵自比藍球控衛 邀部會丟球",
       "url": "https://udn.com/news/story/6656/8977468",
@@ -86,13 +107,6 @@
       "published": 1756742581
     },
     {
-      "id": "cb8bc327cec5",
-      "title": "龔明鑫談關稅 任何狀況都有路可走",
-      "url": "https://udn.com/news/story/6656/8977460",
-      "source": "udn.com",
-      "published": 1756742560
-    },
-    {
       "id": "c297ef9b1d6a",
       "title": "「丟連結」約時間拜會立委 新經長致歉",
       "url": "https://udn.com/news/story/6656/8977463",
@@ -107,6 +121,20 @@
       "published": 1756742514
     },
     {
+      "id": "f02775998df3",
+      "title": "國安團隊改組…3副秘未逾37歲 在野質疑「刷經驗」",
+      "url": "https://udn.com/news/story/6656/8977474",
+      "source": "udn.com",
+      "published": 1756742400
+    },
+    {
+      "id": "96c80c163786",
+      "title": "陽光行動／罷免、公投狂燒15億公帑 勞民傷財",
+      "url": "https://udn.com/news/story/124586/8977486",
+      "source": "udn.com",
+      "published": 1756742400
+    },
+    {
       "id": "4da784ebd2b2",
       "title": "內政部揚言辦走讀 黃國昌：丟人現眼",
       "url": "https://udn.com/news/story/124584/8977390",
@@ -114,9 +142,16 @@
       "published": 1756742400
     },
     {
-      "id": "0f71f34cb444",
-      "title": "陽光行動／立院空轉…最長會期立委忙罷免 延會期間排了高達110場活動",
-      "url": "https://udn.com/news/story/6656/8977472",
+      "id": "7608f0760728",
+      "title": "陽光行動／「課金公嬤」撐罷團 錢從哪裡來？",
+      "url": "https://udn.com/news/story/124586/8977479",
+      "source": "udn.com",
+      "published": 1756742400
+    },
+    {
+      "id": "f81cf3811b29",
+      "title": "陽光行動／非典型「選舉年」 社福募款度寒冬",
+      "url": "https://udn.com/news/story/124586/8977467",
       "source": "udn.com",
       "published": 1756742400
     },
@@ -128,58 +163,37 @@
       "published": 1756742400
     },
     {
-      "id": "d19cd6e08fc4",
+      "id": "1c2c6846ac2b",
       "title": "新聞眼／小小多山的國家 裂痕難平",
-      "url": "https://udn.com/news/story/6656/8977482",
+      "url": "https://udn.com/news/story/124586/8977482",
       "source": "udn.com",
       "published": 1756742400
     },
     {
-      "id": "691a0e3b40e0",
-      "title": "陽光行動／罷免、公投狂燒15億公帑 勞民傷財",
-      "url": "https://udn.com/news/story/6656/8977486",
-      "source": "udn.com",
-      "published": 1756742400
-    },
-    {
-      "id": "99672fac82c9",
-      "title": "陽光行動／非典型「選舉年」 社福募款度寒冬",
-      "url": "https://udn.com/news/story/6656/8977467",
-      "source": "udn.com",
-      "published": 1756742400
-    },
-    {
-      "id": "6e52f2a4e07a",
-      "title": "陽光行動／大罷免大傷財…全民埋單 動到政院第二預備金",
-      "url": "https://udn.com/news/story/6656/8977476",
-      "source": "udn.com",
-      "published": 1756742400
-    },
-    {
-      "id": "f02775998df3",
-      "title": "國安團隊改組…3副秘未逾37歲 在野質疑「刷經驗」",
-      "url": "https://udn.com/news/story/6656/8977474",
-      "source": "udn.com",
-      "published": 1756742400
-    },
-    {
-      "id": "e2651ec666e6",
-      "title": "陽光行動／課金公嬤撐罷團 錢從哪裡來？",
-      "url": "https://udn.com/news/story/6656/8977479",
-      "source": "udn.com",
-      "published": 1756742400
-    },
-    {
-      "id": "be45de052af6",
-      "title": "陽光行動／不公平的戰爭…金流黑箱 罷團遊走灰色地帶",
-      "url": "https://udn.com/news/story/6656/8977478",
-      "source": "udn.com",
-      "published": 1756742400
-    },
-    {
-      "id": "2b11c23790ea",
+      "id": "89617400ca9e",
       "title": "陽光行動／學者促法制化…制度防堵 政治獻金法要改革",
-      "url": "https://udn.com/news/story/6656/8977481",
+      "url": "https://udn.com/news/story/124586/8977481",
+      "source": "udn.com",
+      "published": 1756742400
+    },
+    {
+      "id": "019154fff859",
+      "title": "陽光行動／不公平的戰爭…金流黑箱 罷團遊走灰色地帶",
+      "url": "https://udn.com/news/story/124586/8977478",
+      "source": "udn.com",
+      "published": 1756742400
+    },
+    {
+      "id": "7837ae0c2956",
+      "title": "陽光行動／大罷免大傷財…全民埋單 動到政院第二預備金",
+      "url": "https://udn.com/news/story/124586/8977476",
+      "source": "udn.com",
+      "published": 1756742400
+    },
+    {
+      "id": "7e4aec13f4f1",
+      "title": "陽光行動／立院空轉…最長會期立委忙罷免 延會期間排了高達110場活動",
+      "url": "https://udn.com/news/story/124586/8977472",
       "source": "udn.com",
       "published": 1756742400
     },
@@ -203,13 +217,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250901-%E6%AC%A7%E7%9B%9F%E7%A7%B0%E5%86%AF%E5%BE%B7%E8%8E%B1%E6%81%A9%E6%89%80%E4%B9%98%E5%8C%85%E6%9C%BAgps%E7%B3%BB%E7%BB%9F%E9%81%AD%E5%B9%B2%E6%89%B0%E7%96%91%E4%BF%84%E6%96%B9%E6%89%80%E4%B8%BA-%E5%85%8B%E5%AE%AB%E5%90%A6%E8%AE%A4%E7%9B%B8%E5%85%B3",
       "source": "rfi.fr",
       "published": 1756741199
-    },
-    {
-      "id": "46e9e8a8ed46",
-      "title": "盧秀燕盼依財劃法撥補預算 政院：須討論事權分配",
-      "url": "https://udn.com/news/story/124582/8977378",
-      "source": "udn.com",
-      "published": 1756740565
     },
     {
       "id": "f0f1db87adcc",
@@ -357,13 +364,6 @@
       "url": "https://money.udn.com/money/story/5599/8977206",
       "source": "money.udn.com",
       "published": 1756731968
-    },
-    {
-      "id": "0499dc5fec01",
-      "title": "日本比特幣公司Metaplanet召開股東會　川普次子出席",
-      "url": "https://money.udn.com/money/story/5599/8977196",
-      "source": "money.udn.com",
-      "published": 1756731650
     },
     {
       "id": "2344829eb894",
@@ -1402,5 +1402,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1756744888
+  "build_id": 1756747761
 }
