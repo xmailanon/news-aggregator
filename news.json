@@ -1,6 +1,20 @@
 {
-  "updated": 1756762589,
+  "updated": 1756765982,
   "items": [
+    {
+      "id": "8b34fbc19ac8",
+      "title": "柯建銘與龔明鑫的難堪 預視賴清德危局窘境",
+      "url": "https://udn.com/news/story/6656/8977566",
+      "source": "udn.com",
+      "published": 1756763400
+    },
+    {
+      "id": "ef7849bb719a",
+      "title": "地緣政治風險受矚　國際油價走揚",
+      "url": "https://money.udn.com/money/story/5599/8977609",
+      "source": "money.udn.com",
+      "published": 1756763110
+    },
     {
       "id": "794d2834601a",
       "title": "阿富汗发生6级地震 致800多人死亡",
@@ -350,20 +364,6 @@
       "url": "https://udn.com/news/story/7314/8975540",
       "source": "udn.com",
       "published": 1756742400
-    },
-    {
-      "id": "1c2c6846ac2b",
-      "title": "新聞眼／小小多山的國家 裂痕難平",
-      "url": "https://udn.com/news/story/124586/8977482",
-      "source": "udn.com",
-      "published": 1756742400
-    },
-    {
-      "id": "fdbcb29bda7b",
-      "title": "阿富汗發生強烈地震 已致數百人遇難",
-      "url": "https://money.udn.com/money/story/5599/8976155",
-      "source": "money.udn.com",
-      "published": 1756741982
     },
     {
       "id": "f77abfd28752",
@@ -1402,5 +1402,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1756762589
+  "build_id": 1756765982
 }
