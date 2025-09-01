@@ -1,6 +1,13 @@
 {
-  "updated": 1756755498,
+  "updated": 1756758701,
   "items": [
+    {
+      "id": "0b26619b46a7",
+      "title": "乌克兰继续怀疑：俄罗斯与乌前国会议长遇害有关",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250901-%E4%B9%8C%E5%85%8B%E5%85%B0%E7%BB%A7%E7%BB%AD%E6%80%80%E7%96%91-%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8E%E4%B9%8C%E5%89%8D%E5%9B%BD%E4%BC%9A%E8%AE%AE%E9%95%BF%E9%81%87%E5%AE%B3%E6%9C%89%E5%85%B3",
+      "source": "rfi.fr",
+      "published": 1756757290
+    },
     {
       "id": "a8dee7787d38",
       "title": "委內瑞拉聲稱　遭到美國8艘軍艦1200枚飛彈鎖定",
@@ -115,7 +122,7 @@
     },
     {
       "id": "d6121c20e1d5",
-      "title": "新聞眼／國際局勢動盪 國安人事仍欠開闊格局",
+      "title": "新聞眼／國際局勢動盪 國安人事欠開闊格局",
       "url": "https://udn.com/news/story/6656/8977542",
       "source": "udn.com",
       "published": 1756749162
@@ -693,13 +700,6 @@
       "url": "https://www.ftchinese.com/story/001107472",
       "source": "ftchinese.com",
       "published": 1756656000
-    },
-    {
-      "id": "49167a6735ac",
-      "title": "俄媒：九三阅兵 金正恩普京分坐习近平左右",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250831-%E4%BF%84%E5%AA%92-%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5-%E9%87%91%E6%AD%A3%E6%81%A9%E6%99%AE%E4%BA%AC%E5%88%86%E5%9D%90%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B7%A6%E5%8F%B3",
-      "source": "rfi.fr",
-      "published": 1756654679
     },
     {
       "id": "30b7fb79693a",
@@ -1402,5 +1402,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1756755498
+  "build_id": 1756758701
 }
