@@ -1,6 +1,13 @@
 {
-  "updated": 1756838644,
+  "updated": 1756840902,
   "items": [
+    {
+      "id": "a429324c7282",
+      "title": "印尼示威延燒　總統普拉伯沃恢復訪中出席閱兵",
+      "url": "https://money.udn.com/money/story/5599/8980025",
+      "source": "money.udn.com",
+      "published": 1756839990
+    },
     {
       "id": "62c0a3f1d4a6",
       "title": "平流层污染创纪录：科学家呼吁将太空发射纳入气候谈判",
@@ -301,13 +308,6 @@
       "url": "https://udn.com/news/story/7314/8979004",
       "source": "udn.com",
       "published": 1756828800
-    },
-    {
-      "id": "19ad9ef0baa2",
-      "title": "法國馬賽驚傳男子持屠刀傷人 至少釀4傷",
-      "url": "https://money.udn.com/money/story/5599/8979946",
-      "source": "money.udn.com",
-      "published": 1756828450
     },
     {
       "id": "f4243c9534a9",
@@ -1388,5 +1388,5 @@
       "published": 1754287171
     }
   ],
-  "build_id": 1756838644
+  "build_id": 1756840902
 }
