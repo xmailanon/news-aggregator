@@ -1,6 +1,27 @@
 {
-  "updated": 1756841849,
+  "updated": 1756844918,
   "items": [
+    {
+      "id": "7aa0abdb2fa5",
+      "title": "美法官判特朗普出兵洛杉矶违法　恐影响其他城市部署计划",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250902-%E7%BE%8E%E6%B3%95%E5%AE%98%E5%88%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E5%85%B5%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%BF%9D%E6%B3%95-%E6%81%90%E5%BD%B1%E5%93%8D%E5%85%B6%E4%BB%96%E5%9F%8E%E5%B8%82%E9%83%A8%E7%BD%B2%E8%AE%A1%E5%88%92",
+      "source": "rfi.fr",
+      "published": 1756844846
+    },
+    {
+      "id": "fa42c39b7710",
+      "title": "俄國占領札波羅熱核電廠　烏克蘭稱不接受此舉合法化",
+      "url": "https://money.udn.com/money/story/5599/8980031",
+      "source": "money.udn.com",
+      "published": 1756843312
+    },
+    {
+      "id": "4fea2b40eeee",
+      "title": "参加北京阅兵：瑞士前总统和斯洛伐克总理令人侧目",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250902-%E5%8F%82%E5%8A%A0%E5%8C%97%E4%BA%AC%E9%98%85%E5%85%B5-%E7%91%9E%E5%A3%AB%E5%89%8D%E6%80%BB%E7%BB%9F%E5%92%8C%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8B%E6%80%BB%E7%90%86%E4%BB%A4%E4%BA%BA%E4%BE%A7%E7%9B%AE",
+      "source": "rfi.fr",
+      "published": 1756843084
+    },
     {
       "id": "a429324c7282",
       "title": "印尼示威延燒　總統普拉伯沃恢復訪中出席閱兵",
@@ -147,13 +168,6 @@
       "url": "https://money.udn.com/money/story/5599/8979817",
       "source": "money.udn.com",
       "published": 1756834292
-    },
-    {
-      "id": "749386c2e28e",
-      "title": "川普與關稅不確定性促投資人急尋避風港　歐股收低",
-      "url": "https://money.udn.com/money/story/10511/8980000",
-      "source": "money.udn.com",
-      "published": 1756834237
     },
     {
       "id": "ca036a9d736e",
@@ -595,20 +609,6 @@
       "url": "https://cn.nytimes.com/usa/20250903/trump-modi-india/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1756759944
-    },
-    {
-      "id": "0b26619b46a7",
-      "title": "乌克兰继续怀疑：俄罗斯与乌前国会议长遇害有关",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250901-%E4%B9%8C%E5%85%8B%E5%85%B0%E7%BB%A7%E7%BB%AD%E6%80%80%E7%96%91-%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8E%E4%B9%8C%E5%89%8D%E5%9B%BD%E4%BC%9A%E8%AE%AE%E9%95%BF%E9%81%87%E5%AE%B3%E6%9C%89%E5%85%B3",
-      "source": "rfi.fr",
-      "published": 1756757290
-    },
-    {
-      "id": "a4f346b3c511",
-      "title": "多家国际媒体抗议加沙记者频殉职 哈玛斯反对美接管加沙计划",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250901-%E5%A4%9A%E5%AE%B6%E5%9B%BD%E9%99%85%E5%AA%92%E4%BD%93%E6%8A%97%E8%AE%AE%E5%8A%A0%E6%B2%99%E8%AE%B0%E8%80%85%E9%A2%91%E6%AE%89%E8%81%8C-%E5%93%88%E7%8E%9B%E6%96%AF%E5%8F%8D%E5%AF%B9%E7%BE%8E%E6%8E%A5%E7%AE%A1%E5%8A%A0%E6%B2%99%E8%AE%A1%E5%88%92",
-      "source": "rfi.fr",
-      "published": 1756753874
     },
     {
       "id": "23db642592bc",
@@ -1388,5 +1388,5 @@
       "published": 1754287171
     }
   ],
-  "build_id": 1756841849
+  "build_id": 1756844918
 }
