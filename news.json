@@ -1,6 +1,27 @@
 {
-  "updated": 1756852223,
+  "updated": 1756855505,
   "items": [
+    {
+      "id": "a7bb06c9cd73",
+      "title": "輝達連四黑！跌破50日均線 分析師憂短期動能轉弱",
+      "url": "https://money.udn.com/money/story/123398/8980105",
+      "source": "money.udn.com",
+      "published": 1756855045
+    },
+    {
+      "id": "c550c414fc48",
+      "title": "美股收盤／三大指數9月開張不利 法院駁回關稅觸發美財政疑慮 科技股跌最重",
+      "url": "https://money.udn.com/money/story/123398/8980100",
+      "source": "money.udn.com",
+      "published": 1756853983
+    },
+    {
+      "id": "85063a6cff70",
+      "title": "川普：美軍擊沉1艘委內瑞拉運毒船",
+      "url": "https://money.udn.com/money/story/10511/8980092",
+      "source": "money.udn.com",
+      "published": 1756853159
+    },
     {
       "id": "bf54f8cdad07",
       "title": "聯大將開議 駐芝加哥官員：台灣參與對美意義重大",
@@ -101,7 +122,7 @@
     },
     {
       "id": "11cfdb285aba",
-      "title": "人权组织：抗议活动导致二十人失踪",
+      "title": "人权组织：印尼抗议活动导致二十人失踪",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250902-%E4%BA%BA%E6%9D%83%E7%BB%84%E7%BB%87-%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%E5%AF%BC%E8%87%B4%E4%BA%8C%E5%8D%81%E4%BA%BA%E5%A4%B1%E8%B8%AA",
       "source": "rfi.fr",
       "published": 1756846747
@@ -226,27 +247,6 @@
       "published": 1756836105
     },
     {
-      "id": "f5598f6cbae5",
-      "title": "日相石破茂暗示請辭 引發市場擔憂政局混亂 日圓走貶",
-      "url": "https://money.udn.com/money/story/5599/8979801",
-      "source": "money.udn.com",
-      "published": 1756834948
-    },
-    {
-      "id": "a4113688f38a",
-      "title": "川普擬加強施壓金磚國家 考慮對巴西進口俄油採取新措施",
-      "url": "https://money.udn.com/money/story/5599/8979802",
-      "source": "money.udn.com",
-      "published": 1756834831
-    },
-    {
-      "id": "e83c046fe6b2",
-      "title": "美國總統川普家族加密幣事業 大賺50億美元",
-      "url": "https://money.udn.com/money/story/10511/8979813",
-      "source": "money.udn.com",
-      "published": 1756834749
-    },
-    {
       "id": "ca036a9d736e",
       "title": "【视频】普京：俄中关系正处于“前所未有的高度”",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250902-%E8%A7%86%E9%A2%91-%E6%99%AE%E4%BA%AC-%E4%BF%84%E4%B8%AD%E5%85%B3%E7%B3%BB%E6%AD%A3%E5%A4%84%E4%BA%8E-%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E9%AB%98%E5%BA%A6",
@@ -343,6 +343,48 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250902-%E4%B8%AD%E4%BF%84%E7%AD%BE%E7%BD%B2-%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9A%E5%8A%9B%E9%87%8F2%E5%8F%B7-%E5%BB%BA%E8%AE%BE%E5%A4%87%E5%BF%98%E5%BD%95-%E8%92%99%E5%8F%A4%E5%9B%BD%E6%80%BB%E7%90%86-%E8%BF%99%E6%98%AF%E4%B8%80%E9%A1%B9%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%8D%83%E5%B9%B4%E5%B7%A5%E7%A8%8B",
       "source": "rfi.fr",
       "published": 1756829002
+    },
+    {
+      "id": "3ea2abbca766",
+      "title": "奇异滞涨、劳动力“双缩“与美联储降息",
+      "url": "https://www.ftchinese.com/story/001107467",
+      "source": "ftchinese.com",
+      "published": 1756828800
+    },
+    {
+      "id": "d928d12a5e5b",
+      "title": "特朗普入股英特尔：美国重振芯片产业的前奏？",
+      "url": "https://www.ftchinese.com/story/001107492",
+      "source": "ftchinese.com",
+      "published": 1756828800
+    },
+    {
+      "id": "aebc8394920e",
+      "title": "最强果链企业上市，立讯精密从零到3,000亿王国",
+      "url": "https://www.ftchinese.com/story/001107495",
+      "source": "ftchinese.com",
+      "published": 1756828800
+    },
+    {
+      "id": "f61016d1a4eb",
+      "title": "业绩劲升股价反跌，蜜雪冰城缘何遭冷遇？",
+      "url": "https://www.ftchinese.com/story/001107496",
+      "source": "ftchinese.com",
+      "published": 1756828800
+    },
+    {
+      "id": "a8e222395068",
+      "title": "历史追忆：“特普会”的今与昔",
+      "url": "https://www.ftchinese.com/story/001107497",
+      "source": "ftchinese.com",
+      "published": 1756828800
+    },
+    {
+      "id": "ba74740b29a2",
+      "title": "反对党获不利裁决后土耳其股市下滑",
+      "url": "https://www.ftchinese.com/story/001107498",
+      "source": "ftchinese.com",
+      "published": 1756828800
     },
     {
       "id": "b9319b2c6c4e",
@@ -833,48 +875,6 @@
       "url": "https://cn.nytimes.com/china/20250901/china-japan-wwii-nationalism/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1756661933
-    },
-    {
-      "id": "db811a035f79",
-      "title": "汽车的真实代价与变革的驱动力——环境新书速览",
-      "url": "https://www.ftchinese.com/story/001107480",
-      "source": "ftchinese.com",
-      "published": 1756656000
-    },
-    {
-      "id": "d7c9c6254148",
-      "title": "高宇同：以创新实现全球留学支付“Pay like a local”",
-      "url": "https://www.ftchinese.com/story/001107479",
-      "source": "ftchinese.com",
-      "published": 1756656000
-    },
-    {
-      "id": "d48b9d6c2455",
-      "title": "沙特游戏公司Savvy有意在中国寻找收购机会",
-      "url": "https://www.ftchinese.com/story/001107478",
-      "source": "ftchinese.com",
-      "published": 1756656000
-    },
-    {
-      "id": "50a65edab565",
-      "title": "英国从挪威赢得史上最大造舰合同",
-      "url": "https://www.ftchinese.com/story/001107476",
-      "source": "ftchinese.com",
-      "published": 1756656000
-    },
-    {
-      "id": "1870aa120211",
-      "title": "欧洲央行高官：不应对欧元区价格稳定“自满”",
-      "url": "https://www.ftchinese.com/story/001107475",
-      "source": "ftchinese.com",
-      "published": 1756656000
-    },
-    {
-      "id": "b62186673559",
-      "title": "加拿大GDP萎缩超预期 特朗普关税影响显现",
-      "url": "https://www.ftchinese.com/story/001107474",
-      "source": "ftchinese.com",
-      "published": 1756656000
     },
     {
       "id": "30b7fb79693a",
@@ -1388,5 +1388,5 @@
       "published": 1754287171
     }
   ],
-  "build_id": 1756852223
+  "build_id": 1756855505
 }
