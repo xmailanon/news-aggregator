@@ -1,12 +1,40 @@
 {
-  "updated": 1756941957,
+  "updated": 1756942549,
   "items": [
+    {
+      "id": "cff3e127c7fb",
+      "title": "義大利將辦展秀海軍實力   美日菲60國代表團參加",
+      "url": "https://money.udn.com/money/story/5599/8982479",
+      "source": "money.udn.com",
+      "published": 1756942568
+    },
+    {
+      "id": "867b2e3a7d27",
+      "title": "台灣奧丁丁集團尋求在那斯達克直接上市 已申請股票代碼",
+      "url": "https://money.udn.com/money/story/5599/8982478",
+      "source": "money.udn.com",
+      "published": 1756942410
+    },
+    {
+      "id": "fd3d189509f6",
+      "title": "林賢順僅用35分鐘駕F-5E叛逃大陸 空軍為何錯失時機？",
+      "url": "https://udn.com/news/story/10930/8979369",
+      "source": "udn.com",
+      "published": 1756942200
+    },
     {
       "id": "1a0ee4b7ab31",
       "title": "台積電ADR漲1.3% 終結連三跌",
       "url": "https://money.udn.com/money/story/123398/8982475",
       "source": "money.udn.com",
       "published": 1756941908
+    },
+    {
+      "id": "ee68bba4bc94",
+      "title": "遭羅智強洗臉「變了」、有愧媒體人使命 黃暐瀚列7點回應",
+      "url": "https://udn.com/news/story/6656/8982473",
+      "source": "udn.com",
+      "published": 1756941845
     },
     {
       "id": "376c5b8eae85",
@@ -224,20 +252,6 @@
       "url": "https://money.udn.com/money/story/5599/8982166",
       "source": "money.udn.com",
       "published": 1756924303
-    },
-    {
-      "id": "4d200a813847",
-      "title": "美購物旺季 消費動能看淡",
-      "url": "https://money.udn.com/money/story/10511/8982176",
-      "source": "money.udn.com",
-      "published": 1756924269
-    },
-    {
-      "id": "3121e7c2e8f7",
-      "title": "俄烏和談無進度？川普：很快與普亭通話",
-      "url": "https://money.udn.com/money/story/5599/8982372",
-      "source": "money.udn.com",
-      "published": 1756924243
     },
     {
       "id": "c00dd3b81fc7",
@@ -476,20 +490,6 @@
       "url": "https://udn.com/news/story/6656/8982006",
       "source": "udn.com",
       "published": 1756906181
-    },
-    {
-      "id": "e40e3bac2aff",
-      "title": "賴總統夜宴綠委 首場聚焦財劃法、民生經濟優先",
-      "url": "https://udn.com/news/story/6656/8982001",
-      "source": "udn.com",
-      "published": 1756905893
-    },
-    {
-      "id": "bd31d0295ed9",
-      "title": "社福經費大砍逾300億？衛福部急澄清 專家：編列方式改變釀大小眼疑慮",
-      "url": "https://udn.com/news/story/124582/8981993",
-      "source": "udn.com",
-      "published": 1756905605
     },
     {
       "id": "d62e07e89193",
@@ -1395,5 +1395,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1756941957
+  "build_id": 1756942549
 }
