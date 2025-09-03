@@ -1,6 +1,13 @@
 {
-  "updated": 1756931555,
+  "updated": 1756934822,
   "items": [
+    {
+      "id": "048b54f84507",
+      "title": "傳OPEC+擬新一輪增產　國際油價下跌",
+      "url": "https://money.udn.com/money/story/5599/8982401",
+      "source": "money.udn.com",
+      "published": 1756932325
+    },
     {
       "id": "a9c9153416e5",
       "title": "市場預期聯準會降息　美股3大指數多收紅",
@@ -175,13 +182,6 @@
       "url": "https://money.udn.com/money/story/5599/8982182",
       "source": "money.udn.com",
       "published": 1756918249
-    },
-    {
-      "id": "8f0561b79147",
-      "title": "歐盟推進與南美自貿協定 歐洲議會將辯論對美貿易協議",
-      "url": "https://money.udn.com/money/story/5599/8982158",
-      "source": "money.udn.com",
-      "published": 1756917622
     },
     {
       "id": "e60fd45a9d25",
@@ -1395,5 +1395,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1756931555
+  "build_id": 1756934822
 }
