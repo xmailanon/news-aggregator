@@ -1,6 +1,34 @@
 {
-  "updated": 1756935375,
+  "updated": 1756938703,
   "items": [
+    {
+      "id": "f66d57c20492",
+      "title": "川普政府削減經費施壓哈佛大學　美國法官擋下",
+      "url": "https://money.udn.com/money/story/10511/8982451",
+      "source": "money.udn.com",
+      "published": 1756938641
+    },
+    {
+      "id": "e9b9c9ffe2d6",
+      "title": "等芝加哥提請求 川普：聯邦政府可能先接管紐奧良治安",
+      "url": "https://money.udn.com/money/story/5599/8982447",
+      "source": "money.udn.com",
+      "published": 1756937843
+    },
+    {
+      "id": "45dd23c17ada",
+      "title": "葡萄牙里斯本知名地面纜車脫軌　至少15死18傷",
+      "url": "https://money.udn.com/money/story/5599/8982445",
+      "source": "money.udn.com",
+      "published": 1756937549
+    },
+    {
+      "id": "52861a303d23",
+      "title": "【總編開箱】當年攻下台北山頭的郝龍斌 會是國民黨的「造山者」？",
+      "url": "https://udn.com/news/story/6656/8982333",
+      "source": "udn.com",
+      "published": 1756936200
+    },
     {
       "id": "ba4935992d18",
       "title": "中國男子日本考多益涉作弊第5度被捕　14名共犯竟錯同樣題目",
@@ -59,7 +87,7 @@
     },
     {
       "id": "e0f7a6f9db1e",
-      "title": "里斯本滑雪胜地缆车倒地    政府宣布周四为全国哀悼日",
+      "title": "里斯本荣耀缆车坠地    政府宣布周四为全国哀悼日",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250903-%E9%87%8C%E6%96%AF%E6%9C%AC%E6%BB%91%E9%9B%AA%E8%83%9C%E5%9C%B0%E7%BC%86%E8%BD%A6%E5%80%92%E5%9C%B0-%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%91%A8%E5%9B%9B%E4%B8%BA%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%97%A5",
       "source": "rfi.fr",
       "published": 1756932351
@@ -205,32 +233,11 @@
       "published": 1756923751
     },
     {
-      "id": "8b7e1046a811",
-      "title": "讚中共九三閱兵辦得好 川普：應提到美國的貢獻",
-      "url": "https://money.udn.com/money/story/5599/8982361",
-      "source": "money.udn.com",
-      "published": 1756922029
-    },
-    {
       "id": "3b9b25e5cf20",
       "title": "管中閔：政府不提抗戰勝利與台灣光復 因無真正的台灣意識",
       "url": "https://udn.com/news/story/10930/8982328",
       "source": "udn.com",
       "published": 1756920198
-    },
-    {
-      "id": "afa43eca6db3",
-      "title": "美國星巴克也導入AI　員工少跑倉庫、多與顧客交流",
-      "url": "https://money.udn.com/money/story/5599/8982356",
-      "source": "money.udn.com",
-      "published": 1756920080
-    },
-    {
-      "id": "7a636cf1ecc1",
-      "title": "投資人靜待美國就業數據出爐　歐股收漲",
-      "url": "https://money.udn.com/money/story/5599/8982350",
-      "source": "money.udn.com",
-      "published": 1756918468
     },
     {
       "id": "e60fd45a9d25",
@@ -441,13 +448,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250903-%E8%A7%86%E9%A2%91-%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%80%A7%E7%8A%AF%E7%BD%AA%E6%A1%88-3%E4%B8%873%E5%8D%83%E9%A1%B5%E4%B8%8E%E7%BD%AA%E7%8A%AF%E7%9B%B8%E5%85%B3%E6%96%87%E4%BB%B6%E8%A2%AB%E5%85%AC%E5%BC%80",
       "source": "rfi.fr",
       "published": 1756904791
-    },
-    {
-      "id": "139c8119727d",
-      "title": "會晤賴總統 聖露西亞副總理：支持台灣國家獨立願景",
-      "url": "https://udn.com/news/story/6656/8981964",
-      "source": "udn.com",
-      "published": 1756904659
     },
     {
       "id": "20340b6ff32e",
@@ -1395,5 +1395,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1756935375
+  "build_id": 1756938703
 }
