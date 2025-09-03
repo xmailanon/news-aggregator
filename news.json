@@ -1,6 +1,41 @@
 {
-  "updated": 1756907157,
+  "updated": 1756910278,
   "items": [
+    {
+      "id": "fbdcb56879b5",
+      "title": "出席律師節大會 蕭美琴：法律人以專業讓世界看見台灣",
+      "url": "https://udn.com/news/story/6656/8982075",
+      "source": "udn.com",
+      "published": 1756909418
+    },
+    {
+      "id": "3fedcf40c046",
+      "title": "专访：中国新式武器对美、日、台军事部署是巨大挑战",
+      "url": "https://www.dw.com/zh/专访：中国新式武器对美、日、台军事部署是巨大挑战/a-73869008?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756908960
+    },
+    {
+      "id": "09b7a6a42797",
+      "title": "歐盟外交首長：中俄北韓領袖聚首　直接挑戰國際體系",
+      "url": "https://money.udn.com/money/story/5599/8982041",
+      "source": "money.udn.com",
+      "published": 1756908048
+    },
+    {
+      "id": "b8a9cc12b600",
+      "title": "美股早盤／Google 大漲逾8% 率那指反攻 台積電 ADR 翻紅",
+      "url": "https://money.udn.com/money/story/123398/8982034",
+      "source": "money.udn.com",
+      "published": 1756907805
+    },
+    {
+      "id": "c17568b5a3ea",
+      "title": "卡拉斯谈中俄朝伊领导人同台：一个专制联盟正寻求快速建立新的世界秩序",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250903-%E5%8D%A1%E6%8B%89%E6%96%AF%E8%B0%88%E4%B8%AD%E4%BF%84%E6%9C%9D%E4%BC%8A%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%90%8C%E5%8F%B0-%E4%B8%80%E4%B8%AA%E4%B8%93%E5%88%B6%E8%81%94%E7%9B%9F%E6%AD%A3%E5%AF%BB%E6%B1%82%E5%BF%AB%E9%80%9F%E5%BB%BA%E7%AB%8B%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F",
+      "source": "rfi.fr",
+      "published": 1756907201
+    },
     {
       "id": "3b6df5fce0aa",
       "title": "川普稱他沒在考慮降低印度商品關稅",
@@ -21,6 +56,13 @@
       "url": "https://money.udn.com/money/story/5599/8980114",
       "source": "money.udn.com",
       "published": 1756906942
+    },
+    {
+      "id": "7b3279fd88ca",
+      "title": "德国总理梅尔茨：普京或许是我们这个时代最严重的战争罪犯",
+      "url": "https://www.dw.com/zh/德国总理梅尔茨：普京或许是我们这个时代最严重的战争罪犯/a-73868660?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756906620
     },
     {
       "id": "e2be06478e8a",
@@ -45,7 +87,7 @@
     },
     {
       "id": "6fbf57cf3785",
-      "title": "BMW將發表搭載「超級大腦」電動車 挑戰陸廠與特斯拉",
+      "title": "BMW 將發表搭載「超級大腦」電動車 挑戰陸廠與特斯拉",
       "url": "https://money.udn.com/money/story/5599/8982002",
       "source": "money.udn.com",
       "published": 1756906052
@@ -59,7 +101,7 @@
     },
     {
       "id": "b4cf34aa2737",
-      "title": "普亭和習近平討論「長生不老」 習稱本世紀人類可能活到150歲",
+      "title": "普丁和習近平討論「長生不老」 習稱本世紀人類可能活到150歲",
       "url": "https://money.udn.com/money/story/5599/8981998",
       "source": "money.udn.com",
       "published": 1756905871
@@ -198,20 +240,6 @@
       "published": 1756900471
     },
     {
-      "id": "10b12933e58b",
-      "title": "印尼總統訪中見習近平  稱國內局勢趨於穩定",
-      "url": "https://money.udn.com/money/story/5599/8981851",
-      "source": "money.udn.com",
-      "published": 1756900448
-    },
-    {
-      "id": "f60b69f160ac",
-      "title": "日本首相石破茂會見日本央行總裁植田和男 就經濟和金融市場交換意見",
-      "url": "https://money.udn.com/money/story/5599/8981228",
-      "source": "money.udn.com",
-      "published": 1756900174
-    },
-    {
       "id": "b8e43551ae46",
       "title": "引用飛虎隊歷史 AIT處長谷立言貼文紀念二戰結束80周年",
       "url": "https://udn.com/news/story/10930/8981826",
@@ -343,13 +371,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250903-%E9%87%91%E6%AD%A3%E6%81%A9%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%B0%88%E7%BA%A6%E4%B8%A4%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6-%E4%BC%9A%E5%B0%BD%E4%B8%80%E5%88%87%E5%8A%AA%E5%8A%9B%E5%B8%AE%E5%8A%A9%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%8C%E8%A7%86%E4%B8%BA%E5%85%84%E5%BC%9F%E8%88%AC%E8%B4%A3%E4%BB%BB",
       "source": "rfi.fr",
       "published": 1756895777
-    },
-    {
-      "id": "418af9f846eb",
-      "title": "陸國營石油公司爆在我EEZ違法鑽探石油 李彥秀批政府沒反應：喪國辱國",
-      "url": "https://udn.com/news/story/6656/8981703",
-      "source": "udn.com",
-      "published": 1756895765
     },
     {
       "id": "4d6e9d6156a8",
@@ -758,13 +779,6 @@
       "published": 1756820445
     },
     {
-      "id": "1c1b9e73b045",
-      "title": "金正恩携女抵达北京 蔡奇、王毅等中方官员在北京站迎接",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250902-%E9%87%91%E6%AD%A3%E6%81%A9%E6%90%BA%E5%A5%B3%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC-%E8%94%A1%E5%A5%87-%E7%8E%8B%E6%AF%85%E7%AD%89%E4%B8%AD%E6%96%B9%E5%AE%98%E5%91%98%E8%BF%8E%E6%8E%A5",
-      "source": "rfi.fr",
-      "published": 1756818561
-    },
-    {
       "id": "c4f90fa0c1df",
       "title": "中俄20多项合作签约 西伯利亚二号线有望落实",
       "url": "https://www.dw.com/zh/中俄20多项合作签约-西伯利亚二号线有望落实/a-73849590?maca=chi-rss-chi-all-1127-rdf",
@@ -919,20 +933,6 @@
       "published": 1756742400
     },
     {
-      "id": "620e8c712813",
-      "title": "普京呼吁打造新世界秩序",
-      "url": "https://www.dw.com/zh/普京呼吁打造新世界秩序/a-73837525?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756735560
-    },
-    {
-      "id": "267df3d096f6",
-      "title": "冯德莱恩座机导航失灵 疑俄罗斯干扰",
-      "url": "https://www.dw.com/zh/冯德莱恩座机导航失灵-疑俄罗斯干扰/a-73837321?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756735080
-    },
-    {
       "id": "130e58c17ae8",
       "title": "客座评论：金正恩出席九三阅兵 北京与平壤的双重算计",
       "url": "https://www.dw.com/zh/客座评论：金正恩出席九三阅兵-北京与平壤的双重算计/a-73832506?maca=chi-rss-chi-all-1127-rdf",
@@ -945,13 +945,6 @@
       "url": "https://www.dw.com/zh/德语媒体：对北京来说，西方已变得无足轻重/a-73837015?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756733940
-    },
-    {
-      "id": "2344829eb894",
-      "title": "“我不是勇士，但不想继续在粪坑里说粪香”——重庆标语投影事件当事人戚洪专访",
-      "url": "https://www.dw.com/zh/我不是勇士，但不想继续在粪坑里说粪香-重庆标语投影事件当事人戚洪专访/a-73829867?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756731120
     },
     {
       "id": "9c9230d4bcbd",
@@ -1395,5 +1388,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1756907157
+  "build_id": 1756910278
 }
