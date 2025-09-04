@@ -1,13 +1,6 @@
 {
-  "updated": 1757011518,
+  "updated": 1757013710,
   "items": [
-    {
-      "id": "320d00a509f8",
-      "title": "OPEC+增產保市 油價嚇跌 高盛：布蘭特原油明年下探50美元",
-      "url": "https://money.udn.com/money/story/5599/8984642",
-      "source": "money.udn.com",
-      "published": 1757010683
-    },
     {
       "id": "e3c61b0a62ee",
       "title": "1分鐘看世界／日本馬達廠尼得科涉會計問題 股價跌22% 歷來最大幅度",
@@ -44,16 +37,16 @@
       "published": 1757010326
     },
     {
-      "id": "652e8d7846b7",
-      "title": "墨西哥挺本土產業　考慮對未簽貿易協定國家加徵關稅",
-      "url": "https://money.udn.com/money/story/10511/8984874",
+      "id": "c7dc9586255c",
+      "title": "川普派國民兵進駐　華盛頓特區尋求聯邦法院阻止",
+      "url": "https://money.udn.com/money/story/10511/8984875",
       "source": "money.udn.com",
       "published": 1757010098
     },
     {
-      "id": "c7dc9586255c",
-      "title": "川普派國民兵進駐　華盛頓特區尋求聯邦法院阻止",
-      "url": "https://money.udn.com/money/story/10511/8984875",
+      "id": "652e8d7846b7",
+      "title": "墨西哥挺本土產業　考慮對未簽貿易協定國家加徵關稅",
+      "url": "https://money.udn.com/money/story/10511/8984874",
       "source": "money.udn.com",
       "published": 1757010098
     },
@@ -149,6 +142,13 @@
       "published": 1757002271
     },
     {
+      "id": "320d00a509f8",
+      "title": "OPEC+增產保市 油價嚇跌 高盛：布蘭特原油明年下探50美元",
+      "url": "https://money.udn.com/money/story/5599/8984642",
+      "source": "money.udn.com",
+      "published": 1757002223
+    },
+    {
       "id": "86e08806d9f0",
       "title": "「國民女婿」羅一鈞從小是學霸 疫情一戰成名",
       "url": "https://udn.com/news/story/6656/8984735",
@@ -205,6 +205,13 @@
       "published": 1757001600
     },
     {
+      "id": "f79c71c4c7b3",
+      "title": "健康台灣委員會議 賴總統：善用AI 從疾病治療轉為預防",
+      "url": "https://udn.com/news/story/6656/8984745",
+      "source": "udn.com",
+      "published": 1757001600
+    },
+    {
       "id": "0f524f70ab52",
       "title": "台中海線重劃初熟期 「遠雄幸福成」年底交屋搶攻置產布局",
       "url": "https://udn.com/news/story/7314/8982774",
@@ -217,13 +224,6 @@
       "url": "https://udn.com/news/story/7314/8975952",
       "source": "udn.com",
       "published": 1757001600
-    },
-    {
-      "id": "3dc38f6cedf8",
-      "title": "冷眼集／大撒幣政策 看不到問題根本",
-      "url": "https://udn.com/news/story/6656/8984797",
-      "source": "udn.com",
-      "published": 1757001562
     },
     {
       "id": "49a9f19c7e14",
@@ -1395,5 +1395,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1757011518
+  "build_id": 1757013710
 }
