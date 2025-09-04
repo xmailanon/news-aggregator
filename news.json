@@ -1,6 +1,34 @@
 {
-  "updated": 1757021783,
+  "updated": 1757025128,
   "items": [
+    {
+      "id": "624a6111fc22",
+      "title": "川普掃蕩首都治安 華府提告部署國民兵違憲",
+      "url": "https://money.udn.com/money/story/5599/8984938",
+      "source": "money.udn.com",
+      "published": 1757024549
+    },
+    {
+      "id": "33d9188d1afe",
+      "title": "川普促歐洲對中國施加經濟壓力　相挺烏克蘭",
+      "url": "https://money.udn.com/money/story/10511/8984913",
+      "source": "money.udn.com",
+      "published": 1757023239
+    },
+    {
+      "id": "85225d1ea4fc",
+      "title": "馬克宏稱26國承諾提供烏戰後安全保障　義大利拒派兵",
+      "url": "https://money.udn.com/money/story/10511/8984911",
+      "source": "money.udn.com",
+      "published": 1757022870
+    },
+    {
+      "id": "fa5f42ffd457",
+      "title": "【總編開箱】賴政府3招挽回「年輕票」 是對症下藥或治絲益棼？",
+      "url": "https://udn.com/news/story/6656/8984798",
+      "source": "udn.com",
+      "published": 1757022600
+    },
     {
       "id": "23ecd8a8bd9a",
       "title": "預期就業市場降溫有利降息　美股標普500創新高",
@@ -226,20 +254,6 @@
       "published": 1757003507
     },
     {
-      "id": "32d83557efaa",
-      "title": "慧與調高財測 協力廠振奮",
-      "url": "https://money.udn.com/money/story/123398/8984724",
-      "source": "money.udn.com",
-      "published": 1757003214
-    },
-    {
-      "id": "f94c87a4af2f",
-      "title": "美商務部長曾掌舵的券商點名 AI股一路旺到年底",
-      "url": "https://money.udn.com/money/story/123398/8984733",
-      "source": "money.udn.com",
-      "published": 1757002929
-    },
-    {
       "id": "a53197949178",
       "title": "羅一鈞掌疾管署 健保署長陳亮妤",
       "url": "https://udn.com/news/story/6656/8984721",
@@ -252,13 +266,6 @@
       "url": "https://udn.com/news/story/6656/8984666",
       "source": "udn.com",
       "published": 1757002271
-    },
-    {
-      "id": "320d00a509f8",
-      "title": "OPEC+增產保市 油價嚇跌 高盛：布蘭特原油明年下探50美元",
-      "url": "https://money.udn.com/money/story/5599/8984642",
-      "source": "money.udn.com",
-      "published": 1757002223
     },
     {
       "id": "86e08806d9f0",
@@ -434,13 +441,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250904-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E8%B0%88-%E9%9F%A9%E5%AA%92%E6%8C%87%E4%BC%9A%E9%9D%A2%E6%8C%81%E7%BB%AD%E4%BA%86%E7%BA%A61%E5%B0%8F%E6%97%B6",
       "source": "rfi.fr",
       "published": 1756991502
-    },
-    {
-      "id": "ec4b2dd41ceb",
-      "title": "誰掌國民黨主席？ 朱立倫「2028重返執政最重要」：藍白合不能變",
-      "url": "https://udn.com/news/story/122404/8984447",
-      "source": "udn.com",
-      "published": 1756991104
     },
     {
       "id": "a7f0289c3fa6",
@@ -1395,5 +1395,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1757021783
+  "build_id": 1757025128
 }
