@@ -1,6 +1,34 @@
 {
-  "updated": 1757004203,
+  "updated": 1757006991,
   "items": [
+    {
+      "id": "93a0719ba9e0",
+      "title": "意大利时尚设计大师乔治·阿玛尼逝世，享年91岁",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250904-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%B6%E5%B0%9A%E8%AE%BE%E8%AE%A1%E5%A4%A7%E5%B8%88%E4%B9%94%E6%B2%BB%C2%B7%E9%98%BF%E7%8E%9B%E5%B0%BC%E9%80%9D%E4%B8%96%EF%BC%8C%E4%BA%AB%E5%B9%B491%E5%B2%81",
+      "source": "rfi.fr",
+      "published": 1757006185
+    },
+    {
+      "id": "f5264f50e6e6",
+      "title": "美國就業市場降溫強化降息預期　歐股漲多跌少",
+      "url": "https://money.udn.com/money/story/5599/8984852",
+      "source": "money.udn.com",
+      "published": 1757005572
+    },
+    {
+      "id": "b464cca8fd13",
+      "title": "美就業失色 降息機率增 可能性逼近100%",
+      "url": "https://money.udn.com/money/story/5599/8984736",
+      "source": "money.udn.com",
+      "published": 1757004999
+    },
+    {
+      "id": "c62f7c70c978",
+      "title": "下任Fed主席熱門人選 沃勒：半年內會多次降息",
+      "url": "https://money.udn.com/money/story/5599/8984737",
+      "source": "money.udn.com",
+      "published": 1757004793
+    },
     {
       "id": "e792e5d859fe",
       "title": "蘋果Siri進化 要變身「答案引擎」",
@@ -51,25 +79,18 @@
       "published": 1757002144
     },
     {
-      "id": "7dd974d137cc",
+      "id": "e85450a15aef",
       "title": "冷眼集／綠備戰2026 藍內亂何時止",
-      "url": "https://udn.com/news/story/6656/8984661",
+      "url": "https://udn.com/news/story/122404/8984661",
       "source": "udn.com",
       "published": 1757002097
     },
     {
-      "id": "4b6a1c1b6f9c",
+      "id": "6824d68286e8",
       "title": "軍系挺鄭麗文選國民黨主席 串聯地方派系",
-      "url": "https://udn.com/news/story/6656/8984658",
+      "url": "https://udn.com/news/story/122404/8984658",
       "source": "udn.com",
       "published": 1757002024
-    },
-    {
-      "id": "1575d845a2ae",
-      "title": "戰鬥藍逼朱表態 是否連任黨魁",
-      "url": "https://udn.com/news/story/6656/8984652",
-      "source": "udn.com",
-      "published": 1757001947
     },
     {
       "id": "5393688cb3ec",
@@ -254,27 +275,6 @@
       "published": 1756994069
     },
     {
-      "id": "7dede16f040f",
-      "title": "美國初領失業金人數增至23.7萬人　高於預期",
-      "url": "https://money.udn.com/money/story/10511/8984507",
-      "source": "money.udn.com",
-      "published": 1756994048
-    },
-    {
-      "id": "2ff41bacaec2",
-      "title": "告別「時尚王者」：義大利時尚大師亞曼尼辭世 享耆壽91歲",
-      "url": "https://money.udn.com/money/story/5599/8984504",
-      "source": "money.udn.com",
-      "published": 1756994008
-    },
-    {
-      "id": "b400f295c018",
-      "title": "縱橫時尚50年！時尚設計大師 Giorgio Armani 辭世 享壽91歲",
-      "url": "https://money.udn.com/money/story/5599/8984490",
-      "source": "money.udn.com",
-      "published": 1756993628
-    },
-    {
       "id": "5d38edf76a6d",
       "title": "中方试行免签 俄外交部促公民赴华遵守中国法律 严格遵守旅行目的",
       "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20250904-%E4%BF%84%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BF%83%E5%85%AC%E6%B0%91%E8%B5%B4%E5%8D%8E%E9%81%B5%E5%AE%88%E4%B8%AD%E5%9B%BD%E6%B3%95%E5%BE%8B-%E4%B8%A5%E6%A0%BC%E9%81%B5%E5%AE%88%E6%97%85%E8%A1%8C%E7%9B%AE%E7%9A%84",
@@ -315,13 +315,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250904-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E8%B0%88-%E9%9F%A9%E5%AA%92%E6%8C%87%E4%BC%9A%E9%9D%A2%E6%8C%81%E7%BB%AD%E4%BA%86%E7%BA%A61%E5%B0%8F%E6%97%B6",
       "source": "rfi.fr",
       "published": 1756991502
-    },
-    {
-      "id": "925a9aaf79b9",
-      "title": "誰掌國民黨主席？ 朱立倫「2028重返執政最重要」：藍白合不能變",
-      "url": "https://udn.com/news/story/6656/8984447",
-      "source": "udn.com",
-      "published": 1756991104
     },
     {
       "id": "01adc49cb47e",
@@ -387,6 +380,13 @@
       "published": 1756988100
     },
     {
+      "id": "d77706a6ce13",
+      "title": "明年都市基礎工程預算減少 內政部：經費與事權統一下放",
+      "url": "https://udn.com/news/story/6656/8984247",
+      "source": "udn.com",
+      "published": 1756984416
+    },
+    {
       "id": "13d73666be24",
       "title": "美军事打击委内瑞拉贩毒船 11人死亡",
       "url": "https://www.dw.com/zh/美军事打击委内瑞拉贩毒船-11人死亡/a-73880169?maca=chi-rss-chi-all-1127-rdf",
@@ -399,6 +399,13 @@
       "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20250904-%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB-%E5%B0%BD%E7%AE%A1%E6%94%BF%E5%BA%9C%E6%96%BD%E5%8E%8B%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E4%BB%8D%E6%9C%9B%E8%B4%AD%E4%B9%B0%E8%8B%B1%E4%BC%9F%E8%BE%BEai%E8%8A%AF%E7%89%87",
       "source": "rfi.fr",
       "published": 1756982536
+    },
+    {
+      "id": "a71685315b72",
+      "title": "聖露西亞副總理訪台 林佳龍提「加值外交」共創互利夥伴關係",
+      "url": "https://udn.com/news/story/6656/8984178",
+      "source": "udn.com",
+      "published": 1756981334
     },
     {
       "id": "98fb6b36e953",
@@ -609,13 +616,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250903-%E8%A6%96%E9%A0%BB-%E4%B8%AD%E5%9B%BD%E4%BA%AE%E5%89%91-%E7%9B%9B%E5%A4%A7%E9%98%85%E5%85%B5%E5%BC%8F%E4%B8%8A-%E5%B1%95%E7%A4%BA%E5%B0%96%E7%AB%AF%E6%8A%80%E6%9C%AF",
       "source": "rfi.fr",
       "published": 1756926699
-    },
-    {
-      "id": "750b93e81a9f",
-      "title": "卢比奥出访墨西哥 联手打击毒品与非法移民 剑指中国影响力 双方声明强化边境与反毒行动。",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250903-%E5%8D%A2%E6%AF%94%E5%A5%A5%E5%87%BA%E8%AE%BF%E5%A2%A8%E8%A5%BF%E5%93%A5-%E8%81%94%E6%89%8B%E6%89%93%E5%87%BB%E6%AF%92%E5%93%81%E4%B8%8E%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91-%E5%89%91%E6%8C%87%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%93%8D%E5%8A%9B-%E5%8F%8C%E6%96%B9%E5%9C%A8%E5%91%A8%E4%B8%89%E5%8F%91%E8%A1%A8%E5%AE%89%E5%85%A8%E5%90%88%E4%BD%9C%E5%A3%B0%E6%98%8E%EF%BC%8C%E5%BC%BA%E5%8C%96%E8%BE%B9%E5%A2%83%E4%B8%8E%E5%8F%8D%E6%AF%92%E8%A1%8C%E5%8A%A8",
-      "source": "rfi.fr",
-      "published": 1756926245
     },
     {
       "id": "b4b970eea4ea",
@@ -1395,5 +1395,5 @@
       "published": 1754561280
     }
   ],
-  "build_id": 1757004203
+  "build_id": 1757006991
 }
