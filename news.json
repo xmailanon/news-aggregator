@@ -1,6 +1,13 @@
 {
-  "updated": 1757097736,
+  "updated": 1757100160,
   "items": [
+    {
+      "id": "cc50b39850ff",
+      "title": "美國關稅造成經濟衝擊　加拿大取消電動車強制令",
+      "url": "https://money.udn.com/money/story/10511/8987114",
+      "source": "money.udn.com",
+      "published": 1757098470
+    },
     {
       "id": "8d200c9c96b4",
       "title": "不顧川普威脅　歐盟祭反壟斷重罰Google千億",
@@ -357,13 +364,6 @@
       "url": "https://money.udn.com/money/story/5599/8986858",
       "source": "money.udn.com",
       "published": 1757083532
-    },
-    {
-      "id": "84f5b34c25dd",
-      "title": "高通攜手 BMW  發表新自駕系統 Snapdragon Ride Pilot",
-      "url": "https://money.udn.com/money/story/5599/8986856",
-      "source": "money.udn.com",
-      "published": 1757083530
     },
     {
       "id": "8239f9a66076",
@@ -1402,5 +1402,5 @@
       "published": 1754903289
     }
   ],
-  "build_id": 1757097736
+  "build_id": 1757100160
 }
