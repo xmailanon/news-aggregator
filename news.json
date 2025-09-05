@@ -1,12 +1,145 @@
 {
-  "updated": 1757090376,
+  "updated": 1757093424,
   "items": [
+    {
+      "id": "a30b61119337",
+      "title": "遺體部位交易：美國是如何成為全球「屍體出口國」",
+      "url": "https://www.bbc.com/zhongwen/articles/clydeng11eyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1757093236
+    },
+    {
+      "id": "c408e3e8f65f",
+      "title": "乌克兰战争:中国“坚决反对”美国或欧洲对其施加任何压力",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250905-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89-%E4%B8%AD%E5%9B%BD-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9-%E7%BE%8E%E5%9B%BD%E6%88%96%E6%AC%A7%E6%B4%B2%E5%AF%B9%E5%85%B6%E6%96%BD%E5%8A%A0%E4%BB%BB%E4%BD%95%E5%8E%8B%E5%8A%9B",
+      "source": "rfi.fr",
+      "published": 1757092907
+    },
+    {
+      "id": "c1f92c878e87",
+      "title": "博通奪 OpenAI 百億美元大單",
+      "url": "https://money.udn.com/money/story/123398/8986903",
+      "source": "money.udn.com",
+      "published": 1757092339
+    },
+    {
+      "id": "1fdc937e7095",
+      "title": "泰國新總理 阿努廷當選",
+      "url": "https://money.udn.com/money/story/5599/8986910",
+      "source": "money.udn.com",
+      "published": 1757092252
+    },
+    {
+      "id": "6c39bd6de6f4",
+      "title": "穩定幣巨擘 Tether 押寶實體黃金",
+      "url": "https://money.udn.com/money/story/5599/8986914",
+      "source": "money.udn.com",
+      "published": 1757092216
+    },
+    {
+      "id": "ec4067473cfb",
+      "title": "1分鐘看世界／時尚大師亞曼尼辭世 享耆壽91歲",
+      "url": "https://money.udn.com/money/story/5599/8986901",
+      "source": "money.udn.com",
+      "published": 1757092166
+    },
+    {
+      "id": "845e767f2876",
+      "title": "阿拉斯加羅徐會／楊永明：層級降低 美調整溝通模式",
+      "url": "https://udn.com/news/story/10930/8987053",
+      "source": "udn.com",
+      "published": 1757092102
+    },
+    {
+      "id": "acf7826fe900",
+      "title": "馬斯克特斯拉薪酬創1兆美元天價 分十年、12道關卡贈與股票",
+      "url": "https://money.udn.com/money/story/123398/8986894",
+      "source": "money.udn.com",
+      "published": 1757092088
+    },
+    {
+      "id": "1f82fa449678",
+      "title": "美就業數據欠佳引發經濟疑慮　歐股收黑",
+      "url": "https://money.udn.com/money/story/5599/8987088",
+      "source": "money.udn.com",
+      "published": 1757091969
+    },
+    {
+      "id": "f003d0a0df4b",
+      "title": "Lululemon 全年財測好酸 早盤崩跌17%",
+      "url": "https://money.udn.com/money/story/5599/8986896",
+      "source": "money.udn.com",
+      "published": 1757091891
+    },
+    {
+      "id": "630f1c5bbee5",
+      "title": "沃旭下修2025年獲利展望",
+      "url": "https://money.udn.com/money/story/5599/8986897",
+      "source": "money.udn.com",
+      "published": 1757091823
+    },
+    {
+      "id": "6082c3fd9ab5",
+      "title": "蘋果印度銷售額創新高",
+      "url": "https://money.udn.com/money/story/123398/8986898",
+      "source": "money.udn.com",
+      "published": 1757091799
+    },
+    {
+      "id": "f51cbe0ff242",
+      "title": "欧盟委员会对谷歌开出29.5亿欧元巨额罚单",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250905-%E6%AC%A7%E7%9B%9F%E5%A7%94%E5%91%98%E4%BC%9A%E5%AF%B9%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%87%BA29-5%E4%BA%BF%E6%AC%A7%E5%85%83%E5%B7%A8%E9%A2%9D%E7%BD%9A%E5%8D%95",
+      "source": "rfi.fr",
+      "published": 1757091764
+    },
+    {
+      "id": "582c285b9b51",
+      "title": "美就業冷 篤定降息 投資人預期本月調降機率達100%",
+      "url": "https://money.udn.com/money/story/5599/8986964",
+      "source": "money.udn.com",
+      "published": 1757091718
+    },
+    {
+      "id": "c894050d4e81",
+      "title": "泰国新总理出炉 政治尚不平静 前总理突然搭私人飞机离境",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250905-%E6%B3%B0%E5%9B%BD%E6%96%B0%E6%80%BB%E7%90%86%E5%87%BA%E7%82%89-%E6%94%BF%E6%B2%BB%E5%B0%9A%E4%B8%8D%E5%B9%B3%E9%9D%99-%E5%89%8D%E6%80%BB%E7%90%86%E7%AA%81%E7%84%B6%E6%90%AD%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E7%A6%BB%E5%A2%83",
+      "source": "rfi.fr",
+      "published": 1757091501
+    },
+    {
+      "id": "b5a389ea3576",
+      "title": "川普：將對晶片徵可觀關稅 已在美生產或承諾建廠企業可豁免",
+      "url": "https://money.udn.com/money/story/5599/8986947",
+      "source": "money.udn.com",
+      "published": 1757091015
+    },
+    {
+      "id": "145491d3e14b",
+      "title": "川普簽行政令 美日貿易協議生效",
+      "url": "https://money.udn.com/money/story/5599/8986960",
+      "source": "money.udn.com",
+      "published": 1757090962
+    },
+    {
+      "id": "de46ce18a0bd",
+      "title": "整理包／Fed版「誰是接班人」開演 這幾種情況不可不知",
+      "url": "https://money.udn.com/money/story/5599/8987081",
+      "source": "money.udn.com",
+      "published": 1757090863
+    },
     {
       "id": "0de0f6082c8f",
       "title": "英特爾財務長談展望 會永遠向台積電下單",
       "url": "https://money.udn.com/money/story/5599/8986946",
       "source": "money.udn.com",
       "published": 1757090253
+    },
+    {
+      "id": "9aacd864a225",
+      "title": "中国对欧盟猪肉征收初步关税",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250905-%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%AC%A7%E7%9B%9F%E7%8C%AA%E8%82%89%E5%BE%81%E6%94%B6%E5%88%9D%E6%AD%A5%E5%85%B3%E7%A8%8E",
+      "source": "rfi.fr",
+      "published": 1757089983
     },
     {
       "id": "0591e80d7732",
@@ -45,7 +178,7 @@
     },
     {
       "id": "7aa957038e1d",
-      "title": "新聞眼／柯文哲交保 牽動藍綠白角力",
+      "title": "新聞眼／柯文哲交保牽動藍綠白角力 民眾黨「兩顆太陽」也待磨合",
       "url": "https://udn.com/news/story/124589/8986998",
       "source": "udn.com",
       "published": 1757088681
@@ -65,11 +198,11 @@
       "published": 1757088632
     },
     {
-      "id": "3d6d19ebc4f6",
-      "title": "「最危險國道休息站」遭揭設計問題 一圖看車禍熱點",
-      "url": "https://udn.com/news/story/7314/8987063",
-      "source": "udn.com",
-      "published": 1757088607
+      "id": "ea3745fc4bb6",
+      "title": "川普擴大干預 Fed  雙管齊下 增添外界對決策獨立性憂慮",
+      "url": "https://money.udn.com/money/story/5599/8986902",
+      "source": "money.udn.com",
+      "published": 1757088603
     },
     {
       "id": "9caedfd66d03",
@@ -101,29 +234,29 @@
     },
     {
       "id": "15c442fa82d4",
-      "title": "傳3分之2綠委逼宮柯建銘 徐國勇：此時無聲勝有聲",
+      "title": "傳三分之二綠委逼宮柯建銘 徐國勇：此時無聲勝有聲",
       "url": "https://udn.com/news/story/6656/8987004",
       "source": "udn.com",
       "published": 1757088451
     },
     {
-      "id": "b23f93c2ddac",
-      "title": "美台國安官員 閱兵前密會",
-      "url": "https://udn.com/news/story/6656/8986971",
+      "id": "e63d6c6c3be0",
+      "title": "美台國安官員 中共閱兵前密會",
+      "url": "https://udn.com/news/story/10930/8986971",
       "source": "udn.com",
       "published": 1757088185
-    },
-    {
-      "id": "c316112ddf2f",
-      "title": "歷史上的今天／1966年強颱寇拉來襲 北市長低窪區巡視",
-      "url": "https://udn.com/news/story/7314/8985047",
-      "source": "udn.com",
-      "published": 1757088000
     },
     {
       "id": "33e8f51e8abf",
       "title": "柯文哲7千萬交保未辦保 不願借錢欠人情要「再深思」",
       "url": "https://udn.com/news/story/124589/8986966",
+      "source": "udn.com",
+      "published": 1757088000
+    },
+    {
+      "id": "c316112ddf2f",
+      "title": "歷史上的今天／1966年強颱寇拉來襲 北市長低窪區巡視",
+      "url": "https://udn.com/news/story/7314/8985047",
       "source": "udn.com",
       "published": 1757088000
     },
@@ -247,27 +380,6 @@
       "published": 1757081640
     },
     {
-      "id": "6f1b886d363e",
-      "title": "[深度] 美國國債意外成為贏家 「債券義警」暫時銷聲匿跡",
-      "url": "https://money.udn.com/money/story/5599/8984960",
-      "source": "money.udn.com",
-      "published": 1757081591
-    },
-    {
-      "id": "fbf4a73402a8",
-      "title": "英特爾財務長坦言：將繼續依賴台積電",
-      "url": "https://money.udn.com/money/story/5599/8986813",
-      "source": "money.udn.com",
-      "published": 1757081562
-    },
-    {
-      "id": "5f204c8362ff",
-      "title": "美股早盤／三大指數走高 台積 ADR 漲逾2% 因8月就業疲軟推升降息預期",
-      "url": "https://money.udn.com/money/story/123398/8986807",
-      "source": "money.udn.com",
-      "published": 1757081379
-    },
-    {
       "id": "16d7ae85da2e",
       "title": "德语媒体：团结一致 抗击西方",
       "url": "https://www.dw.com/zh/德语媒体：团结一致-抗击西方/a-73896689?maca=chi-rss-chi-all-1127-rdf",
@@ -289,13 +401,6 @@
       "published": 1757081062
     },
     {
-      "id": "711cdadbb5c8",
-      "title": "美8月增2萬2000名就業人口不如預期　失業率升至4.3%",
-      "url": "https://money.udn.com/money/story/10511/8986791",
-      "source": "money.udn.com",
-      "published": 1757080851
-    },
-    {
       "id": "9e3fbec0495e",
       "title": "特朗普将日本汽车关税降至15%",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20250905-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E6%97%A5%E6%9C%AC%E6%B1%BD%E8%BD%A6%E5%85%B3%E7%A8%8E%E9%99%8D%E8%87%B315",
@@ -303,81 +408,11 @@
       "published": 1757080697
     },
     {
-      "id": "4c3ae2abe462",
-      "title": "日本央行前首席經濟學家稱10月利率決策難以預測",
-      "url": "https://money.udn.com/money/story/5599/8985761",
-      "source": "money.udn.com",
-      "published": 1757080543
-    },
-    {
-      "id": "e2d9adf69eff",
-      "title": "義大利將辦當代思想節　探索疑歐論、手機成癮危機",
-      "url": "https://money.udn.com/money/story/5599/8986785",
-      "source": "money.udn.com",
-      "published": 1757080468
-    },
-    {
-      "id": "71a0bcedbe62",
-      "title": "彭博調查：歐洲央行降息周期已結束 通膨率料維持在2%",
-      "url": "https://money.udn.com/money/story/5599/8985921",
-      "source": "money.udn.com",
-      "published": 1757080302
-    },
-    {
-      "id": "fe2c8f993fe4",
-      "title": "印度官員表示沒有必要對推遲與美國達成貿易協議感到「恐慌」",
-      "url": "https://money.udn.com/money/story/5599/8985995",
-      "source": "money.udn.com",
-      "published": 1757080062
-    },
-    {
-      "id": "2425d60d70b1",
-      "title": "英國副首相芮納被控逃稅　請辭下台打擊工黨政府",
-      "url": "https://money.udn.com/money/story/5599/8986778",
-      "source": "money.udn.com",
-      "published": 1757079931
-    },
-    {
       "id": "57d522f9e49a",
       "title": "官邸夜宴綠委第二場 賴總統提關稅等「三隻黑天鵝」",
       "url": "https://udn.com/news/story/6656/8986775",
       "source": "udn.com",
       "published": 1757079911
-    },
-    {
-      "id": "f567c8d826c7",
-      "title": "川普稱很快將對晶片徵收「相當可觀」關稅 先前稱遠高於100%",
-      "url": "https://money.udn.com/money/story/5599/8985093",
-      "source": "money.udn.com",
-      "published": 1757079754
-    },
-    {
-      "id": "1e2f1828bde1",
-      "title": "關稅收入有利美債展望？史提格里茲：債市投資人未考慮此問題",
-      "url": "https://money.udn.com/money/story/5599/8986773",
-      "source": "money.udn.com",
-      "published": 1757079697
-    },
-    {
-      "id": "18dc983bcb1b",
-      "title": "日本薪資增速創七個月最快 增強對於央行升息的預期",
-      "url": "https://money.udn.com/money/story/5599/8985094",
-      "source": "money.udn.com",
-      "published": 1757079587
-    },
-    {
-      "id": "3a121eaf472c",
-      "title": "剛果（金）宣布爆發伊波拉病毒疫情 已致15人死亡",
-      "url": "https://money.udn.com/money/story/5599/8985096",
-      "source": "money.udn.com",
-      "published": 1757079091
-    },
-    {
-      "id": "aa466abee50e",
-      "title": "美國8月就業持續降溫 9月 Fed 幾乎篤定降息 金價再創新高",
-      "url": "https://money.udn.com/money/story/10511/8986753",
-      "source": "money.udn.com",
-      "published": 1757078772
     },
     {
       "id": "0774dc7a9369",
@@ -534,13 +569,6 @@
       "published": 1757039356
     },
     {
-      "id": "a30b61119337",
-      "title": "人體器官交易：美國是如何成為全球「屍體出口國」",
-      "url": "https://www.bbc.com/zhongwen/articles/clydeng11eyo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1757038847
-    },
-    {
       "id": "237818898c61",
       "title": "威懾、敘事與分歧：台灣在「93閱兵」看到的五個啓示",
       "url": "https://www.bbc.com/zhongwen/articles/ckgy2mn9092o/trad?at_medium=RSS&at_campaign=rss",
@@ -646,20 +674,6 @@
       "published": 1757008788
     },
     {
-      "id": "93a0719ba9e0",
-      "title": "意大利时尚设计大师乔治·阿玛尼逝世，享年91岁",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250904-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%97%B6%E5%B0%9A%E8%AE%BE%E8%AE%A1%E5%A4%A7%E5%B8%88%E4%B9%94%E6%B2%BB%C2%B7%E9%98%BF%E7%8E%9B%E5%B0%BC%E9%80%9D%E4%B8%96%EF%BC%8C%E4%BA%AB%E5%B9%B491%E5%B2%81",
-      "source": "rfi.fr",
-      "published": 1757006185
-    },
-    {
-      "id": "5393688cb3ec",
-      "title": "海上风电场：为何光鱼互补不一定是好主意？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20250904-%E6%B5%B7%E4%B8%8A%E9%A3%8E%E7%94%B5%E5%9C%BA-%E4%B8%BA%E4%BD%95%E5%85%89%E9%B1%BC%E4%BA%92%E8%A1%A5%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E5%A5%BD%E6%B3%A8%E6%84%8F",
-      "source": "rfi.fr",
-      "published": 1757001823
-    },
-    {
       "id": "8fb3ef70bf52",
       "title": "如果AI快速发展，我们的生活水平也会突飞猛进吗？",
       "url": "https://www.ftchinese.com/story/001107532",
@@ -758,25 +772,11 @@
       "published": 1757001600
     },
     {
-      "id": "c3cbe3d00fd2",
-      "title": "白宫官员指特朗普促欧洲停买俄石油、对华经济施压 马克龙：26国承诺参与陆海空存在",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250904-%E7%99%BD%E5%AE%AB%E5%AE%98%E5%91%98%E6%8C%87%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E6%AC%A7%E6%B4%B2%E5%81%9C%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9-%E5%AF%B9%E5%8D%8E%E6%96%BD%E5%8A%A0%E7%BB%8F%E6%B5%8E%E5%8E%8B%E5%8A%9B-%E9%A9%AC%E5%85%8B%E9%BE%99-26%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%9C%A8%E9%99%86%E6%B5%B7%E7%A9%BA%E9%83%A8%E7%BD%B2",
-      "source": "rfi.fr",
-      "published": 1756998638
-    },
-    {
       "id": "1b57c4fe4d90",
       "title": "欧洲会为支持乌克兰走多远？",
       "url": "https://www.dw.com/zh/欧洲会为支持乌克兰走多远？/a-73883821?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756996680
-    },
-    {
-      "id": "62161c1f60d4",
-      "title": "特朗普与乌欧首脑举行在线会议 乌据报就战后支持提出“地面部队和地面旗帜”原则",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250904-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B9%8C%E6%AC%A7%E9%A6%96%E8%84%91%E4%B8%BE%E8%A1%8C%E5%9C%A8%E7%BA%BF%E4%BC%9A%E8%AE%AE-%E4%B9%8C%E6%8D%AE%E6%8A%A5%E5%B0%B1%E6%88%98%E5%90%8E%E6%94%AF%E6%8C%81%E6%8F%90%E5%87%BA-%E5%9C%B0%E9%9D%A2%E9%83%A8%E9%98%9F%E5%92%8C%E5%9C%B0%E9%9D%A2%E6%97%97%E5%B8%9C-%E5%8E%9F%E5%88%99",
-      "source": "rfi.fr",
-      "published": 1756996669
     },
     {
       "id": "225fefdd3480",
@@ -1402,5 +1402,5 @@
       "published": 1754903289
     }
   ],
-  "build_id": 1757090376
+  "build_id": 1757093424
 }
