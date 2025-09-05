@@ -1,6 +1,27 @@
 {
-  "updated": 1757101002,
+  "updated": 1757104380,
   "items": [
+    {
+      "id": "ad45f5acd946",
+      "title": "美国宣布重返月球　誓言在特朗普任期内抢先中国",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20250905-%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E9%87%8D%E8%BF%94%E6%9C%88%E7%90%83-%E8%AA%93%E8%A8%80%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%BB%E6%9C%9F%E5%86%85%E6%8A%A2%E5%85%88%E4%B8%AD%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1757102720
+    },
+    {
+      "id": "11b8e37bd186",
+      "title": "美委局勢緊張　川普擬派10架F-35戰機赴波多黎各",
+      "url": "https://money.udn.com/money/story/10511/8987123",
+      "source": "money.udn.com",
+      "published": 1757101531
+    },
+    {
+      "id": "385f273e13d5",
+      "title": "英國副首相芮納請辭　施凱爾內閣大搬風",
+      "url": "https://money.udn.com/money/story/5599/8987122",
+      "source": "money.udn.com",
+      "published": 1757101529
+    },
     {
       "id": "31071f1b0d5b",
       "title": "紐時：美海豹部隊2019登陸北韓　任務失敗射殺北韓船員",
@@ -331,20 +352,6 @@
       "published": 1757085900
     },
     {
-      "id": "86d06aec8f3c",
-      "title": "博通獲新客戶3000億元AI晶片大單　股價開盤大漲15%",
-      "url": "https://money.udn.com/money/story/123398/8986959",
-      "source": "money.udn.com",
-      "published": 1757085676
-    },
-    {
-      "id": "607035871edd",
-      "title": "特斯拉提薪酬方案　馬斯克有望成首位1兆美元富翁",
-      "url": "https://money.udn.com/money/story/5599/8986925",
-      "source": "money.udn.com",
-      "published": 1757085128
-    },
-    {
       "id": "f80b4fb88601",
       "title": "湖南耒水铊污染事件追踪：污染源头究竟是什么？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20250905-%E6%B9%96%E5%8D%97%E8%80%92%E6%B0%B4%E9%93%8A%E6%B1%A1%E6%9F%93%E4%BA%8B%E4%BB%B6%E8%BF%BD%E8%B8%AA-%E6%B1%A1%E6%9F%93%E6%BA%90%E5%A4%B4%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BB%80%E4%B9%88",
@@ -616,13 +623,6 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250904-%E4%B8%AD%E5%9B%BD%E5%90%91%E9%98%BF%E7%81%BE%E6%B0%91%E6%8F%90%E4%BE%9B600%E4%B8%87%E6%AC%A7%E5%85%83%E7%9A%84%E6%8F%B4%E5%8A%A9",
       "source": "rfi.fr",
       "published": 1757019578
-    },
-    {
-      "id": "3918362f2ef1",
-      "title": "法国浪费的处方药每年最高达17亿欧元",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250904-%E6%B3%95%E5%9B%BD%E6%B5%AA%E8%B4%B9%E7%9A%84%E5%A4%84%E6%96%B9%E8%8D%AF%E6%AF%8F%E5%B9%B4%E6%9C%80%E9%AB%98%E8%BE%BE17%E4%BA%BF%E6%AC%A7%E5%85%83",
-      "source": "rfi.fr",
-      "published": 1757019381
     },
     {
       "id": "912ac870cb20",
@@ -1402,5 +1402,5 @@
       "published": 1754903289
     }
   ],
-  "build_id": 1757101002
+  "build_id": 1757104380
 }
