@@ -1,6 +1,13 @@
 {
-  "updated": 1757100160,
+  "updated": 1757101002,
   "items": [
+    {
+      "id": "31071f1b0d5b",
+      "title": "紐時：美海豹部隊2019登陸北韓　任務失敗射殺北韓船員",
+      "url": "https://money.udn.com/money/story/10511/8987119",
+      "source": "money.udn.com",
+      "published": 1757100993
+    },
     {
       "id": "cc50b39850ff",
       "title": "美國關稅造成經濟衝擊　加拿大取消電動車強制令",
@@ -357,13 +364,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250905-%E6%99%AE%E4%BA%AC-%E8%A2%AB%E9%83%A8%E7%BD%B2%E8%87%B3%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9A%84%E8%A5%BF%E6%96%B9%E9%83%A8%E9%98%9F%E5%B0%86%E6%88%90%E4%B8%BA%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%88%E6%B3%95%E6%89%93%E5%87%BB%E7%9B%AE%E6%A0%87",
       "source": "rfi.fr",
       "published": 1757083902
-    },
-    {
-      "id": "764686903760",
-      "title": "路透：川普將重新詮釋條約　放行重型無人機外銷",
-      "url": "https://money.udn.com/money/story/5599/8986858",
-      "source": "money.udn.com",
-      "published": 1757083532
     },
     {
       "id": "8239f9a66076",
@@ -1402,5 +1402,5 @@
       "published": 1754903289
     }
   ],
-  "build_id": 1757100160
+  "build_id": 1757101002
 }
