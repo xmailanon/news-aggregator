@@ -1,12 +1,47 @@
 {
-  "updated": 1757176545,
+  "updated": 1757179506,
   "items": [
+    {
+      "id": "67ab3f37edec",
+      "title": "諾貝爾經濟學獎得主史提格里茲：關稅填補赤字 非長久之計",
+      "url": "https://money.udn.com/money/story/10511/8988405",
+      "source": "money.udn.com",
+      "published": 1757179500
+    },
+    {
+      "id": "97a4663ef01f",
+      "title": "投書華爾街日報 美財長籲全面檢討聯準會",
+      "url": "https://money.udn.com/money/story/10511/8988409",
+      "source": "money.udn.com",
+      "published": 1757179447
+    },
+    {
+      "id": "f13802e8bba7",
+      "title": "1分鐘看世界／現代、LG電池廠475人被捕 美嚴抓非法移工引爭議",
+      "url": "https://money.udn.com/money/story/5599/8988422",
+      "source": "money.udn.com",
+      "published": 1757179116
+    },
+    {
+      "id": "e247dec52ea1",
+      "title": "大陸公募基金手續費調降 讓利投資人",
+      "url": "https://money.udn.com/money/story/123398/8988334",
+      "source": "money.udn.com",
+      "published": 1757177981
+    },
     {
       "id": "767ea312917a",
       "title": "澳大利亚一名冲浪者遭大鲨鱼袭击身亡 多处海滩关闭",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250906-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B8%80%E5%90%8D%E5%86%B2%E6%B5%AA%E8%80%85%E9%81%AD%E5%A4%A7%E9%B2%A8%E9%B1%BC%E8%A2%AD%E5%87%BB%E8%BA%AB%E4%BA%A1-%E5%A4%9A%E5%A4%84%E6%B5%B7%E6%BB%A9%E5%85%B3%E9%97%AD",
       "source": "rfi.fr",
       "published": 1757176093
+    },
+    {
+      "id": "62cd0f14ce29",
+      "title": "台東淨灘發現飛機殘骸 軍方：屬2月失事高教機",
+      "url": "https://udn.com/news/story/10930/8988315",
+      "source": "udn.com",
+      "published": 1757175031
     },
     {
       "id": "59f126a76807",
@@ -268,13 +303,6 @@
       "published": 1757156550
     },
     {
-      "id": "e6b648bc0fbf",
-      "title": "石破茂遭逼宮　自民黨17地方黨部要求改選總裁",
-      "url": "https://money.udn.com/money/story/5599/8988096",
-      "source": "money.udn.com",
-      "published": 1757156445
-    },
-    {
       "id": "bd9a55ca3182",
       "title": "加拿大、澳洲軍艦通過台海 國防部：嚴密掌握確保台海安全無虞",
       "url": "https://udn.com/news/story/10930/8988093",
@@ -287,27 +315,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250906-%E7%89%B9%E6%9C%97%E6%99%AE-2026%E5%B9%B4g20%E9%9B%86%E5%9B%A2%E5%B3%B0%E4%BC%9A%E5%B0%86%E5%9C%A8%E5%85%B6%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%BE%E8%A1%8C",
       "source": "rfi.fr",
       "published": 1757156105
-    },
-    {
-      "id": "f0f93f75f41f",
-      "title": "美探員移民突襲逮捕數百韓人　李在明下令全力協助",
-      "url": "https://money.udn.com/money/story/5599/8988088",
-      "source": "money.udn.com",
-      "published": 1757155531
-    },
-    {
-      "id": "017d54816bb9",
-      "title": "美財長貝森特：Fed 有如實驗室外洩的致命病毒",
-      "url": "https://money.udn.com/money/story/5599/8988086",
-      "source": "money.udn.com",
-      "published": 1757155408
-    },
-    {
-      "id": "b5c0d99702aa",
-      "title": "俄國總統普亭對烏態度強硬 BBC 披露三大原因",
-      "url": "https://money.udn.com/money/story/5599/8988085",
-      "source": "money.udn.com",
-      "published": 1757155327
     },
     {
       "id": "7ea1ebe00fcf",
@@ -378,13 +385,6 @@
       "url": "https://udn.com/news/story/10930/8987984",
       "source": "udn.com",
       "published": 1757149216
-    },
-    {
-      "id": "22eeedeae7a4",
-      "title": "GCTF立陶宛舉辦海外工作坊 聚焦強化供應鏈韌性",
-      "url": "https://udn.com/news/story/6656/8987988",
-      "source": "udn.com",
-      "published": 1757149135
     },
     {
       "id": "9f7b044ba8fa",
@@ -1402,5 +1402,5 @@
       "published": 1755063097
     }
   ],
-  "build_id": 1757176545
+  "build_id": 1757179506
 }
