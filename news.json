@@ -1,6 +1,13 @@
 {
-  "updated": 1757157625,
+  "updated": 1757158598,
   "items": [
+    {
+      "id": "1fb9ba13cd35",
+      "title": "3年多來首見　雪梨衝浪客遭鯊魚咬死",
+      "url": "https://money.udn.com/money/story/5599/8988147",
+      "source": "money.udn.com",
+      "published": 1757158570
+    },
     {
       "id": "04f2298d5494",
       "title": "以色列对加沙战争700日：加大攻击加沙城力度 哈马斯发布人质视频",
@@ -324,13 +331,6 @@
       "published": 1757144167
     },
     {
-      "id": "f0b75bf4c2c2",
-      "title": "外界憂重演入侵巴拿馬　川普為反毒陳兵南美一次看",
-      "url": "https://money.udn.com/money/story/10511/8987885",
-      "source": "money.udn.com",
-      "published": 1757143811
-    },
-    {
       "id": "b97a0a998a03",
       "title": "駐以代表受知名播客專訪：台灣全力捍衛國際參與空間",
       "url": "https://udn.com/news/story/6656/8987855",
@@ -618,16 +618,16 @@
       "published": 1757068740
     },
     {
-      "id": "dd82a3c4a822",
-      "title": "金正恩父女的中国秀",
-      "url": "https://www.dw.com/zh/金正恩父女的中国秀/a-73891662?maca=chi-rss-chi-all-1127-rdf",
+      "id": "eaae0e56fcf7",
+      "title": "欧洲最强大的超级计算机“木星”周五起正式投入使用",
+      "url": "https://www.dw.com/zh/欧洲最强大的超级计算机-木星-周五起正式投入使用/a-73892223?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757066880
     },
     {
-      "id": "eaae0e56fcf7",
-      "title": "欧洲最强大的超级计算机“木星”周五起正式投入使用",
-      "url": "https://www.dw.com/zh/欧洲最强大的超级计算机-木星-周五起正式投入使用/a-73892223?maca=chi-rss-chi-all-1127-rdf",
+      "id": "dd82a3c4a822",
+      "title": "金正恩父女的中国秀",
+      "url": "https://www.dw.com/zh/金正恩父女的中国秀/a-73891662?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757066880
     },
@@ -1402,5 +1402,5 @@
       "published": 1754986154
     }
   ],
-  "build_id": 1757157625
+  "build_id": 1757158598
 }
