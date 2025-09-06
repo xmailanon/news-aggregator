@@ -1,5 +1,5 @@
 {
-  "updated": 1757165403,
+  "updated": 1757165900,
   "items": [
     {
       "id": "d40c864e1e84",
@@ -21,6 +21,13 @@
       "url": "https://money.udn.com/money/story/5599/8988233",
       "source": "money.udn.com",
       "published": 1757163972
+    },
+    {
+      "id": "2b14b7b421a8",
+      "title": "长平漫游：女神、圣母和面包店女主人",
+      "url": "https://www.dw.com/zh/长平漫游：女神、圣母和面包店女主人/a-73905646?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1757163660
     },
     {
       "id": "82c2d2ab8c90",
@@ -1393,14 +1400,7 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn02wrk3w5ko/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1754986154
-    },
-    {
-      "id": "44368f97d558",
-      "title": "香港大學N號檔深偽圖片受害女生：「這是一個法律黑洞」",
-      "url": "https://www.bbc.com/zhongwen/articles/cp94nmgde2xo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1754903289
     }
   ],
-  "build_id": 1757165403
+  "build_id": 1757165900
 }
