@@ -1,6 +1,27 @@
 {
-  "updated": 1757163568,
+  "updated": 1757165403,
   "items": [
+    {
+      "id": "d40c864e1e84",
+      "title": "陳建仁：加入聯合國不是為了席次 而是貢獻全世界",
+      "url": "https://udn.com/news/story/6656/8988244",
+      "source": "udn.com",
+      "published": 1757164527
+    },
+    {
+      "id": "bbb93356f880",
+      "title": "葡萄牙今夏高溫乾旱創近百年紀錄　降雨量不到平常1/4",
+      "url": "https://money.udn.com/money/story/5599/8988243",
+      "source": "money.udn.com",
+      "published": 1757164355
+    },
+    {
+      "id": "1e0eb97c35f8",
+      "title": "Anthropic用未授權書訓練AI挨告　457億和解首見",
+      "url": "https://money.udn.com/money/story/5599/8988233",
+      "source": "money.udn.com",
+      "published": 1757163972
+    },
     {
       "id": "82c2d2ab8c90",
       "title": "以色列军方即将对加沙城发动地面进攻 呼吁该市居民撤离",
@@ -275,25 +296,11 @@
       "published": 1757148890
     },
     {
-      "id": "280b3ce0676c",
-      "title": "高通 CEO 艾蒙：英特爾晶片製造技術還不夠好 繼續下單台積電",
-      "url": "https://money.udn.com/money/story/5599/8987983",
-      "source": "money.udn.com",
-      "published": 1757148809
-    },
-    {
       "id": "2bc4d750170f",
       "title": "「零日攻擊」導演嗆告國民黨 凌濤：直球對決堅持揭弊",
       "url": "https://udn.com/news/story/6656/8987980",
       "source": "udn.com",
       "published": 1757148623
-    },
-    {
-      "id": "d3e7ca897170",
-      "title": "才剛批印度倒向「最黑暗」中國大陸 川普改口：跟莫迪是好麻吉",
-      "url": "https://money.udn.com/money/story/5599/8987978",
-      "source": "money.udn.com",
-      "published": 1757148449
     },
     {
       "id": "b0cfad58476d",
@@ -357,13 +364,6 @@
       "url": "https://udn.com/news/story/10930/8987894",
       "source": "udn.com",
       "published": 1757144382
-    },
-    {
-      "id": "937a74c3efa8",
-      "title": "民進黨啟動22縣市巡迴座談 賴總統赴萬華廣照宮贈匾",
-      "url": "https://udn.com/news/story/6656/8987895",
-      "source": "udn.com",
-      "published": 1757144261
     },
     {
       "id": "3e37e72a8183",
@@ -1402,5 +1402,5 @@
       "published": 1754903289
     }
   ],
-  "build_id": 1757163568
+  "build_id": 1757165403
 }
