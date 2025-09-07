@@ -1,6 +1,27 @@
 {
-  "updated": 1757237196,
+  "updated": 1757237723,
   "items": [
+    {
+      "id": "23c325a62c75",
+      "title": "石破茂決定辭職　黨內稱英明、在野黨認為太遲",
+      "url": "https://money.udn.com/money/story/5599/8989368",
+      "source": "money.udn.com",
+      "published": 1757237433
+    },
+    {
+      "id": "6a6e58af2b8b",
+      "title": "阿拉伯聯盟：巴勒斯坦建國為中東和平前提",
+      "url": "https://money.udn.com/money/story/5599/8989369",
+      "source": "money.udn.com",
+      "published": 1757237433
+    },
+    {
+      "id": "0cca056b6df3",
+      "title": "桃園蘆竹慈母宮參香 賴總統：讓施政更貼近民意",
+      "url": "https://udn.com/news/story/6656/8989321",
+      "source": "udn.com",
+      "published": 1757236267
+    },
     {
       "id": "0b00b064b4d5",
       "title": "上任不到一年！日本首相石破茂宣布請辭",
@@ -254,13 +275,6 @@
       "published": 1757228033
     },
     {
-      "id": "3f4fa5d188a8",
-      "title": "自民黨內「逼宮」聲浪升高　傳小泉勸石破茂知所進退",
-      "url": "https://money.udn.com/money/story/5599/8989175",
-      "source": "money.udn.com",
-      "published": 1757227530
-    },
-    {
       "id": "94e13a4fa107",
       "title": "賴清德稱行政不干預司法 黃國昌酸：不覺得臉紅嗎？",
       "url": "https://udn.com/news/story/6656/8989171",
@@ -273,13 +287,6 @@
       "url": "https://udn.com/news/story/6656/8989170",
       "source": "udn.com",
       "published": 1757227040
-    },
-    {
-      "id": "3d65155669cb",
-      "title": "蒙面幫派墨爾本街頭刺死2青少年　澳洲警方調查",
-      "url": "https://money.udn.com/money/story/5599/8989168",
-      "source": "money.udn.com",
-      "published": 1757226989
     },
     {
       "id": "e1ce2f3e6410",
@@ -357,13 +364,6 @@
       "url": "https://udn.com/news/story/6656/8988968",
       "source": "udn.com",
       "published": 1757218023
-    },
-    {
-      "id": "c78b44920e74",
-      "title": "英籍記者自TaiwanPlus離職 曝原因為政治干預及極端份子騷擾",
-      "url": "https://udn.com/news/story/6656/8988967",
-      "source": "udn.com",
-      "published": 1757217980
     },
     {
       "id": "8826c865b097",
@@ -814,6 +814,104 @@
       "published": 1757009878
     },
     {
+      "id": "8fb3ef70bf52",
+      "title": "如果AI快速发展，我们的生活水平也会突飞猛进吗？",
+      "url": "https://www.ftchinese.com/story/001107532",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "662201b607c6",
+      "title": "美台防务官员在阿拉斯加举行秘密会谈",
+      "url": "https://www.ftchinese.com/story/001107531",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "f0b9a89e1bd2",
+      "title": "中俄关系会好吗？",
+      "url": "https://www.ftchinese.com/story/001107530",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "741fc8058279",
+      "title": "相比美食，人们更爱看江湖",
+      "url": "https://www.ftchinese.com/story/001107528",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "9fa2b21c6c79",
+      "title": "媒体如何主导英国政治——以极右改革党强势崛起为例",
+      "url": "https://www.ftchinese.com/story/001107529",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "f71c861343d9",
+      "title": "德国哲学学者施米茨：宗教在当今各国政治与跨国冲突中扮演的角色",
+      "url": "https://www.ftchinese.com/story/001107523",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "9987915ceeaf",
+      "title": "乔治•阿玛尼：我永远不会追随更炫目的潮流",
+      "url": "https://www.ftchinese.com/story/001107527",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "2208ca420e53",
+      "title": "草原沙漠游记",
+      "url": "https://www.ftchinese.com/story/001107504",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "0a647924fd40",
+      "title": "《关于约会的一切》：爱情是世俗时代的微小神学",
+      "url": "https://www.ftchinese.com/story/001107520",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "ca753421670b",
+      "title": "在爱丁堡，布莱希特遇到《红楼梦》",
+      "url": "https://www.ftchinese.com/story/001107505",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "c11d3a890698",
+      "title": "法国为何深陷债务泥潭？",
+      "url": "https://www.ftchinese.com/story/001107525",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "1b8612dbdee3",
+      "title": "黑客Rey声称侵入捷豹路虎网络系统",
+      "url": "https://www.ftchinese.com/story/001107524",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "3b5e14a3c5a6",
+      "title": "旧方子治不了新病：美国关税与移民的政策困境",
+      "url": "https://www.ftchinese.com/story/001107521",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
+      "id": "25c337cfc40d",
+      "title": "快销食品行业的多品牌矩阵策略日薄西山",
+      "url": "https://www.ftchinese.com/story/001107515",
+      "source": "ftchinese.com",
+      "published": 1757001600
+    },
+    {
       "id": "beeb1425d6cc",
       "title": "台湾社会如何看九三阅兵？",
       "url": "https://www.dw.com/zh/台湾社会如何看九三阅兵？/a-73883074?maca=chi-rss-chi-all-1127-rdf",
@@ -910,6 +1008,48 @@
       "url": "https://cn.nytimes.com/china/20250904/china-military-parade-weapons/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1756922520
+    },
+    {
+      "id": "1ad3c821da1a",
+      "title": "非洲发生经济危机将影响整个世界",
+      "url": "https://www.ftchinese.com/story/001107522",
+      "source": "ftchinese.com",
+      "published": 1756915200
+    },
+    {
+      "id": "6da6a58530fa",
+      "title": "中国股市创5个月来最大单日跌幅",
+      "url": "https://www.ftchinese.com/story/001107519",
+      "source": "ftchinese.com",
+      "published": 1756915200
+    },
+    {
+      "id": "292e39270c54",
+      "title": "欧洲汽车行业呼吁效仿中国策略",
+      "url": "https://www.ftchinese.com/story/001107518",
+      "source": "ftchinese.com",
+      "published": 1756915200
+    },
+    {
+      "id": "7fb67ce4d739",
+      "title": "达势股份布局低线市场 达美乐中国登顶全球排行榜",
+      "url": "https://www.ftchinese.com/story/001107517",
+      "source": "ftchinese.com",
+      "published": 1756915200
+    },
+    {
+      "id": "907ef7068191",
+      "title": "中国整治光伏行业“内卷式”竞争",
+      "url": "https://www.ftchinese.com/story/001107516",
+      "source": "ftchinese.com",
+      "published": 1756915200
+    },
+    {
+      "id": "7ed71471173b",
+      "title": "硬数据显示美联储不应降息",
+      "url": "https://www.ftchinese.com/story/001107514",
+      "source": "ftchinese.com",
+      "published": 1756915200
     },
     {
       "id": "1e046bb1cfc7",
@@ -1260,70 +1400,7 @@
       "url": "https://www.dw.com/zh/dw事实核查：如何识破ai生成的新闻播报视频/a-73715623?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756019460
-    },
-    {
-      "id": "d0329fdb0b0c",
-      "title": "德国仍拒绝向前殖民地支付赔偿金",
-      "url": "https://www.dw.com/zh/德国仍拒绝向前殖民地支付赔偿金/a-73700522?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756019280
-    },
-    {
-      "id": "db135722fe06",
-      "title": "Swatch廣告「瞇瞇眼」惹議下架 中網友怒轟",
-      "url": "https://www.dw.com/zh/swatch廣告「瞇瞇眼」惹議下架-中網友怒轟/a-73698105?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1755696060
-    },
-    {
-      "id": "12445482b75f",
-      "title": "特朗普为何对中国网开一面？",
-      "url": "https://www.dw.com/zh/特朗普为何对中国网开一面？/a-73682188?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1755595920
-    },
-    {
-      "id": "5d279b4541ac",
-      "title": "中国“Z世代”女性热捧百年“女书”",
-      "url": "https://www.dw.com/zh/中国-z世代-女性热捧百年-女书/a-73596329?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1755414000
-    },
-    {
-      "id": "0bdc3643609e",
-      "title": "中国不再需要特供版高端芯片了？",
-      "url": "https://www.dw.com/zh/中国不再需要特供版高端芯片了？/a-73621199?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1755177000
-    },
-    {
-      "id": "a229d8479ee9",
-      "title": "黎智英「勾結外國勢力」案　一文看懂案情進展",
-      "url": "https://www.bbc.com/zhongwen/articles/ce93rnlvng2o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1755144870
-    },
-    {
-      "id": "03b5a8089012",
-      "title": "中国公民羁押期间死亡 律师吁华人移民小心行事",
-      "url": "https://www.dw.com/zh/中国公民羁押期间死亡-律师吁华人移民小心行事/a-73613035?maca=chi-rss-chi-news-3224-rdf",
-      "source": "dw.com",
-      "published": 1754998800
-    },
-    {
-      "id": "319f9bad6289",
-      "title": "中國「外賣大戰」：誰在買單？ 迫於奔命的商家、騎手還是消費者？",
-      "url": "https://www.bbc.com/zhongwen/articles/cn02wrk3w5ko/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1754986154
-    },
-    {
-      "id": "44368f97d558",
-      "title": "香港大學N號檔深偽圖片受害女生：「這是一個法律黑洞」",
-      "url": "https://www.bbc.com/zhongwen/articles/cp94nmgde2xo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1754903289
     }
   ],
-  "build_id": 1757237196
+  "build_id": 1757237723
 }
