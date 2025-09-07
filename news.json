@@ -1,12 +1,33 @@
 {
-  "updated": 1757280245,
+  "updated": 1757280911,
   "items": [
+    {
+      "id": "bb4b0d4dabc4",
+      "title": "最高法院政變案裁決前　波索納洛支持者多城示威",
+      "url": "https://money.udn.com/money/story/10511/8990009",
+      "source": "money.udn.com",
+      "published": 1757280991
+    },
+    {
+      "id": "dbf04aafe47b",
+      "title": "摩洛哥:2025法国小麦最大买家",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20250907-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%91%A9%E6%B4%9B%E5%93%A5-2025%E6%B3%95%E5%9B%BD%E5%B0%8F%E9%BA%A6%E6%9C%80%E5%A4%A7%E4%B9%B0%E5%AE%B6",
+      "source": "rfi.fr",
+      "published": 1757279698
+    },
     {
       "id": "bdc90e927ae7",
       "title": "現代汽車突襲後　邊境沙皇：美移民執法將針對更多企業",
       "url": "https://money.udn.com/money/story/10511/8989998",
       "source": "money.udn.com",
       "published": 1757277917
+    },
+    {
+      "id": "8eb04cd12363",
+      "title": "法国小麦出口量挑战八百万吨",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250907-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%8E%9F%E6%9D%90%E6%96%99-%E6%B3%95%E5%9B%BD%E5%B0%8F%E9%BA%A6%E5%87%BA%E5%8F%A3%E9%87%8F%E6%8C%91%E6%88%98%E5%85%AB%E7%99%BE%E4%B8%87%E5%90%A8",
+      "source": "rfi.fr",
+      "published": 1757277296
     },
     {
       "id": "963ce0e73c15",
@@ -266,13 +287,6 @@
       "url": "https://money.udn.com/money/story/122381/8989717",
       "source": "money.udn.com",
       "published": 1757258318
-    },
-    {
-      "id": "d7164e9b3e78",
-      "title": "大陸高度關注日相石破茂請辭 日媒：中方關心下任首相是誰",
-      "url": "https://money.udn.com/money/story/5599/8989820",
-      "source": "money.udn.com",
-      "published": 1757257918
     },
     {
       "id": "ab6d42671c22",
@@ -644,20 +658,6 @@
       "url": "https://www.dw.com/zh/活到150-也成敏感词-cctv撤回视频版权/a-73904983?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757159040
-    },
-    {
-      "id": "04f2298d5494",
-      "title": "以色列对加沙战争700日：加大攻击加沙城力度 哈马斯发布人质视频",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20250906-%E4%BB%A5%E8%89%B2%E5%88%97%E5%AF%B9%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89700%E6%97%A5-%E5%8A%A0%E5%A4%A7%E6%94%BB%E5%87%BB%E5%8A%A0%E6%B2%99%E5%9F%8E%E5%8A%9B%E5%BA%A6-%E5%93%88%E9%A9%AC%E6%96%AF%E5%8F%91%E5%B8%83%E4%BA%BA%E8%B4%A8%E8%A7%86%E9%A2%91",
-      "source": "rfi.fr",
-      "published": 1757156550
-    },
-    {
-      "id": "7ccf183c3c11",
-      "title": "特朗普：2026年G20集团峰会将在其佛罗里达高尔夫俱乐部举行",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250906-%E7%89%B9%E6%9C%97%E6%99%AE-2026%E5%B9%B4g20%E9%9B%86%E5%9B%A2%E5%B3%B0%E4%BC%9A%E5%B0%86%E5%9C%A8%E5%85%B6%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E9%AB%98%E5%B0%94%E5%A4%AB%E4%BF%B1%E4%B9%90%E9%83%A8%E4%B8%BE%E8%A1%8C",
-      "source": "rfi.fr",
-      "published": 1757156105
     },
     {
       "id": "6122bde3f719",
@@ -1402,5 +1402,5 @@
       "published": 1756019520
     }
   ],
-  "build_id": 1757280245
+  "build_id": 1757280911
 }
