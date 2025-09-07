@@ -1,10 +1,31 @@
 {
-  "updated": 1757273778,
+  "updated": 1757276950,
   "items": [
     {
-      "id": "0c7ae1579371",
+      "id": "963ce0e73c15",
+      "title": "和外交部攜手歐洲台灣文化年  文化部長李遠上任後首度訪法國",
+      "url": "https://udn.com/news/story/6656/8989992",
+      "source": "udn.com",
+      "published": 1757276365
+    },
+    {
+      "id": "9c0cb398d76c",
+      "title": "促哈瑪斯接受條件釋放人質　川普：最後警告無下一次",
+      "url": "https://money.udn.com/money/story/10511/8989991",
+      "source": "money.udn.com",
+      "published": 1757275958
+    },
+    {
+      "id": "bb58a585be8b",
+      "title": "川普受勞力士邀請出席美網　未受對瑞士徵39%關稅影響",
+      "url": "https://money.udn.com/money/story/5599/8989987",
+      "source": "money.udn.com",
+      "published": 1757275240
+    },
+    {
+      "id": "46e9c40eef55",
       "title": "烏克蘭再遭大空襲　川普稱準備好對俄祭第2階段制裁",
-      "url": "https://money.udn.com/money/story/10511/8989970",
+      "url": "https://money.udn.com/money/story/5599/8989970",
       "source": "money.udn.com",
       "published": 1757270204
     },
@@ -254,25 +275,11 @@
       "published": 1757257685
     },
     {
-      "id": "2f27522660f4",
-      "title": "紅海海底電纜不明原因斷裂  中東地區網路中斷",
-      "url": "https://money.udn.com/money/story/5599/8989734",
-      "source": "money.udn.com",
-      "published": 1757256347
-    },
-    {
       "id": "ab6d42671c22",
       "title": "墙外文摘：习近平并未推动世界新秩序",
       "url": "https://www.dw.com/zh/墙外文摘：习近平并未推动世界新秩序/a-73910799?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757256180
-    },
-    {
-      "id": "614c0d55ca90",
-      "title": "美威力球約548億元頭獎開出 2人平分史上第2高彩金",
-      "url": "https://money.udn.com/money/story/5599/8989716",
-      "source": "money.udn.com",
-      "published": 1757255448
     },
     {
       "id": "8ff067cad1de",
@@ -371,13 +378,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20250907-%E7%BE%8E%E5%9B%BD%E9%82%AE%E6%94%BF%E6%96%B0%E5%85%B3%E7%A8%8E-88%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%92%8C%E8%BF%90%E8%90%A5%E5%95%86%E6%9A%82%E5%81%9C%E6%9C%8D%E5%8A%A1",
       "source": "rfi.fr",
       "published": 1757244652
-    },
-    {
-      "id": "5312c16b9492",
-      "title": "文化部長李遠上任後首度訪歐 強化文化外交",
-      "url": "https://udn.com/news/story/7314/8989464",
-      "source": "udn.com",
-      "published": 1757244165
     },
     {
       "id": "970a96df4942",
@@ -1402,5 +1402,5 @@
       "published": 1756019520
     }
   ],
-  "build_id": 1757273778
+  "build_id": 1757276950
 }
