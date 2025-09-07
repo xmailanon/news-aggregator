@@ -1,6 +1,27 @@
 {
-  "updated": 1757250066,
+  "updated": 1757252216,
   "items": [
+    {
+      "id": "2cd5e729a9ee",
+      "title": "印尼新都計畫預算被砍進度落後　分析家稱恐淪蚊子工程",
+      "url": "https://money.udn.com/money/story/5599/8989605",
+      "source": "money.udn.com",
+      "published": 1757251283
+    },
+    {
+      "id": "72c78e79cfcd",
+      "title": "移民船撞土耳其海岸警衛隊艦艇　5人落海喪命",
+      "url": "https://money.udn.com/money/story/5599/8989606",
+      "source": "money.udn.com",
+      "published": 1757251283
+    },
+    {
+      "id": "81802c449249",
+      "title": "俄军大规模空袭 基辅政府大楼起火 马克龙谴责俄方陷入恐怖战争逻辑",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250907-%E4%BF%84%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD-%E5%9F%BA%E8%BE%85%E6%94%BF%E5%BA%9C%E5%A4%A7%E6%A5%BC%E8%B5%B7%E7%81%AB-%E9%A9%AC%E5%85%8B%E9%BE%99%E8%B0%B4%E8%B4%A3%E4%BF%84%E6%96%B9%E9%99%B7%E5%85%A5%E6%81%90%E6%80%96%E6%88%98%E4%BA%89%E9%80%BB%E8%BE%91",
+      "source": "rfi.fr",
+      "published": 1757251107
+    },
     {
       "id": "328a58e43db7",
       "title": "登革熱與屈公病並行蔓延　孟加拉陷公衛危機",
@@ -14,6 +35,13 @@
       "url": "https://money.udn.com/money/story/5599/8989571",
       "source": "money.udn.com",
       "published": 1757249490
+    },
+    {
+      "id": "0cc38d7c25f3",
+      "title": "以色列敦促平民撤离加沙城",
+      "url": "https://www.dw.com/zh/以色列敦促平民撤离加沙城/a-73910543?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1757249040
     },
     {
       "id": "ed6dcdb36202",
@@ -233,16 +261,16 @@
       "published": 1757238306
     },
     {
-      "id": "2b49962d0710",
-      "title": "DW事实核查：如何识破AI伪造语音？",
-      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
+      "id": "5a6af303def1",
+      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
+      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
     },
     {
-      "id": "5a6af303def1",
-      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
-      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
+      "id": "2b49962d0710",
+      "title": "DW事实核查：如何识破AI伪造语音？",
+      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
     },
@@ -268,25 +296,11 @@
       "published": 1757237433
     },
     {
-      "id": "23c325a62c75",
-      "title": "石破茂決定辭職　黨內稱英明、在野黨認為太遲",
-      "url": "https://money.udn.com/money/story/5599/8989368",
-      "source": "money.udn.com",
-      "published": 1757237433
-    },
-    {
       "id": "0cca056b6df3",
       "title": "桃園蘆竹慈母宮參香 賴總統：讓施政更貼近民意",
       "url": "https://udn.com/news/story/6656/8989321",
       "source": "udn.com",
       "published": 1757236267
-    },
-    {
-      "id": "0b00b064b4d5",
-      "title": "上任不到一年！日本首相石破茂宣布請辭",
-      "url": "https://money.udn.com/money/story/5599/8989350",
-      "source": "money.udn.com",
-      "published": 1757236247
     },
     {
       "id": "b8ceed6a3dce",
@@ -658,13 +672,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c74098n2xy0o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1757116592
-    },
-    {
-      "id": "03da2e0c7815",
-      "title": "比亚迪2024年在法国的收入同比增长近六倍",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250905-%E6%AF%94%E4%BA%9A%E8%BF%AA2024%E5%B9%B4%E5%9C%A8%E6%B3%95%E5%9B%BD%E7%9A%84%E6%94%B6%E5%85%A5%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF%E8%BF%91%E5%85%AD%E5%80%8D",
-      "source": "rfi.fr",
-      "published": 1757110625
     },
     {
       "id": "0116e7b30a45",
@@ -1393,14 +1400,7 @@
       "url": "https://www.dw.com/zh/纠结多年-柏林一种族主义地名终于改了！/a-73757955?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756119660
-    },
-    {
-      "id": "3de3f9f8b6d2",
-      "title": "德国小镇回收稀土 难敌中国竞争",
-      "url": "https://www.dw.com/zh/德国小镇回收稀土-难敌中国竞争/a-73721609?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756019520
     }
   ],
-  "build_id": 1757250066
+  "build_id": 1757252216
 }
