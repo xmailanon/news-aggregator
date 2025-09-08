@@ -1,6 +1,13 @@
 {
-  "updated": 1757359451,
+  "updated": 1757360226,
   "items": [
+    {
+      "id": "e674a83955c4",
+      "title": "墨西哥貨運列車撞上雙層巴士　至少8死45人受傷",
+      "url": "https://money.udn.com/money/story/10511/8992234",
+      "source": "money.udn.com",
+      "published": 1757359840
+    },
     {
       "id": "09329bb2dc64",
       "title": "中俄加深“无上限”合作，俄能源巨头瞄准中国“熊猫债”市场",
@@ -80,7 +87,7 @@
     },
     {
       "id": "f7e987758c80",
-      "title": "1分鐘看世界／ ASML 入股法國AI新創 砸15億美元 強化歐洲戰力",
+      "title": "1分鐘看世界／ ASML 入股法國 AI 新創 砸15億美元 強化歐洲戰力",
       "url": "https://money.udn.com/money/story/5599/8992070",
       "source": "money.udn.com",
       "published": 1757353688
@@ -322,13 +329,6 @@
       "url": "https://money.udn.com/money/story/5599/8990125",
       "source": "money.udn.com",
       "published": 1757345073
-    },
-    {
-      "id": "546cccfce797",
-      "title": "「幸福國度」被禁社群媒體引爆Z世代怒火 警方鎮壓抗議群眾釀14死",
-      "url": "https://money.udn.com/money/story/5599/8992096",
-      "source": "money.udn.com",
-      "published": 1757345054
     },
     {
       "id": "e25cacdf4c8c",
@@ -1402,5 +1402,5 @@
       "published": 1756019460
     }
   ],
-  "build_id": 1757359451
+  "build_id": 1757360226
 }
