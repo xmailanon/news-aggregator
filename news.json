@@ -1,17 +1,24 @@
 {
-  "updated": 1757457305,
+  "updated": 1757459328,
   "items": [
     {
-      "id": "10e17ef9f752",
-      "title": "川普關稅合法性　美最高法院擬11月聽取辯論",
-      "url": "https://money.udn.com/money/story/10511/8994923",
+      "id": "2a9cb832a0fa",
+      "title": "美股收盤／三大指數同創新高 投資人因就業下修押注下周篤定降息",
+      "url": "https://money.udn.com/money/story/123398/8994938",
       "source": "money.udn.com",
-      "published": 1757457049
+      "published": 1757459132
     },
     {
       "id": "a2aea1517f02",
       "title": "民調：川普支持率42%　經濟成績單表現弱",
       "url": "https://money.udn.com/money/story/10511/8994924",
+      "source": "money.udn.com",
+      "published": 1757457049
+    },
+    {
+      "id": "10e17ef9f752",
+      "title": "川普關稅合法性　美最高法院擬11月聽取辯論",
+      "url": "https://money.udn.com/money/story/10511/8994923",
       "source": "money.udn.com",
       "published": 1757457049
     },
@@ -233,13 +240,6 @@
       "published": 1757442360
     },
     {
-      "id": "2bb8f48e8f1e",
-      "title": "英特爾兩大部門換將 CEO 陳立武將改造資料中心和 PC 晶片業務",
-      "url": "https://money.udn.com/money/story/123398/8994607",
-      "source": "money.udn.com",
-      "published": 1757442119
-    },
-    {
       "id": "6adef55e1001",
       "title": "马克龙任命国防部长勒科尔努为新总理",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250909-%E5%BF%AB%E8%AE%AF-%E9%A9%AC%E5%85%8B%E9%BE%99%E4%BB%BB%E5%91%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E5%8B%92%E7%A7%91%E5%B0%94%E5%8A%AA%E4%B8%BA%E6%96%B0%E6%80%BB%E7%90%86",
@@ -350,6 +350,34 @@
       "url": "https://udn.com/news/story/124589/8994746",
       "source": "udn.com",
       "published": 1757433655
+    },
+    {
+      "id": "422897708949",
+      "title": "稳定币成败启示录之二：香港的唯一出路是打造全球第一的稳定币市场",
+      "url": "https://www.ftchinese.com/story/001107553",
+      "source": "ftchinese.com",
+      "published": 1757433600
+    },
+    {
+      "id": "90402840f050",
+      "title": "大道至简：复杂的投资策略不如简单的60/40",
+      "url": "https://www.ftchinese.com/story/001107552",
+      "source": "ftchinese.com",
+      "published": 1757433600
+    },
+    {
+      "id": "a69a864bde80",
+      "title": "一线城市的苦日子来了？",
+      "url": "https://www.ftchinese.com/story/001107550",
+      "source": "ftchinese.com",
+      "published": 1757433600
+    },
+    {
+      "id": "8ad086acd8f8",
+      "title": "德国汽车正在模仿“中国速度”",
+      "url": "https://www.ftchinese.com/story/001107547",
+      "source": "ftchinese.com",
+      "published": 1757433600
     },
     {
       "id": "cb77eba9753d",
@@ -891,34 +919,6 @@
       "published": 1757260800
     },
     {
-      "id": "7129ce5de27a",
-      "title": "韩国包机撤回在美国被拘留的数百名工人",
-      "url": "https://www.ftchinese.com/story/001107544",
-      "source": "ftchinese.com",
-      "published": 1757260800
-    },
-    {
-      "id": "42cb28129631",
-      "title": "特朗普政府拟制裁“不当拘留”美国公民的国家",
-      "url": "https://www.ftchinese.com/story/001107543",
-      "source": "ftchinese.com",
-      "published": 1757260800
-    },
-    {
-      "id": "b8b34bb5a3a8",
-      "title": "日本对美5500亿美元投资将由特朗普决定项目",
-      "url": "https://www.ftchinese.com/story/001107542",
-      "source": "ftchinese.com",
-      "published": 1757260800
-    },
-    {
-      "id": "0e61810377cd",
-      "title": "从草根标签到精英叙事，英国工党面临秋季大考",
-      "url": "https://www.ftchinese.com/story/001107539",
-      "source": "ftchinese.com",
-      "published": 1757260800
-    },
-    {
       "id": "ab6d42671c22",
       "title": "墙外文摘：习近平并未推动世界新秩序",
       "url": "https://www.dw.com/zh/墙外文摘：习近平并未推动世界新秩序/a-73910799?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1756019460
     }
   ],
-  "build_id": 1757457305
+  "build_id": 1757459328
 }
