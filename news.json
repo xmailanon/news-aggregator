@@ -1,6 +1,27 @@
 {
-  "updated": 1757445758,
+  "updated": 1757446599,
   "items": [
+    {
+      "id": "49cf8760df72",
+      "title": "民主党参议员：中国是最大威胁　美国不应再撤退",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20250909-%E6%B0%91%E4%B8%BB%E5%85%9A%E5%8F%82%E8%AE%AE%E5%91%98-%E4%B8%AD%E5%9B%BD%E6%98%AF%E6%9C%80%E5%A4%A7%E5%A8%81%E8%83%81-%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%BA%94%E5%86%8D%E6%92%A4%E9%80%80",
+      "source": "rfi.fr",
+      "published": 1757446321
+    },
+    {
+      "id": "b57180d49469",
+      "title": "美勞工統計局公布最新數據 就業減弱 降息機率增",
+      "url": "https://money.udn.com/money/story/5599/8994668",
+      "source": "money.udn.com",
+      "published": 1757446204
+    },
+    {
+      "id": "a1cdf9527527",
+      "title": "蘋果新品發表會／ iPhone Air 極致輕薄 Pro 系列搭載「史上最強相機」",
+      "url": "https://money.udn.com/money/story/5599/8994841",
+      "source": "money.udn.com",
+      "published": 1757446015
+    },
     {
       "id": "375e5a48afee",
       "title": "小摩：Fed 轉向 美股恐利多出盡",
@@ -212,13 +233,6 @@
       "published": 1757433986
     },
     {
-      "id": "32893820b66c",
-      "title": "微軟簽署高達194億美元協議 向 Nebius 購買雲端運算能力",
-      "url": "https://money.udn.com/money/story/5599/8992434",
-      "source": "money.udn.com",
-      "published": 1757433968
-    },
-    {
       "id": "551e734dcf11",
       "title": "賴夜宴綠委「聊民生沒聊柯總召」 聚焦關稅戰、風災復原",
       "url": "https://udn.com/news/story/6656/8994737",
@@ -315,13 +329,6 @@
       "url": "https://udn.com/news/story/6656/8994674",
       "source": "udn.com",
       "published": 1757433462
-    },
-    {
-      "id": "fa5649add2e5",
-      "title": "紐約聯準調查：短期通膨預期上升 受訪者對找工作信心下降",
-      "url": "https://money.udn.com/money/story/5599/8992435",
-      "source": "money.udn.com",
-      "published": 1757433337
     },
     {
       "id": "12b1806b8e31",
@@ -637,13 +644,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250908-%E6%98%82%E5%B1%B1%E7%B4%A0%E5%AD%A3%E7%BE%81%E6%8A%BC%E4%B8%AD%E4%BC%A0%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96%EF%BC%8C%E5%85%B6%E5%AD%90%E5%91%BC%E5%90%81%E7%BC%85%E7%94%B8%E5%86%9B%E6%94%BF%E5%BA%9C%E6%94%BE%E4%BA%BA",
       "source": "rfi.fr",
       "published": 1757348912
-    },
-    {
-      "id": "1ef33bf74a1c",
-      "title": "中国，太平洋岛国峰会“房间里的大象”",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250908-%E4%B8%AD%E5%9B%BD%EF%BC%8C%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B2%9B%E5%9B%BD%E5%B3%B0%E4%BC%9A-%E6%88%BF%E9%97%B4%E9%87%8C%E7%9A%84%E5%A4%A7%E8%B1%A1",
-      "source": "rfi.fr",
-      "published": 1757348105
     },
     {
       "id": "33deb59f73d4",
@@ -1402,5 +1402,5 @@
       "published": 1756019460
     }
   ],
-  "build_id": 1757445758
+  "build_id": 1757446599
 }
