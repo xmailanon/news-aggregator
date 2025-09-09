@@ -1,6 +1,83 @@
 {
-  "updated": 1757453636,
+  "updated": 1757455670,
   "items": [
+    {
+      "id": "ac68761118c3",
+      "title": "美股再創收盤新高　不受黯淡就業數據影響",
+      "url": "https://money.udn.com/money/story/5599/8994890",
+      "source": "money.udn.com",
+      "published": 1757454883
+    },
+    {
+      "id": "5eb1715555cf",
+      "title": "柯文哲想再選總統 先過一審判決這一關",
+      "url": "https://udn.com/news/story/6656/8994784",
+      "source": "udn.com",
+      "published": 1757454600
+    },
+    {
+      "id": "94532cfb3059",
+      "title": "統籌款大增89%卻有縣市短少 一圖看算法藏玄機",
+      "url": "https://udn.com/news/story/7314/8994780",
+      "source": "udn.com",
+      "published": 1757454600
+    },
+    {
+      "id": "2fa6b36d96ef",
+      "title": "苹果发布 iPhone 17 系列　推超薄机型 AI 应用仍显保守",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250909-%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83-iphone-17-%E7%B3%BB%E5%88%97-%E6%8E%A8%E8%B6%85%E8%96%84%E6%9C%BA%E5%9E%8B-ai-%E5%BA%94%E7%94%A8%E4%BB%8D%E6%98%BE%E4%BF%9D%E5%AE%88",
+      "source": "rfi.fr",
+      "published": 1757454099
+    },
+    {
+      "id": "70e37b33dc31",
+      "title": "美联社调查：美国科技公司协助中国监控数十万人",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250909-%E7%BE%8E%E8%81%94%E7%A4%BE%E8%B0%83%E6%9F%A5-%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%85%AC%E5%8F%B8%E5%8D%8F%E5%8A%A9%E4%B8%AD%E5%9B%BD%E7%9B%91%E6%8E%A7%E6%95%B0%E5%8D%81%E4%B8%87%E4%BA%BA",
+      "source": "rfi.fr",
+      "published": 1757453942
+    },
+    {
+      "id": "80f823036ff7",
+      "title": "伊朗与国际原子能机构达成新合作框架 重启核查机制",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250909-%E4%BC%8A%E6%9C%97%E4%B8%8E%E5%9B%BD%E9%99%85%E5%8E%9F%E5%AD%90%E8%83%BD%E6%9C%BA%E6%9E%84%E8%BE%BE%E6%88%90%E6%96%B0%E5%90%88%E4%BD%9C%E6%A1%86%E6%9E%B6-%E9%87%8D%E5%90%AF%E6%A0%B8%E6%9F%A5%E6%9C%BA%E5%88%B6",
+      "source": "rfi.fr",
+      "published": 1757453735
+    },
+    {
+      "id": "2933137c2c4c",
+      "title": "白宫：特朗普对以色列袭击多哈\"感到不安\"  多国谴责以军空袭多哈",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250909-%E7%99%BD%E5%AE%AB-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E8%A2%AD%E5%87%BB%E5%A4%9A%E5%93%88-%E6%84%9F%E5%88%B0%E4%B8%8D%E5%AE%89-%E5%A4%9A%E5%9B%BD%E8%B0%B4%E8%B4%A3%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%A4%9A%E5%93%88",
+      "source": "rfi.fr",
+      "published": 1757453565
+    },
+    {
+      "id": "42cfdab715fe",
+      "title": "葡萄牙总理访华 敦促习近平推动俄乌和平",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250909-%E8%91%A1%E8%90%84%E7%89%99%E6%80%BB%E7%90%86%E8%AE%BF%E5%8D%8E-%E6%95%A6%E4%BF%83%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8E%A8%E5%8A%A8%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3",
+      "source": "rfi.fr",
+      "published": 1757453370
+    },
+    {
+      "id": "e73c63f3e76a",
+      "title": "美国会跨党派众议员将于本月访华 2019年以来首次",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250909-%E7%BE%8E%E5%9B%BD%E4%BC%9A%E8%B7%A8%E5%85%9A%E6%B4%BE%E4%BC%97%E8%AE%AE%E5%91%98%E5%B0%86%E4%BA%8E%E6%9C%AC%E6%9C%88%E8%AE%BF%E5%8D%8E-2019%E5%B9%B4%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1",
+      "source": "rfi.fr",
+      "published": 1757453033
+    },
+    {
+      "id": "14c5c9f304ad",
+      "title": "以軍空襲在卡達的哈瑪斯高層 川普：不是我的決定",
+      "url": "https://money.udn.com/money/story/5599/8994879",
+      "source": "money.udn.com",
+      "published": 1757452835
+    },
+    {
+      "id": "94ad973c4508",
+      "title": "美最高法院正式審理關稅政策 擬11月進入辯論",
+      "url": "https://money.udn.com/money/story/5599/8994880",
+      "source": "money.udn.com",
+      "published": 1757452834
+    },
     {
       "id": "d00679a77db4",
       "title": "勒科尔努出任总理　法国面临“大封锁”抗议浪潮",
@@ -163,20 +240,6 @@
       "published": 1757441135
     },
     {
-      "id": "d74a3e740435",
-      "title": "金磚11國線上峰會譴責「關稅勒索」 呼籲捍衛貿易體制",
-      "url": "https://money.udn.com/money/story/5599/8994609",
-      "source": "money.udn.com",
-      "published": 1757440846
-    },
-    {
-      "id": "349461fe5963",
-      "title": "蘋果新品發表會／AirPods Pro 3打頭陣 AI 助威 提供即時翻譯外語功能",
-      "url": "https://money.udn.com/money/story/5599/8994812",
-      "source": "money.udn.com",
-      "published": 1757439809
-    },
-    {
       "id": "8592b75bcea1",
       "title": "俄罗斯空袭领取养老金的平民 致 24 人死亡",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250909-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E9%A2%86%E5%8F%96%E5%85%BB%E8%80%81%E9%87%91%E7%9A%84%E5%B9%B3%E6%B0%91-%E8%87%B4-24-%E4%BA%BA%E6%AD%BB%E4%BA%A1",
@@ -189,13 +252,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250909-%E6%85%95%E5%B0%BC%E9%BB%91%E5%9B%BD%E9%99%85%E8%BD%A6%E5%B1%95%E6%8F%AD%E5%B9%95-%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%BC%BA%E5%8A%BF%E4%BA%AE%E7%9B%B8-%E9%BB%98%E8%8C%A8%E5%90%81%E6%AC%A7%E7%9B%9F%E6%94%BE%E5%AE%BD%E7%87%83%E6%B0%94%E8%BD%A6%E8%A7%84%E5%AE%9A",
       "source": "rfi.fr",
       "published": 1757437605
-    },
-    {
-      "id": "b9794204ca2a",
-      "title": "市場預期Fed降息有助支撐美經濟　歐股多收高",
-      "url": "https://money.udn.com/money/story/5599/8994804",
-      "source": "money.udn.com",
-      "published": 1757437576
     },
     {
       "id": "ef750ed5e242",
@@ -327,20 +383,6 @@
       "id": "1b7826f89b2d",
       "title": "財劃法公式有問題 學者建議：政院公告正確數字釋善意",
       "url": "https://udn.com/news/story/124593/8994676",
-      "source": "udn.com",
-      "published": 1757433600
-    },
-    {
-      "id": "51006a67240e",
-      "title": "冷眼集／朝野良性互動試金石 看政院承擔",
-      "url": "https://udn.com/news/story/124593/8994693",
-      "source": "udn.com",
-      "published": 1757433600
-    },
-    {
-      "id": "69ef38feca57",
-      "title": "業界首家！永豐 iWish創新應用 GAI ，直覺對話讓臨櫃存提轉匯變得更快速",
-      "url": "https://udn.com/news/story/7314/8961176",
       "source": "udn.com",
       "published": 1757433600
     },
@@ -562,13 +604,6 @@
       "published": 1757367139
     },
     {
-      "id": "73ee8db11819",
-      "title": "彭博：美国拟要求三星、海力士对华芯片供应实行年度审批",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250908-%E5%BD%AD%E5%8D%9A-%E7%BE%8E%E5%9B%BD%E6%8B%9F%E8%A6%81%E6%B1%82%E4%B8%89%E6%98%9F-%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E4%BE%9B%E5%BA%94%E5%AE%9E%E8%A1%8C%E5%B9%B4%E5%BA%A6%E5%AE%A1%E6%89%B9",
-      "source": "rfi.fr",
-      "published": 1757366926
-    },
-    {
       "id": "913f80c4e17f",
       "title": "欧盟寻求与特朗普政府协调 启动新一轮对俄制裁",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250908-%E6%AC%A7%E7%9B%9F%E5%AF%BB%E6%B1%82%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%8D%8F%E8%B0%83-%E6%8B%9F%E5%90%AF%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81",
@@ -609,41 +644,6 @@
       "url": "https://cn.nytimes.com/opinion/20250909/us-trump-china-allies/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1757362099
-    },
-    {
-      "id": "84c915115311",
-      "title": "非洲国家对太阳能板需求大增",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20250908-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E5%9B%BD%E5%AE%B6%E5%AF%B9%E5%A4%AA%E9%98%B3%E8%83%BD%E6%9D%BF%E9%9C%80%E6%B1%82%E5%A4%A7%E5%A2%9E",
-      "source": "rfi.fr",
-      "published": 1757361601
-    },
-    {
-      "id": "09329bb2dc64",
-      "title": "中俄加深“无上限”合作，俄能源巨头瞄准中国“熊猫债”市场",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250908-%E4%B8%AD%E4%BF%84%E5%8A%A0%E6%B7%B1-%E6%97%A0%E4%B8%8A%E9%99%90-%E5%90%88%E4%BD%9C%EF%BC%8C%E4%BF%84%E8%83%BD%E6%BA%90%E5%B7%A8%E5%A4%B4%E7%9E%84%E5%87%86%E4%B8%AD%E5%9B%BD-%E7%86%8A%E7%8C%AB%E5%80%BA-%E5%B8%82%E5%9C%BA",
-      "source": "rfi.fr",
-      "published": 1757359425
-    },
-    {
-      "id": "585c4c3cce92",
-      "title": "美国国会警告中共网络间谍升级",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20250908-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%85%B1%E7%BD%91%E7%BB%9C%E9%97%B4%E8%B0%8D%E5%8D%87%E7%BA%A7",
-      "source": "rfi.fr",
-      "published": 1757353405
-    },
-    {
-      "id": "67f3efb7ca0d",
-      "title": "法国国民议会投票推翻弗朗索瓦·贝鲁政府",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250908-%E6%B3%95%E5%9B%BD%E5%9B%BD%E6%B0%91%E8%AE%AE%E4%BC%9A%E6%8A%95%E7%A5%A8%E6%8E%A8%E7%BF%BB%E5%BC%97%E6%9C%97%E7%B4%A2%E7%93%A6%C2%B7%E8%B4%9D%E9%B2%81%E6%94%BF%E5%BA%9C",
-      "source": "rfi.fr",
-      "published": 1757351636
-    },
-    {
-      "id": "9d6d48c39c7b",
-      "title": "开枪了：尼泊尔抗议当局封社交媒体活动遭暴力驱散 17人死亡400人受伤",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250908-%E5%BC%80%E6%9E%AA%E4%BA%86-%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%8A%97%E8%AE%AE%E5%BD%93%E5%B1%80%E5%B0%81%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93%E6%B4%BB%E5%8A%A8%E9%81%AD%E6%9A%B4%E5%8A%9B%E9%A9%B1%E6%95%A3-17%E4%BA%BA%E6%AD%BB%E4%BA%A1400%E4%BA%BA%E5%8F%97%E4%BC%A4",
-      "source": "rfi.fr",
-      "published": 1757350571
     },
     {
       "id": "33deb59f73d4",
@@ -1402,5 +1402,5 @@
       "published": 1756019460
     }
   ],
-  "build_id": 1757453636
+  "build_id": 1757455670
 }
