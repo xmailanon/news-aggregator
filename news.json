@@ -1,20 +1,6 @@
 {
-  "updated": 1757453197,
+  "updated": 1757453636,
   "items": [
-    {
-      "id": "14c5c9f304ad",
-      "title": "以軍空襲在卡達的哈瑪斯高層 川普：不是我的決定",
-      "url": "https://money.udn.com/money/story/5599/8994879",
-      "source": "money.udn.com",
-      "published": 1757452835
-    },
-    {
-      "id": "94ad973c4508",
-      "title": "美最高法院正式審理關稅政策 擬11月進入辯論",
-      "url": "https://money.udn.com/money/story/5599/8994880",
-      "source": "money.udn.com",
-      "published": 1757452834
-    },
     {
       "id": "d00679a77db4",
       "title": "勒科尔努出任总理　法国面临“大封锁”抗议浪潮",
@@ -184,6 +170,13 @@
       "published": 1757440846
     },
     {
+      "id": "349461fe5963",
+      "title": "蘋果新品發表會／AirPods Pro 3打頭陣 AI 助威 提供即時翻譯外語功能",
+      "url": "https://money.udn.com/money/story/5599/8994812",
+      "source": "money.udn.com",
+      "published": 1757439809
+    },
+    {
       "id": "8592b75bcea1",
       "title": "俄罗斯空袭领取养老金的平民 致 24 人死亡",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250909-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E9%A2%86%E5%8F%96%E5%85%BB%E8%80%81%E9%87%91%E7%9A%84%E5%B9%B3%E6%B0%91-%E8%87%B4-24-%E4%BA%BA%E6%AD%BB%E4%BA%A1",
@@ -196,6 +189,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250909-%E6%85%95%E5%B0%BC%E9%BB%91%E5%9B%BD%E9%99%85%E8%BD%A6%E5%B1%95%E6%8F%AD%E5%B9%95-%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%BC%BA%E5%8A%BF%E4%BA%AE%E7%9B%B8-%E9%BB%98%E8%8C%A8%E5%90%81%E6%AC%A7%E7%9B%9F%E6%94%BE%E5%AE%BD%E7%87%83%E6%B0%94%E8%BD%A6%E8%A7%84%E5%AE%9A",
       "source": "rfi.fr",
       "published": 1757437605
+    },
+    {
+      "id": "b9794204ca2a",
+      "title": "市場預期Fed降息有助支撐美經濟　歐股多收高",
+      "url": "https://money.udn.com/money/story/5599/8994804",
+      "source": "money.udn.com",
+      "published": 1757437576
     },
     {
       "id": "ef750ed5e242",
@@ -1402,5 +1402,5 @@
       "published": 1756019460
     }
   ],
-  "build_id": 1757453197
+  "build_id": 1757453636
 }
