@@ -1,6 +1,13 @@
 {
-  "updated": 1757536593,
+  "updated": 1757538478,
   "items": [
+    {
+      "id": "a83bd3b49025",
+      "title": "AI前景樂觀甲骨文股價飆漲　美股多收紅標普再創新高",
+      "url": "https://money.udn.com/money/story/5599/8997577",
+      "source": "money.udn.com",
+      "published": 1757537117
+    },
     {
       "id": "4edcde794488",
       "title": "市場觀望川普對俄行動　國際油價上揚",
@@ -10,7 +17,7 @@
     },
     {
       "id": "fbecbca66a0b",
-      "title": "特朗普的支持者查理·科克（Charlie Kirk）遭枪击",
+      "title": "特朗普的支持者查理·科克（Charlie Kirk）遭枪击死亡",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250910-%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%94%AF%E6%8C%81%E8%80%85%E6%9F%A5%E7%90%86%C2%B7%E7%A7%91%E5%85%8B-charlie-kirk-%E9%81%AD%E6%9E%AA%E5%87%BB",
       "source": "rfi.fr",
       "published": 1757535211
@@ -231,13 +238,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250910-%E9%B2%81%E6%AF%94%E5%A5%A5%E5%90%8C%E7%8E%8B%E6%AF%85%E9%80%9A%E8%AF%9D-%E5%BC%BA%E8%B0%83%E5%9C%A8%E5%8F%8C%E8%BE%B9%E5%85%B3%E7%B3%BB%E5%90%84%E9%A2%86%E5%9F%9F%E4%BF%9D%E6%8C%81%E5%BC%80%E6%94%BE-%E5%BB%BA%E8%AE%BE%E6%80%A7%E6%B2%9F%E9%80%9A%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7",
       "source": "rfi.fr",
       "published": 1757519025
-    },
-    {
-      "id": "85c2fe136fc4",
-      "title": "美國8月PPI月減0.1%　4月以來首見下滑",
-      "url": "https://money.udn.com/money/story/5599/8997441",
-      "source": "money.udn.com",
-      "published": 1757518586
     },
     {
       "id": "0b51aac6ff95",
@@ -1402,5 +1402,5 @@
       "published": 1756119660
     }
   ],
-  "build_id": 1757536593
+  "build_id": 1757538478
 }
