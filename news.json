@@ -1,6 +1,13 @@
 {
-  "updated": 1757525662,
+  "updated": 1757528041,
   "items": [
+    {
+      "id": "f5e194888eb2",
+      "title": "甲骨文股價飆40%　創辦人艾里森超越馬斯克登首富",
+      "url": "https://money.udn.com/money/story/5599/8997539",
+      "source": "money.udn.com",
+      "published": 1757526309
+    },
     {
       "id": "c16715e7abc2",
       "title": "特朗普呼吁对刺杀乌克兰难民嫌犯判死刑",
@@ -308,13 +315,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250910-%E6%AC%A7%E7%9B%9F%E6%88%96%E5%B0%86%E4%B8%AD%E5%9B%BD%E7%8B%AC%E7%AB%8B%E7%82%BC%E6%B2%B9%E5%8E%82%E5%88%97%E5%85%A5%E7%AC%AC19%E8%BD%AE%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%E6%96%B9%E6%A1%88-%E8%80%83%E8%99%91%E5%BF%AB%E6%B7%98%E6%B1%B0%E4%BF%84%E5%8C%96%E7%9F%B3%E7%87%83%E6%96%99",
       "source": "rfi.fr",
       "published": 1757512594
-    },
-    {
-      "id": "9a1814fb9d14",
-      "title": "歐洲股市在法國信任投票後持穩；英美資源集團大漲",
-      "url": "https://money.udn.com/money/story/5599/8995049",
-      "source": "money.udn.com",
-      "published": 1757512438
     },
     {
       "id": "6ddf3aabefa3",
@@ -1402,5 +1402,5 @@
       "published": 1756119660
     }
   ],
-  "build_id": 1757525662
+  "build_id": 1757528041
 }
