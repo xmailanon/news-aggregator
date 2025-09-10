@@ -1,6 +1,27 @@
 {
-  "updated": 1757524077,
+  "updated": 1757525662,
   "items": [
+    {
+      "id": "c16715e7abc2",
+      "title": "特朗普呼吁对刺杀乌克兰难民嫌犯判死刑",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250910-%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%AF%B9%E5%88%BA%E6%9D%80%E4%B9%8C%E5%85%8B%E5%85%B0%E9%9A%BE%E6%B0%91%E5%AB%8C%E7%8A%AF%E5%88%A4%E6%AD%BB%E5%88%91",
+      "source": "rfi.fr",
+      "published": 1757524247
+    },
+    {
+      "id": "6468e7c234c2",
+      "title": "林佳龍投書羅馬尼亞媒體 籲國際攜手台灣加入聯合國",
+      "url": "https://udn.com/news/story/6656/8997307",
+      "source": "udn.com",
+      "published": 1757524181
+    },
+    {
+      "id": "ddbd8104cf03",
+      "title": "新聞眼／俞大㵢續駐美…關鍵時刻 擱置人事為上策",
+      "url": "https://udn.com/news/story/6656/8997498",
+      "source": "udn.com",
+      "published": 1757524110
+    },
     {
       "id": "9e72b2c648cd",
       "title": "俞大㵢駐美暫不異動 協助關稅談判、因應川習會",
@@ -387,20 +408,6 @@
       "published": 1757503664
     },
     {
-      "id": "b996609f175e",
-      "title": "綠轟蔣萬安「無喙講家己」 北市反擊坐視統籌款六都末段？",
-      "url": "https://udn.com/news/story/124593/8996916",
-      "source": "udn.com",
-      "published": 1757502981
-    },
-    {
-      "id": "bfb07858619a",
-      "title": "中央減少補助54億元剝奪縣民權利 林茂盛喊「還給宜蘭」",
-      "url": "https://udn.com/news/story/124593/8996913",
-      "source": "udn.com",
-      "published": 1757502831
-    },
-    {
       "id": "fcd76a333aba",
       "title": "专制联盟还是权宜合作？中俄朝同台背后的战略算计",
       "url": "https://www.dw.com/zh/专制联盟还是权宜合作？中俄朝同台背后的战略算计/a-73948018?maca=chi-rss-chi-all-1127-rdf",
@@ -665,13 +672,6 @@
       "url": "https://cn.nytimes.com/business/20250910/starbucks-turnaround-brian-niccol/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1757447476
-    },
-    {
-      "id": "89d937ab617c",
-      "title": "法国两年内即将迎第五位总理，乌克兰政策或延续",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250909-%E6%B3%95%E5%9B%BD%E4%B8%A4%E5%B9%B4%E5%86%85%E5%8D%B3%E5%B0%86%E8%BF%8E%E7%AC%AC%E4%BA%94%E4%BD%8D%E6%80%BB%E7%90%86%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%B4%E5%8A%A9%E6%94%BF%E7%AD%96%E6%88%96%E5%BB%B6%E7%BB%AD",
-      "source": "rfi.fr",
-      "published": 1757445343
     },
     {
       "id": "031930559c56",
@@ -1402,5 +1402,5 @@
       "published": 1756119660
     }
   ],
-  "build_id": 1757524077
+  "build_id": 1757525662
 }
