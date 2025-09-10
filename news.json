@@ -1,12 +1,96 @@
 {
-  "updated": 1757503932,
+  "updated": 1757506670,
   "items": [
+    {
+      "id": "8a90bd7276f1",
+      "title": "太平洋島國領袖「和平之洋」宣言　籲尊重主權",
+      "url": "https://money.udn.com/money/story/5599/8997071",
+      "source": "money.udn.com",
+      "published": 1757506891
+    },
+    {
+      "id": "375727a4fe1c",
+      "title": "南海争端 中国宣布新建黄岩岛国家级自然保护区",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250910-%E5%8D%97%E6%B5%B7%E4%BA%89%E7%AB%AF-%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E6%96%B0%E5%BB%BA%E9%BB%84%E5%B2%A9%E5%B2%9B%E5%9B%BD%E5%AE%B6%E7%BA%A7%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA",
+      "source": "rfi.fr",
+      "published": 1757506369
+    },
+    {
+      "id": "4f249db1ec8a",
+      "title": "需求熱絡 芝加哥期權交易所擬推比特幣、乙太幣連續期貨合約",
+      "url": "https://money.udn.com/money/story/5599/8997025",
+      "source": "money.udn.com",
+      "published": 1757505851
+    },
+    {
+      "id": "755fdd833305",
+      "title": "加德滿都饒舌歌手市長　尼泊爾年輕世代新希望",
+      "url": "https://money.udn.com/money/story/5599/8997006",
+      "source": "money.udn.com",
+      "published": 1757505648
+    },
+    {
+      "id": "e061ae964275",
+      "title": "台大醫院2狼醫遭重罰停業、廢照 院方低調：持續精進性平流程",
+      "url": "https://udn.com/news/story/7314/8997001",
+      "source": "udn.com",
+      "published": 1757505464
+    },
+    {
+      "id": "cc2bc6e41216",
+      "title": "甲骨文市值猛增1900億美元 雲業務展望強勁點燃 AI 設施需求加速預期",
+      "url": "https://money.udn.com/money/story/123398/8996453",
+      "source": "money.udn.com",
+      "published": 1757504685
+    },
+    {
+      "id": "9421d4228cd5",
+      "title": "中印關係回暖之際 比亞迪高層勢將訪問印度",
+      "url": "https://money.udn.com/money/story/5599/8996539",
+      "source": "money.udn.com",
+      "published": 1757504300
+    },
+    {
+      "id": "4a4e550496fc",
+      "title": "火箭军采购倒查9年 逾百供应商和74名评标专家被拉黑",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250910-%E7%81%AB%E7%AE%AD%E5%86%9B%E9%87%87%E8%B4%AD%E5%80%92%E6%9F%A59%E5%B9%B4-%E9%80%BE%E7%99%BE%E4%BE%9B%E5%BA%94%E5%95%86%E5%92%8C74%E5%90%8D%E8%AF%84%E6%A0%87%E4%B8%93%E5%AE%B6%E8%A2%AB%E6%8B%89%E9%BB%91",
+      "source": "rfi.fr",
+      "published": 1757504159
+    },
+    {
+      "id": "7c901a962a54",
+      "title": "役男新制上路挨批沒緩衝期 內政部：為防「假僑民、真逃兵」",
+      "url": "https://udn.com/news/story/10930/8996908",
+      "source": "udn.com",
+      "published": 1757504035
+    },
+    {
+      "id": "bab2aa9a5ccb",
+      "title": "波兰首次击落进犯俄罗斯无人机 华沙申请北约磋商",
+      "url": "https://www.dw.com/zh/波兰首次击落进犯俄罗斯无人机-华沙申请北约磋商/a-73948362?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1757503980
+    },
     {
       "id": "429c1e72ccaf",
       "title": "埃及居中協調　伊朗與國際原能署恢復核計畫合作",
       "url": "https://money.udn.com/money/story/5599/8996956",
       "source": "money.udn.com",
       "published": 1757503863
+    },
+    {
+      "id": "b74b3f05a8f2",
+      "title": "15縣市長捍衛補助款！黃敏惠批中央吃地方夠夠 一般性補助款名存實亡",
+      "url": "https://udn.com/news/story/124593/8996941",
+      "source": "udn.com",
+      "published": 1757503705
+    },
+    {
+      "id": "1e419168251a",
+      "title": "世界纪录的戒严时代38年又56天，台湾的民主时光终于比戒严多一天",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20250910-%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E7%9A%84%E6%88%92%E4%B8%A5%E6%97%B6%E4%BB%A338%E5%B9%B4%E5%8F%8856%E5%A4%A9%EF%BC%8C%E5%8F%B0%E6%B9%BE%E7%9A%84%E6%B0%91%E4%B8%BB%E6%97%B6%E5%85%89%E7%BB%88%E4%BA%8E%E6%AF%94%E6%88%92%E4%B8%A5%E5%A4%9A%E4%B8%80%E5%A4%A9",
+      "source": "rfi.fr",
+      "published": 1757503664
     },
     {
       "id": "8b5fb3a2c202",
@@ -49,6 +133,20 @@
       "url": "https://money.udn.com/money/story/5599/8996927",
       "source": "money.udn.com",
       "published": 1757503293
+    },
+    {
+      "id": "bfb07858619a",
+      "title": "中央減少補助54億元剝奪縣民權利 林茂盛喊「還給宜蘭」",
+      "url": "https://udn.com/news/story/124593/8996913",
+      "source": "udn.com",
+      "published": 1757502831
+    },
+    {
+      "id": "f7a83056a8b4",
+      "title": "15縣市攜手發聯合聲明 楊文科籲中央盡速撥付給地方經費",
+      "url": "https://udn.com/news/story/124593/8996896",
+      "source": "udn.com",
+      "published": 1757502564
     },
     {
       "id": "5bea1f5af447",
@@ -170,20 +268,6 @@
       "published": 1757498995
     },
     {
-      "id": "598bef675150",
-      "title": "以軍空襲卡達獵殺哈瑪斯高層創先例　重點一次看",
-      "url": "https://money.udn.com/money/story/5599/8996711",
-      "source": "money.udn.com",
-      "published": 1757498459
-    },
-    {
-      "id": "6980899f22ee",
-      "title": "俄羅斯無人機侵犯領空　波蘭：已請求北約啟動第四條款",
-      "url": "https://money.udn.com/money/story/5599/8996708",
-      "source": "money.udn.com",
-      "published": 1757498410
-    },
-    {
       "id": "82b1c923c63c",
       "title": "特朗普政府据报考虑对来自中国的药品采取严厉措施 或颠覆美国制药业",
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20250910-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8D%AE%E6%8A%A5%E8%80%83%E8%99%91%E5%AF%B9%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%8D%AF%E5%93%81%E9%87%87%E5%8F%96%E4%B8%A5%E5%8E%89%E6%8E%AA%E6%96%BD-%E6%88%96%E9%A2%A0%E8%A6%86%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%8D%AF%E4%B8%9A",
@@ -212,25 +296,11 @@
       "published": 1757497748
     },
     {
-      "id": "91cc204cd8a4",
-      "title": "機師違規喝酒誤事　日航致歉並宣布開除當事人",
-      "url": "https://money.udn.com/money/story/5599/8996639",
-      "source": "money.udn.com",
-      "published": 1757497050
-    },
-    {
       "id": "6d7af62a9162",
       "title": "屏縣將有46億元財政缺口 周春米：盼各縣市被公平對待",
       "url": "https://udn.com/news/story/124593/8996626",
       "source": "udn.com",
       "published": 1757496670
-    },
-    {
-      "id": "154dd926a8c6",
-      "title": "空襲卡達惹議　以色列大使：並非總依美國利益行事",
-      "url": "https://money.udn.com/money/story/10511/8996586",
-      "source": "money.udn.com",
-      "published": 1757496095
     },
     {
       "id": "958adff871cc",
@@ -252,13 +322,6 @@
       "url": "https://udn.com/news/story/124593/8996573",
       "source": "udn.com",
       "published": 1757495585
-    },
-    {
-      "id": "f5f639ddc611",
-      "title": "菲律賓民眾對台灣信任創新高　僅次美日澳",
-      "url": "https://money.udn.com/money/story/5599/8996568",
-      "source": "money.udn.com",
-      "published": 1757495556
     },
     {
       "id": "09a8b3625644",
@@ -366,46 +429,11 @@
       "published": 1757492047
     },
     {
-      "id": "9435b5f8997a",
-      "title": "柯文哲交保…學者分析北檢抗告「成功率不高」 預言藍綠白下一步",
-      "url": "https://udn.com/news/story/124589/8996237",
-      "source": "udn.com",
-      "published": 1757491954
-    },
-    {
       "id": "a0941e5b33f0",
       "title": "特朗普据报促欧盟对中印征收至多100%关税 以向普京施压",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250910-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8D%AE%E6%8A%A5%E4%BF%83%E6%AC%A7%E7%9B%9F%E5%AF%B9%E4%B8%AD%E5%9B%BD-%E5%8D%B0%E5%BA%A6%E5%BE%81%E6%94%B6%E8%87%B3%E5%A4%9A100-%E5%85%B3%E7%A8%8E-%E4%BB%A5%E5%90%91%E6%99%AE%E4%BA%AC%E6%96%BD%E5%8E%8B",
       "source": "rfi.fr",
       "published": 1757491574
-    },
-    {
-      "id": "f0ef69eb7330",
-      "title": "柯文哲交保北檢提抗告 卷證資料尚未送抵高院！今恐不會有結果",
-      "url": "https://udn.com/news/story/124589/8996379",
-      "source": "udn.com",
-      "published": 1757491414
-    },
-    {
-      "id": "bcc3d957d8af",
-      "title": "執政團隊隊形調整再出發 賴總統：經濟、民生、青年、弱勢優先",
-      "url": "https://udn.com/news/story/6656/8996315",
-      "source": "udn.com",
-      "published": 1757490484
-    },
-    {
-      "id": "c517fda688cc",
-      "title": "藍白15縣市長捍衛地方財源 黃敏惠批中央詐騙「吃地方夠夠」",
-      "url": "https://udn.com/news/story/124593/8996305",
-      "source": "udn.com",
-      "published": 1757490304
-    },
-    {
-      "id": "6fb31a37d090",
-      "title": "盧秀燕率15藍白縣市首長發表聯合聲明 捍衛地方財源",
-      "url": "https://udn.com/news/story/124593/8996300",
-      "source": "udn.com",
-      "published": 1757490169
     },
     {
       "id": "6e48041b2604",
@@ -695,20 +723,6 @@
       "published": 1757433600
     },
     {
-      "id": "12b1806b8e31",
-      "title": "黎智英之子:父亲若死在狱中将成为自由更强大的象征",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250909-%E9%BB%8E%E6%99%BA%E8%8B%B1%E4%B9%8B%E5%AD%90-%E7%88%B6%E4%BA%B2%E8%8B%A5%E6%AD%BB%E5%9C%A8%E7%8B%B1%E4%B8%AD%E5%B0%86%E6%88%90%E4%B8%BA%E8%87%AA%E7%94%B1%E6%9B%B4%E5%BC%BA%E5%A4%A7%E7%9A%84%E8%B1%A1%E5%BE%81",
-      "source": "rfi.fr",
-      "published": 1757428978
-    },
-    {
-      "id": "5f9e4d63684e",
-      "title": "法国政局再震荡：总理贝鲁倒台，总统马克龙陷入第四次组阁危机",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250909-%E6%B3%95%E5%9B%BD%E6%94%BF%E5%B1%80%E5%86%8D%E9%9C%87%E8%8D%A1-%E6%80%BB%E7%90%86%E8%B4%9D%E9%B2%81%E5%80%92%E5%8F%B0%EF%BC%8C%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E9%99%B7%E5%85%A5%E7%AC%AC%E5%9B%9B%E6%AC%A1%E7%BB%84%E9%98%81%E5%8D%B1%E6%9C%BA",
-      "source": "rfi.fr",
-      "published": 1757428015
-    },
-    {
       "id": "29c93794dc45",
       "title": "德语媒体：德国汽车和中国汽车的对决时刻",
       "url": "https://www.dw.com/zh/德语媒体：德国汽车和中国汽车的对决时刻/a-73936963?maca=chi-rss-chi-all-1127-rdf",
@@ -721,13 +735,6 @@
       "url": "https://www.dw.com/zh/慕尼黑车展：中美竞争加剧-梅尔茨力挺德汽车业/a-73936290?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757425920
-    },
-    {
-      "id": "a64d413a0ab6",
-      "title": "中国蒙古俄罗斯首次在三国边境举行联合军事演习",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250909-%E4%B8%AD%E5%9B%BD%E8%92%99%E5%8F%A4%E4%BF%84%E7%BD%97%E6%96%AF%E9%A6%96%E6%AC%A1%E5%9C%A8%E4%B8%89%E5%9B%BD%E8%BE%B9%E5%A2%83%E4%B8%BE%E8%A1%8C%E8%81%94%E5%90%88%E5%86%9B%E4%BA%8B%E6%BC%94%E4%B9%A0",
-      "source": "rfi.fr",
-      "published": 1757424474
     },
     {
       "id": "640700a08fd6",
@@ -891,13 +898,6 @@
       "published": 1757347200
     },
     {
-      "id": "b746b7700b80",
-      "title": "石破茂辞职如何影响日本政坛？",
-      "url": "https://www.dw.com/zh/石破茂辞职如何影响日本政坛？/a-73922726?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757341680
-    },
-    {
       "id": "3ff2dcf1b2b5",
       "title": "俄国家原子能公司筹备发行人民币债券",
       "url": "https://www.dw.com/zh/俄国家原子能公司筹备发行人民币债券/a-73922722?maca=chi-rss-chi-all-1127-rdf",
@@ -910,13 +910,6 @@
       "url": "https://www.dw.com/zh/德语媒体：中俄友谊的界限/a-73921330?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757337420
-    },
-    {
-      "id": "4ad7aaf73577",
-      "title": "8月中国外贸走弱 对美出口同比降三成",
-      "url": "https://www.dw.com/zh/8月中国外贸走弱-对美出口同比降三成/a-73918335?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757327280
     },
     {
       "id": "57ea6c5c1f81",
@@ -945,13 +938,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c79vzy4lx87o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1757311341
-    },
-    {
-      "id": "0748bbe50193",
-      "title": "特朗普对哈马斯下“最后警告”　以色列吁加沙城平民撤离",
-      "url": "https://www.dw.com/zh/特朗普对哈马斯下-最后警告-　以色列吁加沙城平民撤离/a-73910543?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757306100
     },
     {
       "id": "d3050d385a5e",
@@ -996,16 +982,16 @@
       "published": 1757256180
     },
     {
-      "id": "5a6af303def1",
-      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
-      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
+      "id": "2b49962d0710",
+      "title": "DW事实核查：如何识破AI伪造语音？",
+      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
     },
     {
-      "id": "2b49962d0710",
-      "title": "DW事实核查：如何识破AI伪造语音？",
-      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
+      "id": "5a6af303def1",
+      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
+      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
     },
@@ -1381,13 +1367,6 @@
       "published": 1756292040
     },
     {
-      "id": "36ee19770fca",
-      "title": "梅尔茨谴责以军空袭加沙医院：德国停供武器是对的",
-      "url": "https://www.dw.com/zh/梅尔茨谴责以军空袭加沙医院：德国停供武器是对的/a-73772879?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756219320
-    },
-    {
       "id": "6ae3b4bb4183",
       "title": "中国国航伦敦飞北京航班迫降西伯利亚",
       "url": "https://www.dw.com/zh/中国国航伦敦飞北京航班迫降西伯利亚/a-73770080?maca=chi-rss-chi-news-3224-rdf",
@@ -1400,7 +1379,28 @@
       "url": "https://www.dw.com/zh/展示向日葵的土地：艾未未深入-战争腹地-拍摄关于乌克兰的电影/a-73758262?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756122900
+    },
+    {
+      "id": "3970b41ddbef",
+      "title": "纠结多年 柏林一种族主义地名终于改了！",
+      "url": "https://www.dw.com/zh/纠结多年-柏林一种族主义地名终于改了！/a-73757955?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756119660
+    },
+    {
+      "id": "3de3f9f8b6d2",
+      "title": "德国小镇回收稀土 难敌中国竞争",
+      "url": "https://www.dw.com/zh/德国小镇回收稀土-难敌中国竞争/a-73721609?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756019520
+    },
+    {
+      "id": "6c937a324ca3",
+      "title": "DW事实核查：如何识破AI生成的新闻播报视频",
+      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai生成的新闻播报视频/a-73715623?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756019460
     }
   ],
-  "build_id": 1757503932
+  "build_id": 1757506670
 }
