@@ -1,6 +1,20 @@
 {
-  "updated": 1757626323,
+  "updated": 1757628550,
   "items": [
+    {
+      "id": "10d1bd763c4c",
+      "title": "稱性犯罪富豪艾普斯坦「至交」　英駐美大使遭撤職",
+      "url": "https://money.udn.com/money/story/5599/9000120",
+      "source": "money.udn.com",
+      "published": 1757628038
+    },
+    {
+      "id": "e9931b683435",
+      "title": "邱垂正明華府智庫發表演說 說明台海和平穩定重要性",
+      "url": "https://money.udn.com/money/story/5599/9000108",
+      "source": "money.udn.com",
+      "published": 1757626834
+    },
     {
       "id": "2768c8f0ff49",
       "title": "马克龙： 法将部署三架阵风战机“协助保护波兰领空”",
@@ -84,6 +98,13 @@
       "url": "https://money.udn.com/money/story/5599/9000081",
       "source": "money.udn.com",
       "published": 1757620473
+    },
+    {
+      "id": "a6e689f2c6b6",
+      "title": "让特朗普降半旗哀悼的盟友查理·柯克是谁？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250911-%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E9%99%8D%E5%8D%8A%E6%97%97%E5%93%80%E6%82%BC%E7%9A%84%E7%9B%9F%E5%8F%8B%E6%9F%A5%E7%90%86%C2%B7%E6%9F%AF%E5%85%8B%E6%98%AF%E8%B0%81",
+      "source": "rfi.fr",
+      "published": 1757619793
     },
     {
       "id": "e16cec44ce9e",
@@ -224,20 +245,6 @@
       "url": "https://money.udn.com/money/story/5599/9000037",
       "source": "money.udn.com",
       "published": 1757611287
-    },
-    {
-      "id": "9008ec5a1db8",
-      "title": "8月核心CPI升幅符合預估 美通膨未惡化 降息成定局",
-      "url": "https://money.udn.com/money/story/5599/8999825",
-      "source": "money.udn.com",
-      "published": 1757609747
-    },
-    {
-      "id": "1888af489e21",
-      "title": "川普掌控Fed 雙軌並進",
-      "url": "https://money.udn.com/money/story/5599/8999829",
-      "source": "money.udn.com",
-      "published": 1757609647
     },
     {
       "id": "c321a47e2656",
@@ -553,13 +560,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250911-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E5%B0%86%E5%8F%91%E8%A1%A8%E6%9C%89%E5%85%B3%E4%BA%8C%E6%88%98%E7%9A%84-%E9%A6%96%E7%9B%B8%E8%A7%81%E8%A7%A3",
       "source": "rfi.fr",
       "published": 1757580820
-    },
-    {
-      "id": "86c3a0353190",
-      "title": "中国网信办下令查处  “小红书”  称其“破坏网路生态”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250911-%E4%B8%AD%E5%9B%BD%E7%BD%91%E4%BF%A1%E5%8A%9E%E4%B8%8B%E4%BB%A4%E6%9F%A5%E5%A4%84-%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E7%A7%B0%E5%85%B6-%E7%A0%B4%E5%9D%8F%E7%BD%91%E8%B7%AF%E7%94%9F%E6%80%81",
-      "source": "rfi.fr",
-      "published": 1757580328
     },
     {
       "id": "68ab968933d6",
@@ -1402,5 +1402,5 @@
       "published": 1756122900
     }
   ],
-  "build_id": 1757626323
+  "build_id": 1757628550
 }
