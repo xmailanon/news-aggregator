@@ -1,6 +1,20 @@
 {
-  "updated": 1757619118,
+  "updated": 1757621314,
   "items": [
+    {
+      "id": "527aebc2d9c3",
+      "title": "美国保守派青年领袖柯克遭暗杀 政治仇恨升至新高度",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250911-%E7%BE%8E%E5%9B%BD%E4%BF%9D%E5%AE%88%E6%B4%BE%E9%9D%92%E5%B9%B4%E9%A2%86%E8%A2%96%E6%9F%AF%E5%85%8B%E9%81%AD%E6%9A%97%E6%9D%80-%E6%94%BF%E6%B2%BB%E4%BB%87%E6%81%A8%E5%8D%87%E8%87%B3%E6%96%B0%E9%AB%98%E5%BA%A6",
+      "source": "rfi.fr",
+      "published": 1757621179
+    },
+    {
+      "id": "2a86b947c7a5",
+      "title": "尼坦雅胡誓言：永遠不會有巴勒斯坦國",
+      "url": "https://money.udn.com/money/story/5599/9000081",
+      "source": "money.udn.com",
+      "published": 1757620473
+    },
     {
       "id": "e16cec44ce9e",
       "title": "獨／M60A3戰車性能提升射控觀瞄系統性能優異 中科院將與美商簽約外銷",
@@ -273,13 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/8999985",
       "source": "money.udn.com",
       "published": 1757605951
-    },
-    {
-      "id": "29db039cda85",
-      "title": "經濟轉弱 美股到底漲什麼勁？4個理由解惑",
-      "url": "https://money.udn.com/money/story/122381/8999967",
-      "source": "money.udn.com",
-      "published": 1757605438
     },
     {
       "id": "7781111babbb",
@@ -630,13 +637,6 @@
       "url": "https://cn.nytimes.com/opinion/20250911/universities-science-trump-china/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1757534799
-    },
-    {
-      "id": "0dc8436c782b",
-      "title": "雪山下Z世代的起义 撼动尼泊尔政局",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250910-%E5%B0%BC%E6%B3%8A%E5%B0%94-00%E5%90%8E-%E7%88%86%E5%8F%91%E6%8A%97%E8%AE%AE-%E8%BF%AB%E4%BD%BF%E6%80%BB%E7%90%86%E8%BE%9E%E8%81%8C%E5%87%BA%E9%80%83",
-      "source": "rfi.fr",
-      "published": 1757533888
     },
     {
       "id": "89c26386da74",
@@ -1402,5 +1402,5 @@
       "published": 1756122900
     }
   ],
-  "build_id": 1757619118
+  "build_id": 1757621314
 }
