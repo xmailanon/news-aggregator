@@ -1,6 +1,27 @@
 {
-  "updated": 1757628550,
+  "updated": 1757630074,
   "items": [
+    {
+      "id": "c61d811f05e6",
+      "title": "数百名被捕韩国劳工9月11日搭包机离开美国",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250911-%E6%95%B0%E7%99%BE%E5%90%8D%E8%A2%AB%E6%8D%95%E9%9F%A9%E5%9B%BD%E5%8A%B3%E5%B7%A59%E6%9C%8811%E6%97%A5%E6%90%AD%E5%8C%85%E6%9C%BA%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1757629974
+    },
+    {
+      "id": "0603de8d64db",
+      "title": "法国议会狠批TikTok：“最糟糕的社交网络之一”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20250911-%E6%B3%95%E5%9B%BD%E8%AE%AE%E4%BC%9A%E7%8B%A0%E6%89%B9tiktok-%E6%9C%80%E7%B3%9F%E7%B3%95%E7%9A%84%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E4%B9%8B%E4%B8%80",
+      "source": "rfi.fr",
+      "published": 1757629397
+    },
+    {
+      "id": "2edf9c440d11",
+      "title": "企業設廠爆簽證疑慮 美商長：擬給短期簽 訓練完本地勞工就回家",
+      "url": "https://money.udn.com/money/story/5599/9000143",
+      "source": "money.udn.com",
+      "published": 1757629354
+    },
     {
       "id": "10d1bd763c4c",
       "title": "稱性犯罪富豪艾普斯坦「至交」　英駐美大使遭撤職",
@@ -238,13 +259,6 @@
       "url": "https://money.udn.com/money/story/10511/9000048",
       "source": "money.udn.com",
       "published": 1757611807
-    },
-    {
-      "id": "704968c10618",
-      "title": "美商務部長：即將與台灣達成重大協議",
-      "url": "https://money.udn.com/money/story/5599/9000037",
-      "source": "money.udn.com",
-      "published": 1757611287
     },
     {
       "id": "c321a47e2656",
@@ -541,25 +555,11 @@
       "published": 1757581546
     },
     {
-      "id": "fcc4fa6515bd",
-      "title": "美国通过2026年度美国国防授权法案「台湾安全合作倡议」援助金额增加三倍到10亿美元",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250911-%E7%BE%8E%E5%9B%BD%E9%80%9A%E8%BF%872026%E5%B9%B4%E5%BA%A6%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E6%8E%88%E6%9D%83%E6%B3%95-%E5%8F%B0%E6%B9%BE%E5%AE%89%E5%85%A8%E5%90%88%E4%BD%9C%E5%80%A1%E8%AE%AE-%E6%8F%B4%E5%8A%A9%E9%87%91%E9%A2%9D%E5%A2%9E%E5%8A%A0%E4%B8%89%E5%80%8D%E5%88%B010%E4%BA%BF%E7%BE%8E%E5%85%83",
-      "source": "rfi.fr",
-      "published": 1757581037
-    },
-    {
       "id": "dcae7c234078",
       "title": "特朗普知名盟友柯克遭槍殺震盪全美 曾助右翼大吸年輕選票",
       "url": "https://www.bbc.com/zhongwen/articles/ckgzywnpepxo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1757580948
-    },
-    {
-      "id": "d98eb421c76c",
-      "title": "日本首相将发表有关二战的“首相见解”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250911-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E5%B0%86%E5%8F%91%E8%A1%A8%E6%9C%89%E5%85%B3%E4%BA%8C%E6%88%98%E7%9A%84-%E9%A6%96%E7%9B%B8%E8%A7%81%E8%A7%A3",
-      "source": "rfi.fr",
-      "published": 1757580820
     },
     {
       "id": "68ab968933d6",
@@ -1402,5 +1402,5 @@
       "published": 1756122900
     }
   ],
-  "build_id": 1757628550
+  "build_id": 1757630074
 }
