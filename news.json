@@ -1,6 +1,62 @@
 {
-  "updated": 1757588857,
+  "updated": 1757590329,
   "items": [
+    {
+      "id": "0bebfef6dc1d",
+      "title": "川普盟友柯克遇襲身亡 當局追捕在逃槍手",
+      "url": "https://money.udn.com/money/story/10511/8999441",
+      "source": "money.udn.com",
+      "published": 1757590238
+    },
+    {
+      "id": "83080c9f0d35",
+      "title": "反制俄無人機入侵　波蘭限制東部邊境空域飛行",
+      "url": "https://money.udn.com/money/story/5599/8999444",
+      "source": "money.udn.com",
+      "published": 1757590237
+    },
+    {
+      "id": "5fb7bac615f1",
+      "title": "花旗自行調查財富管理業務高管後 執行長稱對結果滿意",
+      "url": "https://money.udn.com/money/story/5599/8998854",
+      "source": "money.udn.com",
+      "published": 1757589907
+    },
+    {
+      "id": "ff4d482e5d6b",
+      "title": "印度據悉計畫維持下半財年舉債計畫 不會削減資本支出",
+      "url": "https://money.udn.com/money/story/5599/8999014",
+      "source": "money.udn.com",
+      "published": 1757589716
+    },
+    {
+      "id": "9b94a87f56f2",
+      "title": "英中貿易協會總裁預計英國首相施凱爾將於2026年初訪問中國大陸",
+      "url": "https://money.udn.com/money/story/5599/8998855",
+      "source": "money.udn.com",
+      "published": 1757589470
+    },
+    {
+      "id": "243370197a13",
+      "title": "司法院送出刑事訴訟法修正草案 兒少性剝削、詐欺增修預防性羈押",
+      "url": "https://udn.com/news/story/7314/8999410",
+      "source": "udn.com",
+      "published": 1757589076
+    },
+    {
+      "id": "4bebc36e68d8",
+      "title": "漁業署試辦遠洋漁船視訊醫療 衛星連線看診",
+      "url": "https://udn.com/news/story/7314/8999352",
+      "source": "udn.com",
+      "published": 1757588407
+    },
+    {
+      "id": "ce02d3b7877a",
+      "title": "台南初選民調曝光！陳亭妃大勝謝龍介 領先林俊憲17個百分點",
+      "url": "https://udn.com/news/story/6656/8999368",
+      "source": "udn.com",
+      "published": 1757588204
+    },
     {
       "id": "6a311373d615",
       "title": "中国据报考虑处理地方政府拖欠民企账款问题 首阶段或涉资万亿",
@@ -317,20 +373,6 @@
       "published": 1757579795
     },
     {
-      "id": "f620bf7d3a79",
-      "title": "墨西哥擬徵收中國汽車50%關稅  北京：堅決反對設限",
-      "url": "https://money.udn.com/money/story/5599/8999026",
-      "source": "money.udn.com",
-      "published": 1757579795
-    },
-    {
-      "id": "6719a69f4163",
-      "title": "政院拍板！卓榮泰稱「公布1個月內普發現金」 5大領取方式曝光",
-      "url": "https://udn.com/news/story/6656/8999021",
-      "source": "udn.com",
-      "published": 1757579630
-    },
-    {
       "id": "62b491296da2",
       "title": "台行政院会通过韧性特别预算案 顾立雄：战备存量可增至120天",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250911-%E5%8F%B0%E8%A1%8C%E6%94%BF%E9%99%A2%E4%BC%9A%E9%80%9A%E8%BF%87%E9%9F%A7%E6%80%A7%E7%89%B9%E5%88%AB%E9%A2%84%E7%AE%97%E6%A1%88-%E9%A1%BE%E7%AB%8B%E9%9B%84-%E6%88%98%E5%A4%87%E5%AD%98%E9%87%8F%E5%8F%AF%E5%A2%9E%E8%87%B3120%E5%A4%A9",
@@ -345,20 +387,6 @@
       "published": 1757578890
     },
     {
-      "id": "55ae2b695a6f",
-      "title": "刺激運動經濟與內需 李洋：研議擴大動滋券適用年齡",
-      "url": "https://udn.com/news/story/7314/8998991",
-      "source": "udn.com",
-      "published": 1757578833
-    },
-    {
-      "id": "cade9557f143",
-      "title": "韌性預算海巡署共編列295億元 含新建40艘海巡艦艇",
-      "url": "https://udn.com/news/story/10930/8998987",
-      "source": "udn.com",
-      "published": 1757578787
-    },
-    {
       "id": "421f951108b8",
       "title": "墨西哥拟对进口中国汽车征收50%关税 对钢铁、纺织品等征关税",
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20250911-%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%8B%9F%E5%AF%B9%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%BE%81%E6%94%B650-%E5%85%B3%E7%A8%8E-%E5%AF%B9%E9%92%A2%E9%93%81-%E7%BA%BA%E7%BB%87%E5%93%81%E7%AD%89%E5%BE%81%E5%85%B3%E7%A8%8E",
@@ -366,39 +394,11 @@
       "published": 1757577876
     },
     {
-      "id": "c27e999c741c",
-      "title": "加拿大省長率經貿團訪中  中國流亡企業家敲警鐘",
-      "url": "https://money.udn.com/money/story/5599/8998933",
-      "source": "money.udn.com",
-      "published": 1757577689
-    },
-    {
       "id": "312d33f761ab",
       "title": "新香港立法会首度否决政府草案 同志平权草案夭折 留冲击法治争议",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250911-%E6%96%B0%E9%A6%99%E6%B8%AF%E7%AB%8B%E6%B3%95%E4%BC%9A%E9%A6%96%E5%BA%A6%E5%90%A6%E5%86%B3%E6%94%BF%E5%BA%9C%E8%8D%89%E6%A1%88-%E5%90%8C%E5%BF%97%E5%B9%B3%E6%9D%83%E8%8D%89%E6%A1%88%E5%A4%AD%E6%8A%98-%E7%95%99%E5%86%B2%E5%87%BB%E6%B3%95%E6%B2%BB%E4%BA%89%E8%AE%AE",
       "source": "rfi.fr",
       "published": 1757576907
-    },
-    {
-      "id": "cede3ccece6c",
-      "title": "馬來西亞廉航擬購買中國C919客機",
-      "url": "https://money.udn.com/money/story/5599/8998895",
-      "source": "money.udn.com",
-      "published": 1757576740
-    },
-    {
-      "id": "9c5b9e3432ec",
-      "title": "柯克遇刺引憂　專家：政治暴力惡性循環恐加劇",
-      "url": "https://money.udn.com/money/story/5599/8998866",
-      "source": "money.udn.com",
-      "published": 1757575851
-    },
-    {
-      "id": "83fe7ba2755e",
-      "title": "法國會委員會建議　禁止15歲以下兒童使用社群媒體",
-      "url": "https://money.udn.com/money/story/5599/8998860",
-      "source": "money.udn.com",
-      "published": 1757575851
     },
     {
       "id": "68ab968933d6",
@@ -1080,16 +1080,16 @@
       "published": 1757256180
     },
     {
-      "id": "2b49962d0710",
-      "title": "DW事实核查：如何识破AI伪造语音？",
-      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
+      "id": "5a6af303def1",
+      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
+      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
     },
     {
-      "id": "5a6af303def1",
-      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
-      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
+      "id": "2b49962d0710",
+      "title": "DW事实核查：如何识破AI伪造语音？",
+      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
     },
@@ -1402,5 +1402,5 @@
       "published": 1756019520
     }
   ],
-  "build_id": 1757588857
+  "build_id": 1757590329
 }
