@@ -1,6 +1,13 @@
 {
-  "updated": 1757616115,
+  "updated": 1757617649,
   "items": [
+    {
+      "id": "27603480f984",
+      "title": "邱垂正會美兩黨議員 說明中共統戰部門假資訊行動",
+      "url": "https://udn.com/news/story/6656/9000058",
+      "source": "udn.com",
+      "published": 1757616424
+    },
     {
       "id": "ca306357f4c0",
       "title": "賴政府認證普發現金「照顧民生」 國民黨酸：怎不早說？",
@@ -21,13 +28,6 @@
       "url": "https://money.udn.com/money/story/5599/9000059",
       "source": "money.udn.com",
       "published": 1757614889
-    },
-    {
-      "id": "03bfab9f7f74",
-      "title": "歐元區經濟穩健 利率不動 符合市場預期  ECB 認定通膨壓力已受控制",
-      "url": "https://money.udn.com/money/story/5599/8999853",
-      "source": "money.udn.com",
-      "published": 1757614717
     },
     {
       "id": "15249443ff16",
@@ -66,7 +66,7 @@
     },
     {
       "id": "55e7d5ba7dca",
-      "title": "川普盟友中彈 催化消費者提前搶買 預期管制將變嚴格 助漲槍枝股",
+      "title": "川普盟友中彈 預期管制將變嚴格 催化消費者提前搶買 助漲槍枝股",
       "url": "https://money.udn.com/money/story/123398/8999820",
       "source": "money.udn.com",
       "published": 1757614237
@@ -93,9 +93,9 @@
       "published": 1757613727
     },
     {
-      "id": "b7fe0028d649",
+      "id": "d5905582c33c",
       "title": "聲援柯文哲 張亞中：拒絕政治羈押 還台灣社會公道",
-      "url": "https://udn.com/news/story/6656/9000053",
+      "url": "https://udn.com/news/story/124589/9000053",
       "source": "udn.com",
       "published": 1757613424
     },
@@ -205,6 +205,13 @@
       "published": 1757607390
     },
     {
+      "id": "03bfab9f7f74",
+      "title": "歐元區經濟穩健 利率不動 符合市場預期 認定通膨壓力已受控制",
+      "url": "https://money.udn.com/money/story/5599/8999853",
+      "source": "money.udn.com",
+      "published": 1757607037
+    },
+    {
       "id": "ca27bb469453",
       "title": "「台灣安全合作倡議」 預算從3億美元上調至10億美元",
       "url": "https://udn.com/news/story/10930/8999917",
@@ -212,9 +219,23 @@
       "published": 1757606406
     },
     {
+      "id": "5c98a4e1c21c",
+      "title": "柯文哲交保被控接觸證人 檢辯舌戰",
+      "url": "https://udn.com/news/story/124589/8999799",
+      "source": "udn.com",
+      "published": 1757606400
+    },
+    {
       "id": "071a1b8661b0",
       "title": "歷史上的今天／1964年孔祥熙慶賀86歲 圓山飯店辦祝壽會",
       "url": "https://udn.com/news/story/7314/8997736",
+      "source": "udn.com",
+      "published": 1757606400
+    },
+    {
+      "id": "735f0acae339",
+      "title": "柯批編故事 檢暗喻周榆修作偽證",
+      "url": "https://udn.com/news/story/124589/8999801",
       "source": "udn.com",
       "published": 1757606400
     },
@@ -262,22 +283,22 @@
     },
     {
       "id": "772776a3059e",
-      "title": "在野：失言第一名 是賴清德總統",
+      "title": "把首長當小學生？ 在野：失言第一名 是賴清德總統",
       "url": "https://udn.com/news/story/6656/8999854",
       "source": "udn.com",
       "published": 1757603606
     },
     {
-      "id": "8f91c82e6bc3",
-      "title": "學者：政院新戰略 避免論述出包",
-      "url": "https://udn.com/news/story/6656/8999855",
+      "id": "80c1a31399f7",
+      "title": "冷眼集／挽回民心 賴政府又畫錯重點",
+      "url": "https://udn.com/news/story/6656/8999859",
       "source": "udn.com",
       "published": 1757603605
     },
     {
-      "id": "80c1a31399f7",
-      "title": "冷眼集／挽回民心 賴政府又畫錯重點",
-      "url": "https://udn.com/news/story/6656/8999859",
+      "id": "8f91c82e6bc3",
+      "title": "郭智輝效應？ 學者：政院新戰略 避免論述出包",
+      "url": "https://udn.com/news/story/6656/8999855",
       "source": "udn.com",
       "published": 1757603605
     },
@@ -315,27 +336,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250911-%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%9C%A8%E6%89%80%E7%BD%97%E9%97%A8%E7%BE%A4%E5%B2%9B%E4%BB%8B%E7%BB%8D-%E6%9E%AB%E6%A1%A5%E7%BB%8F%E9%AA%8C-%E5%BC%80%E5%B1%95%E8%AF%95%E7%82%B9%E9%A1%B9%E7%9B%AE",
       "source": "rfi.fr",
       "published": 1757601237
-    },
-    {
-      "id": "93b1896da435",
-      "title": "新財劃法爭議延燒 桃園堅持公式沒問題？副市長親上「數學課」解惑",
-      "url": "https://udn.com/news/story/124593/8999747",
-      "source": "udn.com",
-      "published": 1757600686
-    },
-    {
-      "id": "fc926082ad44",
-      "title": "台大2狼醫遭判刑醫師公會提強制撤照、停業年限改革",
-      "url": "https://udn.com/news/story/6656/8999738",
-      "source": "udn.com",
-      "published": 1757600524
-    },
-    {
-      "id": "552b743f4bc8",
-      "title": "「一出門就能感受溫暖」柯文哲感謝小草 盼粉絲認真快樂過每一天",
-      "url": "https://udn.com/news/story/124589/8999729",
-      "source": "udn.com",
-      "published": 1757600131
     },
     {
       "id": "b353599ea47a",
@@ -1402,5 +1402,5 @@
       "published": 1756122900
     }
   ],
-  "build_id": 1757616115
+  "build_id": 1757617649
 }
