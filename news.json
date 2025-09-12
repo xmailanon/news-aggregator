@@ -1,6 +1,13 @@
 {
-  "updated": 1757718516,
+  "updated": 1757719907,
   "items": [
+    {
+      "id": "ea5b67a712bf",
+      "title": "波蘭領空遭入侵　法國派戰機協防並召見俄國大使",
+      "url": "https://money.udn.com/money/story/5599/9002355",
+      "source": "money.udn.com",
+      "published": 1757719850
+    },
     {
       "id": "c11ea298c7a1",
       "title": "民主剛果西北部兩船難　至少193人喪生多人失蹤",
@@ -357,13 +364,6 @@
       "url": "https://money.udn.com/money/story/5599/9000240",
       "source": "money.udn.com",
       "published": 1757691960
-    },
-    {
-      "id": "7389051715d7",
-      "title": "OpenAI 與微軟就合作架構達成初步共識",
-      "url": "https://money.udn.com/money/story/5599/9000242",
-      "source": "money.udn.com",
-      "published": 1757691776
     },
     {
       "id": "0623f2e9af5b",
@@ -1402,5 +1402,5 @@
       "published": 1756355400
     }
   ],
-  "build_id": 1757718516
+  "build_id": 1757719907
 }
