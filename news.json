@@ -1,17 +1,31 @@
 {
-  "updated": 1757671802,
+  "updated": 1757673524,
   "items": [
     {
-      "id": "77b1092ae459",
-      "title": "聯合國大會將表決紐約宣言　盼落實以巴兩國方案",
-      "url": "https://money.udn.com/money/story/5599/9001578",
+      "id": "64ca3e8370c4",
+      "title": "英国新外相访问基辅 宣布制裁100个人实体包括1家深圳公司",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250912-%E8%8B%B1%E5%9B%BD%E6%96%B0%E5%A4%96%E7%9B%B8%E8%AE%BF%E9%97%AE%E5%9F%BA%E8%BE%85-%E5%AE%A3%E5%B8%83%E5%88%B6%E8%A3%81100%E4%B8%AA%E4%BA%BA%E5%AE%9E%E4%BD%93%E5%8C%85%E6%8B%AC1%E5%AE%B6%E6%B7%B1%E5%9C%B3%E5%85%AC%E5%8F%B8",
+      "source": "rfi.fr",
+      "published": 1757672246
+    },
+    {
+      "id": "240263cdf5e2",
+      "title": "記憶體漲勢恐延至Q4 美光今起停止所有DRAM產品報價一周",
+      "url": "https://money.udn.com/money/story/5599/9001612",
       "source": "money.udn.com",
-      "published": 1757671292
+      "published": 1757671860
     },
     {
       "id": "400120640df1",
       "title": "亞股多追隨美股漲勢收高　聯準會降息幾成定局",
       "url": "https://money.udn.com/money/story/5599/9001585",
+      "source": "money.udn.com",
+      "published": 1757671292
+    },
+    {
+      "id": "77b1092ae459",
+      "title": "聯合國大會將表決紐約宣言　盼落實以巴兩國方案",
+      "url": "https://money.udn.com/money/story/5599/9001578",
       "source": "money.udn.com",
       "published": 1757671292
     },
@@ -366,13 +380,6 @@
       "published": 1757658193
     },
     {
-      "id": "ec120767afee",
-      "title": "美日重申匯率應由市場決定　未提及匯率具體目標",
-      "url": "https://money.udn.com/money/story/5599/9001043",
-      "source": "money.udn.com",
-      "published": 1757657170
-    },
-    {
       "id": "69ca7a00a544",
       "title": "林肯到甘迺迪特朗普：美國歷史上的政治暗殺",
       "url": "https://www.bbc.com/zhongwen/articles/ckg3893n7pyo/trad?at_medium=RSS&at_campaign=rss",
@@ -700,13 +707,6 @@
       "url": "https://www.dw.com/zh/住所办公室被搜查-德选择党政客克拉被取消豁免/a-73965589?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757602020
-    },
-    {
-      "id": "8ade5437e85f",
-      "title": "俄军19无人机闯波兰领空：预示乌克兰战争外延的信号？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20250911-%E4%BF%84%E5%86%9B19%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%97%AF%E6%B3%A2%E5%85%B0%E9%A2%86%E7%A9%BA-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%E5%A4%96%E5%BB%B6%E7%9A%84%E4%BF%A1%E5%8F%B7",
-      "source": "rfi.fr",
-      "published": 1757601870
     },
     {
       "id": "94f942fdd44b",
@@ -1402,5 +1402,5 @@
       "published": 1756292040
     }
   ],
-  "build_id": 1757671802
+  "build_id": 1757673524
 }
