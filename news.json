@@ -1,6 +1,13 @@
 {
-  "updated": 1757712710,
+  "updated": 1757714915,
   "items": [
+    {
+      "id": "ac5f83105393",
+      "title": "「视频」因应两岸紧张情势，台湾发布新版民防手册",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20250912-%E8%A7%86%E9%A2%91-%E5%9B%A0%E5%BA%94%E4%B8%A4%E5%B2%B8%E7%B4%A7%E5%BC%A0%E6%83%85%E5%8A%BF%EF%BC%8C%E5%8F%B0%E6%B9%BE%E5%8F%91%E5%B8%83%E6%96%B0%E7%89%88%E6%B0%91%E9%98%B2%E6%89%8B%E5%86%8C",
+      "source": "rfi.fr",
+      "published": 1757713230
+    },
     {
       "id": "112e3bca8e14",
       "title": "联大表决支持没有哈马斯的巴以两国方案",
@@ -175,6 +182,13 @@
       "url": "https://money.udn.com/money/story/5599/9002235",
       "source": "money.udn.com",
       "published": 1757696789
+    },
+    {
+      "id": "99a046bd15f0",
+      "title": "談判新進度…台美待總結性會商 經貿辦強調持續推動進展",
+      "url": "https://udn.com/news/story/6656/9002138",
+      "source": "udn.com",
+      "published": 1757695421
     },
     {
       "id": "40e1bf865983",
@@ -436,13 +450,6 @@
       "published": 1757683120
     },
     {
-      "id": "c03005e09645",
-      "title": "陳其邁批財劃法不公要立院快修法 羅智強嗆：應找卓榮泰收回成命",
-      "url": "https://udn.com/news/story/124593/9001886",
-      "source": "udn.com",
-      "published": 1757682876
-    },
-    {
       "id": "ed15fc74385a",
       "title": "关税、经济放缓、双边关系紧张，美企正在告别中国",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20250912-%E5%85%B3%E7%A8%8E-%E7%BB%8F%E6%B5%8E%E6%94%BE%E7%BC%93-%E5%8F%8C%E8%BE%B9%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%EF%BC%8C%E7%BE%8E%E4%BC%81%E6%AD%A3%E5%9C%A8%E5%91%8A%E5%88%AB%E4%B8%AD%E5%9B%BD",
@@ -553,13 +560,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250912-%E5%8F%B0%E6%B9%BE%E5%85%AC%E5%8A%A1%E5%91%98%E8%B5%B4%E6%B8%AF%E9%A1%BB%E5%85%88%E9%80%9A%E6%8A%A5-%E8%BF%9D%E8%80%85%E6%98%8E%E5%B9%B47%E6%9C%88%E8%B5%B7%E5%B0%86%E5%8F%97%E7%BD%9A",
       "source": "rfi.fr",
       "published": 1757665090
-    },
-    {
-      "id": "21e6d66429fd",
-      "title": "美国将敦促七国集团对中印加征关税 知情人士：美提议在50%到100%之间",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250912-%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%95%A6%E4%BF%83%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%AF%B9%E4%B8%AD%E5%8D%B0%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E-%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB-%E7%BE%8E%E6%8F%90%E8%AE%AE%E5%9C%A850-%E5%88%B0100-%E4%B9%8B%E9%97%B4",
-      "source": "rfi.fr",
-      "published": 1757664955
     },
     {
       "id": "99e38e603713",
@@ -1402,5 +1402,5 @@
       "published": 1756349662
     }
   ],
-  "build_id": 1757712710
+  "build_id": 1757714915
 }
