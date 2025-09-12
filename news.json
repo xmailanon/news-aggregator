@@ -1,6 +1,34 @@
 {
-  "updated": 1757687899,
+  "updated": 1757689772,
   "items": [
+    {
+      "id": "2fa9ddb6418a",
+      "title": "石破茂請辭前夜　小泉進次郎曝與菅義偉3人會談內幕",
+      "url": "https://money.udn.com/money/story/5599/9002034",
+      "source": "money.udn.com",
+      "published": 1757689247
+    },
+    {
+      "id": "ef91d9fb38c1",
+      "title": "柯克遭刺殺後　「南方四賤客」諧擬劇集停止重播",
+      "url": "https://money.udn.com/money/story/5599/9002024",
+      "source": "money.udn.com",
+      "published": 1757688885
+    },
+    {
+      "id": "fc6d1b600024",
+      "title": "美驱逐舰与英护卫舰穿越台湾海峡",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250912-%E7%BE%8E%E9%A9%B1%E9%80%90%E8%88%B0%E4%B8%8E%E8%8B%B1%E6%8A%A4%E5%8D%AB%E8%88%B0%E7%A9%BF%E8%B6%8A%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1",
+      "source": "rfi.fr",
+      "published": 1757688686
+    },
+    {
+      "id": "1277d736ee4a",
+      "title": "川普盟友柯克遭槍擊身亡 嫌犯因家人通報而落網",
+      "url": "https://money.udn.com/money/story/5599/9002014",
+      "source": "money.udn.com",
+      "published": 1757688509
+    },
     {
       "id": "5964a511282f",
       "title": "猶他州州長公布槍殺柯克男嫌身分 家人透露他曾談及柯克散播仇恨",
@@ -189,27 +217,6 @@
       "url": "https://udn.com/news/story/124593/9001886",
       "source": "udn.com",
       "published": 1757682876
-    },
-    {
-      "id": "a5dd9969c16d",
-      "title": "保守派知名演說家遭槍擊 川普：嫌犯已被拘留",
-      "url": "https://money.udn.com/money/story/10511/9001833",
-      "source": "money.udn.com",
-      "published": 1757682810
-    },
-    {
-      "id": "52904ae8ccf9",
-      "title": "不去芝加哥了！川普宣布聯邦政府協助掃蕩曼菲斯治安",
-      "url": "https://money.udn.com/money/story/10511/9001836",
-      "source": "money.udn.com",
-      "published": 1757682809
-    },
-    {
-      "id": "4536854b9e30",
-      "title": "聯合航空客機迫降日本關西機場　2乘客輕傷",
-      "url": "https://money.udn.com/money/story/5599/9001881",
-      "source": "money.udn.com",
-      "published": 1757682735
     },
     {
       "id": "ed15fc74385a",
@@ -576,13 +583,6 @@
       "published": 1757625208
     },
     {
-      "id": "efd81ad580b8",
-      "title": "耶路撒冷法国圣经与考古学院转移考古珍品",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20250911-%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E6%B3%95%E5%9B%BD%E5%9C%A3%E7%BB%8F%E4%B8%8E%E8%80%83%E5%8F%A4%E5%AD%A6%E9%99%A2%E8%BD%AC%E7%A7%BB%E8%80%83%E5%8F%A4%E7%8F%8D%E5%93%81",
-      "source": "rfi.fr",
-      "published": 1757625112
-    },
-    {
       "id": "9c1e8f2d45bc",
       "title": "特朗普惹怒长期盟友，日韩对贸易协议不满加剧",
       "url": "https://cn.nytimes.com/business/20250912/south-korea-japan-trump-trade/?utm_source=RSS",
@@ -947,13 +947,6 @@
       "published": 1757515560
     },
     {
-      "id": "b17ffa3e3b77",
-      "title": "香港71比14否決同性伴侶登記制度 立法會首度推翻政府法案",
-      "url": "https://www.dw.com/zh/香港71比14否決同性伴侶登記制度-立法會首度推翻政府法案/a-73952526?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757514600
-    },
-    {
       "id": "84b391987898",
       "title": "德语媒体：“新世界秩序”只是一个神话",
       "url": "https://www.dw.com/zh/德语媒体：-新世界秩序-只是一个神话/a-73952064?maca=chi-rss-chi-all-1127-rdf",
@@ -966,13 +959,6 @@
       "url": "https://www.dw.com/zh/美印转调？特朗普计划与莫迪会谈-贸易协议有望达成/a-73951919?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757513460
-    },
-    {
-      "id": "e65a04e6b490",
-      "title": "欧盟或将部分中国炼油厂纳入最新对俄制裁名单",
-      "url": "https://www.dw.com/zh/欧盟或将部分中国炼油厂纳入最新对俄制裁名单/a-73951810?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757513040
     },
     {
       "id": "bab2aa9a5ccb",
@@ -1400,7 +1386,21 @@
       "url": "https://www.dw.com/zh/习莫普天津会晤：金砖国家被特朗普越挫越旺？/a-73819601?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756551120
+    },
+    {
+      "id": "df59979dfde2",
+      "title": "美國明州天主教小學槍擊案釀20人傷亡",
+      "url": "https://www.dw.com/zh/美國明州天主教小學槍擊案釀20人傷亡/a-73790255?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1756355400
+    },
+    {
+      "id": "b38539b21827",
+      "title": "普京金正恩確定參加93閱兵，如何觀察背後的權力展示、智能戰爭、盟友變遷以及兩岸角力",
+      "url": "https://www.bbc.com/zhongwen/articles/cwy0j4gl957o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1756349662
     }
   ],
-  "build_id": 1757687899
+  "build_id": 1757689772
 }
