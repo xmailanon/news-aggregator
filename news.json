@@ -1,19 +1,89 @@
 {
-  "updated": 1757679516,
+  "updated": 1757681870,
   "items": [
+    {
+      "id": "cea80b434ae7",
+      "title": "川普斡旋未果　克里姆林宮：俄烏和談處於暫停",
+      "url": "https://money.udn.com/money/story/5599/9001837",
+      "source": "money.udn.com",
+      "published": 1757681112
+    },
+    {
+      "id": "2fd99a8c091f",
+      "title": "印尼加大資源行業整頓查封鎳礦 其中涉及青山控股合資擁有的部分礦區",
+      "url": "https://money.udn.com/money/story/5599/9001445",
+      "source": "money.udn.com",
+      "published": 1757680751
+    },
+    {
+      "id": "066bb96ecba1",
+      "title": "任命AI當部長監督政府標案　阿爾巴尼亞開全球首例",
+      "url": "https://money.udn.com/money/story/5599/9001825",
+      "source": "money.udn.com",
+      "published": 1757680571
+    },
+    {
+      "id": "91df9c869b4b",
+      "title": "杜絕弊案！阿爾巴尼亞創全球之先任命AI為內閣成員 負責政府採購",
+      "url": "https://money.udn.com/money/story/5599/9001822",
+      "source": "money.udn.com",
+      "published": 1757680529
+    },
+    {
+      "id": "ed15fc74385a",
+      "title": "关税、经济放缓、双边关系紧张，美企正在告别中国",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20250912-%E5%85%B3%E7%A8%8E-%E7%BB%8F%E6%B5%8E%E6%94%BE%E7%BC%93-%E5%8F%8C%E8%BE%B9%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%EF%BC%8C%E7%BE%8E%E4%BC%81%E6%AD%A3%E5%9C%A8%E5%91%8A%E5%88%AB%E4%B8%AD%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1757680338
+    },
+    {
+      "id": "4460405d658e",
+      "title": "抓到了？ 川普：槍殺美國保守派網紅柯克嫌犯被捕",
+      "url": "https://money.udn.com/money/story/10511/9001814",
+      "source": "money.udn.com",
+      "published": 1757680049
+    },
+    {
+      "id": "2ca05fcc7527",
+      "title": "歐洲央行Simkus：通膨面臨的風險仍很大 央行政策選擇不應設限",
+      "url": "https://money.udn.com/money/story/5599/9001234",
+      "source": "money.udn.com",
+      "published": 1757680039
+    },
+    {
+      "id": "536c3b2c0651",
+      "title": "韓國包機從美國啟程 接回在美被拘押後獲釋的工人",
+      "url": "https://money.udn.com/money/story/5599/9001233",
+      "source": "money.udn.com",
+      "published": 1757679911
+    },
+    {
+      "id": "2a11393f706e",
+      "title": "李在明向为救助被困中国老人殉职的韩国海警致唁电",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250912-%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%90%91%E4%B8%BA%E6%95%91%E5%8A%A9%E8%A2%AB%E5%9B%B0%E4%B8%AD%E5%9B%BD%E8%80%81%E4%BA%BA%E6%AE%89%E8%81%8C%E7%9A%84%E9%9F%A9%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%87%B4%E5%94%81%E7%94%B5",
+      "source": "rfi.fr",
+      "published": 1757679892
+    },
+    {
+      "id": "93c50f568a2f",
+      "title": "新南向菁英專班開學典禮 外交部盼台灣成為交流樞紐",
+      "url": "https://udn.com/news/story/6656/9001794",
+      "source": "udn.com",
+      "published": 1757679423
+    },
+    {
+      "id": "841cfda30b5b",
+      "title": "新版財劃法爭議 竹縣議員批中央「推卸責任無助解決問題」",
+      "url": "https://udn.com/news/story/124593/9001790",
+      "source": "udn.com",
+      "published": 1757679019
+    },
     {
       "id": "0152ba708e5b",
       "title": "我與大陸外長同時訪歐洲 路透：罕見行程安排",
       "url": "https://udn.com/news/story/6656/9001762",
       "source": "udn.com",
       "published": 1757678535
-    },
-    {
-      "id": "4419837a29ac",
-      "title": "中美贸易战：8个月内北京在非洲实现500多亿美元贸易顺差",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20250912-%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98-8%E4%B8%AA%E6%9C%88%E5%86%85%E5%8C%97%E4%BA%AC%E5%9C%A8%E9%9D%9E%E6%B4%B2%E5%AE%9E%E7%8E%B0500%E5%A4%9A%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE",
-      "source": "rfi.fr",
-      "published": 1757678080
     },
     {
       "id": "c55fc167d17e",
@@ -184,34 +254,6 @@
       "published": 1757671860
     },
     {
-      "id": "400120640df1",
-      "title": "亞股多追隨美股漲勢收高　聯準會降息幾成定局",
-      "url": "https://money.udn.com/money/story/5599/9001585",
-      "source": "money.udn.com",
-      "published": 1757671292
-    },
-    {
-      "id": "77b1092ae459",
-      "title": "聯合國大會將表決紐約宣言　盼落實以巴兩國方案",
-      "url": "https://money.udn.com/money/story/5599/9001578",
-      "source": "money.udn.com",
-      "published": 1757671292
-    },
-    {
-      "id": "c61c950ea934",
-      "title": "路透民調：多數美國民眾支持限制總統權力",
-      "url": "https://money.udn.com/money/story/10511/9001563",
-      "source": "money.udn.com",
-      "published": 1757670939
-    },
-    {
-      "id": "76558ee644b5",
-      "title": "印度不甩美施壓增購俄油　進口量僅次中國排全球第2",
-      "url": "https://money.udn.com/money/story/5599/9001565",
-      "source": "money.udn.com",
-      "published": 1757670939
-    },
-    {
       "id": "715988811dcf",
       "title": "知情人士：尼泊尔前首席大法官卡尔基将被任命为临时总理",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250912-%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB-%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%89%8D%E9%A6%96%E5%B8%AD%E5%A4%A7%E6%B3%95%E5%AE%98%E5%8D%A1%E5%B0%94%E5%9F%BA%E5%B0%86%E8%A2%AB%E4%BB%BB%E5%91%BD%E4%B8%BA%E4%B8%B4%E6%97%B6%E6%80%BB%E7%90%86",
@@ -219,32 +261,11 @@
       "published": 1757670882
     },
     {
-      "id": "bf5c2848f55c",
-      "title": "印度官員：大陸員工返國   未影響鴻海在印度營運",
-      "url": "https://money.udn.com/money/story/5599/9001546",
-      "source": "money.udn.com",
-      "published": 1757670578
-    },
-    {
-      "id": "a85221f6d700",
-      "title": "亞曼尼遺囑要求繼承人出售股權 LVMH 等巨頭入列接手名單",
-      "url": "https://money.udn.com/money/story/123398/9001545",
-      "source": "money.udn.com",
-      "published": 1757670513
-    },
-    {
       "id": "05981f19209c",
       "title": "英商贸大臣促中方批准翻新在京使馆馆舍 知情人士指将耗资1亿英镑",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250912-%E8%8B%B1%E5%95%86%E8%B4%B8%E5%A4%A7%E8%87%A3%E4%BF%83%E4%B8%AD%E6%96%B9%E6%89%B9%E5%87%86%E7%BF%BB%E6%96%B0%E5%9C%A8%E4%BA%AC%E4%BD%BF%E9%A6%86%E9%A6%86%E8%88%8D-%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E6%8C%87%E5%B0%86%E8%80%97%E8%B5%841%E4%BA%BF%E8%8B%B1%E9%95%91",
       "source": "rfi.fr",
       "published": 1757669987
-    },
-    {
-      "id": "e43e739056e3",
-      "title": "川普渴求諾貝爾和平獎　頒獎單位稱不會受外力影響",
-      "url": "https://money.udn.com/money/story/5599/9001529",
-      "source": "money.udn.com",
-      "published": 1757669796
     },
     {
       "id": "65527947b55c",
@@ -401,25 +422,11 @@
       "published": 1757664781
     },
     {
-      "id": "4f7b9933348e",
-      "title": "賴清德出席表揚模範漁民 首度頒發模範外籍船員獎",
-      "url": "https://udn.com/news/story/7314/9001322",
-      "source": "udn.com",
-      "published": 1757664185
-    },
-    {
       "id": "2abd8bcfa8fa",
       "title": "日本206名国会议员要求日本政府承认巴勒斯坦国",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250912-%E6%97%A5%E6%9C%AC206%E5%90%8D%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1757663846
-    },
-    {
-      "id": "98d9ee5ac230",
-      "title": "北檢抗告成功！柯文哲7千萬交保生變 高院指北院「才1個月前後矛盾」",
-      "url": "https://udn.com/news/story/6656/9001286",
-      "source": "udn.com",
-      "published": 1757663450
     },
     {
       "id": "a50557a0b708",
@@ -602,13 +609,6 @@
       "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20250911-%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A%E4%BB%BB%E5%91%BD%E9%A6%96%E4%BD%8Dai%E9%83%A8%E9%95%BF",
       "source": "rfi.fr",
       "published": 1757612473
-    },
-    {
-      "id": "c321a47e2656",
-      "title": "因应中国“灰色地带”侵扰  台湾加强海底电缆巡防",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250911-%E5%9B%A0%E5%BA%94%E4%B8%AD%E5%9B%BD-%E7%81%B0%E8%89%B2%E5%9C%B0%E5%B8%A6-%E4%BE%B5%E6%89%B0-%E5%8F%B0%E6%B9%BE%E5%8A%A0%E5%BC%BA%E6%B5%B7%E5%BA%95%E7%94%B5%E7%BC%86%E5%B7%A1%E9%98%B2",
-      "source": "rfi.fr",
-      "published": 1757609345
     },
     {
       "id": "2cb70a7b1307",
@@ -1402,5 +1402,5 @@
       "published": 1756349662
     }
   ],
-  "build_id": 1757679516
+  "build_id": 1757681870
 }
