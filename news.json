@@ -1,6 +1,34 @@
 {
-  "updated": 1757651921,
+  "updated": 1757653795,
   "items": [
+    {
+      "id": "456831df329f",
+      "title": "單車手陳峻永環球騎行10年  帶國旗讓世界認識台灣",
+      "url": "https://money.udn.com/money/story/5599/9000905",
+      "source": "money.udn.com",
+      "published": 1757653572
+    },
+    {
+      "id": "2d609819be91",
+      "title": "彭博：OpenAI和輝達擬宣布投資英國資料中心",
+      "url": "https://money.udn.com/money/story/10511/9000878",
+      "source": "money.udn.com",
+      "published": 1757652847
+    },
+    {
+      "id": "74145f624cc3",
+      "title": "俄羅斯無人機入侵波蘭 川普首度公開表態：「可能是個錯誤」",
+      "url": "https://money.udn.com/money/story/5599/9000847",
+      "source": "money.udn.com",
+      "published": 1757652294
+    },
+    {
+      "id": "52e5fd4aba7a",
+      "title": "路透：新版《台灣全民安全指引》下周發布 首次指示遇敵如何應對",
+      "url": "https://udn.com/news/story/10930/9000848",
+      "source": "udn.com",
+      "published": 1757652262
+    },
     {
       "id": "f4f21b34c193",
       "title": "國際法院前副院長小田滋過世　童年曾住台灣多年",
@@ -9,9 +37,9 @@
       "published": 1757651788
     },
     {
-      "id": "a4c4f211f4c0",
+      "id": "e7a0dd3c1e2c",
       "title": "廣播大談捐款同志被嗆錢好多 羅智強怒：你來捐1200萬啊",
-      "url": "https://udn.com/news/story/6656/9000832",
+      "url": "https://udn.com/news/story/122404/9000832",
       "source": "udn.com",
       "published": 1757651721
     },
@@ -42,6 +70,13 @@
       "url": "https://www.bbc.com/zhongwen/articles/c78n9dl5ld1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1757651182
+    },
+    {
+      "id": "80a4389c08fb",
+      "title": "美財長赴馬德里會晤何立峰　帶TikTok議題上談判桌",
+      "url": "https://www.dw.com/zh/美財長赴馬德里會晤何立峰　帶tiktok議題上談判桌/a-73971321?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1757650860
     },
     {
       "id": "b29c9b68cd3c",
@@ -198,13 +233,6 @@
       "published": 1757648185
     },
     {
-      "id": "e760ede67b3d",
-      "title": "盧特尼克稱與台將達重大協議 經貿辦：尚待總結性會商",
-      "url": "https://udn.com/news/story/6656/9000651",
-      "source": "udn.com",
-      "published": 1757647831
-    },
-    {
       "id": "735ec3f35026",
       "title": "三百多名南韓工人被捕要怪現代！美商務部長：早該找我幫忙",
       "url": "https://money.udn.com/money/story/5599/9000640",
@@ -273,27 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9000119",
       "source": "money.udn.com",
       "published": 1757645450
-    },
-    {
-      "id": "751c247ea9d5",
-      "title": "黃仁勳、奧特曼下周將隨川普訪英 參與數十億美元AI基礎建設投資",
-      "url": "https://money.udn.com/money/story/5599/9000463",
-      "source": "money.udn.com",
-      "published": 1757644414
-    },
-    {
-      "id": "3c46dcaed6ca",
-      "title": "川普盟友波索納洛遭判刑 美方稱「獵巫」並發聲關切",
-      "url": "https://money.udn.com/money/story/10511/9000454",
-      "source": "money.udn.com",
-      "published": 1757644237
-    },
-    {
-      "id": "98922f0308a7",
-      "title": "中裔日籍參議員石平遭北京制裁  會駐日代表李逸洋",
-      "url": "https://money.udn.com/money/story/5599/9000453",
-      "source": "money.udn.com",
-      "published": 1757644235
     },
     {
       "id": "0cdf8b28c248",
@@ -772,6 +779,13 @@
       "published": 1757526031
     },
     {
+      "id": "c3e64ffc121a",
+      "title": "香港监管机构开始允许以发债所得回购股票",
+      "url": "https://www.ftchinese.com/story/001107590",
+      "source": "ftchinese.com",
+      "published": 1757520000
+    },
+    {
       "id": "884e52d55826",
       "title": "特朗普关税对气候变化的意外好处",
       "url": "https://www.ftchinese.com/story/001107593",
@@ -782,13 +796,6 @@
       "id": "ea76d9e5129d",
       "title": "大众汽车誓言在欧洲反击中国电动汽车",
       "url": "https://www.ftchinese.com/story/001107592",
-      "source": "ftchinese.com",
-      "published": 1757520000
-    },
-    {
-      "id": "c3e64ffc121a",
-      "title": "香港监管机构开始允许以发债所得回购股票",
-      "url": "https://www.ftchinese.com/story/001107590",
       "source": "ftchinese.com",
       "published": 1757520000
     },
@@ -861,13 +868,6 @@
       "url": "https://www.dw.com/zh/波兰首次击落进犯俄罗斯无人机-华沙申请北约磋商/a-73948362?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757503980
-    },
-    {
-      "id": "fcd76a333aba",
-      "title": "专制联盟还是权宜合作？中俄朝同台背后的战略算计",
-      "url": "https://www.dw.com/zh/专制联盟还是权宜合作？中俄朝同台背后的战略算计/a-73948018?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757501460
     },
     {
       "id": "04da1289db13",
@@ -1115,16 +1115,16 @@
       "published": 1757256180
     },
     {
-      "id": "2b49962d0710",
-      "title": "DW事实核查：如何识破AI伪造语音？",
-      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
+      "id": "5a6af303def1",
+      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
+      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
     },
     {
-      "id": "5a6af303def1",
-      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
-      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
+      "id": "2b49962d0710",
+      "title": "DW事实核查：如何识破AI伪造语音？",
+      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
     },
@@ -1402,5 +1402,5 @@
       "published": 1756122900
     }
   ],
-  "build_id": 1757651921
+  "build_id": 1757653795
 }
