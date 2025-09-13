@@ -1,6 +1,48 @@
 {
-  "updated": 1757734630,
+  "updated": 1757736631,
   "items": [
+    {
+      "id": "f5bc5ad9f9af",
+      "title": "川普稱對普丁耐心「耗得很快」 嘆俄烏和談態度反覆「很奇怪」",
+      "url": "https://money.udn.com/money/story/5599/9002778",
+      "source": "money.udn.com",
+      "published": 1757736658
+    },
+    {
+      "id": "e5e56c08b81c",
+      "title": "俄羅斯外海7.5強震　氣象署發布海嘯消息",
+      "url": "https://money.udn.com/money/story/10511/9002772",
+      "source": "money.udn.com",
+      "published": 1757736454
+    },
+    {
+      "id": "6c6003862cdf",
+      "title": "機組過度操作致零件磨損？ 台電：振動值符合國際安全標準 未過度操作",
+      "url": "https://udn.com/news/story/6656/9002765",
+      "source": "udn.com",
+      "published": 1757736124
+    },
+    {
+      "id": "ac3c172797a7",
+      "title": "美保守派網紅柯克命案　傳犯嫌曾說寧自盡不自首",
+      "url": "https://money.udn.com/money/story/5599/9002754",
+      "source": "money.udn.com",
+      "published": 1757736052
+    },
+    {
+      "id": "e8fe9668cbfc",
+      "title": "俄羅斯遠東外海規模7.4地震　發布海嘯警報",
+      "url": "https://money.udn.com/money/story/5599/9002738",
+      "source": "money.udn.com",
+      "published": 1757735683
+    },
+    {
+      "id": "ac0f627951ff",
+      "title": "Taiwan Select食尚節　加拿大3大城市熱烈登場",
+      "url": "https://money.udn.com/money/story/5599/9002740",
+      "source": "money.udn.com",
+      "published": 1757735682
+    },
     {
       "id": "d49bd9dc9342",
       "title": "柯文哲交保被撤銷 醫酸：北院審九月不如高院看一天",
@@ -42,6 +84,13 @@
       "url": "https://money.udn.com/money/story/5599/9002690",
       "source": "money.udn.com",
       "published": 1757734233
+    },
+    {
+      "id": "ae013a7d6218",
+      "title": "影／盧秀燕扮「小智」推動漫博覽會 財劃法細節下午再談",
+      "url": "https://udn.com/news/story/124593/9002678",
+      "source": "udn.com",
+      "published": 1757734167
     },
     {
       "id": "f70924d35321",
@@ -177,20 +226,6 @@
       "published": 1757730783
     },
     {
-      "id": "39fa19fa19e2",
-      "title": "財劃法爭議今與中央攤牌 蔣萬安批：中央砍捷運建設補助75%",
-      "url": "https://udn.com/news/story/124593/9002549",
-      "source": "udn.com",
-      "published": 1757730381
-    },
-    {
-      "id": "5ced941941ee",
-      "title": "卓揆邀縣市首長共商財劃法 朱立倫：政府要解決問題 不是製造衝突",
-      "url": "https://udn.com/news/story/124593/9002542",
-      "source": "udn.com",
-      "published": 1757730090
-    },
-    {
       "id": "9feb4bd844f4",
       "title": "以色列加強攻擊加薩50死　英法德呼籲立即停火",
       "url": "https://money.udn.com/money/story/5599/9002526",
@@ -254,46 +289,11 @@
       "published": 1757724331
     },
     {
-      "id": "9d666a70e7b4",
-      "title": "白俄羅斯與俄國聯合軍演  北約東翼戒備防範挑釁",
-      "url": "https://money.udn.com/money/story/5599/9002386",
-      "source": "money.udn.com",
-      "published": 1757723773
-    },
-    {
-      "id": "81790a8fb10e",
-      "title": "華郵獨家：摩薩德拒絕從命 迫使內唐亞胡空襲卡達獵殺哈瑪斯高層失手",
-      "url": "https://money.udn.com/money/story/5599/9002384",
-      "source": "money.udn.com",
-      "published": 1757723687
-    },
-    {
-      "id": "fdcd84d3c98e",
-      "title": "美力挺菲律賓　批中國設黃岩島保護區破壞區域穩定",
-      "url": "https://money.udn.com/money/story/5599/9002367",
-      "source": "money.udn.com",
-      "published": 1757721990
-    },
-    {
-      "id": "bb3dca860433",
-      "title": "柯克槍擊案嫌犯背景曝光 「資優生」變殺人犯、曾揚言寧自盡也不投案",
-      "url": "https://money.udn.com/money/story/5599/9002365",
-      "source": "money.udn.com",
-      "published": 1757721947
-    },
-    {
       "id": "d72e34c80def",
       "title": "中墨汽车关税冲突：北京瞬间“炸锅”，批墨方取悦特朗普",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20250912-%E4%B8%AD%E5%A2%A8%E6%B1%BD%E8%BD%A6%E5%85%B3%E7%A8%8E%E5%86%B2%E7%AA%81-%E5%8C%97%E4%BA%AC%E7%9E%AC%E9%97%B4-%E7%82%B8%E9%94%85-%EF%BC%8C%E6%89%B9%E5%A2%A8%E6%96%B9%E5%8F%96%E6%82%A6%E7%89%B9%E6%9C%97%E6%99%AE",
       "source": "rfi.fr",
       "published": 1757720661
-    },
-    {
-      "id": "ea5b67a712bf",
-      "title": "波蘭領空遭入侵　法國派戰機協防並召見俄國大使",
-      "url": "https://money.udn.com/money/story/5599/9002355",
-      "source": "money.udn.com",
-      "published": 1757719850
     },
     {
       "id": "01d438f823a7",
@@ -646,6 +646,13 @@
       "published": 1757615663
     },
     {
+      "id": "3f2f6ba918a8",
+      "title": "查理•柯克遇刺的三重悲剧",
+      "url": "https://www.ftchinese.com/story/001107599",
+      "source": "ftchinese.com",
+      "published": 1757606400
+    },
+    {
       "id": "8e317049e0bb",
       "title": "新增“AI恋爱军师”功能 挚文集团盼重燃网络交友热情",
       "url": "https://www.ftchinese.com/story/001107607",
@@ -698,13 +705,6 @@
       "id": "92a15ca6289f",
       "title": "韩国前总统卢泰愚之子卢载宪将任驻华大使",
       "url": "https://www.ftchinese.com/story/001107600",
-      "source": "ftchinese.com",
-      "published": 1757606400
-    },
-    {
-      "id": "3f2f6ba918a8",
-      "title": "查理•柯克遇刺的三重悲剧",
-      "url": "https://www.ftchinese.com/story/001107599",
       "source": "ftchinese.com",
       "published": 1757606400
     },
@@ -1402,5 +1402,5 @@
       "published": 1756355400
     }
   ],
-  "build_id": 1757734630
+  "build_id": 1757736631
 }
