@@ -1,6 +1,13 @@
 {
-  "updated": 1757769228,
+  "updated": 1757770351,
   "items": [
+    {
+      "id": "c95715329bb0",
+      "title": "川普敦促北約國家停止採購俄油　籲對中國徵收高關稅",
+      "url": "https://money.udn.com/money/story/10511/9003420",
+      "source": "money.udn.com",
+      "published": 1757769210
+    },
     {
       "id": "13a7984352a6",
       "title": "特朗普政权要求日本等大幅提高对购买俄罗斯石油的中国及印度的关税",
@@ -9,8 +16,29 @@
       "published": 1757768989
     },
     {
+      "id": "8e1d8cad2a71",
+      "title": "台北入選亞洲適合退休13城市　低生活成本成優勢",
+      "url": "https://money.udn.com/money/story/5599/9003418",
+      "source": "money.udn.com",
+      "published": 1757768807
+    },
+    {
+      "id": "0144224d0fe9",
+      "title": "卡達9/15主辦阿拉伯與穆斯林峰會　譴責以色列轟杜哈",
+      "url": "https://money.udn.com/money/story/5599/9003415",
+      "source": "money.udn.com",
+      "published": 1757768769
+    },
+    {
+      "id": "5b499e6bbfef",
+      "title": "配合五角大廈更名　路透：白宮國安會國防局改戰爭局",
+      "url": "https://money.udn.com/money/story/10511/9003414",
+      "source": "money.udn.com",
+      "published": 1757768449
+    },
+    {
       "id": "15091b7780e4",
-      "title": "陸正義律師 晚間待柯文哲家近2小時",
+      "title": "下周一柯文哲重開羈押庭 陸正義律師晚間赴柯家一待近2小時",
       "url": "https://udn.com/news/story/124589/9003412",
       "source": "udn.com",
       "published": 1757768181
@@ -336,34 +364,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250913-%E7%BE%8E%E6%AC%A7%E6%94%AF%E6%8C%81%E8%8F%B2%E5%BE%8B%E5%AE%BE-%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E5%9C%A8%E9%BB%84%E5%B2%A9%E5%B2%9B%E8%AE%BE%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA%E8%AE%A1%E5%88%92",
       "source": "rfi.fr",
       "published": 1757755388
-    },
-    {
-      "id": "df0ca01e7c7b",
-      "title": "土耳其打壓在野不手軟 伊斯坦堡區長遭拘押",
-      "url": "https://money.udn.com/money/story/5599/9003195",
-      "source": "money.udn.com",
-      "published": 1757755292
-    },
-    {
-      "id": "2523af0ba7e2",
-      "title": "英媒：貝萊德將在英國投資205億元建設資料中心",
-      "url": "https://money.udn.com/money/story/5599/9003183",
-      "source": "money.udn.com",
-      "published": 1757754813
-    },
-    {
-      "id": "ab0217bc4cf7",
-      "title": "槍殺柯克嫌以前同學和同事震驚...稱凶嫌性格靦腆 但政治立場眾說紛紜",
-      "url": "https://money.udn.com/money/story/5599/9003162",
-      "source": "money.udn.com",
-      "published": 1757753913
-    },
-    {
-      "id": "21f42a42fbbf",
-      "title": "尼泊爾首位女性總理上任 總統解散國會明年3月大選",
-      "url": "https://money.udn.com/money/story/5599/9003145",
-      "source": "money.udn.com",
-      "published": 1757753137
     },
     {
       "id": "c8c1e63d5f8f",
@@ -1402,5 +1402,5 @@
       "published": 1756355400
     }
   ],
-  "build_id": 1757769228
+  "build_id": 1757770351
 }
