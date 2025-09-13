@@ -1,9 +1,23 @@
 {
-  "updated": 1757776052,
+  "updated": 1757777499,
   "items": [
     {
+      "id": "6f51973cfd3c",
+      "title": "烏克蘭移民種出世界最高向日葵　象徵對祖國的愛",
+      "url": "https://money.udn.com/money/story/5599/9003591",
+      "source": "money.udn.com",
+      "published": 1757777447
+    },
+    {
+      "id": "f24c40c48ccc",
+      "title": "欧盟拟议“创造性”新方法 将被冻结的俄资产转供乌克兰",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250913-%E6%AC%A7%E7%9B%9F%E6%8B%9F%E8%AE%AE-%E5%88%9B%E9%80%A0%E6%80%A7-%E6%96%B0%E6%96%B9%E6%B3%95-%E5%B0%86%E8%A2%AB%E5%86%BB%E7%BB%93%E7%9A%84%E4%BF%84%E8%B5%84%E4%BA%A7%E8%BD%AC%E4%BE%9B%E4%B9%8C%E5%85%8B%E5%85%B0",
+      "source": "rfi.fr",
+      "published": 1757777426
+    },
+    {
       "id": "f5ea4ee43499",
-      "title": "Fed本月將面臨流動性考驗 QT恐受顯著影響",
+      "title": "Fed 本月將面臨流動性考驗 QT 恐受顯著影響",
       "url": "https://money.udn.com/money/story/5599/9003533",
       "source": "money.udn.com",
       "published": 1757776322
@@ -366,13 +380,6 @@
       "published": 1757759280
     },
     {
-      "id": "034848f3b5b9",
-      "title": "貨幣市場基金的7兆美元會因降息轉入股市？有人喊：華爾街別做夢了",
-      "url": "https://money.udn.com/money/story/123398/9003259",
-      "source": "money.udn.com",
-      "published": 1757759209
-    },
-    {
       "id": "c69049b3abbc",
       "title": "鲁比奥据报私下向澳副总理保证 澳英美协议核潜艇项目将继续进行",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250913-%E9%B2%81%E6%AF%94%E5%A5%A5%E6%8D%AE%E6%8A%A5%E7%A7%81%E4%B8%8B%E5%90%91%E6%BE%B3%E5%89%AF%E6%80%BB%E7%90%86%E4%BF%9D%E8%AF%81-%E6%BE%B3%E8%8B%B1%E7%BE%8E%E5%8D%8F%E8%AE%AE%E6%BD%9C%E8%89%87%E9%A1%B9%E7%9B%AE%E5%B0%86%E7%BB%A7%E7%BB%AD%E8%BF%9B%E8%A1%8C",
@@ -546,13 +553,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cevzxdl3rewo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1757692236
-    },
-    {
-      "id": "0623f2e9af5b",
-      "title": "泽连斯基：普京对中方停火呼吁无动于衷，并不妨碍中国热情接待普京",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250912-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA-%E6%99%AE%E4%BA%AC%E5%AF%B9%E4%B8%AD%E6%96%B9%E5%81%9C%E7%81%AB%E5%91%BC%E5%90%81%E6%97%A0%E5%8A%A8%E4%BA%8E%E8%A1%B7%EF%BC%8C%E5%B9%B6%E4%B8%8D%E5%A6%A8%E7%A2%8D%E4%B8%AD%E5%9B%BD%E7%83%AD%E6%83%85%E6%8E%A5%E5%BE%85%E6%99%AE%E4%BA%AC",
-      "source": "rfi.fr",
-      "published": 1757691635
     },
     {
       "id": "fc6d1b600024",
@@ -1402,5 +1402,5 @@
       "published": 1756551120
     }
   ],
-  "build_id": 1757776052
+  "build_id": 1757777499
 }
