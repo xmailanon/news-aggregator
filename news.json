@@ -1,6 +1,27 @@
 {
-  "updated": 1757783212,
+  "updated": 1757784702,
   "items": [
+    {
+      "id": "14578c0f4bcd",
+      "title": "外交事務刊文：兩岸避戰 須有非正式溝通管道",
+      "url": "https://udn.com/news/story/6656/9003636",
+      "source": "udn.com",
+      "published": 1757784129
+    },
+    {
+      "id": "98eb96c20d5d",
+      "title": "美中馬德里新一輪會談　聚焦經貿與TikTok期限",
+      "url": "https://money.udn.com/money/story/5599/9003659",
+      "source": "money.udn.com",
+      "published": 1757783550
+    },
+    {
+      "id": "1b59e74d1aeb",
+      "title": "馬德里酒吧爆炸21人受傷　事發原因尚待釐清",
+      "url": "https://money.udn.com/money/story/5599/9003657",
+      "source": "money.udn.com",
+      "published": 1757783170
+    },
     {
       "id": "6f608c380a1d",
       "title": "黨公職座談聚焦民生 賴清德指示加強打詐",
@@ -37,6 +58,13 @@
       "published": 1757779958
     },
     {
+      "id": "8f39a0401f76",
+      "title": "財劃法公式錯誤 卓揆要立院自行解決",
+      "url": "https://udn.com/news/story/124593/9003578",
+      "source": "udn.com",
+      "published": 1757779200
+    },
+    {
       "id": "b0b148cdecc1",
       "title": "歷史上的今天／1971年巨人少棒奪世界冠軍 台中引轟動",
       "url": "https://udn.com/news/story/7314/9003159",
@@ -45,15 +73,8 @@
     },
     {
       "id": "70269ab41159",
-      "title": "聯合報一周大事9/07~9/13",
+      "title": "聯合報一周大事9/7~9/13",
       "url": "https://udn.com/news/story/7314/9003546",
-      "source": "udn.com",
-      "published": 1757779200
-    },
-    {
-      "id": "8f39a0401f76",
-      "title": "財劃法公式錯誤 卓揆要立院自行解決",
-      "url": "https://udn.com/news/story/124593/9003578",
       "source": "udn.com",
       "published": 1757779200
     },
@@ -91,13 +112,6 @@
       "url": "https://udn.com/news/story/124593/9003610",
       "source": "udn.com",
       "published": 1757778715
-    },
-    {
-      "id": "095612395d0a",
-      "title": "獨／國原院爆重大汙染 1.2公頃土地列控制場址恐再升級",
-      "url": "https://udn.com/news/story/7314/9003611",
-      "source": "udn.com",
-      "published": 1757778463
     },
     {
       "id": "6f51973cfd3c",
@@ -359,25 +373,11 @@
       "published": 1757760887
     },
     {
-      "id": "740b22563754",
-      "title": "川普請求叫停阻止他罷免庫克的裁定 上訴法院有望周日晚做出判決",
-      "url": "https://money.udn.com/money/story/5599/9002237",
-      "source": "money.udn.com",
-      "published": 1757760833
-    },
-    {
       "id": "ca2f37e271db",
       "title": "中国欲设“黄岩岛国家级保护区” 美国力挺菲律宾",
       "url": "https://www.dw.com/zh/中国欲设-黄岩岛国家级保护区-美国力挺菲律宾/a-73951795?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757760780
-    },
-    {
-      "id": "95f82b668138",
-      "title": "以軍稱加薩市已25萬人撤離 聯合國估當地居民百萬",
-      "url": "https://money.udn.com/money/story/5599/9003271",
-      "source": "money.udn.com",
-      "published": 1757760307
     },
     {
       "id": "5bf1f886cbcd",
@@ -1402,5 +1402,5 @@
       "published": 1756551120
     }
   ],
-  "build_id": 1757783212
+  "build_id": 1757784702
 }
