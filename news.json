@@ -1,6 +1,13 @@
 {
-  "updated": 1757891287,
+  "updated": 1757892710,
   "items": [
+    {
+      "id": "e38483ed84bc",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/9005148",
+      "source": "money.udn.com",
+      "published": 1757891687
+    },
     {
       "id": "35032840b491",
       "title": "現代汽車工地突襲後　川普：不希望嚇跑投資",
@@ -275,6 +282,27 @@
       "published": 1757865827
     },
     {
+      "id": "6cacea3b794c",
+      "title": "专访气候债券倡议组织CEO：中国绿色金融向国际化、多元化发展",
+      "url": "https://www.ftchinese.com/story/001107611",
+      "source": "ftchinese.com",
+      "published": 1757865600
+    },
+    {
+      "id": "3336318b9ea4",
+      "title": "一周世界舆论聚焦：李在明稳住中韩关系与特朗普最新对俄制裁",
+      "url": "https://www.ftchinese.com/story/001107613",
+      "source": "ftchinese.com",
+      "published": 1757865600
+    },
+    {
+      "id": "c7c407a76c4e",
+      "title": "柯克错在哪里？",
+      "url": "https://www.ftchinese.com/story/001107612",
+      "source": "ftchinese.com",
+      "published": 1757865600
+    },
+    {
       "id": "40750a6559ca",
       "title": "歷史上的今天／由馬可仕夫人邀請 1969年兒童樂團訪菲",
       "url": "https://udn.com/news/story/7314/9003858",
@@ -287,13 +315,6 @@
       "url": "https://money.udn.com/money/story/10511/9005029",
       "source": "money.udn.com",
       "published": 1757864168
-    },
-    {
-      "id": "09697017bde0",
-      "title": "大陸整頓軍方 大批將官落馬",
-      "url": "https://money.udn.com/money/story/122381/9004681",
-      "source": "money.udn.com",
-      "published": 1757861655
     },
     {
       "id": "ff1274220722",
@@ -891,27 +912,6 @@
       "published": 1757606400
     },
     {
-      "id": "ff14de017296",
-      "title": "《全球对话》第二十四期：专访国际机器人联合会秘书长——机器人文明已到达",
-      "url": "https://www.ftchinese.com/story/001107555",
-      "source": "ftchinese.com",
-      "published": 1757606400
-    },
-    {
-      "id": "04a1a3271bd8",
-      "title": "从洪水传说到登革热流行，清远如何应对现代气候危机？",
-      "url": "https://www.ftchinese.com/story/001107567",
-      "source": "ftchinese.com",
-      "published": 1757606400
-    },
-    {
-      "id": "3efae8037efd",
-      "title": "爱德华•蒙克描绘的不仅是个人的崩溃",
-      "url": "https://www.ftchinese.com/story/001107573",
-      "source": "ftchinese.com",
-      "published": 1757606400
-    },
-    {
       "id": "d46dbec33939",
       "title": "DW事实核查：如何识别假新闻？",
       "url": "https://www.dw.com/zh/dw事实核查：如何识别假新闻？/a-73962848?maca=chi-rss-chi-news-3224-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1757891287
+  "build_id": 1757892710
 }
