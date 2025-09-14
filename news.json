@@ -1,12 +1,47 @@
 {
-  "updated": 1757846013,
+  "updated": 1757847960,
   "items": [
+    {
+      "id": "91c492fa06b9",
+      "title": "美網紅柯克生前赴首爾演說　稱韓國為抵禦中共的堡壘",
+      "url": "https://money.udn.com/money/story/5599/9004591",
+      "source": "money.udn.com",
+      "published": 1757847989
+    },
+    {
+      "id": "da1bcf5dd755",
+      "title": "韓國工人遭拘捕事件　美副國務卿藍道表達遺憾",
+      "url": "https://money.udn.com/money/story/10511/9004587",
+      "source": "money.udn.com",
+      "published": 1757847692
+    },
+    {
+      "id": "6cdd49fe4770",
+      "title": "綠委：只修公式錯上加錯 支持政院提事權統一財劃修法",
+      "url": "https://udn.com/news/story/124593/9004550",
+      "source": "udn.com",
+      "published": 1757847390
+    },
+    {
+      "id": "90590c6b1c5d",
+      "title": "政院：將提財劃法修法均衡城鄉 盼朝野支持",
+      "url": "https://udn.com/news/story/124593/9004551",
+      "source": "udn.com",
+      "published": 1757847389
+    },
     {
       "id": "e4231466ec38",
       "title": "韩外长本周访华会见王毅 拟议习近平是否出席APEC庆州峰会、谈涉朝问题",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250914-%E9%9F%A9%E5%A4%96%E9%95%BF%E6%9C%AC%E5%91%A8%E8%AE%BF%E5%8D%8E%E4%BC%9A%E8%A7%81%E7%8E%8B%E6%AF%85-%E6%8B%9F%E7%A1%AE%E8%AE%A4%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%AF%E5%90%A6%E5%87%BA%E5%B8%ADapec%E5%BA%86%E5%B7%9E%E5%B3%B0%E4%BC%9A-%E8%B0%88%E6%B6%89%E6%9C%9D%E9%97%AE%E9%A2%98",
       "source": "rfi.fr",
       "published": 1757845377
+    },
+    {
+      "id": "36f20c11ea17",
+      "title": "綠委籲承認錯誤修財劃法 柯志恩希望民進黨提版本",
+      "url": "https://udn.com/news/story/124593/9004525",
+      "source": "udn.com",
+      "published": 1757845207
     },
     {
       "id": "8497e9b3b757",
@@ -254,32 +289,11 @@
       "published": 1757838737
     },
     {
-      "id": "506d6af81f24",
-      "title": "影／賴清德曝李洋接部長秘辛…捨棄千萬代言費 還為形象減8公斤",
-      "url": "https://udn.com/news/story/6656/9004427",
-      "source": "udn.com",
-      "published": 1757838735
-    },
-    {
       "id": "d1b8fb89e96b",
       "title": "义务兵役制要回来了？德国年轻人寻求躲避之道",
       "url": "https://www.dw.com/zh/义务兵役制要回来了？德国年轻人寻求躲避之道/a-73974480?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757838720
-    },
-    {
-      "id": "955620683ac6",
-      "title": "賴清德到彰化與基層座談 4縣長人選動向最受關注",
-      "url": "https://udn.com/news/story/6656/9004416",
-      "source": "udn.com",
-      "published": 1757838163
-    },
-    {
-      "id": "9642dd135e21",
-      "title": "日本防府市盼陳澄波畫作成為與台灣連結的橋梁",
-      "url": "https://udn.com/news/story/7314/9004405",
-      "source": "udn.com",
-      "published": 1757837944
     },
     {
       "id": "b5ea15e65c0a",
@@ -385,20 +399,6 @@
       "url": "https://money.udn.com/money/story/5599/9004264",
       "source": "money.udn.com",
       "published": 1757829989
-    },
-    {
-      "id": "2a3bad17a80d",
-      "title": "匈牙利擋烏克蘭入歐盟　波蘭控政治勒索",
-      "url": "https://money.udn.com/money/story/5599/9004246",
-      "source": "money.udn.com",
-      "published": 1757829269
-    },
-    {
-      "id": "04900f299eab",
-      "title": "泰國新總理高層會議   施政首重振興旅遊與泰柬衝突",
-      "url": "https://money.udn.com/money/story/5599/9004212",
-      "source": "money.udn.com",
-      "published": 1757827846
     },
     {
       "id": "ef98827e3090",
@@ -1402,5 +1402,5 @@
       "published": 1756551120
     }
   ],
-  "build_id": 1757846013
+  "build_id": 1757847960
 }
