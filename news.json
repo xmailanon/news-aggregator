@@ -1,6 +1,13 @@
 {
-  "updated": 1757871110,
+  "updated": 1757873486,
   "items": [
+    {
+      "id": "52bccd871e1a",
+      "title": "土耳其法院重大裁決前　首都大型示威抗議司法打壓在野",
+      "url": "https://money.udn.com/money/story/5599/9005078",
+      "source": "money.udn.com",
+      "published": 1757872933
+    },
     {
       "id": "e58160858fc9",
       "title": "川普本周訪英將簽科技協議  OpenAI、輝達等將參與投資計畫",
@@ -238,13 +245,6 @@
       "url": "https://udn.com/news/story/10930/9004726",
       "source": "udn.com",
       "published": 1757854264
-    },
-    {
-      "id": "068bf31a5cf0",
-      "title": "烏軍361架無人機攻俄　俄羅斯前兩大煉油廠之一遇襲",
-      "url": "https://money.udn.com/money/story/5599/9004718",
-      "source": "money.udn.com",
-      "published": 1757853909
     },
     {
       "id": "aae4f71049e1",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1757871110
+  "build_id": 1757873486
 }
