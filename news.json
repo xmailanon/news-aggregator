@@ -1,6 +1,20 @@
 {
-  "updated": 1757881979,
+  "updated": 1757884045,
   "items": [
+    {
+      "id": "27cd4c600972",
+      "title": "盧比歐抵以色列訪哭牆　以軍升高加薩市攻勢",
+      "url": "https://money.udn.com/money/story/5599/9005102",
+      "source": "money.udn.com",
+      "published": 1757883247
+    },
+    {
+      "id": "3fcc2a9a59e2",
+      "title": "俄称军演试射锆石极音速飞弹成功",
+      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20250914-%E4%BF%84%E7%A7%B0%E5%86%9B%E6%BC%94%E8%AF%95%E5%B0%84%E9%94%86%E7%9F%B3%E6%9E%81%E9%9F%B3%E9%80%9F%E9%A3%9E%E5%BC%B9%E6%88%90%E5%8A%9F",
+      "source": "rfi.fr",
+      "published": 1757882571
+    },
     {
       "id": "9f7fc3077f3b",
       "title": "歡迎外國企業員工赴美 川普：不想嚇走大家",
@@ -23,16 +37,16 @@
       "published": 1757879978
     },
     {
-      "id": "b94f2cc56fdc",
-      "title": "德國地方選舉另類選擇黨勢力升　執政聯盟有壓力",
-      "url": "https://money.udn.com/money/story/5599/9005089",
+      "id": "92445e283dfc",
+      "title": "阿拉伯—伊斯蘭緊急峰會　將聲援卡達譴責以色列",
+      "url": "https://money.udn.com/money/story/5599/9005090",
       "source": "money.udn.com",
       "published": 1757879670
     },
     {
-      "id": "92445e283dfc",
-      "title": "阿拉伯—伊斯蘭緊急峰會　將聲援卡達譴責以色列",
-      "url": "https://money.udn.com/money/story/5599/9005090",
+      "id": "b94f2cc56fdc",
+      "title": "德國地方選舉另類選擇黨勢力升　執政聯盟有壓力",
+      "url": "https://money.udn.com/money/story/5599/9005089",
       "source": "money.udn.com",
       "published": 1757879670
     },
@@ -210,13 +224,6 @@
       "url": "https://money.udn.com/money/story/122381/9004842",
       "source": "money.udn.com",
       "published": 1757860770
-    },
-    {
-      "id": "779d1de8db7e",
-      "title": "一度超越馬斯克成全球首富 艾里森私生活比工作更精彩",
-      "url": "https://money.udn.com/money/story/122381/9004853",
-      "source": "money.udn.com",
-      "published": 1757860632
     },
     {
       "id": "ff1274220722",
@@ -553,13 +560,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250913-%E5%A2%A8%E5%9F%8E%E5%A4%A9%E7%84%B6%E6%B0%94%E5%8D%A1%E8%BD%A6%E7%88%86%E7%82%B8-%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E4%B8%8A%E5%8D%87%E8%87%B313%E4%BA%BA",
       "source": "rfi.fr",
       "published": 1757796432
-    },
-    {
-      "id": "4e7d467e259a",
-      "title": "俄官员称乌袭击其中部的主要炼油设施",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250913-%E4%BF%84%E5%AE%98%E5%91%98%E7%A7%B0%E4%B9%8C%E8%A2%AD%E5%87%BB%E5%85%B6%E4%B8%AD%E9%83%A8%E7%9A%84%E4%B8%BB%E8%A6%81%E7%82%BC%E6%B2%B9%E8%AE%BE%E6%96%BD",
-      "source": "rfi.fr",
-      "published": 1757796272
     },
     {
       "id": "249fd65be0a7",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1757881979
+  "build_id": 1757884045
 }
