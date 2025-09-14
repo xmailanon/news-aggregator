@@ -1,9 +1,37 @@
 {
-  "updated": 1757840920,
+  "updated": 1757842327,
   "items": [
     {
+      "id": "49b83ce19482",
+      "title": "尼泊爾新總理順應Z世代示威訴求　誓言杜絕貪腐",
+      "url": "https://money.udn.com/money/story/5599/9004479",
+      "source": "money.udn.com",
+      "published": 1757841750
+    },
+    {
+      "id": "29cb2bbda4e0",
+      "title": "專家：印尼領導人危機控管　改組內閣盼平息民怨",
+      "url": "https://money.udn.com/money/story/5599/9004480",
+      "source": "money.udn.com",
+      "published": 1757841749
+    },
+    {
+      "id": "d06165b290a9",
+      "title": "卡塔尔遭到袭击后  卢比奥仍坚持访问以色列",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20250914-%E5%8D%A1%E5%A1%94%E5%B0%94%E9%81%AD%E5%88%B0%E8%A2%AD%E5%87%BB%E5%90%8E-%E5%8D%A2%E6%AF%94%E5%A5%A5%E4%BB%8D%E5%9D%9A%E6%8C%81%E8%AE%BF%E9%97%AE%E4%BB%A5%E8%89%B2%E5%88%97",
+      "source": "rfi.fr",
+      "published": 1757841463
+    },
+    {
+      "id": "25e379f853d5",
+      "title": "以哈戰火未歇　柏林逾1萬人參加挺巴勒斯坦集會",
+      "url": "https://money.udn.com/money/story/5599/9004477",
+      "source": "money.udn.com",
+      "published": 1757841141
+    },
+    {
       "id": "f3f615d74974",
-      "title": "彭博：台陸韓料跟進Fed降息 有望點燃全球股票漲勢",
+      "title": "彭博：台陸韓料跟進 Fed 降息 有望點燃全球股票漲勢",
       "url": "https://money.udn.com/money/story/5599/9004475",
       "source": "money.udn.com",
       "published": 1757840985
@@ -14,6 +42,13 @@
       "url": "https://money.udn.com/money/story/5599/9003664",
       "source": "money.udn.com",
       "published": 1757840945
+    },
+    {
+      "id": "a1db9dd71901",
+      "title": "中方据报已正式邀请特朗普赴北京与习近平举行峰会 贸易芬太尼问题无果白宫尚未回应",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250914-%E4%B8%AD%E6%96%B9%E6%8D%AE%E6%8A%A5%E5%B7%B2%E6%AD%A3%E5%BC%8F%E9%82%80%E8%AF%B7%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B4%E5%8C%97%E4%BA%AC%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BE%E8%A1%8C%E5%B3%B0%E4%BC%9A-%E8%B4%B8%E6%98%93%E8%8A%AC%E5%A4%AA%E5%B0%BC%E9%97%AE%E9%A2%98%E6%97%A0%E6%9E%9C%E7%99%BD%E5%AE%AB%E5%B0%9A%E6%9C%AA%E5%9B%9E%E5%BA%94",
+      "source": "rfi.fr",
+      "published": 1757840623
     },
     {
       "id": "68c0ef6d9e55",
@@ -331,27 +366,6 @@
       "published": 1757825377
     },
     {
-      "id": "a9487ff998bc",
-      "title": "柯克案新進展曝驚人巧合！FBI：凶嫌同居跨性別伴侶「極力協助辦案」",
-      "url": "https://money.udn.com/money/story/5599/9004104",
-      "source": "money.udn.com",
-      "published": 1757823507
-    },
-    {
-      "id": "e9bd20e989c1",
-      "title": "川普訪英將簽署科技協議　聚焦AI等合作",
-      "url": "https://money.udn.com/money/story/10511/9004095",
-      "source": "money.udn.com",
-      "published": 1757823153
-    },
-    {
-      "id": "b59dd4406b26",
-      "title": "川普增派軍力加勒比海緝毒　美F-35戰機現蹤波多黎各",
-      "url": "https://money.udn.com/money/story/5599/9004096",
-      "source": "money.udn.com",
-      "published": 1757823151
-    },
-    {
       "id": "ef98827e3090",
       "title": "百歲人口接近10萬，日本人的長壽秘方是什麼？",
       "url": "https://www.bbc.com/zhongwen/articles/c0lk1kp5kzgo/trad?at_medium=RSS&at_campaign=rss",
@@ -569,13 +583,6 @@
       "published": 1757760780
     },
     {
-      "id": "5bf1f886cbcd",
-      "title": "4名解放军及武警将领被罢免人大代表 含上将王春宁",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250913-4%E5%90%8D%E8%A7%A3%E6%94%BE%E5%86%9B%E5%8F%8A%E6%AD%A6%E8%AD%A6%E5%B0%86%E9%A2%86%E8%A2%AB%E7%BD%A2%E5%85%8D%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8-%E5%90%AB%E4%B8%8A%E5%B0%86%E7%8E%8B%E6%98%A5%E5%AE%81",
-      "source": "rfi.fr",
-      "published": 1757760134
-    },
-    {
       "id": "98e0adc97d5b",
       "title": "“Z世代”抗议得到广泛支持 尼泊尔总统解散议会",
       "url": "https://www.dw.com/zh/z世代-抗议得到广泛支持-尼泊尔总统解散议会/a-73983521?maca=chi-rss-chi-all-1127-rdf",
@@ -602,13 +609,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250913-%E6%B6%89%E8%BF%9D%E5%8F%8D%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8-%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E5%88%A9%E7%9B%8A-%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%A4%8D%E6%97%A6%E5%BE%AE%E7%AD%8923%E5%AE%B6%E4%B8%AD%E5%9B%BD%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5-%E5%AE%9E%E4%BD%93%E6%B8%85%E5%8D%95",
       "source": "rfi.fr",
       "published": 1757755545
-    },
-    {
-      "id": "0b290cd29a06",
-      "title": "美欧支持菲律宾 拒绝中国在黄岩岛设自然保护区计划",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250913-%E7%BE%8E%E6%AC%A7%E6%94%AF%E6%8C%81%E8%8F%B2%E5%BE%8B%E5%AE%BE-%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E5%9C%A8%E9%BB%84%E5%B2%A9%E5%B2%9B%E8%AE%BE%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA%E8%AE%A1%E5%88%92",
-      "source": "rfi.fr",
-      "published": 1757755388
     },
     {
       "id": "c8c1e63d5f8f",
@@ -1402,5 +1402,5 @@
       "published": 1756551120
     }
   ],
-  "build_id": 1757840920
+  "build_id": 1757842327
 }
