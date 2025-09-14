@@ -1,6 +1,34 @@
 {
-  "updated": 1757878332,
+  "updated": 1757880541,
   "items": [
+    {
+      "id": "9f7fc3077f3b",
+      "title": "歡迎外國企業員工赴美 川普：不想嚇走大家",
+      "url": "https://money.udn.com/money/story/5599/9005094",
+      "source": "money.udn.com",
+      "published": 1757880275
+    },
+    {
+      "id": "791fe106aa87",
+      "title": "德国北威州地方选举：基民盟保持最大党地位，选项党成轰动性赢家",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250914-%E5%BE%B7%E5%9B%BD%E5%8C%97%E5%A8%81%E5%B7%9E%E5%9C%B0%E6%96%B9%E9%80%89%E4%B8%BE-%E5%9F%BA%E6%B0%91%E7%9B%9F%E4%BF%9D%E6%8C%81%E6%9C%80%E5%A4%A7%E5%85%9A%E5%9C%B0%E4%BD%8D%EF%BC%8C%E9%80%89%E9%A1%B9%E5%85%9A%E6%88%90%E8%BD%B0%E5%8A%A8%E6%80%A7%E8%B5%A2%E5%AE%B6",
+      "source": "rfi.fr",
+      "published": 1757879978
+    },
+    {
+      "id": "b94f2cc56fdc",
+      "title": "德國地方選舉另類選擇黨勢力升　執政聯盟有壓力",
+      "url": "https://money.udn.com/money/story/5599/9005089",
+      "source": "money.udn.com",
+      "published": 1757879670
+    },
+    {
+      "id": "92445e283dfc",
+      "title": "阿拉伯—伊斯蘭緊急峰會　將聲援卡達譴責以色列",
+      "url": "https://money.udn.com/money/story/5599/9005090",
+      "source": "money.udn.com",
+      "published": 1757879670
+    },
     {
       "id": "686158b6fd0f",
       "title": "乌克兰多架无人机轰炸俄大型炼油厂",
@@ -115,7 +143,7 @@
     },
     {
       "id": "857a81e92872",
-      "title": "賴清德中部座談 彰化盼民調推出人選",
+      "title": "賴清德中部座談 彰化盼民調推出縣長選舉人選",
       "url": "https://udn.com/news/story/6656/9004994",
       "source": "udn.com",
       "published": 1757866226
@@ -191,20 +219,6 @@
       "published": 1757860587
     },
     {
-      "id": "7cc44200156b",
-      "title": "退役風機化身迷你小屋 綠能廢料現商機",
-      "url": "https://money.udn.com/money/story/122381/9004869",
-      "source": "money.udn.com",
-      "published": 1757860523
-    },
-    {
-      "id": "62ac5cea57a6",
-      "title": "全球逐漸喪失乾淨水源 「這項」技術有望解救人類",
-      "url": "https://money.udn.com/money/story/122381/9004872",
-      "source": "money.udn.com",
-      "published": 1757860401
-    },
-    {
       "id": "1a3619b2a14b",
       "title": "枪杀查理·柯克的人是谁？",
       "url": "https://www.dw.com/zh/枪杀查理·柯克的人是谁？/a-73990300?maca=chi-rss-chi-all-1127-rdf",
@@ -217,13 +231,6 @@
       "url": "https://www.dw.com/zh/法国新总理放弃取消两个法定节日计划/a-73990310?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757858880
-    },
-    {
-      "id": "89411548193f",
-      "title": "日本65歲以上長者占總人口近30%創新高 其中近千萬人還在工作",
-      "url": "https://money.udn.com/money/story/5599/9004816",
-      "source": "money.udn.com",
-      "published": 1757858683
     },
     {
       "id": "c9413289afd5",
@@ -637,13 +644,6 @@
       "url": "https://www.dw.com/zh/俄罗斯称与乌克兰谈判-暂停-泽连斯基呼吁盟友敦促中国施压/a-73984512?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757772720
-    },
-    {
-      "id": "f136913473be",
-      "title": "特朗普呼北约国家对华征收50%至100%关税、停购俄石油：我准备好，就等你们了",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250913-%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%8C%97%E7%BA%A6%E5%9B%BD%E5%AE%B6%E5%AF%B9%E5%8D%8E%E5%BE%81%E6%94%B650-%E8%87%B3100-%E5%85%B3%E7%A8%8E-%E5%81%9C%E8%B4%AD%E4%BF%84%E7%9F%B3%E6%B2%B9-%E6%88%91%E5%87%86%E5%A4%87%E5%A5%BD%EF%BC%8C%E5%B0%B1%E7%AD%89%E4%BD%A0%E4%BB%AC%E4%BA%86",
-      "source": "rfi.fr",
-      "published": 1757764565
     },
     {
       "id": "ca2f37e271db",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1757878332
+  "build_id": 1757880541
 }
