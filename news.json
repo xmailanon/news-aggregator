@@ -1,6 +1,13 @@
 {
-  "updated": 1757967006,
+  "updated": 1757968575,
   "items": [
+    {
+      "id": "79ac0df3aa70",
+      "title": "美中磋商TikTok議題　中國代表：達成基本框架共識",
+      "url": "https://money.udn.com/money/story/10511/9007347",
+      "source": "money.udn.com",
+      "published": 1757968570
+    },
     {
       "id": "c6be2c470ed0",
       "title": "對柯克暗殺表態恐被撤簽證 魯比歐：美國不歡迎慶祝謀殺的人",
@@ -101,7 +108,7 @@
     },
     {
       "id": "ccb689ed867d",
-      "title": "1分鐘看世界／黃金交易被泰國官方盯上 研議對採泰銖結算課稅",
+      "title": "1分鐘看世界／泰國黃金交易被官方盯上 研議對採泰銖結算課稅",
       "url": "https://money.udn.com/money/story/5599/9007042",
       "source": "money.udn.com",
       "published": 1757959049
@@ -294,13 +301,6 @@
       "url": "https://udn.com/news/story/124589/9007169",
       "source": "udn.com",
       "published": 1757952000
-    },
-    {
-      "id": "0b4a5019ef0c",
-      "title": "美國決策圈人物誌：主張託管中國大陸所持美債的川普親信史蒂芬·米倫",
-      "url": "https://money.udn.com/money/story/5599/9005197",
-      "source": "money.udn.com",
-      "published": 1757951900
     },
     {
       "id": "c14862531f7d",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1757967006
+  "build_id": 1757968575
 }
