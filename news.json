@@ -1,19 +1,19 @@
 {
-  "updated": 1757927535,
+  "updated": 1757929130,
   "items": [
     {
+      "id": "d8cf0a022d40",
+      "title": "財劃法攻防引盧秀燕批白跑一趟 政院：台北、台中獲大幅挹注",
+      "url": "https://udn.com/news/story/124593/9006550",
+      "source": "udn.com",
+      "published": 1757928159
+    },
+    {
       "id": "c0121e353249",
-      "title": "抗中影響力　澳洲巴布亞紐幾內亞將簽歷史性防務協議",
+      "title": "抗中影響力 澳洲巴布亞紐幾內亞將簽歷史性防務協議",
       "url": "https://money.udn.com/money/story/5599/9006519",
       "source": "money.udn.com",
       "published": 1757927535
-    },
-    {
-      "id": "ddbf0f8903fc",
-      "title": "高雄綠營民代遭起底背後金主是營造、廢清業 封她「砂石小公主」",
-      "url": "https://udn.com/news/story/6656/9006510",
-      "source": "udn.com",
-      "published": 1757927307
     },
     {
       "id": "2ddc9ec3af16",
@@ -483,6 +483,13 @@
       "url": "https://cn.nytimes.com/opinion/20250915/trump-capitalism-china-intel/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1757873271
+    },
+    {
+      "id": "acbb5aac8cad",
+      "title": "中国能刹住电动汽车价格战吗？",
+      "url": "https://www.ftchinese.com/story/001107624",
+      "source": "ftchinese.com",
+      "published": 1757865600
     },
     {
       "id": "f6a178f1bcc4",
@@ -975,13 +982,6 @@
       "published": 1757606400
     },
     {
-      "id": "70e2562db72a",
-      "title": "缠绕的英国：当科技、民主、法律与资本主义交错影响治理",
-      "url": "https://www.ftchinese.com/story/001107602",
-      "source": "ftchinese.com",
-      "published": 1757606400
-    },
-    {
       "id": "d46dbec33939",
       "title": "DW事实核查：如何识别假新闻？",
       "url": "https://www.dw.com/zh/dw事实核查：如何识别假新闻？/a-73962848?maca=chi-rss-chi-news-3224-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1756624260
     }
   ],
-  "build_id": 1757927535
+  "build_id": 1757929130
 }
