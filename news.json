@@ -1,6 +1,20 @@
 {
-  "updated": 1757950642,
+  "updated": 1757952717,
   "items": [
+    {
+      "id": "c14862531f7d",
+      "title": "毒品生产销售 缅甸经济中根深蒂固的祸患",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20250915-%E6%AF%92%E5%93%81%E7%94%9F%E4%BA%A7%E9%94%80%E5%94%AE-%E7%BC%85%E7%94%B8%E7%BB%8F%E6%B5%8E%E4%B8%AD%E6%A0%B9%E6%B7%B1%E8%92%82%E5%9B%BA%E7%9A%84%E7%A5%B8%E6%82%A3",
+      "source": "rfi.fr",
+      "published": 1757951215
+    },
+    {
+      "id": "9574de8ddcdf",
+      "title": "現在就預測 Fed 將快速降息仍為時過早",
+      "url": "https://money.udn.com/money/story/122381/9007252",
+      "source": "money.udn.com",
+      "published": 1757951202
+    },
     {
       "id": "c56a0202c569",
       "title": "英相施凱爾談前駐美大使與淫魔富豪關係：若當初知道更多就不會任命",
@@ -196,13 +210,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250915-%E8%A7%86%E9%A2%91-%E5%8F%AF%E5%8D%A1%E5%9B%A0%E5%A6%82%E4%BD%95%E5%BE%81%E6%9C%8D%E4%B8%96%E7%95%8C",
       "source": "rfi.fr",
       "published": 1757943964
-    },
-    {
-      "id": "b5d5fff78bae",
-      "title": "監測機構：2022迄今集束彈釀逾1200名烏克蘭平民死傷",
-      "url": "https://money.udn.com/money/story/5599/9006976",
-      "source": "money.udn.com",
-      "published": 1757943952
     },
     {
       "id": "7d0537a745d6",
@@ -707,13 +714,6 @@
       "url": "https://www.dw.com/zh/俄罗斯最大炼油厂遭到无人机袭击后起火/a-73989451?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757851080
-    },
-    {
-      "id": "499269269963",
-      "title": "澳大利亚将与邻国巴新签署“共同防御条约” 拟实现两军全面融合",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250914-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%B0%86%E4%B8%8E%E9%82%BB%E5%9B%BD%E5%B7%B4%E6%96%B0%E7%AD%BE%E7%BD%B2-%E5%85%B1%E5%90%8C%E9%98%B2%E5%BE%A1%E6%9D%A1%E7%BA%A6-%E5%AE%9E%E7%8E%B0%E4%B8%A4%E5%86%9B%E5%85%A8%E9%9D%A2%E8%9E%8D%E5%90%88",
-      "source": "rfi.fr",
-      "published": 1757849649
     },
     {
       "id": "5884b6cb0cec",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1757950642
+  "build_id": 1757952717
 }
