@@ -1,6 +1,20 @@
 {
-  "updated": 1757954558,
+  "updated": 1757956107,
   "items": [
+    {
+      "id": "648997910350",
+      "title": "投資人預期聯準會降息　歐洲股市大多收漲",
+      "url": "https://money.udn.com/money/story/5599/9007298",
+      "source": "money.udn.com",
+      "published": 1757955282
+    },
+    {
+      "id": "9cd6c588338c",
+      "title": "卢比奥与内塔尼亚胡在耶路撒冷会晤后表示“哈马斯作为武装组织不应再存在”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250915-%E5%8D%A2%E6%AF%94%E5%A5%A5%E4%B8%8E%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%9C%A8%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E4%BC%9A%E6%99%A4%E5%90%8E%E8%A1%A8%E7%A4%BA-%E5%93%88%E9%A9%AC%E6%96%AF%E4%BD%9C%E4%B8%BA%E6%AD%A6%E8%A3%85%E7%BB%84%E7%BB%87%E4%B8%8D%E5%BA%94%E5%86%8D%E5%AD%98%E5%9C%A8",
+      "source": "rfi.fr",
+      "published": 1757954913
+    },
     {
       "id": "5c829bb44d5b",
       "title": "華爾街日報稱 大陸積極爭取川普訪北京",
@@ -294,13 +308,6 @@
       "url": "https://money.udn.com/money/story/5599/9005898",
       "source": "money.udn.com",
       "published": 1757945473
-    },
-    {
-      "id": "016dbc014791",
-      "title": "親巴民眾中斷環西決賽　西班牙總理稱深感敬佩",
-      "url": "https://money.udn.com/money/story/5599/9007017",
-      "source": "money.udn.com",
-      "published": 1757945249
     },
     {
       "id": "e520f1c1e802",
@@ -714,13 +721,6 @@
       "url": "https://www.dw.com/zh/俄罗斯最大炼油厂遭到无人机袭击后起火/a-73989451?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757851080
-    },
-    {
-      "id": "5884b6cb0cec",
-      "title": "菲律宾、日本、美国在南海举行三国联合军演",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250914-%E8%8F%B2%E5%BE%8B%E5%AE%BE-%E6%97%A5%E6%9C%AC-%E7%BE%8E%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E4%B8%BE%E8%A1%8C%E4%B8%89%E5%9B%BD%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94",
-      "source": "rfi.fr",
-      "published": 1757848668
     },
     {
       "id": "8497e9b3b757",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1757954558
+  "build_id": 1757956107
 }
