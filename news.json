@@ -1,6 +1,27 @@
 {
-  "updated": 1757918851,
+  "updated": 1757920272,
   "items": [
+    {
+      "id": "3fdc0bdf48ca",
+      "title": "泰國考慮對黃金交易課稅 阻升泰銖衝擊出口觀光",
+      "url": "https://money.udn.com/money/story/5599/9006217",
+      "source": "money.udn.com",
+      "published": 1757920090
+    },
+    {
+      "id": "1bdbb6ac90af",
+      "title": "柯文哲羈押庭法官問了「這一句」 法界研判：會再次交保",
+      "url": "https://udn.com/news/story/124589/9006218",
+      "source": "udn.com",
+      "published": 1757920063
+    },
+    {
+      "id": "d825077a4a53",
+      "title": "韓國漣川爆發非洲豬瘟  全國警報升至「嚴重」",
+      "url": "https://money.udn.com/money/story/5599/9006181",
+      "source": "money.udn.com",
+      "published": 1757919249
+    },
     {
       "id": "74a0f40b464c",
       "title": "美學者批台灣搞壞美中關係！籲川普與陸達成協議 撤走駐台教官和武器",
@@ -9,9 +30,9 @@
       "published": 1757918850
     },
     {
-      "id": "5111d66556c8",
+      "id": "984ad147a61b",
       "title": "【重磅快評】怪張善政、蔣萬安未修財劃法？陳其邁的問題大了",
-      "url": "https://udn.com/news/story/6656/9006156",
+      "url": "https://udn.com/news/story/124593/9006156",
       "source": "udn.com",
       "published": 1757918823
     },
@@ -240,13 +261,6 @@
       "published": 1757911024
     },
     {
-      "id": "7ab355c2f1e6",
-      "title": "柯文哲又動怒！庭上批檢察官「手段太惡劣」 法院裁定最快今天出爐",
-      "url": "https://udn.com/news/story/124589/9005831",
-      "source": "udn.com",
-      "published": 1757910767
-    },
-    {
       "id": "aed4cad0c572",
       "title": "柯克案重大進展！FBI懷疑挺跨性別團體涉案 槍手伴侶照片被曝光",
       "url": "https://money.udn.com/money/story/5599/9005813",
@@ -303,25 +317,11 @@
       "published": 1757906625
     },
     {
-      "id": "f4f6bf89070e",
-      "title": "空襲卡達境內哈瑪斯惹議　川普警告以色列保持謹慎",
-      "url": "https://money.udn.com/money/story/10511/9005632",
-      "source": "money.udn.com",
-      "published": 1757906487
-    },
-    {
       "id": "5d2864da2dd4",
       "title": "中美马德里聚首无突破？专家：除非习近平和特朗普会晤",
       "url": "https://www.dw.com/zh/中美马德里聚首无突破？专家：除非习近平和特朗普会晤/a-73989127?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757905680
-    },
-    {
-      "id": "182b1e70ad1f",
-      "title": "芝加哥拉美社區　悼念遭ICE射殺墨裔移民",
-      "url": "https://money.udn.com/money/story/5599/9005605",
-      "source": "money.udn.com",
-      "published": 1757905567
     },
     {
       "id": "40c5a89f5eac",
@@ -427,6 +427,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250914-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%9A%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%BD%B0%E7%82%B8%E4%BF%84%E5%A4%A7%E5%9E%8B%E7%82%BC%E6%B2%B9%E5%8E%82",
       "source": "rfi.fr",
       "published": 1757877965
+    },
+    {
+      "id": "cfa32f41432d",
+      "title": "在美国社会严重分裂的时刻，特朗普无意弥合分歧",
+      "url": "https://cn.nytimes.com/usa/20250915/trump-kirk-polarization-unity/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1757876321
     },
     {
       "id": "8b76762cf45a",
@@ -1178,13 +1185,6 @@
       "published": 1757475141
     },
     {
-      "id": "be437cec5813",
-      "title": "为什么日本的7-Eleven和其他便利店如此特别",
-      "url": "https://cn.nytimes.com/business/20250910/7-eleven-japan-convenience-stores/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1757474516
-    },
-    {
       "id": "25b7d99d527f",
       "title": "為什麼沒有西紅柿就沒有馬鈴薯",
       "url": "https://www.bbc.com/zhongwen/articles/cy049wgd8ljo/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1756624260
     }
   ],
-  "build_id": 1757918851
+  "build_id": 1757920272
 }
