@@ -1,6 +1,13 @@
 {
-  "updated": 1757968575,
+  "updated": 1757970486,
   "items": [
+    {
+      "id": "b3494382b817",
+      "title": "烏克蘭加強攻擊俄羅斯石油設施　國際油價小升",
+      "url": "https://money.udn.com/money/story/5599/9007351",
+      "source": "money.udn.com",
+      "published": 1757970041
+    },
     {
       "id": "79ac0df3aa70",
       "title": "美中磋商TikTok議題　中國代表：達成基本框架共識",
@@ -238,13 +245,6 @@
       "url": "https://udn.com/news/story/124597/9007238",
       "source": "udn.com",
       "published": 1757952281
-    },
-    {
-      "id": "cd63244c71aa",
-      "title": "菲律賓、日本、美國在南中國海舉行演習",
-      "url": "https://money.udn.com/money/story/5599/9005196",
-      "source": "money.udn.com",
-      "published": 1757952231
     },
     {
       "id": "27da58b9d0ad",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1757968575
+  "build_id": 1757970486
 }
