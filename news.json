@@ -1,6 +1,27 @@
 {
-  "updated": 1757945433,
+  "updated": 1757947091,
   "items": [
+    {
+      "id": "8051d1ddc8ab",
+      "title": "中國要日方驅逐台灣代表　外交部：蠻橫作風悖離民主",
+      "url": "https://money.udn.com/money/story/5599/9007062",
+      "source": "money.udn.com",
+      "published": 1757946646
+    },
+    {
+      "id": "817ccc505e2a",
+      "title": "美關稅談判卡關　韓國難達與日本相同協議原因一次看",
+      "url": "https://money.udn.com/money/story/5599/9007027",
+      "source": "money.udn.com",
+      "published": 1757945554
+    },
+    {
+      "id": "21d3a749e4a0",
+      "title": "韓國放棄提高資本利得稅的計畫",
+      "url": "https://money.udn.com/money/story/5599/9005898",
+      "source": "money.udn.com",
+      "published": 1757945473
+    },
     {
       "id": "016dbc014791",
       "title": "親巴民眾中斷環西決賽　西班牙總理稱深感敬佩",
@@ -16,11 +37,25 @@
       "published": 1757945248
     },
     {
-      "id": "fd493da4faf2",
+      "id": "950ae3153ad9",
       "title": "聯準會利率決策前　美股開高特斯拉大漲7%",
-      "url": "https://money.udn.com/money/story/5599/9007001",
+      "url": "https://money.udn.com/money/story/123398/9007001",
       "source": "money.udn.com",
       "published": 1757944852
+    },
+    {
+      "id": "11cafff14035",
+      "title": "中美第四輪經貿會談 貝森特：川習19日將對話 中美就TikTok達框架",
+      "url": "https://money.udn.com/money/story/5599/9006998",
+      "source": "money.udn.com",
+      "published": 1757944772
+    },
+    {
+      "id": "e520f1c1e802",
+      "title": "美国在台协会指责北京政府曲解二战历史文件",
+      "url": "https://www.dw.com/zh/美国在台协会指责北京政府曲解二战历史文件/a-74002272?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1757944260
     },
     {
       "id": "a776df8da22a",
@@ -154,34 +189,6 @@
       "url": "https://udn.com/news/story/124589/9006923",
       "source": "udn.com",
       "published": 1757941385
-    },
-    {
-      "id": "b9264f5973f4",
-      "title": "為何 Fed 即將恢復降息或擾亂股市漲勢？投資人如何準備",
-      "url": "https://money.udn.com/money/story/5599/9006917",
-      "source": "money.udn.com",
-      "published": 1757941184
-    },
-    {
-      "id": "14954d153089",
-      "title": "川普：美中最新經貿會談超順利 周五和習近平通話",
-      "url": "https://money.udn.com/money/story/5599/9006901",
-      "source": "money.udn.com",
-      "published": 1757940426
-    },
-    {
-      "id": "a0dfa91c8ff9",
-      "title": "川普：本周五將和習近平通話 暗示雙方就 TikTok 達成協議",
-      "url": "https://money.udn.com/money/story/5599/9006892",
-      "source": "money.udn.com",
-      "published": 1757940081
-    },
-    {
-      "id": "c6c4e1de933e",
-      "title": "美援斷炊　辛巴威性工作者防染病以嬰兒襪代替保險套",
-      "url": "https://money.udn.com/money/story/5599/9006888",
-      "source": "money.udn.com",
-      "published": 1757939772
     },
     {
       "id": "f9cdb7f03b7d",
@@ -891,13 +898,6 @@
       "published": 1757683500
     },
     {
-      "id": "2946b1c6ffbc",
-      "title": "无人机入侵、大规模军演：北约东翼面临多大危险？",
-      "url": "https://www.dw.com/zh/无人机入侵、大规模军演：北约东翼面临多大危险？/a-73976705?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757677620
-    },
-    {
       "id": "f7a40a0dc1a4",
       "title": "小紅書被罰：社交媒體熱搜榜成為「清朗」對象",
       "url": "https://www.bbc.com/zhongwen/articles/czewd15n32yo/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1756624200
     }
   ],
-  "build_id": 1757945433
+  "build_id": 1757947091
 }
