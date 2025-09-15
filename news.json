@@ -1,5 +1,5 @@
 {
-  "updated": 1757975730,
+  "updated": 1757977712,
   "items": [
     {
       "id": "7c3dcec725eb",
@@ -336,6 +336,13 @@
       "url": "https://udn.com/news/story/124597/9007234",
       "source": "udn.com",
       "published": 1757952140
+    },
+    {
+      "id": "fa5a6ffc266d",
+      "title": "罗永浩与西贝之争：预制菜不是原罪",
+      "url": "https://www.ftchinese.com/story/001107627",
+      "source": "ftchinese.com",
+      "published": 1757952000
     },
     {
       "id": "816c9c15b26f",
@@ -982,13 +989,6 @@
       "published": 1757606400
     },
     {
-      "id": "2262cca71efc",
-      "title": "美国的“友谊”对日本来说更贵了",
-      "url": "https://www.ftchinese.com/story/001107605",
-      "source": "ftchinese.com",
-      "published": 1757606400
-    },
-    {
       "id": "d46dbec33939",
       "title": "DW事实核查：如何识别假新闻？",
       "url": "https://www.dw.com/zh/dw事实核查：如何识别假新闻？/a-73962848?maca=chi-rss-chi-news-3224-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1757975730
+  "build_id": 1757977712
 }
