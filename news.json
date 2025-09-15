@@ -1,6 +1,55 @@
 {
-  "updated": 1757957733,
+  "updated": 1757960043,
   "items": [
+    {
+      "id": "f5bb61d0bf8a",
+      "title": "川普赴英國是訪問　美英將公布逾100億美元協議",
+      "url": "https://money.udn.com/money/story/10511/9007312",
+      "source": "money.udn.com",
+      "published": 1757959596
+    },
+    {
+      "id": "cebc8e23fed5",
+      "title": "馬斯克增持特斯拉股10億美元 股價大漲有望收復今年來失土",
+      "url": "https://money.udn.com/money/story/123398/9007071",
+      "source": "money.udn.com",
+      "published": 1757959395
+    },
+    {
+      "id": "007db494c8cc",
+      "title": "美英聯手推動核能發展 川普訪英 催動模組化反應爐投資計畫",
+      "url": "https://money.udn.com/money/story/5599/9007072",
+      "source": "money.udn.com",
+      "published": 1757959274
+    },
+    {
+      "id": "d00a41839de2",
+      "title": "航運業海上防火 AI 幫忙 業界擬利用演算法找出風險",
+      "url": "https://money.udn.com/money/story/5599/9007076",
+      "source": "money.udn.com",
+      "published": 1757959140
+    },
+    {
+      "id": "534521aa308c",
+      "title": "韓美關稅談判 僵局難解",
+      "url": "https://money.udn.com/money/story/5599/9007081",
+      "source": "money.udn.com",
+      "published": 1757959126
+    },
+    {
+      "id": "2d673fb89db0",
+      "title": "加國砸錢推平價住宅",
+      "url": "https://money.udn.com/money/story/5599/9007082",
+      "source": "money.udn.com",
+      "published": 1757959125
+    },
+    {
+      "id": "ccb689ed867d",
+      "title": "1分鐘看世界／黃金交易被泰國官方盯上 研議對採泰銖結算課稅",
+      "url": "https://money.udn.com/money/story/5599/9007042",
+      "source": "money.udn.com",
+      "published": 1757959049
+    },
     {
       "id": "cf2f2600efcb",
       "title": "朝鲜称其核武状态不可逆转",
@@ -9,9 +58,9 @@
       "published": 1757956892
     },
     {
-      "id": "aceb0401f910",
+      "id": "1230aad34ec9",
       "title": "AI前景樂觀反壟斷案勝訴　Alphabet市值達3兆美元",
-      "url": "https://money.udn.com/money/story/5599/9007303",
+      "url": "https://money.udn.com/money/story/123398/9007303",
       "source": "money.udn.com",
       "published": 1757956889
     },
@@ -30,13 +79,6 @@
       "published": 1757954913
     },
     {
-      "id": "5c829bb44d5b",
-      "title": "華爾街日報稱 大陸積極爭取川普訪北京",
-      "url": "https://udn.com/news/story/6656/9007224",
-      "source": "udn.com",
-      "published": 1757953012
-    },
-    {
       "id": "8ac7a0aefa9e",
       "title": "市場為聯準會連續降息蓄勢 過度樂觀押注恐面臨風險",
       "url": "https://money.udn.com/money/story/5599/9005194",
@@ -45,29 +87,22 @@
     },
     {
       "id": "1c779cd28ae9",
-      "title": "走讀案黃國昌未到 綠諷特權 白批恐嚇人民",
+      "title": "「走讀案」黃國昌未到 綠諷特權 白批恐嚇人民",
       "url": "https://udn.com/news/story/124589/9007167",
       "source": "udn.com",
       "published": 1757952916
     },
     {
-      "id": "b5c1db34104e",
-      "title": "美中科技戰未歇...輝達違反「反壟斷法」？大陸徹查",
-      "url": "https://udn.com/news/story/6656/9007217",
-      "source": "udn.com",
-      "published": 1757952847
-    },
-    {
       "id": "6c9c45baf830",
-      "title": "京華城案 台北地院更裁 柯文哲維持交保",
+      "title": "京華城案台北地院更裁 柯文哲維持交保",
       "url": "https://udn.com/news/story/124589/9007153",
       "source": "udn.com",
       "published": 1757952805
     },
     {
-      "id": "f147f38f126e",
+      "id": "cc09e983f4b2",
       "title": "華府智庫專家：美應縮減區域軍事部署",
-      "url": "https://udn.com/news/story/6656/9007203",
+      "url": "https://udn.com/news/story/10930/9007203",
       "source": "udn.com",
       "published": 1757952724
     },
@@ -170,9 +205,23 @@
       "published": 1757952000
     },
     {
+      "id": "e24cc69ad99e",
+      "title": "陽光行動／顧失智母近20年 張善政：痛苦漫長的告別",
+      "url": "https://udn.com/news/story/124597/9007176",
+      "source": "udn.com",
+      "published": 1757952000
+    },
+    {
       "id": "e3e4165a2995",
       "title": "捷運補助款被大砍 地方須舉債",
       "url": "https://udn.com/news/story/124593/9007199",
+      "source": "udn.com",
+      "published": 1757952000
+    },
+    {
+      "id": "f471c4e518c4",
+      "title": "藍主席改選 傅崐萁喊黨中央協調",
+      "url": "https://udn.com/news/story/122404/9007206",
       "source": "udn.com",
       "published": 1757952000
     },
@@ -184,9 +233,9 @@
       "published": 1757952000
     },
     {
-      "id": "f471c4e518c4",
-      "title": "藍主席改選 傅崐萁喊黨中央協調",
-      "url": "https://udn.com/news/story/122404/9007206",
+      "id": "3fe4f42c2124",
+      "title": "柯文哲維持交保 小草相迎",
+      "url": "https://udn.com/news/story/124589/9007169",
       "source": "udn.com",
       "published": 1757952000
     },
@@ -261,60 +310,11 @@
       "published": 1757948242
     },
     {
-      "id": "b625e423124a",
-      "title": "美財長：美中兩國已就TikTok達成架構協議",
-      "url": "https://money.udn.com/money/story/5599/9007101",
-      "source": "money.udn.com",
-      "published": 1757948051
-    },
-    {
-      "id": "c3734523b581",
-      "title": "印度美國官員將會面談貿易　盼緩解關稅爭端",
-      "url": "https://money.udn.com/money/story/5599/9007100",
-      "source": "money.udn.com",
-      "published": 1757948051
-    },
-    {
-      "id": "26abf3909b75",
-      "title": "川普：企業不應每季發布財報　改為每半年提交即可",
-      "url": "https://money.udn.com/money/story/10511/9007103",
-      "source": "money.udn.com",
-      "published": 1757948050
-    },
-    {
-      "id": "d39ad8eaf118",
-      "title": "泰國對柬埔寨黃金出口異常激增 引發調查呼聲",
-      "url": "https://money.udn.com/money/story/5599/9005656",
-      "source": "money.udn.com",
-      "published": 1757947612
-    },
-    {
-      "id": "1e0704341a37",
-      "title": "澤倫斯基點名中國未展現停戰誠意 高調接待普丁",
-      "url": "https://money.udn.com/money/story/5599/9007087",
-      "source": "money.udn.com",
-      "published": 1757947536
-    },
-    {
-      "id": "dc801928f332",
-      "title": "自民黨總裁選舉　小泉進次郎擬找加藤勝信爭取黨員票",
-      "url": "https://money.udn.com/money/story/5599/9007089",
-      "source": "money.udn.com",
-      "published": 1757947535
-    },
-    {
       "id": "d50f69eac8bc",
       "title": "《亚伯拉罕协议》五周年：中东和平能否昨日重现？",
       "url": "https://www.dw.com/zh/《亚伯拉罕协议》五周年：中东和平能否昨日重现？/a-74002856?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757946120
-    },
-    {
-      "id": "817ccc505e2a",
-      "title": "美關稅談判卡關　韓國難達與日本相同協議原因一次看",
-      "url": "https://money.udn.com/money/story/5599/9007027",
-      "source": "money.udn.com",
-      "published": 1757945554
     },
     {
       "id": "e520f1c1e802",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1757957733
+  "build_id": 1757960043
 }
