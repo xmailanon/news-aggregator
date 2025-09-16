@@ -1,6 +1,48 @@
 {
-  "updated": 1758039088,
+  "updated": 1758040952,
   "items": [
+    {
+      "id": "002b8adb8c57",
+      "title": "政治獻金案 柯文哲嗆檢：怎不抄小英商號",
+      "url": "https://udn.com/news/story/124589/9009679",
+      "source": "udn.com",
+      "published": 1758040078
+    },
+    {
+      "id": "6652f56b716a",
+      "title": "川普再提終結季報披露傳統 華爾街紛紛發出警告",
+      "url": "https://money.udn.com/money/story/5599/9007435",
+      "source": "money.udn.com",
+      "published": 1758040060
+    },
+    {
+      "id": "9c02d55ead5b",
+      "title": "總統府前資政丁懋時逝世 享壽99歲",
+      "url": "https://udn.com/news/story/6656/9009729",
+      "source": "udn.com",
+      "published": 1758040044
+    },
+    {
+      "id": "409a50984f85",
+      "title": "馬英九挺羅智強 本土藍支持郝龍斌",
+      "url": "https://udn.com/news/story/122404/9009677",
+      "source": "udn.com",
+      "published": 1758040003
+    },
+    {
+      "id": "76fe32f5ac4e",
+      "title": "冷眼集／民調持續探底 總統依舊鬥雞",
+      "url": "https://udn.com/news/story/124593/9009673",
+      "source": "udn.com",
+      "published": 1758039836
+    },
+    {
+      "id": "5d75eefc5637",
+      "title": "盧秀燕質疑捷運補助「卡盧」 交部：沒政治考量",
+      "url": "https://udn.com/news/story/124593/9009671",
+      "source": "udn.com",
+      "published": 1758039696
+    },
     {
       "id": "25c379e16ce6",
       "title": "米倫出任聯準會理事提名獲參議院確認 可趕上周二的貨幣政策會議",
@@ -282,25 +324,11 @@
       "published": 1758028805
     },
     {
-      "id": "20a40b57527c",
-      "title": "美國公布主要毒品生產與轉運國名單　中國在列",
-      "url": "https://money.udn.com/money/story/5599/9009410",
-      "source": "money.udn.com",
-      "published": 1758027973
-    },
-    {
       "id": "dcadbd630377",
       "title": "美国务卿卢比奥访卡塔尔 促请继续调节 或敲定国防合作协议",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250916-%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%8D%A2%E6%AF%94%E5%A5%A5%E8%AE%BF%E5%8D%A1%E5%A1%94%E5%B0%94-%E4%BF%83%E8%AF%B7%E7%BB%A7%E7%BB%AD%E8%B0%83%E8%8A%82-%E6%88%96%E6%95%B2%E5%AE%9A%E5%9B%BD%E9%98%B2%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE",
       "source": "rfi.fr",
       "published": 1758027762
-    },
-    {
-      "id": "cc86c5296083",
-      "title": "南北發展不均…高雄捷運遭中央砍補助103億 無奈發聲了",
-      "url": "https://udn.com/news/story/124593/9009386",
-      "source": "udn.com",
-      "published": 1758027070
     },
     {
       "id": "1f1717fd159f",
@@ -329,34 +357,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250916-%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E5%90%8E%E5%9D%A6%E5%85%8B%E5%BC%80%E8%BF%9B%E5%8A%A0%E6%B2%99%E5%9F%8E-%E5%8D%A2%E6%AF%94%E5%A5%A5%E8%AD%A6%E5%91%8A%E5%93%88%E9%A9%AC%E6%96%AF%E7%94%9F%E5%AD%98%E7%AA%97%E5%8F%A3%E6%9C%9F%E9%9D%9E%E5%B8%B8%E7%9F%AD",
       "source": "rfi.fr",
       "published": 1758024781
-    },
-    {
-      "id": "177b5a73e4bd",
-      "title": "台鹽綠能弊案調查官洩密遭起訴 黃國昌：南檢鋸箭偵辦遇權貴軟腳",
-      "url": "https://udn.com/news/story/6656/9009310",
-      "source": "udn.com",
-      "published": 1758024767
-    },
-    {
-      "id": "ccf6aac2fe8e",
-      "title": "吳宗憲批韌性特別預算編1億宣傳 政院：政策推出應讓民眾了解使用",
-      "url": "https://udn.com/news/story/124593/9009307",
-      "source": "udn.com",
-      "published": 1758024724
-    },
-    {
-      "id": "6aaf6d20c30f",
-      "title": "陸船艇頻偷渡滲透 監院要政院、海巡署等機關檢討改進",
-      "url": "https://udn.com/news/story/10930/9009303",
-      "source": "udn.com",
-      "published": 1758024609
-    },
-    {
-      "id": "6fce416af204",
-      "title": "賴總統：周六舉辦防衛韌性國際論壇 邀MDA分享戰傷醫療",
-      "url": "https://udn.com/news/story/6656/9009296",
-      "source": "udn.com",
-      "published": 1758024568
     },
     {
       "id": "b6870f90317d",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758039088
+  "build_id": 1758040952
 }
