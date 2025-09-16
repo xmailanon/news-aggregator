@@ -1,6 +1,27 @@
 {
-  "updated": 1758056889,
+  "updated": 1758058312,
   "items": [
+    {
+      "id": "58b1e37e3a58",
+      "title": "華爾街緊盯聯準會決策會議　美股收盤走勢不一",
+      "url": "https://money.udn.com/money/story/10511/9009858",
+      "source": "money.udn.com",
+      "published": 1758058237
+    },
+    {
+      "id": "88e99cdf14d7",
+      "title": "特朗普抵英展开国事访问 微软将在英投资逾300亿美元",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250916-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%8B%B1%E5%9B%BD%E5%B1%95%E5%BC%80%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE-%E5%BE%AE%E8%BD%AF%E5%B0%86%E5%9C%A8%E8%8B%B1%E6%8A%95%E8%B5%84%E9%80%BE300%E4%BA%BF%E7%BE%8E%E5%85%83",
+      "source": "rfi.fr",
+      "published": 1758057717
+    },
+    {
+      "id": "fcda382ba83c",
+      "title": "川普4度延長TikTok寬限期　將與習近平通話確認協議",
+      "url": "https://money.udn.com/money/story/10511/9009847",
+      "source": "money.udn.com",
+      "published": 1758056769
+    },
     {
       "id": "98f225f5b3e8",
       "title": "美保守派網紅柯克命案　檢方以謀殺罪起訴犯嫌",
@@ -196,20 +217,6 @@
       "url": "https://udn.com/news/story/124593/9009671",
       "source": "udn.com",
       "published": 1758039696
-    },
-    {
-      "id": "25c379e16ce6",
-      "title": "米倫出任聯準會理事提名獲參議院確認 可趕上周二的貨幣政策會議",
-      "url": "https://money.udn.com/money/story/5599/9007512",
-      "source": "money.udn.com",
-      "published": 1758039172
-    },
-    {
-      "id": "2a496090565c",
-      "title": "將「Alpha」添加到公司名中的一家量化基金今年已下跌11.4%",
-      "url": "https://money.udn.com/money/story/5599/9007513",
-      "source": "money.udn.com",
-      "published": 1758038940
     },
     {
       "id": "9d6179d49555",
@@ -707,13 +714,6 @@
       "url": "https://www.ftchinese.com/story/001107627",
       "source": "ftchinese.com",
       "published": 1757952000
-    },
-    {
-      "id": "c14862531f7d",
-      "title": "毒品生产销售 缅甸经济中根深蒂固的祸患",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20250915-%E6%AF%92%E5%93%81%E7%94%9F%E4%BA%A7%E9%94%80%E5%94%AE-%E7%BC%85%E7%94%B8%E7%BB%8F%E6%B5%8E%E4%B8%AD%E6%A0%B9%E6%B7%B1%E8%92%82%E5%9B%BA%E7%9A%84%E7%A5%B8%E6%82%A3",
-      "source": "rfi.fr",
-      "published": 1757951215
     },
     {
       "id": "6fceff8f03e4",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758056889
+  "build_id": 1758058312
 }
