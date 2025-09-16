@@ -1,12 +1,33 @@
 {
-  "updated": 1758015494,
+  "updated": 1758017435,
   "items": [
     {
-      "id": "b79b1371a050",
-      "title": "國民黨：淡江大橋合龍見「賴式馬屁布條」比北韓還北韓",
-      "url": "https://udn.com/news/story/6656/9009013",
+      "id": "57e09c802218",
+      "title": "以色列對加薩市發動地面攻勢　軍官稱已深入市中心",
+      "url": "https://money.udn.com/money/story/5599/9009055",
+      "source": "money.udn.com",
+      "published": 1758016835
+    },
+    {
+      "id": "bc06c1dd06ef",
+      "title": "快時尚衝擊　法成衣業者疾呼團結面對中國「危險」",
+      "url": "https://money.udn.com/money/story/5599/9009056",
+      "source": "money.udn.com",
+      "published": 1758016835
+    },
+    {
+      "id": "eaaa655aba2c",
+      "title": "熱錢湧入！新台幣再衝30元關卡 升值1.27角收30.101元",
+      "url": "https://udn.com/news/story/7314/9009030",
       "source": "udn.com",
-      "published": 1758015710
+      "published": 1758016058
+    },
+    {
+      "id": "769f2ce451e9",
+      "title": "韓國瑜接見法國友台小組訪團 盼持續深化雙邊合作",
+      "url": "https://udn.com/news/story/6656/9009018",
+      "source": "udn.com",
+      "published": 1758015875
     },
     {
       "id": "ef9aa909d1f3",
@@ -37,9 +58,9 @@
       "published": 1758014977
     },
     {
-      "id": "bc375b8b8de6",
-      "title": "黨魁選舉混戰 凌濤：別以為掌握軍系、地方派系票就能贏",
-      "url": "https://udn.com/news/story/6656/9008984",
+      "id": "af22c1d7c58f",
+      "title": "國民黨魁選舉混戰 凌濤：別以為掌握軍系、地方派系票就能贏",
+      "url": "https://udn.com/news/story/122404/9008984",
       "source": "udn.com",
       "published": 1758014931
     },
@@ -247,20 +268,6 @@
       "published": 1758010018
     },
     {
-      "id": "e826cc578243",
-      "title": "日本政府樂見美國調降車稅　企業負擔依舊沉重",
-      "url": "https://money.udn.com/money/story/5599/9008763",
-      "source": "money.udn.com",
-      "published": 1758009974
-    },
-    {
-      "id": "03b5e3d36e33",
-      "title": "與華府關係緊張　巴西下週聯合國大會尚未取得美簽",
-      "url": "https://money.udn.com/money/story/10511/9008748",
-      "source": "money.udn.com",
-      "published": 1758009837
-    },
-    {
       "id": "938c979441d8",
       "title": "影／轟「賴握滔天權勢情感溫度還輸柯」 黃國昌：大多數公民有眼睛",
       "url": "https://udn.com/news/story/6656/9008734",
@@ -310,13 +317,6 @@
       "published": 1758007430
     },
     {
-      "id": "3f2f4bd97463",
-      "title": "柯文哲自比曼德拉挨轟 沈政男：判決未出爐憑什麼說人家貪汙",
-      "url": "https://udn.com/news/story/124589/9008639",
-      "source": "udn.com",
-      "published": 1758007260
-    },
-    {
       "id": "673f8634d340",
       "title": "中國指控美國晶片巨頭輝達違反反壟斷法",
       "url": "https://www.bbc.com/zhongwen/articles/cly9r9pj83zo/trad?at_medium=RSS&at_campaign=rss",
@@ -364,13 +364,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c5yg8g8z9ddo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1757995401
-    },
-    {
-      "id": "da5295a3108a",
-      "title": "中美就TikTok所有权问题达成“框架性”协议",
-      "url": "https://cn.nytimes.com/business/20250915/us-china-trade-talks-tariffs-tiktok/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1757994514
     },
     {
       "id": "7a0d6e2920a4",
@@ -462,6 +455,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250915-%E8%8B%B1%E5%9B%BD%E5%9B%A0-%E8%AF%81%E6%8D%AE%E4%B8%8D%E8%B6%B3-%E6%92%A4%E9%94%80%E4%B8%A4%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D%E6%A1%88%E6%8C%87%E6%8E%A7",
       "source": "rfi.fr",
       "published": 1757972248
+    },
+    {
+      "id": "da5295a3108a",
+      "title": "中美就TikTok所有权问题达成“框架性”协议",
+      "url": "https://cn.nytimes.com/business/20250915/us-china-trade-talks-tariffs-tiktok/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1757972227
     },
     {
       "id": "ea65a8d12b5d",
@@ -1402,5 +1402,5 @@
       "published": 1756624260
     }
   ],
-  "build_id": 1758015494
+  "build_id": 1758017435
 }
