@@ -1,12 +1,40 @@
 {
-  "updated": 1758064044,
+  "updated": 1758065518,
   "items": [
+    {
+      "id": "6674a74c37c2",
+      "title": "德國420萬人繳不出水電費   1/3人口無應急儲蓄",
+      "url": "https://money.udn.com/money/story/5599/9009912",
+      "source": "money.udn.com",
+      "published": 1758065435
+    },
+    {
+      "id": "96930f1a512e",
+      "title": "柯克遇刺與網路社群極端化　社媒業者一片安靜",
+      "url": "https://money.udn.com/money/story/10511/9009909",
+      "source": "money.udn.com",
+      "published": 1758064873
+    },
+    {
+      "id": "d70946090b63",
+      "title": "美股收盤／三大指數收低 Fed 決議前投資人謹慎 費半九連漲創八年來最長紀錄",
+      "url": "https://money.udn.com/money/story/123398/9009907",
+      "source": "money.udn.com",
+      "published": 1758064236
+    },
     {
       "id": "f26b2a8eae4f",
       "title": "国际独立调查委员会指以色列正在加沙进行种族灭绝",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250916-%E5%9B%BD%E9%99%85%E7%8B%AC%E7%AB%8B%E8%B0%83%E6%9F%A5%E5%A7%94%E5%91%98%E4%BC%9A%E6%8C%87%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%9C%A8%E5%8A%A0%E6%B2%99%E8%BF%9B%E8%A1%8C%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D",
       "source": "rfi.fr",
       "published": 1758062983
+    },
+    {
+      "id": "99e6dad1af8b",
+      "title": "美方稱台灣政治地位未定？華府學者：美國以前沒明說",
+      "url": "https://udn.com/news/story/6656/9009861",
+      "source": "udn.com",
+      "published": 1758062280
     },
     {
       "id": "2fb9bf4a353c",
@@ -63,13 +91,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250916-%E7%BE%8E%E5%86%9B-%E5%A0%A4%E4%B8%B0-%E4%B8%AD%E7%A8%8B%E5%AF%BC%E5%BC%B9%E7%B3%BB%E7%BB%9F%E9%A6%96%E6%AC%A1%E5%9C%A8%E6%97%A5%E4%BA%AE%E7%9B%B8-%E5%89%91%E6%8C%87%E4%B8%AD%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1758058823
-    },
-    {
-      "id": "99e6dad1af8b",
-      "title": "美方稱台灣政治地位未定？華府學者：美國以前沒明說",
-      "url": "https://udn.com/news/story/6656/9009861",
-      "source": "udn.com",
-      "published": 1758058684
     },
     {
       "id": "6d0a6482ae30",
@@ -217,27 +238,6 @@
       "url": "https://money.udn.com/money/story/5599/9009588",
       "source": "money.udn.com",
       "published": 1758043497
-    },
-    {
-      "id": "33ca4347d013",
-      "title": "美銀：全球股市有望續漲",
-      "url": "https://money.udn.com/money/story/5599/9009585",
-      "source": "money.udn.com",
-      "published": 1758043497
-    },
-    {
-      "id": "318b7a2f72c6",
-      "title": "字母市值衝3兆美元 Google 母公司今年來股價飆漲33%",
-      "url": "https://money.udn.com/money/story/123398/9009560",
-      "source": "money.udn.com",
-      "published": 1758043424
-    },
-    {
-      "id": "472eb98edfc3",
-      "title": "輝達銷陸新晶片 RTX6000D 定價高 買氣平淡",
-      "url": "https://money.udn.com/money/story/123398/9009561",
-      "source": "money.udn.com",
-      "published": 1758043318
     },
     {
       "id": "2e99789e452a",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758064044
+  "build_id": 1758065518
 }
