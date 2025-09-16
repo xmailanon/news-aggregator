@@ -1,6 +1,20 @@
 {
-  "updated": 1758053450,
+  "updated": 1758055012,
   "items": [
+    {
+      "id": "98f225f5b3e8",
+      "title": "美保守派網紅柯克命案　檢方以謀殺罪起訴犯嫌",
+      "url": "https://money.udn.com/money/story/5599/9009839",
+      "source": "money.udn.com",
+      "published": 1758054645
+    },
+    {
+      "id": "70208c56a45f",
+      "title": "美迪士尼等3大影業巨擘　怒告中國AI公司MiniMax侵權",
+      "url": "https://money.udn.com/money/story/5599/9009834",
+      "source": "money.udn.com",
+      "published": 1758054074
+    },
     {
       "id": "7c59104e9a7e",
       "title": "川普宣布美中即將達成協議 TikTok 禁令 再延期至12月",
@@ -233,25 +247,11 @@
       "published": 1758038245
     },
     {
-      "id": "64a951eb211e",
-      "title": "墨西哥中國商會警告關稅計畫將阻礙中國大陸投資 呼籲政府予以重新考慮",
-      "url": "https://money.udn.com/money/story/5599/9007579",
-      "source": "money.udn.com",
-      "published": 1758038025
-    },
-    {
       "id": "4b264f0e6f95",
       "title": "賴清德：新財劃法 地方應多扛責",
       "url": "https://udn.com/news/story/124593/9009670",
       "source": "udn.com",
       "published": 1758037486
-    },
-    {
-      "id": "159d5b41b04a",
-      "title": "日本央行料按兵不動 政壇動盪給利率路徑再添不確定性",
-      "url": "https://money.udn.com/money/story/5599/9007766",
-      "source": "money.udn.com",
-      "published": 1758036521
     },
     {
       "id": "ef570fcdab63",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758053450
+  "build_id": 1758055012
 }
