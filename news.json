@@ -1,6 +1,27 @@
 {
-  "updated": 1757995899,
+  "updated": 1757997557,
   "items": [
+    {
+      "id": "181ac7536a26",
+      "title": "獨家AI分析大林蒲空汙數據 聯合報入圍曾虛白新聞獎",
+      "url": "https://udn.com/news/story/7314/9008123",
+      "source": "udn.com",
+      "published": 1757996286
+    },
+    {
+      "id": "370f5f76723a",
+      "title": "美國擊沉一艘疑似委內瑞拉毒品船，造成三人死亡",
+      "url": "https://www.bbc.com/zhongwen/articles/cwyr3rlng18o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1757996254
+    },
+    {
+      "id": "994871dfed6c",
+      "title": "興達電廠火災後…中火天然氣機組停工　盧秀燕爆：中央要求復工",
+      "url": "https://udn.com/news/story/6656/9008118",
+      "source": "udn.com",
+      "published": 1757996025
+    },
     {
       "id": "31f5ca5331d9",
       "title": "惠譽：美干預晶片業恐扭曲台積電等業者資本投資 造成效率低落",
@@ -301,20 +322,6 @@
       "url": "https://cn.nytimes.com/opinion/20250916/taiwan-china-war-trump/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1757987717
-    },
-    {
-      "id": "4dafab6770b4",
-      "title": "柯文哲昨闖關再交保   今詰問口中「冤獄」李文宗1.5小時",
-      "url": "https://udn.com/news/story/124589/9007609",
-      "source": "udn.com",
-      "published": 1757986704
-    },
-    {
-      "id": "4ee3c775e0a2",
-      "title": "吳思瑤：對內死不認錯 對外知錯不改 國民黨誰當主席都一樣",
-      "url": "https://udn.com/news/story/122404/9007591",
-      "source": "udn.com",
-      "published": 1757986422
     },
     {
       "id": "e8a990de832a",
@@ -982,13 +989,6 @@
       "published": 1757657163
     },
     {
-      "id": "52240511e24d",
-      "title": "未來十年，我們可能在哪裡發現外星人？",
-      "url": "https://www.bbc.com/zhongwen/articles/cpd9eq95143o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1757656025
-    },
-    {
       "id": "80a4389c08fb",
       "title": "美財長赴馬德里會晤何立峰　帶TikTok議題上談判桌",
       "url": "https://www.dw.com/zh/美財長赴馬德里會晤何立峰　帶tiktok議題上談判桌/a-73971321?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1756624200
     }
   ],
-  "build_id": 1757995899
+  "build_id": 1757997557
 }
