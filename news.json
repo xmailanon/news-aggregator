@@ -1,6 +1,13 @@
 {
-  "updated": 1758136054,
+  "updated": 1758137535,
   "items": [
+    {
+      "id": "01f57078f719",
+      "title": "Fed 決策／聯準會下修勞動市場評估 稱就業惡化風險已增加",
+      "url": "https://money.udn.com/money/story/5599/9012385",
+      "source": "money.udn.com",
+      "published": 1758136716
+    },
     {
       "id": "30f94d6e009c",
       "title": "阿里新品 拚取代 H20",
@@ -154,13 +161,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/ce842748rr6o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1758128298
-    },
-    {
-      "id": "fdefae1cb329",
-      "title": "格陵蘭「北極之光2025」軍演　丹麥未邀美軍參加",
-      "url": "https://money.udn.com/money/story/5599/9012331",
-      "source": "money.udn.com",
-      "published": 1758127228
     },
     {
       "id": "3c8ca70d8df0",
@@ -1402,5 +1402,5 @@
       "published": 1756706106
     }
   ],
-  "build_id": 1758136054
+  "build_id": 1758137535
 }
