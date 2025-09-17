@@ -1,12 +1,47 @@
 {
-  "updated": 1758150516,
+  "updated": 1758151917,
   "items": [
+    {
+      "id": "3da42c6c60ad",
+      "title": "川普經濟顧問加入聯準會　 鮑爾：仍致力維持獨立性",
+      "url": "https://money.udn.com/money/story/10511/9012499",
+      "source": "money.udn.com",
+      "published": 1758151838
+    },
+    {
+      "id": "c5a3454e204c",
+      "title": "美國同意輸台IBCS指管系統 國造飛彈可望接通美製雷達",
+      "url": "https://udn.com/news/story/10930/9011313",
+      "source": "udn.com",
+      "published": 1758151800
+    },
+    {
+      "id": "d6424fc97be4",
+      "title": "美股收盤／那指、標普回落 費半結束九連漲 Fed 降息沒給市場驚喜",
+      "url": "https://money.udn.com/money/story/123398/9012492",
+      "source": "money.udn.com",
+      "published": 1758151030
+    },
     {
       "id": "ed8f310e1d7e",
       "title": "加國議員古柏：ICAO須邀台灣參加大會 停止姑息北京",
       "url": "https://money.udn.com/money/story/10511/9012490",
       "source": "money.udn.com",
       "published": 1758150729
+    },
+    {
+      "id": "2889968187dc",
+      "title": "【專家之眼】兩次台灣地位未定論 美國今非昔比",
+      "url": "https://udn.com/news/story/6656/9012485",
+      "source": "udn.com",
+      "published": 1758150007
+    },
+    {
+      "id": "3c8ca70d8df0",
+      "title": "喊話賴主席 郝龍斌：徐國勇言論是否已威脅到國家安全",
+      "url": "https://udn.com/news/story/124605/9012324",
+      "source": "udn.com",
+      "published": 1758149340
     },
     {
       "id": "d5e9e4fd0d02",
@@ -205,25 +240,11 @@
       "published": 1758134673
     },
     {
-      "id": "d4c9258cb690",
-      "title": "歐巴馬：柯克遇刺後  美國處於團結或分裂轉捩點",
-      "url": "https://money.udn.com/money/story/10511/9012373",
-      "source": "money.udn.com",
-      "published": 1758133277
-    },
-    {
       "id": "c344eb3d17d9",
       "title": "对中国而言，美国对欧洲施压加剧其外交的不可靠感",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250917-%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%80%8C%E8%A8%80%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%AF%B9%E6%AC%A7%E6%B4%B2%E7%9A%84%E6%96%BD%E5%8E%8B%E5%8A%A0%E5%89%A7%E5%AF%B9%E5%85%B6%E5%A4%96%E4%BA%A4%E6%84%9F%E8%A7%89%E4%B8%8D%E5%8F%AF%E9%9D%A0",
       "source": "rfi.fr",
       "published": 1758133235
-    },
-    {
-      "id": "79c240b40126",
-      "title": "美國就業市場疲軟　聯準會降息1碼",
-      "url": "https://money.udn.com/money/story/5599/9012370",
-      "source": "money.udn.com",
-      "published": 1758132751
     },
     {
       "id": "aaac2c2464ce",
@@ -238,13 +259,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/ce842748rr6o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1758128298
-    },
-    {
-      "id": "3c8ca70d8df0",
-      "title": "喊話賴主席 郝龍斌：徐國勇言論是否已威脅到國家安全",
-      "url": "https://udn.com/news/story/124605/9012324",
-      "source": "udn.com",
-      "published": 1758126523
     },
     {
       "id": "3c1e1384fa32",
@@ -355,20 +369,6 @@
       "id": "6a45134da19f",
       "title": "劍指柯建銘？賴清德：黨團3長應選舉 非指定",
       "url": "https://udn.com/news/story/6656/9012206",
-      "source": "udn.com",
-      "published": 1758123694
-    },
-    {
-      "id": "8a091a119e40",
-      "title": "避免少數總統 藍委推二輪投票制",
-      "url": "https://udn.com/news/story/6656/9012212",
-      "source": "udn.com",
-      "published": 1758123694
-    },
-    {
-      "id": "1c7388d8a6a9",
-      "title": "綠初選 台南、高雄、嘉縣年底完成",
-      "url": "https://udn.com/news/story/6656/9012210",
       "source": "udn.com",
       "published": 1758123694
     },
@@ -1402,5 +1402,5 @@
       "published": 1756706106
     }
   ],
-  "build_id": 1758150516
+  "build_id": 1758151917
 }
