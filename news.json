@@ -1,6 +1,27 @@
 {
-  "updated": 1758130527,
+  "updated": 1758132825,
   "items": [
+    {
+      "id": "5202085a8e41",
+      "title": "美國就業市場疲軟　聯準會降息1碼",
+      "url": "https://money.udn.com/money/story/10511/9012370",
+      "source": "money.udn.com",
+      "published": 1758132751
+    },
+    {
+      "id": "4ef343fc16ec",
+      "title": "Fed 決策／川普重返白宮後首降 聯準會宣布降息1碼至4%-4.25%",
+      "url": "https://money.udn.com/money/story/5599/9012364",
+      "source": "money.udn.com",
+      "published": 1758132210
+    },
+    {
+      "id": "7b73a10a0715",
+      "title": "川普訪英國享王室禮遇　倫敦爆反川遊行5千人上街",
+      "url": "https://money.udn.com/money/story/5599/9012361",
+      "source": "money.udn.com",
+      "published": 1758131647
+    },
     {
       "id": "aaac2c2464ce",
       "title": "鸵鸟和鸸鹋的祖先曾在空中翱翔过",
@@ -58,16 +79,16 @@
       "published": 1758128938
     },
     {
-      "id": "bd28db895516",
-      "title": "Rivian 喬治亞州廠 動工",
-      "url": "https://money.udn.com/money/story/123398/9012075",
+      "id": "98b85552b82a",
+      "title": "禮來口服減重藥 加速上市",
+      "url": "https://money.udn.com/money/story/123398/9012076",
       "source": "money.udn.com",
       "published": 1758128928
     },
     {
-      "id": "98b85552b82a",
-      "title": "禮來口服減重藥 加速上市",
-      "url": "https://money.udn.com/money/story/123398/9012076",
+      "id": "bd28db895516",
+      "title": "Rivian 喬治亞州廠 動工",
+      "url": "https://money.udn.com/money/story/123398/9012075",
       "source": "money.udn.com",
       "published": 1758128928
     },
@@ -94,7 +115,7 @@
     },
     {
       "id": "1f23150ae463",
-      "title": "金價還會上衝？美銀德銀齊聲喊多：明年上看4,000美元",
+      "title": "金價還會上衝？美銀、德銀齊聲喊多：明年上看4,000美元",
       "url": "https://money.udn.com/money/story/5599/9012328",
       "source": "money.udn.com",
       "published": 1758126809
@@ -107,9 +128,9 @@
       "published": 1758126635
     },
     {
-      "id": "027fa63e70ce",
+      "id": "3c8ca70d8df0",
       "title": "喊話賴主席 郝龍斌：徐國勇言論是否已威脅到國家安全",
-      "url": "https://udn.com/news/story/6656/9012324",
+      "url": "https://udn.com/news/story/124605/9012324",
       "source": "udn.com",
       "published": 1758126523
     },
@@ -156,9 +177,9 @@
       "published": 1758125749
     },
     {
-      "id": "93dbd238d8d8",
+      "id": "817a6a77cf98",
       "title": "徐國勇指沒有台灣光復節 藍白批挑戰憲法",
-      "url": "https://udn.com/news/story/6656/9012260",
+      "url": "https://udn.com/news/story/124605/9012260",
       "source": "udn.com",
       "published": 1758125673
     },
@@ -254,13 +275,6 @@
       "published": 1758123694
     },
     {
-      "id": "1c7388d8a6a9",
-      "title": "綠初選 台南、高雄、嘉縣年底完成",
-      "url": "https://udn.com/news/story/6656/9012210",
-      "source": "udn.com",
-      "published": 1758123694
-    },
-    {
       "id": "8a091a119e40",
       "title": "避免少數總統 藍委推二輪投票制",
       "url": "https://udn.com/news/story/6656/9012212",
@@ -268,18 +282,11 @@
       "published": 1758123694
     },
     {
-      "id": "068ee8e9a9a8",
-      "title": "聯準會利率決議前夕 美元一度逼近三年低位",
-      "url": "https://money.udn.com/money/story/5599/9010227",
-      "source": "money.udn.com",
-      "published": 1758123011
-    },
-    {
-      "id": "9796fa86bf88",
-      "title": "歐盟施壓加薩休兵　提案對以色列課徵新關稅並且制裁",
-      "url": "https://money.udn.com/money/story/5599/9012175",
-      "source": "money.udn.com",
-      "published": 1758121950
+      "id": "1c7388d8a6a9",
+      "title": "綠初選 台南、高雄、嘉縣年底完成",
+      "url": "https://udn.com/news/story/6656/9012210",
+      "source": "udn.com",
+      "published": 1758123694
     },
     {
       "id": "e04d4d7ece77",
@@ -287,13 +294,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250917-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B8%8E%E5%B7%B4%E6%96%B0%E7%AD%BE%E7%BD%B2%E5%9B%BD%E9%98%B2%E5%85%AC%E6%8A%A5-%E5%B0%B1-%E5%85%B1%E5%90%8C%E9%98%B2%E5%BE%A1-%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4-%E4%BD%86%E6%8E%A8%E8%BF%9F%E7%AD%BE%E5%9B%BD%E9%98%B2%E5%8D%8F%E8%AE%AE",
       "source": "rfi.fr",
       "published": 1758121032
-    },
-    {
-      "id": "dbd1dab03924",
-      "title": "鹿兒島4.7地震最大震度5弱 後續再傳接連地震",
-      "url": "https://money.udn.com/money/story/5599/9012132",
-      "source": "money.udn.com",
-      "published": 1758120934
     },
     {
       "id": "cd2628cb694e",
@@ -331,9 +331,9 @@
       "published": 1758117760
     },
     {
-      "id": "054e999268bc",
+      "id": "a086526558b7",
       "title": "台灣沒光復？ 藍青年嗆：還想當殖民地或戰敗國",
-      "url": "https://udn.com/news/story/6656/9011989",
+      "url": "https://udn.com/news/story/124605/9011989",
       "source": "udn.com",
       "published": 1758115366
     },
@@ -1402,5 +1402,5 @@
       "published": 1756706106
     }
   ],
-  "build_id": 1758130527
+  "build_id": 1758132825
 }
