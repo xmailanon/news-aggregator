@@ -1,19 +1,26 @@
 {
-  "updated": 1758137535,
+  "updated": 1758139805,
   "items": [
+    {
+      "id": "e1548fe21d53",
+      "title": "Fed 決策／官員意外團結 僅新理事米倫主張降息2碼",
+      "url": "https://money.udn.com/money/story/5599/9012398",
+      "source": "money.udn.com",
+      "published": 1758138513
+    },
+    {
+      "id": "59629baee294",
+      "title": "經濟快評：Fed 降息1碼，後續動作仍不確定",
+      "url": "https://money.udn.com/money/story/5599/9012395",
+      "source": "money.udn.com",
+      "published": 1758138150
+    },
     {
       "id": "01f57078f719",
       "title": "Fed 決策／聯準會下修勞動市場評估 稱就業惡化風險已增加",
       "url": "https://money.udn.com/money/story/5599/9012385",
       "source": "money.udn.com",
       "published": 1758136716
-    },
-    {
-      "id": "30f94d6e009c",
-      "title": "阿里新品 拚取代 H20",
-      "url": "https://money.udn.com/money/story/123398/9012195",
-      "source": "money.udn.com",
-      "published": 1758135949
     },
     {
       "id": "1ef40c5d514e",
@@ -147,13 +154,6 @@
       "url": "https://money.udn.com/money/story/123398/9012075",
       "source": "money.udn.com",
       "published": 1758128928
-    },
-    {
-      "id": "8a5e83361f4f",
-      "title": "1分鐘看世界／日本全國平均地價年增1.5% 漲幅創33年來新高",
-      "url": "https://money.udn.com/money/story/5599/9011975",
-      "source": "money.udn.com",
-      "published": 1758128815
     },
     {
       "id": "d80dbc3dbaa6",
@@ -1402,5 +1402,5 @@
       "published": 1756706106
     }
   ],
-  "build_id": 1758137535
+  "build_id": 1758139805
 }
