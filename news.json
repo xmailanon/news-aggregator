@@ -1,9 +1,23 @@
 {
-  "updated": 1758107273,
+  "updated": 1758108736,
   "items": [
     {
+      "id": "4deddc2044c6",
+      "title": "德國總理發出警世之言：自由、繁榮和團結面臨威脅 改革刻不容緩",
+      "url": "https://money.udn.com/money/story/5599/9011494",
+      "source": "money.udn.com",
+      "published": 1758108510
+    },
+    {
+      "id": "6442e2658651",
+      "title": "英國通膨率維持在2024年初以來最高水準 央行或維持利率不變",
+      "url": "https://money.udn.com/money/story/5599/9011224",
+      "source": "money.udn.com",
+      "published": 1758107484
+    },
+    {
       "id": "acfe49cd348c",
-      "title": "蘋果 iPhone 在華銷量大幅下滑 政府補貼效益還沒來？",
+      "title": "蘋果 iPhone 在華銷量大幅下滑 新機發售能力挽頹勢？",
       "url": "https://money.udn.com/money/story/5599/9011308",
       "source": "money.udn.com",
       "published": 1758107168
@@ -266,20 +280,6 @@
       "url": "https://money.udn.com/money/story/122381/9004677",
       "source": "money.udn.com",
       "published": 1758099455
-    },
-    {
-      "id": "55bc8a0c9c22",
-      "title": "阿拉伯版聊天機器人 吸引目光",
-      "url": "https://money.udn.com/money/story/122381/9004606",
-      "source": "money.udn.com",
-      "published": 1758099439
-    },
-    {
-      "id": "c5657d2fbee8",
-      "title": "私募界愛馬仕 陸富豪趨之若鶩",
-      "url": "https://money.udn.com/money/story/122381/9004703",
-      "source": "money.udn.com",
-      "published": 1758099410
     },
     {
       "id": "afc10b86e3bf",
@@ -1402,5 +1402,5 @@
       "published": 1756624200
     }
   ],
-  "build_id": 1758107273
+  "build_id": 1758108736
 }
