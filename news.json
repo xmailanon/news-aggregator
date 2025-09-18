@@ -1,6 +1,13 @@
 {
-  "updated": 1758223921,
+  "updated": 1758226264,
   "items": [
+    {
+      "id": "05b8e5481299",
+      "title": "俄國堪察加東海岸附近強震規模7.8　觸發海嘯警報",
+      "url": "https://money.udn.com/money/story/5599/9014997",
+      "source": "money.udn.com",
+      "published": 1758224736
+    },
     {
       "id": "a86c1a16f167",
       "title": "川普：美國盼重新掌控阿富汗巴格蘭空軍基地",
@@ -161,13 +168,6 @@
       "url": "https://money.udn.com/money/story/10511/9014929",
       "source": "money.udn.com",
       "published": 1758212351
-    },
-    {
-      "id": "098038e3dc4f",
-      "title": "Fed「第三使命」浮上檯面 債市規則恐全改寫",
-      "url": "https://money.udn.com/money/story/122381/9014924",
-      "source": "money.udn.com",
-      "published": 1758211998
     },
     {
       "id": "d784da67cff7",
@@ -1402,5 +1402,5 @@
       "published": 1756624260
     }
   ],
-  "build_id": 1758223921
+  "build_id": 1758226264
 }
