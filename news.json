@@ -1,6 +1,20 @@
 {
-  "updated": 1758219267,
+  "updated": 1758221092,
   "items": [
+    {
+      "id": "5274cb9399ec",
+      "title": "萬美玲會見捷克參議員與駐台代表 強化台捷合作交流",
+      "url": "https://udn.com/news/story/6656/9014974",
+      "source": "udn.com",
+      "published": 1758219556
+    },
+    {
+      "id": "b15cf0df1032",
+      "title": "南韓大財團啟動大徵才 三星、SK海力士、現代響應",
+      "url": "https://money.udn.com/money/story/5599/9014724",
+      "source": "money.udn.com",
+      "published": 1758219317
+    },
     {
       "id": "b406a11d628a",
       "title": "英央行放慢縮表步調",
@@ -156,18 +170,11 @@
       "published": 1758211950
     },
     {
-      "id": "957e6452ce0e",
-      "title": "英語AI 2／重細節的日本人，如何用AI學好英語會話？早上就開始",
-      "url": "https://money.udn.com/money/story/122979/8952204",
+      "id": "213bff7b58ce",
+      "title": "川普訪英送投資大禮包 英前副首相：那是矽谷的「殘羹剩飯」",
+      "url": "https://money.udn.com/money/story/5599/9014728",
       "source": "money.udn.com",
-      "published": 1758211603
-    },
-    {
-      "id": "de949fc3f33a",
-      "title": "英語AI 1／不再「怕丟臉」，每天5分鐘AI特訓提升英語會話能力",
-      "url": "https://money.udn.com/money/story/122979/8952199",
-      "source": "money.udn.com",
-      "published": 1758211437
+      "published": 1758211852
     },
     {
       "id": "c9a92b8730ab",
@@ -233,13 +240,6 @@
       "published": 1758210106
     },
     {
-      "id": "9244f4fc1ec2",
-      "title": "光復節不放假？徐國勇：依法執行",
-      "url": "https://udn.com/news/story/124605/9014794",
-      "source": "udn.com",
-      "published": 1758209584
-    },
-    {
       "id": "8cc016768007",
       "title": "藍黨魁之爭 郝龍斌打臉羅智強",
       "url": "https://udn.com/news/story/122404/9014792",
@@ -247,16 +247,23 @@
       "published": 1758209584
     },
     {
-      "id": "f259b176f85b",
-      "title": "我方承諾 4年買3千億美國農產品",
-      "url": "https://udn.com/news/story/6656/9014787",
+      "id": "9244f4fc1ec2",
+      "title": "光復節不放假？徐國勇：依法執行",
+      "url": "https://udn.com/news/story/124605/9014794",
       "source": "udn.com",
-      "published": 1758209527
+      "published": 1758209584
     },
     {
       "id": "f01b451c85ed",
       "title": "我方承諾買美國農產品 藍促政府公布採購清單",
       "url": "https://udn.com/news/story/6656/9014789",
+      "source": "udn.com",
+      "published": 1758209527
+    },
+    {
+      "id": "f259b176f85b",
+      "title": "關稅戰策略？我方承諾 4年買3000億元美國農產品",
+      "url": "https://udn.com/news/story/6656/9014787",
       "source": "udn.com",
       "published": 1758209527
     },
@@ -269,7 +276,7 @@
     },
     {
       "id": "b1c834c43da4",
-      "title": "立院今開議 柯總召保衛戰攤牌",
+      "title": "立院今開議 「柯總召」保衛戰攤牌",
       "url": "https://udn.com/news/story/6656/9014795",
       "source": "udn.com",
       "published": 1758209526
@@ -378,13 +385,6 @@
       "url": "https://udn.com/news/story/124593/9014553",
       "source": "udn.com",
       "published": 1758202372
-    },
-    {
-      "id": "d6c0410c0ead",
-      "title": "立委倡議獲政院支持 明年起生育一胎補助10萬元",
-      "url": "https://udn.com/news/story/124606/9014536",
-      "source": "udn.com",
-      "published": 1758201531
     },
     {
       "id": "a68e56b55f18",
@@ -1402,5 +1402,5 @@
       "published": 1756624260
     }
   ],
-  "build_id": 1758219267
+  "build_id": 1758221092
 }
