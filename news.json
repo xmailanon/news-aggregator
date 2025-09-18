@@ -1,6 +1,13 @@
 {
-  "updated": 1758221092,
+  "updated": 1758222474,
   "items": [
+    {
+      "id": "a86c1a16f167",
+      "title": "川普：美國盼重新掌控阿富汗巴格蘭空軍基地",
+      "url": "https://money.udn.com/money/story/10511/9014982",
+      "source": "money.udn.com",
+      "published": 1758221131
+    },
     {
       "id": "5274cb9399ec",
       "title": "萬美玲會見捷克參議員與駐台代表 強化台捷合作交流",
@@ -168,13 +175,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20250918-%E4%B8%96%E8%B4%B8%E7%BB%84%E7%BB%87%E6%B8%94%E4%B8%9A%E8%A1%A5%E8%B4%B4%E5%8D%8F%E5%AE%9A%E5%AE%9E%E6%96%BD%E5%B0%86%E6%94%B9%E5%8F%98%E4%BB%80%E4%B9%88",
       "source": "rfi.fr",
       "published": 1758211950
-    },
-    {
-      "id": "213bff7b58ce",
-      "title": "川普訪英送投資大禮包 英前副首相：那是矽谷的「殘羹剩飯」",
-      "url": "https://money.udn.com/money/story/5599/9014728",
-      "source": "money.udn.com",
-      "published": 1758211852
     },
     {
       "id": "c9a92b8730ab",
@@ -1402,5 +1402,5 @@
       "published": 1756624260
     }
   ],
-  "build_id": 1758221092
+  "build_id": 1758222474
 }
