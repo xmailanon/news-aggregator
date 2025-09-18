@@ -1,6 +1,27 @@
 {
-  "updated": 1758233328,
+  "updated": 1758234878,
   "items": [
+    {
+      "id": "8743d5a7381a",
+      "title": "德国联邦卡特尔局批准京东收购欧洲最大电子零售商",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250918-%E5%BE%B7%E5%9B%BD%E8%81%94%E9%82%A6%E5%8D%A1%E7%89%B9%E5%B0%94%E5%B1%80%E6%89%B9%E5%87%86%E4%BA%AC%E4%B8%9C%E6%94%B6%E8%B4%AD%E6%AC%A7%E6%B4%B2%E6%9C%80%E5%A4%A7%E7%94%B5%E5%AD%90%E9%9B%B6%E5%94%AE%E5%95%86",
+      "source": "rfi.fr",
+      "published": 1758234794
+    },
+    {
+      "id": "0ab25e1af060",
+      "title": "特习通话 峰会有谱？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250918-%E7%89%B9%E4%B9%A0%E9%80%9A%E8%AF%9D-%E5%B3%B0%E4%BC%9A%E6%9C%89%E8%B0%B1",
+      "source": "rfi.fr",
+      "published": 1758234347
+    },
+    {
+      "id": "3d3bc42618f5",
+      "title": "川普赴英國是訪問不忘提柯克　再批吉米金摩「沒才華」",
+      "url": "https://money.udn.com/money/story/10511/9015054",
+      "source": "money.udn.com",
+      "published": 1758233554
+    },
     {
       "id": "3520d3ca6456",
       "title": "黃仁勳談入股英特爾　指政府未介入、續評估代工技術",
@@ -14,6 +35,13 @@
       "url": "https://money.udn.com/money/story/5599/9015029",
       "source": "money.udn.com",
       "published": 1758232852
+    },
+    {
+      "id": "1a689e5d7e18",
+      "title": "【專家之眼】預判臺海和戰──從「時限論」回歸「條件論」",
+      "url": "https://udn.com/news/story/10930/9015025",
+      "source": "udn.com",
+      "published": 1758232823
     },
     {
       "id": "54fa72bf993b",
@@ -205,13 +233,6 @@
       "published": 1758216638
     },
     {
-      "id": "da0ccf3f932c",
-      "title": "輝達投資英特爾 牽動台積 黃仁勳：一起擴大AI生態系",
-      "url": "https://money.udn.com/money/story/5599/9014802",
-      "source": "money.udn.com",
-      "published": 1758214832
-    },
-    {
       "id": "a5ccba948cfd",
       "title": "邱議瑩民調逆襲第一？高市議員黃彥毓：按綠初選規則 賴瑞隆才最高",
       "url": "https://udn.com/news/story/6656/9014937",
@@ -394,13 +415,6 @@
       "published": 1758204360
     },
     {
-      "id": "ee1a8f898092",
-      "title": "卓榮泰不領普發現金：留給國家做更有意義用途",
-      "url": "https://udn.com/news/story/6656/9014599",
-      "source": "udn.com",
-      "published": 1758204184
-    },
-    {
       "id": "2cc3042c499e",
       "title": "俄罗斯和中国黑客攻击德国企业网络 致损失近3000亿欧元",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250918-%E4%BF%84%E7%BD%97%E6%96%AF%E5%92%8C%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB%E5%BE%B7%E5%9B%BD%E4%BC%81%E4%B8%9A%E7%BD%91%E7%BB%9C-%E8%87%B4%E6%8D%9F%E5%A4%B1%E8%BF%913000%E4%BA%BF%E6%AC%A7%E5%85%83",
@@ -520,25 +534,11 @@
       "published": 1758195145
     },
     {
-      "id": "b584041931d5",
-      "title": "联合国削减预算非洲影响较小",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20250918-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E8%81%94%E5%90%88%E5%9B%BD%E5%89%8A%E5%87%8F%E9%A2%84%E7%AE%97%E9%9D%9E%E6%B4%B2%E5%BD%B1%E5%93%8D%E8%BE%83%E5%B0%8F",
-      "source": "rfi.fr",
-      "published": 1758194333
-    },
-    {
       "id": "3fb933eac9a8",
       "title": "香山论坛开幕 中国防长威胁收复台湾",
       "url": "https://www.dw.com/zh/香山论坛开幕-中国防长威胁收复台湾/a-74043013?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758193800
-    },
-    {
-      "id": "74abb45105c8",
-      "title": "法国抗议政府紧缩预算大动员日：行动与诉求",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250918-%E6%B3%95%E5%9B%BD%E6%8A%97%E8%AE%AE%E6%94%BF%E5%BA%9C%E7%B4%A7%E7%BC%A9%E9%A2%84%E7%AE%97%E5%A4%A7%E5%8A%A8%E5%91%98%E6%97%A5-%E8%A1%8C%E5%8A%A8%E4%B8%8E%E8%AF%89%E6%B1%82",
-      "source": "rfi.fr",
-      "published": 1758193354
     },
     {
       "id": "5b837cc1dbec",
@@ -1402,5 +1402,5 @@
       "published": 1756624260
     }
   ],
-  "build_id": 1758233328
+  "build_id": 1758234878
 }
