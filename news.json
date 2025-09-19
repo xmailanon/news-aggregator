@@ -1,6 +1,13 @@
 {
-  "updated": 1758278363,
+  "updated": 1758280090,
   "items": [
+    {
+      "id": "03937b52a32c",
+      "title": "最新数据：中国近五分之一青年人失业",
+      "url": "https://www.dw.com/zh/最新数据：中国近五分之一青年人失业/a-74028397?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1758278940
+    },
     {
       "id": "7e5ec7f63c70",
       "title": "旅法华语挺藏女青年回国探亲后失踪，律师江天勇被不明身分人士带走",
@@ -23,6 +30,13 @@
       "published": 1758278130
     },
     {
+      "id": "a4b890085c5d",
+      "title": "環境部推紡織品循環 115年公私部門估10萬件",
+      "url": "https://udn.com/news/story/7314/9016668",
+      "source": "udn.com",
+      "published": 1758278122
+    },
+    {
       "id": "4a752875b694",
       "title": "台湾太空中心主任呼吁加快卫星计划：时间紧迫",
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20250919-%E5%8F%B0%E6%B9%BE%E5%A4%AA%E7%A9%BA%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%BB%BB%E5%91%BC%E5%90%81%E5%8A%A0%E5%BF%AB%E5%8D%AB%E6%98%9F%E8%AE%A1%E5%88%92-%E6%97%B6%E9%97%B4%E7%B4%A7%E8%BF%AB",
@@ -35,6 +49,13 @@
       "url": "https://money.udn.com/money/story/5599/9016667",
       "source": "money.udn.com",
       "published": 1758277835
+    },
+    {
+      "id": "61fb23d1f07a",
+      "title": "因應樺加沙颱風 行政院超前部署召開前置情資研判會議",
+      "url": "https://udn.com/news/story/6656/9016660",
+      "source": "udn.com",
+      "published": 1758277729
     },
     {
       "id": "792a3368619d",
@@ -303,13 +324,6 @@
       "published": 1758269968
     },
     {
-      "id": "7be6edf98001",
-      "title": "「中央、地方各出一半」財劃法爭議 王惠美：地方政府較吃力",
-      "url": "https://udn.com/news/story/124593/9016236",
-      "source": "udn.com",
-      "published": 1758269518
-    },
-    {
       "id": "512c779bd135",
       "title": "比和牛便宜還健康！雜交牛肉在日本熱銷 如何翻轉大眾刻板印象？",
       "url": "https://money.udn.com/money/story/120769/9014446",
@@ -343,13 +357,6 @@
       "url": "https://money.udn.com/money/story/5599/9016254",
       "source": "money.udn.com",
       "published": 1758268451
-    },
-    {
-      "id": "a7c2d536b3d2",
-      "title": "「朱傅體制」將盡 藍新黨魁與黨團互動受考驗…藍委揭一重點",
-      "url": "https://udn.com/news/story/122404/9016223",
-      "source": "udn.com",
-      "published": 1758267399
     },
     {
       "id": "eb43ada94b44",
@@ -714,13 +721,6 @@
       "url": "https://www.dw.com/zh/欧盟提议对以色列实施制裁/a-74030034?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758203040
-    },
-    {
-      "id": "03937b52a32c",
-      "title": "最新数据：中国近五分之一青年人失业",
-      "url": "https://www.dw.com/zh/最新数据：中国近五分之一青年人失业/a-74028397?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1758202980
     },
     {
       "id": "559bcb355007",
@@ -1402,5 +1402,5 @@
       "published": 1756624200
     }
   ],
-  "build_id": 1758278363
+  "build_id": 1758280090
 }
