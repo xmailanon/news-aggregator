@@ -1,6 +1,48 @@
 {
-  "updated": 1758265780,
+  "updated": 1758267171,
   "items": [
+    {
+      "id": "09c9e1115621",
+      "title": "陳其邁談高雄市長綠營初選 盼彼此坐下協調",
+      "url": "https://udn.com/news/story/6656/9016200",
+      "source": "udn.com",
+      "published": 1758266718
+    },
+    {
+      "id": "faf7cc022947",
+      "title": "【重磅快評】撥1成統籌款蓋捷運 伍勝園敢要南2都比照？",
+      "url": "https://udn.com/news/story/124593/9016179",
+      "source": "udn.com",
+      "published": 1758265957
+    },
+    {
+      "id": "e517f79293ec",
+      "title": "徐國勇稱「台灣無光復節」今籲勿歪樓 趙少康批：歪樓的是你",
+      "url": "https://udn.com/news/story/124605/9016175",
+      "source": "udn.com",
+      "published": 1758265912
+    },
+    {
+      "id": "563497621c2c",
+      "title": "傳川普為促川習會「叫停對台軍援」 國防部：未經雙方政府公告規劃",
+      "url": "https://udn.com/news/story/10930/9016171",
+      "source": "udn.com",
+      "published": 1758265786
+    },
+    {
+      "id": "4a9709938763",
+      "title": "傳川普不批120億元對台軍援 府：台美各項安全議題緊密合作",
+      "url": "https://udn.com/news/story/6656/9016157",
+      "source": "udn.com",
+      "published": 1758265527
+    },
+    {
+      "id": "812503a581df",
+      "title": "傳川普暫停對台120億軍援 總統府回應了",
+      "url": "https://udn.com/news/story/6656/9016156",
+      "source": "udn.com",
+      "published": 1758265491
+    },
     {
       "id": "eb43ada94b44",
       "title": "油價明年只剩 50 美元，全球石油公司大裁員",
@@ -12,13 +54,6 @@
       "id": "ac8bab8bba15",
       "title": "日銀計劃減持日股ETF　東京股市收黑",
       "url": "https://money.udn.com/money/story/5599/9016146",
-      "source": "money.udn.com",
-      "published": 1758265252
-    },
-    {
-      "id": "ddf5ec6f266e",
-      "title": "AIT提台灣地位未定　旅日台僑團體籲政府辦公聽會",
-      "url": "https://money.udn.com/money/story/5599/9016144",
       "source": "money.udn.com",
       "published": 1758265252
     },
@@ -219,20 +254,6 @@
       "published": 1758259422
     },
     {
-      "id": "aeee3c8b209c",
-      "title": "台灣對美採購百億農產 農業大縣縣長張麗善回應了",
-      "url": "https://udn.com/news/story/7314/9015876",
-      "source": "udn.com",
-      "published": 1758259373
-    },
-    {
-      "id": "768b3938d519",
-      "title": "國家防災日 賴總統視導地震避難演練",
-      "url": "https://udn.com/news/story/7314/9015863",
-      "source": "udn.com",
-      "published": 1758259151
-    },
-    {
       "id": "d8b1e303219d",
       "title": "紐約民主黨抗議聯邦移民設施  官員民代多人被捕",
       "url": "https://money.udn.com/money/story/10511/9015839",
@@ -252,20 +273,6 @@
       "url": "https://money.udn.com/money/story/123398/9015838",
       "source": "money.udn.com",
       "published": 1758258667
-    },
-    {
-      "id": "e9d2c9c2d3d7",
-      "title": "民眾黨提新會期優先法案 柯文哲條款、公投綁大選入列",
-      "url": "https://udn.com/news/story/6656/9015832",
-      "source": "udn.com",
-      "published": 1758258505
-    },
-    {
-      "id": "17fd425211ab",
-      "title": "賴清德與宜蘭黨公職座談 傳將勸進林國漳參選縣長",
-      "url": "https://udn.com/news/story/6656/9015827",
-      "source": "udn.com",
-      "published": 1758258424
     },
     {
       "id": "6e129d79ac81",
@@ -289,25 +296,18 @@
       "published": 1758257689
     },
     {
-      "id": "4b28b40aed0f",
-      "title": "捷克參院外委會主席訪台 吳志中感謝捷克國會對台支持",
-      "url": "https://udn.com/news/story/6656/9015754",
-      "source": "udn.com",
-      "published": 1758257271
-    },
-    {
-      "id": "38f03788c551",
-      "title": "921國家防災日將屆 賴總統視導防災演練",
-      "url": "https://udn.com/news/story/7314/9015776",
-      "source": "udn.com",
-      "published": 1758257264
-    },
-    {
       "id": "723156068c0d",
       "title": "印尼中巴布亞6.1淺層地震　機場玻璃碎裂暫未傳傷亡",
       "url": "https://money.udn.com/money/story/5599/9015773",
       "source": "money.udn.com",
       "published": 1758257109
+    },
+    {
+      "id": "8570727de499",
+      "title": "軟銀願景基金擬裁員20% 資源轉向AI",
+      "url": "https://money.udn.com/money/story/5599/9015758",
+      "source": "money.udn.com",
+      "published": 1758256712
     },
     {
       "id": "0f8082c0aadd",
@@ -464,6 +464,13 @@
       "published": 1758211950
     },
     {
+      "id": "5fe5f8b4f4b4",
+      "title": "以“美”作为抵抗与生存之力",
+      "url": "https://www.ftchinese.com/story/001107643",
+      "source": "ftchinese.com",
+      "published": 1758211200
+    },
+    {
       "id": "79c0ca88f94b",
       "title": "孙太一：从“三国演义”视角看台海态势与中美关系",
       "url": "https://www.ftchinese.com/story/001107687",
@@ -523,13 +530,6 @@
       "id": "1d6035e08349",
       "title": "通胀顽固、经济乏力，英国央行维持4%利率并放缓缩表",
       "url": "https://www.ftchinese.com/story/001107680",
-      "source": "ftchinese.com",
-      "published": 1758211200
-    },
-    {
-      "id": "5fe5f8b4f4b4",
-      "title": "以“美”作为抵抗与生存之力",
-      "url": "https://www.ftchinese.com/story/001107643",
       "source": "ftchinese.com",
       "published": 1758211200
     },
@@ -1402,5 +1402,5 @@
       "published": 1756624200
     }
   ],
-  "build_id": 1758265780
+  "build_id": 1758267171
 }
