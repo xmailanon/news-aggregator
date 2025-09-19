@@ -1,6 +1,20 @@
 {
-  "updated": 1758308859,
+  "updated": 1758310310,
   "items": [
+    {
+      "id": "bdccf7263029",
+      "title": "继波兰罗马尼亚后 俄战斗机侵犯又一北约国家空域",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250919-%E7%BB%A7%E6%B3%A2%E5%85%B0%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E5%90%8E-%E4%BF%84%E6%88%98%E6%96%97%E6%9C%BA%E4%BE%B5%E7%8A%AF%E5%8F%88%E4%B8%80%E5%8C%97%E7%BA%A6%E5%9B%BD%E5%AE%B6%E7%A9%BA%E5%9F%9F",
+      "source": "rfi.fr",
+      "published": 1758310004
+    },
+    {
+      "id": "e989795bf395",
+      "title": "川普莫迪通話後　傳印度商業部長近期赴美貿易談判",
+      "url": "https://money.udn.com/money/story/10511/9017324",
+      "source": "money.udn.com",
+      "published": 1758309133
+    },
     {
       "id": "dfe14d4dbbd5",
       "title": "傳OpenAI擬斥資1000億美元　租用備份伺服器",
@@ -210,13 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/9017129",
       "source": "money.udn.com",
       "published": 1758296132
-    },
-    {
-      "id": "2fdbfb2d3f43",
-      "title": "川習通話：確認APEC川習會 川普明年訪中",
-      "url": "https://money.udn.com/money/story/5599/9017124",
-      "source": "money.udn.com",
-      "published": 1758296036
     },
     {
       "id": "48b03f303bdf",
@@ -616,13 +623,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250918-%E7%89%B9%E4%B9%A0%E9%80%9A%E8%AF%9D-%E5%B3%B0%E4%BC%9A%E6%9C%89%E8%B0%B1",
       "source": "rfi.fr",
       "published": 1758234347
-    },
-    {
-      "id": "293149a330e7",
-      "title": "法国：数十万人走上街头，试图影响新总理的预算选择",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250918-%E6%B3%95%E5%9B%BD-%E6%95%B0%E5%8D%81%E4%B8%87%E4%BA%BA%E8%B5%B0%E4%B8%8A%E8%A1%97%E5%A4%B4%EF%BC%8C%E8%AF%95%E5%9B%BE%E5%BD%B1%E5%93%8D%E6%96%B0%E6%80%BB%E7%90%86%E7%9A%84%E9%A2%84%E7%AE%97%E9%80%89%E6%8B%A9",
-      "source": "rfi.fr",
-      "published": 1758231843
     },
     {
       "id": "533248601837",
@@ -1402,5 +1402,5 @@
       "published": 1756624080
     }
   ],
-  "build_id": 1758308859
+  "build_id": 1758310310
 }
