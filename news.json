@@ -1,6 +1,13 @@
 {
-  "updated": 1758409711,
+  "updated": 1758411130,
   "items": [
+    {
+      "id": "1f3bf1e15dbc",
+      "title": "陳佩琪怨柯文哲半夜被查行蹤 高檢署：腳環12天告警4次",
+      "url": "https://udn.com/news/story/6656/9018498",
+      "source": "udn.com",
+      "published": 1758409260
+    },
     {
       "id": "af7b7af1fc17",
       "title": "川普：委內瑞拉若拒收移民　將付出難以估量代價",
@@ -378,13 +385,6 @@
       "url": "https://www.dw.com/zh/黑客让德国经济损失惨重-中国难辞其咎/a-74076041?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758376920
-    },
-    {
-      "id": "1f3bf1e15dbc",
-      "title": "陳佩琪怨柯文哲半夜被查行蹤 高檢署：腳環12天告警4次",
-      "url": "https://udn.com/news/story/6656/9018498",
-      "source": "udn.com",
-      "published": 1758376864
     },
     {
       "id": "9d320e12931f",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758409711
+  "build_id": 1758411130
 }
