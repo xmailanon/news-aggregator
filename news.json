@@ -1,6 +1,13 @@
 {
-  "updated": 1758403915,
+  "updated": 1758406061,
   "items": [
+    {
+      "id": "68ac9a55ad27",
+      "title": "桃園機場驚傳槍響 圖解今年警察用槍情境、傷亡情況",
+      "url": "https://udn.com/news/story/7314/9018672",
+      "source": "udn.com",
+      "published": 1758405000
+    },
     {
       "id": "3ed76305d610",
       "title": "俄羅斯侵犯北約東翼空域　英空軍颱風戰機波蘭巡防",
@@ -455,13 +462,6 @@
       "url": "https://www.dw.com/zh/领导人通话敲定tiktok协议？美中姿态一软一硬/a-74074265?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758366960
-    },
-    {
-      "id": "b64c53d063fa",
-      "title": "鄭麗文、羅智強堅守九二共識 張亞中拋簽署和平備忘錄",
-      "url": "https://udn.com/news/story/122404/9018329",
-      "source": "udn.com",
-      "published": 1758366655
     },
     {
       "id": "3dd6daad3793",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758403915
+  "build_id": 1758406061
 }
