@@ -1,6 +1,20 @@
 {
-  "updated": 1758396718,
+  "updated": 1758398939,
   "items": [
+    {
+      "id": "896402e3c4ee",
+      "title": "联大年度会议重点：巴以冲突和俄乌战争",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250920-%E8%81%94%E5%A4%A7%E5%B9%B4%E5%BA%A6%E4%BC%9A%E8%AE%AE%E9%87%8D%E7%82%B9-%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E5%92%8C%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89",
+      "source": "rfi.fr",
+      "published": 1758398101
+    },
+    {
+      "id": "5dc33f0a9670",
+      "title": "與美重啟貿易談判有進展　印度商工部長22日訪華府",
+      "url": "https://money.udn.com/money/story/5599/9018735",
+      "source": "money.udn.com",
+      "published": 1758396990
+    },
     {
       "id": "a703353ae2b0",
       "title": "美股又創高將破除9月魔咒 投資人押 Fed 繼續降息支撐股市走揚",
@@ -51,9 +65,9 @@
       "published": 1758392102
     },
     {
-      "id": "480ad3804aa7",
+      "id": "905706f21fc7",
       "title": "白宮：新TikTok美國實體董事會將由美國人主導",
-      "url": "https://money.udn.com/money/story/10511/9018727",
+      "url": "https://money.udn.com/money/story/5599/9018727",
       "source": "money.udn.com",
       "published": 1758391932
     },
@@ -296,13 +310,6 @@
       "published": 1758376864
     },
     {
-      "id": "9096d00ab54c",
-      "title": "英特爾「該下市了」！ 前董事提三大具體步驟 燒3兆元追趕台積電",
-      "url": "https://money.udn.com/money/story/123398/9018491",
-      "source": "money.udn.com",
-      "published": 1758376591
-    },
-    {
       "id": "9d320e12931f",
       "title": "赖清德：若台湾遭军事侵略 投降皆为假讯息",
       "url": "https://www.dw.com/zh/赖清德：若台湾遭军事侵略-投降皆为假讯息/a-74075412?maca=chi-rss-chi-all-1127-rdf",
@@ -539,13 +546,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250919-%E7%BB%A7%E6%B3%A2%E5%85%B0%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E5%90%8E-%E4%BF%84%E6%88%98%E6%96%97%E6%9C%BA%E4%BE%B5%E7%8A%AF%E5%8F%88%E4%B8%80%E5%8C%97%E7%BA%A6%E5%9B%BD%E5%AE%B6%E7%A9%BA%E5%9F%9F",
       "source": "rfi.fr",
       "published": 1758310004
-    },
-    {
-      "id": "e5ee32c4faca",
-      "title": "多哥前女国防部长批政遭盘诘",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250919-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%A4%9A%E5%93%A5%E5%89%8D%E5%A5%B3%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E6%89%B9%E6%94%BF%E9%81%AD%E7%9B%98%E8%AF%98",
-      "source": "rfi.fr",
-      "published": 1758301377
     },
     {
       "id": "48b03f303bdf",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758396718
+  "build_id": 1758398939
 }
