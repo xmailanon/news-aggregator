@@ -1,6 +1,41 @@
 {
-  "updated": 1758378849,
+  "updated": 1758380867,
   "items": [
+    {
+      "id": "dbb2a2bb233d",
+      "title": "Fed降息了但是否守住獨立性？哈佛經濟大師4點分析",
+      "url": "https://money.udn.com/money/story/5599/9018586",
+      "source": "money.udn.com",
+      "published": 1758380687
+    },
+    {
+      "id": "8104ff49270a",
+      "title": "若和平意味投降，還能對話嗎？巴勒斯坦學者點出以巴困境",
+      "url": "https://money.udn.com/money/story/5599/9018453",
+      "source": "money.udn.com",
+      "published": 1758380433
+    },
+    {
+      "id": "0ea9f32f231e",
+      "title": "日防衛省專家會議報告　暗示可擁有核子動力潛艇",
+      "url": "https://money.udn.com/money/story/5599/9018548",
+      "source": "money.udn.com",
+      "published": 1758379530
+    },
+    {
+      "id": "9691b8158d24",
+      "title": "AI假租屋廣告猖獗 瑞士詐騙受害者倍增",
+      "url": "https://money.udn.com/money/story/5599/9018541",
+      "source": "money.udn.com",
+      "published": 1758378991
+    },
+    {
+      "id": "5a54e1ba5a72",
+      "title": "两男子“中国间谍”指控被撤销 英议会下院议长据报正权衡提起自诉",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250920-%E4%B8%A4%E7%94%B7%E5%AD%90-%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D-%E6%8C%87%E6%8E%A7%E8%A2%AB%E6%92%A4%E9%94%80-%E8%8B%B1%E8%AE%AE%E4%BC%9A%E4%B8%8B%E9%99%A2%E8%AE%AE%E9%95%BF%E6%8D%AE%E6%8A%A5%E6%AD%A3%E6%9D%83%E8%A1%A1%E6%8F%90%E8%B5%B7%E8%87%AA%E8%AF%89",
+      "source": "rfi.fr",
+      "published": 1758378822
+    },
     {
       "id": "d5eeb28f9e80",
       "title": "俄军飞机入侵爱沙尼亚领空  北约担忧",
@@ -317,39 +352,11 @@
       "published": 1758360858
     },
     {
-      "id": "d0b3fb40ca9a",
-      "title": "川普：97%報導都在抹黑不是言論自由",
-      "url": "https://money.udn.com/money/story/10511/9018228",
-      "source": "money.udn.com",
-      "published": 1758360638
-    },
-    {
-      "id": "625e96c5a1e2",
-      "title": "系統商遭網攻 倫敦布魯塞爾柏林機場航班大受影響",
-      "url": "https://money.udn.com/money/story/5599/9018229",
-      "source": "money.udn.com",
-      "published": 1758360636
-    },
-    {
-      "id": "d9b19d43914e",
-      "title": "甲骨文雲端算力大單接不完？傳與 Meta 洽談200億美元合約",
-      "url": "https://money.udn.com/money/story/5599/9018222",
-      "source": "money.udn.com",
-      "published": 1758360215
-    },
-    {
       "id": "ad7055060101",
       "title": "黃國昌民眾黨親子園遊會受歡迎 叔叔瞬變國昌哥哥",
       "url": "https://udn.com/news/story/6656/9018200",
       "source": "udn.com",
       "published": 1758359705
-    },
-    {
-      "id": "f6bab9650f03",
-      "title": "印尼勒沃托比火山再度噴發　機場暫停航班起降",
-      "url": "https://money.udn.com/money/story/5599/9018196",
-      "source": "money.udn.com",
-      "published": 1758359550
     },
     {
       "id": "9203186389ef",
@@ -721,13 +728,6 @@
       "url": "https://cn.nytimes.com/business/20250919/trump-and-xi-set-to-finalize-tiktok-deal/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1758216729
-    },
-    {
-      "id": "9b6fe1b04206",
-      "title": "在中国购物 继眼睛和人脸识别支付后 现今推出刷掌纹付款",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250918-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%B4%AD%E7%89%A9-%E7%BB%A7%E7%9C%BC%E7%9D%9B%E5%92%8C%E5%88%B7%E8%84%B8%E4%BB%98%E6%AC%BE%E5%90%8E%EF%BC%8C%E7%8E%B0%E5%9C%A8%E8%BF%98%E5%8F%AF%E5%88%B7%E6%8E%8C%E7%BA%B9%E6%94%AF%E4%BB%98",
-      "source": "rfi.fr",
-      "published": 1758212934
     },
     {
       "id": "7f3feb8d6596",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758378849
+  "build_id": 1758380867
 }
