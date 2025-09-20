@@ -1,5 +1,5 @@
 {
-  "updated": 1758384632,
+  "updated": 1758386257,
   "items": [
     {
       "id": "8a08be0c14e1",
@@ -7,6 +7,13 @@
       "url": "https://udn.com/news/story/7314/9017916",
       "source": "udn.com",
       "published": 1758384002
+    },
+    {
+      "id": "82cb248296f9",
+      "title": "一周大事（114年9月14日~9月20日）",
+      "url": "https://udn.com/news/story/7314/9018614",
+      "source": "udn.com",
+      "published": 1758384000
     },
     {
       "id": "c0755583059f",
@@ -371,13 +378,6 @@
       "url": "https://udn.com/news/story/6656/9018249",
       "source": "udn.com",
       "published": 1758361831
-    },
-    {
-      "id": "2d556b6c2c09",
-      "title": "張亞中：國民黨要讓人尊敬 不能把成功都寄託藍白合",
-      "url": "https://udn.com/news/story/122404/9018204",
-      "source": "udn.com",
-      "published": 1758360858
     },
     {
       "id": "9203186389ef",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758384632
+  "build_id": 1758386257
 }
