@@ -1,12 +1,47 @@
 {
-  "updated": 1758350552,
+  "updated": 1758352096,
   "items": [
+    {
+      "id": "1325dd0088d0",
+      "title": "質疑哈佛大學財務問題　川普政府祭出新限制",
+      "url": "https://money.udn.com/money/story/10511/9018060",
+      "source": "money.udn.com",
+      "published": 1758351284
+    },
+    {
+      "id": "e1513b23631a",
+      "title": "政院擬增不領1萬選項　綠委：若增加作業成本再考量",
+      "url": "https://udn.com/news/story/6656/9017942",
+      "source": "udn.com",
+      "published": 1758351242
+    },
+    {
+      "id": "e65532f16886",
+      "title": "編兆元國防特別預算 張啟楷：錢要花刀口上 不能漫無方向",
+      "url": "https://udn.com/news/story/10930/9018042",
+      "source": "udn.com",
+      "published": 1758350565
+    },
+    {
+      "id": "20c8519ff783",
+      "title": "“女权五姐妹”被捕十年 “被噤声”后抵抗如何继续？",
+      "url": "https://www.dw.com/zh/女权五姐妹-被捕十年-被噤声-后抵抗如何继续？/a-74012993?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1758350340
+    },
     {
       "id": "2e99ee44cc84",
       "title": "小泉宣布角逐自民黨魁 再遭記者辛辣質問：你是詐欺師嗎？",
       "url": "https://money.udn.com/money/story/5599/9018037",
       "source": "money.udn.com",
       "published": 1758350313
+    },
+    {
+      "id": "c00e344789f8",
+      "title": "川習熱線相約 APEC 再相會 總統府：繼續與美方保持密切聯繫",
+      "url": "https://udn.com/news/story/6656/9018026",
+      "source": "udn.com",
+      "published": 1758349532
     },
     {
       "id": "4b816ca03b0c",
@@ -198,32 +233,11 @@
       "published": 1758340470
     },
     {
-      "id": "adca5c707d63",
-      "title": "賴總統：任何國家戰敗或投降都是假訊息 台灣不向侵略低頭",
-      "url": "https://udn.com/news/story/6656/9017768",
-      "source": "udn.com",
-      "published": 1758340324
-    },
-    {
-      "id": "e77d440919fb",
-      "title": "聯大2758號決議 友邦駐聯代表：遭錯誤描述解讀",
-      "url": "https://udn.com/news/story/6656/9017405",
-      "source": "udn.com",
-      "published": 1758340033
-    },
-    {
       "id": "f20a16af2ac9",
       "title": "习近平为何愿意在TikTok问题上让步",
       "url": "https://cn.nytimes.com/china/20250920/tiktok-xi-trump-china/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1758340020
-    },
-    {
-      "id": "1c8f5ccb0133",
-      "title": "美跨黨派議員致函ICAO籲邀台參與 批中國侵台空域",
-      "url": "https://udn.com/news/story/10930/9017406",
-      "source": "udn.com",
-      "published": 1758339807
     },
     {
       "id": "159d69ee1139",
@@ -301,13 +315,6 @@
       "url": "https://money.udn.com/money/story/10511/9017533",
       "source": "money.udn.com",
       "published": 1758332732
-    },
-    {
-      "id": "632a97728fab",
-      "title": "川普說不准停工！美方擬用「黃金股」否決日企關美國鋼鐵工廠",
-      "url": "https://money.udn.com/money/story/5599/9017530",
-      "source": "money.udn.com",
-      "published": 1758332609
     },
     {
       "id": "50e9b2285491",
@@ -828,16 +835,16 @@
       "published": 1758204360
     },
     {
-      "id": "96863e071028",
-      "title": "美聯準會時隔九月降息 鮑威爾重申決策獨立",
-      "url": "https://www.dw.com/zh/美聯準會時隔九月降息-鮑威爾重申決策獨立/a-74036765?maca=chi-rss-chi-all-1127-rdf",
+      "id": "26ecb337b656",
+      "title": "欧盟提议对以色列实施制裁",
+      "url": "https://www.dw.com/zh/欧盟提议对以色列实施制裁/a-74030034?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758203040
     },
     {
-      "id": "26ecb337b656",
-      "title": "欧盟提议对以色列实施制裁",
-      "url": "https://www.dw.com/zh/欧盟提议对以色列实施制裁/a-74030034?maca=chi-rss-chi-all-1127-rdf",
+      "id": "96863e071028",
+      "title": "美聯準會時隔九月降息 鮑威爾重申決策獨立",
+      "url": "https://www.dw.com/zh/美聯準會時隔九月降息-鮑威爾重申決策獨立/a-74036765?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758203040
     },
@@ -1171,13 +1178,6 @@
       "published": 1757834160
     },
     {
-      "id": "c8c1e63d5f8f",
-      "title": "因应中国稀土管制 印度企业加快开发替代技术",
-      "url": "https://www.dw.com/zh/因应中国稀土管制-印度企业加快开发替代技术/a-73937567?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757746740
-    },
-    {
       "id": "5f4c071fbb1d",
       "title": "美國保守派領袖柯克遇刺：槍手嫌犯落網 左右翼陣營進一步分裂",
       "url": "https://www.bbc.com/zhongwen/articles/cevzxdl3rewo/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1756624080
     }
   ],
-  "build_id": 1758350552
+  "build_id": 1758352096
 }
