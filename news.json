@@ -1,6 +1,20 @@
 {
-  "updated": 1758367911,
+  "updated": 1758370602,
   "items": [
+    {
+      "id": "5d776aaa5a13",
+      "title": "特朗普暗示习近平批准了TikTok交易 但TikTok在美命运仍不明朗",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250920-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%B9%E5%87%86%E4%BA%86tiktok%E4%BA%A4%E6%98%93-%E4%BD%86tiktok%E5%9C%A8%E7%BE%8E%E5%91%BD%E8%BF%90%E4%BB%8D%E4%B8%8D%E6%98%8E%E6%9C%97",
+      "source": "rfi.fr",
+      "published": 1758368539
+    },
+    {
+      "id": "66b003bc64aa",
+      "title": "吳釗燮：集體努力實現韌性 安全仰賴自我防衛決心",
+      "url": "https://udn.com/news/story/6656/9018358",
+      "source": "udn.com",
+      "published": 1758367893
+    },
     {
       "id": "ced183a878bf",
       "title": "川普預測聯邦政府「很可能」在10月陷入停擺",
@@ -296,13 +310,6 @@
       "published": 1758357407
     },
     {
-      "id": "a92814234398",
-      "title": "國安人士：中國AI深偽新例 變造賴總統講話帶風向",
-      "url": "https://udn.com/news/story/6656/9018145",
-      "source": "udn.com",
-      "published": 1758357389
-    },
-    {
       "id": "aee1a79c708c",
       "title": "小泉進次郎力圖重振自民黨　宣布參選黨總裁選舉",
       "url": "https://money.udn.com/money/story/5599/9018133",
@@ -553,13 +560,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/czewrl5je47o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1758283980
-    },
-    {
-      "id": "908b09ea055f",
-      "title": "特朗普同习近平通电话",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20250919-%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%80%9A%E7%94%B5%E8%AF%9D",
-      "source": "rfi.fr",
-      "published": 1758283934
     },
     {
       "id": "31bbe7d43842",
@@ -1402,5 +1402,5 @@
       "published": 1756624200
     }
   ],
-  "build_id": 1758367911
+  "build_id": 1758370602
 }
