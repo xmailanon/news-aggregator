@@ -1,6 +1,13 @@
 {
-  "updated": 1758494120,
+  "updated": 1758496120,
   "items": [
+    {
+      "id": "565ea78a176a",
+      "title": "【專家之眼】天理難容賴清德，違憲搶走地方財政自主權",
+      "url": "https://udn.com/news/story/6656/9020324",
+      "source": "udn.com",
+      "published": 1758495088
+    },
     {
       "id": "871570627fc9",
       "title": "特朗普重回白宫让印度与欧盟的关系更加密切",
@@ -310,6 +317,20 @@
       "published": 1758470452
     },
     {
+      "id": "da4694c9d4e1",
+      "title": "印尼能源项目：西方融资衰退，中国加速推进",
+      "url": "https://www.ftchinese.com/story/001107694",
+      "source": "ftchinese.com",
+      "published": 1758470400
+    },
+    {
+      "id": "f0a54a09cc77",
+      "title": "一周世界舆论聚焦：有关朝鲜半岛南北双方的微妙信息",
+      "url": "https://www.ftchinese.com/story/001107695",
+      "source": "ftchinese.com",
+      "published": 1758470400
+    },
+    {
       "id": "c355003db916",
       "title": "5成民眾擔憂台積電變美積電 西進就業、創業意願增加",
       "url": "https://udn.com/news/story/8625/9020106",
@@ -327,13 +348,6 @@
       "id": "4e7b2e9833d2",
       "title": "賴總統指台海和平歸功安倍晉三 挨批",
       "url": "https://udn.com/news/story/6656/9020109",
-      "source": "udn.com",
-      "published": 1758470400
-    },
-    {
-      "id": "654fccafab26",
-      "title": "歷史上的今天／1957年法前總理皮奈抵台 參訪反共前哨",
-      "url": "https://udn.com/news/story/7314/9019529",
       "source": "udn.com",
       "published": 1758470400
     },
@@ -905,20 +919,6 @@
       "published": 1758211200
     },
     {
-      "id": "c0240aeecdad",
-      "title": "诺奖作家古尔纳：避免陷入“失落的时间”",
-      "url": "https://www.ftchinese.com/story/001107678",
-      "source": "ftchinese.com",
-      "published": 1758211200
-    },
-    {
-      "id": "954bb1ccb46d",
-      "title": "英伟达拟向英特尔投资50亿美元",
-      "url": "https://www.ftchinese.com/story/001107679",
-      "source": "ftchinese.com",
-      "published": 1758211200
-    },
-    {
       "id": "f1d5a3bb154b",
       "title": "德语媒体：上合组织并非军事同盟",
       "url": "https://www.dw.com/zh/德语媒体：上合组织并非军事同盟/a-74047672?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758494120
+  "build_id": 1758496120
 }
