@@ -1,6 +1,34 @@
 {
-  "updated": 1758490323,
+  "updated": 1758492498,
   "items": [
+    {
+      "id": "ad7cf571197a",
+      "title": "【總編開箱】賴總統對兩岸關係的思考 是否也該跟安倍晉三學學",
+      "url": "https://udn.com/news/story/6656/9020234",
+      "source": "udn.com",
+      "published": 1758491400
+    },
+    {
+      "id": "903d3982a2fc",
+      "title": "馬杜洛致函川普　駁斥毒梟指控呼籲對話",
+      "url": "https://money.udn.com/money/story/5599/9020296",
+      "source": "money.udn.com",
+      "published": 1758490591
+    },
+    {
+      "id": "7adb7080503f",
+      "title": "三千年埃及金手鐲遭竊熔毀　博物館內賊11萬賤賣",
+      "url": "https://money.udn.com/money/story/5599/9020297",
+      "source": "money.udn.com",
+      "published": 1758490589
+    },
+    {
+      "id": "aa1b724ecd2f",
+      "title": "马拉维:2025总统选举结果争议.",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20250921-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E9%A9%AC%E6%8B%89%E7%BB%B4-2025%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E4%BA%89%E8%AE%AE",
+      "source": "rfi.fr",
+      "published": 1758490371
+    },
     {
       "id": "74fa2002bf50",
       "title": "特朗普：将协助保卫波兰和波罗的海国家",
@@ -289,23 +317,16 @@
       "published": 1758470400
     },
     {
+      "id": "4e7b2e9833d2",
+      "title": "賴總統指台海和平歸功安倍晉三 挨批",
+      "url": "https://udn.com/news/story/6656/9020109",
+      "source": "udn.com",
+      "published": 1758470400
+    },
+    {
       "id": "654fccafab26",
       "title": "歷史上的今天／1957年法前總理皮奈抵台 參訪反共前哨",
       "url": "https://udn.com/news/story/7314/9019529",
-      "source": "udn.com",
-      "published": 1758470400
-    },
-    {
-      "id": "8a2b8617d399",
-      "title": "冷眼集／賴清德指台海和平歸功安倍 難掩無所作為",
-      "url": "https://udn.com/news/story/6656/9020121",
-      "source": "udn.com",
-      "published": 1758470400
-    },
-    {
-      "id": "5a77e068ee7f",
-      "title": "台積電「美積電」化 衝擊台灣半導體業",
-      "url": "https://udn.com/news/story/8625/9020144",
       "source": "udn.com",
       "published": 1758470400
     },
@@ -343,20 +364,6 @@
       "url": "https://money.udn.com/money/story/122381/9019866",
       "source": "money.udn.com",
       "published": 1758468888
-    },
-    {
-      "id": "08f1254f9ea2",
-      "title": "英澳加承認巴勒斯坦國　自治政府外長：更近主權獨立",
-      "url": "https://money.udn.com/money/story/5599/9020060",
-      "source": "money.udn.com",
-      "published": 1758467549
-    },
-    {
-      "id": "2ecd4b8fbabc",
-      "title": "加澳英承認巴勒斯坦國 以色列政界炸鍋但內唐亞胡尚未發聲明",
-      "url": "https://money.udn.com/money/story/5599/9020042",
-      "source": "money.udn.com",
-      "published": 1758467169
     },
     {
       "id": "a834bfeb80e4",
@@ -539,13 +546,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c62qv4p6jygo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1758427286
-    },
-    {
-      "id": "5e663cbf4092",
-      "title": "继小红书之后      中国惩治微博和快手",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250920-%E7%BB%A7%E5%B0%8F%E7%BA%A2%E4%B9%A6%E4%B9%8B%E5%90%8E-%E4%B8%AD%E5%9B%BD%E6%83%A9%E6%B2%BB%E5%BE%AE%E5%8D%9A%E5%92%8C%E5%BF%AB%E6%89%8B",
-      "source": "rfi.fr",
-      "published": 1758403051
     },
     {
       "id": "9422a53ef925",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758490323
+  "build_id": 1758492498
 }
