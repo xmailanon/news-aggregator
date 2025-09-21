@@ -1,6 +1,13 @@
 {
-  "updated": 1758492498,
+  "updated": 1758494120,
   "items": [
+    {
+      "id": "871570627fc9",
+      "title": "特朗普重回白宫让印度与欧盟的关系更加密切",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%9B%BD%E9%99%85%E7%BA%B5%E6%A8%AA/20250921-%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E5%9B%9E%E7%99%BD%E5%AE%AB%E8%AE%A9%E5%8D%B0%E5%BA%A6%E4%B8%8E%E6%AC%A7%E7%9B%9F%E7%9A%84%E5%85%B3%E7%B3%BB%E6%9B%B4%E5%8A%A0%E5%AF%86%E5%88%87",
+      "source": "rfi.fr",
+      "published": 1758492825
+    },
     {
       "id": "ad7cf571197a",
       "title": "【總編開箱】賴總統對兩岸關係的思考 是否也該跟安倍晉三學學",
@@ -546,13 +553,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c62qv4p6jygo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1758427286
-    },
-    {
-      "id": "9422a53ef925",
-      "title": "法国一名市长拒摘巴勒斯坦旗帜",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250920-%E6%B3%95%E5%9B%BD%E4%B8%80%E5%90%8D%E5%B8%82%E9%95%BF%E6%8B%92%E6%91%98%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%97%97%E5%B8%9C",
-      "source": "rfi.fr",
-      "published": 1758402649
     },
     {
       "id": "cb4b3ee43d1c",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758492498
+  "build_id": 1758494120
 }
