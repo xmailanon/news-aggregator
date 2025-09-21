@@ -1,6 +1,48 @@
 {
-  "updated": 1758435210,
+  "updated": 1758436985,
   "items": [
+    {
+      "id": "f711742bf8b0",
+      "title": "賴總統在苗栗與鍾東錦互釋善意 「盼公平對待民進黨議員」",
+      "url": "https://udn.com/news/story/6656/9019378",
+      "source": "udn.com",
+      "published": 1758436461
+    },
+    {
+      "id": "a2547a15bf1e",
+      "title": "中国车殇：又一场房地产泡沫式悲剧？",
+      "url": "https://www.dw.com/zh/中国车殇：又一场房地产泡沫式悲剧？/a-74029883?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1758436440
+    },
+    {
+      "id": "44b5207e23d8",
+      "title": "厄瓜多總統鐵腕打毒品幫派　欲推新憲遭法院擋下",
+      "url": "https://money.udn.com/money/story/10511/9019371",
+      "source": "money.udn.com",
+      "published": 1758436247
+    },
+    {
+      "id": "9f575b68e7e3",
+      "title": "台灣是美國H-1B簽證第7大來源國！傳南韓擬向美爭取固定配額",
+      "url": "https://money.udn.com/money/story/5599/9019352",
+      "source": "money.udn.com",
+      "published": 1758435441
+    },
+    {
+      "id": "77a032eb0ef0",
+      "title": "紐時專欄作家佛里曼：中國人下西洋棋、美國人下跳棋、川普玩大富翁",
+      "url": "https://money.udn.com/money/story/5599/9019349",
+      "source": "money.udn.com",
+      "published": 1758435232
+    },
+    {
+      "id": "826e24d28102",
+      "title": "民進黨宜蘭縣長選舉 林國漳考慮披戰袍 基層爆他「陌生的名字」",
+      "url": "https://udn.com/news/story/6656/9019345",
+      "source": "udn.com",
+      "published": 1758435124
+    },
     {
       "id": "9b9785b2b228",
       "title": "BBC調查：龐大的英超球票黑市是如何運作的",
@@ -219,25 +261,11 @@
       "published": 1758425402
     },
     {
-      "id": "a8dc91497249",
-      "title": "賴清德總統感念安倍晉三：是台日關係深厚重要關鍵",
-      "url": "https://udn.com/news/story/6656/9019082",
-      "source": "udn.com",
-      "published": 1758425164
-    },
-    {
       "id": "e4ab6c523e99",
       "title": "降息循環支撐 國銀估美股多頭不變、美債看俏",
       "url": "https://money.udn.com/money/story/123398/9019081",
       "source": "money.udn.com",
       "published": 1758425096
-    },
-    {
-      "id": "e7aad2297550",
-      "title": "台灣珍奶節馬里蘭州登場  烏克蘭攤位助陣共挺民主",
-      "url": "https://udn.com/news/story/6656/9019071",
-      "source": "udn.com",
-      "published": 1758424947
     },
     {
       "id": "12737934c38b",
@@ -280,27 +308,6 @@
       "url": "https://money.udn.com/money/story/10511/9018935",
       "source": "money.udn.com",
       "published": 1758420736
-    },
-    {
-      "id": "5c8efda251a7",
-      "title": "以色列持續攻擊加薩市　至少60名巴勒斯坦人喪生",
-      "url": "https://money.udn.com/money/story/5599/9018936",
-      "source": "money.udn.com",
-      "published": 1758420734
-    },
-    {
-      "id": "df91359d9c96",
-      "title": "古巴至少15人因抗議電力短缺被判重刑　最高刑期9年",
-      "url": "https://money.udn.com/money/story/5599/9018922",
-      "source": "money.udn.com",
-      "published": 1758420367
-    },
-    {
-      "id": "10683d34d7ca",
-      "title": "加媒：全球最受歡迎留學國家排名　英第1美下滑至第3",
-      "url": "https://money.udn.com/money/story/10511/9018916",
-      "source": "money.udn.com",
-      "published": 1758420036
     },
     {
       "id": "516058610ddc",
@@ -1073,13 +1080,6 @@
       "published": 1758026580
     },
     {
-      "id": "50c51c1e8ce7",
-      "title": "DeepSeek和特朗普助推 中国股市创十年新高",
-      "url": "https://www.dw.com/zh/deepseek和特朗普助推-中国股市创十年新高/a-74012972?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1758025200
-    },
-    {
       "id": "e775d05c2021",
       "title": "中國大陸「考試移民」瞄向香港，引發DSE攻防戰",
       "url": "https://www.bbc.com/zhongwen/articles/cn4lwn79k00o/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1756551120
     }
   ],
-  "build_id": 1758435210
+  "build_id": 1758436985
 }
