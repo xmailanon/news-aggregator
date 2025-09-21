@@ -1,6 +1,34 @@
 {
-  "updated": 1758426508,
+  "updated": 1758427888,
   "items": [
+    {
+      "id": "ed938e67ab0a",
+      "title": "我們對蛋白質的關注是否太過分了？",
+      "url": "https://www.bbc.com/zhongwen/articles/c62qv4p6jygo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1758427286
+    },
+    {
+      "id": "afc0fbcbf348",
+      "title": "林佳龍：台灣奧地利若互補合作　將替AI開創更多可能",
+      "url": "https://udn.com/news/story/6656/9019144",
+      "source": "udn.com",
+      "published": 1758427250
+    },
+    {
+      "id": "7f4b318c5dc7",
+      "title": "幾內亞新憲公投　關乎軍政府領袖可否參選總統",
+      "url": "https://money.udn.com/money/story/5599/9019146",
+      "source": "money.udn.com",
+      "published": 1758427237
+    },
+    {
+      "id": "07638d8eb10c",
+      "title": "韓國瑜將首次率立委團訪日 朝野肯定：意義重大",
+      "url": "https://udn.com/news/story/6656/9019133",
+      "source": "udn.com",
+      "published": 1758426763
+    },
     {
       "id": "3dc82e7adf0c",
       "title": "安倍昭惠：盼延續安倍晉三理想 盡心力續推日台關係",
@@ -233,13 +261,6 @@
       "published": 1758415924
     },
     {
-      "id": "33b3f074c22d",
-      "title": "駐美代表：關注川習通話 美國對台政策不變",
-      "url": "https://udn.com/news/story/10930/9018834",
-      "source": "udn.com",
-      "published": 1758415697
-    },
-    {
       "id": "2bb6548503b9",
       "title": "美擬奪回巴格蘭基地  川普：若阿富汗不還　後果堪憂",
       "url": "https://money.udn.com/money/story/10511/9018832",
@@ -273,20 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9018818",
       "source": "money.udn.com",
       "published": 1758414072
-    },
-    {
-      "id": "35dbcb7aa4ff",
-      "title": "美H-1B新規引恐慌！白宮澄清「這情況」免繳10萬 不影響現有簽證",
-      "url": "https://money.udn.com/money/story/5599/9018813",
-      "source": "money.udn.com",
-      "published": 1758413010
-    },
-    {
-      "id": "3c41e91fdcf6",
-      "title": "美攜手台灣  助馬紹爾群島重建國會大樓強化交通連結",
-      "url": "https://udn.com/news/story/6656/9018797",
-      "source": "udn.com",
-      "published": 1758411172
     },
     {
       "id": "516058610ddc",
@@ -667,13 +674,6 @@
       "published": 1758273847
     },
     {
-      "id": "8582a79f69f7",
-      "title": "為什麼法國面臨成為新「歐洲病夫」的風險？",
-      "url": "https://www.bbc.com/zhongwen/articles/c2ejngmz1kzo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1758269379
-    },
-    {
       "id": "9dcdc4d95b8a",
       "title": "特朗普的TikTok交易細節與障礙，以及這對中美意味著什麼",
       "url": "https://www.bbc.com/zhongwen/articles/cvg9060e544o/trad?at_medium=RSS&at_campaign=rss",
@@ -700,13 +700,6 @@
       "url": "https://cn.nytimes.com/asia-pacific/20250919/china-pacific-nz-cook-islands/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1758254158
-    },
-    {
-      "id": "1331e00bcc76",
-      "title": "媒體：川普拒絕批准4億美元對台軍援",
-      "url": "https://www.dw.com/zh/媒體：川普拒絕批准4億美元對台軍援/a-74053382?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1758252720
     },
     {
       "id": "8c63f0faff65",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/dw事实核查：如何识别-冒牌-新闻？/a-73779754?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756624140
+    },
+    {
+      "id": "298f45d39b19",
+      "title": "纳粹劫掠艺术品“现身”房产广告 警方扑了个空",
+      "url": "https://www.dw.com/zh/纳粹劫掠艺术品-现身-房产广告-警方扑了个空/a-73810547?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1756624080
     }
   ],
-  "build_id": 1758426508
+  "build_id": 1758427888
 }
