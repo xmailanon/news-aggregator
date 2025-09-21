@@ -1,6 +1,20 @@
 {
-  "updated": 1758459327,
+  "updated": 1758460528,
   "items": [
+    {
+      "id": "fedec899f8ba",
+      "title": "英擬承認巴勒斯坦國 遭以色列人質家屬強烈批評",
+      "url": "https://money.udn.com/money/story/5599/9019856",
+      "source": "money.udn.com",
+      "published": 1758460241
+    },
+    {
+      "id": "720861d0d93f",
+      "title": "加拿大宣布 承認巴勒斯坦國",
+      "url": "https://money.udn.com/money/story/5599/9019838",
+      "source": "money.udn.com",
+      "published": 1758459888
+    },
     {
       "id": "87e238fcaf3b",
       "title": "巴勒斯坦當局：以軍攻擊加薩市　至少釀31死",
@@ -364,20 +378,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250921-%E6%97%A5%E6%9C%AC%E5%A4%96%E7%9B%B8%E5%B0%86%E5%87%BA%E5%B8%AD%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E9%97%AE%E9%A2%98%E4%BC%9A%E8%AE%AE-%E8%A1%A8%E7%A4%BA%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%88%B6%E8%A3%81%E4%BB%A5%E8%89%B2%E5%88%97",
       "source": "rfi.fr",
       "published": 1758441130
-    },
-    {
-      "id": "be16a7ce2db2",
-      "title": "心臟病失智症機率出奇低！玻利維亞傳統部落4大長壽秘訣曝光",
-      "url": "https://money.udn.com/money/story/5599/9019467",
-      "source": "money.udn.com",
-      "published": 1758440668
-    },
-    {
-      "id": "1ef9a4d9fabc",
-      "title": "韓聯社：北韓籌備10月閱兵  關注習近平是否出席",
-      "url": "https://money.udn.com/money/story/5599/9019460",
-      "source": "money.udn.com",
-      "published": 1758440169
     },
     {
       "id": "05ad71dead4a",
@@ -1157,13 +1157,6 @@
       "published": 1757942340
     },
     {
-      "id": "192e0d15fc74",
-      "title": "预制菜之争凸显中国食品安全痼疾",
-      "url": "https://www.dw.com/zh/预制菜之争凸显中国食品安全痼疾/a-73999789?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757938500
-    },
-    {
       "id": "cfa32f41432d",
       "title": "在美国社会严重分裂的时刻，特朗普无意弥合分歧",
       "url": "https://cn.nytimes.com/usa/20250915/trump-kirk-polarization-unity/?utm_source=RSS",
@@ -1297,16 +1290,16 @@
       "published": 1757311341
     },
     {
-      "id": "5a6af303def1",
-      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
-      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
+      "id": "2b49962d0710",
+      "title": "DW事实核查：如何识破AI伪造语音？",
+      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
     },
     {
-      "id": "2b49962d0710",
-      "title": "DW事实核查：如何识破AI伪造语音？",
-      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
+      "id": "5a6af303def1",
+      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
+      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
     },
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/dw事实核查：如何不被ai聊天机器人误导？/a-73764367?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756624260
+    },
+    {
+      "id": "5cf4b2a35e8a",
+      "title": "拉美掀起铁路建设热潮 中国影响力处处可见",
+      "url": "https://www.dw.com/zh/拉美掀起铁路建设热潮-中国影响力处处可见/a-73772902?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756624200
     }
   ],
-  "build_id": 1758459327
+  "build_id": 1758460528
 }
