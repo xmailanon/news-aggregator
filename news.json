@@ -1,6 +1,34 @@
 {
-  "updated": 1758496120,
+  "updated": 1758497517,
   "items": [
+    {
+      "id": "5521720e3fe9",
+      "title": "加拿大承認巴勒斯坦國  總理卡尼：哈瑪斯仍是恐怖組織",
+      "url": "https://money.udn.com/money/story/5599/9020345",
+      "source": "money.udn.com",
+      "published": 1758497449
+    },
+    {
+      "id": "cfaf55b13111",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/9020343",
+      "source": "money.udn.com",
+      "published": 1758497327
+    },
+    {
+      "id": "d1faaffbef01",
+      "title": "路透專訪　李在明：韓恐因美投資要求再陷1997金融危機",
+      "url": "https://money.udn.com/money/story/5599/9020336",
+      "source": "money.udn.com",
+      "published": 1758496889
+    },
+    {
+      "id": "5449c299484a",
+      "title": "柯克追悼會吸引10萬人潮　川普與馬斯克並肩而坐",
+      "url": "https://money.udn.com/money/story/10511/9020328",
+      "source": "money.udn.com",
+      "published": 1758496351
+    },
     {
       "id": "565ea78a176a",
       "title": "【專家之眼】天理難容賴清德，違憲搶走地方財政自主權",
@@ -317,6 +345,20 @@
       "published": 1758470452
     },
     {
+      "id": "955ed2cf82de",
+      "title": "欧洲首家稀土永磁材料生产厂投产",
+      "url": "https://www.ftchinese.com/story/001107696",
+      "source": "ftchinese.com",
+      "published": 1758470400
+    },
+    {
+      "id": "5e5572143e2c",
+      "title": "法国被第二家评级机构下调评级",
+      "url": "https://www.ftchinese.com/story/001107697",
+      "source": "ftchinese.com",
+      "published": 1758470400
+    },
+    {
       "id": "da4694c9d4e1",
       "title": "印尼能源项目：西方融资衰退，中国加速推进",
       "url": "https://www.ftchinese.com/story/001107694",
@@ -357,34 +399,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250921-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E4%BF%83%E6%AC%A7%E6%B4%B2%E5%81%9C%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9-%E6%98%AF%E5%90%A6%E5%AF%B9%E4%B8%AD%E5%8D%B0%E5%BE%81%E9%AB%98%E5%85%B3%E7%A8%8E-%E5%86%AF%E5%BE%B7%E8%8E%B1%E6%81%A9-%E6%AC%A7%E7%9B%9F%E5%B0%86%E8%87%AA%E8%A1%8C%E4%BD%9C%E5%87%BA%E5%86%B3%E5%AE%9A",
       "source": "rfi.fr",
       "published": 1758469814
-    },
-    {
-      "id": "de7220c7b6d2",
-      "title": "英國正式承認巴勒斯坦國  強調哈瑪斯無權參與執政",
-      "url": "https://money.udn.com/money/story/5599/9020201",
-      "source": "money.udn.com",
-      "published": 1758469530
-    },
-    {
-      "id": "1f72084126ec",
-      "title": "任天堂玩創意 打造遊戲帝國",
-      "url": "https://money.udn.com/money/story/122381/9019860",
-      "source": "money.udn.com",
-      "published": 1758469082
-    },
-    {
-      "id": "5ffd67541587",
-      "title": "英澳加承認巴勒斯坦國  以色列極右派籲吞併約旦河西岸",
-      "url": "https://money.udn.com/money/story/5599/9020190",
-      "source": "money.udn.com",
-      "published": 1758468970
-    },
-    {
-      "id": "602d26435894",
-      "title": "堅守創意、勇於嘗試 玩出新境界",
-      "url": "https://money.udn.com/money/story/122381/9019866",
-      "source": "money.udn.com",
-      "published": 1758468888
     },
     {
       "id": "a834bfeb80e4",
@@ -905,20 +919,6 @@
       "published": 1758211200
     },
     {
-      "id": "1d6035e08349",
-      "title": "通胀顽固、经济乏力，英国央行维持4%利率并放缓缩表",
-      "url": "https://www.ftchinese.com/story/001107680",
-      "source": "ftchinese.com",
-      "published": 1758211200
-    },
-    {
-      "id": "53650d110be0",
-      "title": "天价晚餐漫谈",
-      "url": "https://www.ftchinese.com/story/001107673",
-      "source": "ftchinese.com",
-      "published": 1758211200
-    },
-    {
       "id": "f1d5a3bb154b",
       "title": "德语媒体：上合组织并非军事同盟",
       "url": "https://www.dw.com/zh/德语媒体：上合组织并非军事同盟/a-74047672?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758496120
+  "build_id": 1758497517
 }
