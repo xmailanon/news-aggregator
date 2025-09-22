@@ -1,6 +1,27 @@
 {
-  "updated": 1758525064,
+  "updated": 1758526543,
   "items": [
+    {
+      "id": "d4a9d6508184",
+      "title": "泰國重申邊境立場　總理阿努廷：柬撤軍前不談判",
+      "url": "https://money.udn.com/money/story/5599/9021563",
+      "source": "money.udn.com",
+      "published": 1758526237
+    },
+    {
+      "id": "d9e92f51b60a",
+      "title": "日銀總裁稱賣完ETF需時逾百年　日股收漲",
+      "url": "https://money.udn.com/money/story/5599/9021569",
+      "source": "money.udn.com",
+      "published": 1758526237
+    },
+    {
+      "id": "9dfcfae5db6f",
+      "title": "金價突破3,700美元後又刷新高 白銀觸及逾九年高點 降息題材續發威",
+      "url": "https://money.udn.com/money/story/5599/9021570",
+      "source": "money.udn.com",
+      "published": 1758526236
+    },
     {
       "id": "623469bf0558",
       "title": "川普：俄若持續挑釁　美將協防波蘭和波羅的海國家",
@@ -65,9 +86,9 @@
       "published": 1758523469
     },
     {
-      "id": "24dee3eba724",
+      "id": "0770695f0801",
       "title": "英國積極吸引高階人才　規畫簽證費用全免",
-      "url": "https://money.udn.com/money/story/10511/9021441",
+      "url": "https://money.udn.com/money/story/5599/9021441",
       "source": "money.udn.com",
       "published": 1758522977
     },
@@ -289,13 +310,6 @@
       "published": 1758514339
     },
     {
-      "id": "c84e7ab92c7c",
-      "title": "日自民黨總裁選舉開跑　民調：「石破票」多流向小泉",
-      "url": "https://money.udn.com/money/story/5599/9021037",
-      "source": "money.udn.com",
-      "published": 1758514339
-    },
-    {
       "id": "8559ce6dfa87",
       "title": "罗伯特·雷德福：打破常规的好莱坞“典范”",
       "url": "https://cn.nytimes.com/culture/20250917/robert-redford-career/?utm_source=RSS",
@@ -308,20 +322,6 @@
       "url": "https://cn.nytimes.com/business/20250922/china-rare-earths-magnets/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1758514066
-    },
-    {
-      "id": "ae931fdc63d8",
-      "title": "三星電子大漲逾5% 傳輝達認證 HBM3E、記憶體漲價雙題材加持",
-      "url": "https://money.udn.com/money/story/5599/9020985",
-      "source": "money.udn.com",
-      "published": 1758513694
-    },
-    {
-      "id": "938cbd7af1c4",
-      "title": "創投家訪陸心得：這些領域已無法再投資  西方落後太多",
-      "url": "https://money.udn.com/money/story/5599/9020978",
-      "source": "money.udn.com",
-      "published": 1758513548
     },
     {
       "id": "e47478b8c52a",
@@ -426,7 +426,7 @@
       "title": "特朗普颁布H-1B新规，10万美元签证费引发混乱",
       "url": "https://cn.nytimes.com/usa/20250922/trump-h1b-visas-fee-employees/?utm_source=RSS",
       "source": "cn.nytimes.com",
-      "published": 1758481560
+      "published": 1758481897
     },
     {
       "id": "24e2df176efe",
@@ -1402,5 +1402,5 @@
       "published": 1756624140
     }
   ],
-  "build_id": 1758525064
+  "build_id": 1758526543
 }
