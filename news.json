@@ -1,5 +1,5 @@
 {
-  "updated": 1758564852,
+  "updated": 1758566608,
   "items": [
     {
       "id": "211c77495112",
@@ -115,21 +115,14 @@
     },
     {
       "id": "0af9b08f30cb",
-      "title": "是否辯論 藍明邀候選人協調",
+      "title": "是否舉辦辯論 藍明邀候選人協調",
       "url": "https://udn.com/news/story/122404/9022575",
       "source": "udn.com",
       "published": 1758557405
     },
     {
-      "id": "4bb2ae6fd4d7",
-      "title": "成功嶺新兵打靶炸傷左臉 多塊子彈碎片入腦",
-      "url": "https://udn.com/news/story/10930/9022562",
-      "source": "udn.com",
-      "published": 1758557338
-    },
-    {
       "id": "2647ff149e96",
-      "title": "月入5萬免稅…賴總統挨批「拿舊制魚目混珠」 藍酸「不是說沒錢嗎 」",
+      "title": "月入5萬免稅…賴總統挨批「拿舊制魚目混珠」",
       "url": "https://udn.com/news/story/6656/9022576",
       "source": "udn.com",
       "published": 1758557284
@@ -364,6 +357,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250922-%E5%AE%98%E5%AE%A3-%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%B7%E5%A4%87%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%92%8C%E5%9B%9E%E6%94%B6%E8%83%BD%E5%8A%9B-%E9%A6%96%E6%AC%A1%E5%BC%B9%E5%B0%84%E6%88%90%E5%8A%9F%E5%AE%8C%E6%88%90",
       "source": "rfi.fr",
       "published": 1758545033
+    },
+    {
+      "id": "eedee952ae6d",
+      "title": "陸軍政戰主任史順文接任政戰局長 10/1生效",
+      "url": "https://udn.com/news/story/10930/9022089",
+      "source": "udn.com",
+      "published": 1758544704
     },
     {
       "id": "03ed7fd6eeb4",
@@ -1402,5 +1402,5 @@
       "published": 1756805460
     }
   ],
-  "build_id": 1758564852
+  "build_id": 1758566608
 }
