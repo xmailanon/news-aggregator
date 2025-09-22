@@ -1,6 +1,20 @@
 {
-  "updated": 1758582554,
+  "updated": 1758583919,
   "items": [
+    {
+      "id": "b83b0878da10",
+      "title": "美軍迷你貼片即時監控士兵 保護生命安全也維持戰力",
+      "url": "https://udn.com/news/story/10930/9021274",
+      "source": "udn.com",
+      "published": 1758583800
+    },
+    {
+      "id": "6874dcb0b9b2",
+      "title": "台積電ADR大漲2.9%再創新高",
+      "url": "https://money.udn.com/money/story/5599/9022819",
+      "source": "money.udn.com",
+      "published": 1758583155
+    },
     {
       "id": "8bfaa138b9c6",
       "title": "英伟达准备向OpenAI投资1000亿美元",
@@ -254,13 +268,6 @@
       "published": 1758569869
     },
     {
-      "id": "503552e7fc5d",
-      "title": "敘利亞58年來首位總統出席聯大　籲美解除制裁法源",
-      "url": "https://money.udn.com/money/story/5599/9022713",
-      "source": "money.udn.com",
-      "published": 1758569457
-    },
-    {
       "id": "a9c66e392f1f",
       "title": "國軍新科將官晉任 中將2位少將6位 另有1人明年升",
       "url": "https://udn.com/news/story/10930/9022703",
@@ -322,6 +329,34 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250922-%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD-%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E6%80%8E%E4%B9%88%E7%9C%8B",
       "source": "rfi.fr",
       "published": 1758556818
+    },
+    {
+      "id": "e49a56256352",
+      "title": "降息后，美债能见度提高了吗？",
+      "url": "https://www.ftchinese.com/story/001107692",
+      "source": "ftchinese.com",
+      "published": 1758556800
+    },
+    {
+      "id": "20588718773d",
+      "title": "40+上剑桥商学院，是什么体验？",
+      "url": "https://www.ftchinese.com/story/001107706",
+      "source": "ftchinese.com",
+      "published": 1758556800
+    },
+    {
+      "id": "c1de768906ff",
+      "title": "TikTok美国将由甲骨文控管算法",
+      "url": "https://www.ftchinese.com/story/001107707",
+      "source": "ftchinese.com",
+      "published": 1758556800
+    },
+    {
+      "id": "f5d7ff6354d7",
+      "title": "日本中小学午餐有预制菜吗？",
+      "url": "https://www.ftchinese.com/story/001107704",
+      "source": "ftchinese.com",
+      "published": 1758556800
     },
     {
       "id": "fc5ddf446a05",
@@ -448,13 +483,6 @@
       "url": "https://udn.com/news/story/122404/9022284",
       "source": "udn.com",
       "published": 1758547305
-    },
-    {
-      "id": "1a579d921c0f",
-      "title": "66%民意認為台灣應與大陸、美國維持等距 學者：賴政府困境",
-      "url": "https://udn.com/news/story/6656/9022274",
-      "source": "udn.com",
-      "published": 1758546898
     },
     {
       "id": "6b5487743c14",
@@ -1031,34 +1059,6 @@
       "published": 1758211200
     },
     {
-      "id": "f7a7b39f0064",
-      "title": "关税围城 比亚迪北美路迢迢",
-      "url": "https://www.ftchinese.com/story/001107688",
-      "source": "ftchinese.com",
-      "published": 1758211200
-    },
-    {
-      "id": "5fe5f8b4f4b4",
-      "title": "以“美”作为抵抗与生存之力",
-      "url": "https://www.ftchinese.com/story/001107643",
-      "source": "ftchinese.com",
-      "published": 1758211200
-    },
-    {
-      "id": "79c0ca88f94b",
-      "title": "孙太一：从“三国演义”视角看台海态势与中美关系",
-      "url": "https://www.ftchinese.com/story/001107687",
-      "source": "ftchinese.com",
-      "published": 1758211200
-    },
-    {
-      "id": "3ff33ddba9f2",
-      "title": "如何看待德国失业人数十年来首次超过300万？",
-      "url": "https://www.ftchinese.com/story/001107686",
-      "source": "ftchinese.com",
-      "published": 1758211200
-    },
-    {
       "id": "f1d5a3bb154b",
       "title": "德语媒体：上合组织并非军事同盟",
       "url": "https://www.dw.com/zh/德语媒体：上合组织并非军事同盟/a-74047672?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1756805460
     }
   ],
-  "build_id": 1758582554
+  "build_id": 1758583919
 }
