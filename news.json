@@ -1,6 +1,13 @@
 {
-  "updated": 1758559327,
+  "updated": 1758560923,
   "items": [
+    {
+      "id": "60d86eb75214",
+      "title": "我被列名承認巴勒斯坦國 外交部：暫無規畫",
+      "url": "https://udn.com/news/story/6656/9022572",
+      "source": "udn.com",
+      "published": 1758559387
+    },
     {
       "id": "b375a0027a3a",
       "title": "英國、加拿大和澳洲承認巴勒斯坦國 與美國總統川普分道揚鑣",
@@ -357,13 +364,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250922-%E5%AE%98%E5%AE%A3-%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%B7%E5%A4%87%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%92%8C%E5%9B%9E%E6%94%B6%E8%83%BD%E5%8A%9B-%E9%A6%96%E6%AC%A1%E5%BC%B9%E5%B0%84%E6%88%90%E5%8A%9F%E5%AE%8C%E6%88%90",
       "source": "rfi.fr",
       "published": 1758545033
-    },
-    {
-      "id": "eedee952ae6d",
-      "title": "陸軍政戰主任史順文接任政戰局長 10/1生效",
-      "url": "https://udn.com/news/story/10930/9022089",
-      "source": "udn.com",
-      "published": 1758544704
     },
     {
       "id": "03ed7fd6eeb4",
@@ -1402,5 +1402,5 @@
       "published": 1756805460
     }
   ],
-  "build_id": 1758559327
+  "build_id": 1758560923
 }
