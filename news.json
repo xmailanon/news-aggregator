@@ -1,6 +1,34 @@
 {
-  "updated": 1758576702,
+  "updated": 1758578964,
   "items": [
+    {
+      "id": "37c3cd7a8f95",
+      "title": "首見G7成員承認巴勒斯坦國 還有哪些重要國家也支持？圖解背後動機",
+      "url": "https://udn.com/news/story/7314/9022606",
+      "source": "udn.com",
+      "published": 1758577800
+    },
+    {
+      "id": "409f543e1c5a",
+      "title": "雙城論壇再觸礁：民進黨自縛手腳，台灣承擔代價",
+      "url": "https://udn.com/news/story/6656/9022680",
+      "source": "udn.com",
+      "published": 1758577800
+    },
+    {
+      "id": "a880277e38e4",
+      "title": "科技巨擘股價勁揚　美股收漲各大指數再創新高",
+      "url": "https://money.udn.com/money/story/123398/9022763",
+      "source": "money.udn.com",
+      "published": 1758577549
+    },
+    {
+      "id": "d8f941b0c789",
+      "title": "64岁老太涉嫌杀人案在南特开庭",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250922-64%E5%B2%81%E8%80%81%E5%A4%AA%E6%B6%89%E5%AB%8C%E6%9D%80%E4%BA%BA%E6%A1%88%E5%9C%A8%E5%8D%97%E7%89%B9%E6%B3%95%E5%BA%AD%E5%BC%80%E5%BA%AD",
+      "source": "rfi.fr",
+      "published": 1758577335
+    },
     {
       "id": "46edab8ea88c",
       "title": "評保守派網紅遇害遭停播　吉米金摩脫口秀23日復播",
@@ -226,13 +254,6 @@
       "published": 1758566860
     },
     {
-      "id": "211c77495112",
-      "title": "南韓：關稅談判還沒簽協議 總統李在明指出雙方存在分歧",
-      "url": "https://money.udn.com/money/story/5599/9022445",
-      "source": "money.udn.com",
-      "published": 1758564166
-    },
-    {
       "id": "60d86eb75214",
       "title": "我被列名承認巴勒斯坦國 外交部：暫無規畫",
       "url": "https://udn.com/news/story/6656/9022572",
@@ -422,25 +443,11 @@
       "published": 1758545680
     },
     {
-      "id": "449d2434fd71",
-      "title": "卓揆明赴立院拜會藍綠黨團 傅崐萁盼政院尊重國會三讀法案",
-      "url": "https://udn.com/news/story/6656/9022243",
-      "source": "udn.com",
-      "published": 1758545561
-    },
-    {
       "id": "ba1bc355e72c",
       "title": "莫迪呼吁印度国民“抛弃洋货”用“国货”",
       "url": "https://www.dw.com/zh/莫迪呼吁印度国民-抛弃洋货-用-国货/a-74094706?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758545520
-    },
-    {
-      "id": "6688d28cafe0",
-      "title": "釋昭慧月薪14萬籲拒領普發現金 他批沒意義曝1下場",
-      "url": "https://udn.com/news/story/6656/9022236",
-      "source": "udn.com",
-      "published": 1758545105
     },
     {
       "id": "3eb976904d50",
@@ -567,13 +574,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250922-%E4%BF%84%E6%88%98%E6%9C%BA%E9%A2%91%E9%97%AF%E6%88%90%E5%91%98%E5%9B%BD%E9%A2%86%E7%A9%BA%EF%BC%8C%E5%8C%97%E7%BA%A6%E5%A4%9A%E5%9B%BD%E8%81%94%E5%90%88%E5%B7%A1%E8%88%AA%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AF%BA%E5%87%BA%E6%89%8B%E7%9B%B8%E5%8A%A9",
       "source": "rfi.fr",
       "published": 1758533136
-    },
-    {
-      "id": "0e57549f386e",
-      "title": "指“非法规避关税” 美众院中共问题特设委员会致信商务部长促调查安克创新",
-      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20250922-%E6%8C%87-%E9%9D%9E%E6%B3%95%E8%A7%84%E9%81%BF%E5%85%B3%E7%A8%8E-%E7%BE%8E%E4%BC%97%E9%99%A2%E4%B8%AD%E5%85%B1%E9%97%AE%E9%A2%98%E7%89%B9%E8%AE%BE%E5%A7%94%E5%91%98%E4%BC%9A%E8%87%B4%E4%BF%A1%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E4%BF%83%E8%B0%83%E6%9F%A5%E5%AE%89%E5%85%8B%E5%88%9B%E6%96%B0",
-      "source": "rfi.fr",
-      "published": 1758532611
     },
     {
       "id": "2ad4696bceb4",
@@ -1402,5 +1402,5 @@
       "published": 1756805460
     }
   ],
-  "build_id": 1758576702
+  "build_id": 1758578964
 }
