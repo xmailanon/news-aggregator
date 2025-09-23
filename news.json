@@ -1,12 +1,40 @@
 {
-  "updated": 1758658242,
+  "updated": 1758659840,
   "items": [
+    {
+      "id": "edd1768e3317",
+      "title": "美股收跌　結束連日漲勢",
+      "url": "https://money.udn.com/money/story/5599/9025293",
+      "source": "money.udn.com",
+      "published": 1758659789
+    },
+    {
+      "id": "4c72bd5e508a",
+      "title": "台女倫敦遭圍毆獲提早做筆錄　警方坦言初步反應欠佳",
+      "url": "https://money.udn.com/money/story/5599/9025291",
+      "source": "money.udn.com",
+      "published": 1758659433
+    },
+    {
+      "id": "9a61f7bbdb16",
+      "title": "180度大轉變！川普批俄像紙老虎 烏軍有機會奪回失土",
+      "url": "https://money.udn.com/money/story/5599/9025287",
+      "source": "money.udn.com",
+      "published": 1758658952
+    },
     {
       "id": "593d67f8d810",
       "title": "國際油價收漲　交易員憂俄可能限制柴油出口",
       "url": "https://money.udn.com/money/story/5599/9025284",
       "source": "money.udn.com",
       "published": 1758658352
+    },
+    {
+      "id": "3a9dfb0921d5",
+      "title": "美国总统特朗普惊人之言 终于看清俄乌战争趋势并发挥正面影响",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250923-%E4%BF%84%E7%BD%97%E6%96%AF%E5%BF%85%E8%B4%A5-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BF%85%E8%83%9C-%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%8A%E4%BA%BA%E4%B9%8B%E8%A8%80%E8%BF%9B%E5%85%A5%E5%8E%86%E5%8F%B2",
+      "source": "rfi.fr",
+      "published": 1758658170
     },
     {
       "id": "12edcab35427",
@@ -35,6 +63,13 @@
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20250923-%E8%A7%86%E9%A2%91-%E9%A6%99%E6%B8%AF%E4%B8%BA%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E-%E6%A1%A6%E5%8A%A0%E6%B2%99-%E7%9A%84%E6%9D%A5%E8%A2%AD%E5%81%9A%E5%87%86%E5%A4%87",
       "source": "rfi.fr",
       "published": 1758656816
+    },
+    {
+      "id": "3e4db9d53c4f",
+      "title": "大型无人机闯入丹麦挪威两国首都机场：怀疑指向莫斯科",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250923-%E5%A4%A7%E5%9E%8B%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%97%AF%E5%85%A5%E4%B8%B9%E9%BA%A6%E6%8C%AA%E5%A8%81%E4%B8%A4%E5%9B%BD%E9%A6%96%E9%83%BD%E6%9C%BA%E5%9C%BA-%E6%80%80%E7%96%91%E6%8C%87%E5%90%91%E8%8E%AB%E6%96%AF%E7%A7%91",
+      "source": "rfi.fr",
+      "published": 1758656578
     },
     {
       "id": "6e77ec02fdab",
@@ -140,27 +175,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250923-%E7%89%B9%E6%9C%97%E6%99%AE%E8%81%94%E5%90%88%E5%9B%BD%E6%BC%94%E8%AF%B4%E8%AF%95%E5%9B%BE%E7%AA%81%E5%87%BA%E7%BE%8E%E5%9B%BD%E5%9C%A8%E5%85%A8%E7%90%83%E5%AE%9E%E5%8A%9B%E7%9A%84%E5%A4%8D%E5%85%B4",
       "source": "rfi.fr",
       "published": 1758652794
-    },
-    {
-      "id": "be67a21c34a9",
-      "title": "1分鐘看世界／沃旭獲准恢復美風電工程 激勵股價盤中大漲12%",
-      "url": "https://money.udn.com/money/story/5599/9025085",
-      "source": "money.udn.com",
-      "published": 1758651780
-    },
-    {
-      "id": "e1955b06a393",
-      "title": "川普發言 美製藥商股價大震盪",
-      "url": "https://money.udn.com/money/story/123398/9025053",
-      "source": "money.udn.com",
-      "published": 1758651580
-    },
-    {
-      "id": "d5d418d20e44",
-      "title": "大摩：記憶體迎超級循環 產業動能將延續至明年下半年",
-      "url": "https://money.udn.com/money/story/5599/9025052",
-      "source": "money.udn.com",
-      "published": 1758651575
     },
     {
       "id": "91653974393e",
@@ -609,20 +623,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250922-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%9C%A8%E8%81%94%E5%A4%A7%E4%B8%8A%E6%89%B9%E5%9B%BD%E9%99%85%E7%A7%A9%E5%BA%8F%E7%9A%84-%E7%A0%B4%E5%9D%8F%E8%80%85",
       "source": "rfi.fr",
       "published": 1758575931
-    },
-    {
-      "id": "8eb4281a9220",
-      "title": "韩法院对韩鹤子（Han Hak-ja）发出逮捕令",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20250922-%E9%9F%A9%E6%B3%95%E9%99%A2%E5%AF%B9%E9%9F%A9%E9%B9%A4%E5%AD%90-han-hak-ja-%E5%8F%91%E5%87%BA%E9%80%AE%E6%8D%95%E4%BB%A4",
-      "source": "rfi.fr",
-      "published": 1758575816
-    },
-    {
-      "id": "1cabaf7453ff",
-      "title": "甲骨文公司代理TikTok在美境内的数据业务",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20250922-%E7%94%B2%E9%AA%A8%E6%96%87%E5%85%AC%E5%8F%B8%E4%BB%A3%E7%90%86tiktok%E5%9C%A8%E7%BE%8E%E5%A2%83%E5%86%85%E7%9A%84%E6%95%B0%E6%8D%AE%E4%B8%9A%E5%8A%A1",
-      "source": "rfi.fr",
-      "published": 1758575562
     },
     {
       "id": "7adf46d35b77",
@@ -1402,5 +1402,5 @@
       "published": 1756988100
     }
   ],
-  "build_id": 1758658242
+  "build_id": 1758659840
 }
