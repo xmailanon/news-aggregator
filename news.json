@@ -1,6 +1,27 @@
 {
-  "updated": 1758663122,
+  "updated": 1758665330,
   "items": [
+    {
+      "id": "feb607e1d663",
+      "title": "樺加沙吹襲中國華南地區，香港澳門掛十號風球",
+      "url": "https://www.bbc.com/zhongwen/articles/cq8e3vv5gx3o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1758664659
+    },
+    {
+      "id": "436ae4db1f8f",
+      "title": "堰塞湖山洪重創花蓮光復鄉 一圖看影響範圍與事前應變",
+      "url": "https://udn.com/news/story/7314/9025228",
+      "source": "udn.com",
+      "published": 1758664200
+    },
+    {
+      "id": "7361f1b94fa5",
+      "title": "美特勤局查獲10萬張SIM卡　化解紐約通訊癱瘓危機",
+      "url": "https://money.udn.com/money/story/10511/9025310",
+      "source": "money.udn.com",
+      "published": 1758663935
+    },
     {
       "id": "82fca5149231",
       "title": "1964年後首度一年兩次十號風球　強烈颱風越來越頻密了嗎？",
@@ -17,7 +38,7 @@
     },
     {
       "id": "b2bea8fab136",
-      "title": "马克龙在美与特朗普隔空较劲",
+      "title": "马克龙：结束加沙冲突者可获得诺贝尔和平奖",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250923-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%9C%A8%E7%BE%8E%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%9A%94%E7%A9%BA%E8%BE%83%E5%8A%B2",
       "source": "rfi.fr",
       "published": 1758661600
@@ -44,9 +65,9 @@
       "published": 1758660942
     },
     {
-      "id": "11349bef2543",
+      "id": "6ffddecebae0",
       "title": "川普會澤倫斯基：若俄機進入北約國家空域應予擊落",
-      "url": "https://money.udn.com/money/story/10511/9025297",
+      "url": "https://money.udn.com/money/story/5599/9025297",
       "source": "money.udn.com",
       "published": 1758660932
     },
@@ -219,13 +240,6 @@
       "published": 1758653021
     },
     {
-      "id": "34ef260f55dd",
-      "title": "Fed 新理事 川普的人馬...米倫仍是少數派",
-      "url": "https://money.udn.com/money/story/10511/9025087",
-      "source": "money.udn.com",
-      "published": 1758653012
-    },
-    {
       "id": "e81c5556d731",
       "title": "特朗普联合国演说试图突出美国在全球实力的复兴",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250923-%E7%89%B9%E6%9C%97%E6%99%AE%E8%81%94%E5%90%88%E5%9B%BD%E6%BC%94%E8%AF%B4%E8%AF%95%E5%9B%BE%E7%AA%81%E5%87%BA%E7%BE%8E%E5%9B%BD%E5%9C%A8%E5%85%A8%E7%90%83%E5%AE%9E%E5%8A%9B%E7%9A%84%E5%A4%8D%E5%85%B4",
@@ -387,13 +401,6 @@
       "published": 1758639104
     },
     {
-      "id": "6966ca0024ea",
-      "title": "我農訪團訪美國俄亥俄州 強化台美糧食安全供應鏈韌性",
-      "url": "https://udn.com/news/story/6656/9025021",
-      "source": "udn.com",
-      "published": 1758638781
-    },
-    {
       "id": "4d4a6318208e",
       "title": "法国正式承认巴勒斯坦国：承认一个国家的外交行为有何利害关系？",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20250923-%E6%B3%95%E5%9B%BD%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD-%E6%89%BF%E8%AE%A4%E4%B8%80%E5%9B%BD%E5%AE%B6%E7%9A%84%E5%A4%96%E4%BA%A4%E8%A1%8C%E4%B8%BA%E6%9C%89%E4%BD%95%E5%88%A9%E5%AE%B3%E5%85%B3%E7%B3%BB",
@@ -497,13 +504,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c9wdvn0qyjdo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1758620517
-    },
-    {
-      "id": "feb607e1d663",
-      "title": "樺加沙吹襲中國華南地區，香港澳門掛八號風球",
-      "url": "https://www.bbc.com/zhongwen/articles/cq8e3vv5gx3o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1758620452
     },
     {
       "id": "829a070e8077",
@@ -1402,5 +1402,5 @@
       "published": 1756988100
     }
   ],
-  "build_id": 1758663122
+  "build_id": 1758665330
 }
