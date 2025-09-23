@@ -1,6 +1,27 @@
 {
-  "updated": 1758665330,
+  "updated": 1758666968,
   "items": [
+    {
+      "id": "d049bc016298",
+      "title": "馬英九與呂秀蓮恩師孔傑榮逝世 享壽95歲",
+      "url": "https://udn.com/news/story/7314/9025343",
+      "source": "udn.com",
+      "published": 1758666864
+    },
+    {
+      "id": "441499ce8eac",
+      "title": "馬太鞍溪橋遭沖毀 替代道路估今8時前搶通",
+      "url": "https://udn.com/news/story/124615/9025341",
+      "source": "udn.com",
+      "published": 1758665945
+    },
+    {
+      "id": "f83952c7f0f3",
+      "title": "聯大場邊會澤倫斯基　川普：烏克蘭有能力奪回領土",
+      "url": "https://money.udn.com/money/story/5599/9025339",
+      "source": "money.udn.com",
+      "published": 1758665552
+    },
     {
       "id": "feb607e1d663",
       "title": "樺加沙吹襲中國華南地區，香港澳門掛十號風球",
@@ -233,13 +254,6 @@
       "published": 1758653031
     },
     {
-      "id": "968c22267128",
-      "title": "阿根廷匯崩 川普拋救命索",
-      "url": "https://money.udn.com/money/story/5599/9025089",
-      "source": "money.udn.com",
-      "published": 1758653021
-    },
-    {
       "id": "e81c5556d731",
       "title": "特朗普联合国演说试图突出美国在全球实力的复兴",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250923-%E7%89%B9%E6%9C%97%E6%99%AE%E8%81%94%E5%90%88%E5%9B%BD%E6%BC%94%E8%AF%B4%E8%AF%95%E5%9B%BE%E7%AA%81%E5%87%BA%E7%BE%8E%E5%9B%BD%E5%9C%A8%E5%85%A8%E7%90%83%E5%AE%9E%E5%8A%9B%E7%9A%84%E5%A4%8D%E5%85%B4",
@@ -385,20 +399,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250923-%E4%B8%AD%E5%9B%BD%E5%90%91%E8%81%94%E5%90%88%E5%9B%BD%E6%8A%A5%E5%91%8A%E4%BB%8A%E5%B9%B4%E5%89%8D%E4%BA%94%E4%B8%AA%E6%9C%88%E5%90%91%E6%9C%9D%E9%B2%9C%E5%87%BA%E5%8F%A3%E4%BA%86%E8%BF%9110%E4%B8%87%E6%A1%B6%E7%B2%BE%E7%82%BC%E7%9F%B3%E6%B2%B9",
       "source": "rfi.fr",
       "published": 1758639900
-    },
-    {
-      "id": "7f983fd5c9f8",
-      "title": "梅家樹下令陸軍全力救災花蓮 三、四戰區待命增援",
-      "url": "https://udn.com/news/story/124615/9025042",
-      "source": "udn.com",
-      "published": 1758639435
-    },
-    {
-      "id": "36aebbe72cf3",
-      "title": "編列1.6億補助扶輪社、獅子會 國民黨團揪明年度中央政府預算：一定嚴審",
-      "url": "https://udn.com/news/story/6656/9025033",
-      "source": "udn.com",
-      "published": 1758639104
     },
     {
       "id": "4d4a6318208e",
@@ -1402,5 +1402,5 @@
       "published": 1756988100
     }
   ],
-  "build_id": 1758665330
+  "build_id": 1758666968
 }
