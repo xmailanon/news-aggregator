@@ -1,6 +1,20 @@
 {
-  "updated": 1758640199,
+  "updated": 1758641873,
   "items": [
+    {
+      "id": "e6ac4642b017",
+      "title": "俄稱在哈爾科夫州傳捷報　奪下庫皮揚斯克一大部分",
+      "url": "https://money.udn.com/money/story/5599/9025166",
+      "source": "money.udn.com",
+      "published": 1758641790
+    },
+    {
+      "id": "c883c2a0612c",
+      "title": "馬太鞍溪橋遭沖毀 交通部長陳世凱連夜驅車趕赴花蓮坐鎮",
+      "url": "https://udn.com/news/story/124615/9025140",
+      "source": "udn.com",
+      "published": 1758641192
+    },
     {
       "id": "ed5829180082",
       "title": "中国向联合国报告今年前五个月向朝鲜出口了近10万桶精炼石油",
@@ -317,13 +331,6 @@
       "published": 1758630144
     },
     {
-      "id": "d141f4a20959",
-      "title": "宋承憲母親病逝！昔動情讚「1句話」惹粉絲動容",
-      "url": "https://udn.com/news/story/123693/9024377",
-      "source": "udn.com",
-      "published": 1758630060
-    },
-    {
       "id": "b9fa9565c82c",
       "title": "马克龙正式承认巴勒斯坦国 国际媒体褒贬不一",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20250923-%E9%A9%AC%E5%85%8B%E9%BE%99%E6%AD%A3%E5%BC%8F%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD-%E5%9B%BD%E9%99%85%E5%AA%92%E4%BD%93%E8%A4%92%E8%B4%AC%E4%B8%8D%E4%B8%80",
@@ -364,13 +371,6 @@
       "url": "https://money.udn.com/money/story/5599/9024670",
       "source": "money.udn.com",
       "published": 1758627407
-    },
-    {
-      "id": "cd1548b14322",
-      "title": "美考慮亞葉酸治療自閉症　專家：療效仍待證實",
-      "url": "https://money.udn.com/money/story/5599/9024644",
-      "source": "money.udn.com",
-      "published": 1758627092
     },
     {
       "id": "41d404e27092",
@@ -1402,5 +1402,5 @@
       "published": 1756988100
     }
   ],
-  "build_id": 1758640199
+  "build_id": 1758641873
 }
