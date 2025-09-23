@@ -1,6 +1,27 @@
 {
-  "updated": 1758604216,
+  "updated": 1758605861,
   "items": [
+    {
+      "id": "35880fadc37b",
+      "title": "台灣女性在英國遭圍毆 外交部：駐處已聯繫協助",
+      "url": "https://udn.com/news/story/6656/9023738",
+      "source": "udn.com",
+      "published": 1758605105
+    },
+    {
+      "id": "956c443d8772",
+      "title": "監察院：鍾東錦故意未據實申報1筆債權 罰72萬元",
+      "url": "https://udn.com/news/story/6656/9023728",
+      "source": "udn.com",
+      "published": 1758604504
+    },
+    {
+      "id": "64483e4504f1",
+      "title": "營養午餐地方補助喊卡 王育敏：學童營養落差加劇 農民生計崩盤",
+      "url": "https://udn.com/news/story/6656/9023724",
+      "source": "udn.com",
+      "published": 1758604271
+    },
     {
       "id": "8717ec2a32e3",
       "title": "布局6G網路！三星加入全球6G聯網聯盟",
@@ -35,6 +56,13 @@
       "url": "https://udn.com/news/story/6656/9023647",
       "source": "udn.com",
       "published": 1758603064
+    },
+    {
+      "id": "f9ea57e3c1a3",
+      "title": "富達：Fed 獨立性受質疑 未來降息可能暫不考慮通膨",
+      "url": "https://money.udn.com/money/story/5599/9023655",
+      "source": "money.udn.com",
+      "published": 1758602791
     },
     {
       "id": "867c538ba8ee",
@@ -240,13 +268,6 @@
       "published": 1758598902
     },
     {
-      "id": "48b0c44b3e67",
-      "title": "美日韓外長強調台海和平 關切周邊破壞穩定行動",
-      "url": "https://udn.com/news/story/6656/9023397",
-      "source": "udn.com",
-      "published": 1758598784
-    },
-    {
       "id": "ce2021075758",
       "title": "川普宣稱自閉症與泰諾有關！專家說話了 普拿疼也含相同成分",
       "url": "https://money.udn.com/money/story/5599/9023421",
@@ -254,25 +275,11 @@
       "published": 1758598672
     },
     {
-      "id": "2f8cd14222e5",
-      "title": "柯文哲案最難搞證人！李文娟暴哭嫌檢調太凶 拒答30個以上問題",
-      "url": "https://udn.com/news/story/6656/9023420",
-      "source": "udn.com",
-      "published": 1758598642
-    },
-    {
       "id": "2bc9a33a1fcd",
       "title": "不滿調查以色列　美國擬全面制裁國際刑事法院",
       "url": "https://money.udn.com/money/story/5599/9023417",
       "source": "money.udn.com",
       "published": 1758598589
-    },
-    {
-      "id": "797978bd7ac3",
-      "title": "基層敵情未更新 陸軍：已要求依所頒敵情資料修訂計劃",
-      "url": "https://udn.com/news/story/10930/9023405",
-      "source": "udn.com",
-      "published": 1758598423
     },
     {
       "id": "0ddb9df60c70",
@@ -294,13 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9023329",
       "source": "money.udn.com",
       "published": 1758597152
-    },
-    {
-      "id": "f9c620ae6b39",
-      "title": "美日韓外長聯合聲明 關切台海局勢並反對南海非法主張",
-      "url": "https://money.udn.com/money/story/5599/9023312",
-      "source": "money.udn.com",
-      "published": 1758596972
     },
     {
       "id": "004aa461bfb3",
@@ -441,6 +441,13 @@
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20250922-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E5%A4%A7%E9%99%86%E6%97%A9%E5%B7%B2%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1758571010
+    },
+    {
+      "id": "6acfdfb1f8c9",
+      "title": "美国从联合国“撤退”，北京趁机提升影响力",
+      "url": "https://cn.nytimes.com/china/20250923/china-united-nations-trump/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1758560945
     },
     {
       "id": "291db00b0dc6",
@@ -1199,13 +1206,6 @@
       "published": 1758080868
     },
     {
-      "id": "1bf5ab6c5871",
-      "title": "特朗普扭转台海局势的最佳策略",
-      "url": "https://cn.nytimes.com/opinion/20250916/taiwan-china-war-trump/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1758076210
-    },
-    {
       "id": "14b717d7bbd5",
       "title": "在交談中如何提問，才是建立親密關係的捷徑？",
       "url": "https://www.bbc.com/zhongwen/articles/c62qv972r32o/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1756805460
     }
   ],
-  "build_id": 1758604216
+  "build_id": 1758605861
 }
