@@ -1,6 +1,69 @@
 {
-  "updated": 1758645755,
+  "updated": 1758647239,
   "items": [
+    {
+      "id": "707d867a5e5d",
+      "title": "Fed 主席鮑爾：就業與通膨職責都遇風險 未透露10月是否降息訊號",
+      "url": "https://money.udn.com/money/story/5599/9025235",
+      "source": "money.udn.com",
+      "published": 1758646481
+    },
+    {
+      "id": "2191a22dbc3f",
+      "title": "廉政專刊公布縣市長財產 鍾東錦疏漏認罰申報不實",
+      "url": "https://udn.com/news/story/7314/9025175",
+      "source": "udn.com",
+      "published": 1758646409
+    },
+    {
+      "id": "d3e419785ad3",
+      "title": "克里夫蘭聯準總裁：通膨率依然過高 降息方面必須保持謹慎",
+      "url": "https://money.udn.com/money/story/5599/9022851",
+      "source": "money.udn.com",
+      "published": 1758646385
+    },
+    {
+      "id": "75d6bc7beef1",
+      "title": "對俄國說重話 川普：美國準備好祭高關稅停止俄烏戰爭",
+      "url": "https://money.udn.com/money/story/5599/9025232",
+      "source": "money.udn.com",
+      "published": 1758646205
+    },
+    {
+      "id": "8a9ca08933b3",
+      "title": "市立高中職燒錢 中市盼改回國立",
+      "url": "https://udn.com/news/story/6656/9025204",
+      "source": "udn.com",
+      "published": 1758645923
+    },
+    {
+      "id": "65b45641465c",
+      "title": "冷眼集／卓揆鬧劇 自家人也不挺",
+      "url": "https://udn.com/news/story/124539/9025203",
+      "source": "udn.com",
+      "published": 1758645865
+    },
+    {
+      "id": "359f2fa1a39e",
+      "title": "營養午餐補助 蔣萬安怒轟事權未清",
+      "url": "https://udn.com/news/story/6656/9025207",
+      "source": "udn.com",
+      "published": 1758645726
+    },
+    {
+      "id": "137ce672a385",
+      "title": "韓國瑜將見麻生太郎",
+      "url": "https://udn.com/news/story/6656/9025211",
+      "source": "udn.com",
+      "published": 1758645684
+    },
+    {
+      "id": "704035a30159",
+      "title": "雙城論壇延至年底 北市認為事緩則圓",
+      "url": "https://udn.com/news/story/6656/9025209",
+      "source": "udn.com",
+      "published": 1758645635
+    },
     {
       "id": "6d225e2ce2a2",
       "title": "紐西蘭據悉即將任命首位女性擔任該國央行總裁",
@@ -184,25 +247,11 @@
       "published": 1758639435
     },
     {
-      "id": "36aebbe72cf3",
-      "title": "編列1.6億補助扶輪社、獅子會 國民黨團揪明年度中央政府預算：一定嚴審",
-      "url": "https://udn.com/news/story/6656/9025033",
-      "source": "udn.com",
-      "published": 1758639104
-    },
-    {
       "id": "dee9520eaff8",
       "title": "川普要取消H-1B簽證隨機抽籤 改高薪工作優先",
       "url": "https://money.udn.com/money/story/5599/9025032",
       "source": "money.udn.com",
       "published": 1758638912
-    },
-    {
-      "id": "6966ca0024ea",
-      "title": "我農訪團訪美國俄亥俄州 強化台美糧食安全供應鏈韌性",
-      "url": "https://udn.com/news/story/6656/9025021",
-      "source": "udn.com",
-      "published": 1758638781
     },
     {
       "id": "4d4a6318208e",
@@ -212,39 +261,11 @@
       "published": 1758638407
     },
     {
-      "id": "ab288d620913",
-      "title": "台9線馬太鞍溪橋遭沖毀 公路局提供替代道路方案",
-      "url": "https://udn.com/news/story/124615/9024998",
-      "source": "udn.com",
-      "published": 1758638339
-    },
-    {
-      "id": "c45ec9dc252a",
-      "title": "花蓮馬太鞍溪堰塞湖釀災 卓揆指示中央4單位成立前進協調所",
-      "url": "https://udn.com/news/story/124615/9025001",
-      "source": "udn.com",
-      "published": 1758638335
-    },
-    {
-      "id": "4e1a2ccec3f3",
-      "title": "整理包／花蓮光復鄉堰塞湖潰決「如1水庫灌入市區」 關鍵2個月時間軸曝",
-      "url": "https://udn.com/news/story/124615/9024894",
-      "source": "udn.com",
-      "published": 1758638214
-    },
-    {
       "id": "bb1906418a1b",
       "title": "一艘中企货轮连月来多次停靠俄占克里米亚港 乌官员：已就此向中方表达强烈反对",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250923-%E4%B8%80%E8%89%98%E4%B8%AD%E4%BC%81%E8%B4%A7%E8%BD%AE%E8%BF%9E%E6%9C%88%E6%9D%A5%E5%A4%9A%E6%AC%A1%E5%81%9C%E9%9D%A0%E4%BF%84%E5%8D%A0%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E6%B8%AF-%E4%B9%8C%E5%AE%98%E5%91%98-%E5%B7%B2%E5%B0%B1%E6%AD%A4%E5%90%91%E4%B8%AD%E6%96%B9%E8%A1%A8%E8%BE%BE%E5%BC%BA%E7%83%88%E5%8F%8D%E5%AF%B9",
       "source": "rfi.fr",
       "published": 1758637776
-    },
-    {
-      "id": "b6013d23953e",
-      "title": "花蓮馬太鞍溪堰塞湖溢流致災 卓揆指示成立前進指揮所",
-      "url": "https://udn.com/news/story/124615/9024978",
-      "source": "udn.com",
-      "published": 1758637428
     },
     {
       "id": "9faeb8bacaf3",
@@ -315,27 +336,6 @@
       "url": "https://money.udn.com/money/story/5599/9024887",
       "source": "money.udn.com",
       "published": 1758635145
-    },
-    {
-      "id": "230ea6320a84",
-      "title": "援菲抗中攸關國安　美眾議員促盧比歐確保援助不中斷",
-      "url": "https://money.udn.com/money/story/5599/9024878",
-      "source": "money.udn.com",
-      "published": 1758634602
-    },
-    {
-      "id": "f58627980435",
-      "title": "黃金期貨歷來首度衝破3,800美元 分析師：沒泡沫 漲勢動能穩固",
-      "url": "https://money.udn.com/money/story/5599/9024872",
-      "source": "money.udn.com",
-      "published": 1758634233
-    },
-    {
-      "id": "d5d75479db1c",
-      "title": "北約警告俄羅斯：侵犯東翼領空行徑必須停止",
-      "url": "https://money.udn.com/money/story/5599/9024861",
-      "source": "money.udn.com",
-      "published": 1758633695
     },
     {
       "id": "9b8f78df51e9",
@@ -1402,5 +1402,5 @@
       "published": 1756988100
     }
   ],
-  "build_id": 1758645755
+  "build_id": 1758647239
 }
