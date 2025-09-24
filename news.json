@@ -1,12 +1,12 @@
 {
-  "updated": 1758753200,
+  "updated": 1758755325,
   "items": [
     {
       "id": "4ff64820908a",
       "title": "多媒體直播回顧：強颱風樺加沙吹襲廣東及港澳台，台灣花蓮15人死多人失蹤",
       "url": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1758753201
+      "published": 1758755326
     },
     {
       "id": "5c4d1dad436f",
@@ -385,6 +385,13 @@
       "url": "https://udn.com/news/story/124615/9027740",
       "source": "udn.com",
       "published": 1758730225
+    },
+    {
+      "id": "2c5a142e63e4",
+      "title": "欧洲央行建议家庭储备应急现金",
+      "url": "https://www.ftchinese.com/story/001107734",
+      "source": "ftchinese.com",
+      "published": 1758729600
     },
     {
       "id": "b4287acf45a2",
@@ -919,20 +926,6 @@
       "published": 1758556800
     },
     {
-      "id": "c1de768906ff",
-      "title": "TikTok美国将由甲骨文控管算法",
-      "url": "https://www.ftchinese.com/story/001107707",
-      "source": "ftchinese.com",
-      "published": 1758556800
-    },
-    {
-      "id": "fc5ddf446a05",
-      "title": "美元承担了对美国的一切忧虑",
-      "url": "https://www.ftchinese.com/story/001107705",
-      "source": "ftchinese.com",
-      "published": 1758556800
-    },
-    {
       "id": "1b3ddf567f84",
       "title": "德语媒体：特朗普将南美推向中国怀抱",
       "url": "https://www.dw.com/zh/德语媒体：特朗普将南美推向中国怀抱/a-74097197?maca=chi-rss-chi-all-1127-rdf",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/欧盟、南美自贸协议-法国反对-能否批准？/a-73865537?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1756896000
+    },
+    {
+      "id": "7665c8002fc2",
+      "title": "特朗普稱不認為中國正組「國際反美聯盟」：「它更需要我們」",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y3yz34ewvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1756856120
     }
   ],
-  "build_id": 1758753200
+  "build_id": 1758755325
 }
