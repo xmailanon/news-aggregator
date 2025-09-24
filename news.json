@@ -1,12 +1,33 @@
 {
-  "updated": 1758739358,
+  "updated": 1758740874,
   "items": [
     {
       "id": "4ff64820908a",
       "title": "多媒體直播回顧：強颱風樺加沙吹襲廣東及港澳台，台灣花蓮15人死多人失蹤",
       "url": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1758739359
+      "published": 1758740876
+    },
+    {
+      "id": "407977db717c",
+      "title": "美年輕世代押注另類資產 轉向運動博弈、數位貨幣等",
+      "url": "https://money.udn.com/money/story/10511/9027603",
+      "source": "money.udn.com",
+      "published": 1758740873
+    },
+    {
+      "id": "cf27647db0e3",
+      "title": "微軟擬設立 AI 市集",
+      "url": "https://money.udn.com/money/story/123398/9027596",
+      "source": "money.udn.com",
+      "published": 1758740796
+    },
+    {
+      "id": "a69d08622755",
+      "title": "Disney+美國訂閱費喊漲",
+      "url": "https://money.udn.com/money/story/123398/9027593",
+      "source": "money.udn.com",
+      "published": 1758740768
     },
     {
       "id": "6c45cf4e1712",
@@ -315,27 +336,6 @@
       "url": "https://money.udn.com/money/story/5599/9027736",
       "source": "money.udn.com",
       "published": 1758728989
-    },
-    {
-      "id": "9042f99bd88c",
-      "title": "川普政府挺米雷伊　擬供阿根廷6000億元貨幣互換額度",
-      "url": "https://money.udn.com/money/story/5599/9027712",
-      "source": "money.udn.com",
-      "published": 1758728169
-    },
-    {
-      "id": "02ecd20194ce",
-      "title": "川普政府據悉擬入股美洲鋰業 凸顯加速關鍵礦產本地供應鏈發展意圖",
-      "url": "https://money.udn.com/money/story/5599/9025485",
-      "source": "money.udn.com",
-      "published": 1758726453
-    },
-    {
-      "id": "573f2cc1a8a2",
-      "title": "阿根廷暫停穀物出口關稅  吸引中國貿易商大舉搶購黃豆",
-      "url": "https://money.udn.com/money/story/5599/9027589",
-      "source": "money.udn.com",
-      "published": 1758726328
     },
     {
       "id": "a1c12c301043",
@@ -1402,5 +1402,5 @@
       "published": 1756896000
     }
   ],
-  "build_id": 1758739358
+  "build_id": 1758740874
 }
