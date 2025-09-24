@@ -1,12 +1,19 @@
 {
-  "updated": 1758746149,
+  "updated": 1758748129,
   "items": [
     {
       "id": "4ff64820908a",
       "title": "多媒體直播回顧：強颱風樺加沙吹襲廣東及港澳台，台灣花蓮15人死多人失蹤",
       "url": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1758746150
+      "published": 1758748129
+    },
+    {
+      "id": "4a4c861cb4dc",
+      "title": "川普據報25日簽署TikTok協議　中國已同意交易條款",
+      "url": "https://money.udn.com/money/story/10511/9027881",
+      "source": "money.udn.com",
+      "published": 1758747609
     },
     {
       "id": "c9c3a3a9420c",
@@ -231,13 +238,6 @@
       "url": "https://udn.com/news/story/6656/9027750",
       "source": "udn.com",
       "published": 1758732151
-    },
-    {
-      "id": "f1655a7d27b5",
-      "title": "AI前景與鮑爾放鷹多空拉鋸  歐股互有漲跌",
-      "url": "https://money.udn.com/money/story/5599/9027805",
-      "source": "money.udn.com",
-      "published": 1758731946
     },
     {
       "id": "52864cf08c2a",
@@ -1402,5 +1402,5 @@
       "published": 1756896000
     }
   ],
-  "build_id": 1758746149
+  "build_id": 1758748129
 }
