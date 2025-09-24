@@ -1,12 +1,26 @@
 {
-  "updated": 1758742304,
+  "updated": 1758744668,
   "items": [
     {
       "id": "4ff64820908a",
       "title": "多媒體直播回顧：強颱風樺加沙吹襲廣東及港澳台，台灣花蓮15人死多人失蹤",
       "url": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1758742305
+      "published": 1758744668
+    },
+    {
+      "id": "14a272524ea5",
+      "title": "路透：G7與歐盟擬訂定稀土價格下限　對中國部分產品徵稅",
+      "url": "https://money.udn.com/money/story/5599/9027872",
+      "source": "money.udn.com",
+      "published": 1758744130
+    },
+    {
+      "id": "e0ceaac127ab",
+      "title": "高通揭露驅動 AI 六大趨勢  AI 將成新使用介面",
+      "url": "https://money.udn.com/money/story/5599/9027871",
+      "source": "money.udn.com",
+      "published": 1758743848
     },
     {
       "id": "5c4554d8ebd8",
@@ -72,9 +86,9 @@
       "published": 1758738697
     },
     {
-      "id": "33e897f6421b",
+      "id": "bbb4937b9e5d",
       "title": "美對歐盟汽車關稅降至15%　追溯自8月1日起生效",
-      "url": "https://money.udn.com/money/story/10511/9027857",
+      "url": "https://money.udn.com/money/story/5599/9027857",
       "source": "money.udn.com",
       "published": 1758738696
     },
@@ -86,9 +100,9 @@
       "published": 1758737828
     },
     {
-      "id": "eed494495aff",
+      "id": "a2709408baee",
       "title": "川普擬將外援轉向美國優先政策　聚焦抗中、移民及反美政權",
-      "url": "https://money.udn.com/money/story/10511/9027841",
+      "url": "https://money.udn.com/money/story/5599/9027841",
       "source": "money.udn.com",
       "published": 1758737611
     },
@@ -142,9 +156,9 @@
       "published": 1758735289
     },
     {
-      "id": "9014ec0f2c95",
+      "id": "60f4b22871a9",
       "title": "美媒：川普承諾不會允許以色列併吞約旦河西岸",
-      "url": "https://money.udn.com/money/story/10511/9027820",
+      "url": "https://money.udn.com/money/story/5599/9027820",
       "source": "money.udn.com",
       "published": 1758733570
     },
@@ -259,20 +273,6 @@
       "url": "https://money.udn.com/money/story/10511/9027796",
       "source": "money.udn.com",
       "published": 1758731072
-    },
-    {
-      "id": "f4b22dd16e16",
-      "title": "美國指涉強迫勞動扣自行車　巨大可選擇銷毀或提證明",
-      "url": "https://money.udn.com/money/story/5599/9027795",
-      "source": "money.udn.com",
-      "published": 1758731070
-    },
-    {
-      "id": "a032d27a5b28",
-      "title": "OpenAI建資料中心 總支出超過兆美元",
-      "url": "https://money.udn.com/money/story/5599/9027706",
-      "source": "money.udn.com",
-      "published": 1758731063
     },
     {
       "id": "ef2f7fef80b1",
@@ -1402,5 +1402,5 @@
       "published": 1756896000
     }
   ],
-  "build_id": 1758742304
+  "build_id": 1758744668
 }
