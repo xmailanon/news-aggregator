@@ -1,12 +1,40 @@
 {
-  "updated": 1758755325,
+  "updated": 1758756713,
   "items": [
     {
       "id": "4ff64820908a",
       "title": "多媒體直播回顧：強颱風樺加沙吹襲廣東及港澳台，台灣花蓮15人死多人失蹤",
       "url": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1758755326
+      "published": 1758756715
+    },
+    {
+      "id": "d3e60ea5d201",
+      "title": "台積電ADR自歷史新高回落 較台北交易溢價仍高達27.1%",
+      "url": "https://money.udn.com/money/story/5599/9027954",
+      "source": "money.udn.com",
+      "published": 1758756570
+    },
+    {
+      "id": "17ca86800fcf",
+      "title": "英特爾傳洽蘋果尋投資 股價大漲6%！業界：台積電地位不變",
+      "url": "https://money.udn.com/money/story/123398/9027950",
+      "source": "money.udn.com",
+      "published": 1758756151
+    },
+    {
+      "id": "bcf538e96eef",
+      "title": "自民黨總裁選舉5候選人辯論  小林鷹之言及會晤賴總統",
+      "url": "https://money.udn.com/money/story/5599/9027949",
+      "source": "money.udn.com",
+      "published": 1758756072
+    },
+    {
+      "id": "2ea951d53643",
+      "title": "美股收盤／連二日收低 科技股領跌 AI 投資熱潮不敵公債殖利率走揚",
+      "url": "https://money.udn.com/money/story/123398/9027945",
+      "source": "money.udn.com",
+      "published": 1758755481
     },
     {
       "id": "5c4d1dad436f",
@@ -191,39 +219,11 @@
       "published": 1758740948
     },
     {
-      "id": "407977db717c",
-      "title": "美年輕世代押注另類資產 轉向運動博弈、數位貨幣等",
-      "url": "https://money.udn.com/money/story/10511/9027603",
-      "source": "money.udn.com",
-      "published": 1758740873
-    },
-    {
-      "id": "cf27647db0e3",
-      "title": "微軟擬設立 AI 市集",
-      "url": "https://money.udn.com/money/story/123398/9027596",
-      "source": "money.udn.com",
-      "published": 1758740796
-    },
-    {
-      "id": "a69d08622755",
-      "title": "Disney+美國訂閱費喊漲",
-      "url": "https://money.udn.com/money/story/123398/9027593",
-      "source": "money.udn.com",
-      "published": 1758740768
-    },
-    {
       "id": "6c45cf4e1712",
       "title": "马克龙：北约应“升级”应对俄罗斯挑衅，但不会开火",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250924-%E9%A9%AC%E5%85%8B%E9%BE%99-%E5%8C%97%E7%BA%A6%E5%BA%94-%E5%8D%87%E7%BA%A7-%E5%BA%94%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E6%8C%91%E8%A1%85%EF%BC%8C%E4%BD%86%E4%B8%8D%E4%BC%9A%E5%BC%80%E7%81%AB",
       "source": "rfi.fr",
       "published": 1758738697
-    },
-    {
-      "id": "bbb4937b9e5d",
-      "title": "美對歐盟汽車關稅降至15%　追溯自8月1日起生效",
-      "url": "https://money.udn.com/money/story/5599/9027857",
-      "source": "money.udn.com",
-      "published": 1758738696
     },
     {
       "id": "cef2f799b688",
@@ -385,13 +385,6 @@
       "url": "https://udn.com/news/story/124615/9027740",
       "source": "udn.com",
       "published": 1758730225
-    },
-    {
-      "id": "2c5a142e63e4",
-      "title": "欧洲央行建议家庭储备应急现金",
-      "url": "https://www.ftchinese.com/story/001107734",
-      "source": "ftchinese.com",
-      "published": 1758729600
     },
     {
       "id": "b4287acf45a2",
@@ -681,111 +674,6 @@
       "published": 1758652754
     },
     {
-      "id": "588d7d9acc91",
-      "title": "西贝舆情风波启示录：企业该如何应对网络舆情",
-      "url": "https://www.ftchinese.com/story/001107728",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "cbdea12cee35",
-      "title": "中国宣布将不再寻求世贸组织发展中国家特殊和差别待遇",
-      "url": "https://www.ftchinese.com/story/001107733",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "6aa84f701163",
-      "title": "三一电动卡车领衔中国新一轮全球汽车市场攻势",
-      "url": "https://www.ftchinese.com/story/001107732",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "5074ebfe0692",
-      "title": "要不要退出燃油车，欧洲再次陷入了纠结",
-      "url": "https://www.ftchinese.com/story/001107659",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "daca2df39302",
-      "title": "紫金黄金国际为全球黄金投资者带来新机遇",
-      "url": "https://www.ftchinese.com/story/001107731",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "2e7ef94e2bd2",
-      "title": "大型银行重返香港，迎接交易热潮",
-      "url": "https://www.ftchinese.com/story/001107730",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "65a96a7649a9",
-      "title": "英中贸易协会总裁白彼得：英中关系已发生巨大的积极变化",
-      "url": "https://www.ftchinese.com/story/001107729",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "6f043b73ed4a",
-      "title": "你的数据卖多少钱合适？",
-      "url": "https://www.ftchinese.com/story/001107727",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "257f1efcb162",
-      "title": "文化遗产沦为外交筹码：翠玉白菜捷克行",
-      "url": "https://www.ftchinese.com/story/001107726",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "f6702cd55f86",
-      "title": "美国经济活力是特朗普第二任期的受害者",
-      "url": "https://www.ftchinese.com/story/001107725",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "02968264656e",
-      "title": "北京8月的消费为何下降这么多？",
-      "url": "https://www.ftchinese.com/story/001107700",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "c4e22d5a42f7",
-      "title": "从美日经验看A股：盈利，“慢牛”真正的“压舱石”",
-      "url": "https://www.ftchinese.com/story/001107713",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "622599d20663",
-      "title": "始祖鸟与蔡国强：同一场危机，两个公关剧本",
-      "url": "https://www.ftchinese.com/story/001107716",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "dd186aed8df1",
-      "title": "稳增长之辩：优先消费还是投资？",
-      "url": "https://www.ftchinese.com/story/001107720",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
-      "id": "ebb798aec003",
-      "title": "特朗普治下的美国加速蜕变",
-      "url": "https://www.ftchinese.com/story/001107723",
-      "source": "ftchinese.com",
-      "published": 1758643200
-    },
-    {
       "id": "605163cf5f73",
       "title": "德语媒体：台湾的无人机产业希望挑战中国的霸主地位",
       "url": "https://www.dw.com/zh/德语媒体：台湾的无人机产业希望挑战中国的霸主地位/a-74111104?maca=chi-rss-chi-all-1127-rdf",
@@ -903,27 +791,6 @@
       "url": "https://cn.nytimes.com/china/20250923/china-united-nations-trump/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1758560945
-    },
-    {
-      "id": "38efbdc978a0",
-      "title": "美国众议员访华，敦促加强中美军事沟通",
-      "url": "https://www.ftchinese.com/story/001107722",
-      "source": "ftchinese.com",
-      "published": 1758556800
-    },
-    {
-      "id": "d0c08506cc6d",
-      "title": "中国香港与华南地区准备迎战超强台风“桦加沙”",
-      "url": "https://www.ftchinese.com/story/001107721",
-      "source": "ftchinese.com",
-      "published": 1758556800
-    },
-    {
-      "id": "a63bc31fbd52",
-      "title": "转型押注数据中心 华勤技术乘势申港上市",
-      "url": "https://www.ftchinese.com/story/001107719",
-      "source": "ftchinese.com",
-      "published": 1758556800
     },
     {
       "id": "1b3ddf567f84",
@@ -1400,7 +1267,49 @@
       "url": "https://www.bbc.com/zhongwen/articles/c5y3yz34ewvo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1756856120
+    },
+    {
+      "id": "a116afb8b29d",
+      "title": "記憶的煙硝：80年後兩岸歷史教育如何談二戰？",
+      "url": "https://www.dw.com/zh/記憶的煙硝：80年後兩岸歷史教育如何談二戰？/a-73847317?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756805460
+    },
+    {
+      "id": "98130a8634a0",
+      "title": "DW事实核查：如何不被AI聊天机器人误导？",
+      "url": "https://www.dw.com/zh/dw事实核查：如何不被ai聊天机器人误导？/a-73764367?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756624260
+    },
+    {
+      "id": "ffc0c38a3249",
+      "title": "DW事实核查：如何识别“冒牌”新闻？",
+      "url": "https://www.dw.com/zh/dw事实核查：如何识别-冒牌-新闻？/a-73779754?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756624140
+    },
+    {
+      "id": "298f45d39b19",
+      "title": "纳粹劫掠艺术品“现身”房产广告 警方扑了个空",
+      "url": "https://www.dw.com/zh/纳粹劫掠艺术品-现身-房产广告-警方扑了个空/a-73810547?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1756624080
+    },
+    {
+      "id": "df59979dfde2",
+      "title": "美國明州天主教小學槍擊案釀20人傷亡",
+      "url": "https://www.dw.com/zh/美國明州天主教小學槍擊案釀20人傷亡/a-73790255?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1756355400
+    },
+    {
+      "id": "e4c0ef2266b0",
+      "title": "惩罚购买俄石油：美国对印度50%高关税生效",
+      "url": "https://www.dw.com/zh/惩罚购买俄石油：美国对印度50-高关税生效/a-73780597?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1756292040
     }
   ],
-  "build_id": 1758755325
+  "build_id": 1758756713
 }
