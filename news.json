@@ -1,12 +1,19 @@
 {
-  "updated": 1758744668,
+  "updated": 1758746149,
   "items": [
     {
       "id": "4ff64820908a",
       "title": "多媒體直播回顧：強颱風樺加沙吹襲廣東及港澳台，台灣花蓮15人死多人失蹤",
       "url": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1758744668
+      "published": 1758746150
+    },
+    {
+      "id": "c9c3a3a9420c",
+      "title": "殖民時期節育醜聞　丹麥總理正式向格陵蘭婦女道歉",
+      "url": "https://money.udn.com/money/story/5599/9027873",
+      "source": "money.udn.com",
+      "published": 1758744732
     },
     {
       "id": "14a272524ea5",
@@ -266,13 +273,6 @@
       "url": "https://udn.com/news/story/124615/9027774",
       "source": "udn.com",
       "published": 1758731164
-    },
-    {
-      "id": "aa8288422290",
-      "title": "澤倫斯基聯大演說　稱不制止俄軍恐致毀滅性軍備競賽",
-      "url": "https://money.udn.com/money/story/10511/9027796",
-      "source": "money.udn.com",
-      "published": 1758731072
     },
     {
       "id": "ef2f7fef80b1",
@@ -1402,5 +1402,5 @@
       "published": 1756896000
     }
   ],
-  "build_id": 1758744668
+  "build_id": 1758746149
 }
