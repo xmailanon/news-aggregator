@@ -1,5 +1,5 @@
 {
-  "updated": 1758813021,
+  "updated": 1758814706,
   "items": [
     {
       "id": "536259e42408",
@@ -13,7 +13,35 @@
       "title": "多媒體直播回顧：強颱風樺加沙吹襲廣東及港澳台，台灣花蓮15人死多人失蹤",
       "url": "https://www.bbc.com/zhongwen/live/cj6x92050n4t/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1758813021
+      "published": 1758814707
+    },
+    {
+      "id": "de9f5e5830e5",
+      "title": "韓國總理稱簽證問題不解決 美國投資項目就沒定數",
+      "url": "https://money.udn.com/money/story/5599/9028061",
+      "source": "money.udn.com",
+      "published": 1758814028
+    },
+    {
+      "id": "0064f380630b",
+      "title": "花蓮洪災14具遺體全數相驗完成 仍有2具身分待確認",
+      "url": "https://udn.com/news/story/6656/9030358",
+      "source": "udn.com",
+      "published": 1758814004
+    },
+    {
+      "id": "c93327ec797e",
+      "title": "加速花蓮善後 國軍2000官兵待命投入救災",
+      "url": "https://udn.com/news/story/10930/9030341",
+      "source": "udn.com",
+      "published": 1758813713
+    },
+    {
+      "id": "171151d3938e",
+      "title": "美國銀行策略師認為標普500指數的高估值或是「新常態」而非泡沫",
+      "url": "https://money.udn.com/money/story/123398/9028062",
+      "source": "money.udn.com",
+      "published": 1758813310
     },
     {
       "id": "0271641374e3",
@@ -345,39 +373,11 @@
       "published": 1758803653
     },
     {
-      "id": "1813e10aeb6c",
-      "title": "歐洲央行管委 Kazimir 稱通膨目標已達成 央行現在需要保持耐心",
-      "url": "https://money.udn.com/money/story/5599/9029523",
-      "source": "money.udn.com",
-      "published": 1758803147
-    },
-    {
-      "id": "e2981d39403d",
-      "title": "國軍53工兵群增援花蓮搜救災後復原 光復鄉設沐浴站",
-      "url": "https://udn.com/news/story/124615/9029988",
-      "source": "udn.com",
-      "published": 1758802811
-    },
-    {
-      "id": "de43b8e8885f",
-      "title": "瑞士央行維持利率在零水準 自2024年初以來首次停止降息",
-      "url": "https://money.udn.com/money/story/5599/9029524",
-      "source": "money.udn.com",
-      "published": 1758802555
-    },
-    {
       "id": "627c2864d441",
       "title": "中国宣布朝鲜外务相即将访华 平壤称“应王毅邀请”",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250925-%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E6%9C%9D%E9%B2%9C%E5%A4%96%E5%8A%A1%E7%9B%B8%E5%8D%B3%E5%B0%86%E8%AE%BF%E5%8D%8E-%E5%B9%B3%E5%A3%A4%E7%A7%B0-%E5%BA%94%E7%8E%8B%E6%AF%85%E9%82%80%E8%AF%B7",
       "source": "rfi.fr",
       "published": 1758802123
-    },
-    {
-      "id": "e048457f697e",
-      "title": "捐款花蓮慎防詐騙 行政院提醒認明官方管道",
-      "url": "https://udn.com/news/story/124615/9029953",
-      "source": "udn.com",
-      "published": 1758801974
     },
     {
       "id": "7d8324edfad0",
@@ -1402,5 +1402,5 @@
       "published": 1757139180
     }
   ],
-  "build_id": 1758813021
+  "build_id": 1758814706
 }
