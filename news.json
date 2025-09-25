@@ -1,6 +1,20 @@
 {
-  "updated": 1758820093,
+  "updated": 1758821767,
   "items": [
+    {
+      "id": "75a33a8235c0",
+      "title": "马拉维:2025总统选举胜负已定",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20250925-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E9%A9%AC%E6%8B%89%E7%BB%B4-2025%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E8%83%9C%E8%B4%9F%E5%B7%B2%E5%AE%9A",
+      "source": "rfi.fr",
+      "published": 1758821450
+    },
+    {
+      "id": "ac50a11f6a5b",
+      "title": "聯合國大會期間 外長林佳龍現身紐約 我退出聯合國後首例",
+      "url": "https://udn.com/news/story/6656/9030423",
+      "source": "udn.com",
+      "published": 1758820465
+    },
     {
       "id": "66a4917be564",
       "title": "歐股收黑　投資人靜候美國重要通膨數據出爐",
@@ -203,13 +217,6 @@
       "url": "https://money.udn.com/money/story/5599/9028061",
       "source": "money.udn.com",
       "published": 1758814028
-    },
-    {
-      "id": "0064f380630b",
-      "title": "花蓮洪災14具遺體全數相驗完成 仍有2具身分待確認",
-      "url": "https://udn.com/news/story/6656/9030358",
-      "source": "udn.com",
-      "published": 1758814004
     },
     {
       "id": "171151d3938e",
@@ -581,13 +588,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250924-%E9%A9%AC%E5%85%8B%E9%BE%99-%E5%8C%97%E7%BA%A6%E5%BA%94-%E5%8D%87%E7%BA%A7-%E5%BA%94%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E6%8C%91%E8%A1%85%EF%BC%8C%E4%BD%86%E4%B8%8D%E4%BC%9A%E5%BC%80%E7%81%AB",
       "source": "rfi.fr",
       "published": 1758738697
-    },
-    {
-      "id": "cef2f799b688",
-      "title": "马克龙在联合国保证法国在和平问题上拒绝“双重标准”",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250924-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E4%BF%9D%E8%AF%81%E6%B3%95%E5%9B%BD%E5%9C%A8%E5%92%8C%E5%B9%B3%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8B%92%E7%BB%9D-%E5%8F%8C%E9%87%8D%E6%A0%87%E5%87%86",
-      "source": "rfi.fr",
-      "published": 1758737828
     },
     {
       "id": "c3d238762b2d",
@@ -1402,5 +1402,5 @@
       "published": 1757139180
     }
   ],
-  "build_id": 1758820093
+  "build_id": 1758821767
 }
