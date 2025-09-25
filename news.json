@@ -1,6 +1,13 @@
 {
-  "updated": 1758825907,
+  "updated": 1758827270,
   "items": [
+    {
+      "id": "8681a205d57f",
+      "title": "美政府恐關門 白宮施壓反擊 川普：都是民主黨的錯",
+      "url": "https://money.udn.com/money/story/5599/9030510",
+      "source": "money.udn.com",
+      "published": 1758827554
+    },
     {
       "id": "b9a4a8a73d1a",
       "title": "南韓總統：北韓接近能以洲際飛彈攜核武打擊美國",
@@ -308,13 +315,6 @@
       "url": "https://money.udn.com/money/story/123398/9028062",
       "source": "money.udn.com",
       "published": 1758813310
-    },
-    {
-      "id": "0271641374e3",
-      "title": "英國央行內部政策分歧凸顯 總裁與外部委員 Greene 意見相左",
-      "url": "https://money.udn.com/money/story/5599/9028123",
-      "source": "money.udn.com",
-      "published": 1758812169
     },
     {
       "id": "fd1a4c68ed33",
@@ -1402,5 +1402,5 @@
       "published": 1757139180
     }
   ],
-  "build_id": 1758825907
+  "build_id": 1758827270
 }
