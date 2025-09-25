@@ -1,6 +1,20 @@
 {
-  "updated": 1758834530,
+  "updated": 1758835929,
   "items": [
+    {
+      "id": "23ea152b2c21",
+      "title": "經濟數據強勁推升美元　華爾街股市再收挫",
+      "url": "https://money.udn.com/money/story/5599/9030547",
+      "source": "money.udn.com",
+      "published": 1758835277
+    },
+    {
+      "id": "98c018beb04e",
+      "title": "特朗普签署行政令 确认TikTok出售计划符合美国法律",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250925-%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E8%A1%8C%E6%94%BF%E4%BB%A4-%E7%A1%AE%E8%AE%A4tiktok%E5%87%BA%E5%94%AE%E8%AE%A1%E5%88%92%E7%AC%A6%E5%90%88%E7%BE%8E%E5%9B%BD%E6%B3%95%E5%BE%8B",
+      "source": "rfi.fr",
+      "published": 1758834960
+    },
     {
       "id": "0ab70dcaed39",
       "title": "俄限制燃料出口但美GDP衝擊降息前景　國際油價持穩",
@@ -301,13 +315,6 @@
       "url": "https://money.udn.com/money/story/5599/9028019",
       "source": "money.udn.com",
       "published": 1758815447
-    },
-    {
-      "id": "4ae887d75b62",
-      "title": "貝森特稱正與阿根廷商討200億美元互換額度 並準備購買該國美元債",
-      "url": "https://money.udn.com/money/story/5599/9028060",
-      "source": "money.udn.com",
-      "published": 1758815214
     },
     {
       "id": "7915381dce42",
@@ -721,13 +728,6 @@
       "url": "https://www.dw.com/zh/德语媒体：中国启动北极货运航线可避免与欧洲贸易被-拿捏-？/a-74121842?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758721320
-    },
-    {
-      "id": "4ac6774aa8dc",
-      "title": "马克龙挑战特朗普：只有终止加沙战争才能赢诺贝尔奖",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250924-%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8C%91%E6%88%98%E7%89%B9%E6%9C%97%E6%99%AE-%E5%8F%AA%E6%9C%89%E7%BB%88%E6%AD%A2%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E6%89%8D%E8%83%BD%E8%B5%A2%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96",
-      "source": "rfi.fr",
-      "published": 1758717038
     },
     {
       "id": "b23e6205307c",
@@ -1402,5 +1402,5 @@
       "published": 1757139180
     }
   ],
-  "build_id": 1758834530
+  "build_id": 1758835929
 }
