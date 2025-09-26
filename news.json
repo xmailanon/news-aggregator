@@ -1,6 +1,20 @@
 {
-  "updated": 1758908086,
+  "updated": 1758910332,
   "items": [
+    {
+      "id": "4bd3d3a14742",
+      "title": "川普擬再祭關稅　落實半導體美造與進口各半",
+      "url": "https://money.udn.com/money/story/10511/9032782",
+      "source": "money.udn.com",
+      "published": 1758910326
+    },
+    {
+      "id": "84f71c3edf50",
+      "title": "華郵：美以轟炸後　伊朗繼續構工神秘地下核設施",
+      "url": "https://money.udn.com/money/story/5599/9032776",
+      "source": "money.udn.com",
+      "published": 1758908168
+    },
     {
       "id": "82e0b915275b",
       "title": "1分鐘看世界／新設公司負責美 TikTok 營運 估值140億美元 遠低於預期",
@@ -44,9 +58,9 @@
       "published": 1758907324
     },
     {
-      "id": "ed783603615f",
+      "id": "7891516a9820",
       "title": "美通膨關鍵指標符合預期　歐股收紅",
-      "url": "https://money.udn.com/money/story/10511/9032772",
+      "url": "https://money.udn.com/money/story/5599/9032772",
       "source": "money.udn.com",
       "published": 1758907270
     },
@@ -135,9 +149,9 @@
       "published": 1758902602
     },
     {
-      "id": "4eb8dbc49b3b",
+      "id": "bb0bcdcee401",
       "title": "冷眼集／中央地方各吹各調 災民二度傷害",
-      "url": "https://udn.com/news/story/124615/9032620",
+      "url": "https://udn.com/news/story/124616/9032620",
       "source": "udn.com",
       "published": 1758902577
     },
@@ -212,13 +226,6 @@
       "published": 1758902341
     },
     {
-      "id": "da430e831125",
-      "title": "觀察站／2758號決議 台灣繞不開的坎",
-      "url": "https://udn.com/news/story/6656/9032669",
-      "source": "udn.com",
-      "published": 1758902178
-    },
-    {
       "id": "c0d26c71b8a0",
       "title": "中方聲稱 聯大主席指2758號決議意涵清晰",
       "url": "https://udn.com/news/story/6656/9032668",
@@ -226,11 +233,11 @@
       "published": 1758902178
     },
     {
-      "id": "038548001f4e",
-      "title": "藍黨魁10/2辯論會 首場6人同台",
-      "url": "https://udn.com/news/story/6656/9032671",
+      "id": "da430e831125",
+      "title": "觀察站／2758號決議 台灣繞不開的坎",
+      "url": "https://udn.com/news/story/6656/9032669",
       "source": "udn.com",
-      "published": 1758902123
+      "published": 1758902178
     },
     {
       "id": "10df0f6c2921",
@@ -243,6 +250,13 @@
       "id": "dbe8fa8398ee",
       "title": "聯合政府研討會 白營擬邀趙少康",
       "url": "https://udn.com/news/story/6656/9032673",
+      "source": "udn.com",
+      "published": 1758902123
+    },
+    {
+      "id": "8a33fa1d19c3",
+      "title": "藍黨魁10月2日辯論會 首場6人同台",
+      "url": "https://udn.com/news/story/122404/9032671",
       "source": "udn.com",
       "published": 1758902123
     },
@@ -294,20 +308,6 @@
       "url": "https://money.udn.com/money/story/5599/9030715",
       "source": "money.udn.com",
       "published": 1758900433
-    },
-    {
-      "id": "3fd8140e193a",
-      "title": "川普稱不會允許以色列吞併約旦河西岸",
-      "url": "https://money.udn.com/money/story/5599/9030783",
-      "source": "money.udn.com",
-      "published": 1758899290
-    },
-    {
-      "id": "24aef3c04389",
-      "title": "聯準會的庫克稱自己縱使只是暫時離任 或將造成金融市場混亂和破壞",
-      "url": "https://money.udn.com/money/story/5599/9030784",
-      "source": "money.udn.com",
-      "published": 1758899032
     },
     {
       "id": "b4332ea9e882",
@@ -1402,5 +1402,5 @@
       "published": 1757139180
     }
   ],
-  "build_id": 1758908086
+  "build_id": 1758910332
 }
