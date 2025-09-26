@@ -1,6 +1,20 @@
 {
-  "updated": 1758910332,
+  "updated": 1758912173,
   "items": [
+    {
+      "id": "b4db3ce7d88f",
+      "title": "奈及利亞金礦坍塌　恐至少100人罹難",
+      "url": "https://money.udn.com/money/story/5599/9032789",
+      "source": "money.udn.com",
+      "published": 1758911789
+    },
+    {
+      "id": "05a2f6fc1258",
+      "title": "影／搜救人員克服萬難泥沼中前行 屏東特搜馳援花蓮救出64人",
+      "url": "https://udn.com/news/story/6656/9032786",
+      "source": "udn.com",
+      "published": 1758911023
+    },
     {
       "id": "4bd3d3a14742",
       "title": "川普擬再祭關稅　落實半導體美造與進口各半",
@@ -240,16 +254,16 @@
       "published": 1758902178
     },
     {
-      "id": "10df0f6c2921",
-      "title": "黃國昌指揮狗仔跟監？綠白互槓",
-      "url": "https://udn.com/news/story/6656/9032672",
+      "id": "dbe8fa8398ee",
+      "title": "聯合政府研討會 白營擬邀趙少康",
+      "url": "https://udn.com/news/story/6656/9032673",
       "source": "udn.com",
       "published": 1758902123
     },
     {
-      "id": "dbe8fa8398ee",
-      "title": "聯合政府研討會 白營擬邀趙少康",
-      "url": "https://udn.com/news/story/6656/9032673",
+      "id": "10df0f6c2921",
+      "title": "黃國昌指揮狗仔跟監？綠白互槓",
+      "url": "https://udn.com/news/story/6656/9032672",
       "source": "udn.com",
       "published": 1758902123
     },
@@ -303,13 +317,6 @@
       "published": 1758900509
     },
     {
-      "id": "0e7d3e928263",
-      "title": "避險基金經理 David Einhorn 警告 AI 領域支出極端化 或帶來巨大資本損失",
-      "url": "https://money.udn.com/money/story/5599/9030715",
-      "source": "money.udn.com",
-      "published": 1758900433
-    },
-    {
       "id": "b4332ea9e882",
       "title": "【视频】丹麦一周两次无人机侵扰引安全担忧",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250926-%E8%A7%86%E9%A2%91-%E4%B8%B9%E9%BA%A6%E4%B8%80%E5%91%A8%E4%B8%A4%E6%AC%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BE%B5%E6%89%B0%E5%BC%95%E5%AE%89%E5%85%A8%E6%8B%85%E5%BF%A7",
@@ -329,13 +336,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250926-%E4%B8%B9%E9%BA%A6%E5%86%8D%E5%87%BA%E7%8E%B0%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%98%8E%E6%97%A0%E4%BA%BA%E6%9C%BA-%E4%B8%80%E5%BA%A7%E6%9C%BA%E5%9C%BA%E4%B8%B4%E6%97%B6%E5%85%B3%E9%97%AD",
       "source": "rfi.fr",
       "published": 1758896727
-    },
-    {
-      "id": "a7fcf0534703",
-      "title": "影／花蓮6歲女童奇蹟生還 屏東特搜大隊長紅了眼眶談「重要四環節」",
-      "url": "https://udn.com/news/story/124615/9032496",
-      "source": "udn.com",
-      "published": 1758895504
     },
     {
       "id": "8f7fae668c7a",
@@ -1402,5 +1402,5 @@
       "published": 1757139180
     }
   ],
-  "build_id": 1758910332
+  "build_id": 1758912173
 }
