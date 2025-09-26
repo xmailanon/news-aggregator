@@ -1,6 +1,27 @@
 {
-  "updated": 1758918963,
+  "updated": 1758920889,
   "items": [
+    {
+      "id": "3a0b06c56785",
+      "title": "外媒：字節跳動仍保TikTok美業務大權並朋分利潤",
+      "url": "https://money.udn.com/money/story/10511/9032823",
+      "source": "money.udn.com",
+      "published": 1758920497
+    },
+    {
+      "id": "1880401eac1c",
+      "title": "歐盟強化東翼防線　打造「無人機長城」列優先任務",
+      "url": "https://money.udn.com/money/story/5599/9032822",
+      "source": "money.udn.com",
+      "published": 1758920046
+    },
+    {
+      "id": "383c905e3fdd",
+      "title": "影／花蓮溢堤當天一群高中生逃一劫…背老人、鏟爛泥、鞋印留泥濘",
+      "url": "https://udn.com/news/story/124615/9032818",
+      "source": "udn.com",
+      "published": 1758918904
+    },
     {
       "id": "cb40cac81582",
       "title": "佳士得晚拍畢卡索畫作逾7億台幣成交 刷新亞洲拍賣紀錄",
@@ -37,9 +58,9 @@
       "published": 1758911789
     },
     {
-      "id": "05a2f6fc1258",
+      "id": "bb62516dbcba",
       "title": "影／搜救人員克服萬難泥沼中前行 屏東特搜馳援花蓮救出64人",
-      "url": "https://udn.com/news/story/6656/9032786",
+      "url": "https://udn.com/news/story/124615/9032786",
       "source": "udn.com",
       "published": 1758911023
     },
@@ -177,20 +198,6 @@
       "published": 1758902948
     },
     {
-      "id": "108a1bf8ac0d",
-      "title": "AI女神 2／100天的進擊！從文組女到工程師，揭ChatGPT最常見三大誤解",
-      "url": "https://money.udn.com/money/story/122979/8966737",
-      "source": "money.udn.com",
-      "published": 1758902810
-    },
-    {
-      "id": "a20f7d473287",
-      "title": "AI女神 1／教授禁AI，文組女生怒刷100天程式碼，逆襲成企業工程師",
-      "url": "https://money.udn.com/money/story/122979/8952216",
-      "source": "money.udn.com",
-      "published": 1758902630
-    },
-    {
       "id": "a75c9cfb35bf",
       "title": "馬太鞍溪水溢流市區 昨起施工阻水",
       "url": "https://udn.com/news/story/124615/9032623",
@@ -308,13 +315,6 @@
       "url": "https://udn.com/news/story/122404/9032671",
       "source": "udn.com",
       "published": 1758902123
-    },
-    {
-      "id": "114ada6e9e5b",
-      "title": "台海兵推：共軍有能力在太平洋部署兵力 台灣東部已非戰略屏障",
-      "url": "https://udn.com/news/story/10930/9032618",
-      "source": "udn.com",
-      "published": 1758901904
     },
     {
       "id": "b4332ea9e882",
@@ -1402,5 +1402,5 @@
       "published": 1757139180
     }
   ],
-  "build_id": 1758918963
+  "build_id": 1758920889
 }
