@@ -1,5 +1,5 @@
 {
-  "updated": 1758912173,
+  "updated": 1758913646,
   "items": [
     {
       "id": "b4db3ce7d88f",
@@ -147,6 +147,20 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250926-%E5%9C%A8%E7%BA%BD%E7%BA%A6%E8%81%94%E5%90%88%E5%9B%BD-%E4%B8%AD%E5%9B%BD%E5%92%8C%E6%B3%95%E5%9B%BD%E6%88%90%E4%B8%BA%E6%84%8F%E6%83%B3%E4%B8%8D%E5%88%B0%E7%9A%84%E6%B0%94%E5%80%99%E7%A7%91%E5%AD%A6%E6%8D%8D%E5%8D%AB%E8%80%85",
       "source": "rfi.fr",
       "published": 1758902948
+    },
+    {
+      "id": "108a1bf8ac0d",
+      "title": "AI女神 2／100天的進擊！從文組女到工程師，揭ChatGPT最常見三大誤解",
+      "url": "https://money.udn.com/money/story/122979/8966737",
+      "source": "money.udn.com",
+      "published": 1758902810
+    },
+    {
+      "id": "a20f7d473287",
+      "title": "AI女神 1／教授禁AI，文組女生怒刷100天程式碼，逆襲成企業工程師",
+      "url": "https://money.udn.com/money/story/122979/8952216",
+      "source": "money.udn.com",
+      "published": 1758902630
     },
     {
       "id": "a75c9cfb35bf",
@@ -301,20 +315,6 @@
       "url": "https://money.udn.com/money/story/5599/9032714",
       "source": "money.udn.com",
       "published": 1758900991
-    },
-    {
-      "id": "dd74265c9c79",
-      "title": "韓國將啟動外匯市場24小時交易 並放寬非居民韓元交易",
-      "url": "https://money.udn.com/money/story/5599/9030714",
-      "source": "money.udn.com",
-      "published": 1758900584
-    },
-    {
-      "id": "ed511d1feeed",
-      "title": "川普：我認為快要達成加薩協議 人質可能很快就會被釋放",
-      "url": "https://money.udn.com/money/story/5599/9032690",
-      "source": "money.udn.com",
-      "published": 1758900509
     },
     {
       "id": "b4332ea9e882",
@@ -1402,5 +1402,5 @@
       "published": 1757139180
     }
   ],
-  "build_id": 1758912173
+  "build_id": 1758913646
 }
