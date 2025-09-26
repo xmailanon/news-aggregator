@@ -1,6 +1,27 @@
 {
-  "updated": 1758920889,
+  "updated": 1758922316,
   "items": [
+    {
+      "id": "7536255b8aee",
+      "title": "市場衡量川普關稅新措施和通膨指標　美股收紅",
+      "url": "https://money.udn.com/money/story/10511/9032834",
+      "source": "money.udn.com",
+      "published": 1758922218
+    },
+    {
+      "id": "b8092e6d4d8e",
+      "title": "傳奇美國女飛行員失蹤近90年 川普下令解密相關文件",
+      "url": "https://money.udn.com/money/story/5599/9032833",
+      "source": "money.udn.com",
+      "published": 1758922173
+    },
+    {
+      "id": "801a5bda27d7",
+      "title": "特朗普称加沙停火协议\"接近达成\" 人质或将很快获释",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250926-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE-%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90-%E4%BA%BA%E8%B4%A8%E6%88%96%E5%B0%86%E5%BE%88%E5%BF%AB%E8%8E%B7%E9%87%8A",
+      "source": "rfi.fr",
+      "published": 1758921386
+    },
     {
       "id": "3a0b06c56785",
       "title": "外媒：字節跳動仍保TikTok美業務大權並朋分利潤",
@@ -175,20 +196,6 @@
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20250926-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E8%B4%9D%E5%AE%81-%E6%B3%95%E6%96%87%E6%8B%BC%E5%AD%97%E6%B8%B8%E6%88%8F%E7%AB%9E%E8%B5%9B%E5%BC%BA%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1758903694
-    },
-    {
-      "id": "7d2ff6499b33",
-      "title": "川普連環拳 藥品課100%關稅、進口重型卡車課徵25%、家具30%-50%",
-      "url": "https://money.udn.com/money/story/5599/9032642",
-      "source": "money.udn.com",
-      "published": 1758903476
-    },
-    {
-      "id": "2ec9c5d72564",
-      "title": "美政府關門危機山雨欲來 就業報告延遲恐牽動 Fed 決策",
-      "url": "https://money.udn.com/money/story/10511/9032693",
-      "source": "money.udn.com",
-      "published": 1758903025
     },
     {
       "id": "005b35c51ab2",
@@ -616,13 +623,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250925-%E6%B3%95%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E8%90%A8%E7%A7%91%E9%BD%90%E5%9C%A8-%E5%88%A9%E6%AF%94%E4%BA%9A%E6%A1%88-%E4%B8%AD%E8%A2%AB%E5%88%A45%E5%B9%B4%E7%9B%91%E7%A6%81-%E6%B3%95%E5%85%B0%E8%A5%BF%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8F%B2%E4%B8%8A%E9%A6%96%E4%BE%8B",
       "source": "rfi.fr",
       "published": 1758823072
-    },
-    {
-      "id": "88d15f96bcd7",
-      "title": "乌克兰、巴勒斯坦、伊朗……法国总统马克龙接受法国国际广播电台和法国24电视台专访（全文）",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20250925-%E4%B9%8C%E5%85%8B%E5%85%B0-%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6-%E4%BC%8A%E6%9C%97-%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A5%E5%8F%97%E6%B3%95%E5%9B%BD%E5%9B%BD%E9%99%85%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E5%92%8C%E6%B3%95%E5%9B%BD24%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%93%E8%AE%BF-%E5%85%A8%E6%96%87",
-      "source": "rfi.fr",
-      "published": 1758818846
     },
     {
       "id": "f2c4d916c89e",
@@ -1402,5 +1402,5 @@
       "published": 1757139180
     }
   ],
-  "build_id": 1758920889
+  "build_id": 1758922316
 }
