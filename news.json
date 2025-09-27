@@ -1,6 +1,20 @@
 {
-  "updated": 1758982048,
+  "updated": 1758983635,
   "items": [
+    {
+      "id": "5ed94d9f19be",
+      "title": "特斯拉出現600美元目標價  26日股價大漲4%",
+      "url": "https://money.udn.com/money/story/123398/9034073",
+      "source": "money.udn.com",
+      "published": 1758983671
+    },
+    {
+      "id": "45f570fa78cd",
+      "title": "馬太鞍溪堰塞湖洪災 行政院長卓榮泰：已預備相關經費",
+      "url": "https://udn.com/news/story/124615/9034058",
+      "source": "udn.com",
+      "published": 1758982005
+    },
     {
       "id": "b15e8afa6fed",
       "title": "民團辦民防論壇 學者提指揮與資訊等4情境需預思考",
@@ -205,13 +219,6 @@
       "published": 1758972106
     },
     {
-      "id": "498576fb5d56",
-      "title": "協助光復區災民安置 公路局啟動計程車免費接駁計畫",
-      "url": "https://udn.com/news/story/124615/9033868",
-      "source": "udn.com",
-      "published": 1758971974
-    },
-    {
       "id": "df4871851b7d",
       "title": "AI 不會害你丟飯碗 但可能「幫倒忙」 反而害企業損失慘重",
       "url": "https://money.udn.com/money/story/5599/9033866",
@@ -301,13 +308,6 @@
       "url": "https://money.udn.com/money/story/122381/9019882",
       "source": "money.udn.com",
       "published": 1758968432
-    },
-    {
-      "id": "03a3af618792",
-      "title": "杜拜高檔飯店搶市 要推度假村",
-      "url": "https://money.udn.com/money/story/122381/9019883",
-      "source": "money.udn.com",
-      "published": 1758968416
     },
     {
       "id": "2432d20cb4a6",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1758982048
+  "build_id": 1758983635
 }
