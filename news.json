@@ -1,6 +1,13 @@
 {
-  "updated": 1759012431,
+  "updated": 1759014523,
   "items": [
+    {
+      "id": "f3b8c823089e",
+      "title": "印度政治集會爆發踩踏　罹難人數增至36人",
+      "url": "https://money.udn.com/money/story/5599/9034320",
+      "source": "money.udn.com",
+      "published": 1759012591
+    },
     {
       "id": "31b978bafa77",
       "title": "丹麦再遭无人机侵扰 德国表示若其入侵领空将击落",
@@ -385,13 +392,6 @@
       "url": "https://www.dw.com/zh/汉语会成为非洲的未来语言吗？/a-74158487?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758982560
-    },
-    {
-      "id": "c8d136ecc8f9",
-      "title": "聯合國新指定26處生物圈保護區　分布印尼冰島等21國",
-      "url": "https://money.udn.com/money/story/5599/9034054",
-      "source": "money.udn.com",
-      "published": 1758981280
     },
     {
       "id": "00f4582492fe",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759012431
+  "build_id": 1759014523
 }
