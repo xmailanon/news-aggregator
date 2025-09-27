@@ -1,6 +1,41 @@
 {
-  "updated": 1758998446,
+  "updated": 1758999999,
   "items": [
+    {
+      "id": "ce69fa0b2588",
+      "title": "俄羅斯頻繁入侵空域　拉脫維亞促北約加強空防",
+      "url": "https://money.udn.com/money/story/5599/9034277",
+      "source": "money.udn.com",
+      "published": 1758999969
+    },
+    {
+      "id": "7a8669c1af58",
+      "title": "張俊雄辭世 林佳龍緬懷沉著穩健典範",
+      "url": "https://udn.com/news/story/6656/9034191",
+      "source": "udn.com",
+      "published": 1758999905
+    },
+    {
+      "id": "59297b34d191",
+      "title": "川普關稅防司法挫敗 備妥祕密武器 擴大232條款適用範圍",
+      "url": "https://money.udn.com/money/story/10511/9034173",
+      "source": "money.udn.com",
+      "published": 1758999794
+    },
+    {
+      "id": "1bb84591dee5",
+      "title": "川普再揮鐵拳 電子產品擬按晶片數課稅 從電動牙刷到筆電都被盯上",
+      "url": "https://money.udn.com/money/story/5599/9034167",
+      "source": "money.udn.com",
+      "published": 1758999661
+    },
+    {
+      "id": "aaaaf7134c09",
+      "title": "美股四指數收紅 本周盯就業數據 寄望重現「不冷不熱」的結果",
+      "url": "https://money.udn.com/money/story/123398/9034169",
+      "source": "money.udn.com",
+      "published": 1758999443
+    },
     {
       "id": "f896cecd0b58",
       "title": "黃仁勳喊輝達最聰明的投資 OpenAI 下個數兆美元企業",
@@ -107,9 +142,9 @@
       "published": 1758990185
     },
     {
-      "id": "b6c029fb3361",
+      "id": "876140caa3a6",
       "title": "花蓮洪災台中特搜隊救出21人 盧秀燕：再支援掃街車、山貓、怪手",
-      "url": "https://udn.com/news/story/6656/9034241",
+      "url": "https://udn.com/news/story/124615/9034241",
       "source": "udn.com",
       "published": 1758990184
     },
@@ -198,9 +233,9 @@
       "published": 1758988348
     },
     {
-      "id": "6b25cd157aa2",
+      "id": "2af29778f612",
       "title": "堰塞湖紅色警戒仍無法解除 陳駿季：潰壩是溢流的結果",
-      "url": "https://udn.com/news/story/124615/9034207",
+      "url": "https://udn.com/news/story/124616/9034207",
       "source": "udn.com",
       "published": 1758988314
     },
@@ -275,13 +310,6 @@
       "published": 1758983671
     },
     {
-      "id": "18c0faee50ec",
-      "title": "「鏟子超人」赴光復鄉協助清淤 政院前進協調所：物資充足暫停募集",
-      "url": "https://udn.com/news/story/124615/9034068",
-      "source": "udn.com",
-      "published": 1758983145
-    },
-    {
       "id": "f1ed6e73e9de",
       "title": "汉语会成为非洲的未来语言吗？",
       "url": "https://www.dw.com/zh/汉语会成为非洲的未来语言吗？/a-74158487?maca=chi-rss-chi-all-1127-rdf",
@@ -317,13 +345,6 @@
       "published": 1758977683
     },
     {
-      "id": "ca4ad3d02fb6",
-      "title": "歐洲頻傳無人機侵犯領空　德國考慮授權軍方擊落",
-      "url": "https://money.udn.com/money/story/5599/9033951",
-      "source": "money.udn.com",
-      "published": 1758976210
-    },
-    {
       "id": "2506601fc906",
       "title": "中国驻韩使馆发文提醒游客警惕反华集会",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250927-%E4%B8%AD%E5%9B%BD%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E5%8F%91%E6%96%87%E6%8F%90%E9%86%92%E6%B8%B8%E5%AE%A2%E8%AD%A6%E6%83%95-%E5%8F%8D%E5%8D%8E-%E9%9B%86%E4%BC%9A",
@@ -331,32 +352,11 @@
       "published": 1758974738
     },
     {
-      "id": "aa8e59439a9c",
-      "title": "俄軍持續侵略烏克蘭東部　宣稱奪下3座村莊",
-      "url": "https://money.udn.com/money/story/5599/9033915",
-      "source": "money.udn.com",
-      "published": 1758974437
-    },
-    {
       "id": "32be50fd43c7",
       "title": "中国留学生回国探亲期间被捕 曾支持西藏活动",
       "url": "https://www.dw.com/zh/中国留学生回国探亲期间被捕-曾支持西藏活动/a-74157399?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758974040
-    },
-    {
-      "id": "9f6cd173f5e7",
-      "title": "川普對政府關門風險不以為然：要是不得不關，那就關吧",
-      "url": "https://money.udn.com/money/story/10511/9032808",
-      "source": "money.udn.com",
-      "published": 1758972440
-    },
-    {
-      "id": "fbf47d2a1e13",
-      "title": "貿易戰下抵制美貨卻不棄美股 外國投資者創紀錄加碼買入",
-      "url": "https://money.udn.com/money/story/123398/9032809",
-      "source": "money.udn.com",
-      "published": 1758972432
     },
     {
       "id": "2432d20cb4a6",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1758998446
+  "build_id": 1758999999
 }
