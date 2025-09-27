@@ -1,6 +1,20 @@
 {
-  "updated": 1759007255,
+  "updated": 1759008717,
   "items": [
+    {
+      "id": "c4e45867facc",
+      "title": "加沙协议在望？ 是否应该相信特朗普",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250927-%E5%8A%A0%E6%B2%99%E5%8D%8F%E8%AE%AE%E5%9C%A8%E6%9C%9B-%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E7%9B%B8%E4%BF%A1%E7%89%B9%E6%9C%97%E6%99%AE",
+      "source": "rfi.fr",
+      "published": 1759007999
+    },
+    {
+      "id": "3a62f0e1ad7b",
+      "title": "中国指责欧盟在气候问题上采取\"双重标准\"",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250927-%E4%B8%AD%E5%9B%BD%E6%8C%87%E8%B4%A3%E6%AC%A7%E7%9B%9F%E5%9C%A8%E6%B0%94%E5%80%99%E9%97%AE%E9%A2%98%E4%B8%8A%E9%87%87%E5%8F%96-%E5%8F%8C%E9%87%8D%E6%A0%87%E5%87%86",
+      "source": "rfi.fr",
+      "published": 1759007966
+    },
     {
       "id": "a18dbb4ac2e7",
       "title": "影／泥濘乾化堅硬 基隆救災隊小山貓反覆挖富田一街搶通一半",
@@ -541,13 +555,6 @@
       "published": 1758898293
     },
     {
-      "id": "a6a24aaaafde",
-      "title": "丹麦再出现来源不明无人机 一座机场临时关闭",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250926-%E4%B8%B9%E9%BA%A6%E5%86%8D%E5%87%BA%E7%8E%B0%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%98%8E%E6%97%A0%E4%BA%BA%E6%9C%BA-%E4%B8%80%E5%BA%A7%E6%9C%BA%E5%9C%BA%E4%B8%B4%E6%97%B6%E5%85%B3%E9%97%AD",
-      "source": "rfi.fr",
-      "published": 1758896727
-    },
-    {
       "id": "8f7fae668c7a",
       "title": "特朗普宣布对进口品牌药品加征100%关税",
       "url": "https://www.dw.com/zh/特朗普宣布对进口品牌药品加征100-关税/a-74150213?maca=chi-rss-chi-all-1127-rdf",
@@ -693,13 +700,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/czdjg4630rno/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1758845925
-    },
-    {
-      "id": "6bb5ff069bd6",
-      "title": "台湾共谍案宣判 4名前民进党成员被判刑",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250925-%E5%8F%B0%E6%B9%BE%E5%85%B1%E8%B0%8D%E6%A1%88%E5%AE%A3%E5%88%A4-4%E5%90%8D%E5%89%8D%E6%B0%91%E8%BF%9B%E5%85%9A%E6%88%90%E5%91%98%E8%A2%AB%E5%88%A4%E5%88%91",
-      "source": "rfi.fr",
-      "published": 1758840251
     },
     {
       "id": "16755f663c68",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759007255
+  "build_id": 1759008717
 }
