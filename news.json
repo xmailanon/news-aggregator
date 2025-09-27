@@ -1,6 +1,20 @@
 {
-  "updated": 1758996713,
+  "updated": 1758998446,
   "items": [
+    {
+      "id": "f896cecd0b58",
+      "title": "黃仁勳喊輝達最聰明的投資 OpenAI 下個數兆美元企業",
+      "url": "https://money.udn.com/money/story/5599/9034123",
+      "source": "money.udn.com",
+      "published": 1758997270
+    },
+    {
+      "id": "70fa25ce8e45",
+      "title": "以色列军队摧毁东耶路撒冷袭击案嫌疑人在约旦河西岸的住所",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250927-%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E9%98%9F%E6%91%A7%E6%AF%81%E4%B8%9C%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E8%A2%AD%E5%87%BB%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%9C%A8%E7%BA%A6%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B8%E7%9A%84%E4%BD%8F%E6%89%80",
+      "source": "rfi.fr",
+      "published": 1758997252
+    },
     {
       "id": "ba25b7acc119",
       "title": "川普要微軟開除高階主管 聲稱拜登時期官員莫納可威脅國安",
@@ -345,13 +359,6 @@
       "published": 1758972432
     },
     {
-      "id": "df4871851b7d",
-      "title": "AI 不會害你丟飯碗 但可能「幫倒忙」 反而害企業損失慘重",
-      "url": "https://money.udn.com/money/story/5599/9033866",
-      "source": "money.udn.com",
-      "published": 1758971858
-    },
-    {
       "id": "2432d20cb4a6",
       "title": "新疆维吾尔自治区成立70周年：高调庆祝与监控打压",
       "url": "https://www.dw.com/zh/新疆维吾尔自治区成立70周年：高调庆祝与监控打压/a-74156476?maca=chi-rss-chi-all-1127-rdf",
@@ -560,13 +567,6 @@
       "url": "https://www.dw.com/zh/德语媒体：中美在气候保护领域唱起了-对台戏/a-74149701?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758894120
-    },
-    {
-      "id": "188fbf97d431",
-      "title": "联合国锁定158家在巴勒斯坦领土上的以色列定居点开展业务的公司",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250926-%E8%81%94%E5%90%88%E5%9B%BD%E9%94%81%E5%AE%9A158%E5%AE%B6%E5%9C%A8%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E9%A2%86%E5%9C%9F%E4%B8%8A%E7%9A%84%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9A%E5%B1%85%E7%82%B9%E5%BC%80%E5%B1%95%E4%B8%9A%E5%8A%A1%E7%9A%84%E5%85%AC%E5%8F%B8",
-      "source": "rfi.fr",
-      "published": 1758893658
     },
     {
       "id": "a4229a9a65f3",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1758996713
+  "build_id": 1758998446
 }
