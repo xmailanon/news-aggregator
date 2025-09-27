@@ -1,6 +1,13 @@
 {
-  "updated": 1759010859,
+  "updated": 1759012431,
   "items": [
+    {
+      "id": "31b978bafa77",
+      "title": "丹麦再遭无人机侵扰 德国表示若其入侵领空将击落",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250927-%E4%B8%B9%E9%BA%A6%E5%86%8D%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%BE%B5%E6%89%B0-%E5%BE%B7%E5%9B%BD%E8%A1%A8%E7%A4%BA%E8%8B%A5%E5%85%B6%E5%85%A5%E4%BE%B5%E9%A2%86%E7%A9%BA%E5%B0%86%E5%87%BB%E8%90%BD",
+      "source": "rfi.fr",
+      "published": 1759012201
+    },
     {
       "id": "2e8c5372d730",
       "title": "美前官員：台灣面對川普 靠強化國防對美投資握好牌",
@@ -553,13 +560,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250926-%E4%BF%84%E7%BD%97%E6%96%AF%E4%BE%9B%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%85%88%E8%BF%9B%E7%A9%BA%E9%99%8D%E7%89%B9%E7%A7%8D%E4%BD%9C%E6%88%98%E8%A3%85%E5%A4%87-%E5%8A%A9%E5%A2%9E%E5%A4%BA%E5%B2%9B%E8%83%BD%E5%8A%9B",
       "source": "rfi.fr",
       "published": 1758907401
-    },
-    {
-      "id": "c2ddf8ec3994",
-      "title": "北京呼吁美国公开、公平对待TikTok等企业",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250926-%E5%8C%97%E4%BA%AC%E5%91%BC%E5%90%81%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%BC%80-%E5%85%AC%E5%B9%B3%E5%AF%B9%E5%BE%85tiktok%E7%AD%89%E4%BC%81%E4%B8%9A",
-      "source": "rfi.fr",
-      "published": 1758905972
     },
     {
       "id": "8f7fae668c7a",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759010859
+  "build_id": 1759012431
 }
