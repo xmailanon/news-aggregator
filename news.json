@@ -1,6 +1,13 @@
 {
-  "updated": 1759079245,
+  "updated": 1759080723,
   "items": [
+    {
+      "id": "9dfd1e5b6cd3",
+      "title": "美墨聯手打擊槍械走私　加強檢調與技術合作",
+      "url": "https://money.udn.com/money/story/5599/9035643",
+      "source": "money.udn.com",
+      "published": 1759080639
+    },
     {
       "id": "730038a0688b",
       "title": "聯邦政府10月1日關門迫在眉睫 川普盤算：乘機大裁員",
@@ -149,6 +156,13 @@
       "published": 1759075239
     },
     {
+      "id": "d8979eea617a",
+      "title": "人均扛債25.6萬！特別預算舉債加重債務 逾46年才能清償",
+      "url": "https://udn.com/news/story/6656/9035531",
+      "source": "udn.com",
+      "published": 1759075200
+    },
+    {
       "id": "6b79d3ddbac3",
       "title": "歷史上的今天／1958年八二三砲戰後 蔣中正舉行記者會",
       "url": "https://udn.com/news/story/7314/9035049",
@@ -159,13 +173,6 @@
       "id": "22231b670be3",
       "title": "花蓮洪災納丹娜絲條例補助 朝野還將提樺加沙條例",
       "url": "https://udn.com/news/story/124615/9035535",
-      "source": "udn.com",
-      "published": 1759075200
-    },
-    {
-      "id": "d8979eea617a",
-      "title": "人均扛債25.6萬！特別預算舉債加重債務 逾46年才能清償",
-      "url": "https://udn.com/news/story/6656/9035531",
       "source": "udn.com",
       "published": 1759075200
     },
@@ -301,13 +308,6 @@
       "url": "https://money.udn.com/money/story/5599/9035355",
       "source": "money.udn.com",
       "published": 1759065677
-    },
-    {
-      "id": "cd4c73a62337",
-      "title": "颱風博羅依即將登陸越南　當局疏散民眾嚴陣以待",
-      "url": "https://money.udn.com/money/story/5599/9035346",
-      "source": "money.udn.com",
-      "published": 1759065150
     },
     {
       "id": "281540c0eb8b",
@@ -1402,5 +1402,5 @@
       "published": 1756805460
     }
   ],
-  "build_id": 1759079245
+  "build_id": 1759080723
 }
