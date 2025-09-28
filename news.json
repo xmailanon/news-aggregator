@@ -1,6 +1,20 @@
 {
-  "updated": 1759087909,
+  "updated": 1759090165,
   "items": [
+    {
+      "id": "bb273b5bc46a",
+      "title": "摩爾多瓦國會選舉　初步計票親歐執政黨領先",
+      "url": "https://money.udn.com/money/story/5599/9035674",
+      "source": "money.udn.com",
+      "published": 1759089746
+    },
+    {
+      "id": "c9a3cfd1f006",
+      "title": "美國密州教堂遭槍擊與縱火至少2死9傷　槍手被擊斃",
+      "url": "https://money.udn.com/money/story/10511/9035671",
+      "source": "money.udn.com",
+      "published": 1759089271
+    },
     {
       "id": "1d3855f5b94c",
       "title": "紐約市長亞當斯放棄爭取連任　未背書其他候選人",
@@ -268,25 +282,11 @@
       "published": 1759072262
     },
     {
-      "id": "a37a20e413c3",
-      "title": "美國政策轉彎 衝擊全球減碳布局",
-      "url": "https://money.udn.com/money/story/122381/9035297",
-      "source": "money.udn.com",
-      "published": 1759072149
-    },
-    {
       "id": "7530dabff17e",
       "title": "賴總統下令中秋節前完成清淤 中央、地方都說要全力以赴",
       "url": "https://udn.com/news/story/124616/9035515",
       "source": "udn.com",
       "published": 1759072025
-    },
-    {
-      "id": "cfcb0e8e328b",
-      "title": "8月美俄峰會後普亭邀川普下次莫斯科見還算數？克宮：取決於美方",
-      "url": "https://money.udn.com/money/story/5599/9035512",
-      "source": "money.udn.com",
-      "published": 1759072011
     },
     {
       "id": "369307de8512",
@@ -1402,5 +1402,5 @@
       "published": 1756805460
     }
   ],
-  "build_id": 1759087909
+  "build_id": 1759090165
 }
