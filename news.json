@@ -1,12 +1,33 @@
 {
-  "updated": 1759066448,
+  "updated": 1759068422,
   "items": [
+    {
+      "id": "4656ce4f3e03",
+      "title": "路透：OPEC+擬同意11月增產石油",
+      "url": "https://money.udn.com/money/story/5599/9035373",
+      "source": "money.udn.com",
+      "published": 1759067149
+    },
     {
       "id": "0c04ff78c0cf",
       "title": "物價飆漲貨幣狂跌　伊朗遭聯合國恢復制裁百姓叫苦",
       "url": "https://money.udn.com/money/story/5599/9035367",
       "source": "money.udn.com",
       "published": 1759066589
+    },
+    {
+      "id": "c42f5a5422c0",
+      "title": "花蓮馬太鞍溪堰塞湖仍警戒 政院：疏散比照海嘯警報連9響",
+      "url": "https://udn.com/news/story/124615/9035366",
+      "source": "udn.com",
+      "published": 1759066483
+    },
+    {
+      "id": "ee3d5e489638",
+      "title": "國安韌性預算無急迫性？ 海巡署：急需強化海域執法能量",
+      "url": "https://udn.com/news/story/6656/9035365",
+      "source": "udn.com",
+      "published": 1759066363
     },
     {
       "id": "5f6b856287ac",
@@ -21,6 +42,13 @@
       "url": "https://money.udn.com/money/story/5599/9035355",
       "source": "money.udn.com",
       "published": 1759065677
+    },
+    {
+      "id": "21045aa7de26",
+      "title": "影／國民黨主席改選 屏東縣議長周典論力挺郝龍斌",
+      "url": "https://udn.com/news/story/122404/9035352",
+      "source": "udn.com",
+      "published": 1759065600
     },
     {
       "id": "a7950420839d",
@@ -73,7 +101,7 @@
     },
     {
       "id": "4cd6e5f54955",
-      "title": "企業競相導入AI後…「AI債務」正成為熱門關鍵詞",
+      "title": "企業競相導入 AI 後…「AI 債務」正成為熱門關鍵詞",
       "url": "https://money.udn.com/money/story/5599/9035338",
       "source": "money.udn.com",
       "published": 1759064326
@@ -268,32 +296,11 @@
       "published": 1759056784
     },
     {
-      "id": "5a84bc620b77",
-      "title": "馬太鞍堰塞湖溢流泥土 環部估可做建材或農地改良",
-      "url": "https://udn.com/news/story/124616/9035203",
-      "source": "udn.com",
-      "published": 1759056604
-    },
-    {
-      "id": "d00ade16dcc7",
-      "title": "交長陳世凱再赴花蓮視察 提供74家飯店安置災民、媒合志工住宿",
-      "url": "https://udn.com/news/story/124616/9035209",
-      "source": "udn.com",
-      "published": 1759056202
-    },
-    {
       "id": "502e0e55d57f",
       "title": "以軍戰車深入加薩市住宅區　衛生當局憂民眾安危",
       "url": "https://money.udn.com/money/story/5599/9035207",
       "source": "money.udn.com",
       "published": 1759055790
-    },
-    {
-      "id": "ef09a687db6d",
-      "title": "堰塞湖溢流釀災 花蓮縣府說明物資及志工協調情形",
-      "url": "https://udn.com/news/story/124616/9035021",
-      "source": "udn.com",
-      "published": 1759055755
     },
     {
       "id": "80b279590be8",
@@ -336,13 +343,6 @@
       "url": "https://money.udn.com/money/story/5599/9035170",
       "source": "money.udn.com",
       "published": 1759053345
-    },
-    {
-      "id": "e9a1774df497",
-      "title": "印度踩踏意外至少39死　警方立案調查造勢政黨高層",
-      "url": "https://money.udn.com/money/story/5599/9035167",
-      "source": "money.udn.com",
-      "published": 1759053269
     },
     {
       "id": "bb2d09baaa6c",
@@ -532,6 +532,90 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250927-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E4%BF%84%E4%B8%80%E5%BA%A7%E7%9F%B3%E6%B2%B9%E6%B3%B5%E7%AB%99-%E4%BF%84%E5%86%9B%E5%AE%A3%E5%B8%83%E6%96%B0%E5%8D%A0%E9%A2%86%E4%B9%8C%E4%B8%9C%E4%B8%89%E6%9D%91%E5%BA%84",
       "source": "rfi.fr",
       "published": 1758993522
+    },
+    {
+      "id": "48abacf73617",
+      "title": "蔡国强“爆炸艺术”的逻辑",
+      "url": "https://www.ftchinese.com/story/001107753",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "0595a6eccd34",
+      "title": "“我想开一家自己也愿意去下馆子的餐厅”",
+      "url": "https://www.ftchinese.com/story/001107526",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "c1e831d31014",
+      "title": "张韵：女性在金融业如何走向卓越？",
+      "url": "https://www.ftchinese.com/story/001107768",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "9d30ea2d8be0",
+      "title": "服务业通胀背刺特朗普",
+      "url": "https://www.ftchinese.com/story/001107769",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "1c7165814686",
+      "title": "当移民没有政治权力，命运如何不被左右？——英国华人如何自救？",
+      "url": "https://www.ftchinese.com/story/001107767",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "62bcd18ad6a0",
+      "title": "AI是正在发生的工业革命",
+      "url": "https://www.ftchinese.com/story/001107765",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "3f624cea6c15",
+      "title": "联合国教科文组织对全球南方的承诺",
+      "url": "https://www.ftchinese.com/story/001107766",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "edfb5c10f37b",
+      "title": "尼泊尔抗议活动观察：未完成的革命，难消化的民主，一桌子的恶龙",
+      "url": "https://www.ftchinese.com/story/001107763",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "185c40dd640c",
+      "title": "美印贸易争端的新战场：H-1B身份",
+      "url": "https://www.ftchinese.com/story/001107761",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "107f16ec5aaa",
+      "title": "伊朗再度面临联合国制裁",
+      "url": "https://www.ftchinese.com/story/001107760",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "baab35aab3e0",
+      "title": "中国抵制使美国大豆种植户受“毁灭性”打击",
+      "url": "https://www.ftchinese.com/story/001107759",
+      "source": "ftchinese.com",
+      "published": 1758988800
+    },
+    {
+      "id": "d068c23c2c5f",
+      "title": "特朗普顾问释放延长《非洲增长与机会法》的信号",
+      "url": "https://www.ftchinese.com/story/001107758",
+      "source": "ftchinese.com",
+      "published": 1758988800
     },
     {
       "id": "c12e549d77f2",
@@ -763,6 +847,62 @@
       "url": "https://cn.nytimes.com/asia-pacific/20250926/china-green-tech-laos/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1758839504
+    },
+    {
+      "id": "f2c4d916c89e",
+      "title": "美国初创企业希望绕开中国对稀土的主导",
+      "url": "https://www.ftchinese.com/story/001107757",
+      "source": "ftchinese.com",
+      "published": 1758816000
+    },
+    {
+      "id": "41fbfef04734",
+      "title": "美国就业将面临更多麻烦",
+      "url": "https://www.ftchinese.com/story/001107755",
+      "source": "ftchinese.com",
+      "published": 1758816000
+    },
+    {
+      "id": "73cbcf94c3bd",
+      "title": "中国对墨西哥涉华贸易限制措施展开调查",
+      "url": "https://www.ftchinese.com/story/001107754",
+      "source": "ftchinese.com",
+      "published": 1758816000
+    },
+    {
+      "id": "136f9b1eee7c",
+      "title": "讨厌工作？试试在游戏世界里营业",
+      "url": "https://www.ftchinese.com/story/001107752",
+      "source": "ftchinese.com",
+      "published": 1758816000
+    },
+    {
+      "id": "67bb50005a6d",
+      "title": "中国的巨型iPhone工厂工作条件严酷",
+      "url": "https://www.ftchinese.com/story/001107751",
+      "source": "ftchinese.com",
+      "published": 1758816000
+    },
+    {
+      "id": "4eeeda4aa505",
+      "title": "欧盟对德国软件集团SAP展开竞争调查",
+      "url": "https://www.ftchinese.com/story/001107750",
+      "source": "ftchinese.com",
+      "published": 1758816000
+    },
+    {
+      "id": "810f007e3789",
+      "title": "特朗普新版加沙和平计划出炉",
+      "url": "https://www.ftchinese.com/story/001107749",
+      "source": "ftchinese.com",
+      "published": 1758816000
+    },
+    {
+      "id": "815179688d16",
+      "title": "中国清洁能源技术会成为地缘政治工具吗？",
+      "url": "https://www.ftchinese.com/story/001107714",
+      "source": "ftchinese.com",
+      "published": 1758816000
     },
     {
       "id": "fd1a4c68ed33",
@@ -1260,49 +1400,7 @@
       "url": "https://www.dw.com/zh/dw事实核查：如何识破虚假名人名言？/a-73886527?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757139180
-    },
-    {
-      "id": "eaae0e56fcf7",
-      "title": "欧洲最强大的超级计算机“木星”周五起正式投入使用",
-      "url": "https://www.dw.com/zh/欧洲最强大的超级计算机-木星-周五起正式投入使用/a-73892223?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757066880
-    },
-    {
-      "id": "2a323e324dfa",
-      "title": "里斯本“荣耀升降机”缆车脱轨已致17人遇难 葡萄牙全国哀悼",
-      "url": "https://www.dw.com/zh/里斯本-荣耀升降机-缆车脱轨已致17人遇难-葡萄牙全国哀悼/a-73881609?maca=chi-rss-chi-news-3224-rdf",
-      "source": "dw.com",
-      "published": 1756988100
-    },
-    {
-      "id": "72a0803ad91f",
-      "title": "欧盟、南美自贸协议——法国反对 能否批准？",
-      "url": "https://www.dw.com/zh/欧盟、南美自贸协议-法国反对-能否批准？/a-73865537?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756896000
-    },
-    {
-      "id": "a116afb8b29d",
-      "title": "記憶的煙硝：80年後兩岸歷史教育如何談二戰？",
-      "url": "https://www.dw.com/zh/記憶的煙硝：80年後兩岸歷史教育如何談二戰？/a-73847317?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756805460
-    },
-    {
-      "id": "98130a8634a0",
-      "title": "DW事实核查：如何不被AI聊天机器人误导？",
-      "url": "https://www.dw.com/zh/dw事实核查：如何不被ai聊天机器人误导？/a-73764367?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756624260
-    },
-    {
-      "id": "ffc0c38a3249",
-      "title": "DW事实核查：如何识别“冒牌”新闻？",
-      "url": "https://www.dw.com/zh/dw事实核查：如何识别-冒牌-新闻？/a-73779754?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1756624140
     }
   ],
-  "build_id": 1759066448
+  "build_id": 1759068422
 }
