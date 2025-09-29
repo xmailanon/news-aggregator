@@ -1,6 +1,13 @@
 {
-  "updated": 1759180076,
+  "updated": 1759181504,
   "items": [
+    {
+      "id": "ea626f0fd13f",
+      "title": "赞比亚民众提告中国企业污染",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250929-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E8%B5%9E%E6%AF%94%E4%BA%9A%E6%B0%91%E4%BC%97%E6%8F%90%E5%91%8A%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%B1%A1%E6%9F%93",
+      "source": "rfi.fr",
+      "published": 1759180188
+    },
     {
       "id": "8a450ab5eb0c",
       "title": "友邦聯大發言：台灣國際參與非偏袒哪方 為務實行事",
@@ -595,13 +602,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250928-%E5%80%BA%E5%A6%82%E5%B1%B1-%E5%89%8D%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%AF%8C%E7%8E%8B%E5%81%A5%E6%9E%97%E8%A2%AB%E9%99%90%E5%88%B6%E9%AB%98%E6%B6%88%E8%B4%B9",
       "source": "rfi.fr",
       "published": 1759098012
-    },
-    {
-      "id": "cca722b6120e",
-      "title": "喀麦隆党官:高龄参选是福报",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250928-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%96%80%E9%BA%A6%E9%9A%86%E5%85%9A%E5%AE%98-%E9%AB%98%E9%BE%84%E5%8F%82%E9%80%89%E6%98%AF%E7%A6%8F%E6%8A%A5",
-      "source": "rfi.fr",
-      "published": 1759096859
     },
     {
       "id": "c9a74d662855",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759180076
+  "build_id": 1759181504
 }
