@@ -1,6 +1,27 @@
 {
-  "updated": 1759174314,
+  "updated": 1759176648,
   "items": [
+    {
+      "id": "48bf313bff04",
+      "title": "外籍劳工涌入致新加坡人口增至611万 创历史新高",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250929-%E5%A4%96%E7%B1%8D%E5%8A%B3%E5%B7%A5%E6%B6%8C%E5%85%A5%E8%87%B4%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%BA%BA%E5%8F%A3%E5%A2%9E%E8%87%B3611%E4%B8%87-%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+      "source": "rfi.fr",
+      "published": 1759176305
+    },
+    {
+      "id": "ee5a540eda99",
+      "title": "华沙安全论坛聚焦北约东翼空域入侵事件",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250929-%E5%8D%8E%E6%B2%99%E5%AE%89%E5%85%A8%E8%AE%BA%E5%9D%9B%E8%81%9A%E7%84%A6%E5%8C%97%E7%BA%A6%E4%B8%9C%E7%BF%BC%E7%A9%BA%E5%9F%9F%E5%85%A5%E4%BE%B5%E4%BA%8B%E4%BB%B6",
+      "source": "rfi.fr",
+      "published": 1759175219
+    },
+    {
+      "id": "4774e5f49d43",
+      "title": "北韓副外相聯合國大會演說　矢言永不放棄核武",
+      "url": "https://money.udn.com/money/story/5599/9037253",
+      "source": "money.udn.com",
+      "published": 1759175197
+    },
     {
       "id": "40a36f836672",
       "title": "以哈衝突結束有望？川普提20點和平計畫：哈瑪斯成員可獲赦免",
@@ -324,13 +345,6 @@
       "published": 1759159838
     },
     {
-      "id": "449aa09ee0af",
-      "title": "川普再揚言對境外製作電影課100%關稅　未提開徵時間",
-      "url": "https://money.udn.com/money/story/5599/9037008",
-      "source": "money.udn.com",
-      "published": 1759158047
-    },
-    {
       "id": "424ba624c696",
       "title": "美情报报告：中国正迅速扩充商业渡轮船队 为侵台做准备",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250929-%E7%BE%8E%E6%83%85%E6%8A%A5%E6%8A%A5%E5%91%8A-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%BF%85%E9%80%9F%E6%89%A9%E5%85%85%E5%95%86%E4%B8%9A%E6%B8%A1%E8%BD%AE%E8%88%B9%E9%98%9F-%E4%B8%BA%E4%BE%B5%E5%8F%B0%E5%81%9A%E5%87%86%E5%A4%87",
@@ -581,20 +595,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250928-%E8%81%94%E5%90%88%E5%9B%BD%E6%81%A2%E5%A4%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81-%E4%B8%AD%E4%BF%84%E4%BC%9A%E5%90%A6%E9%81%B5%E5%AE%88",
       "source": "rfi.fr",
       "published": 1759096390
-    },
-    {
-      "id": "4c2e8d83e0e2",
-      "title": "美国考虑向乌克兰提供“战斧”远程导弹",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250928-%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B-%E6%88%98%E6%96%A7-%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9",
-      "source": "rfi.fr",
-      "published": 1759094599
-    },
-    {
-      "id": "024da6dbc637",
-      "title": "美以领导人将在白宫会面 特朗普对加沙停火表示\"乐观\"",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250928-%E7%BE%8E%E4%BB%A5%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%86%E5%9C%A8%E7%99%BD%E5%AE%AB%E4%BC%9A%E9%9D%A2-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E8%A1%A8%E7%A4%BA-%E4%B9%90%E8%A7%82",
-      "source": "rfi.fr",
-      "published": 1759094247
     },
     {
       "id": "c9a74d662855",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759174314
+  "build_id": 1759176648
 }
