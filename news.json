@@ -1,6 +1,13 @@
 {
-  "updated": 1759163793,
+  "updated": 1759165779,
   "items": [
+    {
+      "id": "10ec95b8b727",
+      "title": "投資人樂觀看待經濟和AI發展　歐股收盤小升",
+      "url": "https://money.udn.com/money/story/5599/9037217",
+      "source": "money.udn.com",
+      "published": 1759165569
+    },
     {
       "id": "9d013237d61e",
       "title": "川普推文連發　宣布將對進口家具課「高額關稅」",
@@ -357,13 +364,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250929-%E5%8D%8E%E4%B8%BA%E6%8B%9F%E6%98%8E%E5%B9%B4%E7%94%9F%E4%BA%A7%E7%BA%A660%E4%B8%87%E6%9E%9A%E6%98%87%E8%85%BE910c%E8%8A%AF%E7%89%87-%E4%BA%A7%E9%87%8F%E7%BA%A6%E4%B8%BA%E4%BB%8A%E5%B9%B4%E4%B8%A4%E5%80%8D",
       "source": "rfi.fr",
       "published": 1759150545
-    },
-    {
-      "id": "2f383046378d",
-      "title": "丹麥歐盟峰會加強維安　法德瑞典協助反無人機工作",
-      "url": "https://money.udn.com/money/story/5599/9036820",
-      "source": "money.udn.com",
-      "published": 1759149045
     },
     {
       "id": "ef05dfb19ce6",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759163793
+  "build_id": 1759165779
 }
