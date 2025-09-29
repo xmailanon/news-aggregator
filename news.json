@@ -1,16 +1,37 @@
 {
-  "updated": 1759135545,
+  "updated": 1759137145,
   "items": [
     {
-      "id": "228854e94368",
-      "title": "朝野喊提樺加沙條例　政院重申：納丹娜絲條例更有效率",
-      "url": "https://udn.com/news/story/6656/9036549",
+      "id": "e053040738bd",
+      "title": "品茉兒生醫科技捐50萬助花蓮重建 再捐台中2部康復巴士",
+      "url": "https://udn.com/news/story/124616/9036561",
+      "source": "udn.com",
+      "published": 1759136438
+    },
+    {
+      "id": "949f887e6dc6",
+      "title": "AIT：美國農業部次長明後兩天訪台",
+      "url": "https://udn.com/news/story/6656/9036554",
+      "source": "udn.com",
+      "published": 1759136104
+    },
+    {
+      "id": "3853fc505404",
+      "title": "光復鄉災後清淤大作戰 平均一天清出6000噸汙泥暫至農田與空地",
+      "url": "https://udn.com/news/story/124615/9036551",
+      "source": "udn.com",
+      "published": 1759135930
+    },
+    {
+      "id": "60dbc6636368",
+      "title": "朝野喊提樺加沙條例 政院重申：納丹娜絲條例更有效率",
+      "url": "https://udn.com/news/story/124616/9036549",
       "source": "udn.com",
       "published": 1759135849
     },
     {
       "id": "7ec13d1d16a3",
-      "title": "影／率團訪日返台 韓國瑜讚台灣館震撼人心 盼花蓮早日重建",
+      "title": "影／率團訪日返台！韓國瑜讚台灣館震撼人心 盼花蓮早日重建",
       "url": "https://udn.com/news/story/6656/9036550",
       "source": "udn.com",
       "published": 1759135847
@@ -177,32 +198,11 @@
       "published": 1759131449
     },
     {
-      "id": "844d3b1e1974",
-      "title": "嘉義隊送愛到花蓮...17噸物資急馳災區 助居民清理重建",
-      "url": "https://udn.com/news/story/124616/9036447",
-      "source": "udn.com",
-      "published": 1759131292
-    },
-    {
       "id": "02b4417e7185",
       "title": "摩爾多瓦國會選舉　親歐執政黨打敗親俄陣營",
       "url": "https://money.udn.com/money/story/5599/9036439",
       "source": "money.udn.com",
       "published": 1759131032
-    },
-    {
-      "id": "f40f38929cbe",
-      "title": "花蓮災民抱怨提款機遭洪流沖毀領不到錢！光復富田郵局：正常營業",
-      "url": "https://udn.com/news/story/124615/9036436",
-      "source": "udn.com",
-      "published": 1759130743
-    },
-    {
-      "id": "7930e24653ec",
-      "title": "慰問花蓮災民 美國務院：我們的心與受影響社區同在",
-      "url": "https://udn.com/news/story/124615/9036435",
-      "source": "udn.com",
-      "published": 1759130624
     },
     {
       "id": "9e8f17bb028e",
@@ -450,6 +450,20 @@
       "published": 1759088493
     },
     {
+      "id": "3b5fe5516755",
+      "title": "亲欧还是亲俄 摩尔多瓦举行关键选举",
+      "url": "https://www.ftchinese.com/story/001107776",
+      "source": "ftchinese.com",
+      "published": 1759075200
+    },
+    {
+      "id": "c332ad98cee3",
+      "title": "“地缘经济”的影响日益上升",
+      "url": "https://www.ftchinese.com/story/001107780",
+      "source": "ftchinese.com",
+      "published": 1759075200
+    },
+    {
       "id": "a6470ef01c5a",
       "title": "经济学研究用错了数学",
       "url": "https://www.ftchinese.com/story/001107779",
@@ -467,13 +481,6 @@
       "id": "9244c8182f49",
       "title": "一周世界舆论聚焦：朝鲜外相为何访华？",
       "url": "https://www.ftchinese.com/story/001107777",
-      "source": "ftchinese.com",
-      "published": 1759075200
-    },
-    {
-      "id": "3b5fe5516755",
-      "title": "亲欧还是亲俄 摩尔多瓦举行关键选举",
-      "url": "https://www.ftchinese.com/story/001107776",
       "source": "ftchinese.com",
       "published": 1759075200
     },
@@ -803,13 +810,6 @@
       "id": "3f624cea6c15",
       "title": "联合国教科文组织对全球南方的承诺",
       "url": "https://www.ftchinese.com/story/001107766",
-      "source": "ftchinese.com",
-      "published": 1758988800
-    },
-    {
-      "id": "edfb5c10f37b",
-      "title": "尼泊尔抗议活动观察：未完成的革命，难消化的民主，一桌子的恶龙",
-      "url": "https://www.ftchinese.com/story/001107763",
       "source": "ftchinese.com",
       "published": 1758988800
     },
@@ -1402,5 +1402,5 @@
       "published": 1757066880
     }
   ],
-  "build_id": 1759135545
+  "build_id": 1759137145
 }
