@@ -1,6 +1,20 @@
 {
-  "updated": 1759178041,
+  "updated": 1759180076,
   "items": [
+    {
+      "id": "8a450ab5eb0c",
+      "title": "友邦聯大發言：台灣國際參與非偏袒哪方 為務實行事",
+      "url": "https://udn.com/news/story/6656/9037271",
+      "source": "udn.com",
+      "published": 1759179524
+    },
+    {
+      "id": "2002b99bc875",
+      "title": "籲哈馬斯同意和平計畫 川普：否則美將支持以軍完成任務",
+      "url": "https://money.udn.com/money/story/5599/9037270",
+      "source": "money.udn.com",
+      "published": 1759179101
+    },
     {
       "id": "8c80ac29d079",
       "title": "无人机骚扰阴影下丹麦本周举办欧盟领袖峰会",
@@ -331,13 +345,6 @@
       "published": 1759161600
     },
     {
-      "id": "772d873aa421",
-      "title": "援花蓮災戶 中信集團捐2千萬",
-      "url": "https://udn.com/news/story/124616/9037125",
-      "source": "udn.com",
-      "published": 1759161600
-    },
-    {
       "id": "b5481546d509",
       "title": "葉門附近海域不平靜　傳懸掛荷蘭旗貨船遇襲起火",
       "url": "https://money.udn.com/money/story/5599/9037141",
@@ -350,13 +357,6 @@
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20250929-%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E6%B0%91%E8%88%AA%E5%B1%80%E6%AD%A3%E8%80%83%E8%99%91%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%95%86%E9%A3%9Ec919%E5%AE%A2%E6%9C%BA%E8%BF%9B%E8%A1%8C%E8%AE%A4%E8%AF%81",
       "source": "rfi.fr",
       "published": 1759160110
-    },
-    {
-      "id": "199edde554d6",
-      "title": "俄秋季兵役令徵召13.5萬人入伍　創2016年以來最大規模",
-      "url": "https://money.udn.com/money/story/5599/9037119",
-      "source": "money.udn.com",
-      "published": 1759159838
     },
     {
       "id": "424ba624c696",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759178041
+  "build_id": 1759180076
 }
