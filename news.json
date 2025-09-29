@@ -1,6 +1,34 @@
 {
-  "updated": 1759181504,
+  "updated": 1759183731,
   "items": [
+    {
+      "id": "27a61275f8b8",
+      "title": "新關稅和政府停擺風險限制漲幅　美股收盤小升",
+      "url": "https://money.udn.com/money/story/5599/9037304",
+      "source": "money.udn.com",
+      "published": 1759183571
+    },
+    {
+      "id": "aceee6a96f39",
+      "title": "以色列襲杜哈後　白宮：尼坦雅胡向卡達承諾不再攻擊",
+      "url": "https://money.udn.com/money/story/10511/9037283",
+      "source": "money.udn.com",
+      "published": 1759182874
+    },
+    {
+      "id": "926bde541a01",
+      "title": "美與台爭矽盾 圖解全球先進製程最大產地、半導體營收三級跳",
+      "url": "https://udn.com/news/story/7314/9037130",
+      "source": "udn.com",
+      "published": 1759182600
+    },
+    {
+      "id": "660cbc33a1f8",
+      "title": "盧特尼克要拆解矽盾 我護國神山不保？",
+      "url": "https://udn.com/news/story/6656/9037218",
+      "source": "udn.com",
+      "published": 1759182600
+    },
     {
       "id": "ea626f0fd13f",
       "title": "赞比亚民众提告中国企业污染",
@@ -233,13 +261,6 @@
       "published": 1759165537
     },
     {
-      "id": "9d013237d61e",
-      "title": "川普推文連發　宣布將對進口家具課「高額關稅」",
-      "url": "https://money.udn.com/money/story/10511/9037199",
-      "source": "money.udn.com",
-      "published": 1759163047
-    },
-    {
       "id": "08091a2a590c",
       "title": "泽连斯基提议与波兰等国建立联合防空“盾牌” 德防长：年底前再提供两套爱国者系统",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20250929-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8F%90%E8%AE%AE%E4%B8%8E%E6%B3%A2%E5%85%B0%E7%AD%89%E5%9B%BD%E5%BB%BA%E7%AB%8B%E8%81%94%E5%90%88%E9%98%B2%E7%A9%BA-%E7%9B%BE%E7%89%8C-%E5%BE%B7%E9%98%B2%E9%95%BF-%E5%B9%B4%E5%BA%95%E5%89%8D%E5%86%8D%E6%8F%90%E4%BE%9B%E4%B8%A4%E5%A5%97%E7%88%B1%E5%9B%BD%E8%80%85%E7%B3%BB%E7%BB%9F",
@@ -303,16 +324,16 @@
       "published": 1759161600
     },
     {
-      "id": "49bddcde10c9",
-      "title": "花蓮救災大挑戰！淤泥硬如水泥 災民苦盼山貓",
-      "url": "https://udn.com/news/story/124616/9037151",
+      "id": "e34cb464663c",
+      "title": "陽光行動／以捷運站為起點 打造遮蔭廊帶",
+      "url": "https://udn.com/news/story/124618/9037155",
       "source": "udn.com",
       "published": 1759161600
     },
     {
-      "id": "e34cb464663c",
-      "title": "陽光行動／以捷運站為起點 打造遮蔭廊帶",
-      "url": "https://udn.com/news/story/124618/9037155",
+      "id": "49bddcde10c9",
+      "title": "花蓮救災大挑戰！淤泥硬如水泥 災民苦盼山貓",
+      "url": "https://udn.com/news/story/124616/9037151",
       "source": "udn.com",
       "published": 1759161600
     },
@@ -336,27 +357,6 @@
       "url": "https://udn.com/news/story/6656/9037131",
       "source": "udn.com",
       "published": 1759161600
-    },
-    {
-      "id": "ef103610e816",
-      "title": "農業部維持紅色警戒！馬太鞍溪河道清疏前 專家憂大雨再淹",
-      "url": "https://udn.com/news/story/124615/9037143",
-      "source": "udn.com",
-      "published": 1759161600
-    },
-    {
-      "id": "66ee24e63858",
-      "title": "極端天氣 立院示警：土石流恐更頻繁",
-      "url": "https://udn.com/news/story/124615/9037156",
-      "source": "udn.com",
-      "published": 1759161600
-    },
-    {
-      "id": "b5481546d509",
-      "title": "葉門附近海域不平靜　傳懸掛荷蘭旗貨船遇襲起火",
-      "url": "https://money.udn.com/money/story/5599/9037141",
-      "source": "money.udn.com",
-      "published": 1759160211
     },
     {
       "id": "5cc1daf1ea53",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759181504
+  "build_id": 1759183731
 }
