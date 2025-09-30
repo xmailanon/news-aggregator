@@ -1,6 +1,20 @@
 {
-  "updated": 1759273735,
+  "updated": 1759275117,
   "items": [
+    {
+      "id": "b0d4110c3b8d",
+      "title": "美股收盤／不畏美國政府停擺 美股在 AI 題材力挺下創15年來最佳9月表現",
+      "url": "https://money.udn.com/money/story/123398/9039798",
+      "source": "money.udn.com",
+      "published": 1759274433
+    },
+    {
+      "id": "623235cea23e",
+      "title": "巴菲特出手了！波克夏傳砸100億美元收購 OxyChem 創三年來最大交易",
+      "url": "https://money.udn.com/money/story/123398/9039793",
+      "source": "money.udn.com",
+      "published": 1759274087
+    },
     {
       "id": "6ce63efde661",
       "title": "在法国，希音又一次被点名，TikTok则变身2.0版“电视购物”",
@@ -42,6 +56,13 @@
       "url": "https://money.udn.com/money/story/10511/9039781",
       "source": "money.udn.com",
       "published": 1759271768
+    },
+    {
+      "id": "4c835a91e246",
+      "title": "卓榮泰准辭！謝子涵因生涯規劃請辭行政院副發言人",
+      "url": "https://udn.com/news/story/6656/9039373",
+      "source": "udn.com",
+      "published": 1759271100
     },
     {
       "id": "588c7e4eb74a",
@@ -219,20 +240,6 @@
       "published": 1759254779
     },
     {
-      "id": "37a3b66057d5",
-      "title": "美關稅大刀揮向木材 14日起對進口軟木開徵10%關稅",
-      "url": "https://money.udn.com/money/story/5599/9039495",
-      "source": "money.udn.com",
-      "published": 1759254735
-    },
-    {
-      "id": "6b9969a163bb",
-      "title": "AI 新創 Anthropic 推出最強編碼模型 能夠自行編寫程式碼長達30小時",
-      "url": "https://money.udn.com/money/story/5599/9039496",
-      "source": "money.udn.com",
-      "published": 1759254656
-    },
-    {
       "id": "736cd71e9b08",
       "title": "法国与美国将联合开展太空演习 牵制中国",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250930-%E6%B3%95%E5%9B%BD%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%81%94%E5%90%88%E5%BC%80%E5%B1%95%E5%A4%AA%E7%A9%BA%E6%BC%94%E4%B9%A0-%E7%89%B5%E5%88%B6%E4%B8%AD%E5%9B%BD",
@@ -241,7 +248,7 @@
     },
     {
       "id": "fc7ecb53c3ae",
-      "title": "菲律宾发生6.9级地震 5人丧生",
+      "title": "菲律宾发生6.9级地震 19人丧生",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250930-%E8%8F%B2%E5%BE%8B%E5%AE%BE6-9%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%90%8E-%E5%8D%B0%E5%B0%BC%E5%8F%91%E7%94%9F6-0%E7%BA%A7%E5%9C%B0%E9%9C%87",
       "source": "rfi.fr",
       "published": 1759253807
@@ -369,13 +376,6 @@
       "id": "358b3492b94a",
       "title": "杜魯門曾說「台灣地位再議」…蔣經國怕「上美國的當」！",
       "url": "https://udn.com/news/story/6656/9039571",
-      "source": "udn.com",
-      "published": 1759248000
-    },
-    {
-      "id": "65c321d14da5",
-      "title": "宣布國慶流程 韓國瑜籲風雨同舟",
-      "url": "https://udn.com/news/story/6656/9039574",
       "source": "udn.com",
       "published": 1759248000
     },
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759273735
+  "build_id": 1759275117
 }
