@@ -1,6 +1,13 @@
 {
-  "updated": 1759250571,
+  "updated": 1759252159,
   "items": [
+    {
+      "id": "ea40bf7aa368",
+      "title": "卓揆指台美關稅最後關鍵磋商 暗示「今天就會看到鄭麗君」",
+      "url": "https://udn.com/news/story/124621/9039617",
+      "source": "udn.com",
+      "published": 1759250315
+    },
     {
       "id": "7823d5d02cce",
       "title": "連假湧入6萬鏟子超人 光復432戶仍陷泥中",
@@ -16,9 +23,9 @@
       "published": 1759250218
     },
     {
-      "id": "9ed5ae72cb17",
+      "id": "3857d94566ec",
       "title": "美農業部次長訪台 賴總統再提百億美元買美黃小玉",
-      "url": "https://udn.com/news/story/6656/9039621",
+      "url": "https://udn.com/news/story/124621/9039621",
       "source": "udn.com",
       "published": 1759250182
     },
@@ -30,9 +37,9 @@
       "published": 1759250177
     },
     {
-      "id": "4c560e80bc03",
+      "id": "6f5b82c3c9f7",
       "title": "新聞眼／美版矽盾行不行？考驗賴政府",
-      "url": "https://udn.com/news/story/6656/9039622",
+      "url": "https://udn.com/news/story/124621/9039622",
       "source": "udn.com",
       "published": 1759250118
     },
@@ -44,9 +51,9 @@
       "published": 1759250108
     },
     {
-      "id": "da5d4cb69013",
+      "id": "f4289383069c",
       "title": "關稅警報早響起　府前發言人Kolas示警：恐成經濟堰塞湖",
-      "url": "https://udn.com/news/story/6656/9039627",
+      "url": "https://udn.com/news/story/124621/9039627",
       "source": "udn.com",
       "published": 1759250046
     },
@@ -145,13 +152,6 @@
       "id": "e1461916ef8a",
       "title": "施政報告提3重建 卓揆：花蓮洪災將究責",
       "url": "https://udn.com/news/story/124616/9039579",
-      "source": "udn.com",
-      "published": 1759248000
-    },
-    {
-      "id": "9aa8cd9d9aad",
-      "title": "藍爭主席 鄭麗文訪李鴻源 郝龍斌拉攏青年",
-      "url": "https://udn.com/news/story/6656/9039575",
       "source": "udn.com",
       "published": 1759248000
     },
@@ -856,6 +856,13 @@
       "published": 1759088493
     },
     {
+      "id": "6e8117287550",
+      "title": "比特币=数字黄金？从能源到金融的共振逻辑（下）",
+      "url": "https://www.ftchinese.com/story/001107773",
+      "source": "ftchinese.com",
+      "published": 1759075200
+    },
+    {
       "id": "e1e97b6fcf26",
       "title": "新股选择太多了 “量化派”还是留给风险投资者吧",
       "url": "https://www.ftchinese.com/story/001107785",
@@ -873,13 +880,6 @@
       "id": "1e1c2bec5f50",
       "title": "投资者该如何押注人工智能？",
       "url": "https://www.ftchinese.com/story/001107781",
-      "source": "ftchinese.com",
-      "published": 1759075200
-    },
-    {
-      "id": "3b5fe5516755",
-      "title": "亲欧还是亲俄 摩尔多瓦举行关键选举",
-      "url": "https://www.ftchinese.com/story/001107776",
       "source": "ftchinese.com",
       "published": 1759075200
     },
@@ -1227,13 +1227,6 @@
       "published": 1758630144
     },
     {
-      "id": "0184bfb76ae7",
-      "title": "应对中美压力 欧盟即将与印尼签署贸易协定",
-      "url": "https://www.dw.com/zh/应对中美压力-欧盟即将与印尼签署贸易协定/a-74092157?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1758537720
-    },
-    {
       "id": "ee8fbb5941f2",
       "title": "美中TikTok談判現「突破」？惟中國民眾反應冷淡",
       "url": "https://www.bbc.com/zhongwen/articles/cvgvk78dx07o/trad?at_medium=RSS&at_campaign=rss",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757238240
+    },
+    {
+      "id": "6653fb91b6f9",
+      "title": "俄乌战况：基辅政府建筑起火",
+      "url": "https://www.dw.com/zh/俄乌战况：基辅政府建筑起火/a-73908722?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1757231880
     }
   ],
-  "build_id": 1759250571
+  "build_id": 1759252159
 }
