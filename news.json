@@ -1,6 +1,13 @@
 {
-  "updated": 1759256042,
+  "updated": 1759257826,
   "items": [
+    {
+      "id": "d6b8c8aeaa46",
+      "title": "川普藥價戰首勝　輝瑞同意配合政府自願降低藥品售價",
+      "url": "https://money.udn.com/money/story/10511/9039712",
+      "source": "money.udn.com",
+      "published": 1759256553
+    },
     {
       "id": "282c2ec924a3",
       "title": "輝瑞承諾降價、投資美國700億美元 換3年關稅豁免",
@@ -94,7 +101,7 @@
     },
     {
       "id": "fc7ecb53c3ae",
-      "title": "菲律宾6.9级地震后 印尼发生6.0级地震",
+      "title": "菲律宾发生6.9级地震 印尼发生6.0级地震",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250930-%E8%8F%B2%E5%BE%8B%E5%AE%BE6-9%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%90%8E-%E5%8D%B0%E5%B0%BC%E5%8F%91%E7%94%9F6-0%E7%BA%A7%E5%9C%B0%E9%9C%87",
       "source": "rfi.fr",
       "published": 1759253807
@@ -308,13 +315,6 @@
       "url": "https://money.udn.com/money/story/10511/9039586",
       "source": "money.udn.com",
       "published": 1759246208
-    },
-    {
-      "id": "9b476a581198",
-      "title": "川普重申關稅威脅 擬對家具和電影加徵新稅",
-      "url": "https://money.udn.com/money/story/5599/9037327",
-      "source": "money.udn.com",
-      "published": 1759246084
     },
     {
       "id": "d94b5c2d5f8c",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759256042
+  "build_id": 1759257826
 }
