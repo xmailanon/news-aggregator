@@ -1,12 +1,33 @@
 {
-  "updated": 1759216271,
+  "updated": 1759217739,
   "items": [
+    {
+      "id": "7ea539a8f989",
+      "title": "加薩悲歌　4早產嬰擠1保溫箱、撤離風險高",
+      "url": "https://money.udn.com/money/story/5599/9038500",
+      "source": "money.udn.com",
+      "published": 1759216891
+    },
+    {
+      "id": "6a57fc855133",
+      "title": "「好捨不得回台南！」光復志工1句話惹哭全場 網曬車票喊：來接棒了",
+      "url": "https://udn.com/news/story/124615/9037899",
+      "source": "udn.com",
+      "published": 1759216508
+    },
     {
       "id": "906952a6c498",
       "title": "星國擬簡化家辦稅務計畫  盼競爭力吸引高淨值資產",
       "url": "https://money.udn.com/money/story/5599/9038485",
       "source": "money.udn.com",
       "published": 1759216369
+    },
+    {
+      "id": "817af5edb90a",
+      "title": "阿瑪尼時裝秀絕唱上演  眾星雲集米蘭",
+      "url": "https://www.bbc.com/zhongwen/articles/cj6x0dxgdnwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1759216341
     },
     {
       "id": "aa4f108dfce2",
@@ -24,10 +45,17 @@
     },
     {
       "id": "e4f9503357d6",
-      "title": "海鯤號11月底交艦海軍？ 顧立雄認有挑戰性：前置跟測試進度確實落後",
+      "title": "影／海鯤號11月底交艦海軍？顧立雄：前置跟測試進度確實落後",
       "url": "https://udn.com/news/story/10930/9038474",
       "source": "udn.com",
       "published": 1759216142
+    },
+    {
+      "id": "b3c13d9b13ec",
+      "title": "直擊／跟著「鏟子超人」去部落鏟土 他淚邀「明年豐年祭再回來」",
+      "url": "https://udn.com/news/story/124616/9038463",
+      "source": "udn.com",
+      "published": 1759216024
     },
     {
       "id": "76ca3376cd24",
@@ -205,25 +233,11 @@
       "published": 1759212844
     },
     {
-      "id": "bb93404e9712",
-      "title": "小草「上車舞」替阿北加油！被問黃國昌養「狗仔」柯文哲苦笑說：哎唷",
-      "url": "https://udn.com/news/story/6656/9038312",
-      "source": "udn.com",
-      "published": 1759212569
-    },
-    {
       "id": "b322d482a542",
       "title": "烏克蘭戰俘遭烙印照曝光！外媒揭俄軍殘忍酷刑 內部人稱「打給普亭」",
       "url": "https://money.udn.com/money/story/5599/9038301",
       "source": "money.udn.com",
       "published": 1759212330
-    },
-    {
-      "id": "8da7abcfd0b5",
-      "title": "遠見公布政治人物好感度 盧秀燕第一、黃國昌吊車尾、賴清德跌幅最大",
-      "url": "https://udn.com/news/story/6656/9038280",
-      "source": "udn.com",
-      "published": 1759211864
     },
     {
       "id": "8932352ca13d",
@@ -280,13 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9038161",
       "source": "money.udn.com",
       "published": 1759209237
-    },
-    {
-      "id": "aac02c3da017",
-      "title": "過度重內輕外　川普新國防戰略美軍高層齊表憂心",
-      "url": "https://money.udn.com/money/story/10511/9038158",
-      "source": "money.udn.com",
-      "published": 1759209192
     },
     {
       "id": "929f6c43cc41",
@@ -1199,13 +1206,6 @@
       "published": 1758602760
     },
     {
-      "id": "e3eb550ba1b3",
-      "title": "芯片巨頭輝達的困境：中國反壟斷這張「牌」可能怎麽用",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yggymg904o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1758586799
-    },
-    {
       "id": "1b3ddf567f84",
       "title": "德语媒体：特朗普将南美推向中国怀抱",
       "url": "https://www.dw.com/zh/德语媒体：特朗普将南美推向中国怀抱/a-74097197?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759216271
+  "build_id": 1759217739
 }
