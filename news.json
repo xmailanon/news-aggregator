@@ -1,6 +1,20 @@
 {
-  "updated": 1759263038,
+  "updated": 1759264647,
   "items": [
+    {
+      "id": "21fecd4d6a07",
+      "title": "美国政府关不关门？10月1日凌晨见",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20250930-%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%85%B3%E4%B8%8D%E5%85%B3%E9%97%A8-10%E6%9C%881%E6%97%A5%E5%87%8C%E6%99%A8%E8%A7%81",
+      "source": "rfi.fr",
+      "published": 1759264308
+    },
+    {
+      "id": "1b684c89c31a",
+      "title": "特朗普下最后通牒：如果哈马斯不签字，将会下地狱",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250930-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92-%E5%A6%82%E6%9E%9C%E5%93%88%E9%A9%AC%E6%96%AF%E4%B8%8D%E7%AD%BE%E5%AD%97%EF%BC%8C%E5%B0%86%E4%BC%9A%E4%B8%8B%E5%9C%B0%E7%8B%B1",
+      "source": "rfi.fr",
+      "published": 1759263425
+    },
     {
       "id": "93cd73f6d4c4",
       "title": "菲律賓中部強震無海嘯威脅　建物倒塌多地停電至少5死",
@@ -576,25 +590,11 @@
       "published": 1759189645
     },
     {
-      "id": "b727cb71f28c",
-      "title": "伦敦开庭审理首日，钱志敏认罪，承认洗钱",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250929-%E4%BC%A6%E6%95%A6%E5%BC%80%E5%BA%AD%E5%AE%A1%E7%90%86%E9%A6%96%E6%97%A5%EF%BC%8C%E9%92%B1%E5%BF%97%E6%95%8F%E8%AE%A4%E7%BD%AA%EF%BC%8C%E6%89%BF%E8%AE%A4%E6%B4%97%E9%92%B1",
-      "source": "rfi.fr",
-      "published": 1759184376
-    },
-    {
       "id": "3e4fb80c451e",
       "title": "美国企业为什么向特朗普“屈膝”",
       "url": "https://cn.nytimes.com/business/20250930/trump-disney-paramount-shareholder-capitalism/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1759181286
-    },
-    {
-      "id": "ea626f0fd13f",
-      "title": "赞比亚民众提告中国企业污染",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20250929-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E8%B5%9E%E6%AF%94%E4%BA%9A%E6%B0%91%E4%BC%97%E6%8F%90%E5%91%8A%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%B1%A1%E6%9F%93",
-      "source": "rfi.fr",
-      "published": 1759180188
     },
     {
       "id": "a659b65468ee",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759263038
+  "build_id": 1759264647
 }
