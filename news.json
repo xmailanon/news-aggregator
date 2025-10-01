@@ -1,6 +1,20 @@
 {
-  "updated": 1759345661,
+  "updated": 1759347099,
   "items": [
+    {
+      "id": "ed96e32f6c84",
+      "title": "美聯邦政府關門 范斯喊話：政策可以談 先讓政府開門",
+      "url": "https://money.udn.com/money/story/5599/9044579",
+      "source": "money.udn.com",
+      "published": 1759346849
+    },
+    {
+      "id": "67379dfb9ba3",
+      "title": "美國政府停擺　約75萬名公務員被迫無薪假",
+      "url": "https://money.udn.com/money/story/10511/9044576",
+      "source": "money.udn.com",
+      "published": 1759345953
+    },
     {
       "id": "9292f88703d3",
       "title": "美就業數據意外下滑 9月民間聘僱減少3.2萬人 兩年半來最大降幅",
@@ -77,6 +91,13 @@
       "url": "https://money.udn.com/money/story/10511/9044557",
       "source": "money.udn.com",
       "published": 1759341732
+    },
+    {
+      "id": "23e94cee7f95",
+      "title": "鄭麗君：不會答應美台半導體製造「五五分」",
+      "url": "https://udn.com/news/story/124621/9044446",
+      "source": "udn.com",
+      "published": 1759338108
     },
     {
       "id": "bc93dc95488a",
@@ -275,20 +296,6 @@
       "published": 1759332400
     },
     {
-      "id": "7e30c2e61737",
-      "title": "美政府關門與昔日相比有2大差別  但市場淡定有理",
-      "url": "https://money.udn.com/money/story/5599/9044449",
-      "source": "money.udn.com",
-      "published": 1759332137
-    },
-    {
-      "id": "e17cdedf3d8b",
-      "title": "紐約20層住宅大樓一角全塌　瓦斯氣爆肇禍暫無傷亡通報",
-      "url": "https://money.udn.com/money/story/10511/9044385",
-      "source": "money.udn.com",
-      "published": 1759331617
-    },
-    {
       "id": "59b9dc00aafe",
       "title": "法国国民议会复会，政府仍未组成，新罢工潮启动在即",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251001-%E6%B3%95%E5%9B%BD%E5%9B%BD%E6%B0%91%E8%AE%AE%E4%BC%9A%E5%A4%8D%E4%BC%9A%EF%BC%8C%E6%94%BF%E5%BA%9C%E4%BB%8D%E6%9C%AA%E7%BB%84%E6%88%90%EF%BC%8C%E6%96%B0%E7%BD%A2%E5%B7%A5%E6%BD%AE%E5%90%AF%E5%8A%A8%E5%9C%A8%E5%8D%B3",
@@ -315,13 +322,6 @@
       "url": "https://www.dw.com/zh/美台芯片制造五五分？台北强调从未承诺/a-74205039?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759328280
-    },
-    {
-      "id": "90a2b4651547",
-      "title": "3企業家不願具名合捐300萬 花蓮災區每名罹難者發5萬元",
-      "url": "https://udn.com/news/story/124616/9044258",
-      "source": "udn.com",
-      "published": 1759328070
     },
     {
       "id": "1585ed3388c6",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759345661
+  "build_id": 1759347099
 }
