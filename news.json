@@ -1,6 +1,13 @@
 {
-  "updated": 1759358146,
+  "updated": 1759360121,
   "items": [
+    {
+      "id": "7f1b3569d958",
+      "title": "美股收盤／標普500指數四連漲創新高 受晶片股和製藥業激勵 降息預期更強",
+      "url": "https://money.udn.com/money/story/123398/9044647",
+      "source": "money.udn.com",
+      "published": 1759359869
+    },
     {
       "id": "d528d8876182",
       "title": "網路斷線48小時後恢復　阿富汗民眾上街慶祝",
@@ -16,9 +23,9 @@
       "published": 1759356766
     },
     {
-      "id": "95c9d92a16d6",
+      "id": "4f623d990d7c",
       "title": "美國政府關門　美股逆勢漲道瓊標普創新高",
-      "url": "https://money.udn.com/money/story/5599/9044606",
+      "url": "https://money.udn.com/money/story/123398/9044606",
       "source": "money.udn.com",
       "published": 1759354569
     },
@@ -182,13 +189,6 @@
       "url": "https://money.udn.com/money/story/5599/9044396",
       "source": "money.udn.com",
       "published": 1759342665
-    },
-    {
-      "id": "74645b11c135",
-      "title": "Nike 上季財報 優於預期",
-      "url": "https://money.udn.com/money/story/123398/9044401",
-      "source": "money.udn.com",
-      "published": 1759342594
     },
     {
       "id": "09773f067ddf",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759358146
+  "build_id": 1759360121
 }
