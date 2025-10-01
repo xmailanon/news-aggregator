@@ -1,6 +1,69 @@
 {
-  "updated": 1759313452,
+  "updated": 1759315190,
   "items": [
+    {
+      "id": "27719efb0ebf",
+      "title": "美國政府關門 AIT臉書停更、護照簽證服務因應情況提供",
+      "url": "https://udn.com/news/story/7314/9043867",
+      "source": "udn.com",
+      "published": 1759314626
+    },
+    {
+      "id": "30c94881fbc1",
+      "title": "台灣藝人賀中共建政 民進黨發言人：支持陸委會劃紅線",
+      "url": "https://udn.com/news/story/6656/9043851",
+      "source": "udn.com",
+      "published": 1759314478
+    },
+    {
+      "id": "42cd85359a48",
+      "title": "日本：承諾投資美國5500億美元　雙方沒有歧見",
+      "url": "https://money.udn.com/money/story/10511/9043850",
+      "source": "money.udn.com",
+      "published": 1759314094
+    },
+    {
+      "id": "ebd2d331cbb4",
+      "title": "俄羅斯：計畫加大對中國出口液化天然氣",
+      "url": "https://money.udn.com/money/story/5599/9043852",
+      "source": "money.udn.com",
+      "published": 1759314092
+    },
+    {
+      "id": "669c3be1da6b",
+      "title": "花蓮洪災泡水車暫置大農大富 現場猶如汽車墳場",
+      "url": "https://udn.com/news/story/124616/9043830",
+      "source": "udn.com",
+      "published": 1759313995
+    },
+    {
+      "id": "86ec4ffa3dcd",
+      "title": "花蓮光復搜救第9天 出動110人、15台挖土機…找不到6失聯者",
+      "url": "https://udn.com/news/story/124616/9043842",
+      "source": "udn.com",
+      "published": 1759313981
+    },
+    {
+      "id": "0fe4f62523b9",
+      "title": "台積電還能上車嗎？五星級專家說還不算晚 巴克萊估再漲16%",
+      "url": "https://money.udn.com/money/story/5599/9043840",
+      "source": "money.udn.com",
+      "published": 1759313862
+    },
+    {
+      "id": "4aa5de66d6a8",
+      "title": "協助族人返鄉重建花蓮 設籍台南原民補助住宿、交通費",
+      "url": "https://udn.com/news/story/124616/9043824",
+      "source": "udn.com",
+      "published": 1759313533
+    },
+    {
+      "id": "e2529a010f46",
+      "title": "國軍醫院及戰區衛勤部隊 花蓮光復開設救護站",
+      "url": "https://udn.com/news/story/124616/9043743",
+      "source": "udn.com",
+      "published": 1759313524
+    },
     {
       "id": "8736f227528e",
       "title": "印尼校舍倒塌3死91人受困2天　家長焦急要求加快搜救",
@@ -30,6 +93,13 @@
       "published": 1759312624
     },
     {
+      "id": "8745990bb9a2",
+      "title": "金正恩：无论国际局势如何变化 深化朝中关系不变",
+      "url": "https://www.dw.com/zh/金正恩：无论国际局势如何变化-深化朝中关系不变/a-74199165?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1759312620
+    },
+    {
       "id": "58e1872305b6",
       "title": "民眾黨下周首場聯合政府研討會 黃國昌：無意為國民黨主席出考題",
       "url": "https://udn.com/news/story/6656/9043770",
@@ -38,7 +108,7 @@
     },
     {
       "id": "48dfd4b26c5d",
-      "title": "綠選對會徵召區設「遺珠條款」 有意角逐縣市長者開放報名",
+      "title": "綠選對會徵召區設「遺珠條款」 有意角逐2026縣市長開放報名",
       "url": "https://udn.com/news/story/6656/9043756",
       "source": "udn.com",
       "published": 1759312447
@@ -184,25 +254,11 @@
       "published": 1759308229
     },
     {
-      "id": "d0b16eed88fb",
-      "title": "蔡正元指3大失誤致堰塞湖潰壩成災 農業部：政治口水退散",
-      "url": "https://udn.com/news/story/124615/9043564",
-      "source": "udn.com",
-      "published": 1759308127
-    },
-    {
       "id": "eaf7b9780d2a",
       "title": "劉建超「消失」數月後 中共中聯部長由劉海星接任",
       "url": "https://www.dw.com/zh/劉建超「消失」數月後-中共中聯部長由劉海星接任/a-74196542?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759308000
-    },
-    {
-      "id": "b9439aee4ef8",
-      "title": "美國關稅算盤打向酒精汽油 台灣要當冤大頭？",
-      "url": "https://udn.com/news/story/6656/9043560",
-      "source": "udn.com",
-      "published": 1759307953
     },
     {
       "id": "931d39a52986",
@@ -217,34 +273,6 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251001-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A3%B0%E7%A7%B0%E6%8B%A5%E6%9C%89%E4%B8%BB%E6%9D%83%E7%9A%84%E7%8E%AF%E7%A4%81%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E4%B8%BE%E8%A1%8C%E5%9B%BD%E5%BA%86%E5%BA%86%E5%85%B8",
       "source": "rfi.fr",
       "published": 1759307741
-    },
-    {
-      "id": "51b362cab311",
-      "title": "賴清德讚大馬村長確實撤離 光復車站連假湧10萬人潮",
-      "url": "https://udn.com/news/story/124616/9043503",
-      "source": "udn.com",
-      "published": 1759307719
-    },
-    {
-      "id": "3f5cff225818",
-      "title": "外交部譴責中國2758號決議立場文件 創造犯台法理",
-      "url": "https://udn.com/news/story/6656/9043481",
-      "source": "udn.com",
-      "published": 1759307418
-    },
-    {
-      "id": "e68291753700",
-      "title": "響應花蓮堰塞湖洪災救援 台中慈濟醫院募款有人捐出撲滿錢",
-      "url": "https://udn.com/news/story/124616/9043528",
-      "source": "udn.com",
-      "published": 1759307417
-    },
-    {
-      "id": "ac269e5dc39d",
-      "title": "小腳丫設計大街道　從「兒本」出發的人車共好未來",
-      "url": "https://udn.com/news/story/7314/9043508",
-      "source": "udn.com",
-      "published": 1759307175
     },
     {
       "id": "068de0df8861",
@@ -310,32 +338,11 @@
       "published": 1759302391
     },
     {
-      "id": "a5b9e452c1b4",
-      "title": "TOKEN2049新加坡登場    萬人聚焦加密貨幣發展",
-      "url": "https://money.udn.com/money/story/5599/9043090",
-      "source": "money.udn.com",
-      "published": 1759302386
-    },
-    {
-      "id": "a4b84d80f6c1",
-      "title": "傳中國暫停進口必和必拓鐵礦砂　澳洲總理表關切",
-      "url": "https://money.udn.com/money/story/5599/9043091",
-      "source": "money.udn.com",
-      "published": 1759302384
-    },
-    {
       "id": "9044eaf6f6ad",
       "title": "香港国庆马照跑 推多项优惠庆祝 海外港人以绝食和集会抗议中国打压人权",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251001-%E9%A6%99%E6%B8%AF%E5%9B%BD%E5%BA%86%E9%A9%AC%E7%85%A7%E8%B7%91-%E6%8E%A8%E5%A4%9A%E9%A1%B9%E4%BC%98%E6%83%A0%E5%BA%86%E7%A5%9D-%E6%B5%B7%E5%A4%96%E6%B8%AF%E4%BA%BA%E4%BB%A5%E7%BB%9D%E9%A3%9F%E5%92%8C%E9%9B%86%E4%BC%9A%E6%8A%97%E8%AE%AE%E4%B8%AD%E5%9B%BD%E6%89%93%E5%8E%8B%E4%BA%BA%E6%9D%83",
       "source": "rfi.fr",
       "published": 1759302132
-    },
-    {
-      "id": "03d3f420db99",
-      "title": "銀行股領跌　日股收低",
-      "url": "https://money.udn.com/money/story/5599/9042839",
-      "source": "money.udn.com",
-      "published": 1759302117
     },
     {
       "id": "30a389d54d99",
@@ -819,13 +826,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn768g62y22o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1759147116
-    },
-    {
-      "id": "11aa05e85599",
-      "title": "选择党议员：跟中国要务实，不要讲价值观",
-      "url": "https://www.dw.com/zh/选择党议员：跟中国要务实，不要讲价值观/a-74174445?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1759146540
     },
     {
       "id": "2fe330de7b94",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759313452
+  "build_id": 1759315190
 }
