@@ -1,6 +1,41 @@
 {
-  "updated": 1759360121,
+  "updated": 1759361534,
   "items": [
+    {
+      "id": "c7dbb99a9676",
+      "title": "台積電ADR大漲3.3%再創新高 較台北交易溢價拉大至32.6%",
+      "url": "https://money.udn.com/money/story/5599/9044661",
+      "source": "money.udn.com",
+      "published": 1759361407
+    },
+    {
+      "id": "f378232ffbac",
+      "title": "總統關說高中聯招分發？當年驚動警總調查 結局有洋蔥",
+      "url": "https://udn.com/news/story/10930/9039054",
+      "source": "udn.com",
+      "published": 1759361400
+    },
+    {
+      "id": "bb2ebe19645c",
+      "title": "分食台積電訂單？英特爾傳洽AMD爭取代工 股價大漲7%",
+      "url": "https://money.udn.com/money/story/5599/9044660",
+      "source": "money.udn.com",
+      "published": 1759361251
+    },
+    {
+      "id": "78ff135a7376",
+      "title": "【專家之眼】解析澳洲媒體炒作北京整備兩棲犯台",
+      "url": "https://udn.com/news/story/6656/9044658",
+      "source": "udn.com",
+      "published": 1759361144
+    },
+    {
+      "id": "709688ddb13c",
+      "title": "花蓮堰塞湖悲劇！十幾年防災兵推徒具形式？中央、地方對接斷鏈 該如何避免？",
+      "url": "https://udn.com/news/story/124616/9041983",
+      "source": "udn.com",
+      "published": 1759361100
+    },
     {
       "id": "7f1b3569d958",
       "title": "美股收盤／標普500指數四連漲創新高 受晶片股和製藥業激勵 降息預期更強",
@@ -177,20 +212,6 @@
       "published": 1759342844
     },
     {
-      "id": "826143c4d27e",
-      "title": "OpenAI 結盟三星、SK海力士 協助推動星際之門計畫",
-      "url": "https://money.udn.com/money/story/5599/9044391",
-      "source": "money.udn.com",
-      "published": 1759342786
-    },
-    {
-      "id": "253c8198401e",
-      "title": "瞄準西方石油的化工部門 OxyChem  股神百億美元收購案將拍板",
-      "url": "https://money.udn.com/money/story/5599/9044396",
-      "source": "money.udn.com",
-      "published": 1759342665
-    },
-    {
       "id": "09773f067ddf",
       "title": "《世界报》：美国的关税政策反而成就了中国外贸",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251001-%E4%B8%96%E7%95%8C%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E5%8F%8D%E8%80%8C%E6%88%90%E5%B0%B1%E4%BA%86%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8",
@@ -324,13 +345,6 @@
       "published": 1759334400
     },
     {
-      "id": "0bee7afde501",
-      "title": "光復鄉2村重災89戶 花縣府爭取中繼宅",
-      "url": "https://udn.com/news/story/124615/9044474",
-      "source": "udn.com",
-      "published": 1759334400
-    },
-    {
       "id": "fde302b0056d",
       "title": "中国15年来成功吸引八成海龟“人才”回国 甚于欧法",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251001-%E4%B8%AD%E5%9B%BD15%E5%B9%B4%E6%9D%A5%E6%88%90%E5%8A%9F%E5%90%B8%E5%BC%95%E5%85%AB%E6%88%90%E6%B5%B7%E9%BE%9F-%E4%BA%BA%E6%89%8D-%E5%9B%9E%E5%9B%BD-%E7%94%9A%E4%BA%8E%E6%AC%A7%E6%B3%95",
@@ -338,25 +352,11 @@
       "published": 1759332981
     },
     {
-      "id": "4baac4aadff7",
-      "title": "台美晶片五五分？鄭麗君：不會答應",
-      "url": "https://udn.com/news/story/124621/9044451",
-      "source": "udn.com",
-      "published": 1759332400
-    },
-    {
       "id": "59b9dc00aafe",
       "title": "法国国民议会复会，政府仍未组成，新罢工潮启动在即",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251001-%E6%B3%95%E5%9B%BD%E5%9B%BD%E6%B0%91%E8%AE%AE%E4%BC%9A%E5%A4%8D%E4%BC%9A%EF%BC%8C%E6%94%BF%E5%BA%9C%E4%BB%8D%E6%9C%AA%E7%BB%84%E6%88%90%EF%BC%8C%E6%96%B0%E7%BD%A2%E5%B7%A5%E6%BD%AE%E5%90%AF%E5%8A%A8%E5%9C%A8%E5%8D%B3",
       "source": "rfi.fr",
       "published": 1759330357
-    },
-    {
-      "id": "d028f70a99cd",
-      "title": "網傳「救援人力暫緩進入花蓮光復」 政院闢謠：未發布相關訊息",
-      "url": "https://udn.com/news/story/124616/9044297",
-      "source": "udn.com",
-      "published": 1759328736
     },
     {
       "id": "a8d8ea6d4687",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759360121
+  "build_id": 1759361534
 }
