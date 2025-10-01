@@ -1,6 +1,20 @@
 {
-  "updated": 1759354344,
+  "updated": 1759356524,
   "items": [
+    {
+      "id": "a180b5d183c7",
+      "title": "美原油庫存增　國際油價下跌",
+      "url": "https://money.udn.com/money/story/5599/9044631",
+      "source": "money.udn.com",
+      "published": 1759356766
+    },
+    {
+      "id": "95c9d92a16d6",
+      "title": "美國政府關門　美股逆勢漲道瓊標普創新高",
+      "url": "https://money.udn.com/money/story/5599/9044606",
+      "source": "money.udn.com",
+      "published": 1759354569
+    },
     {
       "id": "267ada3f3bce",
       "title": "烏克蘭：俄砲擊導致車諾比核電廠電力中斷　對全球安全構成威脅",
@@ -42,6 +56,20 @@
       "url": "https://money.udn.com/money/story/5599/9044585",
       "source": "money.udn.com",
       "published": 1759349387
+    },
+    {
+      "id": "2a3f9c8b3db7",
+      "title": "费城市政厅升起中国五星旗 引爆各界反弹",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251001-%E8%B4%B9%E5%9F%8E%E5%B8%82%E6%94%BF%E5%8E%85%E5%8D%87%E8%B5%B7%E4%B8%AD%E5%9B%BD%E4%BA%94%E6%98%9F%E6%97%97-%E5%BC%95%E7%88%86%E5%90%84%E7%95%8C%E5%8F%8D%E5%BC%B9",
+      "source": "rfi.fr",
+      "published": 1759349264
+    },
+    {
+      "id": "97505dffbd2b",
+      "title": "回应德国前选项党议员助理因间谍罪被判刑：中国否认间谍指控",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251001-%E5%9B%9E%E5%BA%94%E5%BE%B7%E5%9B%BD%E5%89%8D%E9%80%89%E9%A1%B9%E5%85%9A%E8%AE%AE%E5%91%98%E5%8A%A9%E7%90%86%E5%9B%A0%E9%97%B4%E8%B0%8D%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91-%E4%B8%AD%E5%9B%BD%E5%90%A6%E8%AE%A4%E9%97%B4%E8%B0%8D%E6%8C%87%E6%8E%A7",
+      "source": "rfi.fr",
+      "published": 1759348616
     },
     {
       "id": "e87755177826",
@@ -149,25 +177,11 @@
       "published": 1759341903
     },
     {
-      "id": "d24323619979",
-      "title": "最高院不准川普解職　庫克暫續任Fed理事",
-      "url": "https://money.udn.com/money/story/5599/9044557",
-      "source": "money.udn.com",
-      "published": 1759341732
-    },
-    {
       "id": "23e94cee7f95",
       "title": "鄭麗君：不會答應美台半導體製造「五五分」",
       "url": "https://udn.com/news/story/124621/9044446",
       "source": "udn.com",
       "published": 1759338108
-    },
-    {
-      "id": "bc93dc95488a",
-      "title": "歐亞製造業景氣 罩陰霾 歐元區9月PMI轉為萎縮",
-      "url": "https://money.udn.com/money/story/5599/9044463",
-      "source": "money.udn.com",
-      "published": 1759337837
     },
     {
       "id": "6dd8f7ca7f79",
@@ -597,25 +611,11 @@
       "published": 1759254442
     },
     {
-      "id": "fc7ecb53c3ae",
-      "title": "菲律宾发生6.9级地震 19人丧生",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250930-%E8%8F%B2%E5%BE%8B%E5%AE%BE6-9%E7%BA%A7%E5%9C%B0%E9%9C%87%E5%90%8E-%E5%8D%B0%E5%B0%BC%E5%8F%91%E7%94%9F6-0%E7%BA%A7%E5%9C%B0%E9%9C%87",
-      "source": "rfi.fr",
-      "published": 1759253807
-    },
-    {
       "id": "c37b9b04332a",
       "title": "国会预算谈判未果 特朗普称联邦政府很可能“关门”",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250930-%E5%9B%BD%E4%BC%9A%E9%A2%84%E7%AE%97%E8%B0%88%E5%88%A4%E6%9C%AA%E6%9E%9C-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%81%94%E9%82%A6%E6%94%BF%E5%BA%9C%E5%BE%88%E5%8F%AF%E8%83%BD-%E5%85%B3%E9%97%A8",
       "source": "rfi.fr",
       "published": 1759252656
-    },
-    {
-      "id": "baa55ff3b167",
-      "title": "特朗普自曝曾问普京“你是纸老虎吗” 称美国在潜艇领域领先俄中25年",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20250930-%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E6%9B%BE%E9%97%AE%E6%99%AE%E4%BA%AC-%E4%BD%A0%E6%98%AF%E7%BA%B8%E8%80%81%E8%99%8E%E5%90%97-%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%9C%A8%E6%BD%9C%E8%89%87%E9%A2%86%E5%9F%9F%E9%A2%86%E5%85%88%E4%BF%84%E4%B8%AD25%E5%B9%B4",
-      "source": "rfi.fr",
-      "published": 1759246454
     },
     {
       "id": "7ac2e89a65c8",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759354344
+  "build_id": 1759356524
 }
