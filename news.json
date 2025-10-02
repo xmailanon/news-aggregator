@@ -1,6 +1,20 @@
 {
-  "updated": 1759437423,
+  "updated": 1759439310,
   "items": [
+    {
+      "id": "0aa361d604aa",
+      "title": "美政府關門第2天　華爾街3大指數收盤再創新高",
+      "url": "https://money.udn.com/money/story/5599/9047151",
+      "source": "money.udn.com",
+      "published": 1759438498
+    },
+    {
+      "id": "193f9087dae8",
+      "title": "菲律宾中部9月30日晚6.9级强震72人罹难",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251002-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%B8%AD%E9%83%A89%E6%9C%8830%E6%97%A5%E6%99%9A6-9%E7%BA%A7%E5%BC%BA%E9%9C%8772%E4%BA%BA%E7%BD%B9%E9%9A%BE",
+      "source": "rfi.fr",
+      "published": 1759437848
+    },
     {
       "id": "e80c62c70ceb",
       "title": "美聯邦政府開門無期？民主黨：至今沒有接到共和黨電話",
@@ -45,7 +59,7 @@
     },
     {
       "id": "454344492f2c",
-      "title": "台湾陆委会反驳北京扭曲联大2758号决议误导国际“三大谎言”",
+      "title": "“三大谎言”：台湾陆委会反驳北京扭曲联大2758号决议",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251002-%E5%8F%B0%E6%B9%BE%E9%99%86%E5%A7%94%E4%BC%9A%E5%8F%8D%E9%A9%B3%E5%8C%97%E4%BA%AC%E6%89%AD%E6%9B%B2%E8%81%94%E5%A4%A72758%E5%8F%B7%E5%86%B3%E8%AE%AE%E8%AF%AF%E5%AF%BC%E5%9B%BD%E9%99%85%E7%9A%84-%E4%B8%89%E5%A4%A7%E8%B0%8E%E8%A8%80",
       "source": "rfi.fr",
       "published": 1759430835
@@ -238,13 +252,6 @@
       "url": "https://udn.com/news/story/122404/9047036",
       "source": "udn.com",
       "published": 1759421524
-    },
-    {
-      "id": "c40cc7824c31",
-      "title": "川普拚政績拉攏關鍵產業 傳將與製藥、半導體、造船等數十家業者敲定協議",
-      "url": "https://money.udn.com/money/story/5599/9046940",
-      "source": "money.udn.com",
-      "published": 1759421459
     },
     {
       "id": "ea30089e9e6c",
@@ -588,13 +595,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251001-%E5%B8%8C%E9%9F%B3%E5%B0%86%E8%BF%9B%E9%A9%BB%E6%B3%95%E5%9B%BD-%E5%9C%A8%E8%80%81%E4%BD%9B%E7%88%B7%E5%95%86%E5%9C%BA%E5%BC%80%E8%AE%BE%E5%85%A8%E7%90%83%E9%A6%96%E6%89%B9%E7%BA%BF%E4%B8%8B%E5%AE%9E%E4%BD%93%E5%BA%97",
       "source": "rfi.fr",
       "published": 1759337496
-    },
-    {
-      "id": "59b9dc00aafe",
-      "title": "法国国民议会复会，政府仍未组成，新罢工潮启动在即",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251001-%E6%B3%95%E5%9B%BD%E5%9B%BD%E6%B0%91%E8%AE%AE%E4%BC%9A%E5%A4%8D%E4%BC%9A%EF%BC%8C%E6%94%BF%E5%BA%9C%E4%BB%8D%E6%9C%AA%E7%BB%84%E6%88%90%EF%BC%8C%E6%96%B0%E7%BD%A2%E5%B7%A5%E6%BD%AE%E5%90%AF%E5%8A%A8%E5%9C%A8%E5%8D%B3",
-      "source": "rfi.fr",
-      "published": 1759330357
     },
     {
       "id": "a8d8ea6d4687",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759437423
+  "build_id": 1759439310
 }
