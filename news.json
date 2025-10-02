@@ -1,6 +1,20 @@
 {
-  "updated": 1759439310,
+  "updated": 1759440687,
   "items": [
+    {
+      "id": "4492e27f5f6b",
+      "title": "美財長：美中下輪談判應有重大突破",
+      "url": "https://money.udn.com/money/story/10511/9047154",
+      "source": "money.udn.com",
+      "published": 1759439612
+    },
+    {
+      "id": "4d21be5aed48",
+      "title": "OPEC+預料將增產、美政府持續停擺　油價收挫",
+      "url": "https://money.udn.com/money/story/5599/9047153",
+      "source": "money.udn.com",
+      "published": 1759439610
+    },
     {
       "id": "0aa361d604aa",
       "title": "美政府關門第2天　華爾街3大指數收盤再創新高",
@@ -182,20 +196,6 @@
       "url": "https://udn.com/news/story/6656/9047080",
       "source": "udn.com",
       "published": 1759423205
-    },
-    {
-      "id": "5213f84c0cc3",
-      "title": "亞股Q4可望漲贏美股",
-      "url": "https://money.udn.com/money/story/5599/9046984",
-      "source": "money.udn.com",
-      "published": 1759422846
-    },
-    {
-      "id": "6665a9c8033b",
-      "title": "高盛：金價還會再衝高",
-      "url": "https://money.udn.com/money/story/5599/9046986",
-      "source": "money.udn.com",
-      "published": 1759422759
     },
     {
       "id": "10dd226d3b5f",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759439310
+  "build_id": 1759440687
 }
