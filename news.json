@@ -1,6 +1,13 @@
 {
-  "updated": 1759515206,
+  "updated": 1759517004,
   "items": [
+    {
+      "id": "8650747e7677",
+      "title": "預算卡國會　川普施壓凍結芝加哥捷運建設經費",
+      "url": "https://money.udn.com/money/story/10511/9049419",
+      "source": "money.udn.com",
+      "published": 1759515685
+    },
     {
       "id": "c9f04bc4f270",
       "title": "卫报：中共五号人物蔡奇涉嫌参与英国间谍案",
@@ -227,7 +234,7 @@
     },
     {
       "id": "362341907052",
-      "title": "川普下最後通牒　要求哈瑪斯10/5晚間6時前同意加薩和平計畫",
+      "title": "川普下最後通牒　要求哈瑪斯10月5日晚間6時前同意加薩和平計畫",
       "url": "https://money.udn.com/money/story/5599/9049293",
       "source": "money.udn.com",
       "published": 1759504930
@@ -350,13 +357,6 @@
       "url": "https://money.udn.com/money/story/5599/9049078",
       "source": "money.udn.com",
       "published": 1759497678
-    },
-    {
-      "id": "b297cf9c8a15",
-      "title": "曼徹斯特猶太會堂恐攻案 一名民眾死於警方槍下",
-      "url": "https://money.udn.com/money/story/5599/9048984",
-      "source": "money.udn.com",
-      "published": 1759493526
     },
     {
       "id": "ff27ee45a617",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759515206
+  "build_id": 1759517004
 }
