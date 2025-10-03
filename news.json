@@ -1,9 +1,16 @@
 {
-  "updated": 1759497809,
+  "updated": 1759498780,
   "items": [
     {
+      "id": "71f8dc6a87f6",
+      "title": "曼彻斯特犹太教堂恐袭案 2人遇害 3人重伤 英国进入最高警戒状态",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251003-%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E7%8A%B9%E5%A4%AA%E6%95%99%E5%A0%82%E6%81%90%E8%A2%AD%E6%A1%88-2%E4%BA%BA%E9%81%87%E5%AE%B3-3%E4%BA%BA%E9%87%8D%E4%BC%A4-%E8%8B%B1%E5%9B%BD%E8%BF%9B%E5%85%A5%E6%9C%80%E9%AB%98%E8%AD%A6%E6%88%92%E7%8A%B6%E6%80%81",
+      "source": "rfi.fr",
+      "published": 1759498218
+    },
+    {
       "id": "9555972028f0",
-      "title": "俄軍攻擊再波及無辜動物　烏克蘭農場大火1.3萬頭豬隻喪生",
+      "title": "俄軍攻擊再波及無辜動物 烏克蘭農場大火1.3萬頭豬隻喪生",
       "url": "https://money.udn.com/money/story/5599/9049078",
       "source": "money.udn.com",
       "published": 1759497678
@@ -672,13 +679,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cjedp890yn9o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1759385462
-    },
-    {
-      "id": "2b558f02b658",
-      "title": "中国海洋调查船不理日本抗议在日本专属经济区调查三天",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251002-%E4%B8%AD%E5%9B%BD%E6%B5%B7%E6%B4%8B%E8%B0%83%E6%9F%A5%E8%88%B9%E4%B8%8D%E7%90%86%E6%97%A5%E6%9C%AC%E6%8A%97%E8%AE%AE%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%93%E5%B1%9E%E7%BB%8F%E6%B5%8E%E5%8C%BA%E8%B0%83%E6%9F%A5%E4%B8%89%E5%A4%A9",
-      "source": "rfi.fr",
-      "published": 1759384727
     },
     {
       "id": "dcbac165717c",
@@ -1402,5 +1402,5 @@
       "published": 1757388522
     }
   ],
-  "build_id": 1759497809
+  "build_id": 1759498780
 }
