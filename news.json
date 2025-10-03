@@ -1,6 +1,20 @@
 {
-  "updated": 1759517004,
+  "updated": 1759518454,
   "items": [
+    {
+      "id": "4e46a5278cc1",
+      "title": "「優先席」資格戰：為何華人地區常爆發讓座衝突？",
+      "url": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1759517956
+    },
+    {
+      "id": "585262b24302",
+      "title": "美軍在委內瑞拉外海攻擊疑似販毒船隻　4男子死亡",
+      "url": "https://money.udn.com/money/story/10511/9049424",
+      "source": "money.udn.com",
+      "published": 1759517109
+    },
     {
       "id": "8650747e7677",
       "title": "預算卡國會　川普施壓凍結芝加哥捷運建設經費",
@@ -352,13 +366,6 @@
       "published": 1759498218
     },
     {
-      "id": "9555972028f0",
-      "title": "俄軍攻擊再波及無辜動物 烏克蘭農場大火1.3萬頭豬隻喪生",
-      "url": "https://money.udn.com/money/story/5599/9049078",
-      "source": "money.udn.com",
-      "published": 1759497678
-    },
-    {
       "id": "ff27ee45a617",
       "title": "日本对美国要求向大量进口俄罗斯原油的中国等加征高关税持否定态度",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251003-%E6%97%A5%E6%9C%AC%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%E5%90%91%E5%A4%A7%E9%87%8F%E8%BF%9B%E5%8F%A3%E4%BF%84%E7%BD%97%E6%96%AF%E5%8E%9F%E6%B2%B9%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%8A%A0%E5%BE%81%E9%AB%98%E5%85%B3%E7%A8%8E%E6%8C%81%E5%90%A6%E5%AE%9A%E6%80%81%E5%BA%A6",
@@ -413,13 +420,6 @@
       "url": "https://www.dw.com/zh/曼彻斯特凶案：警方公布更多细节，认定为恐袭/a-74226761?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759482480
-    },
-    {
-      "id": "4e46a5278cc1",
-      "title": "「優先席」資格戰：為何華人地區常爆發讓座衝突？",
-      "url": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1759480605
     },
     {
       "id": "c5d3968fe81a",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759517004
+  "build_id": 1759518454
 }
