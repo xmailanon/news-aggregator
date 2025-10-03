@@ -1,6 +1,41 @@
 {
-  "updated": 1759507869,
+  "updated": 1759509672,
   "items": [
+    {
+      "id": "6e7ddc51cbda",
+      "title": "請假六日黨主席辯論 羅智強：我要用2周超越鄭麗文",
+      "url": "https://udn.com/news/story/6656/9049384",
+      "source": "udn.com",
+      "published": 1759508388
+    },
+    {
+      "id": "b765ace3638a",
+      "title": "苗栗隨機傷人 陳菁徽：要編織起更堅固的社會安全網",
+      "url": "https://udn.com/news/story/6656/9049385",
+      "source": "udn.com",
+      "published": 1759508387
+    },
+    {
+      "id": "305ebc0b7256",
+      "title": "奧特曼催漲AI股 OpenAI執行長捎來利多 激勵日、韓股市勁揚",
+      "url": "https://money.udn.com/money/story/5599/9049283",
+      "source": "money.udn.com",
+      "published": 1759508344
+    },
+    {
+      "id": "50a6cc2ef98b",
+      "title": "黨主席辯論場數超過總統大選…18藍委籲停止 全力投入花蓮救災",
+      "url": "https://udn.com/news/story/122404/9049379",
+      "source": "udn.com",
+      "published": 1759508105
+    },
+    {
+      "id": "18af0453f728",
+      "title": "籲國民黨員小心民調失準 黨主席候選人蔡志弘：以政見為主",
+      "url": "https://udn.com/news/story/122404/9049377",
+      "source": "udn.com",
+      "published": 1759508040
+    },
     {
       "id": "47e231c44784",
       "title": "許倬雲追思會 葉匡時感嘆「兩岸路線離許的理想愈來愈遠」",
@@ -198,13 +233,6 @@
       "published": 1759500731
     },
     {
-      "id": "ad5bf2877400",
-      "title": "高市府跨局處團隊助救災 陳其邁赴花蓮打氣",
-      "url": "https://udn.com/news/story/124616/9049107",
-      "source": "udn.com",
-      "published": 1759500184
-    },
-    {
       "id": "b3cc1ff2feb9",
       "title": "美股泡沫要爆了嗎？美銀策略師：時候未到但已閃現1凶兆",
       "url": "https://money.udn.com/money/story/123398/9049141",
@@ -268,25 +296,11 @@
       "published": 1759497678
     },
     {
-      "id": "9b74fd1bcc0b",
-      "title": "中油啟動緊急救災用油補助 供花蓮洪災志工加油",
-      "url": "https://udn.com/news/story/124616/9049041",
-      "source": "udn.com",
-      "published": 1759496823
-    },
-    {
       "id": "b297cf9c8a15",
       "title": "曼徹斯特猶太會堂恐攻案 一名民眾死於警方槍下",
       "url": "https://money.udn.com/money/story/5599/9048984",
       "source": "money.udn.com",
       "published": 1759493526
-    },
-    {
-      "id": "440d6b682cfd",
-      "title": "林岱樺涉詐領助理費遭起訴 傳廉政會將懲處？她怒斥假消息盼揪出幕後黑手",
-      "url": "https://udn.com/news/story/6656/9048978",
-      "source": "udn.com",
-      "published": 1759493104
     },
     {
       "id": "bcc831462326",
@@ -301,13 +315,6 @@
       "url": "https://money.udn.com/money/story/5599/9048962",
       "source": "money.udn.com",
       "published": 1759492498
-    },
-    {
-      "id": "349231ebca66",
-      "title": "花蓮光復5萬慰助金首日領取近6成 未領受災戶明起依戶籍至「這兩處」",
-      "url": "https://udn.com/news/story/124615/9048943",
-      "source": "udn.com",
-      "published": 1759491925
     },
     {
       "id": "e9c222edef7a",
@@ -336,13 +343,6 @@
       "url": "https://money.udn.com/money/story/5599/9048885",
       "source": "money.udn.com",
       "published": 1759489937
-    },
-    {
-      "id": "205a6f47db29",
-      "title": "戒不掉！華為最先進晶片仍依賴台積電、三星零組件",
-      "url": "https://money.udn.com/money/story/5599/9048874",
-      "source": "money.udn.com",
-      "published": 1759489509
     },
     {
       "id": "ff27ee45a617",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759507869
+  "build_id": 1759509672
 }
