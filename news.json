@@ -1,6 +1,20 @@
 {
-  "updated": 1759500557,
+  "updated": 1759502323,
   "items": [
+    {
+      "id": "bf40d594a26e",
+      "title": "「鏟子超人」赴花蓮救災登國際媒體 衛報見證台灣暖心風景",
+      "url": "https://udn.com/news/story/124615/9049156",
+      "source": "udn.com",
+      "published": 1759501091
+    },
+    {
+      "id": "a3082048bcde",
+      "title": "乌克兰宣布与尼加拉瓜断绝外交关系",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251003-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%A3%E5%B8%83%E4%B8%8E%E5%B0%BC%E5%8A%A0%E6%8B%89%E7%93%9C%E6%96%AD%E7%BB%9D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB",
+      "source": "rfi.fr",
+      "published": 1759500956
+    },
     {
       "id": "f759b91377e5",
       "title": "盧森堡新大公登基　歐洲多國王室雲集見證",
@@ -21,6 +35,13 @@
       "url": "https://money.udn.com/money/story/5599/9049155",
       "source": "money.udn.com",
       "published": 1759500751
+    },
+    {
+      "id": "aa57f696c8e3",
+      "title": "花蓮光復洪災重創 中秋連假一連3天停班停課",
+      "url": "https://udn.com/news/story/124616/9049152",
+      "source": "udn.com",
+      "published": 1759500731
     },
     {
       "id": "ad5bf2877400",
@@ -310,25 +331,11 @@
       "published": 1759487328
     },
     {
-      "id": "18a13d18483d",
-      "title": "「鏟子超人」台中隊助花蓮災區復原 12輛灑水車、清溝車和消毒車上陣",
-      "url": "https://udn.com/news/story/124616/9048827",
-      "source": "udn.com",
-      "published": 1759486931
-    },
-    {
       "id": "dbd77440642d",
       "title": "400隻鴕鳥生死命運 成美加熱門政治話題",
       "url": "https://money.udn.com/money/story/5599/9048824",
       "source": "money.udn.com",
       "published": 1759486867
-    },
-    {
-      "id": "27c63c8c6aa7",
-      "title": "藍委質詢在美造「類科學園區」 龔明鑫：台積電外其他廠商難單打獨鬥",
-      "url": "https://udn.com/news/story/124621/9048815",
-      "source": "udn.com",
-      "published": 1759486392
     },
     {
       "id": "f2001b47f5d3",
@@ -630,13 +637,6 @@
       "url": "https://www.dw.com/zh/川普稱四週後見習近平-大豆是主要議題/a-74213461?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759395840
-    },
-    {
-      "id": "e43ef0dd5e3a",
-      "title": "G7声明：扩大对俄施压 锁定持续采买俄石油各方  未点名中印",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251002-g7%E5%A3%B0%E6%98%8E-%E6%89%A9%E5%A4%A7%E5%AF%B9%E4%BF%84%E6%96%BD%E5%8E%8B-%E9%94%81%E5%AE%9A%E6%8C%81%E7%BB%AD%E9%87%87%E4%B9%B0%E4%BF%84%E7%9F%B3%E6%B2%B9%E5%90%84%E6%96%B9-%E6%9C%AA%E7%82%B9%E5%90%8D%E4%B8%AD%E5%8D%B0",
-      "source": "rfi.fr",
-      "published": 1759395086
     },
     {
       "id": "b94071c0d8b9",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759500557
+  "build_id": 1759502323
 }
