@@ -1,16 +1,86 @@
 {
-  "updated": 1759466311,
+  "updated": 1759468196,
   "items": [
     {
+      "id": "4e46a5278cc1",
+      "title": "台北捷運老婦逼讓座：為何華人地區「優先席」衝突頻發？",
+      "url": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1759467862
+    },
+    {
+      "id": "c72d67655533",
+      "title": "供應憂慮揮之不去 倫敦銅價盤旋16個月高點",
+      "url": "https://money.udn.com/money/story/5599/9047960",
+      "source": "money.udn.com",
+      "published": 1759467642
+    },
+    {
+      "id": "7cc99ecd8267",
+      "title": "曼徹斯特猶太教堂槍殺案：警方公佈兩位襲擊者姓名",
+      "url": "https://www.bbc.com/zhongwen/articles/c5yez02jxgko/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1759467552
+    },
+    {
+      "id": "9d7297efa128",
+      "title": "籲改革醫療非只建場館　摩洛哥抗議團體促政府下台",
+      "url": "https://money.udn.com/money/story/5599/9047946",
+      "source": "money.udn.com",
+      "published": 1759467249
+    },
+    {
+      "id": "32940ca0e854",
+      "title": "美防長直言不認同他就「辭職」 空軍上將同一天臉書宣布退休",
+      "url": "https://money.udn.com/money/story/5599/9047943",
+      "source": "money.udn.com",
+      "published": 1759467210
+    },
+    {
+      "id": "8277ab5624c5",
+      "title": "恐有熱帶系統！中央訂花蓮災區防颱撤離計畫 比照地震警告系統",
+      "url": "https://udn.com/news/story/124615/9047939",
+      "source": "udn.com",
+      "published": 1759467099
+    },
+    {
+      "id": "f9d7ba3a568d",
+      "title": "盧秀燕最大假想敵不是賴清德 他點名竟是「榜外」的陳其邁",
+      "url": "https://udn.com/news/story/6656/9047930",
+      "source": "udn.com",
+      "published": 1759467005
+    },
+    {
+      "id": "2992af08e2de",
+      "title": "日銀總裁植田重申續升息 時機讓市場猜 日圓應聲貶",
+      "url": "https://money.udn.com/money/story/5599/9047924",
+      "source": "money.udn.com",
+      "published": 1759466732
+    },
+    {
+      "id": "1bc6372ca7b6",
+      "title": "王義川遭跟拍提告 黃國昌批綠營政客潑了糞就跑",
+      "url": "https://udn.com/news/story/6656/9047908",
+      "source": "udn.com",
+      "published": 1759466464
+    },
+    {
+      "id": "2c90cc397dc9",
+      "title": "再嗆內政部延誤撤離通報釀花蓮洪災 凌濤要劉世芳辭職待調查",
+      "url": "https://udn.com/news/story/124615/9047900",
+      "source": "udn.com",
+      "published": 1759466284
+    },
+    {
       "id": "f4881d62e2de",
-      "title": "攸關房貸利率！美國FICO計劃直接出售信用分數給銀行 掀信用產業變革",
+      "title": "攸關房貸利率！美國 FICO 計劃直接出售信用分數給銀行 掀信用產業變革",
       "url": "https://money.udn.com/money/story/5599/9047885",
       "source": "money.udn.com",
       "published": 1759466012
     },
     {
       "id": "fc44b96eb8d1",
-      "title": "阿聯晶片合約遲無進展　華爾街日報：輝達黃仁勳沮喪",
+      "title": "阿聯晶片合約遲無進展 華爾街日報：輝達黃仁勳沮喪",
       "url": "https://money.udn.com/money/story/5599/9047883",
       "source": "money.udn.com",
       "published": 1759465835
@@ -23,9 +93,30 @@
       "published": 1759465669
     },
     {
-      "id": "356ed105cb12",
+      "id": "d2b809f9abb1",
+      "title": "影／南橫新武呂溪河段阻斷恐成堰塞湖？ 林保署：水位下降已無回淤",
+      "url": "https://udn.com/news/story/124615/9047866",
+      "source": "udn.com",
+      "published": 1759465533
+    },
+    {
+      "id": "1d8fa267d583",
+      "title": "「想想論壇」改版重新上線 蔡英文：用共識化解政治紛擾",
+      "url": "https://udn.com/news/story/7314/9047864",
+      "source": "udn.com",
+      "published": 1759465532
+    },
+    {
+      "id": "c733503b3f23",
+      "title": "「鏟子超人中秋可度個假」 總協調官向專業招手：未來清淤靠重機具",
+      "url": "https://udn.com/news/story/124616/9047862",
+      "source": "udn.com",
+      "published": 1759465491
+    },
+    {
+      "id": "5f875fa8a3a4",
       "title": "台美晶片產能五五分？ 卓榮泰：已數度重申不會答應",
-      "url": "https://udn.com/news/story/7314/9047858",
+      "url": "https://udn.com/news/story/124621/9047858",
       "source": "udn.com",
       "published": 1759465376
     },
@@ -38,7 +129,7 @@
     },
     {
       "id": "c7dee3781840",
-      "title": "日本愛子公主確診COVID-19　取消訪問行程",
+      "title": "日本愛子公主確診 COVID-19 取消訪問行程",
       "url": "https://money.udn.com/money/story/5599/9047855",
       "source": "money.udn.com",
       "published": 1759465280
@@ -149,32 +240,11 @@
       "published": 1759463144
     },
     {
-      "id": "00638a4099c3",
-      "title": "民調落後 羅智強：恭喜鄭麗文、應不需要「棄羅保鄭」了",
-      "url": "https://udn.com/news/story/122404/9047706",
-      "source": "udn.com",
-      "published": 1759462732
-    },
-    {
-      "id": "ab71d1c9d6c4",
-      "title": "中共對台滲透引關注 台灣法官赴美國會CECC簡報",
-      "url": "https://udn.com/news/story/6656/9047373",
-      "source": "udn.com",
-      "published": 1759462273
-    },
-    {
       "id": "0f77ae18f139",
       "title": "日媒：台日海巡單位加強合作　推動聯合訓練常態化",
       "url": "https://money.udn.com/money/story/5599/9047677",
       "source": "money.udn.com",
       "published": 1759462262
-    },
-    {
-      "id": "9ba69b9fe1ac",
-      "title": "馬太鞍溪還有2.5億噸泥沙 李鴻源：豪大雨恐再崩成二次堰塞湖",
-      "url": "https://udn.com/news/story/124615/9047661",
-      "source": "udn.com",
-      "published": 1759462144
     },
     {
       "id": "c18522d4824b",
@@ -184,25 +254,11 @@
       "published": 1759461994
     },
     {
-      "id": "9e08078dabbc",
-      "title": "光復鄉受災每戶平均損失破百萬！縣府發5萬慰助金 一早排隊「限戶長」",
-      "url": "https://udn.com/news/story/124616/9047646",
-      "source": "udn.com",
-      "published": 1759461605
-    },
-    {
       "id": "bdcf31850558",
       "title": "「光輝10月」 比特幣再站上12萬美元 小摩估有望漲至16.5萬美元",
       "url": "https://money.udn.com/money/story/5599/9047641",
       "source": "money.udn.com",
       "published": 1759461541
-    },
-    {
-      "id": "ed2fa3cd4601",
-      "title": "花蓮光復今起發5萬慰助金！自救會籲應全鄉發放慰助金並「分級」",
-      "url": "https://udn.com/news/story/124616/9047635",
-      "source": "udn.com",
-      "published": 1759461282
     },
     {
       "id": "eea2200f7f4a",
@@ -233,20 +289,6 @@
       "published": 1759460986
     },
     {
-      "id": "72ff7f34de05",
-      "title": "馬太鞍溪形成第二次堰塞湖 李鴻源：可能性非常高",
-      "url": "https://udn.com/news/story/124615/9047622",
-      "source": "udn.com",
-      "published": 1759460923
-    },
-    {
-      "id": "774b375560e0",
-      "title": "鏟子超人歡呼！總協調官宣布：光復鄉中午以前家戶清淤完成",
-      "url": "https://udn.com/news/story/124616/9047569",
-      "source": "udn.com",
-      "published": 1759459805
-    },
-    {
       "id": "dd8e1d558a33",
       "title": "德國慕尼黑機場因無人機入侵關閉 17航班停飛近3,000旅客受影響",
       "url": "https://money.udn.com/money/story/5599/9047552",
@@ -266,34 +308,6 @@
       "url": "https://money.udn.com/money/story/5599/9047524",
       "source": "money.udn.com",
       "published": 1759458990
-    },
-    {
-      "id": "85b281e8317b",
-      "title": "慕尼黑機場疑似無人機入侵 20多架航班被迫取消",
-      "url": "https://money.udn.com/money/story/5599/9047521",
-      "source": "money.udn.com",
-      "published": 1759458990
-    },
-    {
-      "id": "cf56ac2d378a",
-      "title": "美佛州「寶藏海岸」新發現！價值逾3千萬的西班牙艦隊金幣見天日",
-      "url": "https://money.udn.com/money/story/5599/9047455",
-      "source": "money.udn.com",
-      "published": 1759457594
-    },
-    {
-      "id": "9166632aebe3",
-      "title": "中國 DeepSeek 封殺台灣 義國 AI 企業：妨礙跨國合作",
-      "url": "https://money.udn.com/money/story/5599/9047372",
-      "source": "money.udn.com",
-      "published": 1759455925
-    },
-    {
-      "id": "a08404187741",
-      "title": "標普500指數短期回檔訊號現！但年底前仍可望衝破7,000點",
-      "url": "https://money.udn.com/money/story/5599/9047359",
-      "source": "money.udn.com",
-      "published": 1759455709
     },
     {
       "id": "fd15cdb65b89",
@@ -707,13 +721,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/czxw957yk49o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1759231074
-    },
-    {
-      "id": "a9a0ee58346f",
-      "title": "羅冠聰入境新加坡被拒：「有風險，很難看，但並非最壞結果」",
-      "url": "https://www.bbc.com/zhongwen/articles/cvg0lqw9gq5o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1759222375
     },
     {
       "id": "83bc26bad8a1",
@@ -1393,14 +1400,7 @@
       "url": "https://www.bbc.com/zhongwen/articles/clyjye58eygo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1757388522
-    },
-    {
-      "id": "5a6af303def1",
-      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
-      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757238240
     }
   ],
-  "build_id": 1759466311
+  "build_id": 1759468196
 }
