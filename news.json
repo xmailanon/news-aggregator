@@ -1,9 +1,9 @@
 {
-  "updated": 1759493886,
+  "updated": 1759496312,
   "items": [
     {
       "id": "b297cf9c8a15",
-      "title": "曼徹斯特猶太會堂恐攻案　一名民眾死於警方槍下",
+      "title": "曼徹斯特猶太會堂恐攻案 一名民眾死於警方槍下",
       "url": "https://money.udn.com/money/story/5599/9048984",
       "source": "money.udn.com",
       "published": 1759493526
@@ -17,10 +17,17 @@
     },
     {
       "id": "bcc831462326",
-      "title": "以色列攔截加薩援助船隊逮捕外媒　無國界記者組織譴責",
+      "title": "以色列攔截加薩援助船隊逮捕外媒 無國界記者組織譴責",
       "url": "https://money.udn.com/money/story/5599/9048963",
       "source": "money.udn.com",
       "published": 1759492499
+    },
+    {
+      "id": "50024ab3295e",
+      "title": "阿特曼亞洲行 專家：與韓戰略合作鞏固台日 AI 供應鏈",
+      "url": "https://money.udn.com/money/story/5599/9048962",
+      "source": "money.udn.com",
+      "published": 1759492498
     },
     {
       "id": "349231ebca66",
@@ -336,13 +343,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c24ryz55v50o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1759480605
-    },
-    {
-      "id": "fd23bd462b3c",
-      "title": "波多黎各巨星擔綱超級盃中場秀 美官員揚言掃蕩移民",
-      "url": "https://money.udn.com/money/story/5599/9048528",
-      "source": "money.udn.com",
-      "published": 1759480240
     },
     {
       "id": "c5d3968fe81a",
@@ -1402,5 +1402,5 @@
       "published": 1757388522
     }
   ],
-  "build_id": 1759493886
+  "build_id": 1759496312
 }
