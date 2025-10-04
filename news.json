@@ -1,6 +1,27 @@
 {
-  "updated": 1759586846,
+  "updated": 1759588397,
   "items": [
+    {
+      "id": "91f11eea6fe7",
+      "title": "沿途滿是煙塵不見太陽…翻山越嶺5天 探勘人員終抵馬太鞍溪堰塞湖",
+      "url": "https://udn.com/news/story/124615/9050640",
+      "source": "udn.com",
+      "published": 1759587711
+    },
+    {
+      "id": "54423f1d753b",
+      "title": "印尼學校倒塌事件罹難者增至17人　仍有數十人失蹤",
+      "url": "https://money.udn.com/money/story/5599/9050639",
+      "source": "money.udn.com",
+      "published": 1759587696
+    },
+    {
+      "id": "c6ee4a80c47b",
+      "title": "美资深参议员欲加压中国 以遏制北京攻台",
+      "url": "https://www.dw.com/zh/美资深参议员欲加压中国-以遏制北京攻台/a-74236167?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1759586880
+    },
     {
       "id": "c9b723111587",
       "title": "捷克大選全球關注  歐媒憂選後右傾削弱挺烏立場",
@@ -9,9 +30,9 @@
       "published": 1759586769
     },
     {
-      "id": "56299468032f",
+      "id": "1ecdc47d7f6a",
       "title": "迄已上漲50%比股神強 創投家：川普政府入股英特爾是「了不起的勝利」",
-      "url": "https://money.udn.com/money/story/5599/9050621",
+      "url": "https://money.udn.com/money/story/123398/9050621",
       "source": "money.udn.com",
       "published": 1759586608
     },
@@ -254,13 +275,6 @@
       "published": 1759575284
     },
     {
-      "id": "56bb3d0a4015",
-      "title": "澳洲砸11億美元 打造長程無人潛艦",
-      "url": "https://money.udn.com/money/story/122381/9035306",
-      "source": "money.udn.com",
-      "published": 1759575022
-    },
-    {
       "id": "780105b173f7",
       "title": "國民黨主席辯論取消 羅智強、郝龍斌赴花蓮勘災巧妙避開",
       "url": "https://udn.com/news/story/122404/9050475",
@@ -371,13 +385,6 @@
       "url": "https://udn.com/news/story/6656/9050316",
       "source": "udn.com",
       "published": 1759567889
-    },
-    {
-      "id": "ce41e67e5a25",
-      "title": "國民黨主席政見會縮為3場 前副秘書長不滿：自己訂的法規遵守很難？",
-      "url": "https://udn.com/news/story/122404/9050328",
-      "source": "udn.com",
-      "published": 1759567444
     },
     {
       "id": "97bce4c4a182",
@@ -576,13 +583,6 @@
       "published": 1759487400
     },
     {
-      "id": "f2001b47f5d3",
-      "title": "关于德国统一你需要知道的五件事",
-      "url": "https://www.dw.com/zh/关于德国统一你需要知道的五件事/a-74227470?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1759486200
-    },
-    {
       "id": "9dc75a72bb4b",
       "title": "济州岛与中国游客：负面情绪从何而来？",
       "url": "https://www.dw.com/zh/济州岛与中国游客：负面情绪从何而来？/a-74226786?maca=chi-rss-chi-all-1127-rdf",
@@ -667,13 +667,6 @@
       "published": 1759390698
     },
     {
-      "id": "2e808bba29bd",
-      "title": "高市早苗的決心",
-      "url": "https://www.dw.com/zh/高市早苗的決心/a-74211992?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1759389240
-    },
-    {
       "id": "cf041d8dcb52",
       "title": "中國推出K字簽證招人才，為何國民如此抵制？",
       "url": "https://www.bbc.com/zhongwen/articles/cp3vpkelw55o/trad?at_medium=RSS&at_campaign=rss",
@@ -749,6 +742,13 @@
       "url": "https://www.bbc.com/zhongwen/articles/cj07vve497po/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1759278129
+    },
+    {
+      "id": "7ac2e89a65c8",
+      "title": "各国对特朗普的加沙和平方案作何反应？",
+      "url": "https://www.dw.com/zh/各国对特朗普的加沙和平方案作何反应？/a-74188263?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1759241400
     },
     {
       "id": "b57b61618f57",
@@ -1346,6 +1346,13 @@
       "published": 1758112620
     },
     {
+      "id": "d50f69eac8bc",
+      "title": "《亚伯拉罕协议》五周年：中东和平能否昨日重现？",
+      "url": "https://www.dw.com/zh/《亚伯拉罕协议》五周年：中东和平能否昨日重现？/a-74002856?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1757946120
+    },
+    {
       "id": "dc5a6e7c13df",
       "title": "DW事实核查：如何识破国家操纵的宣传伎俩？",
       "url": "https://www.dw.com/zh/dw事实核查：如何识破国家操纵的宣传伎俩？/a-73925612?maca=chi-rss-chi-news-3224-rdf",
@@ -1381,13 +1388,6 @@
       "published": 1757388522
     },
     {
-      "id": "b746b7700b80",
-      "title": "石破茂辞职如何影响日本政坛？",
-      "url": "https://www.dw.com/zh/石破茂辞职如何影响日本政坛？/a-73922726?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757341680
-    },
-    {
       "id": "2b49962d0710",
       "title": "DW事实核查：如何识破AI伪造语音？",
       "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759586846
+  "build_id": 1759588397
 }
