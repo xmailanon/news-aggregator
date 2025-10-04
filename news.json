@@ -1,6 +1,27 @@
 {
-  "updated": 1759577534,
+  "updated": 1759580151,
   "items": [
+    {
+      "id": "0db463ef8bd2",
+      "title": "俄罗斯无人机袭击乌克兰客运列车约30人受伤",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251004-%E4%BF%84%E7%BD%97%E6%96%AF%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%A2%E8%BF%90%E5%88%97%E8%BD%A6%E7%BA%A630%E4%BA%BA%E5%8F%97%E4%BC%A4",
+      "source": "rfi.fr",
+      "published": 1759579445
+    },
+    {
+      "id": "754f3a83065d",
+      "title": "國軍增購愛三增程型傳將抵台 專家：空防範圍擴增",
+      "url": "https://udn.com/news/story/10930/9050535",
+      "source": "udn.com",
+      "published": 1759578581
+    },
+    {
+      "id": "272fdf3b6f4e",
+      "title": "以哈正面回應川普和平計畫　專家：許多問題未解",
+      "url": "https://money.udn.com/money/story/10511/9050522",
+      "source": "money.udn.com",
+      "published": 1759577771
+    },
     {
       "id": "29f3d65bc989",
       "title": "教宗良十四世簽署首部宗座勸諭　9日公諸於世",
@@ -17,7 +38,7 @@
     },
     {
       "id": "77f8a282e799",
-      "title": "無人機侵擾歐洲多國　法國列防空重點24小時警戒",
+      "title": "無人機侵擾歐洲多國 法國列防空重點24小時警戒",
       "url": "https://money.udn.com/money/story/5599/9050496",
       "source": "money.udn.com",
       "published": 1759576892
@@ -247,13 +268,6 @@
       "published": 1759571823
     },
     {
-      "id": "cba48fe309b4",
-      "title": "哈瑪斯表態願放人質後 準備好展開談判解決其他議題",
-      "url": "https://money.udn.com/money/story/5599/9050426",
-      "source": "money.udn.com",
-      "published": 1759571687
-    },
-    {
       "id": "83f28c9835ed",
       "title": "高市早苗當選自民黨總裁 賴總統：期盼台日關係邁向新階段",
       "url": "https://udn.com/news/story/6656/9050403",
@@ -329,13 +343,6 @@
       "url": "https://udn.com/news/story/122404/9050303",
       "source": "udn.com",
       "published": 1759565505
-    },
-    {
-      "id": "ee24ba919e9d",
-      "title": "高市早苗當選自民黨總裁 國民黨祝賀：基於友誼深化交流",
-      "url": "https://udn.com/news/story/6656/9050299",
-      "source": "udn.com",
-      "published": 1759565461
     },
     {
       "id": "97bce4c4a182",
@@ -567,13 +574,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20251003-%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%8B%E5%9C%BA180%E5%A4%A7%E8%BD%AC%E5%8F%98-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%9C%89%E6%95%91%E4%BA%86",
       "source": "rfi.fr",
       "published": 1759485444
-    },
-    {
-      "id": "381fa7f2c96f",
-      "title": "以军拦截“全球坚韧船队”最后一船, 巴基斯坦称美加沙20点计划\"不是我们的\"",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251003-%E4%BB%A5%E5%86%9B%E6%8B%A6%E6%88%AA-%E5%85%A8%E7%90%83%E5%9D%9A%E9%9F%A7%E8%88%B9%E9%98%9F-%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%B9-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%A7%B0%E7%BE%8E%E5%8A%A0%E6%B2%9920%E7%82%B9%E8%AE%A1%E5%88%92-%E4%B8%8D%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84",
-      "source": "rfi.fr",
-      "published": 1759484611
     },
     {
       "id": "9dc75a72bb4b",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759577534
+  "build_id": 1759580151
 }
