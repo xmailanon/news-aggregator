@@ -1,6 +1,20 @@
 {
-  "updated": 1759583649,
+  "updated": 1759584813,
   "items": [
+    {
+      "id": "c1a3270e2458",
+      "title": "圖輯／中秋將至 光復鄉清淤持續進行",
+      "url": "https://udn.com/news/story/7314/9050603",
+      "source": "udn.com",
+      "published": 1759584500
+    },
+    {
+      "id": "5195fee4d4d3",
+      "title": "哈马斯宣布准备释放人质 不顾特朗普要求以色列继续炮击",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251004-%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E5%B8%83%E5%87%86%E5%A4%87%E9%87%8A%E6%94%BE%E4%BA%BA%E8%B4%A8-%E4%B8%8D%E9%A1%BE%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%BB%A5%E8%89%B2%E5%88%97%E7%BB%A7%E7%BB%AD%E7%82%AE%E5%87%BB",
+      "source": "rfi.fr",
+      "published": 1759583893
+    },
     {
       "id": "1c36275d66f1",
       "title": "英国太空司令严重担忧俄罗斯的太空威胁",
@@ -352,13 +366,6 @@
       "published": 1759567444
     },
     {
-      "id": "4dfe1d1365ff",
-      "title": "國民黨主席政見會8場剩3場 李德維：扼殺與黨員溝通機會",
-      "url": "https://udn.com/news/story/122404/9050318",
-      "source": "udn.com",
-      "published": 1759566784
-    },
-    {
       "id": "97bce4c4a182",
       "title": "「自特洛伊木馬以來最巧妙的偽裝」：一件蘇聯藝術品如何監聽美國？",
       "url": "https://www.bbc.com/zhongwen/articles/cdjzknpz8xwo/trad?at_medium=RSS&at_campaign=rss",
@@ -553,13 +560,6 @@
       "url": "https://www.dw.com/zh/德语媒体：沉默的中国亿万富豪/a-74229902?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759498860
-    },
-    {
-      "id": "71f8dc6a87f6",
-      "title": "曼彻斯特犹太教堂恐袭案 2人遇害 3人重伤 英国进入最高警戒状态",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251003-%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E7%8A%B9%E5%A4%AA%E6%95%99%E5%A0%82%E6%81%90%E8%A2%AD%E6%A1%88-2%E4%BA%BA%E9%81%87%E5%AE%B3-3%E4%BA%BA%E9%87%8D%E4%BC%A4-%E8%8B%B1%E5%9B%BD%E8%BF%9B%E5%85%A5%E6%9C%80%E9%AB%98%E8%AD%A6%E6%88%92%E7%8A%B6%E6%80%81",
-      "source": "rfi.fr",
-      "published": 1759498218
     },
     {
       "id": "aefae153ba0f",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759583649
+  "build_id": 1759584813
 }
