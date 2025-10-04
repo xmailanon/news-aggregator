@@ -1,6 +1,27 @@
 {
-  "updated": 1759612050,
+  "updated": 1759613513,
   "items": [
+    {
+      "id": "7f408ebd2dc6",
+      "title": "中国的新开放：北京外交官在柏林参与公开辩论",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251004-%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B0%E5%BC%80%E6%94%BE-%E5%8C%97%E4%BA%AC%E5%A4%96%E4%BA%A4%E5%AE%98%E5%9C%A8%E6%9F%8F%E6%9E%97%E5%8F%82%E4%B8%8E%E5%85%AC%E5%BC%80%E8%BE%A9%E8%AE%BA",
+      "source": "rfi.fr",
+      "published": 1759613069
+    },
+    {
+      "id": "71bad0ad4488",
+      "title": "科學家培養「迷你人腦」為電腦提供動力",
+      "url": "https://www.bbc.com/zhongwen/articles/cdx2dp566p2o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1759612638
+    },
+    {
+      "id": "b114da1d6f1b",
+      "title": "以哈周日起在开罗间接谈判 特朗普女婿和特使前往敲定人质释放细节",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251004-%E4%BB%A5%E5%93%88%E5%91%A8%E6%97%A5%E8%B5%B7%E5%9C%A8%E5%BC%80%E7%BD%97%E9%97%B4%E6%8E%A5%E8%B0%88%E5%88%A4-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%92%8C%E7%89%B9%E4%BD%BF%E5%89%8D%E5%BE%80%E6%95%B2%E5%AE%9A%E4%BA%BA%E8%B4%A8%E9%87%8A%E6%94%BE%E7%BB%86%E8%8A%82",
+      "source": "rfi.fr",
+      "published": 1759612633
+    },
     {
       "id": "34f9965b63c0",
       "title": "聚焦非洲第四届金沙萨钢琴节",
@@ -49,6 +70,13 @@
       "url": "https://money.udn.com/money/story/5599/9050721",
       "source": "money.udn.com",
       "published": 1759602365
+    },
+    {
+      "id": "2f8c2f2519ed",
+      "title": "國安會官員傳赴美 探詢總統出訪可能",
+      "url": "https://udn.com/news/story/6656/9050727",
+      "source": "udn.com",
+      "published": 1759602144
     },
     {
       "id": "1023b2eb31cc",
@@ -366,13 +394,6 @@
       "published": 1759575420
     },
     {
-      "id": "49f7beee84ef",
-      "title": "高市早苗當選自民黨總裁 黃偉哲賀文稱「先生」原因曝光",
-      "url": "https://udn.com/news/story/6656/9050480",
-      "source": "udn.com",
-      "published": 1759575390
-    },
-    {
       "id": "15bc4f2247e4",
       "title": "法国新总理的政治“豪赌” 为何他放弃动用49.3条款？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251004-%E6%B3%95%E5%9B%BD%E6%96%B0%E6%80%BB%E7%90%86%E7%9A%84%E6%94%BF%E6%B2%BB-%E8%B1%AA%E8%B5%8C-%E4%B8%BA%E4%BD%95%E4%BB%96%E6%94%BE%E5%BC%83%E5%8A%A8%E7%94%A849-3%E6%9D%A1%E6%AC%BE",
@@ -541,20 +562,6 @@
       "published": 1759513700
     },
     {
-      "id": "874b63fe43ad",
-      "title": "最后通牒：特朗普要求哈马斯在下周前接受其加沙和平计划",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251003-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E5%93%88%E9%A9%AC%E6%96%AF%E5%9C%A8%E5%91%A8%E6%97%A5%E4%B9%8B%E5%89%8D%E6%8E%A5%E5%8F%97%E5%85%B6%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92",
-      "source": "rfi.fr",
-      "published": 1759507145
-    },
-    {
-      "id": "b6840e6b1594",
-      "title": "摩洛哥青年继续抗议 Z世代团体呼吁政府下台",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251003-%E6%91%A9%E6%B4%9B%E5%93%A5%E9%9D%92%E5%B9%B4%E7%BB%A7%E7%BB%AD%E6%8A%97%E8%AE%AE-z%E4%B8%96%E4%BB%A3%E5%9B%A2%E4%BD%93%E5%91%BC%E5%90%81%E6%94%BF%E5%BA%9C%E4%B8%8B%E5%8F%B0",
-      "source": "rfi.fr",
-      "published": 1759506175
-    },
-    {
       "id": "75a664488aa7",
       "title": "德国总理梅尔茨：德国和欧洲必须展现最好一面以对抗专制阵营",
       "url": "https://www.dw.com/zh/德国总理梅尔茨：德国和欧洲必须展现最好一面以对抗专制阵营/a-74230723?maca=chi-rss-chi-all-1127-rdf",
@@ -714,13 +721,6 @@
       "url": "https://www.dw.com/zh/美国政府-停摆-是怎么回事？/a-74199436?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759314360
-    },
-    {
-      "id": "931d39a52986",
-      "title": "工作、旅行還有國家公園，美國政府關門會帶來什麼影響？",
-      "url": "https://www.bbc.com/zhongwen/articles/cr5qp88762lo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1759307753
     },
     {
       "id": "633719a51069",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759612050
+  "build_id": 1759613513
 }
