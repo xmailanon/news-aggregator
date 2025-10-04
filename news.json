@@ -1,6 +1,27 @@
 {
-  "updated": 1759615685,
+  "updated": 1759617235,
   "items": [
+    {
+      "id": "4fb49c9898a0",
+      "title": "川普：以色列同意撤軍線　哈瑪斯確認後停火將立即生效",
+      "url": "https://money.udn.com/money/story/10511/9050911",
+      "source": "money.udn.com",
+      "published": 1759617033
+    },
+    {
+      "id": "a4fc4117074f",
+      "title": "捷克前總理巴比斯政黨ANO勝出　喜稱政治生涯巔峰",
+      "url": "https://money.udn.com/money/story/10511/9050910",
+      "source": "money.udn.com",
+      "published": 1759615952
+    },
+    {
+      "id": "c33e5ecb6999",
+      "title": "“女版安倍”  中国戒备？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251004-%E5%A5%B3%E7%89%88%E5%AE%89%E5%80%8D-%E4%B8%AD%E5%9B%BD%E6%88%92%E5%A4%87",
+      "source": "rfi.fr",
+      "published": 1759615835
+    },
     {
       "id": "d6b155c20dbe",
       "title": "【專家之眼】國民黨主席參選人 誰認真當造王者？",
@@ -317,25 +338,11 @@
       "published": 1759591329
     },
     {
-      "id": "edda5a219ce4",
-      "title": "BBC國際頻道拓財源　爭取挪用部分國防預算",
-      "url": "https://money.udn.com/money/story/5599/9050645",
-      "source": "money.udn.com",
-      "published": 1759588568
-    },
-    {
       "id": "91f11eea6fe7",
       "title": "沿途滿是煙塵不見太陽…翻山越嶺5天 探勘人員終抵馬太鞍溪堰塞湖",
       "url": "https://udn.com/news/story/124615/9050640",
       "source": "udn.com",
       "published": 1759587711
-    },
-    {
-      "id": "54423f1d753b",
-      "title": "印尼學校倒塌事件罹難者增至17人　仍有數十人失蹤",
-      "url": "https://money.udn.com/money/story/5599/9050639",
-      "source": "money.udn.com",
-      "published": 1759587696
     },
     {
       "id": "c6ee4a80c47b",
@@ -497,13 +504,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251003-%E4%B8%AD%E5%9B%BD%E5%AF%B9-%E5%B9%BD%E7%81%B5%E8%88%B9-%E9%87%87%E6%96%B0%E6%8E%AA%E6%96%BD-%E5%AF%B9%E7%9B%9F%E5%8F%8B%E4%BF%84%E7%BD%97%E6%96%AF%E4%BC%8A%E6%9C%97%E9%80%A0%E6%88%90%E6%9E%81%E5%A4%A7%E6%B2%89%E9%87%8D%E6%89%93%E5%87%BB",
       "source": "rfi.fr",
       "published": 1759531160
-    },
-    {
-      "id": "1819025400ef",
-      "title": "美国政府停摆进入第三天 周五投票恐再度失败",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251003-%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E8%BF%9B%E5%85%A5%E7%AC%AC%E4%B8%89%E5%A4%A9-%E5%91%A8%E4%BA%94%E6%8A%95%E7%A5%A8%E6%81%90%E5%86%8D%E5%BA%A6%E5%A4%B1%E8%B4%A5",
-      "source": "rfi.fr",
-      "published": 1759530747
     },
     {
       "id": "7ad3e41124b3",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759615685
+  "build_id": 1759617235
 }
