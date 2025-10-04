@@ -1,6 +1,13 @@
 {
-  "updated": 1759619339,
+  "updated": 1759620726,
   "items": [
+    {
+      "id": "487afc5d4ea9",
+      "title": "華航機隊／飛美航班與經濟奇蹟一同起飛 他成首航機長",
+      "url": "https://udn.com/news/story/10930/9045734",
+      "source": "udn.com",
+      "published": 1759620600
+    },
     {
       "id": "4fb49c9898a0",
       "title": "川普：以色列同意撤軍線　哈瑪斯確認後停火將立即生效",
@@ -399,13 +406,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251004-%E6%85%95%E5%B0%BC%E9%BB%91%E6%9C%BA%E5%9C%BA%E5%9B%A0%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%86%8D%E6%AC%A1%E5%85%B3%E9%97%AD-%E5%B9%95%E5%90%8E%E9%BB%91%E6%89%8B%E5%91%BC%E4%B9%8B%E6%AC%B2%E5%87%BA",
       "source": "rfi.fr",
       "published": 1759581889
-    },
-    {
-      "id": "6ac4b876a538",
-      "title": "曾說憧憬蔡英文…高市早苗當選自民黨總裁 蔡：祝您好運",
-      "url": "https://udn.com/news/story/6656/9050572",
-      "source": "udn.com",
-      "published": 1759581605
     },
     {
       "id": "0db463ef8bd2",
@@ -1402,5 +1402,5 @@
       "published": 1757238240
     }
   ],
-  "build_id": 1759619339
+  "build_id": 1759620726
 }
