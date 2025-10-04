@@ -1,19 +1,33 @@
 {
-  "updated": 1759570330,
+  "updated": 1759572516,
   "items": [
     {
+      "id": "ca8cb7a5a4cd",
+      "title": "哈瑪斯表態願放人質後　準備好展開談判解決其他議題",
+      "url": "https://money.udn.com/money/story/10511/9050426",
+      "source": "money.udn.com",
+      "published": 1759571687
+    },
+    {
       "id": "6d39170664b9",
-      "title": "高市早苗夫婿冠妻姓　有機會成日本首位第一先生",
+      "title": "高市早苗夫婿冠妻姓 有機會成日本首位第一先生",
       "url": "https://money.udn.com/money/story/5599/9050407",
       "source": "money.udn.com",
       "published": 1759570288
     },
     {
       "id": "918163847697",
-      "title": "無人機干擾慕尼黑機場影響逾6500人　航班陸續恢復",
+      "title": "無人機干擾慕尼黑機場影響逾6500人 航班陸續恢復",
       "url": "https://money.udn.com/money/story/5599/9050404",
       "source": "money.udn.com",
       "published": 1759570211
+    },
+    {
+      "id": "83f28c9835ed",
+      "title": "高市早苗當選自民黨總裁 賴總統：期盼台日關係邁向新階段",
+      "url": "https://udn.com/news/story/6656/9050403",
+      "source": "udn.com",
+      "published": 1759570125
     },
     {
       "id": "126fd7123d31",
@@ -101,7 +115,7 @@
     },
     {
       "id": "4dfe1d1365ff",
-      "title": "國民黨主席政見會8場剩3場 楊永明：扼殺與黨員溝通機會",
+      "title": "國民黨主席政見會8場剩3場 李德維：扼殺與黨員溝通機會",
       "url": "https://udn.com/news/story/122404/9050318",
       "source": "udn.com",
       "published": 1759566784
@@ -268,13 +282,6 @@
       "published": 1759562911
     },
     {
-      "id": "6a80141ab32f",
-      "title": "美國 H-1B 簽證費暴漲 民團聯手提告要求擋下行政令",
-      "url": "https://money.udn.com/money/story/10511/9050239",
-      "source": "money.udn.com",
-      "published": 1759562499
-    },
-    {
       "id": "5b570e5b65ae",
       "title": "「重機械超人」挺進花蓮光復災區 中油3加油站免費供油",
       "url": "https://udn.com/news/story/124616/9050231",
@@ -287,13 +294,6 @@
       "url": "https://udn.com/news/story/6656/9050192",
       "source": "udn.com",
       "published": 1759560646
-    },
-    {
-      "id": "a8225cad4fbe",
-      "title": "傳趙怡翔赴美談過境  總統府：目前總統無出訪安排",
-      "url": "https://udn.com/news/story/6656/9050118",
-      "source": "udn.com",
-      "published": 1759560570
     },
     {
       "id": "97bce4c4a182",
@@ -658,13 +658,6 @@
       "url": "https://www.dw.com/zh/以色列再次拦截通贝里：回顾历次加沙船队行动/a-74216691?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759403820
-    },
-    {
-      "id": "06a0df96bf2e",
-      "title": "川普稱四週後見習近平 大豆是主要議題",
-      "url": "https://www.dw.com/zh/川普稱四週後見習近平-大豆是主要議題/a-74213461?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1759395840
     },
     {
       "id": "73673bf0faa1",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/石破茂辞职如何影响日本政坛？/a-73922726?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1757341680
+    },
+    {
+      "id": "2b49962d0710",
+      "title": "DW事实核查：如何识破AI伪造语音？",
+      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1757238240
     }
   ],
-  "build_id": 1759570330
+  "build_id": 1759572516
 }
