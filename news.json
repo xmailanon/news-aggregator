@@ -1,6 +1,48 @@
 {
-  "updated": 1759646523,
+  "updated": 1759648103,
   "items": [
+    {
+      "id": "631b462d93f3",
+      "title": "尼泊爾暴雨釀山崩洪水　36小時內奪至少22命",
+      "url": "https://money.udn.com/money/story/5599/9051529",
+      "source": "money.udn.com",
+      "published": 1759647249
+    },
+    {
+      "id": "c5d8502e36f2",
+      "title": "川普凍結藍州資金　部分共和黨憂分裂拖累選情",
+      "url": "https://money.udn.com/money/story/10511/9051518",
+      "source": "money.udn.com",
+      "published": 1759646713
+    },
+    {
+      "id": "b940968840b4",
+      "title": "影／被問「可惜無法與彭振聲互動？」柯文哲長嘆一聲離去",
+      "url": "https://udn.com/news/story/6656/9051516",
+      "source": "udn.com",
+      "published": 1759646643
+    },
+    {
+      "id": "3d24a1df06d9",
+      "title": "外交部祝賀捷克順利完成眾議院選舉 盼持續深化合作",
+      "url": "https://udn.com/news/story/6656/9051510",
+      "source": "udn.com",
+      "published": 1759646147
+    },
+    {
+      "id": "7d28b2564ce3",
+      "title": "台水：花蓮光復穩壓供水 大馬鑽井成功出水添助力",
+      "url": "https://udn.com/news/story/124616/9051479",
+      "source": "udn.com",
+      "published": 1759646146
+    },
+    {
+      "id": "ad4c819e23a8",
+      "title": "視察丹娜絲災後重建 賴總統肯定中央、地方及民間協力",
+      "url": "https://udn.com/news/story/6656/9051508",
+      "source": "udn.com",
+      "published": 1759646106
+    },
     {
       "id": "ef73c5918b1d",
       "title": "高市早苗有望成為日本首相　關切台海和平穩定",
@@ -35,13 +77,6 @@
       "url": "https://money.udn.com/money/story/5599/9051478",
       "source": "money.udn.com",
       "published": 1759644729
-    },
-    {
-      "id": "02679382948a",
-      "title": "普通保護令要等近52天 法界人士籲分案加速審理",
-      "url": "https://udn.com/news/story/7314/9051443",
-      "source": "udn.com",
-      "published": 1759644701
     },
     {
       "id": "7be429a14c68",
@@ -205,27 +240,6 @@
       "published": 1759637262
     },
     {
-      "id": "24f02b0ddddb",
-      "title": "「溝勺超人」上場！花蓮光復30公里清溝動員 650支清溝勺助陣",
-      "url": "https://udn.com/news/story/124616/9051275",
-      "source": "udn.com",
-      "published": 1759637223
-    },
-    {
-      "id": "89321ce6a67e",
-      "title": "徐佳青：4000僑民返台參與國慶 彰顯台灣主權地位",
-      "url": "https://udn.com/news/story/6656/9051265",
-      "source": "udn.com",
-      "published": 1759636848
-    },
-    {
-      "id": "e366490b86fb",
-      "title": "李翔宙專文／中共藉九三閱兵預演「攻台打援」實戰秀",
-      "url": "https://udn.com/news/story/10930/9051259",
-      "source": "udn.com",
-      "published": 1759636700
-    },
-    {
       "id": "0492e8c2021a",
       "title": "氣球闖入領空　立陶宛機場關閉數小時後恢復起降",
       "url": "https://money.udn.com/money/story/5599/9051215",
@@ -280,20 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9051044",
       "source": "money.udn.com",
       "published": 1759629658
-    },
-    {
-      "id": "213a181853fb",
-      "title": "日媒：高市早苗上任遇「烈火試煉」首相之路有3大關卡待解",
-      "url": "https://money.udn.com/money/story/5599/9051012",
-      "source": "money.udn.com",
-      "published": 1759628528
-    },
-    {
-      "id": "7a32431b7780",
-      "title": "巴西假酒致命　甲醇中毒蔓延16州",
-      "url": "https://money.udn.com/money/story/5599/9050998",
-      "source": "money.udn.com",
-      "published": 1759627277
     },
     {
       "id": "c33e5ecb6999",
@@ -1402,5 +1402,5 @@
       "published": 1757231880
     }
   ],
-  "build_id": 1759646523
+  "build_id": 1759648103
 }
