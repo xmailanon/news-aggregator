@@ -1,5 +1,5 @@
 {
-  "updated": 1759696419,
+  "updated": 1759698462,
   "items": [
     {
       "id": "001deb79cf78",
@@ -9,9 +9,16 @@
       "published": 1759696567
     },
     {
-      "id": "d3ab4e6ff317",
-      "title": "美聯邦政府持續關門 紅藍兩黨陷僵局",
-      "url": "https://money.udn.com/money/story/5599/9052229",
+      "id": "4b4bc049106b",
+      "title": "非洲刚果(金)东部暴力扩散？",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251005-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E5%88%9A%E6%9E%9C-%E9%87%91-%E4%B8%9C%E9%83%A8%E6%9A%B4%E5%8A%9B%E6%89%A9%E6%95%A3",
+      "source": "rfi.fr",
+      "published": 1759696194
+    },
+    {
+      "id": "4d65c2b4b15e",
+      "title": "美國聯邦政府持續關門 紅藍兩黨陷僵局 川普：民主黨的裁員",
+      "url": "https://money.udn.com/money/story/10511/9052229",
       "source": "money.udn.com",
       "published": 1759695570
     },
@@ -609,13 +616,6 @@
       "url": "https://www.dw.com/zh/哈马斯称同意释放所有人质-特朗普呼吁以色列立即停止轰炸/a-74235561?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759576200
-    },
-    {
-      "id": "9e1196b665ac",
-      "title": "中国数据中心沉入海底 降低电耗",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251004-%E4%B8%AD%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E6%B2%89%E5%85%A5%E6%B5%B7%E5%BA%95-%E9%99%8D%E4%BD%8E%E7%94%B5%E8%80%97",
-      "source": "rfi.fr",
-      "published": 1759575882
     },
     {
       "id": "7c8a59df8fb7",
@@ -1402,5 +1402,5 @@
       "published": 1757597760
     }
   ],
-  "build_id": 1759696419
+  "build_id": 1759698462
 }
