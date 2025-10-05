@@ -1,6 +1,20 @@
 {
-  "updated": 1759694960,
+  "updated": 1759696419,
   "items": [
+    {
+      "id": "001deb79cf78",
+      "title": "敘利亞為組新國會進行投票　阿塞德垮台後第一次",
+      "url": "https://money.udn.com/money/story/5599/9052234",
+      "source": "money.udn.com",
+      "published": 1759696567
+    },
+    {
+      "id": "d3ab4e6ff317",
+      "title": "美聯邦政府持續關門 紅藍兩黨陷僵局",
+      "url": "https://money.udn.com/money/story/5599/9052229",
+      "source": "money.udn.com",
+      "published": 1759695570
+    },
     {
       "id": "6ee0db73e152",
       "title": "G7國家就業市場最新困境 陷入「低進用、低裁員」循環",
@@ -10,7 +24,7 @@
     },
     {
       "id": "99f3bd3ad63a",
-      "title": "蒲亭提延長核武管控條約　川普：聽起來是好主意",
+      "title": "蒲亭提延長核武管控條約 川普：聽起來是好主意",
       "url": "https://money.udn.com/money/story/5599/9052209",
       "source": "money.udn.com",
       "published": 1759690447
@@ -226,13 +240,6 @@
       "published": 1759679115
     },
     {
-      "id": "74625bf99ef2",
-      "title": "美阿拉巴馬州爆大規模槍擊案...警方稱2組人馬鬧區駁火 已知2死12傷",
-      "url": "https://money.udn.com/money/story/10511/9052081",
-      "source": "money.udn.com",
-      "published": 1759677888
-    },
-    {
       "id": "234b4090ae07",
       "title": "台风“麦德姆”登陆中国沿海 数十万人被迫转移",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251005-%E5%8F%B0%E9%A3%8E-%E9%BA%A6%E5%BE%B7%E5%A7%86-%E7%99%BB%E9%99%86%E4%B8%AD%E5%9B%BD%E6%B2%BF%E6%B5%B7%E6%95%B0%E5%8D%81%E4%B8%87%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%BD%AC%E7%A7%BB",
@@ -245,13 +252,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251005-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%B0%86%E8%AE%BF%E6%84%8F%E5%A4%A7%E5%88%A9%E5%92%8C%E7%91%9E%E5%A3%AB",
       "source": "rfi.fr",
       "published": 1759676285
-    },
-    {
-      "id": "01c5eacce0b5",
-      "title": "巴勒斯坦建國之路 滿布荊棘",
-      "url": "https://money.udn.com/money/story/122381/9051882",
-      "source": "money.udn.com",
-      "published": 1759675345
     },
     {
       "id": "ef5cb0425a0d",
@@ -1402,5 +1402,5 @@
       "published": 1757597760
     }
   ],
-  "build_id": 1759694960
+  "build_id": 1759696419
 }
