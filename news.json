@@ -1,6 +1,13 @@
 {
-  "updated": 1759702102,
+  "updated": 1759703661,
   "items": [
+    {
+      "id": "4cf8a4e5db9b",
+      "title": "法国新政府旧面孔  能挺多久未知数",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251005-%E6%B3%95%E5%9B%BD%E6%96%B0%E6%94%BF%E5%BA%9C%E6%97%A7%E9%9D%A2%E5%AD%94-%E8%83%BD%E6%8C%BA%E5%A4%9A%E4%B9%85%E6%9C%AA%E7%9F%A5%E6%95%B0",
+      "source": "rfi.fr",
+      "published": 1759702738
+    },
     {
       "id": "f1fca7b932dd",
       "title": "馬克宏緊密盟友任財長　領新內閣應對預算危機",
@@ -588,13 +595,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251004-%E4%BB%A5%E5%93%88%E5%91%A8%E6%97%A5%E8%B5%B7%E5%9C%A8%E5%BC%80%E7%BD%97%E9%97%B4%E6%8E%A5%E8%B0%88%E5%88%A4-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%92%8C%E7%89%B9%E4%BD%BF%E5%89%8D%E5%BE%80%E6%95%B2%E5%AE%9A%E4%BA%BA%E8%B4%A8%E9%87%8A%E6%94%BE%E7%BB%86%E8%8A%82",
       "source": "rfi.fr",
       "published": 1759612633
-    },
-    {
-      "id": "5358ee37d6ca",
-      "title": "马达加斯加Z世代抗议者与政府支持者对峙 警方发射催泪瓦斯",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251004-%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E6%8A%97%E8%AE%AE%E8%80%85%E4%B8%8E%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8C%81%E8%80%85%E5%AF%B9%E5%B3%99-%E8%AD%A6%E6%96%B9%E5%8F%91%E5%B0%84%E5%82%AC%E6%B3%AA%E7%93%A6%E6%96%AF",
-      "source": "rfi.fr",
-      "published": 1759595057
     },
     {
       "id": "c6ee4a80c47b",
@@ -1402,5 +1402,5 @@
       "published": 1757597760
     }
   ],
-  "build_id": 1759702102
+  "build_id": 1759703661
 }
