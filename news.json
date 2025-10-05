@@ -1,6 +1,13 @@
 {
-  "updated": 1759685527,
+  "updated": 1759687914,
   "items": [
+    {
+      "id": "40320548c12b",
+      "title": "亚洲鲤鱼：美国两党和加拿大放弃政治分歧共同应对入侵物种",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251005-%E4%BA%9A%E6%B4%B2%E9%B2%A4%E9%B1%BC-%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%85%9A%E5%92%8C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%94%BE%E5%BC%83%E6%94%BF%E6%B2%BB%E5%88%86%E6%AD%A7%E5%85%B1%E5%90%8C%E5%BA%94%E5%AF%B9%E5%85%A5%E4%BE%B5%E7%89%A9%E7%A7%8D",
+      "source": "rfi.fr",
+      "published": 1759687553
+    },
     {
       "id": "9dbe65620454",
       "title": "比特幣漲破12.5萬美元 避開美元風險的「貶值交易」更加盛行",
@@ -136,7 +143,7 @@
     },
     {
       "id": "b57619bcf548",
-      "title": "花蓮光復鄉災區 600萬噸淤土還待清",
+      "title": "花蓮光復鄉災區 600萬噸淤土還待清 民眾抗議復原慢",
       "url": "https://udn.com/news/story/124616/9052118",
       "source": "udn.com",
       "published": 1759680484
@@ -149,16 +156,23 @@
       "published": 1759680438
     },
     {
-      "id": "ae651cb016ff",
-      "title": "歷史上的今天／原生家庭已有5孩 1960年三胞胎女嬰送養",
-      "url": "https://udn.com/news/story/7314/9051446",
+      "id": "cc739e77db4d",
+      "title": "缺工缺料衝擊！北台灣公共工程頻頻流標",
+      "url": "https://udn.com/news/story/7314/9052116",
       "source": "udn.com",
       "published": 1759680000
     },
     {
-      "id": "cc739e77db4d",
-      "title": "缺工缺料衝擊！北台灣公共工程頻頻流標",
-      "url": "https://udn.com/news/story/7314/9052116",
+      "id": "88d9fd5876f4",
+      "title": "光復洪災悲傷中秋…「後院一座山」 民眾沒心情過節",
+      "url": "https://udn.com/news/story/124615/9052112",
+      "source": "udn.com",
+      "published": 1759680000
+    },
+    {
+      "id": "ae651cb016ff",
+      "title": "歷史上的今天／原生家庭已有5孩 1960年三胞胎女嬰送養",
+      "url": "https://udn.com/news/story/7314/9051446",
       "source": "udn.com",
       "published": 1759680000
     },
@@ -180,13 +194,6 @@
       "id": "cdb3718525ca",
       "title": "季連成指揮光復救災獲好評！被拱選縣長成話題",
       "url": "https://udn.com/news/story/124615/9052104",
-      "source": "udn.com",
-      "published": 1759680000
-    },
-    {
-      "id": "88d9fd5876f4",
-      "title": "光復洪災悲傷中秋…「後院一座山」 民眾沒心情過節",
-      "url": "https://udn.com/news/story/124615/9052112",
       "source": "udn.com",
       "published": 1759680000
     },
@@ -546,13 +553,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251004-%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E6%8A%97%E8%AE%AE%E8%80%85%E4%B8%8E%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8C%81%E8%80%85%E5%AF%B9%E5%B3%99-%E8%AD%A6%E6%96%B9%E5%8F%91%E5%B0%84%E5%82%AC%E6%B3%AA%E7%93%A6%E6%96%AF",
       "source": "rfi.fr",
       "published": 1759595057
-    },
-    {
-      "id": "f9ec2f8178fe",
-      "title": "联合国敦促尼加拉瓜解释自2018年以来120多名失踪者下落",
-      "url": "https://www.rfi.fr/cn/%E4%BA%BA%E6%9D%83/20251004-%E8%81%94%E5%90%88%E5%9B%BD%E6%95%A6%E4%BF%83%E5%B0%BC%E5%8A%A0%E6%8B%89%E7%93%9C-%E8%A7%A3%E9%87%8A%E8%87%AA2018%E5%B9%B4%E4%BB%A5%E6%9D%A5120%E5%A4%9A%E5%90%8D%E5%A4%B1%E8%B8%AA%E8%80%85%E4%B8%8B%E8%90%BD",
-      "source": "rfi.fr",
-      "published": 1759591329
     },
     {
       "id": "c6ee4a80c47b",
@@ -1402,5 +1402,5 @@
       "published": 1757597760
     }
   ],
-  "build_id": 1759685527
+  "build_id": 1759687914
 }
