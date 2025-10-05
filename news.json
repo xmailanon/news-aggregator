@@ -1,6 +1,27 @@
 {
-  "updated": 1759684042,
+  "updated": 1759685527,
   "items": [
+    {
+      "id": "9dbe65620454",
+      "title": "比特幣漲破12.5萬美元 避開美元風險的「貶值交易」更加盛行",
+      "url": "https://money.udn.com/money/story/5599/9052049",
+      "source": "money.udn.com",
+      "published": 1759685061
+    },
+    {
+      "id": "7ab67e0e9c5d",
+      "title": "OPEC+再增產 恐供給過剩",
+      "url": "https://money.udn.com/money/story/5599/9052050",
+      "source": "money.udn.com",
+      "published": 1759684927
+    },
+    {
+      "id": "cbe965fac4b7",
+      "title": "加勒比海打擊運毒船　美防長：美軍獲一切必要授權",
+      "url": "https://money.udn.com/money/story/10511/9052194",
+      "source": "money.udn.com",
+      "published": 1759684471
+    },
     {
       "id": "1c9d6aafe266",
       "title": "日本「高市經濟學」股市利多 支持寬鬆財政與貨幣政策",
@@ -238,27 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9051952",
       "source": "money.udn.com",
       "published": 1759673551
-    },
-    {
-      "id": "b650ea99a82c",
-      "title": "25顆夾帶私菸氣球闖空域致機場關閉  立陶宛持續戒備",
-      "url": "https://money.udn.com/money/story/5599/9051947",
-      "source": "money.udn.com",
-      "published": 1759673170
-    },
-    {
-      "id": "efc86a589e49",
-      "title": "英政府授權警方　可對同地點重複抗議行動加以限制",
-      "url": "https://money.udn.com/money/story/5599/9051938",
-      "source": "money.udn.com",
-      "published": 1759672837
-    },
-    {
-      "id": "f2b91a231945",
-      "title": "歐洲頻傳無人機侵擾機場  瑞士建置偵測系統",
-      "url": "https://money.udn.com/money/story/5599/9051937",
-      "source": "money.udn.com",
-      "published": 1759672837
     },
     {
       "id": "74fec6166e53",
@@ -842,6 +842,118 @@
       "published": 1759175233
     },
     {
+      "id": "9a526f7e0ef0",
+      "title": "紫金黄金国际上市首日大涨68.5%",
+      "url": "https://www.ftchinese.com/story/001107799",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "2b6468a97a2a",
+      "title": "中国电动汽车或打破日本车企在东南亚的主导地位",
+      "url": "https://www.ftchinese.com/story/001107798",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "4c34e53a934c",
+      "title": "中国工厂活动遭遇六年来最长的连续下滑",
+      "url": "https://www.ftchinese.com/story/001107797",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "473787be447f",
+      "title": "特朗普的“气候骗局说”不会阻止新型ESG",
+      "url": "https://www.ftchinese.com/story/001107796",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "2a82aff0f88d",
+      "title": "陈洋：下任日本首相应当具备的条件",
+      "url": "https://www.ftchinese.com/story/001107795",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "4a942fa19215",
+      "title": "在三一集团一窥绿色竞赛的未来结果",
+      "url": "https://www.ftchinese.com/story/001107794",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "aaa7358caf06",
+      "title": "Lex专栏：阿里巴巴——AI赛道的迟来者",
+      "url": "https://www.ftchinese.com/story/001107789",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "19a3c49d8e76",
+      "title": "特朗普政府对中企收紧出口管制",
+      "url": "https://www.ftchinese.com/story/001107793",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "9dae9f365ae8",
+      "title": "欧盟燃油车禁令为何再引争议？",
+      "url": "https://www.ftchinese.com/story/001107792",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "1963f7713377",
+      "title": "国民党主席改选：勾心斗角，内战内行",
+      "url": "https://www.ftchinese.com/story/001107791",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "9ba96c5dd9e1",
+      "title": "“美式文革”会来吗？",
+      "url": "https://www.ftchinese.com/story/001107790",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "b7e5500986ee",
+      "title": "阿斯利康拟提升纽约上市地位 伦敦再受打击",
+      "url": "https://www.ftchinese.com/story/001107788",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "d85cdf7ab42a",
+      "title": "特朗普在中东问题上回归主流",
+      "url": "https://www.ftchinese.com/story/001107787",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "f1497ca80d94",
+      "title": "特朗普集团在沙特合建10亿美元楼盘签约",
+      "url": "https://www.ftchinese.com/story/001107786",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "50d5a559b539",
+      "title": "小米“成就悬崖”的品牌警示",
+      "url": "https://www.ftchinese.com/story/001107782",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
+      "id": "39d9192f1acf",
+      "title": "香港打造反洗钱新枢纽：社科教育如何助力金融安全？",
+      "url": "https://www.ftchinese.com/story/001107783",
+      "source": "ftchinese.com",
+      "published": 1759161600
+    },
+    {
       "id": "29026172197b",
       "title": "中国推出“K字签证” 与美国争夺科技人才？",
       "url": "https://www.dw.com/zh/中国推出-k字签证-与美国争夺科技人才？/a-74178397?maca=chi-rss-chi-all-1127-rdf",
@@ -924,6 +1036,34 @@
       "url": "https://cn.nytimes.com/obits/20250929/jerome-cohen-dead/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1759088493
+    },
+    {
+      "id": "6e8117287550",
+      "title": "比特币=数字黄金？从能源到金融的共振逻辑（下）",
+      "url": "https://www.ftchinese.com/story/001107773",
+      "source": "ftchinese.com",
+      "published": 1759075200
+    },
+    {
+      "id": "e1e97b6fcf26",
+      "title": "新股选择太多了 “量化派”还是留给风险投资者吧",
+      "url": "https://www.ftchinese.com/story/001107785",
+      "source": "ftchinese.com",
+      "published": 1759075200
+    },
+    {
+      "id": "9535921a52e6",
+      "title": "摩尔多瓦亲欧盟政党赢得议会选举",
+      "url": "https://www.ftchinese.com/story/001107784",
+      "source": "ftchinese.com",
+      "published": 1759075200
+    },
+    {
+      "id": "1e1c2bec5f50",
+      "title": "投资者该如何押注人工智能？",
+      "url": "https://www.ftchinese.com/story/001107781",
+      "source": "ftchinese.com",
+      "published": 1759075200
     },
     {
       "id": "a40d615f8111",
@@ -1260,56 +1400,7 @@
       "url": "https://www.dw.com/zh/dw事实核查：如何识别假新闻？/a-73962848?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1757597760
-    },
-    {
-      "id": "b679dc7d1cd1",
-      "title": "香港高院法官判“互惠人工受孕案”女同志胜诉",
-      "url": "https://www.dw.com/zh/香港高院法官判-互惠人工受孕案-女同志胜诉/a-73936601?maca=chi-rss-chi-news-3224-rdf",
-      "source": "dw.com",
-      "published": 1757492400
-    },
-    {
-      "id": "3b0bada7a4cc",
-      "title": "中國進入網貸世代：誰在貸款？誰在放貸？誰能約束？",
-      "url": "https://www.bbc.com/zhongwen/articles/clyjye58eygo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1757388522
-    },
-    {
-      "id": "5a6af303def1",
-      "title": "當代藝術家威廉·肯特里奇藝術展：尋根南非歷史",
-      "url": "https://www.dw.com/zh/當代藝術家威廉·肯特里奇藝術展：尋根南非歷史/a-73874895?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757238240
-    },
-    {
-      "id": "2b49962d0710",
-      "title": "DW事实核查：如何识破AI伪造语音？",
-      "url": "https://www.dw.com/zh/dw事实核查：如何识破ai伪造语音？/a-73900848?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757238240
-    },
-    {
-      "id": "6653fb91b6f9",
-      "title": "俄乌战况：基辅政府建筑起火",
-      "url": "https://www.dw.com/zh/俄乌战况：基辅政府建筑起火/a-73908722?maca=chi-rss-chi-news-3224-rdf",
-      "source": "dw.com",
-      "published": 1757231880
-    },
-    {
-      "id": "06877516e2df",
-      "title": "“活到150”也成敏感词? CCTV撤回视频版权",
-      "url": "https://www.dw.com/zh/活到150-也成敏感词-cctv撤回视频版权/a-73904983?maca=chi-rss-chi-news-3224-rdf",
-      "source": "dw.com",
-      "published": 1757159040
-    },
-    {
-      "id": "d5594b34d0d1",
-      "title": "DW事实核查：如何识破虚假名人名言？",
-      "url": "https://www.dw.com/zh/dw事实核查：如何识破虚假名人名言？/a-73886527?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1757139180
     }
   ],
-  "build_id": 1759684042
+  "build_id": 1759685527
 }
