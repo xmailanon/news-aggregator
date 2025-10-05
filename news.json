@@ -1,6 +1,13 @@
 {
-  "updated": 1759698462,
+  "updated": 1759699921,
   "items": [
+    {
+      "id": "256b8b98bf5a",
+      "title": "磋商加薩停火　哈瑪斯首席談判代表抵埃及",
+      "url": "https://money.udn.com/money/story/5599/9052239",
+      "source": "money.udn.com",
+      "published": 1759698391
+    },
     {
       "id": "001deb79cf78",
       "title": "敘利亞為組新國會進行投票　阿塞德垮台後第一次",
@@ -238,13 +245,6 @@
       "url": "https://udn.com/news/story/124615/9052104",
       "source": "udn.com",
       "published": 1759680000
-    },
-    {
-      "id": "b81c4fdaf808",
-      "title": "川普：哈瑪斯若不交出加薩控制權　將被徹底消滅",
-      "url": "https://money.udn.com/money/story/5599/9052132",
-      "source": "money.udn.com",
-      "published": 1759679115
     },
     {
       "id": "234b4090ae07",
@@ -1402,5 +1402,5 @@
       "published": 1757597760
     }
   ],
-  "build_id": 1759698462
+  "build_id": 1759699921
 }
