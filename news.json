@@ -1,6 +1,27 @@
 {
-  "updated": 1759740184,
+  "updated": 1759741980,
   "items": [
+    {
+      "id": "6a2a9c537dcc",
+      "title": "挪威奧斯陸機場再傳目擊無人機　一度暫停航班降落",
+      "url": "https://money.udn.com/money/story/5599/9053031",
+      "source": "money.udn.com",
+      "published": 1759742010
+    },
+    {
+      "id": "66b5a22c0e39",
+      "title": "高市早苗当选自民党总裁  日本股价大涨",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251006-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E8%87%AA%E6%B0%91%E5%85%9A%E6%80%BB%E8%A3%81-%E6%97%A5%E6%9C%AC%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8",
+      "source": "rfi.fr",
+      "published": 1759741382
+    },
+    {
+      "id": "b8bf59ea941a",
+      "title": "梅尔茨：如果以色列被禁止参加，德国应退出欧洲歌唱大赛",
+      "url": "https://www.dw.com/zh/梅尔茨：如果以色列被禁止参加，德国应退出欧洲歌唱大赛/a-74248023?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1759740960
+    },
     {
       "id": "19d100724083",
       "title": "上任不滿1個月 法國新總理勒克努請辭",
@@ -310,13 +331,6 @@
       "published": 1759729193
     },
     {
-      "id": "768315e62340",
-      "title": "台積電鳳凰城大秀軟實力 無人機升空高掛國旗慶雙十",
-      "url": "https://money.udn.com/money/story/5599/9052787",
-      "source": "money.udn.com",
-      "published": 1759727550
-    },
-    {
       "id": "7cc6fcfec329",
       "title": "以哈談判埃及登場 以色列據報再轟加薩",
       "url": "https://www.dw.com/zh/以哈談判埃及登場-以色列據報再轟加薩/a-74246361?maca=chi-rss-chi-all-1127-rdf",
@@ -618,13 +632,6 @@
       "published": 1759615835
     },
     {
-      "id": "967591e0fb05",
-      "title": "德国执政联盟成员呼吁加强欧盟钢铁业保护",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251004-%E5%BE%B7%E5%9B%BD%E6%89%A7%E6%94%BF%E8%81%94%E7%9B%9F%E6%88%90%E5%91%98%E5%91%BC%E5%90%81%E5%8A%A0%E5%BC%BA%E6%AC%A7%E7%9B%9F%E9%92%A2%E9%93%81%E4%B8%9A%E4%BF%9D%E6%8A%A4",
-      "source": "rfi.fr",
-      "published": 1759614077
-    },
-    {
       "id": "8a08a77c5f6f",
       "title": "乌克兰情报部门称中国向俄罗斯提供乌克兰目标情报",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251004-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%83%85%E6%8A%A5%E9%83%A8%E9%97%A8%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%90%91%E4%BF%84%E7%BD%97%E6%96%AF%E6%8F%90%E4%BE%9B%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9B%AE%E6%A0%87%E6%83%85%E6%8A%A5",
@@ -672,13 +679,6 @@
       "url": "https://www.dw.com/zh/哈马斯称同意释放所有人质-特朗普呼吁以色列立即停止轰炸/a-74235561?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759576200
-    },
-    {
-      "id": "7c8a59df8fb7",
-      "title": "无人机、网络犯罪和纵火——德国基础设施遭遇多重攻击",
-      "url": "https://www.dw.com/zh/无人机、网络犯罪和纵火-德国基础设施遭遇多重攻击/a-74234110?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1759574340
     },
     {
       "id": "97bce4c4a182",
@@ -1402,5 +1402,5 @@
       "published": 1757492400
     }
   ],
-  "build_id": 1759740184
+  "build_id": 1759741980
 }
