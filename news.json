@@ -1,6 +1,41 @@
 {
-  "updated": 1759753148,
+  "updated": 1759755734,
   "items": [
+    {
+      "id": "ecc5cfd6b939",
+      "title": "美日3學者獲諾獎　為癌症及自體免疫疾病治療闢新徑",
+      "url": "https://money.udn.com/money/story/5599/9053279",
+      "source": "money.udn.com",
+      "published": 1759755635
+    },
+    {
+      "id": "5c1fd1520863",
+      "title": "載有中國移民船隻多瑙河翻覆　1人死亡9人獲救",
+      "url": "https://money.udn.com/money/story/5599/9053245",
+      "source": "money.udn.com",
+      "published": 1759754707
+    },
+    {
+      "id": "d268706882d0",
+      "title": "加沙：以哈在埃及谈判进行中 特朗普催促快速进展",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251006-%E5%8A%A0%E6%B2%99-%E4%BB%A5%E5%93%88%E5%9C%A8%E5%9F%83%E5%8F%8A%E8%B0%88%E5%88%A4%E8%BF%9B%E8%A1%8C%E4%B8%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E5%82%AC%E4%BF%83%E5%BF%AB%E9%80%9F%E8%BF%9B%E5%B1%95",
+      "source": "rfi.fr",
+      "published": 1759754675
+    },
+    {
+      "id": "c75015b7920b",
+      "title": "藍白嗆退回總預算案 政院：願赴立院朝野協商溝通",
+      "url": "https://udn.com/news/story/6656/9053242",
+      "source": "udn.com",
+      "published": 1759754202
+    },
+    {
+      "id": "696c3e7a4f99",
+      "title": "日股漲日圓貶 日本市場面臨高度動盪的「高市行情」",
+      "url": "https://money.udn.com/money/story/5599/9053216",
+      "source": "money.udn.com",
+      "published": 1759753408
+    },
     {
       "id": "f9fd21189372",
       "title": "坂口志文等3人得諾貝爾醫學獎  日本連2年獲殊榮",
@@ -275,13 +310,6 @@
       "published": 1759742433
     },
     {
-      "id": "6a2a9c537dcc",
-      "title": "挪威奧斯陸機場再傳目擊無人機 一度暫停航班降落",
-      "url": "https://money.udn.com/money/story/5599/9053031",
-      "source": "money.udn.com",
-      "published": 1759742010
-    },
-    {
       "id": "4a97a767fac9",
       "title": "台瑞典國會議員協會訪台參與國慶 將晉見蕭副總統",
       "url": "https://udn.com/news/story/6656/9052997",
@@ -324,32 +352,11 @@
       "published": 1759740960
     },
     {
-      "id": "19d100724083",
-      "title": "上任不滿1個月 法國新總理勒克努請辭",
-      "url": "https://money.udn.com/money/story/5599/9052992",
-      "source": "money.udn.com",
-      "published": 1759739435
-    },
-    {
       "id": "7fa1aa05dbfe",
       "title": "展現國軍訓練成果...國慶預演登場 雷虎小組彩煙空中亮相",
       "url": "https://udn.com/news/story/10930/9052983",
       "source": "udn.com",
       "published": 1759738404
-    },
-    {
-      "id": "45a08e13afe0",
-      "title": "上任不到1個月 法媒：法國新總理勒克努請辭",
-      "url": "https://money.udn.com/money/story/5599/9052976",
-      "source": "money.udn.com",
-      "published": 1759738008
-    },
-    {
-      "id": "15d0ea2ad72a",
-      "title": "郝龍斌說去勘災卻現身宜蘭餐會 照片外流掀風暴點名「戰犯」他駁斥",
-      "url": "https://udn.com/news/story/122404/9052973",
-      "source": "udn.com",
-      "published": 1759737863
     },
     {
       "id": "6708a43b9e75",
@@ -602,13 +609,6 @@
       "url": "https://www.dw.com/zh/落实特朗普和平计划-德国外长出访中东/a-74241171?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759659300
-    },
-    {
-      "id": "f8ae6e8fdfcf",
-      "title": "高市早苗当选自民党总裁  美中韩舆论纷纷表示担忧",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251005-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E8%87%AA%E6%B0%91%E5%85%9A%E6%80%BB%E8%A3%81-%E7%BE%8E%E4%B8%AD%E9%9F%A9%E8%88%86%E8%AE%BA%E7%BA%B7%E7%BA%B7%E8%A1%A8%E7%A4%BA%E6%8B%85%E5%BF%A7",
-      "source": "rfi.fr",
-      "published": 1759654613
     },
     {
       "id": "d279e0e2174e",
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1759753148
+  "build_id": 1759755734
 }
