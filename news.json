@@ -1,6 +1,34 @@
 {
-  "updated": 1759790128,
+  "updated": 1759792126,
   "items": [
+    {
+      "id": "1fec77bd3ced",
+      "title": "那指和標普500指數再創新高 AMD和OpenAI交易為AI題材煽火",
+      "url": "https://money.udn.com/money/story/123398/9053676",
+      "source": "money.udn.com",
+      "published": 1759791810
+    },
+    {
+      "id": "0b505e2bf70d",
+      "title": "周一是法国政坛疯狂的一天，新总理被“决裂”反噬",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251006-%E5%91%A8%E4%B8%80%E6%98%AF%E6%B3%95%E5%9B%BD%E6%94%BF%E5%9D%9B%E7%96%AF%E7%8B%82%E7%9A%84%E4%B8%80%E5%A4%A9%EF%BC%8C%E6%96%B0%E6%80%BB%E7%90%86%E8%A2%AB-%E5%86%B3%E8%A3%82-%E5%8F%8D%E5%99%AC",
+      "source": "rfi.fr",
+      "published": 1759791679
+    },
+    {
+      "id": "b2212f88193d",
+      "title": "駐泰代表處國慶酒會 政要出席展現台泰緊密情誼",
+      "url": "https://udn.com/news/story/6656/9053517",
+      "source": "udn.com",
+      "published": 1759790885
+    },
+    {
+      "id": "8d853c639307",
+      "title": "柯文哲今天登板作證 5共犯「做球」他如何接招？",
+      "url": "https://udn.com/news/story/6656/9053662",
+      "source": "udn.com",
+      "published": 1759790627
+    },
     {
       "id": "dbd99f1c4364",
       "title": "部署國民兵遭法院阻擋 川普：必要時動用反叛亂法",
@@ -191,13 +219,6 @@
       "published": 1759771652
     },
     {
-      "id": "47a9501a236e",
-      "title": "法國政治危機未解　歐洲股市收低",
-      "url": "https://money.udn.com/money/story/5599/9053585",
-      "source": "money.udn.com",
-      "published": 1759771270
-    },
-    {
       "id": "60f0aee5e599",
       "title": "越南最高领导人苏林本周将访问朝鲜",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251006-%E8%B6%8A%E5%8D%97%E6%9C%80%E9%AB%98%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%8B%8F%E6%9E%97%E6%9C%AC%E5%91%A8%E5%B0%86%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C",
@@ -227,7 +248,7 @@
     },
     {
       "id": "73f66ee9aaa2",
-      "title": "原駐金門…海龍蛙兵移防澎湖 部署紅色沙灘",
+      "title": "國軍精銳…海龍蛙兵移防澎湖 美軍不再赴金門協訓",
       "url": "https://udn.com/news/story/10930/9053535",
       "source": "udn.com",
       "published": 1759767493
@@ -313,20 +334,6 @@
       "id": "d0821df47712",
       "title": "歷史上的今天／1960年日本婦人實業團抵台參加國慶大典",
       "url": "https://udn.com/news/story/7314/9052370",
-      "source": "udn.com",
-      "published": 1759766400
-    },
-    {
-      "id": "297ed113bf03",
-      "title": "「2025台灣設計展－彰化行」　即將開「彰」",
-      "url": "https://udn.com/news/story/7314/9031011",
-      "source": "udn.com",
-      "published": 1759766400
-    },
-    {
-      "id": "ec107c4bd3ad",
-      "title": "布局新北 黃國昌競辦籌備中",
-      "url": "https://udn.com/news/story/6656/9053512",
       "source": "udn.com",
       "published": 1759766400
     },
@@ -595,13 +602,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251005-%E5%8F%B0%E9%A3%8E-%E9%BA%A6%E5%BE%B7%E5%A7%86-%E7%99%BB%E9%99%86%E4%B8%AD%E5%9B%BD%E6%B2%BF%E6%B5%B7%E6%95%B0%E5%8D%81%E4%B8%87%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%BD%AC%E7%A7%BB",
       "source": "rfi.fr",
       "published": 1759676947
-    },
-    {
-      "id": "09c4436230a3",
-      "title": "中国外长王毅将访意大利和瑞士",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251005-%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E5%B0%86%E8%AE%BF%E6%84%8F%E5%A4%A7%E5%88%A9%E5%92%8C%E7%91%9E%E5%A3%AB",
-      "source": "rfi.fr",
-      "published": 1759676285
     },
     {
       "id": "53076017c509",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1759790128
+  "build_id": 1759792126
 }
