@@ -1,6 +1,27 @@
 {
-  "updated": 1759874942,
+  "updated": 1759876556,
   "items": [
+    {
+      "id": "8c182e3d88f3",
+      "title": "抵御中国碾压 欧盟要将钢铁关税加倍进口配额减半",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251007-%E6%8A%B5%E5%BE%A1%E4%B8%AD%E5%9B%BD%E7%A2%BE%E5%8E%8B-%E6%AC%A7%E7%9B%9F%E8%A6%81%E5%B0%86%E9%92%A2%E9%93%81%E5%85%B3%E7%A8%8E%E5%8A%A0%E5%80%8D%E8%BF%9B%E5%8F%A3%E9%85%8D%E9%A2%9D%E5%87%8F%E5%8D%8A",
+      "source": "rfi.fr",
+      "published": 1759876073
+    },
+    {
+      "id": "43bf03d6db3e",
+      "title": "马克龙“众叛亲离”  极端党派等待时机",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251007-%E9%A9%AC%E5%85%8B%E9%BE%99-%E4%BC%97%E5%8F%9B%E4%BA%B2%E7%A6%BB-%E6%9E%81%E7%AB%AF%E5%85%9A%E6%B4%BE%E7%AD%89%E5%BE%85%E6%97%B6%E6%9C%BA",
+      "source": "rfi.fr",
+      "published": 1759875600
+    },
+    {
+      "id": "46411721b45e",
+      "title": "「挖土機超人」辭世 曾說救災沒完成不回桃園 他記錄林鴻森最後的溫柔",
+      "url": "https://udn.com/news/story/124615/9056179",
+      "source": "udn.com",
+      "published": 1759874862
+    },
     {
       "id": "5d4ad7310d75",
       "title": "【總編開箱】閣揆立委為洪災鬥嘴 政治口水的堰塞湖何時能清",
@@ -79,9 +100,9 @@
       "published": 1759863607
     },
     {
-      "id": "4dfbc53f6a19",
+      "id": "7f175821167a",
       "title": "賴總統喊話川普 讓習放棄武力攻台",
-      "url": "https://udn.com/news/story/6656/9055961",
+      "url": "https://udn.com/news/story/10930/9055961",
       "source": "udn.com",
       "published": 1759860844
     },
@@ -301,13 +322,6 @@
       "url": "https://udn.com/news/story/6656/9055933",
       "source": "udn.com",
       "published": 1759853685
-    },
-    {
-      "id": "44deea7ff843",
-      "title": "藍主席台中政見會 候選人打「尊盧牌」",
-      "url": "https://udn.com/news/story/122404/9055931",
-      "source": "udn.com",
-      "published": 1759853624
     },
     {
       "id": "b51296ed1d8f",
@@ -567,20 +581,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251006-%E9%87%91%E6%AD%A3%E6%81%A9%E8%A7%86%E5%AF%9F%E6%96%B0%E5%9E%8B5000%E5%90%A8%E7%BA%A7%E9%A9%B1%E9%80%90%E8%88%B0-%E9%9F%A9%E5%9B%BD%E7%96%91%E4%BF%84%E6%8F%B4%E5%BB%BA%E9%80%A0",
       "source": "rfi.fr",
       "published": 1759771789
-    },
-    {
-      "id": "60f0aee5e599",
-      "title": "越南最高领导人苏林本周将访问朝鲜",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251006-%E8%B6%8A%E5%8D%97%E6%9C%80%E9%AB%98%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%8B%8F%E6%9E%97%E6%9C%AC%E5%91%A8%E5%B0%86%E8%AE%BF%E9%97%AE%E6%9C%9D%E9%B2%9C",
-      "source": "rfi.fr",
-      "published": 1759770053
-    },
-    {
-      "id": "1fb06b55eb18",
-      "title": "美国政府停摆进入第二周 预算僵局持续 特朗普宣布首批裁员",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251006-%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E8%BF%9B%E5%85%A5%E7%AC%AC%E4%BA%8C%E5%91%A8-%E9%A2%84%E7%AE%97%E5%83%B5%E5%B1%80%E6%8C%81%E7%BB%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E9%A6%96%E6%89%B9%E8%A3%81%E5%91%98",
-      "source": "rfi.fr",
-      "published": 1759762651
     },
     {
       "id": "3b7c3a404d67",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1759874942
+  "build_id": 1759876556
 }
