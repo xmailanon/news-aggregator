@@ -1,10 +1,24 @@
 {
-  "updated": 1759878537,
+  "updated": 1759879911,
   "items": [
     {
-      "id": "c3d20c43c99c",
-      "title": "AI獲利能力疑慮升溫 美股回落 台積電ADR挫近3%",
-      "url": "https://money.udn.com/money/story/5599/9056197",
+      "id": "5a16dcdfadfb",
+      "title": "台積電ADR跌2.8% 較台北交易溢價25%",
+      "url": "https://money.udn.com/money/story/123398/9056213",
+      "source": "money.udn.com",
+      "published": 1759879785
+    },
+    {
+      "id": "ed68061c41cb",
+      "title": "批民主黨失控讓政府關門 川普：就像神風特攻隊攻擊",
+      "url": "https://money.udn.com/money/story/5599/9056207",
+      "source": "money.udn.com",
+      "published": 1759879072
+    },
+    {
+      "id": "be18e398e75a",
+      "title": "美股收盤／AI 獲利能力疑慮升溫 美股回落 台積電ADR挫近3%",
+      "url": "https://money.udn.com/money/story/123398/9056197",
       "source": "money.udn.com",
       "published": 1759878153
     },
@@ -231,20 +245,6 @@
       "url": "https://money.udn.com/money/story/5599/9055932",
       "source": "money.udn.com",
       "published": 1759859086
-    },
-    {
-      "id": "6ee968737a5a",
-      "title": "1分鐘看世界／法國政治癱瘓、財政赤字嚴重 兩大信評機構示警",
-      "url": "https://money.udn.com/money/story/5599/9056000",
-      "source": "money.udn.com",
-      "published": 1759859060
-    },
-    {
-      "id": "2e05f3478dac",
-      "title": "川普關稅大刀砍向重型卡車 在社群平台上宣布稅率25%",
-      "url": "https://money.udn.com/money/story/5599/9055873",
-      "source": "money.udn.com",
-      "published": 1759858983
     },
     {
       "id": "61f8a80562d7",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1759878537
+  "build_id": 1759879911
 }
