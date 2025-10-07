@@ -1,6 +1,27 @@
 {
-  "updated": 1759844596,
+  "updated": 1759846228,
   "items": [
+    {
+      "id": "619332862794",
+      "title": "美股早盤／三大指數齊揚 黃金期貨首破4,000美元大關",
+      "url": "https://money.udn.com/money/story/123398/9055782",
+      "source": "money.udn.com",
+      "published": 1759846030
+    },
+    {
+      "id": "da35a5230fd0",
+      "title": "與以色列間接談判停火　哈瑪斯：致力克服所有障礙",
+      "url": "https://money.udn.com/money/story/5599/9055771",
+      "source": "money.udn.com",
+      "published": 1759845636
+    },
+    {
+      "id": "b510b2db8074",
+      "title": "巴布亞紐幾內亞發生規模6.6地震",
+      "url": "https://money.udn.com/money/story/5599/9055755",
+      "source": "money.udn.com",
+      "published": 1759844972
+    },
     {
       "id": "b45d15d244cc",
       "title": "極端降雨衝擊印度產茶區大吉嶺　約5%茶園全毀",
@@ -294,27 +315,6 @@
       "url": "https://udn.com/news/story/6656/9055435",
       "source": "udn.com",
       "published": 1759833407
-    },
-    {
-      "id": "7943c763f22c",
-      "title": "菲日航空演習登場  相互准入協定生效後首次",
-      "url": "https://money.udn.com/money/story/5599/9055439",
-      "source": "money.udn.com",
-      "published": 1759833391
-    },
-    {
-      "id": "8aa037f679f7",
-      "title": "IBM發表可大幅減少記憶體用量的「小語言模型」 Granite 4.0",
-      "url": "https://money.udn.com/money/story/5599/9055431",
-      "source": "money.udn.com",
-      "published": 1759833208
-    },
-    {
-      "id": "3ffa7e8a8f6d",
-      "title": "中美AI競賽升溫 白宮AI主管稱中國為主要對手 支持晶片出口維持優勢",
-      "url": "https://money.udn.com/money/story/5599/9055418",
-      "source": "money.udn.com",
-      "published": 1759832875
     },
     {
       "id": "32138ad5676e",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1759844596
+  "build_id": 1759846228
 }
