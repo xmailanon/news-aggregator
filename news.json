@@ -1,5 +1,5 @@
 {
-  "updated": 1759860870,
+  "updated": 1759862750,
   "items": [
     {
       "id": "60fcb560c23f",
@@ -91,6 +91,13 @@
       "url": "https://money.udn.com/money/story/10511/9056107",
       "source": "money.udn.com",
       "published": 1759858243
+    },
+    {
+      "id": "61f8a80562d7",
+      "title": "Meta 建新海纜連結台灣、亞太 建構強大通訊網絡 預計2028年完工",
+      "url": "https://udn.com/news/story/7314/9055847",
+      "source": "udn.com",
+      "published": 1759858116
     },
     {
       "id": "adaa27c4c9a4",
@@ -280,13 +287,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251007-%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E7%9A%84%E6%94%BB%E5%8A%BF",
       "source": "rfi.fr",
       "published": 1759850055
-    },
-    {
-      "id": "39225e8e0e48",
-      "title": "美國防部助理部長提名人：支持川普要求台灣國防支出達GDP 10%",
-      "url": "https://udn.com/news/story/10930/9055883",
-      "source": "udn.com",
-      "published": 1759849747
     },
     {
       "id": "e551f8ec24a2",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1759860870
+  "build_id": 1759862750
 }
