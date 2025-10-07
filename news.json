@@ -1,12 +1,40 @@
 {
-  "updated": 1759808661,
+  "updated": 1759810304,
   "items": [
+    {
+      "id": "2a5023b27964",
+      "title": "OpenAI重金結盟超微遭遇難題！蘇姿丰認了「要先搞定這件事」",
+      "url": "https://money.udn.com/money/story/5599/9054439",
+      "source": "money.udn.com",
+      "published": 1759810275
+    },
+    {
+      "id": "7ecec5fed6a7",
+      "title": "梅克爾：波海3國與波蘭阻歐俄對話　之後俄國侵烏",
+      "url": "https://money.udn.com/money/story/5599/9054401",
+      "source": "money.udn.com",
+      "published": 1759809660
+    },
+    {
+      "id": "46da6f95c966",
+      "title": "李洋質詢首秀遭問運動部人事獨大 卓榮泰幫緩頰：都是看專長",
+      "url": "https://udn.com/news/story/6656/9054372",
+      "source": "udn.com",
+      "published": 1759809116
+    },
     {
       "id": "c485997e4185",
       "title": "白河水庫排砂釀災 農地成免費滯洪池  農民憂急水溪成馬太鞍溪第二",
       "url": "https://udn.com/news/story/10930/9054362",
       "source": "udn.com",
       "published": 1759808931
+    },
+    {
+      "id": "c397c5343f99",
+      "title": "確診「多動症」後  中國Z世代把ADHD用作了流行社交標籤",
+      "url": "https://www.bbc.com/zhongwen/articles/cz08zex8m0jo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1759808729
     },
     {
       "id": "aa5e04af8c9c",
@@ -16,9 +44,9 @@
       "published": 1759808718
     },
     {
-      "id": "6f4ab293c61c",
+      "id": "c30830cca016",
       "title": "光復國中棒球場遭沖毀修復要一年 選手移地訓練校方盼補助交通車",
-      "url": "https://udn.com/news/story/6656/9054327",
+      "url": "https://udn.com/news/story/124615/9054327",
       "source": "udn.com",
       "published": 1759808524
     },
@@ -205,13 +233,6 @@
       "published": 1759805943
     },
     {
-      "id": "539342de9423",
-      "title": "「挖土機超人」敗血症過世 賴總統、卓榮泰哀悼",
-      "url": "https://udn.com/news/story/124616/9054145",
-      "source": "udn.com",
-      "published": 1759805908
-    },
-    {
       "id": "ffc2729f3070",
       "title": "美政府何時重啟？10月15日或成妥協關鍵 但賭盤說關門延長機率逾70%",
       "url": "https://money.udn.com/money/story/5599/9054110",
@@ -266,20 +287,6 @@
       "url": "https://money.udn.com/money/story/10511/9037200",
       "source": "money.udn.com",
       "published": 1759801195
-    },
-    {
-      "id": "633dc97c570a",
-      "title": "高市顧問本田暗示日銀12月再升息較妥當 日圓若貶破150就太過了",
-      "url": "https://money.udn.com/money/story/5599/9053861",
-      "source": "money.udn.com",
-      "published": 1759801146
-    },
-    {
-      "id": "84cf133005c0",
-      "title": "美國股指期貨走強 標普500指數勢創至少2013年以來最佳9月表現",
-      "url": "https://money.udn.com/money/story/123398/9037275",
-      "source": "money.udn.com",
-      "published": 1759801133
     },
     {
       "id": "fca2a66b9700",
@@ -812,13 +819,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cy502vpwqndo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1759376634
-    },
-    {
-      "id": "3465e5f13bf4",
-      "title": "膠原蛋白：喝的？注射的？還是塗在皮膚上？真的有效嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/ce9rmj5mrd7o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1759364271
     },
     {
       "id": "116a1d375501",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1759808661
+  "build_id": 1759810304
 }
