@@ -1,12 +1,26 @@
 {
-  "updated": 1759848074,
+  "updated": 1759849834,
   "items": [
+    {
+      "id": "e551f8ec24a2",
+      "title": "美國防部助理部長提名人：支持川普要求台灣國防支出達GDP 10%",
+      "url": "https://money.udn.com/money/story/5599/9055883",
+      "source": "money.udn.com",
+      "published": 1759849726
+    },
     {
       "id": "46584fb9af34",
       "title": "俄罗斯周二称拦截了209架乌克兰无人机",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251007-%E4%BF%84%E7%BD%97%E6%96%AF%E5%91%A8%E4%BA%8C%E7%A7%B0%E6%8B%A6%E6%88%AA%E4%BA%86209%E6%9E%B6%E4%B9%8C%E5%85%8B%E5%85%B0%E6%97%A0%E4%BA%BA%E6%9C%BA",
       "source": "rfi.fr",
       "published": 1759847939
+    },
+    {
+      "id": "70f5bb6742c9",
+      "title": "德國小鎮新市長遭持刀攻擊重傷　總理梅爾茨譴責",
+      "url": "https://money.udn.com/money/story/5599/9055822",
+      "source": "money.udn.com",
+      "published": 1759847772
     },
     {
       "id": "8069a7a6b795",
@@ -268,13 +282,6 @@
       "published": 1759835554
     },
     {
-      "id": "104807033f4f",
-      "title": "諾貝爾物理學獎揭曉　3學者研究量子力學獲表彰",
-      "url": "https://money.udn.com/money/story/5599/9055501",
-      "source": "money.udn.com",
-      "published": 1759835554
-    },
-    {
       "id": "f59ed69deec8",
       "title": "愛心湧入花蓮 災區家電捐贈超過2000件",
       "url": "https://udn.com/news/story/124615/9055491",
@@ -287,13 +294,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251007-%E4%B8%A4%E5%B9%B4%E8%A1%80%E4%B8%8E%E7%81%AB-%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E4%BA%86%E4%B8%96%E7%95%8C",
       "source": "rfi.fr",
       "published": 1759835308
-    },
-    {
-      "id": "e3a73d6694ec",
-      "title": "蘋果前設計總監艾夫談正在開發的 AI 裝置：應該有趣、直觀、減少焦慮",
-      "url": "https://money.udn.com/money/story/5599/9055488",
-      "source": "money.udn.com",
-      "published": 1759835212
     },
     {
       "id": "f172041da8a7",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1759848074
+  "build_id": 1759849834
 }
