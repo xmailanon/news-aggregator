@@ -1,6 +1,13 @@
 {
-  "updated": 1759869429,
+  "updated": 1759871312,
   "items": [
+    {
+      "id": "c12089720f0f",
+      "title": "加薩戰爭有望終結？川普稱存在「真正的機會」",
+      "url": "https://money.udn.com/money/story/10511/9056145",
+      "source": "money.udn.com",
+      "published": 1759870477
+    },
     {
       "id": "d141e27eb164",
       "title": "美國防部準印太官員：台灣軍隊需進行重大動員改革",
@@ -294,13 +301,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251007-%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E7%9A%84%E6%94%BB%E5%8A%BF",
       "source": "rfi.fr",
       "published": 1759850055
-    },
-    {
-      "id": "e551f8ec24a2",
-      "title": "美國防部助理部長提名人：支持川普要求台灣國防支出達 GDP 10%",
-      "url": "https://money.udn.com/money/story/5599/9055883",
-      "source": "money.udn.com",
-      "published": 1759849726
     },
     {
       "id": "46584fb9af34",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1759869429
+  "build_id": 1759871312
 }
