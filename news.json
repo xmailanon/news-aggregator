@@ -1,6 +1,90 @@
 {
-  "updated": 1759829847,
+  "updated": 1759831825,
   "items": [
+    {
+      "id": "eb009dd6a9e5",
+      "title": "諾貝爾物理學獎　英法美3學者共享殊榮",
+      "url": "https://money.udn.com/money/story/5599/9055388",
+      "source": "money.udn.com",
+      "published": 1759831573
+    },
+    {
+      "id": "974a9ebfbb9c",
+      "title": "OpenAI 開發者大會揭櫫的策略核心：打造讓用戶離不開的 ChatGPT 生態系",
+      "url": "https://money.udn.com/money/story/5599/9055373",
+      "source": "money.udn.com",
+      "published": 1759831188
+    },
+    {
+      "id": "b584204a7aac",
+      "title": "超微拚攜手 OpenAI 加足馬力追趕輝達",
+      "url": "https://money.udn.com/money/story/122381/9055306",
+      "source": "money.udn.com",
+      "published": 1759831036
+    },
+    {
+      "id": "bd370e8fc35b",
+      "title": "諾貝爾物理學獎得主出爐 3美國學者獲獎",
+      "url": "https://money.udn.com/money/story/5599/9055365",
+      "source": "money.udn.com",
+      "published": 1759830973
+    },
+    {
+      "id": "2dfa956bd795",
+      "title": "表態支持盧秀燕選2028 張亞中：但應透過黨內初選成候選人",
+      "url": "https://udn.com/news/story/122404/9055364",
+      "source": "udn.com",
+      "published": 1759830945
+    },
+    {
+      "id": "143764f832e3",
+      "title": "以色列哈瑪斯間接談判　消息人士稱進展正面將續談",
+      "url": "https://money.udn.com/money/story/5599/9055361",
+      "source": "money.udn.com",
+      "published": 1759830887
+    },
+    {
+      "id": "d8056973a0e4",
+      "title": "英國破獲手機走私團伙 涉運4萬部被盜手機至中國",
+      "url": "https://www.bbc.com/zhongwen/articles/cddmvvl0m71o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1759830463
+    },
+    {
+      "id": "652f1919e8a3",
+      "title": "科技股領漲　日股再創新高亞洲股市多收紅",
+      "url": "https://money.udn.com/money/story/5599/9055349",
+      "source": "money.udn.com",
+      "published": 1759830337
+    },
+    {
+      "id": "dcebfaa4d065",
+      "title": "華爾街大咖預言：金價五年內將漲破每英兩1萬美元",
+      "url": "https://money.udn.com/money/story/5599/9055341",
+      "source": "money.udn.com",
+      "published": 1759829973
+    },
+    {
+      "id": "05fd5a3d4186",
+      "title": "民眾黨團對總預算提復議 韓國瑜宣告：另定期處理",
+      "url": "https://udn.com/news/story/6656/9055335",
+      "source": "udn.com",
+      "published": 1759829942
+    },
+    {
+      "id": "31717a25c496",
+      "title": "國民黨主席之戰 鄭麗文要再創經濟奇蹟 「造出新的護國神山」",
+      "url": "https://udn.com/news/story/122404/9055329",
+      "source": "udn.com",
+      "published": 1759829895
+    },
+    {
+      "id": "aeba17fc6568",
+      "title": "卓榮泰指能源政策朝3方向走 承諾研擬公開台電長期供電數據",
+      "url": "https://udn.com/news/story/6656/9055330",
+      "source": "udn.com",
+      "published": 1759829884
+    },
     {
       "id": "9cf30fbf620e",
       "title": "英媒：疑似間諜破壞活動升溫　歐盟擬限制俄外交官旅行",
@@ -10,7 +94,7 @@
     },
     {
       "id": "d0fce5eb82b7",
-      "title": "民進黨選對會拍板明年嘉市長人選 王美惠：承擔責任使命",
+      "title": "民進黨選對會拍板2026嘉義市長人選 王美惠：承擔責任使命",
       "url": "https://udn.com/news/story/6656/9055312",
       "source": "udn.com",
       "published": 1759829790
@@ -72,9 +156,16 @@
       "published": 1759828383
     },
     {
-      "id": "62cb9332422e",
+      "id": "983953b06294",
+      "title": "哈马斯如今还剩多少实力？",
+      "url": "https://www.dw.com/zh/哈马斯如今还剩多少实力？/a-74260310?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1759828380
+    },
+    {
+      "id": "3faac40d1ef1",
       "title": "韓中外長通話  討論習近平出席APEC事宜",
-      "url": "https://money.udn.com/money/story/10511/9055272",
+      "url": "https://money.udn.com/money/story/5599/9055272",
       "source": "money.udn.com",
       "published": 1759828351
     },
@@ -156,39 +247,11 @@
       "published": 1759826052
     },
     {
-      "id": "73c243dddcf8",
-      "title": "民眾黨被喊勿成暴力仇恨代名詞 吳怡萱嗆：綠稱第二沒人敢說第一",
-      "url": "https://udn.com/news/story/6656/9055171",
-      "source": "udn.com",
-      "published": 1759826044
-    },
-    {
-      "id": "405d684dbd1c",
-      "title": "交通部供花蓮災區受損車輛慰問金 機車1萬元 汽車、重機5萬元",
-      "url": "https://udn.com/news/story/124616/9055169",
-      "source": "udn.com",
-      "published": 1759825978
-    },
-    {
       "id": "f99a210ffc8f",
       "title": "荷蘭貨輪亞丁灣遭葉門叛軍襲擊　菲籍船員傷重不治",
       "url": "https://money.udn.com/money/story/5599/9055155",
       "source": "money.udn.com",
       "published": 1759825841
-    },
-    {
-      "id": "1e0f5e721b75",
-      "title": "「挖土機超人」赴花蓮救災受傷亡 兒以父親義舉為傲、親友讚好心腸",
-      "url": "https://udn.com/news/story/124615/9055147",
-      "source": "udn.com",
-      "published": 1759825762
-    },
-    {
-      "id": "dfabc4dd3915",
-      "title": "民進黨2026選對會拍板 王美惠選嘉義市、台東縣由陳瑩出戰",
-      "url": "https://udn.com/news/story/6656/9055145",
-      "source": "udn.com",
-      "published": 1759825722
     },
     {
       "id": "321ea8ad635b",
@@ -282,60 +345,11 @@
       "published": 1759821684
     },
     {
-      "id": "682b9f9ffdde",
-      "title": "消息人士：聖母峰東坡最後一批受困健行者展開撤離",
-      "url": "https://money.udn.com/money/story/5599/9054906",
-      "source": "money.udn.com",
-      "published": 1759821138
-    },
-    {
-      "id": "4e4e9251ef65",
-      "title": "醫療直升機墜毀加州高速公路　現場畫面曝光",
-      "url": "https://money.udn.com/money/story/5599/9054905",
-      "source": "money.udn.com",
-      "published": 1759821138
-    },
-    {
       "id": "ae4ad3fda963",
       "title": "數學教育：是否有人天生不擅長這一科目？",
       "url": "https://www.bbc.com/zhongwen/articles/czrpzxee7k2o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1759820657
-    },
-    {
-      "id": "46718a5081fc",
-      "title": "日圓貶拉抬出口股　日股收漲",
-      "url": "https://money.udn.com/money/story/5599/9054879",
-      "source": "money.udn.com",
-      "published": 1759820440
-    },
-    {
-      "id": "ceb612754bee",
-      "title": "金價「異常飆漲」之下 澳洲黃金出口將首度超越液化天然氣",
-      "url": "https://money.udn.com/money/story/5599/9054864",
-      "source": "money.udn.com",
-      "published": 1759820046
-    },
-    {
-      "id": "c0fc56a9f7ac",
-      "title": "印尼寄宿學校倒塌搜救行動結束　罹難人數增至67人",
-      "url": "https://money.udn.com/money/story/5599/9054848",
-      "source": "money.udn.com",
-      "published": 1759819537
-    },
-    {
-      "id": "46564b2db4ca",
-      "title": "彭博揭台灣7月輸美有效關稅遠低於日韓 但關鍵在8月",
-      "url": "https://money.udn.com/money/story/5599/9054845",
-      "source": "money.udn.com",
-      "published": 1759819369
-    },
-    {
-      "id": "bd184d9aca90",
-      "title": "ChatGPT 啟動新功能 幫你訂飯店、找房子更有智慧",
-      "url": "https://money.udn.com/money/story/5599/9054832",
-      "source": "money.udn.com",
-      "published": 1759818979
     },
     {
       "id": "6181cc726c85",
@@ -728,13 +742,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cyv6l83vdgno/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1759631665
-    },
-    {
-      "id": "c6ee4a80c47b",
-      "title": "美资深参议员欲加压中国 以遏制北京攻台",
-      "url": "https://www.dw.com/zh/美资深参议员欲加压中国-以遏制北京攻台/a-74236167?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1759586880
     },
     {
       "id": "97bce4c4a182",
@@ -1297,13 +1304,6 @@
       "published": 1758721320
     },
     {
-      "id": "643d1627ad54",
-      "title": "颱風樺加沙侵襲中港台 花蓮堰塞湖溢流致15人死亡",
-      "url": "https://www.bbc.com/zhongwen/articles/cn4ldglne9jo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1758714636
-    },
-    {
       "id": "4b6e5cc7a1b3",
       "title": "「H-1B難民」：特朗普政府「天價簽證費」引發華人群體恐慌",
       "url": "https://www.bbc.com/zhongwen/articles/cm280l54q65o/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1759829847
+  "build_id": 1759831825
 }
