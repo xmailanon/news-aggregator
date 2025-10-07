@@ -1,6 +1,76 @@
 {
-  "updated": 1759836729,
+  "updated": 1759839564,
   "items": [
+    {
+      "id": "f083b0dfd71f",
+      "title": "「川普投顧」點股成金 投資人熱搜「下一個是誰」",
+      "url": "https://money.udn.com/money/story/5599/9055642",
+      "source": "money.udn.com",
+      "published": 1759839521
+    },
+    {
+      "id": "99dc63211f60",
+      "title": "日本在野黨籲聯手推首相候選人  自公聯盟協商陷僵局",
+      "url": "https://money.udn.com/money/story/5599/9055628",
+      "source": "money.udn.com",
+      "published": 1759839127
+    },
+    {
+      "id": "5e6e744aafd1",
+      "title": "台南特搜隊與搜救犬10日將再赴花蓮第一線 不放棄任何一位失聯者",
+      "url": "https://udn.com/news/story/124616/9055620",
+      "source": "udn.com",
+      "published": 1759839102
+    },
+    {
+      "id": "2058e8fca30c",
+      "title": "美國汽車相關企業接連破產、信貸市場風險升溫 為何可能重演次貸危機？",
+      "url": "https://money.udn.com/money/story/120769/9048938",
+      "source": "money.udn.com",
+      "published": 1759838968
+    },
+    {
+      "id": "f51d5c9cd2ed",
+      "title": "不滿藍營影射與盜砂案有關 賴瑞隆：明天將告柯志恩、許采蓁",
+      "url": "https://udn.com/news/story/6656/9055581",
+      "source": "udn.com",
+      "published": 1759838349
+    },
+    {
+      "id": "1f0fc12d0682",
+      "title": "泰國台商團國慶返台 劉建國接機感謝維護主權尊嚴",
+      "url": "https://udn.com/news/story/6656/9055552",
+      "source": "udn.com",
+      "published": 1759837959
+    },
+    {
+      "id": "89f9026008a6",
+      "title": "巴布亞紐幾內亞發生規模6.8地震　深度10公里",
+      "url": "https://money.udn.com/money/story/5599/9055554",
+      "source": "money.udn.com",
+      "published": 1759837532
+    },
+    {
+      "id": "a0506f8a272b",
+      "title": "花蓮洪災專案募款破10億元 百萬以上捐款近90筆",
+      "url": "https://udn.com/news/story/124615/9055500",
+      "source": "udn.com",
+      "published": 1759837391
+    },
+    {
+      "id": "a5d4d3c74388",
+      "title": "布局2026選戰！民進黨台南市長民調時程喬不攏 擬延至明年1月中開跑",
+      "url": "https://udn.com/news/story/6656/9055492",
+      "source": "udn.com",
+      "published": 1759837269
+    },
+    {
+      "id": "64b1c253817d",
+      "title": "「挖土機超人」林鴻森過世 桃議長邱奕勝籲給最實質的關懷",
+      "url": "https://udn.com/news/story/124615/9055538",
+      "source": "udn.com",
+      "published": 1759837069
+    },
     {
       "id": "7663317f189f",
       "title": "聯合報新聞部啓事",
@@ -10,7 +80,7 @@
     },
     {
       "id": "8f5da7d796ea",
-      "title": "特斯拉預計10/7公布低價Model Y　力拚重振銷售",
+      "title": "特斯拉預計10月7日公布低價Model Y　力拚重振銷售",
       "url": "https://money.udn.com/money/story/5599/9055511",
       "source": "money.udn.com",
       "published": 1759836096
@@ -23,16 +93,16 @@
       "published": 1759835944
     },
     {
-      "id": "104807033f4f",
-      "title": "諾貝爾物理學獎揭曉　3學者研究量子力學獲表彰",
-      "url": "https://money.udn.com/money/story/5599/9055501",
+      "id": "5747546b42e1",
+      "title": "金融時報：OpenAI已簽下30兆元算力合約　財力受質疑",
+      "url": "https://money.udn.com/money/story/5599/9055502",
       "source": "money.udn.com",
       "published": 1759835554
     },
     {
-      "id": "5747546b42e1",
-      "title": "金融時報：OpenAI已簽下30兆元算力合約　財力受質疑",
-      "url": "https://money.udn.com/money/story/5599/9055502",
+      "id": "104807033f4f",
+      "title": "諾貝爾物理學獎揭曉　3學者研究量子力學獲表彰",
+      "url": "https://money.udn.com/money/story/5599/9055501",
       "source": "money.udn.com",
       "published": 1759835554
     },
@@ -52,7 +122,7 @@
     },
     {
       "id": "e3a73d6694ec",
-      "title": "蘋果前設計總監艾夫談正在開發的AI裝置：應該有趣、直觀、減少焦慮",
+      "title": "蘋果前設計總監艾夫談正在開發的 AI 裝置：應該有趣、直觀、減少焦慮",
       "url": "https://money.udn.com/money/story/5599/9055488",
       "source": "money.udn.com",
       "published": 1759835212
@@ -240,39 +310,11 @@
       "published": 1759829973
     },
     {
-      "id": "05fd5a3d4186",
-      "title": "民眾黨團對總預算提復議 韓國瑜宣告：另定期處理",
-      "url": "https://udn.com/news/story/6656/9055335",
-      "source": "udn.com",
-      "published": 1759829942
-    },
-    {
-      "id": "31717a25c496",
-      "title": "國民黨主席之戰 鄭麗文要再創經濟奇蹟 「造出新的護國神山」",
-      "url": "https://udn.com/news/story/122404/9055329",
-      "source": "udn.com",
-      "published": 1759829895
-    },
-    {
-      "id": "aeba17fc6568",
-      "title": "卓榮泰指能源政策朝3方向走 承諾研擬公開台電長期供電數據",
-      "url": "https://udn.com/news/story/6656/9055330",
-      "source": "udn.com",
-      "published": 1759829884
-    },
-    {
       "id": "9cf30fbf620e",
       "title": "英媒：疑似間諜破壞活動升溫　歐盟擬限制俄外交官旅行",
       "url": "https://money.udn.com/money/story/5599/9055328",
       "source": "money.udn.com",
       "published": 1759829820
-    },
-    {
-      "id": "d0fce5eb82b7",
-      "title": "民進黨選對會拍板2026嘉義市長人選 王美惠：承擔責任使命",
-      "url": "https://udn.com/news/story/6656/9055312",
-      "source": "udn.com",
-      "published": 1759829790
     },
     {
       "id": "b7d32b3dc1e2",
@@ -282,27 +324,6 @@
       "published": 1759829089
     },
     {
-      "id": "fb6014c6c0db",
-      "title": "藍營將修地方制度法列優先 顏若芳轟：基層大失血高層先補官？",
-      "url": "https://udn.com/news/story/6656/9055298",
-      "source": "udn.com",
-      "published": 1759829053
-    },
-    {
-      "id": "5d069cdf1130",
-      "title": "三菱日聯銀行監守自盜案　東京地院判9年徒刑",
-      "url": "https://money.udn.com/money/story/5599/9055293",
-      "source": "money.udn.com",
-      "published": 1759828949
-    },
-    {
-      "id": "5b3d84fe6897",
-      "title": "林國成質詢美濃砂石案稱「邁瑩大峽谷」 劉世芳：不要汙名化市長及立委",
-      "url": "https://udn.com/news/story/6656/9055289",
-      "source": "udn.com",
-      "published": 1759828828
-    },
-    {
       "id": "983953b06294",
       "title": "哈马斯如今还剩多少实力？",
       "url": "https://www.dw.com/zh/哈马斯如今还剩多少实力？/a-74260310?maca=chi-rss-chi-all-1127-rdf",
@@ -310,32 +331,11 @@
       "published": 1759828380
     },
     {
-      "id": "3faac40d1ef1",
-      "title": "韓中外長通話  討論習近平出席APEC事宜",
-      "url": "https://money.udn.com/money/story/5599/9055272",
-      "source": "money.udn.com",
-      "published": 1759828351
-    },
-    {
       "id": "46344802d11c",
       "title": "哈马斯袭击以色列两周年 联合国被要求谴责伊朗",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251007-%E5%93%88%E9%A9%AC%E6%96%AF%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%A4%E5%91%A8%E5%B9%B4-%E8%81%94%E5%90%88%E5%9B%BD%E8%A2%AB%E8%A6%81%E6%B1%82%E8%B0%B4%E8%B4%A3%E4%BC%8A%E6%9C%97",
       "source": "rfi.fr",
       "published": 1759828132
-    },
-    {
-      "id": "2df9cf64a452",
-      "title": "OpenAI營運長西莫：AI投資潮不是泡沫　而是新常態",
-      "url": "https://money.udn.com/money/story/5599/9055253",
-      "source": "money.udn.com",
-      "published": 1759828054
-    },
-    {
-      "id": "f99a210ffc8f",
-      "title": "荷蘭貨輪亞丁灣遭葉門叛軍襲擊　菲籍船員傷重不治",
-      "url": "https://money.udn.com/money/story/5599/9055155",
-      "source": "money.udn.com",
-      "published": 1759825841
     },
     {
       "id": "d32e32e0958b",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1759836729
+  "build_id": 1759839564
 }
