@@ -1,6 +1,41 @@
 {
-  "updated": 1759921686,
+  "updated": 1759923133,
   "items": [
+    {
+      "id": "a30deca694d8",
+      "title": "中國封鎖恐致台全面斷電 台灣加強能源儲備尋求美援",
+      "url": "https://udn.com/news/story/10930/9058117",
+      "source": "udn.com",
+      "published": 1759923048
+    },
+    {
+      "id": "4f837397e952",
+      "title": "中國遊客停擺 六年後台灣能靠東南亞旅客填補空缺嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c237d71pm35o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1759922180
+    },
+    {
+      "id": "55b23084bc91",
+      "title": "加拿大曼省溫尼伯僑社雨中升旗慶雙十  展現凝聚力",
+      "url": "https://money.udn.com/money/story/5599/9058143",
+      "source": "money.udn.com",
+      "published": 1759921943
+    },
+    {
+      "id": "00c2ca82766d",
+      "title": "唐獎得主又摘諾貝爾獎　6屆以來第4度",
+      "url": "https://money.udn.com/money/story/5599/9058136",
+      "source": "money.udn.com",
+      "published": 1759921573
+    },
+    {
+      "id": "8e8df458152a",
+      "title": "日英美科学家荣获2025年诺贝尔化学奖",
+      "url": "https://www.dw.com/zh/日英美科学家荣获2025年诺贝尔化学奖/a-74277461?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1759921260
+    },
     {
       "id": "e0c4db8b32e1",
       "title": "花蓮洪災重創光復鄉 中央災變中心：累計19死5失聯157傷",
@@ -17,7 +52,7 @@
     },
     {
       "id": "91c279368e91",
-      "title": "影／郝龍斌：兩岸和平不能全然寄望於川普 寧願賴清德放棄台獨",
+      "title": "影／郝龍斌：兩岸和平不能全寄望川普 寧願賴清德放棄台獨",
       "url": "https://udn.com/news/story/122404/9058112",
       "source": "udn.com",
       "published": 1759920349
@@ -240,13 +275,6 @@
       "published": 1759915492
     },
     {
-      "id": "51368fb4fc95",
-      "title": "郝龍斌新北造勢喊「五都未勝辭主席」 強調藍白合誓重返執政",
-      "url": "https://udn.com/news/story/122404/9057892",
-      "source": "udn.com",
-      "published": 1759915446
-    },
-    {
       "id": "c7bea20cbcde",
       "title": "諾獎前得主：未來將有更多女性獲得科學類諾貝爾獎",
       "url": "https://money.udn.com/money/story/5599/9057885",
@@ -336,20 +364,6 @@
       "url": "https://money.udn.com/money/story/5599/9057649",
       "source": "money.udn.com",
       "published": 1759910040
-    },
-    {
-      "id": "be8374c60dca",
-      "title": "富爸爸作者清崎：美元末日將至 快增持「這四種」資產",
-      "url": "https://money.udn.com/money/story/5599/9057647",
-      "source": "money.udn.com",
-      "published": 1759909993
-    },
-    {
-      "id": "11b09a9d0844",
-      "title": "美元默默升至兩個月高點 小摩說這一種數位貨幣會激發美元買盤",
-      "url": "https://money.udn.com/money/story/5599/9057585",
-      "source": "money.udn.com",
-      "published": 1759909050
     },
     {
       "id": "91e445454b9c",
@@ -679,13 +693,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cq8ej552eeqo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1759750210
-    },
-    {
-      "id": "23b4e8003dbe",
-      "title": "美国和日本科学家获得2025年诺贝尔医学奖",
-      "url": "https://www.dw.com/zh/美国和日本科学家获得2025年诺贝尔医学奖/a-74249688?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1759748340
     },
     {
       "id": "67948ffa1fd8",
@@ -1185,13 +1192,6 @@
       "published": 1758956400
     },
     {
-      "id": "1377d81943f7",
-      "title": "地下醫院、戰傷救護：台灣「韌性醫療」如何為戰爭做準備？",
-      "url": "https://www.bbc.com/zhongwen/articles/c77dk6glm2yo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1758879355
-    },
-    {
       "id": "871c873fb047",
       "title": "青年的呐喊：抗议之声点燃“亚洲之春”",
       "url": "https://cn.nytimes.com/opinion/20250926/asia-protest-youth-nepal-bangladesh/?utm_source=RSS",
@@ -1402,5 +1402,5 @@
       "published": 1757597760
     }
   ],
-  "build_id": 1759921686
+  "build_id": 1759923133
 }
