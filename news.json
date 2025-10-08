@@ -1,6 +1,20 @@
 {
-  "updated": 1759954254,
+  "updated": 1759955823,
   "items": [
+    {
+      "id": "6643dcdf648c",
+      "title": "以哈展開加薩停火談判　川普：本週末可能前往中東",
+      "url": "https://money.udn.com/money/story/10511/9058781",
+      "source": "money.udn.com",
+      "published": 1759955770
+    },
+    {
+      "id": "4a85db45fcf1",
+      "title": "加薩衝突和談樂觀？川普預告可能周末出發前往中東",
+      "url": "https://money.udn.com/money/story/5599/9058777",
+      "source": "money.udn.com",
+      "published": 1759954690
+    },
     {
       "id": "5e22b323f412",
       "title": "《世界报》: 马克龙遭自己人背叛 俄国幽灵船队秘密发射无人机",
@@ -156,13 +170,6 @@
       "published": 1759942491
     },
     {
-      "id": "844016d353ea",
-      "title": "AI熱潮與降息預期　歐股收高",
-      "url": "https://money.udn.com/money/story/5599/9058716",
-      "source": "money.udn.com",
-      "published": 1759941567
-    },
-    {
       "id": "615d469c5ac2",
       "title": "兵推弱點天然氣庫存僅11天 顧立雄：提升油料與彈藥儲備",
       "url": "https://udn.com/news/story/10930/9058673",
@@ -175,13 +182,6 @@
       "url": "https://udn.com/news/story/10930/9058675",
       "source": "udn.com",
       "published": 1759941124
-    },
-    {
-      "id": "2275ab9cc9c4",
-      "title": "黃仁勳透露 入股OpenAI 建直接合作關係",
-      "url": "https://money.udn.com/money/story/5599/9058563",
-      "source": "money.udn.com",
-      "published": 1759941059
     },
     {
       "id": "be16621ff583",
@@ -210,6 +210,13 @@
       "url": "https://udn.com/news/story/122404/9058708",
       "source": "udn.com",
       "published": 1759940689
+    },
+    {
+      "id": "f2bd610c776d",
+      "title": "美台兵推示警 我天然氣庫存只能撐11天",
+      "url": "https://udn.com/news/story/10930/9058549",
+      "source": "udn.com",
+      "published": 1759940424
     },
     {
       "id": "4226a23b2dbd",
@@ -301,13 +308,6 @@
       "url": "https://udn.com/news/story/122404/9058637",
       "source": "udn.com",
       "published": 1759937286
-    },
-    {
-      "id": "ee4abfd1d21f",
-      "title": "別讓「心病」縮短壽命！醫揭早逝三大關鍵因素 籲跨科整合照護助延命",
-      "url": "https://udn.com/news/story/7314/9058602",
-      "source": "udn.com",
-      "published": 1759936857
     },
     {
       "id": "f85a076402b5",
@@ -1402,5 +1402,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1759954254
+  "build_id": 1759955823
 }
