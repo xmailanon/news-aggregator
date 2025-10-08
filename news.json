@@ -1,6 +1,27 @@
 {
-  "updated": 1759951907,
+  "updated": 1759954254,
   "items": [
+    {
+      "id": "5e22b323f412",
+      "title": "《世界报》: 马克龙遭自己人背叛 俄国幽灵船队秘密发射无人机",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251008-%E4%B8%96%E7%95%8C%E6%8A%A5-%E9%A9%AC%E5%85%8B%E9%BE%99%E9%81%AD%E8%87%AA%E5%B7%B1%E4%BA%BA%E8%83%8C%E5%8F%9B-%E4%BF%84%E5%9B%BD%E5%B9%BD%E7%81%B5%E8%88%B9%E9%98%9F%E7%A7%98%E5%AF%86%E5%8F%91%E5%B0%84%E6%97%A0%E4%BA%BA%E6%9C%BA",
+      "source": "rfi.fr",
+      "published": 1759953962
+    },
+    {
+      "id": "c41a0fd60d03",
+      "title": "國際金價飆歷史高點　銀價也創新高",
+      "url": "https://money.udn.com/money/story/5599/9058772",
+      "source": "money.udn.com",
+      "published": 1759953282
+    },
+    {
+      "id": "5296c1f35b15",
+      "title": "2035年为共军犯台高风险期？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251008-2035%E5%B9%B4%E4%B8%BA%E5%85%B1%E5%86%9B%E7%8A%AF%E5%8F%B0%E9%AB%98%E9%A3%8E%E9%99%A9%E6%9C%9F",
+      "source": "rfi.fr",
+      "published": 1759953068
+    },
     {
       "id": "b2b9a2177520",
       "title": "以色列多數民眾盼結束加薩戰爭　近半數認為尼坦雅胡應立即下台",
@@ -161,13 +182,6 @@
       "url": "https://money.udn.com/money/story/5599/9058563",
       "source": "money.udn.com",
       "published": 1759941059
-    },
-    {
-      "id": "7b92638a7d11",
-      "title": "特斯拉平價車 分析師嫌貴",
-      "url": "https://money.udn.com/money/story/5599/9058572",
-      "source": "money.udn.com",
-      "published": 1759940987
     },
     {
       "id": "be16621ff583",
@@ -597,25 +611,11 @@
       "published": 1759851953
     },
     {
-      "id": "46584fb9af34",
-      "title": "俄罗斯周二称拦截了209架乌克兰无人机",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251007-%E4%BF%84%E7%BD%97%E6%96%AF%E5%91%A8%E4%BA%8C%E7%A7%B0%E6%8B%A6%E6%88%AA%E4%BA%86209%E6%9E%B6%E4%B9%8C%E5%85%8B%E5%85%B0%E6%97%A0%E4%BA%BA%E6%9C%BA",
-      "source": "rfi.fr",
-      "published": 1759847939
-    },
-    {
       "id": "8069a7a6b795",
       "title": "德语媒体：中国为何长期无缘诺贝尔科学奖项",
       "url": "https://www.dw.com/zh/德语媒体：中国为何长期无缘诺贝尔科学奖项/a-74266831?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759847520
-    },
-    {
-      "id": "0d30e662aa43",
-      "title": "为什么太阳能会加剧巴基斯坦的水危机？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20251007-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%AA%E9%98%B3%E8%83%BD%E4%BC%9A%E5%A2%9E%E5%8A%A0%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%9A%84%E6%B0%B4%E5%8D%B1%E6%9C%BA",
-      "source": "rfi.fr",
-      "published": 1759843494
     },
     {
       "id": "11fe23f38928",
@@ -1402,5 +1402,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1759951907
+  "build_id": 1759954254
 }
