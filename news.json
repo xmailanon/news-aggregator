@@ -1,6 +1,34 @@
 {
-  "updated": 1760028306,
+  "updated": 1760029727,
   "items": [
+    {
+      "id": "0dffe63128a8",
+      "title": "黃仁勳：AI需求大幅增加 算力呈指數成長",
+      "url": "https://money.udn.com/money/story/5599/9061209",
+      "source": "money.udn.com",
+      "published": 1760028969
+    },
+    {
+      "id": "2384008c7b39",
+      "title": "歐股收盤走勢分歧　法蘭克福DAX指數再創新高",
+      "url": "https://money.udn.com/money/story/5599/9061386",
+      "source": "money.udn.com",
+      "published": 1760028848
+    },
+    {
+      "id": "2ab366dff452",
+      "title": "与审查者同行 中国出版业近十年的变迁",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%AD%E5%8D%8E%E4%B8%96%E7%95%8C/20251009-%E4%B8%8E%E5%AE%A1%E6%9F%A5%E8%80%85%E5%90%8C%E8%A1%8C-%E4%B8%AD%E5%9B%BD%E5%87%BA%E7%89%88%E4%B8%9A%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%98%E8%BF%81",
+      "source": "rfi.fr",
+      "published": 1760028403
+    },
+    {
+      "id": "04fa6abeb5a4",
+      "title": "OpenAI暗示不會下單英特爾",
+      "url": "https://money.udn.com/money/story/5599/9061247",
+      "source": "money.udn.com",
+      "published": 1760028347
+    },
     {
       "id": "fd8e344f609d",
       "title": "歐洲央行管委 Escriva 表示降息未必是下一步舉措",
@@ -247,25 +275,11 @@
       "published": 1760021671
     },
     {
-      "id": "34ee6ea2b10c",
-      "title": "PayPay 與幣安日本建立資本與業務聯盟協議",
-      "url": "https://money.udn.com/money/story/5599/9061096",
-      "source": "money.udn.com",
-      "published": 1760021556
-    },
-    {
       "id": "09b70d8be52e",
       "title": "民進黨控黃國昌藉災害撕裂台灣 民眾黨反嗆賴總統為失態惱羞成怒",
       "url": "https://udn.com/news/story/6656/9061093",
       "source": "udn.com",
       "published": 1760021524
-    },
-    {
-      "id": "d6e24979a5bf",
-      "title": "以色列：內閣若同意加薩停火協議　最快24小時內生效",
-      "url": "https://money.udn.com/money/story/5599/9061085",
-      "source": "money.udn.com",
-      "published": 1760021131
     },
     {
       "id": "f57df8eb389a",
@@ -280,13 +294,6 @@
       "url": "https://udn.com/news/story/6656/9061063",
       "source": "udn.com",
       "published": 1760020010
-    },
-    {
-      "id": "745026ec7664",
-      "title": "七天大漲25%...台達電旗下泰達電猛漲 泰國10日起設交易限制",
-      "url": "https://money.udn.com/money/story/5599/9061067",
-      "source": "money.udn.com",
-      "published": 1760019752
     },
     {
       "id": "1007cdc8adc5",
@@ -714,13 +721,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251008-%E5%85%8B%E5%AE%AB-%E4%B9%A0%E8%BF%91%E5%B9%B3-%E8%8E%AB%E8%BF%AA-%E9%87%91%E6%AD%A3%E6%81%A9%E7%AD%89%E5%A4%96%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%90%91%E6%99%AE%E4%BA%AC%E5%BA%86%E7%94%9F",
       "source": "rfi.fr",
       "published": 1759936109
-    },
-    {
-      "id": "59724d418405",
-      "title": "菲日部队举行在《互惠准入协定》生效后的首次联演",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251008-%E6%97%A5%E8%8F%B2%E9%83%A8%E9%98%9F%E4%B8%BE%E8%A1%8C%E5%9C%A8-%E4%BA%92%E6%83%A0%E5%87%86%E5%85%A5%E5%8D%8F%E5%AE%9A-%E7%94%9F%E6%95%88%E5%90%8E%E7%9A%84%E9%A6%96%E6%AC%A1%E8%81%94%E6%BC%94",
-      "source": "rfi.fr",
-      "published": 1759934783
     },
     {
       "id": "2bf0c385b2e9",
@@ -1402,5 +1402,5 @@
       "published": 1757492400
     }
   ],
-  "build_id": 1760028306
+  "build_id": 1760029727
 }
