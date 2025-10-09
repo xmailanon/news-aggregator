@@ -1,6 +1,20 @@
 {
-  "updated": 1760040652,
+  "updated": 1760042266,
   "items": [
+    {
+      "id": "4f1cf2890b84",
+      "title": "特朗普预测中国将恢复采购美国大豆 农民吁“要贸易，不要补贴”",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251009-%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E6%B5%8B%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%81%A2%E5%A4%8D%E9%87%87%E8%B4%AD%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86-%E5%86%9C%E6%B0%91%E5%90%81-%E8%A6%81%E8%B4%B8%E6%98%93%EF%BC%8C%E4%B8%8D%E8%A6%81%E8%A1%A5%E8%B4%B4",
+      "source": "rfi.fr",
+      "published": 1760041811
+    },
+    {
+      "id": "6f4623e0b223",
+      "title": "法国下任总理会是哪位？传言中的“他”",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251009-%E6%B3%95%E5%9B%BD%E4%B8%8B%E4%BB%BB%E6%80%BB%E7%90%86%E4%BC%9A%E6%98%AF%E5%93%AA%E4%BD%8D-%E4%BC%A0%E8%A8%80%E4%B8%AD%E7%9A%84-%E4%BB%96",
+      "source": "rfi.fr",
+      "published": 1760041025
+    },
     {
       "id": "41aa12310c32",
       "title": "川習會可能談到台灣？彭斯：台灣不會是交易籌碼",
@@ -205,16 +219,16 @@
       "published": 1760026364
     },
     {
-      "id": "9929cb2edf5c",
-      "title": "賴總統上任後首份國防報告書 聚焦無人機、AI戰略",
-      "url": "https://udn.com/news/story/10930/9061148",
+      "id": "1960aa1ad921",
+      "title": "盧秀燕：中華民國就是我們的國家",
+      "url": "https://udn.com/news/story/124628/9061150",
       "source": "udn.com",
       "published": 1760025600
     },
     {
-      "id": "1960aa1ad921",
-      "title": "盧秀燕：中華民國就是我們的國家",
-      "url": "https://udn.com/news/story/124628/9061150",
+      "id": "9929cb2edf5c",
+      "title": "賴總統上任後首份國防報告書 聚焦無人機、AI戰略",
+      "url": "https://udn.com/news/story/10930/9061148",
       "source": "udn.com",
       "published": 1760025600
     },
@@ -520,13 +534,6 @@
       "published": 1759976885
     },
     {
-      "id": "f58ef752b902",
-      "title": "中国在取得哈萨克斯坦第二座核电站计划占优势",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251009-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E7%AC%AC%E4%BA%8C%E5%BA%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E8%AE%A1%E5%88%92%E5%8D%A0%E4%BC%98%E5%8A%BF",
-      "source": "rfi.fr",
-      "published": 1759974777
-    },
-    {
       "id": "70f0b2ca35f5",
       "title": "從街頭乞丐到醫生：中國奇跡醫師李創業的故事",
       "url": "https://www.bbc.com/zhongwen/articles/c930zlyng09o/trad?at_medium=RSS&at_campaign=rss",
@@ -721,13 +728,6 @@
       "url": "https://www.ftchinese.com/story/001107803",
       "source": "ftchinese.com",
       "published": 1759939200
-    },
-    {
-      "id": "230b8a5ef3b1",
-      "title": "八名中国公民因乘船试图非法入境韩国被捕",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251008-%E5%85%AB%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9B%A0%E4%B9%98%E8%88%B9%E8%AF%95%E5%9B%BE%E9%9D%9E%E6%B3%95%E5%85%A5%E5%A2%83%E9%9F%A9%E5%9B%BD%E8%A2%AB%E6%8D%95",
-      "source": "rfi.fr",
-      "published": 1759937723
     },
     {
       "id": "2bf0c385b2e9",
@@ -1402,5 +1402,5 @@
       "published": 1757492400
     }
   ],
-  "build_id": 1760040652
+  "build_id": 1760042266
 }
