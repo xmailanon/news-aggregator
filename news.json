@@ -1,6 +1,48 @@
 {
-  "updated": 1760042266,
+  "updated": 1760044136,
   "items": [
+    {
+      "id": "350656ce7d25",
+      "title": "哈马斯宣布结束战争并永久停火",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251009-%E5%93%88%E9%A9%AC%E6%96%AF%E5%AE%A3%E5%B8%83%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89%E5%B9%B6%E6%B0%B8%E4%B9%85%E5%81%9C%E7%81%AB",
+      "source": "rfi.fr",
+      "published": 1760043408
+    },
+    {
+      "id": "f0ae7af2df2b",
+      "title": "中国建成全球最大太阳能发电站",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251009-%E4%B8%AD%E5%9B%BD%E5%BB%BA%E6%88%90%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%A4%AA%E9%98%B3%E8%83%BD%E5%8F%91%E7%94%B5%E7%AB%99",
+      "source": "rfi.fr",
+      "published": 1760043241
+    },
+    {
+      "id": "9c4187843c9c",
+      "title": "BHV Marais 职工抗议中国超快时尚Shein落户巴黎",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251009-bhv-marais-%E8%81%8C%E5%B7%A5%E6%8A%97%E8%AE%AE%E4%B8%AD%E5%9B%BD%E8%B6%85%E5%BF%AB%E6%97%B6%E5%B0%9Ashein%E8%90%BD%E6%88%B7%E5%B7%B4%E9%BB%8E",
+      "source": "rfi.fr",
+      "published": 1760042920
+    },
+    {
+      "id": "4c905cbe6ac5",
+      "title": "籲加速交付延遲的對台軍售 彭斯：美國必須做得更好",
+      "url": "https://money.udn.com/money/story/5599/9061449",
+      "source": "money.udn.com",
+      "published": 1760042650
+    },
+    {
+      "id": "61e14150a0ec",
+      "title": "塞舌尔开始总统第二轮投票",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251009-%E5%A1%9E%E8%88%8C%E5%B0%94%E5%BC%80%E5%A7%8B%E6%80%BB%E7%BB%9F%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%8A%95%E7%A5%A8",
+      "source": "rfi.fr",
+      "published": 1760042589
+    },
+    {
+      "id": "3541d5defb57",
+      "title": "遏制中俄扩张    特朗普将与芬兰总统达破冰船协议",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251009-%E9%81%8F%E5%88%B6%E4%B8%AD%E4%BF%84%E6%89%A9%E5%BC%A0-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E8%BE%BE%E7%A0%B4%E5%86%B0%E8%88%B9%E5%8D%8F%E8%AE%AE",
+      "source": "rfi.fr",
+      "published": 1760042430
+    },
     {
       "id": "4f1cf2890b84",
       "title": "特朗普预测中国将恢复采购美国大豆 农民吁“要贸易，不要补贴”",
@@ -168,13 +210,6 @@
       "url": "https://money.udn.com/money/story/5599/9061264",
       "source": "money.udn.com",
       "published": 1760029590
-    },
-    {
-      "id": "0dffe63128a8",
-      "title": "黃仁勳：AI需求大幅增加 算力呈指數成長",
-      "url": "https://money.udn.com/money/story/5599/9061209",
-      "source": "money.udn.com",
-      "published": 1760028969
     },
     {
       "id": "2ab366dff452",
@@ -562,46 +597,11 @@
       "published": 1759957295
     },
     {
-      "id": "843799a55612",
-      "title": "特朗普：芝加哥市长和伊利诺伊州州长都该被关起来",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251008-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%8A%9D%E5%8A%A0%E5%93%A5%E5%B8%82%E9%95%BF%E5%92%8C%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%B7%9E%E5%B7%9E%E9%95%BF%E9%83%BD%E8%AF%A5%E8%A2%AB%E5%85%B3%E8%B5%B7%E6%9D%A5",
-      "source": "rfi.fr",
-      "published": 1759956815
-    },
-    {
       "id": "e35a5a06bc90",
       "title": "世界局势动荡引发避险情绪 金价首次涨破4,000美元/盎司",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251008-%E4%B8%96%E7%95%8C%E5%B1%80%E5%8A%BF%E5%8A%A8%E8%8D%A1%E5%BC%95%E5%8F%91%E9%81%BF%E9%99%A9%E6%83%85%E7%BB%AA-%E9%87%91%E4%BB%B7%E9%A6%96%E6%AC%A1%E6%B6%A8%E7%A0%B44-000%E7%BE%8E%E5%85%83-%E7%9B%8E%E5%8F%B8",
       "source": "rfi.fr",
       "published": 1759956529
-    },
-    {
-      "id": "a3c89fd925e3",
-      "title": "鲁比奥不出席巴黎加沙过渡期部长级会议",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251008-%E9%B2%81%E6%AF%94%E5%A5%A5%E4%B8%8D%E5%87%BA%E5%B8%AD%E5%B7%B4%E9%BB%8E%E5%8A%A0%E6%B2%99%E8%BF%87%E6%B8%A1%E6%9C%9F%E9%83%A8%E9%95%BF%E7%BA%A7%E4%BC%9A%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1759956446
-    },
-    {
-      "id": "cef3225bc4e5",
-      "title": "欧洲塑料生产商的销售遭受重创",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251008-%E6%AC%A7%E6%B4%B2%E5%A1%91%E6%96%99%E7%94%9F%E4%BA%A7%E5%95%86%E7%9A%84%E9%94%80%E5%94%AE%E9%81%AD%E5%8F%97%E9%87%8D%E5%88%9B",
-      "source": "rfi.fr",
-      "published": 1759956326
-    },
-    {
-      "id": "0ce4cd7a3fab",
-      "title": "联合国：约有68万名海地儿童无家可归",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251008-%E8%81%94%E5%90%88%E5%9B%BD-%E7%BA%A6%E6%9C%8968%E4%B8%87%E5%90%8D%E6%B5%B7%E5%9C%B0%E5%84%BF%E7%AB%A5%E6%97%A0%E5%AE%B6%E5%8F%AF%E5%BD%92",
-      "source": "rfi.fr",
-      "published": 1759956118
-    },
-    {
-      "id": "dd6fa3215082",
-      "title": "对抗美国     委内瑞拉展开新的军事演习",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251008-%E5%AF%B9%E6%8A%97%E7%BE%8E%E5%9B%BD-%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B1%95%E5%BC%80%E6%96%B0%E7%9A%84%E5%86%9B%E4%BA%8B%E6%BC%94%E4%B9%A0",
-      "source": "rfi.fr",
-      "published": 1759955757
     },
     {
       "id": "5e22b323f412",
@@ -1402,5 +1402,5 @@
       "published": 1757492400
     }
   ],
-  "build_id": 1760042266
+  "build_id": 1760044136
 }
