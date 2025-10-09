@@ -1,10 +1,38 @@
 {
-  "updated": 1760051334,
+  "updated": 1760052738,
   "items": [
     {
-      "id": "81dac7f299bf",
+      "id": "e7e635cd2614",
+      "title": "駐立代表處國慶酒會　展現台立深化友誼與民主價值",
+      "url": "https://money.udn.com/money/story/5599/9061515",
+      "source": "money.udn.com",
+      "published": 1760052641
+    },
+    {
+      "id": "1cda3a0a15bf",
+      "title": "愛丁堡駐處國慶酒會　蘇格蘭政要無畏風雨出席",
+      "url": "https://money.udn.com/money/story/5599/9061507",
+      "source": "money.udn.com",
+      "published": 1760052075
+    },
+    {
+      "id": "14d90be92137",
+      "title": "台積電ADR下跌1.52% 較台北交易溢價27.12%",
+      "url": "https://money.udn.com/money/story/123398/9061505",
+      "source": "money.udn.com",
+      "published": 1760051827
+    },
+    {
+      "id": "78a66da60100",
+      "title": "美股收盤／科技股下挫拖累大盤 標普500指數自高點回落 投資人盤整",
+      "url": "https://money.udn.com/money/story/123398/9061500",
+      "source": "money.udn.com",
+      "published": 1760051348
+    },
+    {
+      "id": "aab4b33ddfaa",
       "title": "影／台南特搜拂曉前往花蓮災區 不放棄任何一線希望",
-      "url": "https://udn.com/news/story/6656/9061499",
+      "url": "https://udn.com/news/story/124616/9061499",
       "source": "udn.com",
       "published": 1760051188
     },
@@ -191,34 +219,6 @@
       "published": 1760037059
     },
     {
-      "id": "07eb98476207",
-      "title": "法拉利電動車 傳1,800萬開賣",
-      "url": "https://money.udn.com/money/story/5599/9061123",
-      "source": "money.udn.com",
-      "published": 1760036994
-    },
-    {
-      "id": "422842789b08",
-      "title": "ChatGPT 平價方案 5美元有找",
-      "url": "https://money.udn.com/money/story/5599/9061131",
-      "source": "money.udn.com",
-      "published": 1760036944
-    },
-    {
-      "id": "862cc40b4b83",
-      "title": "諾貝爾文學獎揭曉 匈牙利作家獲殊榮",
-      "url": "https://money.udn.com/money/story/5599/9061128",
-      "source": "money.udn.com",
-      "published": 1760036905
-    },
-    {
-      "id": "a909c2779038",
-      "title": "美半導體投資增速將稱冠  SEMI 預測後年起超越陸台韓",
-      "url": "https://money.udn.com/money/story/5599/9061136",
-      "source": "money.udn.com",
-      "published": 1760036879
-    },
-    {
       "id": "79dcae2b3a57",
       "title": "马克龙：直至普遍废除死刑",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251009-%E9%A9%AC%E5%85%8B%E9%BE%99-%E7%9B%B4%E8%87%B3%E6%99%AE%E9%81%8D%E5%BA%9F%E9%99%A4%E6%AD%BB%E5%88%91",
@@ -280,6 +280,20 @@
       "url": "https://udn.com/news/story/124615/9061322",
       "source": "udn.com",
       "published": 1760026364
+    },
+    {
+      "id": "49b99181518d",
+      "title": "现在是投资黄金的时机吗？这取决于你的年龄",
+      "url": "https://www.ftchinese.com/story/001107819",
+      "source": "ftchinese.com",
+      "published": 1760025600
+    },
+    {
+      "id": "6d61a70ba1dc",
+      "title": "俄罗斯大规模空袭致乌克兰近60%天然气生产陷入瘫痪",
+      "url": "https://www.ftchinese.com/story/001107820",
+      "source": "ftchinese.com",
+      "published": 1760025600
     },
     {
       "id": "1960aa1ad921",
@@ -1108,20 +1122,6 @@
       "published": 1759161600
     },
     {
-      "id": "473787be447f",
-      "title": "特朗普的“气候骗局说”不会阻止新型ESG",
-      "url": "https://www.ftchinese.com/story/001107796",
-      "source": "ftchinese.com",
-      "published": 1759161600
-    },
-    {
-      "id": "2a82aff0f88d",
-      "title": "陈洋：下任日本首相应当具备的条件",
-      "url": "https://www.ftchinese.com/story/001107795",
-      "source": "ftchinese.com",
-      "published": 1759161600
-    },
-    {
       "id": "29026172197b",
       "title": "中国推出“K字签证” 与美国争夺科技人才？",
       "url": "https://www.dw.com/zh/中国推出-k字签证-与美国争夺科技人才？/a-74178397?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1757492400
     }
   ],
-  "build_id": 1760051334
+  "build_id": 1760052738
 }
