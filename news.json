@@ -1,6 +1,34 @@
 {
-  "updated": 1760029727,
+  "updated": 1760031455,
   "items": [
+    {
+      "id": "7393c660d390",
+      "title": "銀價創數十年新高　金價漲勢降溫",
+      "url": "https://money.udn.com/money/story/5599/9061398",
+      "source": "money.udn.com",
+      "published": 1760031088
+    },
+    {
+      "id": "909d494ea906",
+      "title": "法国前司法部长巴丹戴尔入先贤祠的舆论建议暨反思",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251009-%E6%B3%95%E5%9B%BD%E5%89%8D%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF%E5%B7%B4%E4%B8%B9%E6%88%B4%E5%B0%94%E5%85%A5%E5%85%88%E8%B4%A4%E7%A5%A0%E8%88%86%E8%AE%BA%E5%BB%BA%E8%AE%AE%E6%9A%A8%E5%8F%8D%E6%80%9D",
+      "source": "rfi.fr",
+      "published": 1760030534
+    },
+    {
+      "id": "344ed5977cb8",
+      "title": "透露可能在12日造訪中東 川普：以哈達成停火協議",
+      "url": "https://money.udn.com/money/story/5599/9061263",
+      "source": "money.udn.com",
+      "published": 1760029648
+    },
+    {
+      "id": "a89666cea3da",
+      "title": "IMF暗示調高今年經濟成長",
+      "url": "https://money.udn.com/money/story/5599/9061264",
+      "source": "money.udn.com",
+      "published": 1760029590
+    },
     {
       "id": "0dffe63128a8",
       "title": "黃仁勳：AI需求大幅增加 算力呈指數成長",
@@ -247,32 +275,11 @@
       "published": 1760023091
     },
     {
-      "id": "4a33b63b4a37",
-      "title": "摩根大通 CEO 戴蒙樂見放寬季度財報披露要求",
-      "url": "https://money.udn.com/money/story/5599/9060442",
-      "source": "money.udn.com",
-      "published": 1760022176
-    },
-    {
-      "id": "0179fe837c85",
-      "title": "加薩停火協議受矚　土耳其總統：將監督執行情況",
-      "url": "https://money.udn.com/money/story/5599/9061104",
-      "source": "money.udn.com",
-      "published": 1760022034
-    },
-    {
       "id": "b81374df76f4",
       "title": "吳志中與法媒談半導體護盾 防戰略產業落中國大陸之手",
       "url": "https://udn.com/news/story/7314/9061102",
       "source": "udn.com",
       "published": 1760021777
-    },
-    {
-      "id": "a1e368c6092c",
-      "title": "英特爾首款18A 製程伺服器處理器 Clearwater Forest 將於2026年上半推出",
-      "url": "https://money.udn.com/money/story/5599/9061099",
-      "source": "money.udn.com",
-      "published": 1760021671
     },
     {
       "id": "09b70d8be52e",
@@ -728,13 +735,6 @@
       "url": "https://www.dw.com/zh/相隔六年-nba重返中国/a-74280728?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759933680
-    },
-    {
-      "id": "204463c8e0fe",
-      "title": "涉协助采购胡塞武装和哈马斯无人机的电子元件 美将15家中国公司列入“实体清单”",
-      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251008-%E6%B6%89%E5%8D%8F%E5%8A%A9%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E5%92%8C%E5%93%88%E9%A9%AC%E6%96%AF%E9%87%87%E8%B4%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%B5%E5%AD%90%E5%85%83%E4%BB%B6-%E7%BE%8E%E5%B0%8615%E5%AE%B6%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%88%97%E5%85%A5-%E5%AE%9E%E4%BD%93%E6%B8%85%E5%8D%95",
-      "source": "rfi.fr",
-      "published": 1759932557
     },
     {
       "id": "03fac0a388e6",
@@ -1402,5 +1402,5 @@
       "published": 1757492400
     }
   ],
-  "build_id": 1760029727
+  "build_id": 1760031455
 }
