@@ -1,6 +1,13 @@
 {
-  "updated": 1760044136,
+  "updated": 1760045568,
   "items": [
+    {
+      "id": "b09f89dc3157",
+      "title": "以色列內閣表決加薩停火協議　極右國安部長矢言反對",
+      "url": "https://money.udn.com/money/story/5599/9061452",
+      "source": "money.udn.com",
+      "published": 1760044409
+    },
     {
       "id": "350656ce7d25",
       "title": "哈马斯宣布结束战争并永久停火",
@@ -203,13 +210,6 @@
       "url": "https://money.udn.com/money/story/5599/9061263",
       "source": "money.udn.com",
       "published": 1760029648
-    },
-    {
-      "id": "a89666cea3da",
-      "title": "IMF暗示調高今年經濟成長",
-      "url": "https://money.udn.com/money/story/5599/9061264",
-      "source": "money.udn.com",
-      "published": 1760029590
     },
     {
       "id": "2ab366dff452",
@@ -1402,5 +1402,5 @@
       "published": 1757492400
     }
   ],
-  "build_id": 1760044136
+  "build_id": 1760045568
 }
