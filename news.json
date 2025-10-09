@@ -1,6 +1,34 @@
 {
-  "updated": 1760038319,
+  "updated": 1760040652,
   "items": [
+    {
+      "id": "41aa12310c32",
+      "title": "川習會可能談到台灣？彭斯：台灣不會是交易籌碼",
+      "url": "https://money.udn.com/money/story/5599/9061440",
+      "source": "money.udn.com",
+      "published": 1760040491
+    },
+    {
+      "id": "4c7cc311650d",
+      "title": "加沙危机看到尽头 特朗普能否如愿获奖？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251009-%E5%8A%A0%E6%B2%99%E5%8D%B1%E6%9C%BA%E7%9C%8B%E5%88%B0%E5%B0%BD%E5%A4%B4-%E7%89%B9%E6%9C%97%E6%99%AE%E8%83%BD%E5%90%A6%E5%A6%82%E6%84%BF%E8%8E%B7%E5%A5%96",
+      "source": "rfi.fr",
+      "published": 1760040189
+    },
+    {
+      "id": "647ab51b1295",
+      "title": "以哈達成加薩停火　國際油價挫逾1%",
+      "url": "https://money.udn.com/money/story/5599/9061435",
+      "source": "money.udn.com",
+      "published": 1760040107
+    },
+    {
+      "id": "a9e8caff61f3",
+      "title": "微軟Microsoft 365故障　逾萬用戶受影響",
+      "url": "https://money.udn.com/money/story/5599/9061432",
+      "source": "money.udn.com",
+      "published": 1760039131
+    },
     {
       "id": "ad010f2a82e5",
       "title": "關稅效應 美進口大陸貨銳減",
@@ -135,32 +163,11 @@
       "published": 1760028969
     },
     {
-      "id": "2384008c7b39",
-      "title": "歐股收盤走勢分歧　法蘭克福DAX指數再創新高",
-      "url": "https://money.udn.com/money/story/5599/9061386",
-      "source": "money.udn.com",
-      "published": 1760028848
-    },
-    {
       "id": "2ab366dff452",
       "title": "与审查者同行 中国出版业近十年的变迁",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%AD%E5%8D%8E%E4%B8%96%E7%95%8C/20251009-%E4%B8%8E%E5%AE%A1%E6%9F%A5%E8%80%85%E5%90%8C%E8%A1%8C-%E4%B8%AD%E5%9B%BD%E5%87%BA%E7%89%88%E4%B8%9A%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%98%E8%BF%81",
       "source": "rfi.fr",
       "published": 1760028403
-    },
-    {
-      "id": "04fa6abeb5a4",
-      "title": "OpenAI暗示不會下單英特爾",
-      "url": "https://money.udn.com/money/story/5599/9061247",
-      "source": "money.udn.com",
-      "published": 1760028347
-    },
-    {
-      "id": "fd8e344f609d",
-      "title": "歐洲央行管委 Escriva 表示降息未必是下一步舉措",
-      "url": "https://money.udn.com/money/story/5599/9060429",
-      "source": "money.udn.com",
-      "published": 1760028124
     },
     {
       "id": "eac85849339a",
@@ -609,13 +616,6 @@
       "url": "https://cn.nytimes.com/usa/20251009/daniel-lou-campaign-contributions/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1759952098
-    },
-    {
-      "id": "7c204618017a",
-      "title": "德国将通过新法案 允许警方击落不明无人机",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251008-%E5%BE%B7%E5%9B%BD%E5%B0%86%E9%80%9A%E8%BF%87%E6%96%B0%E6%B3%95%E6%A1%88-%E5%85%81%E8%AE%B8%E8%AD%A6%E6%96%B9%E5%87%BB%E8%90%BD%E4%B8%8D%E6%98%8E%E6%97%A0%E4%BA%BA%E6%9C%BA",
-      "source": "rfi.fr",
-      "published": 1759942662
     },
     {
       "id": "9f53112ae65c",
@@ -1402,5 +1402,5 @@
       "published": 1757492400
     }
   ],
-  "build_id": 1760038319
+  "build_id": 1760040652
 }
