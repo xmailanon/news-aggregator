@@ -1,6 +1,13 @@
 {
-  "updated": 1760127041,
+  "updated": 1760128624,
   "items": [
+    {
+      "id": "14752196d33f",
+      "title": "马克龙再次任命勒科尔尼出任总理",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251010-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%86%8D%E6%AC%A1%E4%BB%BB%E5%91%BD%E5%8B%92%E7%A7%91%E5%B0%94%E5%B0%BC%E5%87%BA%E4%BB%BB%E6%80%BB%E7%90%86",
+      "source": "rfi.fr",
+      "published": 1760128364
+    },
     {
       "id": "0499cf791da4",
       "title": "受中国影响 白兰地业者要求欧盟和法政府提供3500 万至 5000 万欧元铲除葡园计划",
@@ -553,13 +560,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cr70gmdz2r7o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760083530
-    },
-    {
-      "id": "c6740381f973",
-      "title": "冬季临近，乌克兰遭遇大规模袭击 基辅及九个地区断电",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251010-%E5%86%AC%E5%AD%A3%E4%B8%B4%E8%BF%91%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E9%81%AD%E9%81%87%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A2%AD%E5%87%BB-%E5%9F%BA%E8%BE%85%E5%8F%8A%E4%B9%9D%E4%B8%AA%E5%9C%B0%E5%8C%BA%E6%96%AD%E7%94%B5",
-      "source": "rfi.fr",
-      "published": 1760083296
     },
     {
       "id": "578a330c4e73",
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1760127041
+  "build_id": 1760128624
 }
