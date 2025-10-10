@@ -1,6 +1,97 @@
 {
-  "updated": 1760110557,
+  "updated": 1760112758,
   "items": [
+    {
+      "id": "7404add43281",
+      "title": "歷史上的今天／1963年海軍蛙人國慶 水中神兵特技表演",
+      "url": "https://udn.com/news/story/7314/9061599",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "91c18fd74174",
+      "title": "新聞幕後／台灣之盾非橫空出世 美國早知情",
+      "url": "https://udn.com/news/story/6656/9062994",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "6e2239aeeb00",
+      "title": "朱立倫：民進黨把中華民國丟掉 國家不能交到華府、北京手上",
+      "url": "https://udn.com/news/story/124628/9062976",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "524e7d872f68",
+      "title": "我專家：國防建軍投資 不能空口白話",
+      "url": "https://udn.com/news/story/6656/9062997",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "94335f7030f8",
+      "title": "新聞眼／T-Dome衛台？兩岸和平要政治解決",
+      "url": "https://udn.com/news/story/6656/9062990",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "574b2679fe2b",
+      "title": "國安人士：總統國慶演說 用和平尋兩岸交集",
+      "url": "https://udn.com/news/story/124628/9062981",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "f505c03b17d9",
+      "title": "學者：賴清德疑受美壓力 國慶演說未提政治定位",
+      "url": "https://udn.com/news/story/124628/9062980",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "00e18b31d7e6",
+      "title": "陸外交部批台灣之盾：把台拖入險境",
+      "url": "https://udn.com/news/story/6656/9062998",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "1400e6279dec",
+      "title": "打造台版金穹 府：年底報告預算",
+      "url": "https://udn.com/news/story/6656/9062996",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "ef13fa8f1504",
+      "title": "國民黨主席大戰！郝龍斌、張亞中控境外網軍介選",
+      "url": "https://udn.com/news/story/122404/9062986",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "488c87d5450b",
+      "title": "川習會前累積談判籌碼 陸反壟斷大刀 砍向高通",
+      "url": "https://money.udn.com/money/story/5599/9062953",
+      "source": "money.udn.com",
+      "published": 1760111994
+    },
+    {
+      "id": "f8126aeda916",
+      "title": "中国加快建设石油储备基地提升储备并扩大稀土出口限制",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20251010-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E7%9F%B3%E6%B2%B9%E5%82%A8%E5%A4%87%E5%9F%BA%E5%9C%B0%E6%8F%90%E5%8D%87%E5%82%A8%E5%A4%87%E5%B9%B6%E6%89%A9%E5%A4%A7%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6",
+      "source": "rfi.fr",
+      "published": 1760111333
+    },
+    {
+      "id": "385b18fb8868",
+      "title": "中国舰艇到访柬埔寨 两国军事关系引关注",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E4%B8%AD%E5%9B%BD%E8%88%B0%E8%89%87%E5%88%B0%E8%AE%BF%E6%9F%AC%E5%9F%94%E5%AF%A8-%E4%B8%A4%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%85%B3%E7%B3%BB%E5%BC%95%E5%85%B3%E6%B3%A8",
+      "source": "rfi.fr",
+      "published": 1760111056
+    },
     {
       "id": "0dc44fe3151c",
       "title": "俄烏下個目標？貝森特：課中國懲罰性關稅 戰爭很快會結束",
@@ -24,10 +115,17 @@
     },
     {
       "id": "b9305a538e5b",
-      "title": "川普：已無理由在APEC與習近平會面 要大幅提高對中國的關稅",
+      "title": "川普：已無理由在 APEC 與習近平會面 要大幅提高對中國的關稅 道瓊翻黑重挫500點",
       "url": "https://money.udn.com/money/story/5599/9062958",
       "source": "money.udn.com",
       "published": 1760109882
+    },
+    {
+      "id": "35d231719157",
+      "title": "影／101煙火搭配空拍機 國慶祝「臺灣加油」",
+      "url": "https://udn.com/news/story/124628/9062952",
+      "source": "udn.com",
+      "published": 1760109830
     },
     {
       "id": "1eb2112d6bbd",
@@ -233,13 +331,6 @@
       "published": 1760100209
     },
     {
-      "id": "93f0af855a53",
-      "title": "賴清德、韓國瑜、許淑華同台 「七彩水墨焰火」照亮中華民國114歲生日",
-      "url": "https://udn.com/news/story/124628/9062729",
-      "source": "udn.com",
-      "published": 1760100005
-    },
-    {
       "id": "a3a4bd76ecf7",
       "title": "菲律賓南部強震後再遭規模6.9餘震侵襲　迄今累計6死",
       "url": "https://money.udn.com/money/story/5599/9062726",
@@ -254,25 +345,11 @@
       "published": 1760099726
     },
     {
-      "id": "8c26e6504ba2",
-      "title": "張榮味家族動員力挺 郝龍斌拍胸脯高喊有信心當選國民黨主席",
-      "url": "https://udn.com/news/story/122404/9062716",
-      "source": "udn.com",
-      "published": 1760099584
-    },
-    {
       "id": "abe4814523d0",
       "title": "日本公明黨表示 日本數十年的執政聯盟宣告破裂",
       "url": "https://money.udn.com/money/story/5599/9062435",
       "source": "money.udn.com",
       "published": 1760099017
-    },
-    {
-      "id": "e9c772da3b21",
-      "title": "美國參議院在國防授權法案中目標指向中國大陸生物技術及相關投資",
-      "url": "https://money.udn.com/money/story/5599/9062560",
-      "source": "money.udn.com",
-      "published": 1760098193
     },
     {
       "id": "6329db08a3a1",
@@ -282,13 +359,6 @@
       "published": 1760098032
     },
     {
-      "id": "dad30d7db895",
-      "title": "賴總統國慶演說 提3大策略確保台灣競爭優勢",
-      "url": "https://udn.com/news/story/124628/9062675",
-      "source": "udn.com",
-      "published": 1760097876
-    },
-    {
       "id": "542812ae234f",
       "title": "被指涉违反反垄断法 中国监管部门对高通开展立案调查",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E8%A2%AB%E6%8C%87%E6%B6%89%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95-%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%AF%B9%E9%AB%98%E9%80%9A%E5%BC%80%E5%B1%95%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
@@ -296,67 +366,11 @@
       "published": 1760097595
     },
     {
-      "id": "f8c768f9b2f5",
-      "title": "花蓮光復重災 元大金將捐助200台機車供災民代步",
-      "url": "https://udn.com/news/story/124616/9062651",
-      "source": "udn.com",
-      "published": 1760096390
-    },
-    {
-      "id": "46ec3b6e405f",
-      "title": "瑞士伯恩代表處國慶酒會 友台相挺深化民主和平",
-      "url": "https://udn.com/news/story/124628/9062643",
-      "source": "udn.com",
-      "published": 1760096383
-    },
-    {
       "id": "c7bfd8f63b52",
       "title": "中国加强在主要港口对英伟达AI芯片等半导体货物的检查",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BC%BA%E5%9C%A8%E4%B8%BB%E8%A6%81%E6%B8%AF%E5%8F%A3%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BEai%E8%8A%AF%E7%89%87%E7%AD%89%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B4%A7%E7%89%A9%E7%9A%84%E6%A3%80%E6%9F%A5",
       "source": "rfi.fr",
       "published": 1760096147
-    },
-    {
-      "id": "c5703016f84d",
-      "title": "賴總統國慶演說3意義 穩定台灣迎接變動世局挑戰",
-      "url": "https://udn.com/news/story/124628/9062630",
-      "source": "udn.com",
-      "published": 1760095288
-    },
-    {
-      "id": "21e4017e1129",
-      "title": "影／花蓮災區復原…志工雙腿起水泡、發燒 台南特搜醫護為「超人」服務",
-      "url": "https://udn.com/news/story/124616/9062635",
-      "source": "udn.com",
-      "published": 1760094935
-    },
-    {
-      "id": "c17c78aa6890",
-      "title": "張榮味席開70桌「國慶便當宴」 親曝動員家族力挺郝龍斌原因",
-      "url": "https://udn.com/news/story/122404/9062633",
-      "source": "udn.com",
-      "published": 1760094884
-    },
-    {
-      "id": "7da3024f9f88",
-      "title": "賴總統會見聖露西亞總督 期待多元合作貢獻區域繁榮",
-      "url": "https://udn.com/news/story/124628/9062620",
-      "source": "udn.com",
-      "published": 1760094177
-    },
-    {
-      "id": "6d30b1b5cca3",
-      "title": "影／賴清德出席國慶酒會 帶2友邦總督邊逛邊吃：每攤都好吃",
-      "url": "https://udn.com/news/story/124628/9062617",
-      "source": "udn.com",
-      "published": 1760093594
-    },
-    {
-      "id": "45f25682806e",
-      "title": "萬綠叢中突出！陸軍軍樂隊首位女隊長 許婕庭成國慶大會「嬌點」",
-      "url": "https://udn.com/news/story/124628/9062616",
-      "source": "udn.com",
-      "published": 1760093503
     },
     {
       "id": "4a563860258c",
@@ -611,13 +625,6 @@
       "published": 1760030676
     },
     {
-      "id": "2ab366dff452",
-      "title": "与审查者同行 中国出版业近十年的变迁",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%AD%E5%8D%8E%E4%B8%96%E7%95%8C/20251009-%E4%B8%8E%E5%AE%A1%E6%9F%A5%E8%80%85%E5%90%8C%E8%A1%8C-%E4%B8%AD%E5%9B%BD%E5%87%BA%E7%89%88%E4%B8%9A%E8%BF%91%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8F%98%E8%BF%81",
-      "source": "rfi.fr",
-      "published": 1760028403
-    },
-    {
       "id": "32488b7d5840",
       "title": "中国海关严查英伟达AI芯片",
       "url": "https://www.ftchinese.com/story/001107827",
@@ -721,13 +728,6 @@
       "url": "https://www.ftchinese.com/story/001107820",
       "source": "ftchinese.com",
       "published": 1760025600
-    },
-    {
-      "id": "48df1dfd4f33",
-      "title": "赖清德双十节演说将提负责任地维持台海和平稳定现状 拟宣布新“全域”防空系统",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251009-%E8%B5%96%E6%B8%85%E5%BE%B7%E5%8F%8C%E5%8D%81%E8%8A%82%E6%BC%94%E8%AF%B4%E5%B0%86%E6%8F%90%E8%B4%9F%E8%B4%A3%E4%BB%BB%E5%9C%B0%E7%BB%B4%E6%8C%81%E5%8F%B0%E6%B5%B7%E5%92%8C%E5%B9%B3%E7%A8%B3%E5%AE%9A%E7%8E%B0%E7%8A%B6-%E6%8B%9F%E5%AE%A3%E5%B8%83%E6%96%B0-%E5%85%A8%E5%9F%9F-%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F",
-      "source": "rfi.fr",
-      "published": 1760023638
     },
     {
       "id": "f57df8eb389a",
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1760110557
+  "build_id": 1760112758
 }
