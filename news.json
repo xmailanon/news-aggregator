@@ -1,6 +1,41 @@
 {
-  "updated": 1760112758,
+  "updated": 1760114511,
   "items": [
+    {
+      "id": "09405f3a27b5",
+      "title": "特朗普怒怼中国：威胁提高关税、“没必要”见习近平",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%80%BC%E4%B8%AD%E5%9B%BD-%E5%A8%81%E8%83%81%E6%8F%90%E9%AB%98%E5%85%B3%E7%A8%8E-%E6%B2%A1%E5%BF%85%E8%A6%81-%E8%A7%81%E4%B9%A0%E8%BF%91%E5%B9%B3",
+      "source": "rfi.fr",
+      "published": 1760114482
+    },
+    {
+      "id": "89b972037b86",
+      "title": "上季十大內部人賣股 7人與AI有關 「輝達親兒子」主管賣逾10億美元",
+      "url": "https://money.udn.com/money/story/5599/9063055",
+      "source": "money.udn.com",
+      "published": 1760113439
+    },
+    {
+      "id": "beac21ee927d",
+      "title": "國慶談話…賴總統籲中共放棄武力脅迫 將打造台灣之盾",
+      "url": "https://udn.com/news/story/124628/9063002",
+      "source": "udn.com",
+      "published": 1760113056
+    },
+    {
+      "id": "475eb38430d8",
+      "title": "鏟子超人國慶日仍在清淤 即起納公費投保",
+      "url": "https://udn.com/news/story/124615/9062963",
+      "source": "udn.com",
+      "published": 1760112279
+    },
+    {
+      "id": "998e95ce0ce8",
+      "title": "馬太鞍便道通車 家電超人送3千電器進光復",
+      "url": "https://udn.com/news/story/124615/9062966",
+      "source": "udn.com",
+      "published": 1760112279
+    },
     {
       "id": "7404add43281",
       "title": "歷史上的今天／1963年海軍蛙人國慶 水中神兵特技表演",
@@ -9,30 +44,9 @@
       "published": 1760112000
     },
     {
-      "id": "91c18fd74174",
-      "title": "新聞幕後／台灣之盾非橫空出世 美國早知情",
-      "url": "https://udn.com/news/story/6656/9062994",
-      "source": "udn.com",
-      "published": 1760112000
-    },
-    {
       "id": "6e2239aeeb00",
       "title": "朱立倫：民進黨把中華民國丟掉 國家不能交到華府、北京手上",
       "url": "https://udn.com/news/story/124628/9062976",
-      "source": "udn.com",
-      "published": 1760112000
-    },
-    {
-      "id": "524e7d872f68",
-      "title": "我專家：國防建軍投資 不能空口白話",
-      "url": "https://udn.com/news/story/6656/9062997",
-      "source": "udn.com",
-      "published": 1760112000
-    },
-    {
-      "id": "94335f7030f8",
-      "title": "新聞眼／T-Dome衛台？兩岸和平要政治解決",
-      "url": "https://udn.com/news/story/6656/9062990",
       "source": "udn.com",
       "published": 1760112000
     },
@@ -51,23 +65,44 @@
       "published": 1760112000
     },
     {
-      "id": "00e18b31d7e6",
-      "title": "陸外交部批台灣之盾：把台拖入險境",
-      "url": "https://udn.com/news/story/6656/9062998",
-      "source": "udn.com",
-      "published": 1760112000
-    },
-    {
-      "id": "1400e6279dec",
-      "title": "打造台版金穹 府：年底報告預算",
-      "url": "https://udn.com/news/story/6656/9062996",
-      "source": "udn.com",
-      "published": 1760112000
-    },
-    {
       "id": "ef13fa8f1504",
       "title": "國民黨主席大戰！郝龍斌、張亞中控境外網軍介選",
       "url": "https://udn.com/news/story/122404/9062986",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "ae9ddbb4fb8c",
+      "title": "陸外交部批台灣之盾：把台拖入險境",
+      "url": "https://udn.com/news/story/124628/9062998",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "9973f3ba683d",
+      "title": "我專家：國防建軍投資 不能空口白話",
+      "url": "https://udn.com/news/story/124628/9062997",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "b324ce411609",
+      "title": "打造台版金穹 府：年底報告預算",
+      "url": "https://udn.com/news/story/124628/9062996",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "b49776137768",
+      "title": "新聞幕後／台灣之盾非橫空出世 美國早知情",
+      "url": "https://udn.com/news/story/124628/9062994",
+      "source": "udn.com",
+      "published": 1760112000
+    },
+    {
+      "id": "311de202e053",
+      "title": "新聞眼／T-Dome衛台？兩岸和平要政治解決",
+      "url": "https://udn.com/news/story/124628/9062990",
       "source": "udn.com",
       "published": 1760112000
     },
@@ -240,13 +275,6 @@
       "published": 1760103861
     },
     {
-      "id": "b6fff97a7188",
-      "title": "橫濱雙十國慶遊行氣氛熱烈 中華街旗海飄揚",
-      "url": "https://udn.com/news/story/124628/9062790",
-      "source": "udn.com",
-      "published": 1760103586
-    },
-    {
       "id": "37db884bb019",
       "title": "回應川普逐出北約說法　西班牙：堅守對NATO承諾",
       "url": "https://money.udn.com/money/story/5599/9062791",
@@ -259,13 +287,6 @@
       "url": "https://www.dw.com/zh/中国对高通公司展开反垄断调查/a-74311130?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760103240
-    },
-    {
-      "id": "a148b4775bec",
-      "title": "影／煙比火多！南投國慶焰火煙霧瀰漫成「星雲秀」 國道駕駛開霧燈",
-      "url": "https://udn.com/news/story/124628/9062780",
-      "source": "udn.com",
-      "published": 1760102763
     },
     {
       "id": "49c06881765a",
@@ -310,13 +331,6 @@
       "published": 1760100485
     },
     {
-      "id": "ae3a6a0b35d3",
-      "title": "北京批賴清德國慶演說兜售台獨分裂謬論 外交部反擊兩國互不隸屬",
-      "url": "https://udn.com/news/story/124628/9062735",
-      "source": "udn.com",
-      "published": 1760100327
-    },
-    {
       "id": "1b3dc7330964",
       "title": "川普沒得諾貝爾和平獎 白宮批評：政治凌駕和平",
       "url": "https://money.udn.com/money/story/5599/9062736",
@@ -343,13 +357,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c5yg1g20gzeo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760099726
-    },
-    {
-      "id": "abe4814523d0",
-      "title": "日本公明黨表示 日本數十年的執政聯盟宣告破裂",
-      "url": "https://money.udn.com/money/story/5599/9062435",
-      "source": "money.udn.com",
-      "published": 1760099017
     },
     {
       "id": "6329db08a3a1",
@@ -728,13 +735,6 @@
       "url": "https://www.ftchinese.com/story/001107820",
       "source": "ftchinese.com",
       "published": 1760025600
-    },
-    {
-      "id": "f57df8eb389a",
-      "title": "特朗普据报周日到访以色列将在议会讲话 以总统：特朗普理应获得诺贝尔和平奖",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251009-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8D%AE%E6%8A%A5%E5%91%A8%E6%97%A5%E5%88%B0%E8%AE%BF%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%86%E5%9C%A8%E8%AE%AE%E4%BC%9A%E8%AE%B2%E8%AF%9D-%E4%BB%A5%E6%80%BB%E7%BB%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E7%90%86%E5%BA%94%E8%8E%B7%E5%BE%97%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96",
-      "source": "rfi.fr",
-      "published": 1760020948
     },
     {
       "id": "0eb9c5641d40",
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1760112758
+  "build_id": 1760114511
 }
