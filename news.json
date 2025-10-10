@@ -1,6 +1,20 @@
 {
-  "updated": 1760134117,
+  "updated": 1760135712,
   "items": [
+    {
+      "id": "98b8cbb7cb4e",
+      "title": "中國限制稀土出口　川普宣布11月起加徵100%關稅",
+      "url": "https://money.udn.com/money/story/10511/9063161",
+      "source": "money.udn.com",
+      "published": 1760135434
+    },
+    {
+      "id": "77c0f8727039",
+      "title": "南美洲德雷克海峽發生規模7.8強震　引發海嘯警報",
+      "url": "https://money.udn.com/money/story/5599/9063160",
+      "source": "money.udn.com",
+      "published": 1760135432
+    },
     {
       "id": "d9787e131af6",
       "title": "川普：將在既有基礎上 再對中國大陸加徵100%關稅",
@@ -245,20 +259,6 @@
       "url": "https://money.udn.com/money/story/123398/9062885",
       "source": "money.udn.com",
       "published": 1760116568
-    },
-    {
-      "id": "16cf7483c9cd",
-      "title": "川普威脅對中國課徵高額關稅　歐股受挫",
-      "url": "https://money.udn.com/money/story/5599/9063068",
-      "source": "money.udn.com",
-      "published": 1760115971
-    },
-    {
-      "id": "3d73631bd5e4",
-      "title": "川普：不再有理由見習近平　擬大幅調高對中關稅",
-      "url": "https://money.udn.com/money/story/5599/9063067",
-      "source": "money.udn.com",
-      "published": 1760115971
     },
     {
       "id": "b1c87b6d3495",
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1760134117
+  "build_id": 1760135712
 }
