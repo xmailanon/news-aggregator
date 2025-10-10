@@ -1,6 +1,13 @@
 {
-  "updated": 1760120064,
+  "updated": 1760121831,
   "items": [
+    {
+      "id": "6e26dfa746e9",
+      "title": "美國田納西州炸藥廠發生爆炸　據報多人死亡失蹤",
+      "url": "https://money.udn.com/money/story/5599/9063085",
+      "source": "money.udn.com",
+      "published": 1760121007
+    },
     {
       "id": "4f3344387194",
       "title": "瑞士盼明年初與中簽新版自貿協定　擴大免稅範圍",
@@ -163,6 +170,13 @@
       "published": 1760112656
     },
     {
+      "id": "6cd12d37cb5f",
+      "title": "社群感行銷 2／不只是便宜！直擊日本電商攝影棚：為何它的直播讓人非買不可",
+      "url": "https://money.udn.com/money/story/122979/8800121",
+      "source": "money.udn.com",
+      "published": 1760112399
+    },
+    {
       "id": "dcce20382701",
       "title": "鏟子超人國慶日仍在清淤 即起納公費投保",
       "url": "https://udn.com/news/story/124616/9062963",
@@ -175,6 +189,13 @@
       "url": "https://udn.com/news/story/124615/9062966",
       "source": "udn.com",
       "published": 1760112279
+    },
+    {
+      "id": "0c8d4a845210",
+      "title": "社群感行銷 1／一小時創2,000萬業績，它對決恐龍級樂天、Amazon如何以小搏大",
+      "url": "https://money.udn.com/money/story/122979/8800119",
+      "source": "money.udn.com",
+      "published": 1760112219
     },
     {
       "id": "311de202e053",
@@ -273,27 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9062979",
       "source": "money.udn.com",
       "published": 1760110489
-    },
-    {
-      "id": "02040a6b7488",
-      "title": "川普社媒發文 暗示可能不去南韓「川習會」",
-      "url": "https://money.udn.com/money/story/5599/9062977",
-      "source": "money.udn.com",
-      "published": 1760110408
-    },
-    {
-      "id": "6a737de39920",
-      "title": "英外相：中國構成安全威脅　含跨國鎮壓及間諜活動",
-      "url": "https://money.udn.com/money/story/5599/9062972",
-      "source": "money.udn.com",
-      "published": 1760110208
-    },
-    {
-      "id": "b9305a538e5b",
-      "title": "川普：已無理由在 APEC 與習近平會面 要大幅提高對中國的關稅 道瓊翻黑重挫500點",
-      "url": "https://money.udn.com/money/story/5599/9062958",
-      "source": "money.udn.com",
-      "published": 1760109882
     },
     {
       "id": "35d231719157",
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1760120064
+  "build_id": 1760121831
 }
