@@ -1,6 +1,20 @@
 {
-  "updated": 1760123251,
+  "updated": 1760124748,
   "items": [
+    {
+      "id": "3b7ee166568a",
+      "title": "印度航空波音787頻故障　機師聯會籲停飛徹查",
+      "url": "https://money.udn.com/money/story/5599/9063106",
+      "source": "money.udn.com",
+      "published": 1760124637
+    },
+    {
+      "id": "e6b51e56e302",
+      "title": "美政府關門危機升級　白宮：大規模解雇聯邦員工",
+      "url": "https://money.udn.com/money/story/10511/9063102",
+      "source": "money.udn.com",
+      "published": 1760124095
+    },
     {
       "id": "c7e2fb1e3bed",
       "title": "特朗普称美国绝不允许中国用其稀土政策“俘虏”世界",
@@ -37,9 +51,9 @@
       "published": 1760118734
     },
     {
-      "id": "011f5eef9d1e",
+      "id": "f61b7b0fcd8d",
       "title": "川普揚言大幅調高對中關稅　美股盤中跌幅擴大",
-      "url": "https://money.udn.com/money/story/10511/9063076",
+      "url": "https://money.udn.com/money/story/123398/9063076",
       "source": "money.udn.com",
       "published": 1760118333
     },
@@ -100,16 +114,16 @@
       "published": 1760116568
     },
     {
-      "id": "447c8cb6db54",
+      "id": "16cf7483c9cd",
       "title": "川普威脅對中國課徵高額關稅　歐股受挫",
-      "url": "https://money.udn.com/money/story/10511/9063068",
+      "url": "https://money.udn.com/money/story/5599/9063068",
       "source": "money.udn.com",
       "published": 1760115971
     },
     {
-      "id": "0e7dfd7b1114",
+      "id": "3d73631bd5e4",
       "title": "川普：不再有理由見習近平　擬大幅調高對中關稅",
-      "url": "https://money.udn.com/money/story/10511/9063067",
+      "url": "https://money.udn.com/money/story/5599/9063067",
       "source": "money.udn.com",
       "published": 1760115971
     },
@@ -205,13 +219,6 @@
       "published": 1760112279
     },
     {
-      "id": "0c8d4a845210",
-      "title": "社群感行銷 1／一小時創2,000萬業績，它對決恐龍級樂天、Amazon如何以小搏大",
-      "url": "https://money.udn.com/money/story/122979/8800119",
-      "source": "money.udn.com",
-      "published": 1760112219
-    },
-    {
       "id": "311de202e053",
       "title": "新聞眼／T-Dome衛台？兩岸和平要政治解決",
       "url": "https://udn.com/news/story/124628/9062990",
@@ -280,13 +287,6 @@
       "url": "https://udn.com/news/story/124628/9062996",
       "source": "udn.com",
       "published": 1760112000
-    },
-    {
-      "id": "488c87d5450b",
-      "title": "川習會前累積談判籌碼 陸反壟斷大刀 砍向高通",
-      "url": "https://money.udn.com/money/story/5599/9062953",
-      "source": "money.udn.com",
-      "published": 1760111994
     },
     {
       "id": "f8126aeda916",
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1760123251
+  "build_id": 1760124748
 }
