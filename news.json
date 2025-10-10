@@ -1,6 +1,41 @@
 {
-  "updated": 1760117716,
+  "updated": 1760120064,
   "items": [
+    {
+      "id": "4f3344387194",
+      "title": "瑞士盼明年初與中簽新版自貿協定　擴大免稅範圍",
+      "url": "https://money.udn.com/money/story/5599/9063079",
+      "source": "money.udn.com",
+      "published": 1760119592
+    },
+    {
+      "id": "3cc403332812",
+      "title": "賴總統：打造護國群山 協助百工百業導入AI",
+      "url": "https://udn.com/news/story/124628/9063036",
+      "source": "udn.com",
+      "published": 1760118734
+    },
+    {
+      "id": "011f5eef9d1e",
+      "title": "川普揚言大幅調高對中關稅　美股盤中跌幅擴大",
+      "url": "https://money.udn.com/money/story/10511/9063076",
+      "source": "money.udn.com",
+      "published": 1760118333
+    },
+    {
+      "id": "10f84cf485a3",
+      "title": "新聞眼／韓國瑜務實「國是提醒」 執政者不聽續惡鬥",
+      "url": "https://udn.com/news/story/124628/9063033",
+      "source": "udn.com",
+      "published": 1760118298
+    },
+    {
+      "id": "f9059aec0bb0",
+      "title": "國民黨批賴總統國慶演說 「看不見反省與擔當」",
+      "url": "https://udn.com/news/story/124628/9063034",
+      "source": "udn.com",
+      "published": 1760117802
+    },
     {
       "id": "ee9c8cf9e609",
       "title": "美大動作救阿根廷匯市",
@@ -44,16 +79,16 @@
       "published": 1760116568
     },
     {
-      "id": "0e7dfd7b1114",
-      "title": "川普：不再有理由見習近平　擬大幅調高對中關稅",
-      "url": "https://money.udn.com/money/story/10511/9063067",
+      "id": "447c8cb6db54",
+      "title": "川普威脅對中國課徵高額關稅　歐股受挫",
+      "url": "https://money.udn.com/money/story/10511/9063068",
       "source": "money.udn.com",
       "published": 1760115971
     },
     {
-      "id": "447c8cb6db54",
-      "title": "川普威脅對中國課徵高額關稅　歐股受挫",
-      "url": "https://money.udn.com/money/story/10511/9063068",
+      "id": "0e7dfd7b1114",
+      "title": "川普：不再有理由見習近平　擬大幅調高對中關稅",
+      "url": "https://money.udn.com/money/story/10511/9063067",
       "source": "money.udn.com",
       "published": 1760115971
     },
@@ -275,39 +310,11 @@
       "published": 1760109799
     },
     {
-      "id": "227d2a6ac24c",
-      "title": "諾貝爾和平獎得主：委內瑞拉人期盼川普協助實現自由",
-      "url": "https://money.udn.com/money/story/10511/9062945",
-      "source": "money.udn.com",
-      "published": 1760109742
-    },
-    {
       "id": "6b0a8c9928d9",
       "title": "台北101國慶「無人機＋煙火」雙重盛典震撼夜空 上萬名民眾共襄盛舉",
       "url": "https://udn.com/news/story/124628/9062870",
       "source": "udn.com",
       "published": 1760107962
-    },
-    {
-      "id": "ae638c89a6d6",
-      "title": "日本自公聯盟破局  玉木雄一郎：已做好當首相決心",
-      "url": "https://money.udn.com/money/story/5599/9062857",
-      "source": "money.udn.com",
-      "published": 1760107532
-    },
-    {
-      "id": "a9d0a5a129e9",
-      "title": "15萬人湧入南投！萬焰齊發閃耀貓羅溪 歡慶中華民國國慶快樂",
-      "url": "https://udn.com/news/story/124628/9062836",
-      "source": "udn.com",
-      "published": 1760106371
-    },
-    {
-      "id": "6002246910a8",
-      "title": "駐韓國代表部慶雙十 強調台海和平重要性",
-      "url": "https://udn.com/news/story/124628/9062830",
-      "source": "udn.com",
-      "published": 1760106203
     },
     {
       "id": "0b448a98622c",
@@ -329,13 +336,6 @@
       "url": "https://www.dw.com/zh/德语媒体：揭开中联部的神秘面纱/a-74310654?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760104920
-    },
-    {
-      "id": "282068fb47e4",
-      "title": "郝龍斌控被網軍攻擊 張雅屏指網戰暗流「比過去任何一場都複雜」",
-      "url": "https://udn.com/news/story/122404/9062805",
-      "source": "udn.com",
-      "published": 1760104806
     },
     {
       "id": "66f5ff83f0f3",
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1760117716
+  "build_id": 1760120064
 }
