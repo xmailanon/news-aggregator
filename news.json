@@ -1,12 +1,40 @@
 {
-  "updated": 1760137719,
+  "updated": 1760139137,
   "items": [
+    {
+      "id": "fd60d54b88e1",
+      "title": "越南政商賀國慶：兩國共享「獨立、自由、幸福」價值",
+      "url": "https://money.udn.com/money/story/5599/9063181",
+      "source": "money.udn.com",
+      "published": 1760139033
+    },
+    {
+      "id": "90f0f6e32f98",
+      "title": "马查多获2025诺贝尔和平奖，联合国：这反映委内瑞拉人对民主的追求",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251010-%E9%A9%AC%E6%9F%A5%E5%A4%9A%E8%8E%B72025%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96%EF%BC%8C%E8%81%94%E5%90%88%E5%9B%BD-%E8%BF%99%E5%8F%8D%E6%98%A0%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BA%BA%E5%AF%B9%E6%B0%91%E4%B8%BB%E7%9A%84%E8%BF%BD%E6%B1%82",
+      "source": "rfi.fr",
+      "published": 1760137886
+    },
+    {
+      "id": "2c7197bbab91",
+      "title": "法国政治危机：“总统不能再是、也不应该再是‘体制的强人’”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251010-%E6%B3%95%E5%9B%BD%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA-%E6%80%BB%E7%BB%9F%E4%B8%8D%E8%83%BD%E5%86%8D%E6%98%AF-%E4%B9%9F%E4%B8%8D%E5%BA%94%E8%AF%A5%E5%86%8D%E6%98%AF-%E4%BD%93%E5%88%B6%E7%9A%84%E5%BC%BA%E4%BA%BA",
+      "source": "rfi.fr",
+      "published": 1760137686
+    },
     {
       "id": "45eec95e6cea",
       "title": "稱川習會尚未取消 川普：看接下來會發生什麼事？",
       "url": "https://money.udn.com/money/story/5599/9063174",
       "source": "money.udn.com",
       "published": 1760137007
+    },
+    {
+      "id": "9d7be47398c1",
+      "title": "國慶演說5重點 他指賴清德沒說這4字、韓國瑜堰塞湖比喻為1事",
+      "url": "https://udn.com/news/story/124628/9063173",
+      "source": "udn.com",
+      "published": 1760136905
     },
     {
       "id": "40b33e02d401",
@@ -247,13 +275,6 @@
       "published": 1760117615
     },
     {
-      "id": "a56387fa1885",
-      "title": "墨國加徵關稅案 11月再議",
-      "url": "https://money.udn.com/money/story/5599/9062879",
-      "source": "money.udn.com",
-      "published": 1760117591
-    },
-    {
       "id": "8929833b0959",
       "title": "韓國瑜：3座隱形堰塞湖威脅台灣 大家齊心努力排除",
       "url": "https://udn.com/news/story/124628/9063031",
@@ -324,6 +345,13 @@
       "published": 1760112228
     },
     {
+      "id": "3877c79ebacf",
+      "title": "以军：加沙停火协议已生效",
+      "url": "https://www.ftchinese.com/story/001107830",
+      "source": "ftchinese.com",
+      "published": 1760112000
+    },
+    {
       "id": "311de202e053",
       "title": "新聞眼／T-Dome衛台？兩岸和平要政治解決",
       "url": "https://udn.com/news/story/124628/9062990",
@@ -362,13 +390,6 @@
       "id": "f505c03b17d9",
       "title": "學者：賴清德疑受美壓力 國慶演說未提政治定位",
       "url": "https://udn.com/news/story/124628/9062980",
-      "source": "udn.com",
-      "published": 1760112000
-    },
-    {
-      "id": "ef13fa8f1504",
-      "title": "國民黨主席大戰！郝龍斌、張亞中控境外網軍介選",
-      "url": "https://udn.com/news/story/122404/9062986",
       "source": "udn.com",
       "published": 1760112000
     },
@@ -560,20 +581,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cr70gmdz2r7o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760083530
-    },
-    {
-      "id": "578a330c4e73",
-      "title": "赖清德总统台湾双十国庆演说：国防预算增加将加速打造「台湾之盾」防空系统",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E8%B5%96%E6%B8%85%E5%BE%B7%E6%80%BB%E7%BB%9F%E5%8F%B0%E6%B9%BE%E5%8F%8C%E5%8D%81%E5%9B%BD%E5%BA%86%E6%BC%94%E8%AF%B4-%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97%E5%A2%9E%E5%8A%A0%E5%B0%86%E5%8A%A0%E9%80%9F%E6%89%93%E9%80%A0-%E5%8F%B0%E6%B9%BE%E4%B9%8B%E7%9B%BE-%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F",
-      "source": "rfi.fr",
-      "published": 1760082992
-    },
-    {
-      "id": "70d835cd76ad",
-      "title": "流亡者家属遭控「23条」首案开审 郭凤仪父涉处理潜逃者财产罪表证成立",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E6%B5%81%E4%BA%A1%E8%80%85%E5%AE%B6%E5%B1%9E%E9%81%AD%E6%8E%A7-23%E6%9D%A1-%E9%A6%96%E6%A1%88%E5%BC%80%E5%AE%A1-%E9%83%AD%E5%87%A4%E4%BB%AA%E7%88%B6%E6%B6%89%E5%A4%84%E7%90%86%E6%BD%9C%E9%80%83%E8%80%85%E8%B4%A2%E4%BA%A7%E7%BD%AA%E8%A1%A8%E8%AF%81%E6%88%90%E7%AB%8B",
-      "source": "rfi.fr",
-      "published": 1760082517
     },
     {
       "id": "08c2786a05ce",
@@ -887,13 +894,6 @@
       "id": "1020478e86ab",
       "title": "每周时事分析：朝鲜以武力恫吓应对朝美谈判",
       "url": "https://www.ftchinese.com/story/001107812",
-      "source": "ftchinese.com",
-      "published": 1759939200
-    },
-    {
-      "id": "d0dc0957e2e0",
-      "title": "马斯克与特朗普和解只是时间问题",
-      "url": "https://www.ftchinese.com/story/001107811",
       "source": "ftchinese.com",
       "published": 1759939200
     },
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1760137719
+  "build_id": 1760139137
 }
