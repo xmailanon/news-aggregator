@@ -1,6 +1,27 @@
 {
-  "updated": 1760180830,
+  "updated": 1760182325,
   "items": [
+    {
+      "id": "8cf9bdb664a3",
+      "title": "旅英僑界國慶晚會 姚金祥籲壯大聲量傳達台灣立場",
+      "url": "https://udn.com/news/story/124628/9064013",
+      "source": "udn.com",
+      "published": 1760181977
+    },
+    {
+      "id": "ff0941975ade",
+      "title": "美允卡達在愛達荷州空軍基地建設施　供F-15機隊駐紮",
+      "url": "https://money.udn.com/money/story/5599/9064012",
+      "source": "money.udn.com",
+      "published": 1760181127
+    },
+    {
+      "id": "a0a57a3201e4",
+      "title": "担忧国家安全：美电商下架数百万件中国违禁电子产品",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251011-%E6%8B%85%E5%BF%A7%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8-%E7%BE%8E%E7%94%B5%E5%95%86%E4%B8%8B%E6%9E%B6%E6%95%B0%E7%99%BE%E4%B8%87%E4%BB%B6%E4%B8%AD%E5%9B%BD%E8%BF%9D%E7%A6%81%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81",
+      "source": "rfi.fr",
+      "published": 1760180934
+    },
     {
       "id": "b4471cbeedad",
       "title": "巴基斯坦西北部攻擊事件奪23命　武裝組織聲稱犯案",
@@ -14,6 +35,13 @@
       "url": "https://money.udn.com/money/story/5599/9064007",
       "source": "money.udn.com",
       "published": 1760180730
+    },
+    {
+      "id": "58b8a8759e63",
+      "title": "特朗普：加沙停火协议“可持续”",
+      "url": "https://www.dw.com/zh/特朗普：加沙停火协议-可持续/a-74318745?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1760180580
     },
     {
       "id": "279a9b278027",
@@ -317,25 +345,11 @@
       "published": 1760165502
     },
     {
-      "id": "0bd6c9745490",
-      "title": "出席鶯歌座談會 鄭麗文引用韓國瑜「3個堰塞湖」：為台灣拚經濟拚和平",
-      "url": "https://udn.com/news/story/122404/9063748",
-      "source": "udn.com",
-      "published": 1760165407
-    },
-    {
       "id": "463e42935c93",
       "title": "美國反對全球海運碳稅 警告將制裁支持國家",
       "url": "https://money.udn.com/money/story/10511/9063734",
       "source": "money.udn.com",
       "published": 1760164208
-    },
-    {
-      "id": "f9037371cf6c",
-      "title": "日在野黨共推首相人選成焦點　玉木雄一郎行情看漲",
-      "url": "https://money.udn.com/money/story/10511/9063721",
-      "source": "money.udn.com",
-      "published": 1760163138
     },
     {
       "id": "784df2638f55",
@@ -688,13 +702,6 @@
       "published": 1760088679
     },
     {
-      "id": "cb01043401cb",
-      "title": "日本公明党宣布退出与自民党联合执政  高市早苗面临无法当选首相危机",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E6%97%A5%E6%9C%AC%E5%85%AC%E6%98%8E%E5%85%9A%E5%AE%A3%E5%B8%83%E9%80%80%E5%87%BA%E4%B8%8E%E8%87%AA%E6%B0%91%E5%85%9A%E8%81%94%E5%90%88%E6%89%A7%E6%94%BF-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%9D%A2%E4%B8%B4%E6%97%A0%E6%B3%95%E5%BD%93%E9%80%89%E9%A6%96%E7%9B%B8%E5%8D%B1%E6%9C%BA",
-      "source": "rfi.fr",
-      "published": 1760088059
-    },
-    {
       "id": "46f8549f6d8f",
       "title": "加沙暫時停火後，未來會發生什麼？",
       "url": "https://www.bbc.com/zhongwen/articles/cr70gmdz2r7o/trad?at_medium=RSS&at_campaign=rss",
@@ -707,13 +714,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c784244y792o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760079282
-    },
-    {
-      "id": "627f50666c38",
-      "title": "台灣雙十慶典 賴清德喊話中國「侵略必敗」",
-      "url": "https://www.dw.com/zh/台灣雙十慶典-賴清德喊話中國「侵略必敗」/a-74300655?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1760072820
     },
     {
       "id": "823584595c72",
@@ -1402,5 +1402,5 @@
       "published": 1757597760
     }
   ],
-  "build_id": 1760180830
+  "build_id": 1760182325
 }
