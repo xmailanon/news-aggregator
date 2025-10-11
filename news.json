@@ -1,6 +1,13 @@
 {
-  "updated": 1760195287,
+  "updated": 1760196715,
   "items": [
+    {
+      "id": "8de05af8acba",
+      "title": "身患前列腺癌 发言人：拜登正接受放射治疗",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251011-%E8%BA%AB%E6%82%A3%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C-%E5%8F%91%E8%A8%80%E4%BA%BA-%E6%8B%9C%E7%99%BB%E6%AD%A3%E6%8E%A5%E5%8F%97%E6%94%BE%E5%B0%84%E6%B2%BB%E7%96%97",
+      "source": "rfi.fr",
+      "published": 1760196108
+    },
     {
       "id": "336c80f807a8",
       "title": "以色列準備依加薩停火協議釋囚　已開始將受刑人移監",
@@ -14,6 +21,13 @@
       "url": "https://money.udn.com/money/story/5599/9064237",
       "source": "money.udn.com",
       "published": 1760194967
+    },
+    {
+      "id": "76465ea96559",
+      "title": "泽连斯基与特朗普通话：若战争能在中东被制止，俄罗斯的战争也能被制止",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251011-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D-%E8%8B%A5%E6%88%98%E4%BA%89%E8%83%BD%E5%9C%A8%E4%B8%AD%E4%B8%9C%E8%A2%AB%E5%88%B6%E6%AD%A2%EF%BC%8C%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E6%88%98%E4%BA%89%E4%B9%9F%E8%83%BD%E8%A2%AB%E5%88%B6%E6%AD%A2",
+      "source": "rfi.fr",
+      "published": 1760194791
     },
     {
       "id": "d122a9844f27",
@@ -632,13 +646,6 @@
       "published": 1760104920
     },
     {
-      "id": "66f5ff83f0f3",
-      "title": "前FBI局长科米如何成为特朗普眼中钉？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20251010-%E5%89%8Dfbi%E5%B1%80%E9%95%BF%E7%A7%91%E7%B1%B3%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%BC%E4%B8%AD%E9%92%89",
-      "source": "rfi.fr",
-      "published": 1760104618
-    },
-    {
       "id": "e738b89daeaa",
       "title": "高市早苗首相之路恐生变数",
       "url": "https://www.dw.com/zh/高市早苗首相之路恐生变数/a-74311142?maca=chi-rss-chi-all-1127-rdf",
@@ -665,13 +672,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cy4j91njj85o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760098032
-    },
-    {
-      "id": "542812ae234f",
-      "title": "被指涉违反反垄断法 中国监管部门对高通开展立案调查",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E8%A2%AB%E6%8C%87%E6%B6%89%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95-%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E5%AF%B9%E9%AB%98%E9%80%9A%E5%BC%80%E5%B1%95%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
-      "source": "rfi.fr",
-      "published": 1760097595
     },
     {
       "id": "8f705c9972c8",
@@ -1381,5 +1381,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760195287
+  "build_id": 1760196715
 }
