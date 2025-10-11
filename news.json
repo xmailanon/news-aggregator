@@ -1,6 +1,41 @@
 {
-  "updated": 1760157459,
+  "updated": 1760159325,
   "items": [
+    {
+      "id": "46f36e175f19",
+      "title": "CSIS專家：中國反將一軍 新稀土管制威脅美國國防供應鏈",
+      "url": "https://money.udn.com/money/story/5599/9063621",
+      "source": "money.udn.com",
+      "published": 1760158832
+    },
+    {
+      "id": "f72137717ef6",
+      "title": "賴清德國慶演說兩岸篇幅降 2亮點背後藏「老大哥」影子",
+      "url": "https://udn.com/news/story/6656/9063619",
+      "source": "udn.com",
+      "published": 1760158565
+    },
+    {
+      "id": "12536ee362a6",
+      "title": "中国推进电网升级：西电东送，建设特高压输电网络",
+      "url": "https://cn.nytimes.com/business/20251011/china-electric-grid/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1760158390
+    },
+    {
+      "id": "c4539fc38bb2",
+      "title": "花蓮洪災毀家災民苦 申請慰助金已破3千件",
+      "url": "https://udn.com/news/story/124616/9063612",
+      "source": "udn.com",
+      "published": 1760158144
+    },
+    {
+      "id": "c7604d73b0e0",
+      "title": "以色列撤軍巴勒斯坦人踏歸途　加薩後續一次看",
+      "url": "https://money.udn.com/money/story/10511/9063604",
+      "source": "money.udn.com",
+      "published": 1760157908
+    },
     {
       "id": "f8ae1697b690",
       "title": "聯準會官員 Musalem：如果勞動力市場走弱 對進一步降息持開放態度",
@@ -240,25 +275,11 @@
       "published": 1760147433
     },
     {
-      "id": "2f0930682629",
-      "title": "美國委內瑞拉緊張升高　聯合國安理會多國關切",
-      "url": "https://money.udn.com/money/story/5599/9063287",
-      "source": "money.udn.com",
-      "published": 1760147109
-    },
-    {
       "id": "52396bac63e4",
       "title": "獨／軍愛民！美返台役男棄10天積假留光復救災 還當起外媒翻譯",
       "url": "https://udn.com/news/story/124616/9063274",
       "source": "udn.com",
       "published": 1760146702
-    },
-    {
-      "id": "c24834334e06",
-      "title": "越南1本繪本45元貧童買不起　台灣愛心助圓閱讀夢",
-      "url": "https://money.udn.com/money/story/5599/9063272",
-      "source": "money.udn.com",
-      "published": 1760146568
     },
     {
       "id": "dd0d9f6f7a59",
@@ -273,20 +294,6 @@
       "url": "https://udn.com/news/story/7314/9063199",
       "source": "udn.com",
       "published": 1760145323
-    },
-    {
-      "id": "e551258e64bd",
-      "title": "國慶致詞遭綠圍剿 韓國瑜臉書卻讚聲爆表：比萊爾校長更像總統",
-      "url": "https://udn.com/news/story/124628/9063233",
-      "source": "udn.com",
-      "published": 1760144863
-    },
-    {
-      "id": "5da544f95cfb",
-      "title": "國慶「鏟子超人」驚喜拿到隱藏版礦泉水 網哭：五月天心中永遠有花蓮",
-      "url": "https://udn.com/news/story/124616/9063232",
-      "source": "udn.com",
-      "published": 1760144824
     },
     {
       "id": "14c3ac7ed82b",
@@ -1297,13 +1304,6 @@
       "published": 1758956400
     },
     {
-      "id": "16755f663c68",
-      "title": "中国的绿色能源雄心将给世界带来什么代价？",
-      "url": "https://cn.nytimes.com/asia-pacific/20250926/china-green-tech-laos/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1758839504
-    },
-    {
       "id": "210842e03af9",
       "title": "TikTok中美协议将达成 美国TikTok用户怎么看",
       "url": "https://www.dw.com/zh/tiktok中美协议将达成-美国tiktok用户怎么看/a-74122512?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1760157459
+  "build_id": 1760159325
 }
