@@ -1,12 +1,47 @@
 {
-  "updated": 1760151911,
+  "updated": 1760154046,
   "items": [
     {
-      "id": "0e520f302823",
-      "title": "輝達案北市用新新併反擊 估價師：擊中要害了、新壽恐一毛錢也拿不到",
-      "url": "https://udn.com/news/story/6656/9063433",
+      "id": "42aebca47964",
+      "title": "川普對中關稅衝擊市場 美股下挫近3％、比特幣一度跌至10萬美元",
+      "url": "https://money.udn.com/money/story/5599/9063495",
+      "source": "money.udn.com",
+      "published": 1760153646
+    },
+    {
+      "id": "08b92771f350",
+      "title": "紐時評析：諾貝爾獎讚揚慢科學 耐心探索改變未來",
+      "url": "https://money.udn.com/money/story/5599/9063481",
+      "source": "money.udn.com",
+      "published": 1760153406
+    },
+    {
+      "id": "f69b0955d8e2",
+      "title": "南韓科技大危機！三星才陷機密外流風波   再傳300菁英跑去華為",
+      "url": "https://money.udn.com/money/story/5599/9063476",
+      "source": "money.udn.com",
+      "published": 1760153255
+    },
+    {
+      "id": "636d505b2029",
+      "title": "指大量大陸頻道介入國民黨主席選舉 趙少康：我沒點名鄭麗文",
+      "url": "https://udn.com/news/story/122404/9063457",
       "source": "udn.com",
-      "published": 1760151832
+      "published": 1760152797
+    },
+    {
+      "id": "fa0ca5e151a8",
+      "title": "淤泥實在太深…光復鄉佛祖街一帶35戶「還未出土」",
+      "url": "https://udn.com/news/story/124616/9063454",
+      "source": "udn.com",
+      "published": 1760152646
+    },
+    {
+      "id": "46e32185db6b",
+      "title": "川普回應中國限制稀土出口再出招 可能管制波音零組件",
+      "url": "https://money.udn.com/money/story/5599/9063442",
+      "source": "money.udn.com",
+      "published": 1760152239
     },
     {
       "id": "7ae88d00b2d8",
@@ -16,9 +51,9 @@
       "published": 1760151643
     },
     {
-      "id": "4cbfd2afacdc",
+      "id": "2e1da3a1b8bc",
       "title": "韓國瑜3堰塞湖說遭綠圍剿 立院人士：膝反射在自曝其短？",
-      "url": "https://udn.com/news/story/6656/9063413",
+      "url": "https://udn.com/news/story/124628/9063413",
       "source": "udn.com",
       "published": 1760151544
     },
@@ -233,39 +268,11 @@
       "published": 1760142417
     },
     {
-      "id": "d7faac7d116b",
-      "title": "川普預期加薩停火協議將「持續」：雙方已厭倦戰鬥",
-      "url": "https://money.udn.com/money/story/10511/9063201",
-      "source": "money.udn.com",
-      "published": 1760142073
-    },
-    {
-      "id": "f6d0439b95ac",
-      "title": "駐拉脫維亞代表李憲章卸任　拉國友台議員設宴歡送",
-      "url": "https://money.udn.com/money/story/5599/9063199",
-      "source": "money.udn.com",
-      "published": 1760141527
-    },
-    {
-      "id": "5533996c7e1a",
-      "title": "影／現場如地獄！美田納西州炸藥廠驚天爆炸 19人下落不明",
-      "url": "https://money.udn.com/money/story/5599/9063198",
-      "source": "money.udn.com",
-      "published": 1760141324
-    },
-    {
       "id": "35e959c92a60",
       "title": "特朗普威脅對中國加徵額外100%關稅",
       "url": "https://www.bbc.com/zhongwen/articles/c80g88npy35o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760140506
-    },
-    {
-      "id": "fd60d54b88e1",
-      "title": "越南政商賀國慶：兩國共享「獨立、自由、幸福」價值",
-      "url": "https://money.udn.com/money/story/5599/9063181",
-      "source": "money.udn.com",
-      "published": 1760139033
     },
     {
       "id": "90f0f6e32f98",
@@ -387,13 +394,6 @@
       "published": 1760118734
     },
     {
-      "id": "10f84cf485a3",
-      "title": "新聞眼／韓國瑜務實「國是提醒」 執政者不聽續惡鬥",
-      "url": "https://udn.com/news/story/124628/9063033",
-      "source": "udn.com",
-      "published": 1760118298
-    },
-    {
       "id": "e664fc13c07c",
       "title": "中国紧缩稀土出口德国企业受连累",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E4%B8%AD%E5%9B%BD%E7%B4%A7%E7%BC%A9%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E5%BE%B7%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%8F%97%E8%BF%9E%E7%B4%AF",
@@ -406,6 +406,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251010-%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%80%BC%E4%B8%AD%E5%9B%BD-%E5%A8%81%E8%83%81%E6%8F%90%E9%AB%98%E5%85%B3%E7%A8%8E-%E6%B2%A1%E5%BF%85%E8%A6%81-%E8%A7%81%E4%B9%A0%E8%BF%91%E5%B9%B3",
       "source": "rfi.fr",
       "published": 1760114482
+    },
+    {
+      "id": "af9680908c6d",
+      "title": "中国对组建“G10”不会感兴趣",
+      "url": "https://www.ftchinese.com/story/001107832",
+      "source": "ftchinese.com",
+      "published": 1760112000
     },
     {
       "id": "79a6492d9de6",
@@ -905,13 +912,6 @@
       "published": 1759952098
     },
     {
-      "id": "9f53112ae65c",
-      "title": "中国扩大稀土出口管制以维护“国家安全”",
-      "url": "https://www.ftchinese.com/story/001107816",
-      "source": "ftchinese.com",
-      "published": 1759939200
-    },
-    {
       "id": "7946089fd0c1",
       "title": "为了欧洲“再工业化”：钢铁关税加倍 进口配额减半",
       "url": "https://www.dw.com/zh/为了欧洲-再工业化-：钢铁关税加倍-进口配额减半/a-74278202?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1757839380
     }
   ],
-  "build_id": 1760151911
+  "build_id": 1760154046
 }
