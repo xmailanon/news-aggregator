@@ -1,6 +1,13 @@
 {
-  "updated": 1760214750,
+  "updated": 1760216833,
   "items": [
+    {
+      "id": "e8bea049f300",
+      "title": "德国智库：欧盟应把握军事预算大幅增长之机投资稀土",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251011-%E5%BE%B7%E5%9B%BD%E6%99%BA%E5%BA%93-%E6%AC%A7%E7%9B%9F%E5%BA%94%E6%8A%8A%E6%8F%A1%E5%86%9B%E4%BA%8B%E9%A2%84%E7%AE%97%E5%A4%A7%E5%B9%85%E5%A2%9E%E9%95%BF%E4%B9%8B%E6%9C%BA%E6%8A%95%E8%B5%84%E7%A8%80%E5%9C%9F",
+      "source": "rfi.fr",
+      "published": 1760215130
+    },
     {
       "id": "5d38ce6a8ef4",
       "title": "德國中部城鎮市集發生槍擊事件　至少3傷",
@@ -616,13 +623,6 @@
       "url": "https://www.ftchinese.com/story/001107830",
       "source": "ftchinese.com",
       "published": 1760112000
-    },
-    {
-      "id": "f8126aeda916",
-      "title": "中国加快建设石油储备基地提升储备并扩大稀土出口限制",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20251010-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E7%9F%B3%E6%B2%B9%E5%82%A8%E5%A4%87%E5%9F%BA%E5%9C%B0%E6%8F%90%E5%8D%87%E5%82%A8%E5%A4%87%E5%B9%B6%E6%89%A9%E5%A4%A7%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6",
-      "source": "rfi.fr",
-      "published": 1760111333
     },
     {
       "id": "385b18fb8868",
@@ -1381,5 +1381,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760214750
+  "build_id": 1760216833
 }
