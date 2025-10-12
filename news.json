@@ -1,6 +1,20 @@
 {
-  "updated": 1760265351,
+  "updated": 1760267227,
   "items": [
+    {
+      "id": "3071b6e86c35",
+      "title": "英媒：美國助烏克蘭襲俄羅斯煉油廠　逼蒲亭上談判桌",
+      "url": "https://money.udn.com/money/story/5599/9065279",
+      "source": "money.udn.com",
+      "published": 1760266892
+    },
+    {
+      "id": "51f85f1c51ad",
+      "title": "揭密「饅頭問政」 郝龍斌：和韓國瑜、江啟臣討論這兩事",
+      "url": "https://udn.com/news/story/122404/9065270",
+      "source": "udn.com",
+      "published": 1760265905
+    },
     {
       "id": "25bb2a7e24b1",
       "title": "俄武裝人員出現「靴子地帶」 愛沙尼亞暫封通道",
@@ -345,25 +359,11 @@
       "published": 1760250633
     },
     {
-      "id": "40701ac32b59",
-      "title": "華郵：美中像「快離婚但同居」怨偶 衝突升溫預示邁向徹底對抗",
-      "url": "https://money.udn.com/money/story/5599/9065004",
-      "source": "money.udn.com",
-      "published": 1760250335
-    },
-    {
       "id": "e35c7174f06d",
       "title": "Windows 10即將退場，微軟促用戶儘快提前準備",
       "url": "https://www.bbc.com/zhongwen/articles/cevzv77lye8o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760248329
-    },
-    {
-      "id": "2b037d9a2f70",
-      "title": "王世堅神曲現象 靠抖音「反攻大陸」不無可能？",
-      "url": "https://udn.com/news/story/6656/9064946",
-      "source": "udn.com",
-      "published": 1760247609
     },
     {
       "id": "4c69e9b4b15f",
@@ -721,13 +721,6 @@
       "url": "https://www.dw.com/zh/德国政府拟放宽欧盟2035-燃油车禁令/a-74305677?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760091540
-    },
-    {
-      "id": "37d7be0e3eba",
-      "title": "金正恩与李强会晤 强调“朝中关系牢不可破”",
-      "url": "https://www.dw.com/zh/金正恩与李强会晤-强调-朝中关系牢不可破/a-74303583?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1760089860
     },
     {
       "id": "a30fdd8f6e0e",
@@ -1388,5 +1381,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760265351
+  "build_id": 1760267227
 }
