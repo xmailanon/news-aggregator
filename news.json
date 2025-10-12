@@ -1,6 +1,48 @@
 {
-  "updated": 1760288849,
+  "updated": 1760290308,
   "items": [
+    {
+      "id": "41b300022d61",
+      "title": "全球經濟 四大風險浮現",
+      "url": "https://money.udn.com/money/story/5599/9065608",
+      "source": "money.udn.com",
+      "published": 1760290183
+    },
+    {
+      "id": "e6f935788d5a",
+      "title": "自民黨可能丟掉執政權 日相選舉推演三劇本",
+      "url": "https://money.udn.com/money/story/5599/9065603",
+      "source": "money.udn.com",
+      "published": 1760290156
+    },
+    {
+      "id": "703c135ca24e",
+      "title": "川普將主持加薩和平峰會",
+      "url": "https://money.udn.com/money/story/5599/9065600",
+      "source": "money.udn.com",
+      "published": 1760290125
+    },
+    {
+      "id": "82321afdb6d5",
+      "title": "xAI加入「世界模型」競爭",
+      "url": "https://money.udn.com/money/story/5599/9065595",
+      "source": "money.udn.com",
+      "published": 1760290117
+    },
+    {
+      "id": "83879f846014",
+      "title": "巴菲特持續加碼五大商社",
+      "url": "https://money.udn.com/money/story/5599/9065598",
+      "source": "money.udn.com",
+      "published": 1760290116
+    },
+    {
+      "id": "848273d18a64",
+      "title": "1分鐘看世界／川普指示挪用資金 如期發放軍餉",
+      "url": "https://money.udn.com/money/story/5599/9065493",
+      "source": "money.udn.com",
+      "published": 1760289861
+    },
     {
       "id": "eba95c02307c",
       "title": "花蓮堰塞湖新河道 暴雨、地震後邊坡崩滑機率高",
@@ -317,53 +359,11 @@
       "published": 1760266892
     },
     {
-      "id": "25bb2a7e24b1",
-      "title": "俄武裝人員出現「靴子地帶」 愛沙尼亞暫封通道",
-      "url": "https://money.udn.com/money/story/5599/9065266",
-      "source": "money.udn.com",
-      "published": 1760265368
-    },
-    {
       "id": "0d6dbf4aaf6c",
       "title": "美据报数月来提供情报助乌对俄能源设施发动远程打击 泽特通话谈及战斧导弹问题",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251012-%E7%BE%8E%E6%8D%AE%E6%8A%A5%E6%95%B0%E6%9C%88%E6%9D%A5%E6%8F%90%E4%BE%9B%E6%83%85%E6%8A%A5%E5%8A%A9%E4%B9%8C%E5%AF%B9%E4%BF%84%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%E5%8F%91%E5%8A%A8%E8%BF%9C%E7%A8%8B%E6%89%93%E5%87%BB-%E6%B3%BD%E7%89%B9%E9%80%9A%E8%AF%9D%E8%B0%88%E5%8F%8A%E6%88%98%E6%96%A7%E5%AF%BC%E5%BC%B9%E9%97%AE%E9%A2%98",
       "source": "rfi.fr",
       "published": 1760265132
-    },
-    {
-      "id": "1a6d96f8aba8",
-      "title": "反制陸壟斷！美國防部加速積累關鍵礦產庫存 對市場供給造成壓力",
-      "url": "https://money.udn.com/money/story/5599/9065263",
-      "source": "money.udn.com",
-      "published": 1760265088
-    },
-    {
-      "id": "2b92eac09e04",
-      "title": "菲律賓南部接連強震   2萬多人無家可歸",
-      "url": "https://money.udn.com/money/story/5599/9065255",
-      "source": "money.udn.com",
-      "published": 1760264024
-    },
-    {
-      "id": "3e158758aa45",
-      "title": "仍在加碼！「股神」巴菲特對日本商社持股 市值突破300億美元",
-      "url": "https://money.udn.com/money/story/5599/9065252",
-      "source": "money.udn.com",
-      "published": 1760263709
-    },
-    {
-      "id": "dc7f83d4e037",
-      "title": "加薩停火生效後　歐洲和澳洲民眾遊行聲援巴勒斯坦",
-      "url": "https://money.udn.com/money/story/5599/9065235",
-      "source": "money.udn.com",
-      "published": 1760262848
-    },
-    {
-      "id": "080396cad417",
-      "title": "消息人士：哈瑪斯不會參與戰後加薩治理",
-      "url": "https://money.udn.com/money/story/5599/9065234",
-      "source": "money.udn.com",
-      "published": 1760262848
     },
     {
       "id": "a49cc4ff5f0a",
@@ -1388,5 +1388,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760288849
+  "build_id": 1760290308
 }
