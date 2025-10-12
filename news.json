@@ -1,6 +1,48 @@
 {
-  "updated": 1760251329,
+  "updated": 1760252917,
   "items": [
+    {
+      "id": "5577c43282ec",
+      "title": "加強安全管控　歐盟數位出入境系統上路",
+      "url": "https://money.udn.com/money/story/5599/9065048",
+      "source": "money.udn.com",
+      "published": 1760252769
+    },
+    {
+      "id": "7b462b07ee25",
+      "title": "美駐印大使戈爾會見莫迪　對美印關係前景樂觀",
+      "url": "https://money.udn.com/money/story/10511/9065041",
+      "source": "money.udn.com",
+      "published": 1760252434
+    },
+    {
+      "id": "2b3ff0d007fb",
+      "title": "花蓮光復災區清溝進度 彭啓明：今挺進超過20公里",
+      "url": "https://udn.com/news/story/124616/9065025",
+      "source": "udn.com",
+      "published": 1760251556
+    },
+    {
+      "id": "bcbda1a5c40b",
+      "title": "泰國外長赴馬來西亞　就緩解泰柬局勢會談",
+      "url": "https://money.udn.com/money/story/5599/9065029",
+      "source": "money.udn.com",
+      "published": 1760251554
+    },
+    {
+      "id": "c16df3545f6a",
+      "title": "海鋒士兵洩密中共 國防部：已損管建機密認證機制",
+      "url": "https://udn.com/news/story/10930/9065027",
+      "source": "udn.com",
+      "published": 1760251530
+    },
+    {
+      "id": "80c366ad8a39",
+      "title": "清溝加速 彭啓明感謝志工「災後重生的溫暖力量」",
+      "url": "https://udn.com/news/story/124616/9065014",
+      "source": "udn.com",
+      "published": 1760251048
+    },
     {
       "id": "9c63a37c39d6",
       "title": "北韓水壩無預警洩洪  南韓急發防災預警簡訊",
@@ -219,32 +261,11 @@
       "published": 1760240772
     },
     {
-      "id": "06a7e438fa5e",
-      "title": "保訓會10月20日設安衛防護處 掌理職場霸凌裁罰8業務",
-      "url": "https://udn.com/news/story/6656/9064752",
-      "source": "udn.com",
-      "published": 1760240760
-    },
-    {
       "id": "c7bcf11997b5",
       "title": "澤倫斯基與川普通電話 討論了加強防空和對烏克蘭的支持",
       "url": "https://money.udn.com/money/story/5599/9064309",
       "source": "money.udn.com",
       "published": 1760240620
-    },
-    {
-      "id": "fc7bf027079e",
-      "title": "縣市長初選「南綠內戰化」 綠憂2026蝴蝶效應蔓延全台",
-      "url": "https://udn.com/news/story/6656/9064740",
-      "source": "udn.com",
-      "published": 1760240255
-    },
-    {
-      "id": "c621082f8cfe",
-      "title": "大陸網軍介入藍主席選舉？ 鄭麗文陣營：指控要有證據",
-      "url": "https://udn.com/news/story/122404/9064739",
-      "source": "udn.com",
-      "published": 1760240241
     },
     {
       "id": "11c5ac1c1da2",
@@ -268,32 +289,11 @@
       "published": 1760238049
     },
     {
-      "id": "033b904973c5",
-      "title": "美中為何又開槓？4大關鍵問題一次看 川習其實各留後手",
-      "url": "https://money.udn.com/money/story/5599/9064658",
-      "source": "money.udn.com",
-      "published": 1760237435
-    },
-    {
       "id": "4c69e9b4b15f",
       "title": "美國前總統拜登正接受攝護腺癌放射治療",
       "url": "https://www.bbc.com/zhongwen/articles/cd727zj1xl3o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760237010
-    },
-    {
-      "id": "680fa0095765",
-      "title": "川普派國民兵赴芝加哥  上訴法院：禁出任務",
-      "url": "https://money.udn.com/money/story/10511/9064623",
-      "source": "money.udn.com",
-      "published": 1760236208
-    },
-    {
-      "id": "9fbbefc17ef0",
-      "title": "以色列人質獲釋在即 哈瑪斯：13日展開換囚行動",
-      "url": "https://money.udn.com/money/story/5599/9064552",
-      "source": "money.udn.com",
-      "published": 1760232992
     },
     {
       "id": "219dbcec476d",
@@ -514,7 +514,7 @@
     },
     {
       "id": "35e959c92a60",
-      "title": "特朗普威脅對中國加徵額外100%關稅",
+      "title": "特朗普威脅對中國加徵額外100%關稅 中方批評是典型的「雙重標準」",
       "url": "https://www.bbc.com/zhongwen/articles/c80g88npy35o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760140506
@@ -1381,5 +1381,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760251329
+  "build_id": 1760252917
 }
