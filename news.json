@@ -1,12 +1,47 @@
 {
-  "updated": 1760271378,
+  "updated": 1760273711,
   "items": [
+    {
+      "id": "552e6b4546d5",
+      "title": "台灣最悠久旅英學生總會50週年　江雅綺勉扮台英橋梁",
+      "url": "https://money.udn.com/money/story/5599/9065424",
+      "source": "money.udn.com",
+      "published": 1760273669
+    },
+    {
+      "id": "0934ae1c1edd",
+      "title": "聯合再生違法裝設中國通訊製品 黃國昌再爆反告國防部忝不知恥",
+      "url": "https://udn.com/news/story/6656/9065399",
+      "source": "udn.com",
+      "published": 1760272699
+    },
+    {
+      "id": "d6817841a200",
+      "title": "遇暴雨、地震邊坡仍會崩滑 立法院13日排堰塞湖監測專案報告",
+      "url": "https://udn.com/news/story/124616/9065382",
+      "source": "udn.com",
+      "published": 1760271283
+    },
     {
       "id": "9f33d4e915a3",
       "title": "潛在商機堪比全球經濟規模 馬斯克xAI加入「世界模型」戰局",
       "url": "https://money.udn.com/money/story/5599/9065372",
       "source": "money.udn.com",
       "published": 1760270924
+    },
+    {
+      "id": "1c7e1c4f55c9",
+      "title": "【重磅快評】賴總統宣示「台灣之盾」與不對稱建軍背道而馳？",
+      "url": "https://udn.com/news/story/10930/9065373",
+      "source": "udn.com",
+      "published": 1760270899
+    },
+    {
+      "id": "1d821778f276",
+      "title": "批賴政府刪地方補助「賴皮」惡搞百姓 國民黨團緊急修財劃法",
+      "url": "https://udn.com/news/story/6656/9065366",
+      "source": "udn.com",
+      "published": 1760270782
     },
     {
       "id": "35e959c92a60",
@@ -303,13 +338,6 @@
       "published": 1760259734
     },
     {
-      "id": "396cc53bdfaf",
-      "title": "周末精選／川普報復北京管制稀土、對陸加徵100%關稅 台股推演當心恐修正千點",
-      "url": "https://money.udn.com/money/story/5599/9065050",
-      "source": "money.udn.com",
-      "published": 1760259231
-    },
-    {
       "id": "e56a5ac4f6c7",
       "title": "日本大阪·关西世博会13日闭幕 运营经费实现约280亿日元黑字",
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251012-%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%C2%B7%E5%85%B3%E8%A5%BF%E4%B8%96%E5%8D%9A%E4%BC%9A13%E6%97%A5%E9%97%AD%E5%B9%95-%E8%BF%90%E8%90%A5%E7%BB%8F%E8%B4%B9%E5%AE%9E%E7%8E%B0%E7%BA%A6280%E4%BA%BF%E6%97%A5%E5%85%83%E9%BB%91%E5%AD%97",
@@ -329,34 +357,6 @@
       "url": "https://udn.com/news/story/6656/9065147",
       "source": "udn.com",
       "published": 1760258434
-    },
-    {
-      "id": "7d61bb3a6878",
-      "title": "國民黨主席選舉倒數 外部勢力干擾、棄保成變數",
-      "url": "https://udn.com/news/story/122404/9065136",
-      "source": "udn.com",
-      "published": 1760258001
-    },
-    {
-      "id": "eb96f6e79733",
-      "title": "凱基人壽力挺花蓮光復鄉援助志工 提供意外保障",
-      "url": "https://udn.com/news/story/124616/9065130",
-      "source": "udn.com",
-      "published": 1760257770
-    },
-    {
-      "id": "670cb5944b73",
-      "title": "不等行政院！南部綠委自提財劃法修正 盼改善重北輕南",
-      "url": "https://udn.com/news/story/6656/9065123",
-      "source": "udn.com",
-      "published": 1760257430
-    },
-    {
-      "id": "e526eb2980a7",
-      "title": "雄風二型飛彈教範遭共諜竊取 國防部稱已妥善損害管控",
-      "url": "https://udn.com/news/story/10930/9065121",
-      "source": "udn.com",
-      "published": 1760257361
     },
     {
       "id": "ad19c3582470",
@@ -1388,5 +1388,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760271378
+  "build_id": 1760273711
 }
