@@ -1,6 +1,34 @@
 {
-  "updated": 1760283125,
+  "updated": 1760285407,
   "items": [
+    {
+      "id": "1387662d97ac",
+      "title": "私募股權基金面臨嚴酷淘汰賽",
+      "url": "https://money.udn.com/money/story/122381/9065320",
+      "source": "money.udn.com",
+      "published": 1760284719
+    },
+    {
+      "id": "20010e282d73",
+      "title": "操盤老手嗅到商機 轉攻二級市場",
+      "url": "https://money.udn.com/money/story/122381/9065326",
+      "source": "money.udn.com",
+      "published": 1760284582
+    },
+    {
+      "id": "f3851c288e85",
+      "title": "郝龍斌自述「是她要我參選」 黃健豪猜是盧秀燕但無人曾證實",
+      "url": "https://udn.com/news/story/6656/9065717",
+      "source": "udn.com",
+      "published": 1760283561
+    },
+    {
+      "id": "0a550856cd23",
+      "title": "闻泰科技公告称海外半导体资产被荷兰冻结：已启动一切法律与外交途径",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251012-%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80%E5%85%AC%E5%91%8A%E7%A7%B0%E6%B5%B7%E5%A4%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%84%E4%BA%A7%E8%A2%AB%E8%8D%B7%E5%85%B0%E5%86%BB%E7%BB%93-%E5%B7%B2%E5%90%AF%E5%8A%A8%E4%B8%80%E5%88%87%E6%B3%95%E5%BE%8B%E4%B8%8E%E5%A4%96%E4%BA%A4%E9%80%94%E5%BE%84",
+      "source": "rfi.fr",
+      "published": 1760282933
+    },
     {
       "id": "ea9e6bba3d58",
       "title": "「某政黨」重啟選舉步調？ 謝國樑深夜發文：拒絕基隆成政黨選戰沙場",
@@ -338,13 +366,6 @@
       "published": 1760261622
     },
     {
-      "id": "dcc393e4023d",
-      "title": "南韓人口調查：70歲以上人口數首次超越20至29歲人口",
-      "url": "https://money.udn.com/money/story/5599/9065196",
-      "source": "money.udn.com",
-      "published": 1760260890
-    },
-    {
       "id": "5106559be328",
       "title": "花蓮洪災家具全毀 社工師全聯會籲：盡快媒合大型物資",
       "url": "https://udn.com/news/story/124616/9065194",
@@ -366,25 +387,11 @@
       "published": 1760260426
     },
     {
-      "id": "babf2e6aa03d",
-      "title": "美威脅對中加徵關稅　加密貨幣市值蒸發逾180億美元",
-      "url": "https://money.udn.com/money/story/5599/9065191",
-      "source": "money.udn.com",
-      "published": 1760260344
-    },
-    {
       "id": "a0da4f65a31e",
       "title": "立院13日堰塞湖監測專案報告 農業部：多元管道監控",
       "url": "https://udn.com/news/story/124616/9065177",
       "source": "udn.com",
       "published": 1760260204
-    },
-    {
-      "id": "1f0731b250ed",
-      "title": "台南再出動高壓吸泥車馳援花蓮 加速災區側溝清淤",
-      "url": "https://udn.com/news/story/124616/9065178",
-      "source": "udn.com",
-      "published": 1760260162
     },
     {
       "id": "e56a5ac4f6c7",
@@ -595,13 +602,6 @@
       "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251011-%E8%90%A7%E5%8D%8E%E6%8C%87-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-%E5%B0%86nba%E7%90%83%E6%98%9F%E8%A9%B9%E5%A7%86%E6%96%AF%E9%87%87%E8%AE%BF%E5%86%85%E5%AE%B9%E5%8F%98%E6%88%90%E7%BD%B2%E5%90%8D%E6%96%87%E7%AB%A0-%E4%B8%8D%E5%90%88%E9%80%82",
       "source": "rfi.fr",
       "published": 1760188595
-    },
-    {
-      "id": "a0a57a3201e4",
-      "title": "担忧国家安全：美电商下架数百万件中国违禁电子产品",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251011-%E6%8B%85%E5%BF%A7%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8-%E7%BE%8E%E7%94%B5%E5%95%86%E4%B8%8B%E6%9E%B6%E6%95%B0%E7%99%BE%E4%B8%87%E4%BB%B6%E4%B8%AD%E5%9B%BD%E8%BF%9D%E7%A6%81%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81",
-      "source": "rfi.fr",
-      "published": 1760180934
     },
     {
       "id": "58b8a8759e63",
@@ -1388,5 +1388,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760283125
+  "build_id": 1760285407
 }
