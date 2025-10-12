@@ -1,6 +1,13 @@
 {
-  "updated": 1760304728,
+  "updated": 1760306919,
   "items": [
+    {
+      "id": "3ad5fd716a92",
+      "title": "如何解读勒科尔尼II ？",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251012-%E5%A6%82%E4%BD%95%E8%A7%A3%E8%AF%BB%E5%8B%92%E7%A7%91%E5%B0%94%E5%B0%BCii",
+      "source": "rfi.fr",
+      "published": 1760305203
+    },
     {
       "id": "bd21d537bb8a",
       "title": "特朗普：要“帮助而不是伤害中国”",
@@ -539,13 +546,6 @@
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251011-%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E5%91%A8%E4%B8%80%E5%B0%86%E6%8A%B5%E8%BE%BE%E5%9F%83%E5%8F%8A",
       "source": "rfi.fr",
       "published": 1760216004
-    },
-    {
-      "id": "f15e610bdc82",
-      "title": "新星节幸存者罗伊·沙莱夫自杀",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251011-%E6%96%B0%E6%98%9F%E8%8A%82%E5%B9%B8%E5%AD%98%E8%80%85%E7%BD%97%E4%BC%8A%C2%B7%E6%B2%99%E8%8E%B1%E5%A4%AB%E8%87%AA%E6%9D%80",
-      "source": "rfi.fr",
-      "published": 1760215859
     },
     {
       "id": "e8bea049f300",
@@ -1388,5 +1388,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760304728
+  "build_id": 1760306919
 }
