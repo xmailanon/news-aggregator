@@ -1,6 +1,20 @@
 {
-  "updated": 1760301269,
+  "updated": 1760303253,
   "items": [
+    {
+      "id": "54ef990368e4",
+      "title": "墨西哥暴雨成災　至少奪44命",
+      "url": "https://money.udn.com/money/story/10511/9065788",
+      "source": "money.udn.com",
+      "published": 1760303193
+    },
+    {
+      "id": "bccf95eac502",
+      "title": "法总理勒科尔尼第二次组阁",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251012-%E6%B3%95%E6%80%BB%E7%90%86%E5%8B%92%E7%A7%91%E5%B0%94%E5%B0%BC%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%BB%84%E9%98%81",
+      "source": "rfi.fr",
+      "published": 1760302361
+    },
     {
       "id": "f68132de3532",
       "title": "法新：加薩調解國和平峰會將簽文件擔保落實停火",
@@ -280,13 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9065452",
       "source": "money.udn.com",
       "published": 1760274751
-    },
-    {
-      "id": "c85bc9ea68f2",
-      "title": "邊境駁火衝突　巴基斯坦：阿富汗逾200武裝人員亡",
-      "url": "https://money.udn.com/money/story/5599/9065444",
-      "source": "money.udn.com",
-      "published": 1760274390
     },
     {
       "id": "0934ae1c1edd",
@@ -588,13 +595,6 @@
       "url": "https://www.ftchinese.com/story/001107841",
       "source": "ftchinese.com",
       "published": 1760198400
-    },
-    {
-      "id": "8de05af8acba",
-      "title": "身患前列腺癌 发言人：拜登正接受放射治疗",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251011-%E8%BA%AB%E6%82%A3%E5%89%8D%E5%88%97%E8%85%BA%E7%99%8C-%E5%8F%91%E8%A8%80%E4%BA%BA-%E6%8B%9C%E7%99%BB%E6%AD%A3%E6%8E%A5%E5%8F%97%E6%94%BE%E5%B0%84%E6%B2%BB%E7%96%97",
-      "source": "rfi.fr",
-      "published": 1760196108
     },
     {
       "id": "76465ea96559",
@@ -1388,5 +1388,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760301269
+  "build_id": 1760303253
 }
