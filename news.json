@@ -1,6 +1,41 @@
 {
-  "updated": 1760242278,
+  "updated": 1760243896,
   "items": [
+    {
+      "id": "6c5ac375e4dd",
+      "title": "歐盟長期鬧藥荒　比利時最慘公衛受衝擊",
+      "url": "https://money.udn.com/money/story/5599/9064813",
+      "source": "money.udn.com",
+      "published": 1760242874
+    },
+    {
+      "id": "75ca5909133e",
+      "title": "國民黨主席之爭進入肉搏戰 高雄少壯派各為其主也陷分裂？",
+      "url": "https://udn.com/news/story/6656/9064807",
+      "source": "udn.com",
+      "published": 1760242754
+    },
+    {
+      "id": "6f7023774d0d",
+      "title": "處變不驚！美國重押 AI 可克服所有挑戰",
+      "url": "https://money.udn.com/money/story/122381/9064790",
+      "source": "money.udn.com",
+      "published": 1760242717
+    },
+    {
+      "id": "fab2a72b8958",
+      "title": "解放軍電子誘敵戰曝光！南海打造「幻影目標」1架外國偵察機受騙上當",
+      "url": "https://money.udn.com/money/story/5599/9064802",
+      "source": "money.udn.com",
+      "published": 1760242663
+    },
+    {
+      "id": "be6bebd5a770",
+      "title": "彭婉如逝世將屆30週年 民進黨籌拍紀錄片",
+      "url": "https://udn.com/news/story/6656/9064799",
+      "source": "udn.com",
+      "published": 1760242444
+    },
     {
       "id": "51af3e463011",
       "title": "影／國民黨主席改選前黃金周 郝龍斌、羅智強出席華僑節大會",
@@ -198,13 +233,6 @@
       "published": 1760232991
     },
     {
-      "id": "c9fc567d9d3e",
-      "title": "13架次共機越中線侵擾周邊空域 國軍嚴密監控",
-      "url": "https://udn.com/news/story/10930/9064541",
-      "source": "udn.com",
-      "published": 1760232880
-    },
-    {
       "id": "d0a13fba4d67",
       "title": "美政府停擺僵局持續　川普下令下週發放軍餉",
       "url": "https://money.udn.com/money/story/10511/9064540",
@@ -254,25 +282,11 @@
       "published": 1760226310
     },
     {
-      "id": "fefe04484f4e",
-      "title": "長程預警雷達對台溢收款涉弊 無關軍購問題出在哪？",
-      "url": "https://udn.com/news/story/10930/9063386",
-      "source": "udn.com",
-      "published": 1760225400
-    },
-    {
       "id": "de3c6c9a1b84",
       "title": "川普與塞西主持加薩和平峰會　預計逾20國領袖出席",
       "url": "https://money.udn.com/money/story/5599/9064447",
       "source": "money.udn.com",
       "published": 1760223665
-    },
-    {
-      "id": "75b23c22a282",
-      "title": "巴基斯坦阿富汗邊界衝突升溫　兩國交火多處據點",
-      "url": "https://money.udn.com/money/story/5599/9064441",
-      "source": "money.udn.com",
-      "published": 1760221834
     },
     {
       "id": "219dbcec476d",
@@ -345,25 +359,11 @@
       "published": 1760215130
     },
     {
-      "id": "5d38ce6a8ef4",
-      "title": "德國中部城鎮市集發生槍擊事件　至少3傷",
-      "url": "https://money.udn.com/money/story/5599/9064411",
-      "source": "money.udn.com",
-      "published": 1760213612
-    },
-    {
       "id": "4fe28c34fae4",
       "title": "加沙停火：约50万人重返加沙北部 人质将被释放",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251011-%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB-%E7%BA%A620%E4%B8%87%E4%BA%BA%E9%87%8D%E8%BF%94%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8-%E4%BA%BA%E8%B4%A8%E5%B0%86%E8%A2%AB%E9%87%8A%E6%94%BE",
       "source": "rfi.fr",
       "published": 1760212387
-    },
-    {
-      "id": "92b75134398a",
-      "title": "諾貝爾和平獎得主消息疑外洩 協會憂為間諜行動",
-      "url": "https://money.udn.com/money/story/5599/9064408",
-      "source": "money.udn.com",
-      "published": 1760211907
     },
     {
       "id": "704aaf15b511",
@@ -1381,5 +1381,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760242278
+  "build_id": 1760243896
 }
