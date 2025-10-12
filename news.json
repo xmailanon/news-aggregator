@@ -1,6 +1,27 @@
 {
-  "updated": 1760252917,
+  "updated": 1760254303,
   "items": [
+    {
+      "id": "b7e176af1c6a",
+      "title": "俄軍持續深入烏東　烏克蘭下令疏散戰略重鎮居民",
+      "url": "https://money.udn.com/money/story/5599/9065072",
+      "source": "money.udn.com",
+      "published": 1760254236
+    },
+    {
+      "id": "349d30f0af74",
+      "title": "美国ICE突袭升级 华人社群受冲击",
+      "url": "https://www.dw.com/zh/美国ice突袭升级-华人社群受冲击/a-74310730?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1760253240
+    },
+    {
+      "id": "35e959c92a60",
+      "title": "特朗普威脅對中國加徵額外100%關稅 中方批評是典型的「雙重標準」",
+      "url": "https://www.bbc.com/zhongwen/articles/c80g88npy35o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1760253169
+    },
     {
       "id": "5577c43282ec",
       "title": "加強安全管控　歐盟數位出入境系統上路",
@@ -282,13 +303,6 @@
       "published": 1760238751
     },
     {
-      "id": "bcc717309aa4",
-      "title": "塞席爾變天　在野黨領袖赫米尼贏得總統大位",
-      "url": "https://money.udn.com/money/story/5599/9064669",
-      "source": "money.udn.com",
-      "published": 1760238049
-    },
-    {
       "id": "4c69e9b4b15f",
       "title": "美國前總統拜登正接受攝護腺癌放射治療",
       "url": "https://www.bbc.com/zhongwen/articles/cd727zj1xl3o/trad?at_medium=RSS&at_campaign=rss",
@@ -513,13 +527,6 @@
       "published": 1760143110
     },
     {
-      "id": "35e959c92a60",
-      "title": "特朗普威脅對中國加徵額外100%關稅 中方批評是典型的「雙重標準」",
-      "url": "https://www.bbc.com/zhongwen/articles/c80g88npy35o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1760140506
-    },
-    {
       "id": "90f0f6e32f98",
       "title": "马查多获2025诺贝尔和平奖，联合国：这反映委内瑞拉人对民主的追求",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251010-%E9%A9%AC%E6%9F%A5%E5%A4%9A%E8%8E%B72025%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96%EF%BC%8C%E8%81%94%E5%90%88%E5%9B%BD-%E8%BF%99%E5%8F%8D%E6%98%A0%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BA%BA%E5%AF%B9%E6%B0%91%E4%B8%BB%E7%9A%84%E8%BF%BD%E6%B1%82",
@@ -693,20 +700,6 @@
       "url": "https://www.dw.com/zh/德国政府拟放宽欧盟2035-燃油车禁令/a-74305677?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760091540
-    },
-    {
-      "id": "1fe615dba953",
-      "title": "特朗普政府提议禁止中国航班经俄飞美",
-      "url": "https://www.dw.com/zh/特朗普政府提议禁止中国航班经俄飞美/a-74303650?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1760090640
-    },
-    {
-      "id": "1591da72fca4",
-      "title": "以色列批准加沙停火协议 美国将派军“监督”停火",
-      "url": "https://www.dw.com/zh/以色列批准加沙停火协议-美国将派军-监督-停火/a-74304966?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1760090220
     },
     {
       "id": "37d7be0e3eba",
@@ -1381,5 +1374,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760252917
+  "build_id": 1760254303
 }
