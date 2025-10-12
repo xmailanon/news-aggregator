@@ -1,6 +1,13 @@
 {
-  "updated": 1760308478,
+  "updated": 1760310510,
   "items": [
+    {
+      "id": "148fce893861",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/9065831",
+      "source": "money.udn.com",
+      "published": 1760310389
+    },
     {
       "id": "e59b361d7ca1",
       "title": "人質將獲釋　和平峰會前以色列宣告戰勝",
@@ -308,13 +315,6 @@
       "url": "https://money.udn.com/money/story/5599/9065516",
       "source": "money.udn.com",
       "published": 1760277996
-    },
-    {
-      "id": "49b4d9cc3bf0",
-      "title": "擔憂馬達加斯加局勢　法國航空宣布班機停飛",
-      "url": "https://money.udn.com/money/story/5599/9065506",
-      "source": "money.udn.com",
-      "published": 1760277269
     },
     {
       "id": "046c2a04a2b5",
@@ -1388,5 +1388,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760308478
+  "build_id": 1760310510
 }
