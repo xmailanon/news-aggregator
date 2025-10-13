@@ -1,6 +1,41 @@
 {
-  "updated": 1760333931,
+  "updated": 1760336186,
   "items": [
+    {
+      "id": "1d2a3b445a82",
+      "title": "抗議川普企圖派國民兵進駐 波特蘭群眾裸騎單車遊行",
+      "url": "https://money.udn.com/money/story/10511/9066774",
+      "source": "money.udn.com",
+      "published": 1760335300
+    },
+    {
+      "id": "1315a892f05d",
+      "title": "加薩停火 哈瑪斯釋放首批7名人質",
+      "url": "https://money.udn.com/money/story/5599/9066771",
+      "source": "money.udn.com",
+      "published": 1760335296
+    },
+    {
+      "id": "922e8fc393fa",
+      "title": "影/首批7名以色列人質獲釋！738天漫長等待 特拉維夫廣場千人淚目歡呼",
+      "url": "https://money.udn.com/money/story/5599/9066769",
+      "source": "money.udn.com",
+      "published": 1760335296
+    },
+    {
+      "id": "f21d76f4a957",
+      "title": "韓美關稅協議　韓外長：正在討論新方案",
+      "url": "https://money.udn.com/money/story/5599/9066744",
+      "source": "money.udn.com",
+      "published": 1760334856
+    },
+    {
+      "id": "7672a09f2e6d",
+      "title": "大阪世博184天盛會將落幕　觀眾離情依依告別夢洲",
+      "url": "https://money.udn.com/money/story/5599/9066725",
+      "source": "money.udn.com",
+      "published": 1760334396
+    },
     {
       "id": "7bd6d9409f9f",
       "title": "南韓防長：北韓潛艦研發　疑獲俄羅斯技術協助",
@@ -14,6 +49,13 @@
       "url": "https://www.bbc.com/zhongwen/articles/c201r4dnyevo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760333713
+    },
+    {
+      "id": "aba0586aa594",
+      "title": "海鯤潛艦進度　海軍：待2大系統調校後可達潛航條件",
+      "url": "https://udn.com/news/story/10930/9066679",
+      "source": "udn.com",
+      "published": 1760333584
     },
     {
       "id": "4c2c35fb628e",
@@ -226,13 +268,6 @@
       "published": 1760327651
     },
     {
-      "id": "d3aa8178fdcb",
-      "title": "影／屏東特搜曾奇蹟搜救6歲女童 重返災區找到失聯者汽車",
-      "url": "https://udn.com/news/story/124616/9066422",
-      "source": "udn.com",
-      "published": 1760327561
-    },
-    {
       "id": "ead4a9c05b2c",
       "title": "【專家之眼】以哈停火後中東局勢的變與不變",
       "url": "https://money.udn.com/money/story/5599/9066421",
@@ -273,41 +308,6 @@
       "url": "https://money.udn.com/money/story/5599/9066261",
       "source": "money.udn.com",
       "published": 1760323998
-    },
-    {
-      "id": "160bcc8c49fc",
-      "title": "全球經濟韌性勝預期 美中貿易戰陰霾未除但有AI投資撐場",
-      "url": "https://money.udn.com/money/story/5599/9066256",
-      "source": "money.udn.com",
-      "published": 1760323898
-    },
-    {
-      "id": "64611164f925",
-      "title": "「AI 時代的企業」 OpenAI 的宰制力為矽谷前所未見",
-      "url": "https://money.udn.com/money/story/5599/9065976",
-      "source": "money.udn.com",
-      "published": 1760323463
-    },
-    {
-      "id": "a96c990a9da6",
-      "title": "金價飆漲…意味著投資人連對央行的信心也下降",
-      "url": "https://money.udn.com/money/story/5599/9065975",
-      "source": "money.udn.com",
-      "published": 1760323386
-    },
-    {
-      "id": "e5acaf023989",
-      "title": "蘋果折疊iPhone傳成本大降！郭明錤估軸承單價壓低多達40美元",
-      "url": "https://money.udn.com/money/story/5599/9066195",
-      "source": "money.udn.com",
-      "published": 1760322892
-    },
-    {
-      "id": "0dd7cdca5543",
-      "title": "美國消費者信心持續低迷 就業和通膨憂慮揮之不去",
-      "url": "https://money.udn.com/money/story/5599/9065945",
-      "source": "money.udn.com",
-      "published": 1760322812
     },
     {
       "id": "8a94dc87bac0",
@@ -1381,5 +1381,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760333931
+  "build_id": 1760336186
 }
