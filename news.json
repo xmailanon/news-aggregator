@@ -1,6 +1,20 @@
 {
-  "updated": 1760387822,
+  "updated": 1760389711,
   "items": [
+    {
+      "id": "5c26fdbed7ad",
+      "title": "墨西哥豪雨引發洪災　至少64死65失聯",
+      "url": "https://money.udn.com/money/story/5599/9068183",
+      "source": "money.udn.com",
+      "published": 1760389246
+    },
+    {
+      "id": "10741751cd33",
+      "title": "巴黎里昂车站惊人毒品案查获11公斤摇头丸 法海关去年缉获451公斤安非他命 年增率57%",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251013-%E5%B7%B4%E9%BB%8E%E9%87%8C%E6%98%82%E8%BD%A6%E7%AB%99%E6%83%8A%E4%BA%BA%E6%AF%92%E5%93%81%E6%A1%88%E6%9F%A5%E8%8E%B711%E5%85%AC%E6%96%A4%E6%91%87%E5%A4%B4%E4%B8%B8-%E6%B3%95%E6%B5%B7%E5%85%B3%E5%8E%BB%E5%B9%B4%E7%BC%89%E8%8E%B7451%E5%85%AC%E6%96%A4%E5%AE%89%E9%9D%9E%E4%BB%96%E5%91%BD-%E5%B9%B4%E5%A2%9E%E7%8E%8757",
+      "source": "rfi.fr",
+      "published": 1760388561
+    },
     {
       "id": "c9530d360897",
       "title": "川普和中東3國簽加薩宣言　埃及：將召開重建會議",
@@ -287,13 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9068007",
       "source": "money.udn.com",
       "published": 1760369238
-    },
-    {
-      "id": "5ff39fd5ca2b",
-      "title": "澤倫斯基：加薩實現停火　為俄烏戰爭結束帶來希望",
-      "url": "https://money.udn.com/money/story/5599/9067956",
-      "source": "money.udn.com",
-      "published": 1760368884
     },
     {
       "id": "68c7da4ed8c8",
@@ -728,13 +735,6 @@
       "url": "https://www.dw.com/zh/墙外文摘：新冷战的重点不在科技/a-74324949?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760279040
-    },
-    {
-      "id": "98dda67df7f5",
-      "title": "美中贸易战又升温 五角大楼正斥资10亿美元大举购买囤积关键矿产",
-      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251012-%E7%BE%8E%E4%B8%AD%E8%B4%B8%E6%98%93%E6%88%98%E5%8D%87%E6%B8%A9%E4%B9%8B%E9%99%85-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%AD%A3%E6%96%A5%E8%B5%8410%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E4%B8%BE%E8%B4%AD%E4%B9%B0%E5%85%B3%E9%94%AE%E7%9F%BF%E4%BA%A7",
-      "source": "rfi.fr",
-      "published": 1760278506
     },
     {
       "id": "046c2a04a2b5",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1760387822
+  "build_id": 1760389711
 }
