@@ -1,6 +1,41 @@
 {
-  "updated": 1760379219,
+  "updated": 1760381050,
   "items": [
+    {
+      "id": "5576fecc9f15",
+      "title": "為 APEC 雙邊會談爭取籌碼 高盛：美中將延長關稅休戰",
+      "url": "https://money.udn.com/money/story/5599/9068003",
+      "source": "money.udn.com",
+      "published": 1760381148
+    },
+    {
+      "id": "83bbd037c718",
+      "title": "OpenAI 找博通開發晶片",
+      "url": "https://money.udn.com/money/story/5599/9067983",
+      "source": "money.udn.com",
+      "published": 1760380762
+    },
+    {
+      "id": "d24440df465e",
+      "title": "川普與區域領袖簽加薩宣言　稱中東迎來偉大一天",
+      "url": "https://money.udn.com/money/story/10511/9068139",
+      "source": "money.udn.com",
+      "published": 1760380596
+    },
+    {
+      "id": "762679d18c5f",
+      "title": "赴埃及簽和平協議 川普：很多錢會湧入加薩重建",
+      "url": "https://money.udn.com/money/story/5599/9068138",
+      "source": "money.udn.com",
+      "published": 1760380594
+    },
+    {
+      "id": "ccce2f32f91f",
+      "title": "諾貝爾經濟學獎 三人出線 研究創新驅動經濟成長",
+      "url": "https://money.udn.com/money/story/5599/9068002",
+      "source": "money.udn.com",
+      "published": 1760379828
+    },
     {
       "id": "efc326f99f8a",
       "title": "小摩喊投資美戰略產業 宣布1.5兆美元計畫 聚焦國防航太、AI 等",
@@ -294,41 +329,6 @@
       "url": "https://money.udn.com/money/story/5599/9067806",
       "source": "money.udn.com",
       "published": 1760365409
-    },
-    {
-      "id": "a34e933e1520",
-      "title": "川普：以色列已達戰場目標　現需推動中東和平",
-      "url": "https://money.udn.com/money/story/5599/9067798",
-      "source": "money.udn.com",
-      "published": 1760365280
-    },
-    {
-      "id": "1984d57c4a08",
-      "title": "諾貝爾經濟學獎得主批川普貿易政策 稱開啟關稅戰縮減市場",
-      "url": "https://money.udn.com/money/story/5599/9067792",
-      "source": "money.udn.com",
-      "published": 1760365041
-    },
-    {
-      "id": "8c9f45cd1643",
-      "title": "川普態度放軟緩解貿易緊張局勢　美股開盤勁揚",
-      "url": "https://money.udn.com/money/story/10511/9067786",
-      "source": "money.udn.com",
-      "published": 1760364761
-    },
-    {
-      "id": "2519ed7dc205",
-      "title": "俄前總統：美若供烏戰斧飛彈對所有人不利　尤其是川普",
-      "url": "https://money.udn.com/money/story/10511/9067783",
-      "source": "money.udn.com",
-      "published": 1760364761
-    },
-    {
-      "id": "6a4c0f0f043f",
-      "title": "士兵加入青年抗爭　傳馬達加斯加總統搭法國軍機離境",
-      "url": "https://money.udn.com/money/story/5599/9067784",
-      "source": "money.udn.com",
-      "published": 1760364759
     },
     {
       "id": "0a3a47f2f1a6",
@@ -660,62 +660,6 @@
       "published": 1760290775
     },
     {
-      "id": "388587d24eb7",
-      "title": "李柯：比亚迪全球扩张的主心骨",
-      "url": "https://www.ftchinese.com/story/001107851",
-      "source": "ftchinese.com",
-      "published": 1760284800
-    },
-    {
-      "id": "e7bc3dd9da24",
-      "title": "9月中国出口在贸易战背景下强劲增长",
-      "url": "https://www.ftchinese.com/story/001107850",
-      "source": "ftchinese.com",
-      "published": 1760284800
-    },
-    {
-      "id": "4da2bcdc1697",
-      "title": "荷兰政府“接管”安世半导体",
-      "url": "https://www.ftchinese.com/story/001107849",
-      "source": "ftchinese.com",
-      "published": 1760284800
-    },
-    {
-      "id": "4321a909441a",
-      "title": "与诺贝尔科学奖无关的世界大学排名",
-      "url": "https://www.ftchinese.com/story/001107848",
-      "source": "ftchinese.com",
-      "published": 1760284800
-    },
-    {
-      "id": "c9bf926e7a12",
-      "title": "FT社评：中东和平难得的曙光",
-      "url": "https://www.ftchinese.com/story/001107847",
-      "source": "ftchinese.com",
-      "published": 1760284800
-    },
-    {
-      "id": "ab12d52b5841",
-      "title": "巴西高管：空客波音双头垄断格局将受到挑战",
-      "url": "https://www.ftchinese.com/story/001107846",
-      "source": "ftchinese.com",
-      "published": 1760284800
-    },
-    {
-      "id": "8919ce1304b5",
-      "title": "美国银行业监管松绑将释放2.6万亿美元放贷能力",
-      "url": "https://www.ftchinese.com/story/001107845",
-      "source": "ftchinese.com",
-      "published": 1760284800
-    },
-    {
-      "id": "2291fbce853f",
-      "title": "哈马斯在停火后迅速恢复对加沙的掌控",
-      "url": "https://www.ftchinese.com/story/001107844",
-      "source": "ftchinese.com",
-      "published": 1760284800
-    },
-    {
       "id": "75016a9d3949",
       "title": "泽连斯基与马克龙通话强调防空需求 形容与特朗普两天内二次通话“也非常富有成效”",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251012-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E9%A9%AC%E5%85%8B%E9%BE%99%E9%80%9A%E8%AF%9D%E5%BC%BA%E8%B0%83%E9%98%B2%E7%A9%BA%E9%9C%80%E6%B1%82%EF%BC%8C%E5%BD%A2%E5%AE%B9%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%A4%E5%A4%A9%E5%86%85%E4%BA%8C%E6%AC%A1%E9%80%9A%E8%AF%9D-%E4%B9%9F%E9%9D%9E%E5%B8%B8%E5%AF%8C%E6%9C%89%E6%88%90%E6%95%88",
@@ -786,41 +730,6 @@
       "published": 1760248329
     },
     {
-      "id": "6612e596e321",
-      "title": "中国汽车品牌在欧洲进入高增长阶段",
-      "url": "https://www.ftchinese.com/story/001107840",
-      "source": "ftchinese.com",
-      "published": 1760198400
-    },
-    {
-      "id": "3f838840a441",
-      "title": "特朗普与美国宪法《第一修正案》的战争",
-      "url": "https://www.ftchinese.com/story/001107843",
-      "source": "ftchinese.com",
-      "published": 1760198400
-    },
-    {
-      "id": "442c4e881dac",
-      "title": "一周世界舆论聚焦：金正恩试图以多边外交破局；特朗普的诺贝尔和平奖黄了",
-      "url": "https://www.ftchinese.com/story/001107842",
-      "source": "ftchinese.com",
-      "published": 1760198400
-    },
-    {
-      "id": "f22f51e66505",
-      "title": "生物多样性信用困局",
-      "url": "https://www.ftchinese.com/story/001107839",
-      "source": "ftchinese.com",
-      "published": 1760198400
-    },
-    {
-      "id": "672b0d6d85df",
-      "title": "日本人为何频频获诺奖？",
-      "url": "https://www.ftchinese.com/story/001107841",
-      "source": "ftchinese.com",
-      "published": 1760198400
-    },
-    {
       "id": "64b10ddbe223",
       "title": "长平漫游：干草垛上晾晒的衣物",
       "url": "https://www.dw.com/zh/长平漫游：干草垛上晾晒的衣物/a-74318473?maca=chi-rss-chi-all-1127-rdf",
@@ -861,55 +770,6 @@
       "url": "https://cn.nytimes.com/business/20251011/china-electric-grid/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1760116450
-    },
-    {
-      "id": "3277a125f780",
-      "title": "当AI接管思考与表达：人类创意会被边缘化吗？",
-      "url": "https://www.ftchinese.com/story/001107833",
-      "source": "ftchinese.com",
-      "published": 1760112000
-    },
-    {
-      "id": "1398868da577",
-      "title": "关于“日本铁娘子”，投资者需要知道些什么？",
-      "url": "https://www.ftchinese.com/story/001107837",
-      "source": "ftchinese.com",
-      "published": 1760112000
-    },
-    {
-      "id": "1dbf29fc3be8",
-      "title": "腾讯美团押注减肥药明星企业 先为达生物冲刺港股",
-      "url": "https://www.ftchinese.com/story/001107836",
-      "source": "ftchinese.com",
-      "published": 1760112000
-    },
-    {
-      "id": "5e58bc35bea7",
-      "title": "汇丰砸136亿美元押注香港复苏",
-      "url": "https://www.ftchinese.com/story/001107835",
-      "source": "ftchinese.com",
-      "published": 1760112000
-    },
-    {
-      "id": "91d35055a0a9",
-      "title": "特朗普威胁对中国商品加征100%关税",
-      "url": "https://www.ftchinese.com/story/001107834",
-      "source": "ftchinese.com",
-      "published": 1760112000
-    },
-    {
-      "id": "af9680908c6d",
-      "title": "中国对组建“G10”不会感兴趣",
-      "url": "https://www.ftchinese.com/story/001107832",
-      "source": "ftchinese.com",
-      "published": 1760112000
-    },
-    {
-      "id": "79a6492d9de6",
-      "title": "我在澳门参加的一场高球聚会",
-      "url": "https://www.ftchinese.com/story/001107814",
-      "source": "ftchinese.com",
-      "published": 1760112000
     },
     {
       "id": "65c377b3852f",
@@ -1400,7 +1260,21 @@
       "url": "https://www.dw.com/zh/润美失败后-他们的人生何去何从/a-74028573?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1758112620
+    },
+    {
+      "id": "dc5a6e7c13df",
+      "title": "DW事实核查：如何识破国家操纵的宣传伎俩？",
+      "url": "https://www.dw.com/zh/dw事实核查：如何识破国家操纵的宣传伎俩？/a-73925612?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1757839380
+    },
+    {
+      "id": "900792ad8933",
+      "title": "DW事实核查：如何识破深度伪造视频？",
+      "url": "https://www.dw.com/zh/dw事实核查：如何识破深度伪造视频？/a-73982012?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1757837100
     }
   ],
-  "build_id": 1760379219
+  "build_id": 1760381050
 }
