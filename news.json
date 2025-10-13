@@ -1,6 +1,27 @@
 {
-  "updated": 1760393331,
+  "updated": 1760394977,
   "items": [
+    {
+      "id": "4a9ebfeea98b",
+      "title": "特朗普促成加沙停火协议　称中东迎来“历史性黎明”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251013-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%83%E6%88%90%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE-%E7%A7%B0%E4%B8%AD%E4%B8%9C%E8%BF%8E%E6%9D%A5-%E5%8E%86%E5%8F%B2%E6%80%A7%E9%BB%8E%E6%98%8E",
+      "source": "rfi.fr",
+      "published": 1760394762
+    },
+    {
+      "id": "77b9a5796591",
+      "title": "川普對中國態度放軟緩解貿易緊張　美股收盤勁揚",
+      "url": "https://money.udn.com/money/story/123398/9068226",
+      "source": "money.udn.com",
+      "published": 1760394166
+    },
+    {
+      "id": "83bdaa12c36e",
+      "title": "馬達加斯加總統稱險遭暗殺　已躲入安全地點",
+      "url": "https://money.udn.com/money/story/5599/9068227",
+      "source": "money.udn.com",
+      "published": 1760394164
+    },
     {
       "id": "bbdcc41d6f12",
       "title": "美中貿易緊張局勢現緩和跡象　國際油價小升",
@@ -182,20 +203,6 @@
       "url": "https://udn.com/news/story/124616/9067911",
       "source": "udn.com",
       "published": 1760376965
-    },
-    {
-      "id": "880d696d7ecf",
-      "title": "樂觀美中情勢會降低 美財長：美中有溝通管道",
-      "url": "https://money.udn.com/money/story/5599/9068122",
-      "source": "money.udn.com",
-      "published": 1760376813
-    },
-    {
-      "id": "8294d22248a1",
-      "title": "美中貿易緊張局勢緩和　歐股收盤小漲",
-      "url": "https://money.udn.com/money/story/5599/9068116",
-      "source": "money.udn.com",
-      "published": 1760375171
     },
     {
       "id": "dd772d3b4074",
@@ -623,13 +630,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251012-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%A6%81-%E5%B8%AE%E5%8A%A9%E8%80%8C%E4%B8%8D%E6%98%AF%E4%BC%A4%E5%AE%B3%E4%B8%AD%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1760303577
-    },
-    {
-      "id": "a0568dd45411",
-      "title": "法国记者有感 - 邓小平：“中东有石油     中国有稀土“",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251012-%E6%B3%95%E5%9B%BD%E8%AE%B0%E8%80%85%E6%9C%89%E6%84%9F-%E9%82%93%E5%B0%8F%E5%B9%B3-%E4%B8%AD%E4%B8%9C%E6%9C%89%E7%9F%B3%E6%B2%B9-%E4%B8%AD%E5%9B%BD%E6%9C%89%E7%A8%80%E5%9C%9F",
-      "source": "rfi.fr",
-      "published": 1760303175
     },
     {
       "id": "bccf95eac502",
@@ -1402,5 +1402,5 @@
       "published": 1758112620
     }
   ],
-  "build_id": 1760393331
+  "build_id": 1760394977
 }
