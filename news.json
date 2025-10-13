@@ -1,12 +1,40 @@
 {
-  "updated": 1760338108,
+  "updated": 1760339466,
   "items": [
+    {
+      "id": "fbfa68bd6850",
+      "title": "印官員稱鴻海承諾在泰米爾納德邦投資18億美元 創造1.4萬個就業機會",
+      "url": "https://money.udn.com/money/story/5599/9066943",
+      "source": "money.udn.com",
+      "published": 1760339470
+    },
+    {
+      "id": "c7641e60db28",
+      "title": "哈瑪斯首批釋7名以色列人質　特拉維夫數百民眾歡呼",
+      "url": "https://money.udn.com/money/story/5599/9066912",
+      "source": "money.udn.com",
+      "published": 1760338544
+    },
+    {
+      "id": "639f9e76f5c4",
+      "title": "馬太鞍溪清淤砂土13萬噸搬離市區 中央：未來可轉為「有價資源」",
+      "url": "https://udn.com/news/story/124616/9066889",
+      "source": "udn.com",
+      "published": 1760338024
+    },
     {
       "id": "1b38d0434c1e",
       "title": "看好黃金多頭漲勢 分析師估明年金價上看4,400美元",
       "url": "https://money.udn.com/money/story/5599/9066887",
       "source": "money.udn.com",
       "published": 1760337937
+    },
+    {
+      "id": "64e9418a640c",
+      "title": "中國大規模抓捕錫安教會成員 近30人被捕或失聯",
+      "url": "https://www.dw.com/zh/中國大規模抓捕錫安教會成員-近30人被捕或失聯/a-74328113?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1760337840
     },
     {
       "id": "3bcb982b8b24",
@@ -73,7 +101,7 @@
     },
     {
       "id": "4e026480d5cc",
-      "title": "國民黨內鬥內行走老路 「沒出息」神曲成選戰主題曲",
+      "title": "國民黨內鬥內行走老路 王世堅神曲成選戰主題曲？",
       "url": "https://udn.com/news/story/122404/9066819",
       "source": "udn.com",
       "published": 1760336123
@@ -275,13 +303,6 @@
       "published": 1760329984
     },
     {
-      "id": "969e61a070ba",
-      "title": "加薩以色列人質將回家  專家：需長期心理治療",
-      "url": "https://money.udn.com/money/story/5599/9066530",
-      "source": "money.udn.com",
-      "published": 1760329811
-    },
-    {
       "id": "0b0ec08e0771",
       "title": "全國首次！徵召備役替代役男到光復鄉 有人錯愕直呼「太臨時」",
       "url": "https://udn.com/news/story/6656/9066526",
@@ -294,20 +315,6 @@
       "url": "https://udn.com/news/story/7314/9066518",
       "source": "udn.com",
       "published": 1760329351
-    },
-    {
-      "id": "24b53b2b176a",
-      "title": "傅崐萁：撤離災民依法由鄉鎮負責 嗆中央天天栽贓花蓮縣府",
-      "url": "https://udn.com/news/story/124616/9066521",
-      "source": "udn.com",
-      "published": 1760329349
-    },
-    {
-      "id": "5e1b9bddec3a",
-      "title": "峇里島要轉型成金融中心？印尼將提案複製新加坡模式 達里歐也支持",
-      "url": "https://money.udn.com/money/story/5599/9066479",
-      "source": "money.udn.com",
-      "published": 1760328088
     },
     {
       "id": "3a21b4ecbec7",
@@ -709,13 +716,6 @@
       "published": 1760180580
     },
     {
-      "id": "90bb68229a3c",
-      "title": "金正恩阅兵式迎中俄越高官 展示“最强核战略武器”",
-      "url": "https://www.dw.com/zh/金正恩阅兵式迎中俄越高官-展示-最强核战略武器/a-74318422?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1760175480
-    },
-    {
       "id": "64b10ddbe223",
       "title": "长平漫游：干草垛上晾晒的衣物",
       "url": "https://www.dw.com/zh/长平漫游：干草垛上晾晒的衣物/a-74318473?maca=chi-rss-chi-all-1127-rdf",
@@ -758,6 +758,13 @@
       "published": 1760116450
     },
     {
+      "id": "3277a125f780",
+      "title": "当AI接管思考与表达：人类创意会被边缘化吗？",
+      "url": "https://www.ftchinese.com/story/001107833",
+      "source": "ftchinese.com",
+      "published": 1760112000
+    },
+    {
       "id": "1398868da577",
       "title": "关于“日本铁娘子”，投资者需要知道些什么？",
       "url": "https://www.ftchinese.com/story/001107837",
@@ -775,13 +782,6 @@
       "id": "5e58bc35bea7",
       "title": "汇丰砸136亿美元押注香港复苏",
       "url": "https://www.ftchinese.com/story/001107835",
-      "source": "ftchinese.com",
-      "published": 1760112000
-    },
-    {
-      "id": "3277a125f780",
-      "title": "当AI接管思考与表达：人类创意会被边缘化吗？",
-      "url": "https://www.ftchinese.com/story/001107833",
       "source": "ftchinese.com",
       "published": 1760112000
     },
@@ -1381,5 +1381,5 @@
       "published": 1757837100
     }
   ],
-  "build_id": 1760338108
+  "build_id": 1760339466
 }
