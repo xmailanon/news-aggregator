@@ -1,6 +1,20 @@
 {
-  "updated": 1760479762,
+  "updated": 1760481399,
   "items": [
+    {
+      "id": "bc71bf38cb6f",
+      "title": "川普揚言停止從中國採購食用油　報復北京停買美黃豆",
+      "url": "https://money.udn.com/money/story/5599/9070693",
+      "source": "money.udn.com",
+      "published": 1760481036
+    },
+    {
+      "id": "4b13b0bc5341",
+      "title": "川普稱美再度打擊疑似委內瑞拉運毒船　擊斃6人",
+      "url": "https://money.udn.com/money/story/5599/9070688",
+      "source": "money.udn.com",
+      "published": 1760479970
+    },
     {
       "id": "39fc48437b0f",
       "title": "市場消化美中貿易緊張與鮑爾談話　美股收盤走勢不一",
@@ -30,16 +44,16 @@
       "published": 1760478414
     },
     {
-      "id": "046cc24f6413",
-      "title": "美軍再打擊毒品恐怖分子 擊沉一艘販毒船",
-      "url": "https://money.udn.com/money/story/5599/9070648",
+      "id": "64338069994f",
+      "title": "反擊不採購美國大豆 川普：考慮停止購買中國食用油",
+      "url": "https://money.udn.com/money/story/5599/9070647",
       "source": "money.udn.com",
       "published": 1760477764
     },
     {
-      "id": "64338069994f",
-      "title": "反擊不採購美國大豆 川普：考慮停止購買中國食用油",
-      "url": "https://money.udn.com/money/story/5599/9070647",
+      "id": "046cc24f6413",
+      "title": "美軍再打擊毒品恐怖分子 擊沉一艘販毒船",
+      "url": "https://money.udn.com/money/story/5599/9070648",
       "source": "money.udn.com",
       "published": 1760477764
     },
@@ -189,20 +203,6 @@
       "url": "https://money.udn.com/money/story/5599/9070424",
       "source": "money.udn.com",
       "published": 1760464501
-    },
-    {
-      "id": "a098c48bac39",
-      "title": "三星財報報喜 上季獲利勁揚32% HBM 銷售疲軟拖累股價翻黑",
-      "url": "https://money.udn.com/money/story/5599/9070442",
-      "source": "money.udn.com",
-      "published": 1760464469
-    },
-    {
-      "id": "dfdc2e5df0f7",
-      "title": "華爾街三銀行 財報亮麗",
-      "url": "https://money.udn.com/money/story/123398/9070425",
-      "source": "money.udn.com",
-      "published": 1760464399
     },
     {
       "id": "98936a9c858f",
@@ -625,13 +625,6 @@
       "published": 1760390680
     },
     {
-      "id": "86be06bc2537",
-      "title": "加沙和平峰会在埃及召开 特朗普称“中东迎来伟大的一天”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251013-%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E5%B3%B0%E4%BC%9A%E5%9C%A8%E5%9F%83%E5%8F%8A%E5%8F%AC%E5%BC%80-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0-%E4%B8%AD%E4%B8%9C%E8%BF%8E%E6%9D%A5%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%B8%80%E5%A4%A9",
-      "source": "rfi.fr",
-      "published": 1760390357
-    },
-    {
       "id": "c96a7a3020ee",
       "title": "在报复与和解之间“拉锯”：特朗普对中国的矛盾心态",
       "url": "https://cn.nytimes.com/usa/20251014/trump-china-tariffs/?utm_source=RSS",
@@ -805,6 +798,13 @@
       "url": "https://www.dw.com/zh/荷兰冻结中企旗下半导体公司资产/a-74332581?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760354040
+    },
+    {
+      "id": "716b0f7d380b",
+      "title": "“历尽沧桑无怨悔” 四通创始人 民运领袖万润南病逝巴黎",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251013-%E5%8E%86%E5%B0%BD%E6%B2%A7%E6%A1%91%E6%97%A0%E6%80%A8%E6%82%94-%E5%9B%9B%E9%80%9A%E5%88%9B%E5%A7%8B%E4%BA%BA-%E6%B0%91%E8%BF%90%E9%A2%86%E8%A2%96%E4%B8%87%E6%B6%A6%E5%8D%97%E7%97%85%E9%80%9D%E5%B7%B4%E9%BB%8E",
+      "source": "rfi.fr",
+      "published": 1760352916
     },
     {
       "id": "b829164ab045",
@@ -1402,5 +1402,5 @@
       "published": 1758364500
     }
   ],
-  "build_id": 1760479762
+  "build_id": 1760481399
 }
