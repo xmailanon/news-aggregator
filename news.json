@@ -1,6 +1,41 @@
 {
-  "updated": 1760460203,
+  "updated": 1760461768,
   "items": [
+    {
+      "id": "306414e53ace",
+      "title": "俄羅斯加大出口受美國制裁的液化天然氣 對川普構成考驗",
+      "url": "https://money.udn.com/money/story/5599/9068969",
+      "source": "money.udn.com",
+      "published": 1760461665
+    },
+    {
+      "id": "6f6076dc7137",
+      "title": "中國祭稀土出口管制　歐盟與G7協調因應",
+      "url": "https://money.udn.com/money/story/10511/9070567",
+      "source": "money.udn.com",
+      "published": 1760461591
+    },
+    {
+      "id": "0843af14517e",
+      "title": "TACO 失靈 換 Fed 上陣救市？ 鮑爾：將停止縮表 勞動市場前景持續惡化",
+      "url": "https://money.udn.com/money/story/5599/9070564",
+      "source": "money.udn.com",
+      "published": 1760460991
+    },
+    {
+      "id": "505e551f05e9",
+      "title": "建筑木材和家具成为特朗普新征关税对象",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251014-%E5%BB%BA%E7%AD%91%E6%9C%A8%E6%9D%90%E5%92%8C%E5%AE%B6%E5%85%B7%E6%88%90%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E5%BE%81%E5%85%B3%E7%A8%8E%E5%AF%B9%E8%B1%A1",
+      "source": "rfi.fr",
+      "published": 1760460898
+    },
+    {
+      "id": "2dab80acfc3e",
+      "title": "替代幣市場暴跌1,310億美元重創代幣生態 交易員擔心持久損傷恐難修復",
+      "url": "https://money.udn.com/money/story/5599/9068972",
+      "source": "money.udn.com",
+      "published": 1760460544
+    },
     {
       "id": "5ef17c24dd4c",
       "title": "川普的港口費政策將給中國大陸船運公司增添煩惱",
@@ -42,13 +77,6 @@
       "url": "https://udn.com/news/story/124616/9070506",
       "source": "udn.com",
       "published": 1760458669
-    },
-    {
-      "id": "c67dd52922ad",
-      "title": "台灣今年GDP成長率獲IMF上修至超越全球 明年卻比全球整整少1個百分點",
-      "url": "https://money.udn.com/money/story/5599/9070537",
-      "source": "money.udn.com",
-      "published": 1760457933
     },
     {
       "id": "4ce23686c192",
@@ -282,32 +310,11 @@
       "published": 1760446656
     },
     {
-      "id": "e6492367a93c",
-      "title": "以色列確認4人質遺體身分 以青年與尼泊爾學生在列",
-      "url": "https://money.udn.com/money/story/5599/9070152",
-      "source": "money.udn.com",
-      "published": 1760446560
-    },
-    {
       "id": "423a036eb341",
       "title": "民调：多数民众支持德国恢复义务兵役制",
       "url": "https://www.dw.com/zh/民调：多数民众支持德国恢复义务兵役制/a-74351984?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760446440
-    },
-    {
-      "id": "37a516fec966",
-      "title": "貿易角力加劇衝擊市場 美中尋求降溫解套",
-      "url": "https://money.udn.com/money/story/5599/9070139",
-      "source": "money.udn.com",
-      "published": 1760445941
-    },
-    {
-      "id": "a14edf4554dc",
-      "title": "加州限制兒童使用 AI 聊天機器人法案 州長紐松否決",
-      "url": "https://money.udn.com/money/story/5599/9070126",
-      "source": "money.udn.com",
-      "published": 1760445550
     },
     {
       "id": "b2daa6059cb2",
@@ -749,13 +756,6 @@
       "url": "https://www.dw.com/zh/美国财长贝森特：特朗普仍计划会晤习近平/a-74335733?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760362380
-    },
-    {
-      "id": "c0cdcb278f78",
-      "title": "2025年诺贝尔经济学奖表彰美法加三国学者“创新驱动”经济增长理论",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251013-2025%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96%E8%A1%A8%E5%BD%B0%E7%BE%8E%E6%B3%95%E5%8A%A0%E4%B8%89%E5%9B%BD%E5%AD%A6%E8%80%85-%E5%88%9B%E6%96%B0%E9%A9%B1%E5%8A%A8-%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E7%90%86%E8%AE%BA",
-      "source": "rfi.fr",
-      "published": 1760361522
     },
     {
       "id": "7297f8dbb539",
@@ -1402,5 +1402,5 @@
       "published": 1758364500
     }
   ],
-  "build_id": 1760460203
+  "build_id": 1760461768
 }
