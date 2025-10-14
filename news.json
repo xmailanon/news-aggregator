@@ -1,6 +1,27 @@
 {
-  "updated": 1760452876,
+  "updated": 1760454690,
   "items": [
+    {
+      "id": "9894936eb26e",
+      "title": "特朗普确认周五将与泽连斯基会面",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251014-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A1%AE%E8%AE%A4%E5%91%A8%E4%BA%94%E5%B0%86%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BC%9A%E9%9D%A2",
+      "source": "rfi.fr",
+      "published": 1760454486
+    },
+    {
+      "id": "a0e1e952b8c1",
+      "title": "甲骨文攜手超微搶攻AI商機　將推出採MI450晶片雲端服務",
+      "url": "https://money.udn.com/money/story/5599/9070332",
+      "source": "money.udn.com",
+      "published": 1760454051
+    },
+    {
+      "id": "f0fb9d257668",
+      "title": "2018谷底心境　蔡英文：不能第一次有女總統就失敗",
+      "url": "https://udn.com/news/story/6656/9070307",
+      "source": "udn.com",
+      "published": 1760453464
+    },
     {
       "id": "3b278a01385c",
       "title": "不滿勞動改革措施　比利時全國罷工8萬人上街抗議",
@@ -275,13 +296,6 @@
       "published": 1760440474
     },
     {
-      "id": "ee7c1fca1d87",
-      "title": "英國失業率上升且薪資增速放緩 交易員進一步押注降息",
-      "url": "https://money.udn.com/money/story/5599/9069635",
-      "source": "money.udn.com",
-      "published": 1760440453
-    },
-    {
       "id": "957ca02497b8",
       "title": "菲律賓宿霧強震災情慘重 台灣捐贈20萬美元展現人道關懷",
       "url": "https://udn.com/news/story/6656/9069954",
@@ -399,13 +413,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c891wzzvkxdo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760432955
-    },
-    {
-      "id": "a7ccd144960d",
-      "title": "影／賴總統國慶提到工具機產業 蕭美琴：不能夠遺漏任何的產業",
-      "url": "https://udn.com/news/story/6656/9069723",
-      "source": "udn.com",
-      "published": 1760432884
     },
     {
       "id": "53c20a4c53c5",
@@ -791,13 +798,6 @@
       "url": "https://www.dw.com/zh/荷兰冻结中企旗下半导体公司资产/a-74332581?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760354040
-    },
-    {
-      "id": "c1a5aed193d9",
-      "title": "法国新总理勒科尔尼再组政府 能够持续多久受质疑",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251013-%E6%B3%95%E5%9B%BD%E6%96%B0%E6%80%BB%E7%90%86%E5%8B%92%E7%A7%91%E5%B0%94%E5%B0%BC%E5%86%8D%E7%BB%84%E6%94%BF%E5%BA%9C-%E8%83%BD%E5%A4%9F%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85%E5%8F%97%E8%B4%A8%E7%96%91",
-      "source": "rfi.fr",
-      "published": 1760353589
     },
     {
       "id": "716b0f7d380b",
@@ -1402,5 +1402,5 @@
       "published": 1758364500
     }
   ],
-  "build_id": 1760452876
+  "build_id": 1760454690
 }
