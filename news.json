@@ -1,6 +1,27 @@
 {
-  "updated": 1760474254,
+  "updated": 1760476125,
   "items": [
+    {
+      "id": "bb5d0a34c581",
+      "title": "阿根廷總統米雷伊尋求支持　川普稱讚為偉大領袖",
+      "url": "https://money.udn.com/money/story/10511/9070622",
+      "source": "money.udn.com",
+      "published": 1760475978
+    },
+    {
+      "id": "3d62b345cdc6",
+      "title": "欧盟寻求与美国及G7协调 共同应对中国稀土出口管制",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251014-%E6%AC%A7%E7%9B%9F%E5%AF%BB%E6%B1%82%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%8F%8Ag7%E5%8D%8F%E8%B0%83-%E5%85%B1%E5%90%8C%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
+      "source": "rfi.fr",
+      "published": 1760475902
+    },
+    {
+      "id": "5ee0d99d2359",
+      "title": "國際油價收黑　受美中貿易緊張與石油供應預期拖累",
+      "url": "https://money.udn.com/money/story/5599/9070609",
+      "source": "money.udn.com",
+      "published": 1760475263
+    },
     {
       "id": "7afaaa547c28",
       "title": "港口費爭議 美中又槓上了 川普 TACO 交易可能沒了 全球股市、油價下挫",
@@ -140,20 +161,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251014-%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%B4%9D%E6%A3%AE%E7%89%B9%E6%89%B9%E4%B8%AD%E5%9B%BD-%E6%8B%96%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E4%B8%8B%E6%B0%B4-%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E6%88%98%E5%BC%95%E5%8F%91%E5%86%8D%E5%AF%B9%E5%B3%99",
       "source": "rfi.fr",
       "published": 1760462037
-    },
-    {
-      "id": "359e6070babf",
-      "title": "澳洲央行9月會議紀要顯示月度 CPI 數據和就業持穩支持其按兵不動",
-      "url": "https://money.udn.com/money/story/5599/9068584",
-      "source": "money.udn.com",
-      "published": 1760461875
-    },
-    {
-      "id": "306414e53ace",
-      "title": "俄羅斯加大出口受美國制裁的液化天然氣 對川普構成考驗",
-      "url": "https://money.udn.com/money/story/5599/9068969",
-      "source": "money.udn.com",
-      "published": 1760461665
     },
     {
       "id": "505e551f05e9",
@@ -721,13 +728,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251013-%E6%92%A4%E9%94%80%E8%B5%B7%E8%AF%89%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D%E6%A1%88-%E8%8B%B1%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%B7%B1%E9%99%B7%E8%88%86%E8%AE%BA%E9%A3%8E%E6%9A%B4",
       "source": "rfi.fr",
       "published": 1760370294
-    },
-    {
-      "id": "46e4d648a1e9",
-      "title": "中国打击新教团体 牧师及约20名信徒被捕",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251013-%E4%B8%AD%E5%9B%BD%E6%89%93%E5%87%BB%E6%96%B0%E6%95%99%E5%9B%A2%E4%BD%93-%E7%89%A7%E5%B8%88%E5%8F%8A%E7%BA%A620%E5%90%8D%E4%BF%A1%E5%BE%92%E8%A2%AB%E6%8D%95",
-      "source": "rfi.fr",
-      "published": 1760368389
     },
     {
       "id": "6f257d68a35e",
@@ -1402,5 +1402,5 @@
       "published": 1758364500
     }
   ],
-  "build_id": 1760474254
+  "build_id": 1760476125
 }
