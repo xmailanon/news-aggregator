@@ -1,6 +1,48 @@
 {
-  "updated": 1760458346,
+  "updated": 1760460203,
   "items": [
+    {
+      "id": "5ef17c24dd4c",
+      "title": "川普的港口費政策將給中國大陸船運公司增添煩惱",
+      "url": "https://money.udn.com/money/story/5599/9069219",
+      "source": "money.udn.com",
+      "published": 1760460090
+    },
+    {
+      "id": "c35c9611fd84",
+      "title": "摩根資產管理計劃到2030年將亞洲資產管理規模擴大一倍",
+      "url": "https://money.udn.com/money/story/5599/9069221",
+      "source": "money.udn.com",
+      "published": 1760459359
+    },
+    {
+      "id": "62450ce54e6d",
+      "title": "川普木材關稅生效 恐將推高住宅成本",
+      "url": "https://money.udn.com/money/story/5599/9069544",
+      "source": "money.udn.com",
+      "published": 1760459161
+    },
+    {
+      "id": "307a3be2544d",
+      "title": "美貿易代表：是否課100%關稅 看中國對稀土的下一步 道瓊默默翻紅...",
+      "url": "https://money.udn.com/money/story/5599/9070547",
+      "source": "money.udn.com",
+      "published": 1760459011
+    },
+    {
+      "id": "e827d2cda40b",
+      "title": "風神恐成颱 花蓮準備撤離近8千人",
+      "url": "https://udn.com/news/story/124616/9070502",
+      "source": "udn.com",
+      "published": 1760458804
+    },
+    {
+      "id": "b9af47ba59d4",
+      "title": "樺加沙風災重建條例 國民黨版逕付二讀",
+      "url": "https://udn.com/news/story/124616/9070506",
+      "source": "udn.com",
+      "published": 1760458669
+    },
     {
       "id": "c67dd52922ad",
       "title": "台灣今年GDP成長率獲IMF上修至超越全球 明年卻比全球整整少1個百分點",
@@ -268,13 +310,6 @@
       "published": 1760445550
     },
     {
-      "id": "a31f8ea5a81a",
-      "title": "輝達面臨新競爭！甲骨文雲端運算服務將部署5萬顆超微 AI 晶片",
-      "url": "https://money.udn.com/money/story/5599/9070109",
-      "source": "money.udn.com",
-      "published": 1760444853
-    },
-    {
       "id": "b2daa6059cb2",
       "title": "選黨主席起步晚可能輸？郝龍斌台中造勢：為捍衛中華民國要戰勝",
       "url": "https://udn.com/news/story/122404/9070101",
@@ -289,20 +324,6 @@
       "published": 1760444497
     },
     {
-      "id": "9298b46995a6",
-      "title": "澳將支付第2筆10億美元 AUKUS 款項 助美提升潛艦產能",
-      "url": "https://money.udn.com/money/story/5599/9070099",
-      "source": "money.udn.com",
-      "published": 1760444494
-    },
-    {
-      "id": "a1ea8ebe1ca8",
-      "title": "小摩第3季從從容容游刃有餘 CEO 戴蒙警告前景仍變數多多",
-      "url": "https://money.udn.com/money/story/5599/9070082",
-      "source": "money.udn.com",
-      "published": 1760444373
-    },
-    {
       "id": "8ee0ddf7decb",
       "title": "中共民兵船部署台海周邊成「新常態」 學者示警：侵蝕防衛縱深",
       "url": "https://udn.com/news/story/10930/9069989",
@@ -315,13 +336,6 @@
       "url": "https://udn.com/news/story/6656/9070048",
       "source": "udn.com",
       "published": 1760444042
-    },
-    {
-      "id": "61e5aeb975a4",
-      "title": "基輔：俄軍烏南攻擊聯合國援助車隊 卡車燒毀無傷亡",
-      "url": "https://money.udn.com/money/story/5599/9070069",
-      "source": "money.udn.com",
-      "published": 1760443935
     },
     {
       "id": "86c2e0c37a9c",
@@ -357,20 +371,6 @@
       "url": "https://udn.com/news/story/124616/9069995",
       "source": "udn.com",
       "published": 1760441434
-    },
-    {
-      "id": "f3c7b1221485",
-      "title": "花蓮光復鄉災後復原各界出力 內政部：逾11萬人次投入救災",
-      "url": "https://udn.com/news/story/124616/9069947",
-      "source": "udn.com",
-      "published": 1760440562
-    },
-    {
-      "id": "c6d8687a76d2",
-      "title": "林佳龍接見巴拉圭工商部長 力推「榮邦計畫」開展各領域合作",
-      "url": "https://udn.com/news/story/6656/9069985",
-      "source": "udn.com",
-      "published": 1760440474
     },
     {
       "id": "04c35eb90f62",
@@ -1402,5 +1402,5 @@
       "published": 1758364500
     }
   ],
-  "build_id": 1760458346
+  "build_id": 1760460203
 }
