@@ -1,6 +1,34 @@
 {
-  "updated": 1760434742,
+  "updated": 1760436651,
   "items": [
+    {
+      "id": "e3c63f7d8eec",
+      "title": "貿易戰疑慮再起　亞股多收跌",
+      "url": "https://money.udn.com/money/story/5599/9069865",
+      "source": "money.udn.com",
+      "published": 1760436369
+    },
+    {
+      "id": "c6881b4cd225",
+      "title": "徐榛蔚喊話中央「提出堰塞湖解決方案」 籲給當地居民安心家園",
+      "url": "https://udn.com/news/story/124616/9069806",
+      "source": "udn.com",
+      "published": 1760435301
+    },
+    {
+      "id": "04934faed20b",
+      "title": "川普又 TACO？南韓：美方不再堅持3,500億美元為全額直接投資",
+      "url": "https://money.udn.com/money/story/5599/9069826",
+      "source": "money.udn.com",
+      "published": 1760435119
+    },
+    {
+      "id": "efb473306bfa",
+      "title": "永豐餘投入花蓮光復鄉重建 捐3萬公升消毒藥水、逾千箱清潔用品",
+      "url": "https://udn.com/news/story/124616/9069822",
+      "source": "udn.com",
+      "published": 1760434874
+    },
     {
       "id": "357ea704b3ff",
       "title": "美國高關稅正改變全球貿易流向 國際商務新版圖浮現",
@@ -226,15 +254,15 @@
       "published": 1760427964
     },
     {
-      "id": "7e25f02b02eb",
-      "title": "印尼總統請川普牽線見次子艾瑞克　麥克風未關全錄下",
-      "url": "https://money.udn.com/money/story/10511/9069490",
+      "id": "ec1de8ce3932",
+      "title": "印尼總統請川普牽線見次子艾瑞克 麥克風未關全錄下",
+      "url": "https://money.udn.com/money/story/5599/9069490",
       "source": "money.udn.com",
       "published": 1760427950
     },
     {
       "id": "8c9a22884aa6",
-      "title": "博通CEO看好生成式AI貢獻全球GDP 透露與七大業者合作",
+      "title": "博通 CEO 看好生成式 AI 貢獻全球 GDP 透露與七大業者合作",
       "url": "https://money.udn.com/money/story/5599/9069488",
       "source": "money.udn.com",
       "published": 1760427944
@@ -275,20 +303,6 @@
       "published": 1760427003
     },
     {
-      "id": "6a22c94fa9e2",
-      "title": "賴總統邀台中黨公職便當會 定調「她」戰2026台中市長",
-      "url": "https://udn.com/news/story/6656/9069436",
-      "source": "udn.com",
-      "published": 1760426824
-    },
-    {
-      "id": "4625636d5e1f",
-      "title": "卓越新聞獎今公布 聯合報8件入圍文字類獎項大贏家",
-      "url": "https://udn.com/news/story/7314/9069430",
-      "source": "udn.com",
-      "published": 1760426515
-    },
-    {
       "id": "31d2a17b8955",
       "title": "金正恩在北韓邊境蓋「長城」！衛星影像曝光壯觀反戰車防線",
       "url": "https://money.udn.com/money/story/5599/9069420",
@@ -322,20 +336,6 @@
       "url": "https://money.udn.com/money/story/5599/9069399",
       "source": "money.udn.com",
       "published": 1760425574
-    },
-    {
-      "id": "7618a2dc9855",
-      "title": "美中貿易緊張與執政聯盟瓦解 日經收盤重挫近3%",
-      "url": "https://money.udn.com/money/story/5599/9069384",
-      "source": "money.udn.com",
-      "published": 1760425247
-    },
-    {
-      "id": "d1ba17ae31d0",
-      "title": "川普預定出席東協峰會 見證泰柬簽署停火協議",
-      "url": "https://money.udn.com/money/story/5599/9069364",
-      "source": "money.udn.com",
-      "published": 1760424888
     },
     {
       "id": "43ba4e465962",
@@ -919,13 +919,6 @@
       "published": 1760267160
     },
     {
-      "id": "0ad7aa21bcb0",
-      "title": "菲律宾指中国海警船在中业岛附近撞击公务船",
-      "url": "https://www.dw.com/zh/菲律宾指中国海警船在中业岛附近撞击公务船/a-74323539?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1760261700
-    },
-    {
       "id": "87b481b0b23b",
       "title": "国际制裁下 伊朗石油暗流中国",
       "url": "https://www.dw.com/zh/国际制裁下-伊朗石油暗流中国/a-74309685?maca=chi-rss-chi-all-1127-rdf",
@@ -1400,7 +1393,14 @@
       "url": "https://www.bbc.com/zhongwen/articles/c4gz89317e4o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1758185503
+    },
+    {
+      "id": "6a98af43eb0c",
+      "title": "润美失败后 他们的人生何去何从",
+      "url": "https://www.dw.com/zh/润美失败后-他们的人生何去何从/a-74028573?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1758112620
     }
   ],
-  "build_id": 1760434742
+  "build_id": 1760436651
 }
