@@ -1,10 +1,17 @@
 {
-  "updated": 1760569728,
+  "updated": 1760571127,
   "items": [
     {
-      "id": "3f45ee037640",
-      "title": "AI交易添柴火帶動晶片股再漲 銀行亮眼財報推升標普500指數",
-      "url": "https://money.udn.com/money/story/5599/9073288",
+      "id": "8440c26e9f8d",
+      "title": "美法官下令　阻白宮在政府關門期間大量解雇聯邦員工",
+      "url": "https://money.udn.com/money/story/10511/9073294",
+      "source": "money.udn.com",
+      "published": 1760571008
+    },
+    {
+      "id": "04c2bfd1ed38",
+      "title": "美股收盤／AI 交易添柴火帶動晶片股再漲 銀行亮眼財報推升標普500指數",
+      "url": "https://money.udn.com/money/story/123398/9073288",
       "source": "money.udn.com",
       "published": 1760569953
     },
@@ -212,13 +219,6 @@
       "published": 1760554909
     },
     {
-      "id": "33ae6a00bfde",
-      "title": "美國研議經濟援助　阿根廷股市應聲勁揚",
-      "url": "https://money.udn.com/money/story/5599/9073197",
-      "source": "money.udn.com",
-      "published": 1760554807
-    },
-    {
       "id": "25255fda2e24",
       "title": "肯尼亚反对派领袖奥廷加在印度去世",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251015-%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%8F%8D%E5%AF%B9%E6%B4%BE%E9%A2%86%E8%A2%96%E5%A5%A5%E5%BB%B7%E5%8A%A0%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%8E%BB%E4%B8%96",
@@ -294,6 +294,20 @@
       "url": "https://udn.com/news/story/10930/9073076",
       "source": "udn.com",
       "published": 1760544001
+    },
+    {
+      "id": "26e7c4665f70",
+      "title": "投资财团拟400亿美元收购得州数据中心运营商",
+      "url": "https://www.ftchinese.com/story/001107885",
+      "source": "ftchinese.com",
+      "published": 1760544000
+    },
+    {
+      "id": "376945a70f5e",
+      "title": "下一个Labubu：泡泡玛特的“造星”神话能否继续？",
+      "url": "https://www.ftchinese.com/story/001107861",
+      "source": "ftchinese.com",
+      "published": 1760544000
     },
     {
       "id": "c208750e042a",
@@ -919,20 +933,6 @@
       "published": 1760380428
     },
     {
-      "id": "905208a6f93e",
-      "title": "美国发出最后通牒后，荷兰接管中资芯片企业",
-      "url": "https://www.ftchinese.com/story/001107869",
-      "source": "ftchinese.com",
-      "published": 1760371200
-    },
-    {
-      "id": "ab25cddcccb8",
-      "title": "中国制裁有协助美国之嫌的韩国船企",
-      "url": "https://www.ftchinese.com/story/001107868",
-      "source": "ftchinese.com",
-      "published": 1760371200
-    },
-    {
       "id": "6f257d68a35e",
       "title": "全球妇女峰会召开 习近平呼吁拓宽妇女参政渠道",
       "url": "https://www.dw.com/zh/全球妇女峰会召开-习近平呼吁拓宽妇女参政渠道/a-74337632?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760569728
+  "build_id": 1760571127
 }
