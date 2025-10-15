@@ -1,6 +1,27 @@
 {
-  "updated": 1760560719,
+  "updated": 1760562513,
   "items": [
+    {
+      "id": "98e16fdafe93",
+      "title": "聯準會主席明年任滿 美財長：正物色新人選",
+      "url": "https://money.udn.com/money/story/5599/9073224",
+      "source": "money.udn.com",
+      "published": 1760562217
+    },
+    {
+      "id": "a1b960fc6a5c",
+      "title": "銀行股財報亮眼　美股多收紅",
+      "url": "https://money.udn.com/money/story/5599/9073222",
+      "source": "money.udn.com",
+      "published": 1760562048
+    },
+    {
+      "id": "c6c48cfb6213",
+      "title": "美防長座機窗戶出現裂痕　急降英國機場",
+      "url": "https://money.udn.com/money/story/5599/9073220",
+      "source": "money.udn.com",
+      "published": 1760561123
+    },
     {
       "id": "4ae1053f5209",
       "title": "美方宣布將設價格下限反制中國　未點名特定產業",
@@ -14,13 +35,6 @@
       "url": "https://money.udn.com/money/story/10511/9073209",
       "source": "money.udn.com",
       "published": 1760558618
-    },
-    {
-      "id": "565bfbacaa77",
-      "title": "川普：紓困阿根廷有條件 前美財長桑默斯、克魯曼質疑有貓膩",
-      "url": "https://money.udn.com/money/story/5599/9072959",
-      "source": "money.udn.com",
-      "published": 1760556110
     },
     {
       "id": "6a69344adb20",
@@ -170,13 +184,6 @@
       "published": 1760545187
     },
     {
-      "id": "de2869b2ca4d",
-      "title": "退休金評比 台輸中、日、韓",
-      "url": "https://money.udn.com/money/story/5599/9073059",
-      "source": "money.udn.com",
-      "published": 1760545017
-    },
-    {
       "id": "8760aa3e1dbf",
       "title": "公視董監事提名延宕 文化部：不想被辱 多人拒絕",
       "url": "https://udn.com/news/story/6656/9073109",
@@ -233,16 +240,9 @@
       "published": 1760544000
     },
     {
-      "id": "01f99e3d5c9d",
-      "title": "摩根大通 CEO 稱當前在投資組合中持有黃金是「半理性的」",
-      "url": "https://money.udn.com/money/story/5599/9070718",
-      "source": "money.udn.com",
-      "published": 1760543870
-    },
-    {
-      "id": "d40649695656",
+      "id": "f921207c1585",
       "title": "拚淨零轉型 海委會攜友邦研習藍碳",
-      "url": "https://udn.com/news/story/6656/9073082",
+      "url": "https://udn.com/news/story/7314/9073082",
       "source": "udn.com",
       "published": 1760543583
     },
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760560719
+  "build_id": 1760562513
 }
