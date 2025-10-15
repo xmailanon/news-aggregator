@@ -1,6 +1,13 @@
 {
-  "updated": 1760567727,
+  "updated": 1760569728,
   "items": [
+    {
+      "id": "3f45ee037640",
+      "title": "AI交易添柴火帶動晶片股再漲 銀行亮眼財報推升標普500指數",
+      "url": "https://money.udn.com/money/story/5599/9073288",
+      "source": "money.udn.com",
+      "published": 1760569953
+    },
     {
       "id": "e37af14d8f2a",
       "title": "美國財長：川普10月底先訪日本再赴韓國APEC",
@@ -31,7 +38,7 @@
     },
     {
       "id": "62f0d52ed29e",
-      "title": "黨魁選舉沒論述沒謀略…國民黨夸談重返執政 低估人民智商",
+      "title": "【總編開箱】黨魁選舉沒論述沒謀略…國民黨夸談重返執政 低估人民智商",
       "url": "https://udn.com/news/story/122404/9073159",
       "source": "udn.com",
       "published": 1760565000
@@ -212,13 +219,6 @@
       "published": 1760554807
     },
     {
-      "id": "e56af3efe76d",
-      "title": "柬埔寨詐騙集團中國首腦陳志  曾出入台灣至少10次",
-      "url": "https://money.udn.com/money/story/5599/9073183",
-      "source": "money.udn.com",
-      "published": 1760552549
-    },
-    {
       "id": "25255fda2e24",
       "title": "肯尼亚反对派领袖奥廷加在印度去世",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251015-%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%8F%8D%E5%AF%B9%E6%B4%BE%E9%A2%86%E8%A2%96%E5%A5%A5%E5%BB%B7%E5%8A%A0%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%8E%BB%E4%B8%96",
@@ -294,6 +294,20 @@
       "url": "https://udn.com/news/story/10930/9073076",
       "source": "udn.com",
       "published": 1760544001
+    },
+    {
+      "id": "c208750e042a",
+      "title": "中国车企赴欧建厂需要把握好的平衡术",
+      "url": "https://www.ftchinese.com/story/001107881",
+      "source": "ftchinese.com",
+      "published": 1760544000
+    },
+    {
+      "id": "74a089c57ebd",
+      "title": "中产返贫是真实趋势吗？",
+      "url": "https://www.ftchinese.com/story/001107879",
+      "source": "ftchinese.com",
+      "published": 1760544000
     },
     {
       "id": "2d16ff6d10a2",
@@ -919,20 +933,6 @@
       "published": 1760371200
     },
     {
-      "id": "95471354f201",
-      "title": "西方企业就中国稀土管制引发供应链混乱发出警告",
-      "url": "https://www.ftchinese.com/story/001107867",
-      "source": "ftchinese.com",
-      "published": 1760371200
-    },
-    {
-      "id": "0b32945c3723",
-      "title": "Lex专栏：台积电股票大涨意味着需求战胜了恐惧",
-      "url": "https://www.ftchinese.com/story/001107864",
-      "source": "ftchinese.com",
-      "published": 1760371200
-    },
-    {
       "id": "6f257d68a35e",
       "title": "全球妇女峰会召开 习近平呼吁拓宽妇女参政渠道",
       "url": "https://www.dw.com/zh/全球妇女峰会召开-习近平呼吁拓宽妇女参政渠道/a-74337632?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760567727
+  "build_id": 1760569728
 }
