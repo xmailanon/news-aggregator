@@ -1,6 +1,27 @@
 {
-  "updated": 1760546480,
+  "updated": 1760548155,
   "items": [
+    {
+      "id": "f7d2b2f251e3",
+      "title": "Fed唱鴿 金融市場歡呼 鮑爾暗示月底可能再次降息",
+      "url": "https://money.udn.com/money/story/5599/9073010",
+      "source": "money.udn.com",
+      "published": 1760547781
+    },
+    {
+      "id": "0f2e0e4687e2",
+      "title": "川普揚言停買大陸食用油 報復北京不買黃豆",
+      "url": "https://money.udn.com/money/story/5599/9073019",
+      "source": "money.udn.com",
+      "published": 1760546838
+    },
+    {
+      "id": "b286b628b7e2",
+      "title": "美媒：陸方抓到弱點 態度強硬",
+      "url": "https://money.udn.com/money/story/5599/9073026",
+      "source": "money.udn.com",
+      "published": 1760546669
+    },
     {
       "id": "f37de8b03547",
       "title": "市場關注通膨與財報　歐股收盤互有漲跌",
@@ -66,7 +87,7 @@
     },
     {
       "id": "d63fd7b39e36",
-      "title": "還都紀念冊一覽44民國名人墨寶",
+      "title": "還都紀念冊 一覽44民國名人墨寶",
       "url": "https://udn.com/news/story/7314/9073083",
       "source": "udn.com",
       "published": 1760544095
@@ -301,27 +322,6 @@
       "url": "https://udn.com/news/story/6656/9072786",
       "source": "udn.com",
       "published": 1760536325
-    },
-    {
-      "id": "411ac91b3dc9",
-      "title": "巴基斯坦與阿富汗協議 臨時停火48小時",
-      "url": "https://money.udn.com/money/story/5599/9072827",
-      "source": "money.udn.com",
-      "published": 1760536184
-    },
-    {
-      "id": "be75016f37be",
-      "title": "Nscale 奪微軟大單 歐美資料中心部署20萬顆輝達AI晶片",
-      "url": "https://money.udn.com/money/story/5599/9072824",
-      "source": "money.udn.com",
-      "published": 1760536029
-    },
-    {
-      "id": "52f7c9919552",
-      "title": "聯準會監管副主席 Bowman 稱新的壓力測試改革方案很快將公布",
-      "url": "https://money.udn.com/money/story/5599/9071418",
-      "source": "money.udn.com",
-      "published": 1760535773
     },
     {
       "id": "f8bd68eb7d63",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760546480
+  "build_id": 1760548155
 }
