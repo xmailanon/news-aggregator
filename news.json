@@ -1,6 +1,55 @@
 {
-  "updated": 1760501514,
+  "updated": 1760503209,
   "items": [
+    {
+      "id": "db476a431562",
+      "title": "與特朗普共度24小時：近距離觀察橫掃中東的外交旋風",
+      "url": "https://www.bbc.com/zhongwen/articles/ce861z6jlrlo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1760503021
+    },
+    {
+      "id": "564be05daf37",
+      "title": "以色列揚言砍半加薩援助 哈瑪斯再移交4人質遺體",
+      "url": "https://money.udn.com/money/story/5599/9071433",
+      "source": "money.udn.com",
+      "published": 1760502991
+    },
+    {
+      "id": "2cdde7d38abd",
+      "title": "遭疑擴大對美採購在關稅換什麼 陳駿季罕怒回勿刻意曲解 張啓楷氣拍桌",
+      "url": "https://udn.com/news/story/6656/9071394",
+      "source": "udn.com",
+      "published": 1760501961
+    },
+    {
+      "id": "8e43062a3cf3",
+      "title": "台灣高鐵「寧靜車廂」為何引發「厭童」爭議",
+      "url": "https://www.bbc.com/zhongwen/articles/c2drg6g4p91o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1760501879
+    },
+    {
+      "id": "3fc83f7e7c79",
+      "title": "監委濫用公務車調查仍無結果 監院：應該10月有結果",
+      "url": "https://udn.com/news/story/6656/9071389",
+      "source": "udn.com",
+      "published": 1760501609
+    },
+    {
+      "id": "a0cf2fa5c440",
+      "title": "超級老人：80歲擁有50歲的大腦，科學家是如何解釋的？",
+      "url": "https://www.bbc.com/zhongwen/articles/c77zxv6rl2yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1760501527
+    },
+    {
+      "id": "3ec402501839",
+      "title": "【即時短評】人事提名一延再延 賴政府不依法行政成習慣？",
+      "url": "https://udn.com/news/story/6656/9071371",
+      "source": "udn.com",
+      "published": 1760501428
+    },
     {
       "id": "daafe88096e4",
       "title": "川普質疑波士頓治安　威脅要讓FIFA轉移世足賽事",
@@ -9,8 +58,15 @@
       "published": 1760501171
     },
     {
+      "id": "37f73ca7c408",
+      "title": "長榮空服員之死 洪申翰指病假扣全勤獎金不合理",
+      "url": "https://udn.com/news/story/7314/9071362",
+      "source": "udn.com",
+      "published": 1760501166
+    },
+    {
       "id": "a2cf44031291",
-      "title": "鴻海入股德國ZF動力系統事業卡關 審查發現債務暴增、股權價值為負",
+      "title": "鴻海入股德國 ZF 動力系統事業卡關 審查發現債務暴增、股權價值為負",
       "url": "https://money.udn.com/money/story/5599/9071352",
       "source": "money.udn.com",
       "published": 1760500963
@@ -233,27 +289,6 @@
       "published": 1760493221
     },
     {
-      "id": "0ed138ca1acf",
-      "title": "公視新董監事提名延宕 蕭旭岑：民進黨政府擺爛明顯違法",
-      "url": "https://udn.com/news/story/6656/9070938",
-      "source": "udn.com",
-      "published": 1760493183
-    },
-    {
-      "id": "d51ed3e8ebdc",
-      "title": "公視新董監事提名也延宕 學者：政院裝死把「公視法」當擺設？",
-      "url": "https://udn.com/news/story/6656/9070934",
-      "source": "udn.com",
-      "published": 1760493136
-    },
-    {
-      "id": "c5a6f7272cea",
-      "title": "中共2026介選 蔡明彥：包含爭議傳散、在地協力、買票、軍演恫嚇",
-      "url": "https://udn.com/news/story/6656/9070918",
-      "source": "udn.com",
-      "published": 1760492788
-    },
-    {
       "id": "828e3ea593b5",
       "title": "中國「造太陽」搶能源主導權　美加速核融合商轉發電",
       "url": "https://money.udn.com/money/story/10511/9070916",
@@ -275,13 +310,6 @@
       "published": 1760492560
     },
     {
-      "id": "f641e952d7ac",
-      "title": "證實境外平台介入國民黨主席選舉 蔡明彥嘆：法律工具不足",
-      "url": "https://udn.com/news/story/122404/9070909",
-      "source": "udn.com",
-      "published": 1760492524
-    },
-    {
       "id": "5b6f77819851",
       "title": "公元兩千論壇談中國影響  廖達琪：中共最怕人民覺醒",
       "url": "https://money.udn.com/money/story/5599/9070897",
@@ -294,13 +322,6 @@
       "url": "https://money.udn.com/money/story/10511/9070896",
       "source": "money.udn.com",
       "published": 1760492166
-    },
-    {
-      "id": "becd4554f109",
-      "title": "為美中太平洋潛在戰爭作準備 美軍「雅努斯計畫」推基地微型核反應爐",
-      "url": "https://money.udn.com/money/story/5599/9070895",
-      "source": "money.udn.com",
-      "published": 1760492154
     },
     {
       "id": "71f46d62519d",
@@ -681,13 +702,6 @@
       "published": 1760417160
     },
     {
-      "id": "10ee796eebf3",
-      "title": "美國麻疹病例創33年來新高，超過150名學童被隔離",
-      "url": "https://www.bbc.com/zhongwen/articles/cd67y92e7jeo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1760417002
-    },
-    {
       "id": "e387330bf383",
       "title": "加沙停火：人質獲釋，特朗普稱中東迎來「歷史性曙光」",
       "url": "https://www.bbc.com/zhongwen/articles/ce9dz7r5m0ko/trad?at_medium=RSS&at_campaign=rss",
@@ -898,13 +912,6 @@
       "published": 1760347260
     },
     {
-      "id": "fe80f3b40c17",
-      "title": "加沙停火：20名在世以色列人質全部獲釋，特朗普閃電訪問中東",
-      "url": "https://www.bbc.com/zhongwen/articles/c2lp1k0e45do/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1760344215
-    },
-    {
       "id": "51ba9b228bd3",
       "title": "法国组成新内阁 政治危机远未解除",
       "url": "https://www.dw.com/zh/法国组成新内阁-政治危机远未解除/a-74329341?maca=chi-rss-chi-all-1127-rdf",
@@ -1022,13 +1029,6 @@
       "url": "https://www.dw.com/zh/国际制裁下-伊朗石油暗流中国/a-74309685?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760256660
-    },
-    {
-      "id": "e35c7174f06d",
-      "title": "Windows 10即將退場，微軟促用戶儘快提前準備",
-      "url": "https://www.bbc.com/zhongwen/articles/cevzv77lye8o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1760248329
     },
     {
       "id": "64b10ddbe223",
@@ -1402,5 +1402,5 @@
       "published": 1758364500
     }
   ],
-  "build_id": 1760501514
+  "build_id": 1760503209
 }
