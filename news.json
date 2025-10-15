@@ -1,6 +1,20 @@
 {
-  "updated": 1760548155,
+  "updated": 1760549784,
   "items": [
+    {
+      "id": "01ad8058c4d7",
+      "title": "中國管制稀土出口　美國財長呼籲盟友團結",
+      "url": "https://money.udn.com/money/story/10511/9073172",
+      "source": "money.udn.com",
+      "published": 1760549791
+    },
+    {
+      "id": "7dee9e3cb2ed",
+      "title": "柬埔寨电诈中心20万人 韩国上千人 有学生被折磨致死 韩政府干预",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251015-%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%8320%E4%B8%87%E4%BA%BA-%E9%9F%A9%E5%9B%BD%E4%B8%8A%E5%8D%83%E4%BA%BA-%E6%9C%89%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8A%98%E7%A3%A8%E8%87%B4%E6%AD%BB-%E9%9F%A9%E6%94%BF%E5%BA%9C%E5%B9%B2%E9%A2%84",
+      "source": "rfi.fr",
+      "published": 1760548647
+    },
     {
       "id": "f7d2b2f251e3",
       "title": "Fed唱鴿 金融市場歡呼 鮑爾暗示月底可能再次降息",
@@ -294,13 +308,6 @@
       "url": "https://money.udn.com/money/story/5599/9071334",
       "source": "money.udn.com",
       "published": 1760537003
-    },
-    {
-      "id": "edd21e3b11c3",
-      "title": "貿易談判有進度 美財長：美韓談判接近完成",
-      "url": "https://money.udn.com/money/story/5599/9072842",
-      "source": "money.udn.com",
-      "published": 1760536963
     },
     {
       "id": "059bdac9a3ac",
@@ -749,13 +756,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251014-%E4%B8%AD%E5%9B%BD%E5%88%B6%E8%A3%81%E9%9F%A9%E5%9B%BD%E9%80%A0%E8%88%B9%E4%B8%9A%E5%B7%A8%E5%A4%B4%E6%97%97%E4%B8%8B%E4%BA%94%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AD%90%E5%85%AC%E5%8F%B8",
       "source": "rfi.fr",
       "published": 1760456789
-    },
-    {
-      "id": "9894936eb26e",
-      "title": "特朗普确认周五将与泽连斯基会面",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251014-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A1%AE%E8%AE%A4%E5%91%A8%E4%BA%94%E5%B0%86%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BC%9A%E9%9D%A2",
-      "source": "rfi.fr",
-      "published": 1760454486
     },
     {
       "id": "9f8392fd33a8",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760548155
+  "build_id": 1760549784
 }
