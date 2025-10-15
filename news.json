@@ -1,6 +1,13 @@
 {
-  "updated": 1760556706,
+  "updated": 1760559103,
   "items": [
+    {
+      "id": "b0c76b390e4d",
+      "title": "美政府關門 白宮：可能至少解雇1萬名聯邦員工",
+      "url": "https://money.udn.com/money/story/10511/9073209",
+      "source": "money.udn.com",
+      "published": 1760558618
+    },
     {
       "id": "565bfbacaa77",
       "title": "川普：紓困阿根廷有條件 前美財長桑默斯、克魯曼質疑有貓膩",
@@ -238,13 +245,6 @@
       "url": "https://money.udn.com/money/story/5599/9073073",
       "source": "money.udn.com",
       "published": 1760542590
-    },
-    {
-      "id": "b48110f28383",
-      "title": "美媒稱習賭川普難忍美中長期經濟衝突 貝森特駁斥",
-      "url": "https://money.udn.com/money/story/5599/9073016",
-      "source": "money.udn.com",
-      "published": 1760541799
     },
     {
       "id": "38192e3f5928",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760556706
+  "build_id": 1760559103
 }
