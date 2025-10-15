@@ -1,10 +1,17 @@
 {
-  "updated": 1760549784,
+  "updated": 1760552098,
   "items": [
     {
-      "id": "01ad8058c4d7",
+      "id": "25255fda2e24",
+      "title": "肯尼亚反对派领袖奥廷加在印度去世",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251015-%E8%82%AF%E5%B0%BC%E4%BA%9A%E5%8F%8D%E5%AF%B9%E6%B4%BE%E9%A2%86%E8%A2%96%E5%A5%A5%E5%BB%B7%E5%8A%A0%E5%9C%A8%E5%8D%B0%E5%BA%A6%E5%8E%BB%E4%B8%96",
+      "source": "rfi.fr",
+      "published": 1760549842
+    },
+    {
+      "id": "dfd761207c1f",
       "title": "中國管制稀土出口　美國財長呼籲盟友團結",
-      "url": "https://money.udn.com/money/story/10511/9073172",
+      "url": "https://money.udn.com/money/story/5599/9073172",
       "source": "money.udn.com",
       "published": 1760549791
     },
@@ -93,9 +100,9 @@
       "published": 1760544933
     },
     {
-      "id": "2d33243a35fc",
+      "id": "8ed0fe549283",
       "title": "駁賴總統終戰說…郭岱君：台灣歸還中華民國 羅斯福同意",
-      "url": "https://udn.com/news/story/7314/9073080",
+      "url": "https://udn.com/news/story/6656/9073080",
       "source": "udn.com",
       "published": 1760544558
     },
@@ -105,6 +112,13 @@
       "url": "https://udn.com/news/story/7314/9073083",
       "source": "udn.com",
       "published": 1760544095
+    },
+    {
+      "id": "5076d0165b8c",
+      "title": "薛瑞福：台灣通過特別預算後 美有望川普2.0首波軍售",
+      "url": "https://udn.com/news/story/10930/9073076",
+      "source": "udn.com",
+      "published": 1760544001
     },
     {
       "id": "2d16ff6d10a2",
@@ -378,13 +392,6 @@
       "url": "https://udn.com/news/story/122404/9072632",
       "source": "udn.com",
       "published": 1760529767
-    },
-    {
-      "id": "f3d39cf06c6a",
-      "title": "國民黨主席選舉倒數3天 羅智強提與美中等距、卓伯源重申聯合國遷台",
-      "url": "https://udn.com/news/story/122404/9072611",
-      "source": "udn.com",
-      "published": 1760529505
     },
     {
       "id": "b29f89fc0ac7",
@@ -749,13 +756,6 @@
       "url": "https://www.ftchinese.com/story/001107862",
       "source": "ftchinese.com",
       "published": 1760457600
-    },
-    {
-      "id": "1417dbbb258d",
-      "title": "中国制裁韩国造船业巨头旗下五家美国子公司",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251014-%E4%B8%AD%E5%9B%BD%E5%88%B6%E8%A3%81%E9%9F%A9%E5%9B%BD%E9%80%A0%E8%88%B9%E4%B8%9A%E5%B7%A8%E5%A4%B4%E6%97%97%E4%B8%8B%E4%BA%94%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AD%90%E5%85%AC%E5%8F%B8",
-      "source": "rfi.fr",
-      "published": 1760456789
     },
     {
       "id": "9f8392fd33a8",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760549784
+  "build_id": 1760552098
 }
