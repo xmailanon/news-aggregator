@@ -1,19 +1,110 @@
 {
-  "updated": 1760513806,
+  "updated": 1760516059,
   "items": [
     {
+      "id": "5d66409efc06",
+      "title": "支联会案开审在即 邹幸彤疑因发表失落和平奖感言再被单独囚禁",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251015-%E6%94%AF%E8%81%94%E4%BC%9A%E6%A1%88%E5%BC%80%E5%AE%A1%E5%9C%A8%E5%8D%B3-%E9%82%B9%E5%B9%B8%E5%BD%A4%E7%96%91%E5%9B%A0%E5%8F%91%E8%A1%A8%E5%A4%B1%E8%90%BD%E5%92%8C%E5%B9%B3%E5%A5%96%E6%84%9F%E8%A8%80%E5%86%8D%E8%A2%AB%E5%8D%95%E7%8B%AC%E5%9B%9A%E7%A6%81",
+      "source": "rfi.fr",
+      "published": 1760515072
+    },
+    {
+      "id": "c55a130e95a9",
+      "title": "國民黨主席選舉變演算法戰爭 選民要擦亮眼睛",
+      "url": "https://udn.com/news/story/6656/9072055",
+      "source": "udn.com",
+      "published": 1760514920
+    },
+    {
+      "id": "bbd20a4df4c1",
+      "title": "台日生技合作升級　 樂迦、三顧攜日方拓展再生醫療",
+      "url": "https://money.udn.com/money/story/5599/9072053",
+      "source": "money.udn.com",
+      "published": 1760514872
+    },
+    {
+      "id": "5264e81bdcce",
+      "title": "光復非重災區民宅 結構鑑定受災嚴重可申請中繼安置",
+      "url": "https://udn.com/news/story/124616/9072037",
+      "source": "udn.com",
+      "published": 1760514534
+    },
+    {
+      "id": "bd850fd0e7b9",
+      "title": "民進黨3縣市初選決戰時程出爐 陳亭妃、林俊憲明年1月民調決勝負",
+      "url": "https://udn.com/news/story/6656/9072040",
+      "source": "udn.com",
+      "published": 1760514526
+    },
+    {
+      "id": "0ae42faea1f8",
+      "title": "花蓮災區毛孩義診救護 另設置受災動物遺體冰櫃",
+      "url": "https://udn.com/news/story/124616/9071988",
+      "source": "udn.com",
+      "published": 1760514122
+    },
+    {
+      "id": "7da2ca85b529",
+      "title": "【重磅快評】光電一條龍變罩門 民進黨能靠韓國瑜公文甩鍋？",
+      "url": "https://udn.com/news/story/6656/9072020",
+      "source": "udn.com",
+      "published": 1760514005
+    },
+    {
+      "id": "4a9faef07fd6",
+      "title": "因應與中國潛在太平洋衝突 美軍推基地微型核反應爐",
+      "url": "https://money.udn.com/money/story/5599/9072014",
+      "source": "money.udn.com",
+      "published": 1760513878
+    },
+    {
+      "id": "8ab9179efa1f",
+      "title": "AI 裁員潮砍向人資？亞馬遜要撤掉15% HR  高盛說今年推新一輪縮編",
+      "url": "https://money.udn.com/money/story/5599/9072017",
+      "source": "money.udn.com",
+      "published": 1760513877
+    },
+    {
+      "id": "b9000c4cb0ed",
+      "title": "普發一萬預算周五拚三讀 民進黨中常會賴總統也出聲了",
+      "url": "https://udn.com/news/story/6656/9072008",
+      "source": "udn.com",
+      "published": 1760513857
+    },
+    {
+      "id": "df4e9e3101e4",
+      "title": "花蓮光復鄉公所「半層樓被淹掉」資料遭洪水沖毀 檢方究責恐受阻",
+      "url": "https://udn.com/news/story/124616/9072010",
+      "source": "udn.com",
+      "published": 1760513813
+    },
+    {
+      "id": "ad3de96401a6",
+      "title": "美智庫：川普關稅恐致經濟衰退 不利共和黨期中選舉",
+      "url": "https://money.udn.com/money/story/5599/9072011",
+      "source": "money.udn.com",
+      "published": 1760513802
+    },
+    {
+      "id": "fd38370df55c",
+      "title": "賴清德國慶宣示加速「台灣之盾」 朱立倫：總統府有責提出整體戰略",
+      "url": "https://udn.com/news/story/6656/9072002",
+      "source": "udn.com",
+      "published": 1760513704
+    },
+    {
+      "id": "0a219c98b1d1",
+      "title": "元大金控捐助花蓮光復災區200台機車 預定下周完成配發災民",
+      "url": "https://udn.com/news/story/124616/9071995",
+      "source": "udn.com",
+      "published": 1760513541
+    },
+    {
       "id": "1324b29b92da",
-      "title": "明赴立院報告 林佳龍：12邦交國穩定 中國仍是台最大外部威脅",
+      "title": "明赴立院報告 林佳龍：12邦交國穩定…中國仍是台最大外部威脅",
       "url": "https://udn.com/news/story/6656/9071968",
       "source": "udn.com",
       "published": 1760513092
-    },
-    {
-      "id": "b45915a41d81",
-      "title": "影／經民連：全真瑜珈倒閉是中資精心策畫的資本掠奪",
-      "url": "https://udn.com/news/story/6656/9071966",
-      "source": "udn.com",
-      "published": 1760512983
     },
     {
       "id": "c34e2a1c283d",
@@ -210,90 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9071783",
       "source": "money.udn.com",
       "published": 1760508760
-    },
-    {
-      "id": "04df95ebca28",
-      "title": "OpenAI 豪砸1兆美元錢從哪裡來？五年計畫透露眉目",
-      "url": "https://money.udn.com/money/story/5599/9071773",
-      "source": "money.udn.com",
-      "published": 1760508651
-    },
-    {
-      "id": "dfe8c00448a3",
-      "title": "花蓮洪災消防分隊也受災 「機電超人隊」伸援",
-      "url": "https://udn.com/news/story/124616/9071401",
-      "source": "udn.com",
-      "published": 1760508643
-    },
-    {
-      "id": "d05b3709ac1d",
-      "title": "足協未善待運動員？ 審計長允諾今天公布查核報告",
-      "url": "https://udn.com/news/story/6656/9071445",
-      "source": "udn.com",
-      "published": 1760508219
-    },
-    {
-      "id": "1ec94ae926a8",
-      "title": "逃逸外勞租地種田 陳駿季：系統性結構問題已增加合法移工",
-      "url": "https://udn.com/news/story/6656/9071725",
-      "source": "udn.com",
-      "published": 1760507811
-    },
-    {
-      "id": "0a177d7cd44f",
-      "title": "「黃復興DNA」被認同 退將籲17萬選票集中支持鄭麗文",
-      "url": "https://udn.com/news/story/122404/9071724",
-      "source": "udn.com",
-      "published": 1760507789
-    },
-    {
-      "id": "a6d8274ba15f",
-      "title": "王義川批「沒出息」是中共統戰 國安局：看內容和傳散狀況",
-      "url": "https://udn.com/news/story/6656/9071719",
-      "source": "udn.com",
-      "published": 1760507745
-    },
-    {
-      "id": "8129c93a80e0",
-      "title": "影／等了8年 陳亭妃公布競選歌曲「風吹風吹台南起妃」",
-      "url": "https://udn.com/news/story/6656/9071720",
-      "source": "udn.com",
-      "published": 1760507744
-    },
-    {
-      "id": "3c1aa95244a7",
-      "title": "美媒：中國對貿易談判態度強硬 因找到美國弱點",
-      "url": "https://money.udn.com/money/story/5599/9071709",
-      "source": "money.udn.com",
-      "published": 1760507694
-    },
-    {
-      "id": "cd22690205fb",
-      "title": "印尼火山連夜噴發 火山灰衝10公里高空恐影響航班",
-      "url": "https://money.udn.com/money/story/5599/9071714",
-      "source": "money.udn.com",
-      "published": 1760507690
-    },
-    {
-      "id": "6fa5c764f3cb",
-      "title": "客委會：下階段客家幣盼2026年底推行",
-      "url": "https://udn.com/news/story/7314/9071666",
-      "source": "udn.com",
-      "published": 1760507679
-    },
-    {
-      "id": "259da7fa0465",
-      "title": "英特爾發表新款資料中心 AI 晶片 宣示也將「一年一新品」",
-      "url": "https://money.udn.com/money/story/5599/9071706",
-      "source": "money.udn.com",
-      "published": 1760507634
-    },
-    {
-      "id": "e5ba5c92fb02",
-      "title": "影／拜會蔣萬安 郝龍斌：蔣萬安盼國民黨要世代團結",
-      "url": "https://udn.com/news/story/122404/9071680",
-      "source": "udn.com",
-      "published": 1760507251
     },
     {
       "id": "c2e25ea56ac5",
@@ -707,13 +714,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251014-%E6%97%A5%E5%AA%92%E6%8A%A5%E5%AF%BC-%E5%8F%B0%E6%B9%BE%E9%99%B7%E7%BE%8E%E4%B8%AD%E5%A4%B9%E5%87%BB%E5%9B%B0%E5%A2%83%EF%BC%8C%E5%8F%B0%E6%B9%BE%E6%B4%BD%E7%AD%BE%E8%B4%B8%E6%98%93%E5%8D%8F%E5%AE%9A%E5%8D%B4%E9%81%AD%E5%90%84%E5%9B%BD%E5%86%B7%E8%90%BD",
       "source": "rfi.fr",
       "published": 1760429948
-    },
-    {
-      "id": "4becef705bf1",
-      "title": "美国和中国相互开增港物费",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251014-%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%9B%B8%E4%BA%92%E5%BC%80%E5%A2%9E%E6%B8%AF%E7%89%A9%E8%B4%B9",
-      "source": "rfi.fr",
-      "published": 1760429856
     },
     {
       "id": "9b68a623cbab",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760513806
+  "build_id": 1760516059
 }
