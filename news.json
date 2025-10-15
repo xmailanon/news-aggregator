@@ -1,6 +1,20 @@
 {
-  "updated": 1760566089,
+  "updated": 1760567727,
   "items": [
+    {
+      "id": "e37af14d8f2a",
+      "title": "美國財長：川普10月底先訪日本再赴韓國APEC",
+      "url": "https://money.udn.com/money/story/10511/9073278",
+      "source": "money.udn.com",
+      "published": 1760566410
+    },
+    {
+      "id": "47981fe61f89",
+      "title": "市場憂供應過剩　國際油價下跌",
+      "url": "https://money.udn.com/money/story/5599/9073277",
+      "source": "money.udn.com",
+      "published": 1760566409
+    },
     {
       "id": "4190135b4b3b",
       "title": "通缩威胁加重  四中全会前官媒再唱高调",
@@ -212,25 +226,11 @@
       "published": 1760549842
     },
     {
-      "id": "dfd761207c1f",
-      "title": "中國管制稀土出口　美國財長呼籲盟友團結",
-      "url": "https://money.udn.com/money/story/5599/9073172",
-      "source": "money.udn.com",
-      "published": 1760549791
-    },
-    {
       "id": "7dee9e3cb2ed",
       "title": "柬埔寨电诈中心20万人 韩国上千人 有学生被折磨致死 韩政府干预",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251015-%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%8320%E4%B8%87%E4%BA%BA-%E9%9F%A9%E5%9B%BD%E4%B8%8A%E5%8D%83%E4%BA%BA-%E6%9C%89%E5%AD%A6%E7%94%9F%E8%A2%AB%E6%8A%98%E7%A3%A8%E8%87%B4%E6%AD%BB-%E9%9F%A9%E6%94%BF%E5%BA%9C%E5%B9%B2%E9%A2%84",
       "source": "rfi.fr",
       "published": 1760548647
-    },
-    {
-      "id": "f7d2b2f251e3",
-      "title": "Fed唱鴿 金融市場歡呼 鮑爾暗示月底可能再次降息",
-      "url": "https://money.udn.com/money/story/5599/9073010",
-      "source": "money.udn.com",
-      "published": 1760547781
     },
     {
       "id": "d2dab1ea4399",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760566089
+  "build_id": 1760567727
 }
