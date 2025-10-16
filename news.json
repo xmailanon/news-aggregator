@@ -1,12 +1,40 @@
 {
-  "updated": 1760597172,
+  "updated": 1760598647,
   "items": [
+    {
+      "id": "e142d3f796f1",
+      "title": "台積電創單季獲利歷史新高！外媒評「超乎預期」但提醒仍有2挑戰",
+      "url": "https://money.udn.com/money/story/5599/9074553",
+      "source": "money.udn.com",
+      "published": 1760598347
+    },
+    {
+      "id": "0e7f4b6b01a9",
+      "title": "中國祭稀土出口管制 日本籲 G7 團結應對",
+      "url": "https://money.udn.com/money/story/5599/9074541",
+      "source": "money.udn.com",
+      "published": 1760598023
+    },
+    {
+      "id": "e97b4788c393",
+      "title": "整理包／麻吉大哥一夕損失16億！加密幣最瘋狂爆倉 台灣投資人有保障？",
+      "url": "https://udn.com/news/story/121461/9074502",
+      "source": "udn.com",
+      "published": 1760597565
+    },
     {
       "id": "d93ee767487e",
       "title": "高市早苗尋求在野黨支持 政治不確定性緩解日股收漲",
       "url": "https://money.udn.com/money/story/5599/9074491",
       "source": "money.udn.com",
       "published": 1760597136
+    },
+    {
+      "id": "f1207da7f3af",
+      "title": "【重磅快評】邱議瑩兩串蕉難救蕉農變焦農的困境",
+      "url": "https://udn.com/news/story/6656/9074474",
+      "source": "udn.com",
+      "published": 1760596805
     },
     {
       "id": "eb5a92227006",
@@ -24,7 +52,7 @@
     },
     {
       "id": "8d22b0e70e4b",
-      "title": "瑞士重電大廠ABB訂單躍升 受益於資料中心電力需求",
+      "title": "瑞士重電大廠 ABB 訂單躍升 受益於資料中心電力需求",
       "url": "https://money.udn.com/money/story/5599/9074455",
       "source": "money.udn.com",
       "published": 1760596489
@@ -156,9 +184,9 @@
       "published": 1760593744
     },
     {
-      "id": "1f4005ab9322",
+      "id": "662de98eb321",
       "title": "加薩停火協議生效 新加坡加速提供人道援助",
-      "url": "https://money.udn.com/money/story/10511/9074278",
+      "url": "https://money.udn.com/money/story/5599/9074278",
       "source": "money.udn.com",
       "published": 1760593592
     },
@@ -233,25 +261,11 @@
       "published": 1760591224
     },
     {
-      "id": "d38462a3b4f6",
-      "title": "反對大法官投書表態 民團籲應續用舊法",
-      "url": "https://udn.com/news/story/6656/9074145",
-      "source": "udn.com",
-      "published": 1760591000
-    },
-    {
       "id": "60ff741b0d62",
       "title": "ChatGPT即將為成人用戶開放驗證過的色情內容",
       "url": "https://www.bbc.com/zhongwen/articles/cjr03rjq445o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760590950
-    },
-    {
-      "id": "bb3a62340b3b",
-      "title": "總統接見U16女壘世界冠軍 讚深化台灣與世界連結",
-      "url": "https://udn.com/news/story/6656/9074126",
-      "source": "udn.com",
-      "published": 1760590731
     },
     {
       "id": "0d339ff379a2",
@@ -280,20 +294,6 @@
       "url": "https://cn.nytimes.com/china/20251016/china-trump-tariffs/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1760589601
-    },
-    {
-      "id": "54fcf81be4c4",
-      "title": "抗衡中國經濟政策 美國擬擴大入股戰略產業企業",
-      "url": "https://money.udn.com/money/story/10511/9074075",
-      "source": "money.udn.com",
-      "published": 1760589470
-    },
-    {
-      "id": "489c6a616717",
-      "title": "印尼擬購至少42架中國製戰機 恐觸區域敏感神經",
-      "url": "https://money.udn.com/money/story/5599/9074073",
-      "source": "money.udn.com",
-      "published": 1760589469
     },
     {
       "id": "ae56fb89f80e",
@@ -434,6 +434,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251015-%E9%80%9A%E7%BC%A9%E5%8E%8B%E5%8A%9B-%E4%B8%AD%E5%9B%BD9%E6%9C%88%E7%94%9F%E4%BA%A7%E8%80%85%E5%92%8C%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%B7%E6%A0%BC%E5%86%8D%E6%AC%A1%E4%B8%8B%E8%B7%8C",
       "source": "rfi.fr",
       "published": 1760544933
+    },
+    {
+      "id": "84e1b5c92465",
+      "title": "美国称各国可能因中国实施稀土出口管制与其脱钩",
+      "url": "https://www.ftchinese.com/story/001107895",
+      "source": "ftchinese.com",
+      "published": 1760544000
     },
     {
       "id": "35b9c75f935a",
@@ -838,13 +845,6 @@
       "id": "b8f073faf06d",
       "title": "职业英语教育者丹妮尔：英语学习对中国人依然十分重要",
       "url": "https://www.ftchinese.com/story/001107875",
-      "source": "ftchinese.com",
-      "published": 1760457600
-    },
-    {
-      "id": "dec0a3eebd68",
-      "title": "美国减肥生物科技公司完成6亿美元融资轮",
-      "url": "https://www.ftchinese.com/story/001107874",
       "source": "ftchinese.com",
       "published": 1760457600
     },
@@ -1402,5 +1402,5 @@
       "published": 1758436740
     }
   ],
-  "build_id": 1760597172
+  "build_id": 1760598647
 }
