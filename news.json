@@ -1,6 +1,48 @@
 {
-  "updated": 1760629138,
+  "updated": 1760631183,
   "items": [
+    {
+      "id": "6b10c671dee7",
+      "title": "川普突發文 稱正與俄國總統普亭通話",
+      "url": "https://money.udn.com/money/story/5599/9075741",
+      "source": "money.udn.com",
+      "published": 1760630850
+    },
+    {
+      "id": "e73d9d7c6de7",
+      "title": "歷史上的今天／1955年「山地姑娘」開拍 挑戰國產片風格",
+      "url": "https://udn.com/news/story/7314/9073439",
+      "source": "udn.com",
+      "published": 1760630400
+    },
+    {
+      "id": "74d237fd12fe",
+      "title": "與吳釗燮不和？涉外人士頻放話 綠委質詢林佳龍",
+      "url": "https://udn.com/news/story/6656/9075634",
+      "source": "udn.com",
+      "published": 1760630400
+    },
+    {
+      "id": "568fcfd29777",
+      "title": "新聞眼／內戰撕裂黨魂 考驗重返執政",
+      "url": "https://udn.com/news/story/122404/9075628",
+      "source": "udn.com",
+      "published": 1760630400
+    },
+    {
+      "id": "2fea2af048a3",
+      "title": "國民黨主席明投票 郝龍斌、鄭麗文各自衝刺",
+      "url": "https://udn.com/news/story/122404/9075626",
+      "source": "udn.com",
+      "published": 1760630400
+    },
+    {
+      "id": "e3cd5006606c",
+      "title": "川普會晤澤倫斯基前夕　白宮官員：將與蒲亭通話",
+      "url": "https://money.udn.com/money/story/10511/9075713",
+      "source": "money.udn.com",
+      "published": 1760629511
+    },
     {
       "id": "752951758fb7",
       "title": "紐時：北京管控稀土 供應鏈變武器更勝美國",
@@ -175,20 +217,6 @@
       "url": "https://money.udn.com/money/story/123398/9073851",
       "source": "money.udn.com",
       "published": 1760622107
-    },
-    {
-      "id": "ec9bc29e887b",
-      "title": "軍情五處首長警告 英國面臨中俄伊朗加劇威脅",
-      "url": "https://money.udn.com/money/story/5599/9075430",
-      "source": "money.udn.com",
-      "published": 1760621435
-    },
-    {
-      "id": "ebf741d073ff",
-      "title": "瑞典中間黨黨主席遭威脅辭職 學者警告對民主不利",
-      "url": "https://money.udn.com/money/story/5599/9075431",
-      "source": "money.udn.com",
-      "published": 1760621434
     },
     {
       "id": "8d1e757fd1f7",
@@ -371,34 +399,6 @@
       "url": "https://udn.com/news/story/124616/9075013",
       "source": "udn.com",
       "published": 1760609025
-    },
-    {
-      "id": "aa914b18802b",
-      "title": "林佳龍遭爆挪預算 還要官員加班幫寫書？外交部出聲了",
-      "url": "https://udn.com/news/story/6656/9075000",
-      "source": "udn.com",
-      "published": 1760608684
-    },
-    {
-      "id": "650db5bcb175",
-      "title": "加薩停火人質獲釋 以色列駐台代表：我又能呼吸了",
-      "url": "https://udn.com/news/story/6656/9074987",
-      "source": "udn.com",
-      "published": 1760608604
-    },
-    {
-      "id": "0b3b99e0e585",
-      "title": "內政部推「台灣海圖APP」助漁船定位、查海象 潛水也可避免誤入航道",
-      "url": "https://udn.com/news/story/7314/9074979",
-      "source": "udn.com",
-      "published": 1760608144
-    },
-    {
-      "id": "ba42606e260f",
-      "title": "柯文哲被關1年怪怪的 陳佩琪曝柯遭詐騙：要一段時間才恢復正常人思維",
-      "url": "https://udn.com/news/story/6656/9074956",
-      "source": "udn.com",
-      "published": 1760607147
     },
     {
       "id": "b4164ba44cd6",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760629138
+  "build_id": 1760631183
 }
