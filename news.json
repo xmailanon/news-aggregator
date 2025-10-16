@@ -1,12 +1,40 @@
 {
-  "updated": 1760656148,
+  "updated": 1760657526,
   "items": [
     {
-      "id": "f29c6749dc9a",
+      "id": "ab8a35359f72",
+      "title": "涉不當處理機密資訊　美前國安顧問波頓遭起訴",
+      "url": "https://money.udn.com/money/story/10511/9075881",
+      "source": "money.udn.com",
+      "published": 1760657408
+    },
+    {
+      "id": "e60884b8e232",
+      "title": "中泰空軍「鷹擊」聯合軍演 打下飆風的殲-10C實戰亮相",
+      "url": "https://udn.com/news/story/10930/9074175",
+      "source": "udn.com",
+      "published": 1760657400
+    },
+    {
+      "id": "76ff7da32584",
+      "title": "【專家之眼】美國兩手策略，查扣柬埔寨財產和川普到訪",
+      "url": "https://udn.com/news/story/6656/9075874",
+      "source": "udn.com",
+      "published": 1760656564
+    },
+    {
+      "id": "66e07191b7f0",
       "title": "美股收盤／三大指數收黑 兩家區域銀行爆出壞帳嚇到華爾街",
-      "url": "https://money.udn.com/money/story/5599/9075871",
+      "url": "https://money.udn.com/money/story/123398/9075871",
       "source": "money.udn.com",
       "published": 1760656353
+    },
+    {
+      "id": "3f1632fc280c",
+      "title": "笑稱國民黨主席選舉「熱鬧過頭」 鄭麗文：殺過頭的同志快回來",
+      "url": "https://udn.com/news/story/122404/9075439",
+      "source": "udn.com",
+      "published": 1760655780
     },
     {
       "id": "4d59e927e800",
@@ -219,18 +247,18 @@
       "published": 1760634380
     },
     {
-      "id": "cd2173cfad78",
-      "title": "貿易戰激化 美擬關稅休戰 換陸稀土鬆綁",
-      "url": "https://money.udn.com/money/story/5599/9075684",
-      "source": "money.udn.com",
-      "published": 1760633849
-    },
-    {
       "id": "d2d06e041cac",
       "title": "曾培训中国飞行员的前美国海军陆战队员在澳洲上诉反对被引渡",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251016-%E6%9B%BE%E5%9F%B9%E8%AE%AD%E4%B8%AD%E5%9B%BD%E9%A3%9E%E8%A1%8C%E5%91%98%E7%9A%84%E5%89%8D%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E5%91%98%E5%9C%A8%E6%BE%B3%E6%B4%B2%E4%B8%8A%E8%AF%89%E5%8F%8D%E5%AF%B9%E8%A2%AB%E5%BC%95%E6%B8%A1",
       "source": "rfi.fr",
       "published": 1760632370
+    },
+    {
+      "id": "71326799e324",
+      "title": "AI泡沫破裂是比特朗普关税更严重的威胁",
+      "url": "https://www.ftchinese.com/story/001107902",
+      "source": "ftchinese.com",
+      "published": 1760630400
     },
     {
       "id": "9d12e1dff8d4",
@@ -352,13 +380,6 @@
       "published": 1760622299
     },
     {
-      "id": "3f1632fc280c",
-      "title": "笑稱國民黨主席選舉「熱鬧過頭」 鄭麗文：殺過頭的同志快回來",
-      "url": "https://udn.com/news/story/122404/9075439",
-      "source": "udn.com",
-      "published": 1760622226
-    },
-    {
       "id": "8d1e757fd1f7",
       "title": "特朗普：莫迪承诺印度将停止购买俄罗斯石油",
       "url": "https://www.dw.com/zh/特朗普：莫迪承诺印度将停止购买俄罗斯石油/a-74387783?maca=chi-rss-chi-all-1127-rdf",
@@ -457,25 +478,11 @@
       "published": 1760613900
     },
     {
-      "id": "e6988972c44f",
-      "title": "卓揆：短期內將提出全國勞動力總檢討 推出全新移工政策",
-      "url": "https://udn.com/news/story/6656/9075169",
-      "source": "udn.com",
-      "published": 1760613709
-    },
-    {
       "id": "2383f2500dd1",
       "title": "法国新政府挺过被弹劾危机  2026年预算案将进入讨论阶段",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251016-%E6%B3%95%E5%9B%BD%E6%96%B0%E6%94%BF%E5%BA%9C%E6%8C%BA%E8%BF%87%E8%A2%AB%E5%BC%B9%E5%8A%BE%E5%8D%B1%E6%9C%BA-2026%E5%B9%B4%E9%A2%84%E7%AE%97%E6%A1%88%E5%B0%86%E8%BF%9B%E5%85%A5%E8%AE%A8%E8%AE%BA%E9%98%B6%E6%AE%B5",
       "source": "rfi.fr",
       "published": 1760613025
-    },
-    {
-      "id": "5437bc1a3451",
-      "title": "「各種涉外人士放話滿天飛」 龍燮之爭引朝野立委關注",
-      "url": "https://udn.com/news/story/6656/9075152",
-      "source": "udn.com",
-      "published": 1760612926
     },
     {
       "id": "c70f1433a5ca",
@@ -915,13 +922,6 @@
       "id": "1f11dbc189bb",
       "title": "看好AI眼镜前景 歌尔与舜宇打造“光学同盟”",
       "url": "https://www.ftchinese.com/story/001107883",
-      "source": "ftchinese.com",
-      "published": 1760457600
-    },
-    {
-      "id": "7988d9f312b2",
-      "title": "央行需从近年的供给冲击中吸取教训",
-      "url": "https://www.ftchinese.com/story/001107882",
       "source": "ftchinese.com",
       "published": 1760457600
     },
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760656148
+  "build_id": 1760657526
 }
