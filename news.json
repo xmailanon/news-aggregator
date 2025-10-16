@@ -1,6 +1,13 @@
 {
-  "updated": 1760643124,
+  "updated": 1760645468,
   "items": [
+    {
+      "id": "aec15235d2a1",
+      "title": "消息人士：美國司法部尋求起訴前國安顧問波頓",
+      "url": "https://money.udn.com/money/story/10511/9075799",
+      "source": "money.udn.com",
+      "published": 1760643039
+    },
     {
       "id": "e937b79cb64c",
       "title": "川普警告哈瑪斯停止殺戮　否則將進軍殲滅",
@@ -177,6 +184,13 @@
       "published": 1760630400
     },
     {
+      "id": "2c9c7b48e5c6",
+      "title": "普發現金1萬元 最快下月上旬可領到",
+      "url": "https://udn.com/news/story/6656/9075641",
+      "source": "udn.com",
+      "published": 1760630400
+    },
+    {
       "id": "c05f5c4054e4",
       "title": "王毅: 中方寻求加强与法国高层联系",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251016-%E7%8E%8B%E6%AF%85-%E4%B8%AD%E6%96%B9%E5%AF%BB%E6%B1%82%E5%8A%A0%E5%BC%BA%E4%B8%8E%E6%B3%95%E5%9B%BD%E9%AB%98%E5%B1%82%E8%81%94%E7%B3%BB",
@@ -196,13 +210,6 @@
       "url": "https://money.udn.com/money/story/5599/9075708",
       "source": "money.udn.com",
       "published": 1760629050
-    },
-    {
-      "id": "bbf40d07bca3",
-      "title": "川普高估了關稅影響力？AI泡沫化對全球經濟威脅更大",
-      "url": "https://money.udn.com/money/story/5599/9075689",
-      "source": "money.udn.com",
-      "published": 1760628350
     },
     {
       "id": "90f77962db7b",
@@ -406,13 +413,6 @@
       "url": "https://udn.com/news/story/6656/9075032",
       "source": "udn.com",
       "published": 1760609536
-    },
-    {
-      "id": "d2f6071701ae",
-      "title": "光復鄉災民生活補助方案曝 弱勢戶每月領7萬、傷亡者家人每月領2.5萬",
-      "url": "https://udn.com/news/story/124616/9075024",
-      "source": "udn.com",
-      "published": 1760609247
     },
     {
       "id": "9a3dd6b260c6",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760643124
+  "build_id": 1760645468
 }
