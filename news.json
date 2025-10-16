@@ -1,6 +1,13 @@
 {
-  "updated": 1760636240,
+  "updated": 1760638458,
   "items": [
+    {
+      "id": "b68b96dfedc0",
+      "title": "巴基斯坦阿富汗邊境戰火暫歇　至少18死360傷",
+      "url": "https://money.udn.com/money/story/5599/9075776",
+      "source": "money.udn.com",
+      "published": 1760637284
+    },
     {
       "id": "aeb7e38e7278",
       "title": "中国“坚决反对”荷兰接管安世Nexperia半导体公司",
@@ -75,6 +82,20 @@
       "id": "2fea2af048a3",
       "title": "國民黨主席明投票 郝龍斌、鄭麗文各自衝刺",
       "url": "https://udn.com/news/story/122404/9075626",
+      "source": "udn.com",
+      "published": 1760630400
+    },
+    {
+      "id": "151f135ea4c9",
+      "title": "花縣處長：若是圖利 麻煩移送我",
+      "url": "https://udn.com/news/story/124616/9075538",
+      "source": "udn.com",
+      "published": 1760630400
+    },
+    {
+      "id": "e3bf68d51a44",
+      "title": "花蓮明撤離演練 志工禁入災區",
+      "url": "https://udn.com/news/story/124616/9075535",
       "source": "udn.com",
       "published": 1760630400
     },
@@ -217,13 +238,6 @@
       "url": "https://money.udn.com/money/story/5599/9073662",
       "source": "money.udn.com",
       "published": 1760622882
-    },
-    {
-      "id": "1cc81e7118d1",
-      "title": "外資：Fed 考慮停止縮表 真正原因曝光",
-      "url": "https://money.udn.com/money/story/5599/9075457",
-      "source": "money.udn.com",
-      "published": 1760622610
     },
     {
       "id": "667ffc89a791",
@@ -401,25 +415,11 @@
       "published": 1760609247
     },
     {
-      "id": "ec70a42e214c",
-      "title": "「遠洋合作」啟動 部部都是文化部、人人都是體育人",
-      "url": "https://udn.com/news/story/6656/9075008",
-      "source": "udn.com",
-      "published": 1760609082
-    },
-    {
       "id": "9a3dd6b260c6",
       "title": "军援乌克兰谁买单？",
       "url": "https://www.dw.com/zh/军援乌克兰谁买单？/a-74383378?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760609040
-    },
-    {
-      "id": "d7e534925be6",
-      "title": "光復鄉村長統整撤離名單 老弱婦孺、平房優先避難備戰準颱風風神",
-      "url": "https://udn.com/news/story/124616/9075013",
-      "source": "udn.com",
-      "published": 1760609025
     },
     {
       "id": "b4164ba44cd6",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760636240
+  "build_id": 1760638458
 }
