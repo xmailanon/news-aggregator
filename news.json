@@ -1,6 +1,20 @@
 {
-  "updated": 1760648939,
+  "updated": 1760650301,
   "items": [
+    {
+      "id": "4251991f2753",
+      "title": "市場憂私募信貸問題衝擊地區性銀行　美股多收黑",
+      "url": "https://money.udn.com/money/story/5599/9075832",
+      "source": "money.udn.com",
+      "published": 1760650254
+    },
+    {
+      "id": "1662fb4f659d",
+      "title": "特朗普：美国不应削弱\"战斧\"导弹库存 美俄筹备\"特普会\"",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251016-%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%BA%94-%E8%80%97%E5%B0%BD-%E6%88%98%E6%96%A7%E5%AF%BC%E5%BC%B9%E5%BA%93%E5%AD%98-%E7%BE%8E%E4%BF%84%E7%AD%B9%E5%A4%87%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC%E5%B3%B0%E4%BC%9A",
+      "source": "rfi.fr",
+      "published": 1760649680
+    },
     {
       "id": "ccc42f228808",
       "title": "克宮：蒲亭川普通話2.5小時　將立即啟動籌備雙邊峰會",
@@ -154,13 +168,6 @@
       "url": "https://money.udn.com/money/story/5599/9075612",
       "source": "money.udn.com",
       "published": 1760631011
-    },
-    {
-      "id": "6b10c671dee7",
-      "title": "川普突發文 稱正與俄國總統普丁通話",
-      "url": "https://money.udn.com/money/story/5599/9075741",
-      "source": "money.udn.com",
-      "published": 1760630850
     },
     {
       "id": "e3bf68d51a44",
@@ -714,13 +721,6 @@
       "url": "https://www.ftchinese.com/story/001107881",
       "source": "ftchinese.com",
       "published": 1760544000
-    },
-    {
-      "id": "9f6a60e1e9c6",
-      "title": "堪称飞弹岛的台湾防空飞弹密度已排在世界前三名，为何还需要打造「台湾之盾」？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20251015-%E5%A0%AA%E7%A7%B0%E9%A3%9E%E5%BC%B9%E5%B2%9B%E7%9A%84%E5%8F%B0%E6%B9%BE%E9%98%B2%E7%A9%BA%E9%A3%9E%E5%BC%B9%E5%AF%86%E5%BA%A6%E5%B7%B2%E6%8E%92%E5%9C%A8%E4%B8%96%E7%95%8C%E5%89%8D%E4%B8%89%E5%90%8D%EF%BC%8C%E4%B8%BA%E4%BD%95%E8%BF%98%E9%9C%80%E8%A6%81%E6%89%93%E9%80%A0-%E5%8F%B0%E6%B9%BE%E4%B9%8B%E7%9B%BE",
-      "source": "rfi.fr",
-      "published": 1760541119
     },
     {
       "id": "283108a027ad",
@@ -1402,5 +1402,5 @@
       "published": 1758690780
     }
   ],
-  "build_id": 1760648939
+  "build_id": 1760650301
 }
