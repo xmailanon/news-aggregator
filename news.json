@@ -1,6 +1,27 @@
 {
-  "updated": 1760713806,
+  "updated": 1760715445,
   "items": [
+    {
+      "id": "95e286dbfb71",
+      "title": "中方不满英国再推迟审批新使馆舍项目 促兑现承诺 英首相发言人：不承认任何承诺或保证的说法",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251017-%E4%B8%AD%E6%96%B9%E4%B8%8D%E6%BB%A1%E8%8B%B1%E5%9B%BD%E5%86%8D%E6%8E%A8%E8%BF%9F%E5%AE%A1%E6%89%B9%E6%96%B0%E4%BD%BF%E9%A6%86%E8%88%8D%E9%A1%B9%E7%9B%AE-%E4%BF%83%E5%85%91%E7%8E%B0%E6%89%BF%E8%AF%BA-%E8%8B%B1%E9%A6%96%E7%9B%B8%E5%8F%91%E8%A8%80%E4%BA%BA-%E4%B8%8D%E6%89%BF%E8%AE%A4%E4%BB%BB%E4%BD%95%E6%89%BF%E8%AF%BA%E6%88%96%E4%BF%9D%E8%AF%81%E7%9A%84%E8%AF%B4%E6%B3%95",
+      "source": "rfi.fr",
+      "published": 1760714791
+    },
+    {
+      "id": "484b86c373ae",
+      "title": "「這個國家」超暈船 去年戀愛詐騙金額破40億 監管機關要銀行想辦法",
+      "url": "https://money.udn.com/money/story/5599/9077887",
+      "source": "money.udn.com",
+      "published": 1760714630
+    },
+    {
+      "id": "850d525af9b2",
+      "title": "汽車製造商爭相鎖定晶片供應 中美貿易爭端升級引發供應擔憂",
+      "url": "https://money.udn.com/money/story/5599/9075878",
+      "source": "money.udn.com",
+      "published": 1760713985
+    },
     {
       "id": "ce55c09f4b35",
       "title": "涉嫌企图窃取韩国军事机密的一中国人一审被判囚五年",
@@ -331,25 +352,11 @@
       "published": 1760702001
     },
     {
-      "id": "eb4963eb7045",
-      "title": "靠攏自民黨被批兩面派  日本維新會籲玉木加入執政",
-      "url": "https://money.udn.com/money/story/5599/9077536",
-      "source": "money.udn.com",
-      "published": 1760701535
-    },
-    {
       "id": "d08cba3dbcdd",
       "title": "印度据报考虑放松对中国进口的限制 以应对日益增长的原材料依赖",
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251017-%E5%8D%B0%E5%BA%A6%E6%8D%AE%E6%8A%A5%E8%80%83%E8%99%91%E6%94%BE%E6%9D%BE%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A3%E7%9A%84%E9%99%90%E5%88%B6-%E4%BB%A5%E5%BA%94%E5%AF%B9%E6%97%A5%E7%9B%8A%E5%A2%9E%E9%95%BF%E7%9A%84%E5%8E%9F%E6%9D%90%E6%96%99%E4%BE%9D%E8%B5%96",
       "source": "rfi.fr",
       "published": 1760701275
-    },
-    {
-      "id": "4a0530422aee",
-      "title": "法國郵政與Temu強化合作　商界示警「特洛伊木馬」",
-      "url": "https://money.udn.com/money/story/5599/9077528",
-      "source": "money.udn.com",
-      "published": 1760701005
     },
     {
       "id": "a19a66a0eb91",
@@ -819,13 +826,6 @@
       "url": "https://www.dw.com/zh/北约秘书长吕特-中国若攻打台湾会要求俄罗斯同步攻击欧洲/a-74386442?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760617380
-    },
-    {
-      "id": "c507f929e7fd",
-      "title": "马达加斯加新总统需重筑共和",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251016-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E6%96%B0%E6%80%BB%E7%BB%9F%E9%9C%80%E9%87%8D%E7%AD%91%E5%85%B1%E5%92%8C",
-      "source": "rfi.fr",
-      "published": 1760615931
     },
     {
       "id": "d80b232a1e40",
@@ -1402,5 +1402,5 @@
       "published": 1758376920
     }
   ],
-  "build_id": 1760713806
+  "build_id": 1760715445
 }
