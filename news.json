@@ -1,6 +1,13 @@
 {
-  "updated": 1760728073,
+  "updated": 1760729514,
   "items": [
+    {
+      "id": "aa6ff383b795",
+      "title": "中共20届四中全会前苗华何卫东等九位高级将领被立案审查",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251017-%E4%B8%AD%E5%85%B120%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%89%8D%E8%8B%97%E5%8D%8E%E4%BD%95%E5%8D%AB%E4%B8%9C%E7%AD%89%E4%B9%9D%E4%BD%8D%E9%AB%98%E7%BA%A7%E5%B0%86%E9%A2%86%E8%A2%AB%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5",
+      "source": "rfi.fr",
+      "published": 1760728660
+    },
     {
       "id": "81712e8f8c96",
       "title": "【视频】卢浮宫纪念雅克-路易·大卫逝世两百周年",
@@ -191,16 +198,30 @@
       "published": 1760717027
     },
     {
-      "id": "c5c8d11320e1",
-      "title": "歷史上的今天／1971年國軍精銳部隊操演 作戰健兒秀戰技",
-      "url": "https://udn.com/news/story/7314/9075995",
+      "id": "d6a10b6596ef",
+      "title": "普發現金雙北議會促加碼！市府研議中",
+      "url": "https://udn.com/news/story/124539/9077855",
       "source": "udn.com",
       "published": 1760716800
     },
     {
-      "id": "d6a10b6596ef",
-      "title": "普發現金雙北議會促加碼！市府研議中",
-      "url": "https://udn.com/news/story/124539/9077855",
+      "id": "7319fa86e117",
+      "title": "蕭美琴：台灣之盾 是「偵攻一體」的多層次防衛網",
+      "url": "https://udn.com/news/story/10930/9077890",
+      "source": "udn.com",
+      "published": 1760716800
+    },
+    {
+      "id": "4c4ac04d9921",
+      "title": "林右昌選北市？談經濟、訪美 展現起手式",
+      "url": "https://udn.com/news/story/6656/9077897",
+      "source": "udn.com",
+      "published": 1760716800
+    },
+    {
+      "id": "c5c8d11320e1",
+      "title": "歷史上的今天／1971年國軍精銳部隊操演 作戰健兒秀戰技",
+      "url": "https://udn.com/news/story/7314/9075995",
       "source": "udn.com",
       "published": 1760716800
     },
@@ -219,23 +240,9 @@
       "published": 1760716800
     },
     {
-      "id": "7319fa86e117",
-      "title": "蕭美琴：台灣之盾 是「偵攻一體」的多層次防衛網",
-      "url": "https://udn.com/news/story/10930/9077890",
-      "source": "udn.com",
-      "published": 1760716800
-    },
-    {
       "id": "a3f9bad7f46a",
       "title": "軍方：海鯤艦2系統加速調校",
       "url": "https://udn.com/news/story/10930/9077895",
-      "source": "udn.com",
-      "published": 1760716800
-    },
-    {
-      "id": "4c4ac04d9921",
-      "title": "林右昌選北市？談經濟、訪美 展現起手式",
-      "url": "https://udn.com/news/story/6656/9077897",
       "source": "udn.com",
       "published": 1760716800
     },
@@ -595,13 +602,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251016-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9B%B8%E4%BF%A1g7%E5%8F%AF%E5%87%8F%E5%B0%91%E5%AF%B9%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A8%80%E5%9C%9F%E4%BE%9D%E8%B5%96-%E6%97%A5%E6%9C%AC%E5%91%BC%E5%90%81%E5%85%B1%E5%90%8C%E5%BA%94%E5%AF%B9",
       "source": "rfi.fr",
       "published": 1760653103
-    },
-    {
-      "id": "08a9a9a55ebf",
-      "title": "中国部署了能够打击超视距目标的陆地坦克 令对手不满",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251016-%E4%B8%AD%E5%9B%BD%E9%83%A8%E7%BD%B2%E4%BA%86%E8%83%BD%E5%A4%9F%E6%89%93%E5%87%BB%E8%B6%85%E8%A7%86%E8%B7%9D%E7%9B%AE%E6%A0%87%E7%9A%84%E9%99%86%E5%9C%B0%E5%9D%A6%E5%85%8B-type-100",
-      "source": "rfi.fr",
-      "published": 1760652261
     },
     {
       "id": "60de81e3af04",
@@ -1402,5 +1402,5 @@
       "published": 1758376920
     }
   ],
-  "build_id": 1760728073
+  "build_id": 1760729514
 }
