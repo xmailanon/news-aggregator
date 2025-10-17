@@ -1,6 +1,20 @@
 {
-  "updated": 1760720894,
+  "updated": 1760722551,
   "items": [
+    {
+      "id": "36e51c2c566f",
+      "title": "被控不當處理機密資訊　美前國安顧問波頓不認罪",
+      "url": "https://money.udn.com/money/story/10511/9078044",
+      "source": "money.udn.com",
+      "published": 1760722571
+    },
+    {
+      "id": "3bdaf51a4f51",
+      "title": "美對陸高關稅難長久 川普：須敲定公平協議 兩周後與習近平會面",
+      "url": "https://money.udn.com/money/story/5599/9077915",
+      "source": "money.udn.com",
+      "published": 1760721287
+    },
     {
       "id": "ab2db7e4b9d7",
       "title": "副總統盼台加建立更完備法律架構 鞏固貿易夥伴關係",
@@ -9,11 +23,32 @@
       "published": 1760721030
     },
     {
+      "id": "2f1edb266f8b",
+      "title": "歐股收黑　銀行股領跌",
+      "url": "https://money.udn.com/money/story/5599/9078031",
+      "source": "money.udn.com",
+      "published": 1760720768
+    },
+    {
+      "id": "d00c26c1f13a",
+      "title": "輝達先進晶片在陸市占歸零 執行長黃仁勳：期待政策改變",
+      "url": "https://money.udn.com/money/story/5599/9077881",
+      "source": "money.udn.com",
+      "published": 1760720629
+    },
+    {
       "id": "aadc442ffc96",
       "title": "廣角鏡／花蓮出現新堰塞湖",
       "url": "https://udn.com/news/story/124616/9078013",
       "source": "udn.com",
       "published": 1760720439
+    },
+    {
+      "id": "b40cf18c3585",
+      "title": "美兩銀行爆雷 恐慌蔓延",
+      "url": "https://money.udn.com/money/story/10511/9077896",
+      "source": "money.udn.com",
+      "published": 1760720367
     },
     {
       "id": "a89aea6336bd",
@@ -24,7 +59,7 @@
     },
     {
       "id": "2fcc17e6ef95",
-      "title": "埃塞俄比亚:法广俱乐部有活动",
+      "title": "埃塞俄比亚:法广俱乐部有想法",
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251017-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%9F%83%E5%A1%9E%E4%BF%84%E6%AF%94%E4%BA%9A-%E6%B3%95%E5%B9%BF%E4%BF%B1%E4%B9%90%E9%83%A8%E6%9C%89%E6%B4%BB%E5%8A%A8",
       "source": "rfi.fr",
       "published": 1760720027
@@ -310,13 +345,6 @@
       "published": 1760706773
     },
     {
-      "id": "ccdbf96805b3",
-      "title": "美國地區銀行接二連三遭遇欺詐 引發信貸問題普遍性之憂",
-      "url": "https://money.udn.com/money/story/5599/9077361",
-      "source": "money.udn.com",
-      "published": 1760706491
-    },
-    {
       "id": "43508214387f",
       "title": "特朗普前顾问博尔顿将出庭 受控处理机密不当",
       "url": "https://www.dw.com/zh/特朗普前顾问博尔顿将出庭-受控处理机密不当/a-74403415?maca=chi-rss-chi-all-1127-rdf",
@@ -329,34 +357,6 @@
       "url": "https://www.dw.com/zh/波兰法院做出裁决-不向德国引渡北溪案嫌疑人/a-74403146?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760704920
-    },
-    {
-      "id": "98e06cc3d2c9",
-      "title": "習近平打爛好牌！彭博：稀土管制做過頭 給川普扳回機會",
-      "url": "https://money.udn.com/money/story/5599/9077599",
-      "source": "money.udn.com",
-      "published": 1760704074
-    },
-    {
-      "id": "09f611ef5d57",
-      "title": "「蟑螂」將壓垮美股？華爾街大多頭：4利多助標普500漲到年底",
-      "url": "https://money.udn.com/money/story/123398/9077595",
-      "source": "money.udn.com",
-      "published": 1760703910
-    },
-    {
-      "id": "6af0a7c14cef",
-      "title": "加拿大財長：G7可望降低對中國稀土依賴",
-      "url": "https://money.udn.com/money/story/5599/9077589",
-      "source": "money.udn.com",
-      "published": 1760703677
-    },
-    {
-      "id": "52233f01b62b",
-      "title": "BBC紀錄片哈瑪斯官員子擔綱旁白　英國監管機構裁違規",
-      "url": "https://money.udn.com/money/story/5599/9077591",
-      "source": "money.udn.com",
-      "published": 1760703676
     },
     {
       "id": "3c2b6602a7d5",
@@ -1402,5 +1402,5 @@
       "published": 1758376920
     }
   ],
-  "build_id": 1760720894
+  "build_id": 1760722551
 }
