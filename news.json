@@ -1,6 +1,13 @@
 {
-  "updated": 1760731884,
+  "updated": 1760733431,
   "items": [
+    {
+      "id": "4722bbfe1b63",
+      "title": "川普承認蒲亭恐在拖時間　現在供烏戰斧飛彈還太早",
+      "url": "https://money.udn.com/money/story/10511/9078080",
+      "source": "money.udn.com",
+      "published": 1760731940
+    },
     {
       "id": "f1f2b2fb4995",
       "title": "特朗普计划与习近平讨论乌克兰冲突",
@@ -308,13 +315,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251017-%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E8%B4%9D%E6%A3%AE%E7%89%B9%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%89%AF%E6%80%BB%E7%90%86%E4%BD%95%E7%AB%8B%E5%B3%B0%E9%80%9A%E8%AF%9D",
       "source": "rfi.fr",
       "published": 1760712668
-    },
-    {
-      "id": "112507820498",
-      "title": "韓人氣女作家白世熙驟逝　生前捐出器官救5條人命",
-      "url": "https://money.udn.com/money/story/5599/9077792",
-      "source": "money.udn.com",
-      "published": 1760712397
     },
     {
       "id": "79b659595667",
@@ -1402,5 +1402,5 @@
       "published": 1758376920
     }
   ],
-  "build_id": 1760731884
+  "build_id": 1760733431
 }
