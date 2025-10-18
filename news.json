@@ -1,10 +1,17 @@
 {
-  "updated": 1760826911,
+  "updated": 1760828929,
   "items": [
     {
-      "id": "62cd71d98ff7",
+      "id": "77fd5a927629",
+      "title": "美委關係緊張　美駐千里達大使館警告遠離美政府設施",
+      "url": "https://money.udn.com/money/story/5599/9079642",
+      "source": "money.udn.com",
+      "published": 1760827530
+    },
+    {
+      "id": "ac54b2055510",
       "title": "【即時短評】寧鳴而死、不默而生：鄭麗文勝出凸顯的黨員心聲",
-      "url": "https://udn.com/news/story/6656/9079640",
+      "url": "https://udn.com/news/story/122404/9079640",
       "source": "udn.com",
       "published": 1760826685
     },
@@ -399,13 +406,6 @@
       "url": "https://money.udn.com/money/story/5599/9079290",
       "source": "money.udn.com",
       "published": 1760794592
-    },
-    {
-      "id": "5192f498e669",
-      "title": "加薩衛生部：以色列歸還15具巴勒斯坦人遺體",
-      "url": "https://money.udn.com/money/story/5599/9079280",
-      "source": "money.udn.com",
-      "published": 1760794249
     },
     {
       "id": "eb691a97709c",
@@ -1402,5 +1402,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1760826911
+  "build_id": 1760828929
 }
