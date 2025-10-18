@@ -1,5 +1,5 @@
 {
-  "updated": 1760818164,
+  "updated": 1760819688,
   "items": [
     {
       "id": "7d751fd0d19f",
@@ -56,6 +56,13 @@
       "url": "https://udn.com/news/story/6656/9079581",
       "source": "udn.com",
       "published": 1760811783
+    },
+    {
+      "id": "f860f01cec09",
+      "title": "國民黨主席選舉結果揭曉 鄭麗文勝出 第二位女性黨魁",
+      "url": "https://udn.com/news/story/122404/9079439",
+      "source": "udn.com",
+      "published": 1760811021
     },
     {
       "id": "c6ece009fa65",
@@ -217,13 +224,6 @@
       "url": "https://udn.com/news/story/7314/9078365",
       "source": "udn.com",
       "published": 1760803200
-    },
-    {
-      "id": "dd0454417298",
-      "title": "藍營首長 期待放下分歧、團結拚勝選",
-      "url": "https://udn.com/news/story/122404/9079504",
-      "source": "udn.com",
-      "published": 1760802334
     },
     {
       "id": "1c6a6780fde0",
@@ -1402,5 +1402,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1760818164
+  "build_id": 1760819688
 }
