@@ -1,6 +1,20 @@
 {
-  "updated": 1760762296,
+  "updated": 1760764147,
   "items": [
+    {
+      "id": "470d427fb376",
+      "title": "影／國民黨主席選舉 盧秀燕因他亂入表情曝光",
+      "url": "https://udn.com/news/story/122404/9078564",
+      "source": "udn.com",
+      "published": 1760763051
+    },
+    {
+      "id": "235448cc62c1",
+      "title": "燕子口堰塞湖可降挖為何馬太鞍溪的不行？農業部曝3大差別",
+      "url": "https://udn.com/news/story/124616/9078563",
+      "source": "udn.com",
+      "published": 1760763005
+    },
     {
       "id": "9e8cb4198af7",
       "title": "美媒：川普拒給澤倫斯基戰斧飛彈　會談氣氛差",
@@ -16,16 +30,23 @@
       "published": 1760762194
     },
     {
-      "id": "b014a182dffe",
-      "title": "川普據報拒供戰斧飛彈　澤倫斯基抱持「務實」態度",
-      "url": "https://money.udn.com/money/story/10511/9078529",
-      "source": "money.udn.com",
-      "published": 1760761317
+      "id": "8c97694abf70",
+      "title": "影／「可以游泳了」太魯閣燕子口堰塞湖快與路面一樣高 驚險畫面曝光",
+      "url": "https://udn.com/news/story/124616/9078536",
+      "source": "udn.com",
+      "published": 1760761743
     },
     {
       "id": "ff403eda89ee",
       "title": "強化執法監督　美法官命芝加哥移民探員佩戴密錄器",
       "url": "https://money.udn.com/money/story/10511/9078530",
+      "source": "money.udn.com",
+      "published": 1760761317
+    },
+    {
+      "id": "b014a182dffe",
+      "title": "川普據報拒供戰斧飛彈　澤倫斯基抱持「務實」態度",
+      "url": "https://money.udn.com/money/story/10511/9078529",
       "source": "money.udn.com",
       "published": 1760761317
     },
@@ -185,31 +206,10 @@
     },
     {
       "id": "9e2a2b10fba8",
-      "title": "回應鏡週刊爆料 黃國昌批是惡意涅造：把匯款單拿出來",
+      "title": "回應鏡週刊爆料 黃國昌批是惡意捏造：把匯款單拿出來",
       "url": "https://udn.com/news/story/6656/9078388",
       "source": "udn.com",
       "published": 1760756276
-    },
-    {
-      "id": "56718dab094e",
-      "title": "韓國瑜回雲林投票…想了1分鐘 黨員要他在立法院「卡忍耐」",
-      "url": "https://udn.com/news/story/122404/9078382",
-      "source": "udn.com",
-      "published": 1760756225
-    },
-    {
-      "id": "71206c3b87f0",
-      "title": "王義川預告「凱思狗仔」案近期有新進展 曝這項原因是案情關鍵",
-      "url": "https://udn.com/news/story/6656/9078385",
-      "source": "udn.com",
-      "published": 1760756224
-    },
-    {
-      "id": "8eac306b13ae",
-      "title": "共軍昨再「聯合戰備警巡」  27共機8共艦出海擾台",
-      "url": "https://udn.com/news/story/10930/9078380",
-      "source": "udn.com",
-      "published": 1760756126
     },
     {
       "id": "511d21d31538",
@@ -220,7 +220,7 @@
     },
     {
       "id": "8bfc8ac4ea9c",
-      "title": "川普簽署公告擴大汽車關稅至卡車與巴士 11月起課25%",
+      "title": "川普簽署公告擴大汽車關稅至卡車與巴士 11 月起課 25%",
       "url": "https://money.udn.com/money/story/5599/9078355",
       "source": "money.udn.com",
       "published": 1760754930
@@ -1402,5 +1402,5 @@
       "published": 1758376920
     }
   ],
-  "build_id": 1760762296
+  "build_id": 1760764147
 }
