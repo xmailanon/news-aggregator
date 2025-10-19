@@ -1,6 +1,48 @@
 {
-  "updated": 1760845189,
+  "updated": 1760847218,
   "items": [
+    {
+      "id": "f5484091c105",
+      "title": "現身達拉斯健走活動 林右昌：讓台灣加入聯合國",
+      "url": "https://udn.com/news/story/6656/9079995",
+      "source": "udn.com",
+      "published": 1760846846
+    },
+    {
+      "id": "b7f0fb958fac",
+      "title": "日本自維政權大致底定　維新不入閣採「閣外合作」",
+      "url": "https://money.udn.com/money/story/5599/9079997",
+      "source": "money.udn.com",
+      "published": 1760846768
+    },
+    {
+      "id": "7bed35c258a6",
+      "title": "王鴻薇籲鄭麗文盡速修復黨內關係 廣納人才是個好方向",
+      "url": "https://udn.com/news/story/122404/9079967",
+      "source": "udn.com",
+      "published": 1760845850
+    },
+    {
+      "id": "27ebae9549f8",
+      "title": "鄭麗文現象 反映國民黨員厭惡權謀鬥爭期待改變現狀",
+      "url": "https://udn.com/news/story/6656/9079965",
+      "source": "udn.com",
+      "published": 1760845761
+    },
+    {
+      "id": "adb502f8009f",
+      "title": "美陸戰隊250週年閱兵實彈射擊　加州部分公路封閉",
+      "url": "https://money.udn.com/money/story/10511/9079951",
+      "source": "money.udn.com",
+      "published": 1760845526
+    },
+    {
+      "id": "eb698ac5a646",
+      "title": "綠提修法刪憲法法庭評議門檻 翁曉玲批政治凌駕法律？",
+      "url": "https://udn.com/news/story/6656/9079940",
+      "source": "udn.com",
+      "published": 1760845363
+    },
     {
       "id": "1fdf6b2d2ff9",
       "title": "川普悄悄鬆綁對等關稅！擴大豁免品項曝光 疑為最高院敗訴預作準備",
@@ -9,11 +51,32 @@
       "published": 1760845096
     },
     {
+      "id": "b212e48dff0f",
+      "title": "李文忠：朝野三黨都是鬥雞當家 可惜了郝龍斌",
+      "url": "https://udn.com/news/story/122404/9079923",
+      "source": "udn.com",
+      "published": 1760845020
+    },
+    {
       "id": "bf6bfea3268d",
       "title": "將難民安置諾魯挨批　澳洲為遣送計畫辯護",
       "url": "https://money.udn.com/money/story/5599/9079926",
       "source": "money.udn.com",
       "published": 1760844988
+    },
+    {
+      "id": "f4033c95aea2",
+      "title": "林業署：持續監測馬太鞍堰塞湖 以便第一時間反應",
+      "url": "https://udn.com/news/story/124616/9079905",
+      "source": "udn.com",
+      "published": 1760844731
+    },
+    {
+      "id": "c7ab666c1fd7",
+      "title": "強化元首維安 國安局借鏡國際建立暴力份子資料庫",
+      "url": "https://udn.com/news/story/6656/9079916",
+      "source": "udn.com",
+      "published": 1760844730
     },
     {
       "id": "658ffdfa534f",
@@ -219,39 +282,11 @@
       "published": 1760826080
     },
     {
-      "id": "7420dc3b5709",
-      "title": "不要國王抗議行動再起 華府大批民眾走上街頭",
-      "url": "https://money.udn.com/money/story/10511/9079637",
-      "source": "money.udn.com",
-      "published": 1760825875
-    },
-    {
       "id": "509c7c684880",
       "title": "鄭麗文當選 謝國樑：希望主席定期和縣市長聚會商討國策 讓民眾更有感",
       "url": "https://udn.com/news/story/122404/9079636",
       "source": "udn.com",
       "published": 1760825584
-    },
-    {
-      "id": "d064ee0ba9e7",
-      "title": "美軍打擊加勒比海運毒船兩人生還　川普：將遣返母國",
-      "url": "https://money.udn.com/money/story/10511/9079617",
-      "source": "money.udn.com",
-      "published": 1760824470
-    },
-    {
-      "id": "0d3fe2741c90",
-      "title": "【總編開箱】鄭麗文的4道功課：整合、轉型、論述、推盧",
-      "url": "https://udn.com/news/story/122404/9079573",
-      "source": "udn.com",
-      "published": 1760824202
-    },
-    {
-      "id": "355d06f170dd",
-      "title": "國民黨新黨魁出爐 一圖看6人得票、近10年黨主席得票率",
-      "url": "https://udn.com/news/story/122404/9079513",
-      "source": "udn.com",
-      "published": 1760824200
     },
     {
       "id": "14f337c81b6c",
@@ -329,41 +364,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251018-%E9%AB%98%E8%B0%83%E4%BA%B2%E4%B8%AD%E7%9A%84%E9%83%91%E4%B8%BD%E6%96%87%E4%BC%9A%E6%8A%8A%E5%9B%BD%E6%B0%91%E5%85%9A%E5%B8%A6%E5%90%91%E5%93%AA%E9%87%8C",
       "source": "rfi.fr",
       "published": 1760816979
-    },
-    {
-      "id": "14762d5565a7",
-      "title": "綠委修核避難區 藍疑為重啟核電鋪路",
-      "url": "https://udn.com/news/story/6656/9079444",
-      "source": "udn.com",
-      "published": 1760811842
-    },
-    {
-      "id": "6b3752faf731",
-      "title": "黃國昌控假對話截圖提告 鏡週刊強調報導有據",
-      "url": "https://udn.com/news/story/6656/9079581",
-      "source": "udn.com",
-      "published": 1760811783
-    },
-    {
-      "id": "f860f01cec09",
-      "title": "國民黨主席選舉結果揭曉 鄭麗文勝出 第二位女性黨魁",
-      "url": "https://udn.com/news/story/122404/9079439",
-      "source": "udn.com",
-      "published": 1760811021
-    },
-    {
-      "id": "3f1e19d2a7e7",
-      "title": "歐洲議會反對中國扭曲聯大2758決議 外交部感謝",
-      "url": "https://udn.com/news/story/6656/9079423",
-      "source": "udn.com",
-      "published": 1760809178
-    },
-    {
-      "id": "619002951a56",
-      "title": "醫師勸休養3個月！愛紗硬撐金鐘演出　復出唱〈喇舌〉全場沸騰",
-      "url": "https://udn.com/news/story/123693/9079316",
-      "source": "udn.com",
-      "published": 1760807313
     },
     {
       "id": "af80093489f8",
@@ -1402,5 +1402,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1760845189
+  "build_id": 1760847218
 }
