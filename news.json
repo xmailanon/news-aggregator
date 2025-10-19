@@ -1,6 +1,13 @@
 {
-  "updated": 1760904598,
+  "updated": 1760906168,
   "items": [
+    {
+      "id": "2c155f9d9c3f",
+      "title": "因遭乌克兰无人机攻击 俄设施暂停接收哈萨克天然气",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251019-%E5%9B%A0%E9%81%AD%E4%B9%8C%E5%85%8B%E5%85%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%94%BB%E5%87%BB-%E4%BF%84%E8%AE%BE%E6%96%BD%E6%9A%82%E5%81%9C%E6%8E%A5%E6%94%B6%E5%93%88%E8%90%A8%E5%85%8B%E5%A4%A9%E7%84%B6%E6%B0%94",
+      "source": "rfi.fr",
+      "published": 1760905532
+    },
     {
       "id": "394db852dfc5",
       "title": "中国稀土垄断地位威胁德国工业",
@@ -149,13 +156,6 @@
       "published": 1760891928
     },
     {
-      "id": "017cac411329",
-      "title": "大陸控美國網攻「北京時間」 台灣也是陣地",
-      "url": "https://udn.com/news/story/6656/9080978",
-      "source": "udn.com",
-      "published": 1760891803
-    },
-    {
       "id": "2ce2e8931dea",
       "title": "憲法法庭停擺…綠提修憲訴法 藍：政治凌駕法律",
       "url": "https://udn.com/news/story/6656/9080967",
@@ -296,6 +296,13 @@
       "published": 1760886388
     },
     {
+      "id": "ed33b2285f91",
+      "title": "習電賀鄭麗文提增強做中國人骨氣 環時：民進黨對美卑躬屈膝",
+      "url": "https://udn.com/news/story/122404/9080825",
+      "source": "udn.com",
+      "published": 1760886100
+    },
+    {
       "id": "448cf08d556c",
       "title": "美中角力 海底電纜成新戰場",
       "url": "https://money.udn.com/money/story/122381/9080711",
@@ -324,9 +331,9 @@
       "published": 1760882932
     },
     {
-      "id": "232f9b58cb81",
+      "id": "59552d8eb5eb",
       "title": "加薩：以色列歸還15具巴勒斯坦人遺體　累計150具",
-      "url": "https://money.udn.com/money/story/10511/9080725",
+      "url": "https://money.udn.com/money/story/5599/9080725",
       "source": "money.udn.com",
       "published": 1760882776
     },
@@ -623,13 +630,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251018-%E5%BE%B7%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF-%E4%B8%AD%E5%9B%BD%E9%9C%80%E8%A6%81%E6%AC%A7%E6%B4%B2%EF%BC%8C%E8%83%9C%E8%BF%87%E6%AC%A7%E6%B4%B2%E9%9C%80%E8%A6%81%E4%B8%AD%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1760801110
-    },
-    {
-      "id": "98f2b2e4a3d2",
-      "title": "美官员据报私下探讨安排特朗普在亚洲之行中会见金正恩",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251018-%E7%BE%8E%E5%AE%98%E5%91%98%E6%8D%AE%E6%8A%A5%E7%A7%81%E4%B8%8B%E6%8E%A2%E8%AE%A8%E5%AE%89%E6%8E%92%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E4%BA%9A%E6%B4%B2%E4%B9%8B%E8%A1%8C%E4%B8%AD%E4%BC%9A%E8%A7%81%E9%87%91%E6%AD%A3%E6%81%A9",
-      "source": "rfi.fr",
-      "published": 1760799865
     },
     {
       "id": "bc530700e944",
@@ -1402,5 +1402,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1760904598
+  "build_id": 1760906168
 }
