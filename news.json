@@ -1,6 +1,27 @@
 {
-  "updated": 1760984109,
+  "updated": 1760986061,
   "items": [
+    {
+      "id": "96012c06a160",
+      "title": "川普稱中國無意犯台　計劃2026年初訪中",
+      "url": "https://money.udn.com/money/story/10511/9083571",
+      "source": "money.udn.com",
+      "published": 1760985372
+    },
+    {
+      "id": "d51a50ebca16",
+      "title": "美台國防工業會議 副防長籲打造無人機非紅供應鏈",
+      "url": "https://udn.com/news/story/10930/9083566",
+      "source": "udn.com",
+      "published": 1760984605
+    },
+    {
+      "id": "ebfbc4edd542",
+      "title": "美台國防工業會議 副防長籲打造無人機非紅供應鏈",
+      "url": "https://money.udn.com/money/story/5599/9083566",
+      "source": "money.udn.com",
+      "published": 1760984588
+    },
     {
       "id": "56c7b8854ad5",
       "title": "川普：明年相當早就訪問中國大陸 避談會否犧牲台灣交換美中貿易協議",
@@ -268,20 +289,6 @@
       "published": 1760971020
     },
     {
-      "id": "ccefdfe2cbdd",
-      "title": "德國蒂森克虜伯分拆造船事業　趕搭歐洲國防工業熱潮",
-      "url": "https://money.udn.com/money/story/5599/9083265",
-      "source": "money.udn.com",
-      "published": 1760970613
-    },
-    {
-      "id": "af31981ad7c8",
-      "title": "美股早盤／三大指數齊漲 蘋果逼近歷史高點 美政府關門本周有望落幕",
-      "url": "https://money.udn.com/money/story/123398/9083235",
-      "source": "money.udn.com",
-      "published": 1760969862
-    },
-    {
       "id": "b748bf9e210b",
       "title": "泽连斯基称若受邀愿参加美俄匈牙利峰会 卡拉斯指无乌欧参与，谈判将不会有结果",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251020-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E8%8B%A5%E5%8F%97%E9%82%80%E6%84%BF%E5%8F%82%E5%8A%A0%E7%BE%8E%E4%BF%84%E5%8C%88%E7%89%99%E5%88%A9%E5%B3%B0%E4%BC%9A-%E5%8D%A1%E6%8B%89%E6%96%AF%E6%8C%87%E6%97%A0%E4%B9%8C%E6%AC%A7%E5%8F%82%E4%B8%8E%EF%BC%8C%E8%B0%88%E5%88%A4%E5%B0%86%E4%B8%8D%E4%BC%9A%E6%9C%89%E7%BB%93%E6%9E%9C",
@@ -301,13 +308,6 @@
       "url": "https://udn.com/news/story/7314/9082393",
       "source": "udn.com",
       "published": 1760968564
-    },
-    {
-      "id": "eba337a1c5e5",
-      "title": "史瓦帝尼觀光環境部長訪台 聚焦氣候變遷動物保育",
-      "url": "https://udn.com/news/story/6656/9083161",
-      "source": "udn.com",
-      "published": 1760968519
     },
     {
       "id": "c9f0c577d140",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1760984109
+  "build_id": 1760986061
 }
