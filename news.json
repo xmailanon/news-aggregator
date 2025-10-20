@@ -1,6 +1,13 @@
 {
-  "updated": 1760988756,
+  "updated": 1760991069,
   "items": [
+    {
+      "id": "48d586625015",
+      "title": "特朗普：中国“不想”入侵台湾 重申对习近平的信任",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251020-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B8%AD%E5%9B%BD-%E4%B8%8D%E6%83%B3-%E5%85%A5%E4%BE%B5%E5%8F%B0%E6%B9%BE-%E9%87%8D%E7%94%B3%E5%AF%B9%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BF%A1%E4%BB%BB",
+      "source": "rfi.fr",
+      "published": 1760990504
+    },
     {
       "id": "5e6679c6899d",
       "title": "美國澳洲簽關鍵礦產協議　盼降低對中國稀土依賴",
@@ -595,13 +602,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251019-%E6%B3%95%E6%96%B0%E7%A4%BE-%E4%BB%A5%E5%AF%B9%E5%8A%A0%E6%B2%99%E5%8D%97%E9%83%A8%E5%B1%95%E5%BC%80%E8%87%B4%E5%91%BD%E8%A2%AD%E5%87%BB",
       "source": "rfi.fr",
       "published": 1760906630
-    },
-    {
-      "id": "bfac00093484",
-      "title": "北塞浦路斯总统大选：埃尔多安支持的候选人败北",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251019-%E5%8C%97%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89-%E5%9F%83%E5%B0%94%E5%A4%9A%E5%AE%89%E6%94%AF%E6%8C%81%E7%9A%84%E5%80%99%E9%80%89%E4%BA%BA%E8%B4%A5%E5%8C%97",
-      "source": "rfi.fr",
-      "published": 1760906508
     },
     {
       "id": "161c3d9c4291",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1760988756
+  "build_id": 1760991069
 }
