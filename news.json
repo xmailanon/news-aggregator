@@ -1,6 +1,90 @@
 {
-  "updated": 1760938717,
+  "updated": 1760940976,
   "items": [
+    {
+      "id": "14e0b416ebaa",
+      "title": "燕子口堰塞湖滲流水位正常 台鐵：目前不會封閉北迴鐵路",
+      "url": "https://udn.com/news/story/6656/9082155",
+      "source": "udn.com",
+      "published": 1760940865
+    },
+    {
+      "id": "1db8b23ae771",
+      "title": "美政府停擺第19天 FAA：航管缺人致多地航班延誤",
+      "url": "https://money.udn.com/money/story/10511/9082154",
+      "source": "money.udn.com",
+      "published": 1760940811
+    },
+    {
+      "id": "8f6e35c14d46",
+      "title": "監院調查揭光電申設7大問題 籲政院強化協調防範不法",
+      "url": "https://udn.com/news/story/6656/9082121",
+      "source": "udn.com",
+      "published": 1760940424
+    },
+    {
+      "id": "08d687851328",
+      "title": "偷水溝蓋發天災財 如釀死傷最重可判無期徒刑",
+      "url": "https://udn.com/news/story/124616/9082103",
+      "source": "udn.com",
+      "published": 1760940423
+    },
+    {
+      "id": "0fd3a2d1a47a",
+      "title": "趙少康籲降低親中色彩 鄭麗文盼選舉激情早一天結束",
+      "url": "https://udn.com/news/story/122404/9082124",
+      "source": "udn.com",
+      "published": 1760940423
+    },
+    {
+      "id": "cc8893d79d1d",
+      "title": "習近平電賀鄭麗文 國民黨主席的兩岸關係新挑戰",
+      "url": "https://udn.com/news/story/122404/9082123",
+      "source": "udn.com",
+      "published": 1760940008
+    },
+    {
+      "id": "46a6e43f482e",
+      "title": "川普：不希望中國大陸跟我們玩稀土遊戲 芬太尼黃豆同列首要談判議題",
+      "url": "https://money.udn.com/money/story/5599/9082108",
+      "source": "money.udn.com",
+      "published": 1760939828
+    },
+    {
+      "id": "082ed608b064",
+      "title": "俄烏戰爭：美國提供戰斧飛彈能改變戰局嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c986188vjd8o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1760939382
+    },
+    {
+      "id": "0107136392dd",
+      "title": "影／羅浮宮世紀劫案搶匪身影曝光！法媒疑外國團夥犯案「離奇且大膽」",
+      "url": "https://money.udn.com/money/story/5599/9082086",
+      "source": "money.udn.com",
+      "published": 1760939313
+    },
+    {
+      "id": "8ee3f4dd513f",
+      "title": "物流供應商遭網攻 無印良品日本電商網站受波及暫停營運",
+      "url": "https://money.udn.com/money/story/5599/9082082",
+      "source": "money.udn.com",
+      "published": 1760939245
+    },
+    {
+      "id": "b72b84246459",
+      "title": "潛艦延宕每天罰19萬 主機確為船艦使用",
+      "url": "https://udn.com/news/story/10930/9082044",
+      "source": "udn.com",
+      "published": 1760939069
+    },
+    {
+      "id": "3055d79a259f",
+      "title": "影／鄭麗文喊話2028不只第一大黨 還是過半的立院黨團",
+      "url": "https://udn.com/news/story/122404/9082061",
+      "source": "udn.com",
+      "published": 1760938383
+    },
     {
       "id": "f99213036451",
       "title": "從「台獨」到「親中」：鄭麗文當選國民黨主席的啟示",
@@ -9,11 +93,25 @@
       "published": 1760938366
     },
     {
+      "id": "47a1d3cdcf0d",
+      "title": "科普環島列車啟動 蕭美琴憶任花蓮立委常搭火車",
+      "url": "https://udn.com/news/story/6656/9082058",
+      "source": "udn.com",
+      "published": 1760938344
+    },
+    {
       "id": "a930162677cf",
       "title": "副防長鍾樹明率軍備局長林文祥 出席美台國防工業會議",
       "url": "https://udn.com/news/story/10930/9082024",
       "source": "udn.com",
       "published": 1760937964
+    },
+    {
+      "id": "27c8e09e3580",
+      "title": "Fed 優先關注就業市場風險 年底前降息幅度仍存變數",
+      "url": "https://money.udn.com/money/story/5599/9082023",
+      "source": "money.udn.com",
+      "published": 1760937957
     },
     {
       "id": "06e95207570d",
@@ -73,7 +171,7 @@
     },
     {
       "id": "bb46948e362d",
-      "title": "台積美廠震撼畫面曝光！大秀「銀色高速公路」 EUV內部宛若小宇宙",
+      "title": "台積美廠震撼畫面曝光！大秀「銀色高速公路」 EUV 內部宛若小宇宙",
       "url": "https://money.udn.com/money/story/5599/9081939",
       "source": "money.udn.com",
       "published": 1760935767
@@ -170,25 +268,11 @@
       "published": 1760933572
     },
     {
-      "id": "e76f49ffa489",
-      "title": "監察院指新竹縣府失職 民團促檢討全台山坡地開發與監管漏洞",
-      "url": "https://udn.com/news/story/6656/9081819",
-      "source": "udn.com",
-      "published": 1760933106
-    },
-    {
       "id": "5a377f854c89",
       "title": "iPhone 17熱賣、入門款銷量暴增 美中市場買氣都很強",
       "url": "https://money.udn.com/money/story/5599/9081811",
       "source": "money.udn.com",
       "published": 1760933012
-    },
-    {
-      "id": "0c1aecc9b150",
-      "title": "燕子口堰塞湖壩頂降挖屢遇險  維持紅色警戒",
-      "url": "https://udn.com/news/story/124616/9081768",
-      "source": "udn.com",
-      "published": 1760932806
     },
     {
       "id": "78cb8ed6fb6e",
@@ -198,53 +282,11 @@
       "published": 1760932483
     },
     {
-      "id": "b2b481bc9092",
-      "title": "撤離演習85分 馬太鞍溪堰塞湖有望解除紅色警戒",
-      "url": "https://udn.com/news/story/124616/9081741",
-      "source": "udn.com",
-      "published": 1760932306
-    },
-    {
       "id": "caa24e503e31",
       "title": "盧浮宮竊案：失竊的珍寶、逃逸途中掉落的皇冠和已知所有細節",
       "url": "https://www.bbc.com/zhongwen/articles/cdxrenz5w1po/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760932213
-    },
-    {
-      "id": "dcfe61b68477",
-      "title": "政治跟拍頻傳 張榮興：民眾會唾棄無目標式的跟監",
-      "url": "https://udn.com/news/story/6656/9081753",
-      "source": "udn.com",
-      "published": 1760932084
-    },
-    {
-      "id": "3bd788c74adf",
-      "title": "鄭麗文「親中」？ 黃國昌：捍衛自由民主是共同價值",
-      "url": "https://udn.com/news/story/122404/9081746",
-      "source": "udn.com",
-      "published": 1760931993
-    },
-    {
-      "id": "02bf3c17e87a",
-      "title": "花蓮燕子口堰塞湖壩體滲流擴大落石不斷 林保署剩10公尺降挖防潰壩",
-      "url": "https://udn.com/news/story/124616/9081725",
-      "source": "udn.com",
-      "published": 1760931724
-    },
-    {
-      "id": "d768e9a4fbc8",
-      "title": "成功嶺軍官在陸軍砲測中心墜樓死亡  十軍團說明",
-      "url": "https://udn.com/news/story/10930/9081716",
-      "source": "udn.com",
-      "published": 1760931465
-    },
-    {
-      "id": "cfbb8996c56b",
-      "title": "高雄市長初選菊系整合成功？ 陳菊子弟兵簡煥宗公開挺賴瑞隆",
-      "url": "https://udn.com/news/story/6656/9081717",
-      "source": "udn.com",
-      "published": 1760931457
     },
     {
       "id": "d7e9558e71f0",
@@ -273,41 +315,6 @@
       "url": "https://money.udn.com/money/story/5599/9081571",
       "source": "money.udn.com",
       "published": 1760929169
-    },
-    {
-      "id": "3dbe77137f01",
-      "title": "以軍空襲加薩　川普堅稱以哈停火仍有效",
-      "url": "https://money.udn.com/money/story/10511/9081546",
-      "source": "money.udn.com",
-      "published": 1760928860
-    },
-    {
-      "id": "e6fe06d2ebf4",
-      "title": "提供東協最長稅務優惠  菲律賓強化招商競爭力",
-      "url": "https://money.udn.com/money/story/5599/9081542",
-      "source": "money.udn.com",
-      "published": 1760928858
-    },
-    {
-      "id": "ad616e2a61dd",
-      "title": "羅浮宮7分鐘驚天竊案早有警訊！工會警告1漏洞沒人理",
-      "url": "https://money.udn.com/money/story/5599/9081506",
-      "source": "money.udn.com",
-      "published": 1760928271
-    },
-    {
-      "id": "b4e9b89f0cbe",
-      "title": "巴黎羅浮宮驚天竊案　法國文化部證實8件珍寶遭竊",
-      "url": "https://money.udn.com/money/story/5599/9081437",
-      "source": "money.udn.com",
-      "published": 1760926870
-    },
-    {
-      "id": "73c0af7f7de1",
-      "title": "緊抓供應鏈轉移潮流　菲盼成台灣先進產業延伸基地",
-      "url": "https://money.udn.com/money/story/10511/9081408",
-      "source": "money.udn.com",
-      "published": 1760926363
     },
     {
       "id": "84cd0b6bb0c6",
@@ -819,13 +826,6 @@
       "url": "https://www.dw.com/zh/中國打壓地下教會-傅希秋：習近平要「絕對的順服」/a-74397199?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760693820
-    },
-    {
-      "id": "3732eb84ef3a",
-      "title": "台灣空姐猝逝風波：長榮航空再爆勞動剝削爭議，為何員工不敢請病假？",
-      "url": "https://www.bbc.com/zhongwen/articles/ckg4zwe0kq2o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1760693114
     },
     {
       "id": "e8b0f3ca9863",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1760938717
+  "build_id": 1760940976
 }
