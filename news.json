@@ -1,6 +1,27 @@
 {
-  "updated": 1760996065,
+  "updated": 1760998134,
   "items": [
+    {
+      "id": "57880a353570",
+      "title": "法国邮政与中国Temu达成包裹递送协议 法商联盟指对企业的灾难性信号",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251020-%E6%B3%95%E5%9B%BD%E9%82%AE%E6%94%BF%E4%B8%8E%E4%B8%AD%E5%9B%BDtemu%E8%BE%BE%E6%88%90%E5%8C%85%E8%A3%B9%E9%80%92%E9%80%81%E5%8D%8F%E8%AE%AE-%E6%B3%95%E5%95%86%E8%81%94%E7%9B%9F%E6%8C%87%E5%AF%B9%E4%BC%81%E4%B8%9A%E7%9A%84%E7%81%BE%E9%9A%BE%E6%80%A7%E4%BF%A1%E5%8F%B7",
+      "source": "rfi.fr",
+      "published": 1760997683
+    },
+    {
+      "id": "5b5d1400b78f",
+      "title": "鄭麗文與賴清德的戰略清晰 衝撞台灣政治座標",
+      "url": "https://udn.com/news/story/6656/9083448",
+      "source": "udn.com",
+      "published": 1760997000
+    },
+    {
+      "id": "68eab9ecd5a3",
+      "title": "羅浮宮驚天竊案 圖解嫌犯7分鐘得手動線、失竊珠寶清單",
+      "url": "https://udn.com/news/story/7314/9083501",
+      "source": "udn.com",
+      "published": 1760997000
+    },
     {
       "id": "815cf27c78fb",
       "title": "美中貿易緊張現緩和跡象　國際油價小跌",
@@ -380,20 +401,6 @@
       "published": 1760969296
     },
     {
-      "id": "6bb3be17c8e2",
-      "title": "海巡遠洋巡護達69航次 總航程可繞赤道26圈",
-      "url": "https://udn.com/news/story/10930/9082427",
-      "source": "udn.com",
-      "published": 1760969017
-    },
-    {
-      "id": "4a0d71ba38dd",
-      "title": "富商鍾文智加保裁定未宣示送達 監院彈劾法官陳勇松",
-      "url": "https://udn.com/news/story/7314/9082393",
-      "source": "udn.com",
-      "published": 1760968564
-    },
-    {
       "id": "c9f0c577d140",
       "title": "英国议会下院议长考虑收紧中国公民的议会准入 保守党议员促斯塔默阻止中国大使馆计划",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251020-%E8%8B%B1%E5%9B%BD%E8%AE%AE%E4%BC%9A%E4%B8%8B%E9%99%A2%E8%AE%AE%E9%95%BF%E8%80%83%E8%99%91%E6%94%B6%E7%B4%A7%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%9A%84%E8%AE%AE%E4%BC%9A%E5%87%86%E5%85%A5-%E4%BF%9D%E5%AE%88%E5%85%9A%E8%AE%AE%E5%91%98%E4%BF%83%E6%96%AF%E5%A1%94%E9%BB%98%E9%98%BB%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%E8%AE%A1%E5%88%92",
@@ -644,13 +651,6 @@
       "url": "https://cn.nytimes.com/world/20251020/uk-china-spy-case/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1760904698
-    },
-    {
-      "id": "78a15280f53f",
-      "title": "特朗普敦促泽伦斯基接受俄罗斯条件结束战争",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251019-%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%A6%E4%BF%83%E6%B3%BD%E4%BC%A6%E6%96%AF%E5%9F%BA%E6%8E%A5%E5%8F%97%E4%BF%84%E7%BD%97%E6%96%AF%E6%9D%A1%E4%BB%B6%E7%BB%93%E6%9D%9F%E6%88%98%E4%BA%89",
-      "source": "rfi.fr",
-      "published": 1760903487
     },
     {
       "id": "1ccefa19324c",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1760996065
+  "build_id": 1760998134
 }
