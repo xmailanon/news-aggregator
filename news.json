@@ -1,6 +1,20 @@
 {
-  "updated": 1760980142,
+  "updated": 1760981822,
   "items": [
+    {
+      "id": "0bd6e1e2f04d",
+      "title": "美中貿易疑慮緩解　歐洲股市收高",
+      "url": "https://money.udn.com/money/story/10511/9083552",
+      "source": "money.udn.com",
+      "published": 1760981437
+    },
+    {
+      "id": "9699ec396576",
+      "title": "川普：台灣是中國「眼中的蘋果」川習會預期會討論到台灣議題",
+      "url": "https://money.udn.com/money/story/5599/9083541",
+      "source": "money.udn.com",
+      "published": 1760980049
+    },
     {
       "id": "f6f5efc59df6",
       "title": "鄭麗文：不怕貼標籤 當然要會習近平",
@@ -103,6 +117,13 @@
       "id": "4ee91443b670",
       "title": "藏逸秋拍「上億絕礦阿蓋爾粉鑽」3千萬起拍",
       "url": "https://udn.com/news/story/7314/9081602",
+      "source": "udn.com",
+      "published": 1760976000
+    },
+    {
+      "id": "c9e4e78e770d",
+      "title": "光復救災即將滿月 中央協調所將轉型拚重建",
+      "url": "https://udn.com/news/story/124616/9083466",
       "source": "udn.com",
       "published": 1760976000
     },
@@ -289,20 +310,6 @@
       "published": 1760967292
     },
     {
-      "id": "58043108f69f",
-      "title": "伊朗最高領袖否認核設施遭摧毀　嗆川普「繼續做夢吧」",
-      "url": "https://money.udn.com/money/story/5599/9083160",
-      "source": "money.udn.com",
-      "published": 1760967050
-    },
-    {
-      "id": "450d571e1e61",
-      "title": "教宗首會天主教性侵受害者　教廷被批救濟行動過慢",
-      "url": "https://money.udn.com/money/story/5599/9083152",
-      "source": "money.udn.com",
-      "published": 1760966555
-    },
-    {
       "id": "8fd8eeb371a9",
       "title": "澳军方谴责中国战机近距离发射照明弹“不安全不专业”",
       "url": "https://www.dw.com/zh/澳军方谴责中国战机近距离发射照明弹-不安全不专业/a-74427832?maca=chi-rss-chi-all-1127-rdf",
@@ -329,13 +336,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%9C%E4%BA%AC%E4%B8%93%E6%A0%8F/20251020-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E8%BF%9F%E8%BF%9F%E9%80%89%E4%B8%8D%E5%87%BA%E6%96%B0%E9%A6%96%E7%9B%B8%E7%9A%84%E6%B7%B7%E4%B9%B1%E5%B1%80%E9%9D%A2",
       "source": "rfi.fr",
       "published": 1760962948
-    },
-    {
-      "id": "3f7f1c8f64da",
-      "title": "嘉邑行善團進駐花蓮災區近1月 無私奉獻完成階段任務",
-      "url": "https://udn.com/news/story/124616/9083027",
-      "source": "udn.com",
-      "published": 1760962841
     },
     {
       "id": "0be8cdc94d03",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1760980142
+  "build_id": 1760981822
 }
