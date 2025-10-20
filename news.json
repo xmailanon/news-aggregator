@@ -1,12 +1,33 @@
 {
-  "updated": 1760935325,
+  "updated": 1760937059,
   "items": [
     {
-      "id": "574357a56e0c",
-      "title": "北台灣降雨量紫爆 氣象署啟動大規模或劇烈豪雨事件",
-      "url": "https://udn.com/news/story/7314/9081918",
+      "id": "92a009c8edea",
+      "title": "詹氏：買中國戰機快艇與飛彈　印尼將外貸948億",
+      "url": "https://money.udn.com/money/story/5599/9082002",
+      "source": "money.udn.com",
+      "published": 1760937210
+    },
+    {
+      "id": "4e9662388487",
+      "title": "救災將滿月 中央協調所最慢22日退場 將成立9組推動重建工作",
+      "url": "https://udn.com/news/story/6656/9081955",
       "source": "udn.com",
-      "published": 1760935096
+      "published": 1760936344
+    },
+    {
+      "id": "e5212195a946",
+      "title": "民進黨：反年改若成真 年輕公務員受害",
+      "url": "https://udn.com/news/story/6656/9081932",
+      "source": "udn.com",
+      "published": 1760936060
+    },
+    {
+      "id": "bb46948e362d",
+      "title": "台積美廠震撼畫面曝光！大秀「銀色高速公路」 EUV內部宛若小宇宙",
+      "url": "https://money.udn.com/money/story/5599/9081939",
+      "source": "money.udn.com",
+      "published": 1760935767
     },
     {
       "id": "5b2a9ff41e80",
@@ -233,13 +254,6 @@
       "published": 1760929925
     },
     {
-      "id": "837c30da33d1",
-      "title": "顧立雄：資安與彈藥庫建設 皆屬國土防衛韌性",
-      "url": "https://udn.com/news/story/10930/9081545",
-      "source": "udn.com",
-      "published": 1760929506
-    },
-    {
       "id": "5ee0c79c8e91",
       "title": "印度稱貿易談判進展順利 川普強調不停買俄油「免談」",
       "url": "https://money.udn.com/money/story/5599/9081571",
@@ -280,20 +294,6 @@
       "url": "https://money.udn.com/money/story/10511/9081408",
       "source": "money.udn.com",
       "published": 1760926363
-    },
-    {
-      "id": "0e957b3adb62",
-      "title": "川普指哥倫比亞總統是毒品首腦　哥國外交部譴責",
-      "url": "https://money.udn.com/money/story/10511/9081407",
-      "source": "money.udn.com",
-      "published": 1760926363
-    },
-    {
-      "id": "645e4fabea7e",
-      "title": "阿聯酋貨機撞地勤車衝出跑道　機身泡海中畫面曝光",
-      "url": "https://money.udn.com/money/story/5599/9081366",
-      "source": "money.udn.com",
-      "published": 1760925637
     },
     {
       "id": "84cd0b6bb0c6",
@@ -420,6 +420,13 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251019-%E8%8D%B7%E5%85%B0%E7%BB%8F%E6%B5%8E%E7%9B%B8%E7%A7%B0%E6%8E%A5%E7%AE%A1%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%8B%E5%85%B3%E4%B8%9A%E5%8A%A1%E5%92%8C%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E6%88%96%E8%A2%AB%E7%A7%BB%E5%87%BA%E6%AC%A7%E6%B4%B2-%E5%B0%86%E4%BC%9A%E6%99%A4%E4%B8%AD%E6%96%B9%E5%AE%98%E5%91%98",
       "source": "rfi.fr",
       "published": 1760890024
+    },
+    {
+      "id": "352aa46e59b2",
+      "title": "一周世界舆论聚焦：中国需完善稀土政策的执行",
+      "url": "https://www.ftchinese.com/story/001107929",
+      "source": "ftchinese.com",
+      "published": 1760889600
     },
     {
       "id": "ac84d761038c",
@@ -947,13 +954,6 @@
       "published": 1760630400
     },
     {
-      "id": "3470aefe746d",
-      "title": "巴以冲突系列评论之三：在战火中催生的国家",
-      "url": "https://www.ftchinese.com/story/001107905",
-      "source": "ftchinese.com",
-      "published": 1760630400
-    },
-    {
       "id": "1a92c307e1db",
       "title": "长平漫游：原来这样就可以和德国孩子一起练足球",
       "url": "https://www.dw.com/zh/长平漫游：原来这样就可以和德国孩子一起练足球/a-74363470?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1760935325
+  "build_id": 1760937059
 }
