@@ -1,6 +1,13 @@
 {
-  "updated": 1760987298,
+  "updated": 1760988756,
   "items": [
+    {
+      "id": "5e6679c6899d",
+      "title": "美國澳洲簽關鍵礦產協議　盼降低對中國稀土依賴",
+      "url": "https://money.udn.com/money/story/5599/9083577",
+      "source": "money.udn.com",
+      "published": 1760988071
+    },
     {
       "id": "3a70b42439fe",
       "title": "川普：美中關係會「沒事的」強調沒想要摧毀中國",
@@ -30,9 +37,9 @@
       "published": 1760986235
     },
     {
-      "id": "96012c06a160",
+      "id": "398e9e66e5f1",
       "title": "川普稱中國無意犯台　計劃2026年初訪中",
-      "url": "https://money.udn.com/money/story/10511/9083571",
+      "url": "https://money.udn.com/money/story/5599/9083571",
       "source": "money.udn.com",
       "published": 1760985372
     },
@@ -42,13 +49,6 @@
       "url": "https://udn.com/news/story/10930/9083566",
       "source": "udn.com",
       "published": 1760984605
-    },
-    {
-      "id": "ebfbc4edd542",
-      "title": "美台國防工業會議 副防長籲打造無人機非紅供應鏈",
-      "url": "https://money.udn.com/money/story/5599/9083566",
-      "source": "money.udn.com",
-      "published": 1760984588
     },
     {
       "id": "56c7b8854ad5",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1760987298
+  "build_id": 1760988756
 }
