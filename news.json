@@ -1,6 +1,13 @@
 {
-  "updated": 1761084573,
+  "updated": 1761086129,
   "items": [
+    {
+      "id": "f36a2725ae2e",
+      "title": "川習會腳步近 川普：也有可能不會發生",
+      "url": "https://money.udn.com/money/story/5599/9086857",
+      "source": "money.udn.com",
+      "published": 1761086011
+    },
     {
       "id": "c108c7ce0427",
       "title": "【總編開箱】中美博弈夾縫中 賴政府搞清楚台灣該怎麼走了嗎",
@@ -9,9 +16,9 @@
       "published": 1761083400
     },
     {
-      "id": "e646da8be815",
+      "id": "52fb9a81acb9",
       "title": "美副總統范斯率團訪以色列　力保加薩停火協議",
-      "url": "https://money.udn.com/money/story/10511/9086831",
+      "url": "https://money.udn.com/money/story/5599/9086831",
       "source": "money.udn.com",
       "published": 1761083132
     },
@@ -93,6 +100,13 @@
       "published": 1761073375
     },
     {
+      "id": "a2a04b8bd779",
+      "title": "賴總統致賀高市早苗當選首相 期待深化合作",
+      "url": "https://udn.com/news/story/6656/9086593",
+      "source": "udn.com",
+      "published": 1761073336
+    },
+    {
       "id": "595c27d71d68",
       "title": "布達佩斯峰會生變？美官員：川普近期無意與普丁會面",
       "url": "https://money.udn.com/money/story/5599/9086788",
@@ -168,13 +182,6 @@
       "url": "https://money.udn.com/money/story/10511/9086573",
       "source": "money.udn.com",
       "published": 1761069897
-    },
-    {
-      "id": "b616cfe633f0",
-      "title": "通用Q3獲利、銷量優於預期 上修全年展望",
-      "url": "https://money.udn.com/money/story/123398/9086560",
-      "source": "money.udn.com",
-      "published": 1761069828
     },
     {
       "id": "3e10c6ffc74a",
@@ -364,13 +371,6 @@
       "url": "https://www.dw.com/zh/日本铁娘子-高市早苗就任首相-面临内外压力/a-74443848?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761054240
-    },
-    {
-      "id": "1dfefdaacd30",
-      "title": "馬太鞍溪新堰塞湖今晚隨時可能溢流 光復急撤離125人、便道封閉",
-      "url": "https://udn.com/news/story/124616/9086375",
-      "source": "udn.com",
-      "published": 1761053983
     },
     {
       "id": "54d8b28aaecb",
@@ -1402,5 +1402,5 @@
       "published": 1759145520
     }
   ],
-  "build_id": 1761084573
+  "build_id": 1761086129
 }
