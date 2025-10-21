@@ -1,6 +1,13 @@
 {
-  "updated": 1761075127,
+  "updated": 1761077495,
   "items": [
+    {
+      "id": "b1ead74b1752",
+      "title": "美澳签署关键矿产协议 对抗中国主导地位",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251021-%E7%BE%8E%E6%BE%B3%E7%AD%BE%E7%BD%B2%E5%85%B3%E9%94%AE%E7%9F%BF%E4%BA%A7%E5%8D%8F%E8%AE%AE-%E5%AF%B9%E6%8A%97%E4%B8%AD%E5%9B%BD%E4%B8%BB%E5%AF%BC%E5%9C%B0%E4%BD%8D",
+      "source": "rfi.fr",
+      "published": 1761076570
+    },
     {
       "id": "df6af0049023",
       "title": "特朗普与普京的布达佩斯峰会恐有变数？",
@@ -45,7 +52,7 @@
     },
     {
       "id": "6c0d4f534233",
-      "title": "羅浮宮珍寶失竊　法國檢察官：財損估達8800萬歐元",
+      "title": "羅浮宮珍寶失竊 法國檢察官：財損估達8800萬歐元",
       "url": "https://money.udn.com/money/story/5599/9086787",
       "source": "money.udn.com",
       "published": 1761072869
@@ -212,6 +219,20 @@
       "published": 1761062423
     },
     {
+      "id": "719ef9096cbf",
+      "title": "院版財劃法「統籌款比今年多」…財部挨批自說自話",
+      "url": "https://udn.com/news/story/6656/9086637",
+      "source": "udn.com",
+      "published": 1761062400
+    },
+    {
+      "id": "aae33fce5c8f",
+      "title": "新聞眼／院版財劃法釋出金額若不給力 難闖關立院",
+      "url": "https://udn.com/news/story/6656/9086671",
+      "source": "udn.com",
+      "published": 1761062400
+    },
+    {
       "id": "b39aa59ba0f7",
       "title": "歷史上的今天／1954年北市國民學校聯合體育表演",
       "url": "https://udn.com/news/story/7314/9083849",
@@ -236,20 +257,6 @@
       "id": "bd8bc127669c",
       "title": "稱幫柯文哲圓夢 黃珊珊：演唱會收入沒進競總",
       "url": "https://udn.com/news/story/6656/9086478",
-      "source": "udn.com",
-      "published": 1761062400
-    },
-    {
-      "id": "719ef9096cbf",
-      "title": "院版財劃法「統籌款比今年多」…財部挨批自說自話",
-      "url": "https://udn.com/news/story/6656/9086637",
-      "source": "udn.com",
-      "published": 1761062400
-    },
-    {
-      "id": "aae33fce5c8f",
-      "title": "新聞眼／院版財劃法釋出金額若不給力 難闖關立院",
-      "url": "https://udn.com/news/story/6656/9086671",
       "source": "udn.com",
       "published": 1761062400
     },
@@ -602,13 +609,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251020-%E5%8F%8C%E6%96%B9%E4%B8%BA%E5%8C%88%E7%89%99%E5%88%A9%E7%BE%8E%E4%BF%84%E5%B3%B0%E4%BC%9A%E5%81%9A%E5%85%88%E6%9C%9F%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C",
       "source": "rfi.fr",
       "published": 1760993469
-    },
-    {
-      "id": "d7c17eead50c",
-      "title": "飞越英国军事基地的无人机将被击落",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251020-%E9%A3%9E%E8%B6%8A%E8%8B%B1%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%B0%86%E8%A2%AB%E5%87%BB%E8%90%BD",
-      "source": "rfi.fr",
-      "published": 1760993256
     },
     {
       "id": "6963fcd4aa30",
@@ -1402,5 +1402,5 @@
       "published": 1759145520
     }
   ],
-  "build_id": 1761075127
+  "build_id": 1761077495
 }
