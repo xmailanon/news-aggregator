@@ -1,6 +1,27 @@
 {
-  "updated": 1761077495,
+  "updated": 1761079199,
   "items": [
+    {
+      "id": "f16256a8d82b",
+      "title": "俄國不願接受原地停戰 川普再見普丁恐破局",
+      "url": "https://money.udn.com/money/story/5599/9086811",
+      "source": "money.udn.com",
+      "published": 1761077994
+    },
+    {
+      "id": "47163fb03dae",
+      "title": "終結俄烏戰爭　傳歐洲與烏克蘭聯手制定12點和平方案",
+      "url": "https://money.udn.com/money/story/10511/9086810",
+      "source": "money.udn.com",
+      "published": 1761077551
+    },
+    {
+      "id": "c84c82e22b23",
+      "title": "川普：預期與習近平達成良好協議　但也可能取消會談",
+      "url": "https://money.udn.com/money/story/10511/9086809",
+      "source": "money.udn.com",
+      "published": 1761077551
+    },
     {
       "id": "b1ead74b1752",
       "title": "美澳签署关键矿产协议 对抗中国主导地位",
@@ -149,27 +170,6 @@
       "published": 1761069202
     },
     {
-      "id": "24eab716414a",
-      "title": "跡象顯示美中貿易緊張持續緩和　歐股收高",
-      "url": "https://money.udn.com/money/story/5599/9086756",
-      "source": "money.udn.com",
-      "published": 1761067289
-    },
-    {
-      "id": "52ad1099b437",
-      "title": "歐盟執委：將與中國就稀土出口管制舉行緊急會談",
-      "url": "https://money.udn.com/money/story/5599/9086752",
-      "source": "money.udn.com",
-      "published": 1761066749
-    },
-    {
-      "id": "27d663e28780",
-      "title": "黃金再創紀錄新高 貿易緊張局勢降溫未阻交易員買入",
-      "url": "https://money.udn.com/money/story/5599/9083704",
-      "source": "money.udn.com",
-      "published": 1761065854
-    },
-    {
       "id": "3e10c6ffc74a",
       "title": "顧立雄：向美採購F16 明年全交機有挑戰",
       "url": "https://udn.com/news/story/10930/9086626",
@@ -243,20 +243,6 @@
       "id": "0964ddd1d103",
       "title": "名軒開發積極響應政府推動地上權政策",
       "url": "https://udn.com/news/story/7314/9082808",
-      "source": "udn.com",
-      "published": 1761062400
-    },
-    {
-      "id": "fce13a016f7f",
-      "title": "黃珊珊解釋「小沈已給」緣由 批檢鬼打牆",
-      "url": "https://udn.com/news/story/6656/9086479",
-      "source": "udn.com",
-      "published": 1761062400
-    },
-    {
-      "id": "bd8bc127669c",
-      "title": "稱幫柯文哲圓夢 黃珊珊：演唱會收入沒進競總",
-      "url": "https://udn.com/news/story/6656/9086478",
       "source": "udn.com",
       "published": 1761062400
     },
@@ -373,11 +359,25 @@
       "published": 1761054240
     },
     {
+      "id": "1dfefdaacd30",
+      "title": "馬太鞍溪新堰塞湖今晚隨時可能溢流 光復急撤離125人、便道封閉",
+      "url": "https://udn.com/news/story/124616/9086375",
+      "source": "udn.com",
+      "published": 1761053983
+    },
+    {
       "id": "54d8b28aaecb",
       "title": "安世控制权争夺战加剧：中国区宣布独立运营",
       "url": "https://www.dw.com/zh/安世控制权争夺战加剧：中国区宣布独立运营/a-74429868?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761053340
+    },
+    {
+      "id": "f622a08ec7b2",
+      "title": "歐盟創新週 卓榮泰：與堅實盟友共創永續未來",
+      "url": "https://udn.com/news/story/6656/9086356",
+      "source": "udn.com",
+      "published": 1761053195
     },
     {
       "id": "1909ee91d3b1",
@@ -1402,5 +1402,5 @@
       "published": 1759145520
     }
   ],
-  "build_id": 1761077495
+  "build_id": 1761079199
 }
