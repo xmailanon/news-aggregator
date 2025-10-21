@@ -1,16 +1,51 @@
 {
-  "updated": 1761055831,
+  "updated": 1761057523,
   "items": [
     {
+      "id": "7dbcbb7ef59c",
+      "title": "日本央行官員據悉認為本月無須急於升息",
+      "url": "https://money.udn.com/money/story/5599/9084700",
+      "source": "money.udn.com",
+      "published": 1761056993
+    },
+    {
+      "id": "e7c124c7f910",
+      "title": "淹沒道路！花蓮馬太鞍溪新堰塞湖晚間9時許溢流 台9線便道遭沖毀",
+      "url": "https://udn.com/news/story/124616/9086470",
+      "source": "udn.com",
+      "published": 1761056824
+    },
+    {
+      "id": "d316ab858d19",
+      "title": "當地媒體報導 日本或將迎來首位女性財務大臣",
+      "url": "https://money.udn.com/money/story/5599/9084815",
+      "source": "money.udn.com",
+      "published": 1761056760
+    },
+    {
+      "id": "e3abf65b8f2c",
+      "title": "監察院為何多年沒有調查陸委會？監委分析原因稱：很少犯錯",
+      "url": "https://udn.com/news/story/6656/9086457",
+      "source": "udn.com",
+      "published": 1761056567
+    },
+    {
+      "id": "58dc533db03f",
+      "title": "加沙再度发生袭击后 美国特使会见内塔尼亚胡",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251021-%E5%8A%A0%E6%B2%99%E5%86%8D%E5%BA%A6%E5%8F%91%E7%94%9F%E8%A2%AD%E5%87%BB%E5%90%8E-%E7%BE%8E%E5%9B%BD%E7%89%B9%E4%BD%BF%E4%BC%9A%E8%A7%81%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+      "source": "rfi.fr",
+      "published": 1761056449
+    },
+    {
       "id": "d553f9d54864",
-      "title": "韓熱門傳訊軟體Kakao創辦人操縱股價案　一審獲判無罪",
+      "title": "韓熱門傳訊軟體 Kakao 創辦人操縱股價案 一審獲判無罪",
       "url": "https://money.udn.com/money/story/5599/9086420",
       "source": "money.udn.com",
       "published": 1761055590
     },
     {
       "id": "97e4f27a5c6c",
-      "title": "控性侵受害女回憶錄上市　英國安德魯王子壓力升高",
+      "title": "控性侵受害女回憶錄上市 英國安德魯王子壓力升高",
       "url": "https://money.udn.com/money/story/5599/9086421",
       "source": "money.udn.com",
       "published": 1761055589
@@ -21,6 +56,13 @@
       "url": "https://money.udn.com/money/story/123398/9086418",
       "source": "money.udn.com",
       "published": 1761055392
+    },
+    {
+      "id": "7cec5048258e",
+      "title": "美国政府发言人公然用“你妈”怼记者",
+      "url": "https://www.dw.com/zh/美国政府发言人公然用-你妈-怼记者/a-74444188?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1761055320
     },
     {
       "id": "7fc537aaae9b",
@@ -275,13 +317,6 @@
       "published": 1761045151
     },
     {
-      "id": "631e1f83b0ff",
-      "title": "美國證券交易委員會的公司申報數據庫出現「間歇性」故障",
-      "url": "https://money.udn.com/money/story/123398/9084817",
-      "source": "money.udn.com",
-      "published": 1761045088
-    },
-    {
       "id": "d42cc32acb41",
       "title": "立委指海軍局長與大陸特定人士交流 顧立雄允嚴查後向大眾說明",
       "url": "https://udn.com/news/story/10930/9086052",
@@ -315,27 +350,6 @@
       "url": "https://udn.com/news/story/6656/9086053",
       "source": "udn.com",
       "published": 1761044618
-    },
-    {
-      "id": "2b90e6a13fe3",
-      "title": "花蓮燕子口堰塞湖監控面板系統上線 水位監測更即時",
-      "url": "https://udn.com/news/story/124616/9086063",
-      "source": "udn.com",
-      "published": 1761044551
-    },
-    {
-      "id": "bedf4c6d2a77",
-      "title": "歐洲多國聲援烏克蘭　力挺川普現有戰線停火主張",
-      "url": "https://money.udn.com/money/story/5599/9086065",
-      "source": "money.udn.com",
-      "published": 1761044072
-    },
-    {
-      "id": "ef0882182a86",
-      "title": "影／「不能讓你過」！花蓮馬太鞍溪新堰塞湖恐溢流 公路局緊急封橋便道",
-      "url": "https://udn.com/news/story/124616/9086050",
-      "source": "udn.com",
-      "published": 1761043505
     },
     {
       "id": "843808e63aa9",
@@ -749,13 +763,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251020-%E6%AC%A7%E7%9B%9F%E5%90%8C%E6%84%8F%E5%9C%A82028%E5%B9%B41%E6%9C%881%E6%97%A5%E5%89%8D%E9%80%90%E6%AD%A5%E5%81%9C%E6%AD%A2%E8%BF%9B%E5%8F%A3%E4%BF%84%E5%A4%A9%E7%84%B6%E6%B0%94-%E5%8D%A1%E6%8B%89%E6%96%AF-%E9%A2%84%E8%AE%A1%E6%9C%AC%E5%91%A8%E9%80%9A%E8%BF%87%E7%AC%AC19%E8%BD%AE%E5%88%B6%E8%A3%81%E6%96%B9%E6%A1%88",
       "source": "rfi.fr",
       "published": 1760963766
-    },
-    {
-      "id": "79a8f1a4625a",
-      "title": "为什么日本出现迟迟选不出新首相的混乱局面？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%9C%E4%BA%AC%E4%B8%93%E6%A0%8F/20251020-%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A5%E6%9C%AC%E5%87%BA%E7%8E%B0%E8%BF%9F%E8%BF%9F%E9%80%89%E4%B8%8D%E5%87%BA%E6%96%B0%E9%A6%96%E7%9B%B8%E7%9A%84%E6%B7%B7%E4%B9%B1%E5%B1%80%E9%9D%A2",
-      "source": "rfi.fr",
-      "published": 1760962948
     },
     {
       "id": "0be8cdc94d03",
@@ -1393,14 +1400,7 @@
       "url": "https://www.dw.com/zh/习近平欲借贸易协议迫使特朗普-反对台独-？/a-74174404?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1759145520
-    },
-    {
-      "id": "1d6932605e3d",
-      "title": "柏林台灣影展熱鬧開幕 上映台灣女人的故事",
-      "url": "https://www.dw.com/zh/柏林台灣影展熱鬧開幕-上映台灣女人的故事/a-74171767?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1759137060
     }
   ],
-  "build_id": 1761055831
+  "build_id": 1761057523
 }
