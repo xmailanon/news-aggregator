@@ -1,10 +1,24 @@
 {
-  "updated": 1761082351,
+  "updated": 1761084573,
   "items": [
     {
-      "id": "f619e1f3248c",
+      "id": "c108c7ce0427",
+      "title": "【總編開箱】中美博弈夾縫中 賴政府搞清楚台灣該怎麼走了嗎",
+      "url": "https://udn.com/news/story/6656/9086724",
+      "source": "udn.com",
+      "published": 1761083400
+    },
+    {
+      "id": "e646da8be815",
+      "title": "美副總統范斯率團訪以色列　力保加薩停火協議",
+      "url": "https://money.udn.com/money/story/10511/9086831",
+      "source": "money.udn.com",
+      "published": 1761083132
+    },
+    {
+      "id": "34da1b9a0c65",
       "title": "市場消化企業財報和美中緊張緩解　美股收盤走勢不一",
-      "url": "https://money.udn.com/money/story/5599/9086827",
+      "url": "https://money.udn.com/money/story/123398/9086827",
       "source": "money.udn.com",
       "published": 1761082235
     },
@@ -161,13 +175,6 @@
       "url": "https://money.udn.com/money/story/123398/9086560",
       "source": "money.udn.com",
       "published": 1761069828
-    },
-    {
-      "id": "03352596a885",
-      "title": "1分鐘看世界／SpaceX 登月進度落後 NASA 擬重啟競標",
-      "url": "https://money.udn.com/money/story/5599/9086566",
-      "source": "money.udn.com",
-      "published": 1761069340
     },
     {
       "id": "3e10c6ffc74a",
@@ -371,13 +378,6 @@
       "url": "https://www.dw.com/zh/安世控制权争夺战加剧：中国区宣布独立运营/a-74429868?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761053340
-    },
-    {
-      "id": "f622a08ec7b2",
-      "title": "歐盟創新週 卓榮泰：與堅實盟友共創永續未來",
-      "url": "https://udn.com/news/story/6656/9086356",
-      "source": "udn.com",
-      "published": 1761053195
     },
     {
       "id": "1909ee91d3b1",
@@ -1402,5 +1402,5 @@
       "published": 1759145520
     }
   ],
-  "build_id": 1761082351
+  "build_id": 1761084573
 }
