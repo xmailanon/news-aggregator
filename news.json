@@ -1,6 +1,27 @@
 {
-  "updated": 1761086129,
+  "updated": 1761088156,
   "items": [
+    {
+      "id": "c727a80d7308",
+      "title": "道瓊受財報激勵一度攻上47,000點大關 多頭續強但買盤轉疲",
+      "url": "https://money.udn.com/money/story/5599/9086869",
+      "source": "money.udn.com",
+      "published": 1761087888
+    },
+    {
+      "id": "ed94d4f5fb43",
+      "title": "巴西稅務爭議影響　Netflix Q3財報不如預期",
+      "url": "https://money.udn.com/money/story/123398/9086864",
+      "source": "money.udn.com",
+      "published": 1761087269
+    },
+    {
+      "id": "ec16c30a76c9",
+      "title": "馬太鞍新堰塞湖昨晚溢流 便道待水退評估開放通車時間",
+      "url": "https://udn.com/news/story/7314/9086862",
+      "source": "udn.com",
+      "published": 1761086885
+    },
     {
       "id": "f36a2725ae2e",
       "title": "川習會腳步近 川普：也有可能不會發生",
@@ -170,20 +191,6 @@
       "published": 1761070010
     },
     {
-      "id": "caa6ec0bc100",
-      "title": "白宮官員這樣說 政府停擺可能本周結束",
-      "url": "https://money.udn.com/money/story/5599/9086510",
-      "source": "money.udn.com",
-      "published": 1761070010
-    },
-    {
-      "id": "ae349ef54dad",
-      "title": "美軍籌錢找上私募集團 協助募集1,500億美元 用來翻新基礎設施",
-      "url": "https://money.udn.com/money/story/10511/9086573",
-      "source": "money.udn.com",
-      "published": 1761069897
-    },
-    {
       "id": "3e10c6ffc74a",
       "title": "顧立雄：向美採購F16 明年全交機有挑戰",
       "url": "https://udn.com/news/story/10930/9086626",
@@ -231,6 +238,27 @@
       "url": "https://udn.com/news/story/122404/9086676",
       "source": "udn.com",
       "published": 1761062423
+    },
+    {
+      "id": "8c01af13e34c",
+      "title": "诺贝尔奖给日本带来什么？",
+      "url": "https://www.ftchinese.com/story/001107949",
+      "source": "ftchinese.com",
+      "published": 1761062400
+    },
+    {
+      "id": "d604e364ee71",
+      "title": "我们是否身处一场人工智能泡沫中？",
+      "url": "https://www.ftchinese.com/story/001107943",
+      "source": "ftchinese.com",
+      "published": 1761062400
+    },
+    {
+      "id": "abef9d955741",
+      "title": "“科技凯撒”黄仁勋",
+      "url": "https://www.ftchinese.com/story/001107933",
+      "source": "ftchinese.com",
+      "published": 1761062400
     },
     {
       "id": "719ef9096cbf",
@@ -350,13 +378,6 @@
       "url": "https://www.dw.com/zh/美国政府发言人公然用-你妈-怼记者/a-74444188?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761055320
-    },
-    {
-      "id": "b21ebd52c37a",
-      "title": "玉山獎頒獎 蕭美琴盼台灣品牌扎根本土走向世界高峰",
-      "url": "https://udn.com/news/story/6656/9086380",
-      "source": "udn.com",
-      "published": 1761054695
     },
     {
       "id": "0a6e5a2a893a",
@@ -940,27 +961,6 @@
       "published": 1760889600
     },
     {
-      "id": "1df5e9c4cbf6",
-      "title": "中国下一个五年规划将把高科技作为重点",
-      "url": "https://www.ftchinese.com/story/001107934",
-      "source": "ftchinese.com",
-      "published": 1760889600
-    },
-    {
-      "id": "bd0d792c9436",
-      "title": "第三季度中国录得一年来最慢增速",
-      "url": "https://www.ftchinese.com/story/001107932",
-      "source": "ftchinese.com",
-      "published": 1760889600
-    },
-    {
-      "id": "352aa46e59b2",
-      "title": "一周世界舆论聚焦：中国需完善稀土政策的执行",
-      "url": "https://www.ftchinese.com/story/001107929",
-      "source": "ftchinese.com",
-      "published": 1760889600
-    },
-    {
       "id": "9cbbf652187a",
       "title": "全美抗议浪潮 2700城市齐喊“不要国王”",
       "url": "https://www.dw.com/zh/全美抗议浪潮-2700城市齐喊-不要国王/a-74416440?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1759145520
     }
   ],
-  "build_id": 1761086129
+  "build_id": 1761088156
 }
