@@ -1,6 +1,41 @@
 {
-  "updated": 1761034540,
+  "updated": 1761036341,
   "items": [
+    {
+      "id": "6605567a7ad3",
+      "title": "中國發射火箭  菲軍方撈起疑似殘骸",
+      "url": "https://money.udn.com/money/story/5599/9085475",
+      "source": "money.udn.com",
+      "published": 1761035776
+    },
+    {
+      "id": "aeea3e803211",
+      "title": "高市當選日首相 學者：預期外交政策「跟安倍路線差不多」",
+      "url": "https://money.udn.com/money/story/5599/9085469",
+      "source": "money.udn.com",
+      "published": 1761035737
+    },
+    {
+      "id": "b1bb10662e7c",
+      "title": "邱垂正問「通關密語」通到哪？鄭麗文：陸委會不要裝不懂",
+      "url": "https://udn.com/news/story/122404/9085446",
+      "source": "udn.com",
+      "published": 1761035608
+    },
+    {
+      "id": "2b09dd5ca3dc",
+      "title": "高市早苗當選日首相　日學者：外交走安倍路線",
+      "url": "https://money.udn.com/money/story/5599/9085431",
+      "source": "money.udn.com",
+      "published": 1761035423
+    },
+    {
+      "id": "3aca3660697b",
+      "title": "高市早苗成日本首相　曾當樂團鼓手且愛騎重機",
+      "url": "https://money.udn.com/money/story/5599/9085400",
+      "source": "money.udn.com",
+      "published": 1761034897
+    },
     {
       "id": "88b8c88396b5",
       "title": "印度人歡慶排燈節重祭祀  儀式講究祈求光明好運",
@@ -37,16 +72,16 @@
       "published": 1761034001
     },
     {
-      "id": "ba940b79b948",
-      "title": "高市上任首場考驗！美日訂28日「川高會」 預料川普施壓這件事",
-      "url": "https://money.udn.com/money/story/5599/9085292",
+      "id": "9cf4f2f33618",
+      "title": "金融時報：歐盟考慮列乙醇為致癌物　恐禁酒精乾洗手",
+      "url": "https://money.udn.com/money/story/5599/9085296",
       "source": "money.udn.com",
       "published": 1761033976
     },
     {
-      "id": "9cf4f2f33618",
-      "title": "金融時報：歐盟考慮列乙醇為致癌物　恐禁酒精乾洗手",
-      "url": "https://money.udn.com/money/story/5599/9085296",
+      "id": "ba940b79b948",
+      "title": "高市上任首場考驗！美日訂28日「川高會」 預料川普施壓這件事",
+      "url": "https://money.udn.com/money/story/5599/9085292",
       "source": "money.udn.com",
       "published": 1761033976
     },
@@ -254,13 +289,6 @@
       "published": 1761029813
     },
     {
-      "id": "e5dafc6bfba9",
-      "title": "整理包／閃兵風暴燒不停！35位藝人免役「病因清單」掀網炸鍋",
-      "url": "https://udn.com/news/story/123693/9084870",
-      "source": "udn.com",
-      "published": 1761029652
-    },
-    {
       "id": "4e990935059a",
       "title": "越南副國防部長遭控性騷擾　南韓召見越外交官抗議",
       "url": "https://money.udn.com/money/story/5599/9084862",
@@ -296,39 +324,11 @@
       "published": 1761026444
     },
     {
-      "id": "ef0f4d8104cf",
-      "title": "白宮國家經濟會議主席：美國政府停擺可能本週結束",
-      "url": "https://money.udn.com/money/story/10511/9084689",
-      "source": "money.udn.com",
-      "published": 1761026074
-    },
-    {
-      "id": "cfa0833a51b3",
-      "title": "日本將迎歷來首位女首相與財相 日股「高市行情」加速 日圓空頭警戒",
-      "url": "https://money.udn.com/money/story/5599/9084667",
-      "source": "money.udn.com",
-      "published": 1761025645
-    },
-    {
       "id": "561d2044340e",
       "title": "高市早苗當選首相  被視為安倍「弟子」的她對華策略是否會有別於「議員高市」",
       "url": "https://www.bbc.com/zhongwen/articles/cd631xg2n4eo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1761024894
-    },
-    {
-      "id": "b2d7239681b7",
-      "title": "不當柴契爾 但學梅克爾：一窺日本首位女首相高市早苗的權力運作模式",
-      "url": "https://money.udn.com/money/story/5599/9084599",
-      "source": "money.udn.com",
-      "published": 1761024455
-    },
-    {
-      "id": "60258b1e28e1",
-      "title": "台灣參加丹佛IACP年會  籲加入國際刑警組織必要性",
-      "url": "https://money.udn.com/money/story/5599/9084586",
-      "source": "money.udn.com",
-      "published": 1761024090
     },
     {
       "id": "d503c0440344",
@@ -462,6 +462,13 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251020-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%AD%A3%E7%AD%B9%E5%A4%87%E7%AD%BE%E7%BD%B2%E5%90%88%E7%BA%A6-%E8%B4%AD%E4%B9%B025%E5%A5%97%E7%88%B1%E5%9B%BD%E8%80%85%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F",
       "source": "rfi.fr",
       "published": 1760992782
+    },
+    {
+      "id": "de726f5eedc4",
+      "title": "拒中国学生于门外？但也许他们已不需要美国",
+      "url": "https://cn.nytimes.com/opinion/20251021/chinese-students-universities-trump/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1760991871
     },
     {
       "id": "9c2738f0d580",
@@ -1129,13 +1136,6 @@
       "published": 1760589601
     },
     {
-      "id": "d9bb2dd1b6a1",
-      "title": "神秘CEO和数十亿美元销售：被禁英伟达芯片流入中国？",
-      "url": "https://cn.nytimes.com/business/20251016/nvidia-chips-china-megaspeed/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1760584349
-    },
-    {
       "id": "7e3985e0a2c7",
       "title": "美英聯手查獲太子集團140億美元比特幣，幕後主使陳志涉「龐大電詐帝國」",
       "url": "https://www.bbc.com/zhongwen/articles/c5yl31g7gdpo/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1759137060
     }
   ],
-  "build_id": 1761034540
+  "build_id": 1761036341
 }
