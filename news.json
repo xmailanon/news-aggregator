@@ -1,6 +1,13 @@
 {
-  "updated": 1761131361,
+  "updated": 1761132819,
   "items": [
+    {
+      "id": "386cc1c6d100",
+      "title": "美元匯率波動區間接近2013年以來最窄水準",
+      "url": "https://money.udn.com/money/story/5599/9088546",
+      "source": "money.udn.com",
+      "published": 1761131819
+    },
     {
       "id": "89dfa6af7501",
       "title": "美俄峰会陷僵局 欧盟压力倍增将商讨如何援助乌克兰",
@@ -329,13 +336,6 @@
       "url": "https://money.udn.com/money/story/5599/9088677",
       "source": "money.udn.com",
       "published": 1761116097
-    },
-    {
-      "id": "98f397075d68",
-      "title": "波蘭與羅馬尼亞聯手 破獲俄羅斯爆炸包裹陰謀",
-      "url": "https://money.udn.com/money/story/5599/9088685",
-      "source": "money.udn.com",
-      "published": 1761116096
     },
     {
       "id": "21a1f1b408c7",
@@ -1402,5 +1402,5 @@
       "published": 1759137060
     }
   ],
-  "build_id": 1761131361
+  "build_id": 1761132819
 }
