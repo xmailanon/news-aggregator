@@ -1,6 +1,13 @@
 {
-  "updated": 1761167283,
+  "updated": 1761168702,
   "items": [
+    {
+      "id": "068deb0b4154",
+      "title": "路透：美国考虑限制对华出口使用美国软件制造的产品",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251022-%E8%B7%AF%E9%80%8F-%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E9%99%90%E5%88%B6%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%8F%A3%E4%BD%BF%E7%94%A8%E7%BE%8E%E5%9B%BD%E8%BD%AF%E4%BB%B6%E5%88%B6%E9%80%A0%E7%9A%84%E4%BA%A7%E5%93%81",
+      "source": "rfi.fr",
+      "published": 1761168047
+    },
     {
       "id": "5cf806102154",
       "title": "美中貿易緊張升溫　美股收黑",
@@ -730,13 +737,6 @@
       "published": 1761051900
     },
     {
-      "id": "4d992ae7f55a",
-      "title": "俄外长称与阿拉斯加峰会相比俄当前立场未改变 克宫指尚未就普特会日期达成一致",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251021-%E4%BF%84%E5%A4%96%E9%95%BF%E7%A7%B0%E4%B8%8E%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E5%B3%B0%E4%BC%9A%E7%9B%B8%E6%AF%94%E4%BF%84%E5%BD%93%E5%89%8D%E7%AB%8B%E5%9C%BA%E6%9C%AA%E6%94%B9%E5%8F%98-%E5%85%8B%E5%AE%AB%E6%8C%87%E5%B0%9A%E6%9C%AA%E5%B0%B1%E7%89%B9%E6%99%AE%E4%BC%9A%E6%97%A5%E6%9C%9F%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4",
-      "source": "rfi.fr",
-      "published": 1761049245
-    },
-    {
       "id": "7124473dde4e",
       "title": "卢浮宫劫案背后的黑市帝国：失窃珍宝最终会流向何方？",
       "url": "https://www.dw.com/zh/卢浮宫劫案背后的黑市帝国：失窃珍宝最终会流向何方？/a-74437040?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761167283
+  "build_id": 1761168702
 }
