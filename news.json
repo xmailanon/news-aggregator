@@ -1,6 +1,27 @@
 {
-  "updated": 1761161559,
+  "updated": 1761163920,
   "items": [
+    {
+      "id": "218d7f1843d5",
+      "title": "古巴據報逮捕中國芬太尼毒梟　同時遭美墨通緝",
+      "url": "https://money.udn.com/money/story/5599/9091005",
+      "source": "money.udn.com",
+      "published": 1761163329
+    },
+    {
+      "id": "b7b16950f142",
+      "title": "前白宮官員撰文籲：美國不該在川習會改變對台立場",
+      "url": "https://money.udn.com/money/story/5599/9091003",
+      "source": "money.udn.com",
+      "published": 1761162967
+    },
+    {
+      "id": "14be25861bd2",
+      "title": "万润南追思会：告别民企先锋与民主运动坚持者的一生",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251022-%E8%90%AC%E6%BD%A4%E5%8D%97%E8%BF%BD%E6%80%9D%E6%9C%83-%E6%94%B9%E9%9D%A9%E6%99%82%E6%9C%9F%E6%B0%91%E4%BC%81%E5%85%88%E9%8B%92%E8%88%87%E6%B5%81%E4%BA%A1%E4%BA%BA%E7%94%9F%E7%9A%84%E5%91%8A%E5%88%A5",
+      "source": "rfi.fr",
+      "published": 1761161405
+    },
     {
       "id": "2366b69033cc",
       "title": "美國在太平洋攻擊疑似運毒船　歷來首次",
@@ -14,13 +35,6 @@
       "url": "https://money.udn.com/money/story/5599/9090988",
       "source": "money.udn.com",
       "published": 1761160362
-    },
-    {
-      "id": "8f5cd92e0930",
-      "title": "川普將訪亞洲 採購換降稅聚焦 鬆口川習會仍有變數",
-      "url": "https://money.udn.com/money/story/5599/9090795",
-      "source": "money.udn.com",
-      "published": 1761159768
     },
     {
       "id": "56948fb09c1e",
@@ -219,6 +233,13 @@
       "published": 1761149465
     },
     {
+      "id": "8f5cd92e0930",
+      "title": "川普將訪亞洲 採購換降稅聚焦 鬆口川習會仍有變數",
+      "url": "https://money.udn.com/money/story/5599/9090795",
+      "source": "money.udn.com",
+      "published": 1761149448
+    },
+    {
       "id": "d37d48bcbd50",
       "title": "鄭麗文首波黨務人事 副主席李乾龍、季麟連",
       "url": "https://udn.com/news/story/122404/9090888",
@@ -315,20 +336,6 @@
       "url": "https://money.udn.com/money/story/5599/9087061",
       "source": "money.udn.com",
       "published": 1761147306
-    },
-    {
-      "id": "d706f324dab4",
-      "title": "COP30將登場　聯合國秘書長稱升溫逾1.5度已不可避免",
-      "url": "https://money.udn.com/money/story/5599/9090842",
-      "source": "money.udn.com",
-      "published": 1761147036
-    },
-    {
-      "id": "2c2e4907beb5",
-      "title": "選舉大考臨近阿根廷亟待輸血 美國籌劃的融資援助方案仍未敲定細節",
-      "url": "https://money.udn.com/money/story/5599/9087062",
-      "source": "money.udn.com",
-      "published": 1761146910
     },
     {
       "id": "6bd34d2421b7",
@@ -749,13 +756,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cm27d83ngzxo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1761042503
-    },
-    {
-      "id": "bfdf8a253112",
-      "title": "法国前总统萨科齐正式开始服刑 监狱囚犯从牢房里高呼“欢迎萨科齐！”",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251021-%E6%B3%95%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E8%90%A8%E7%A7%91%E9%BD%90%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%E6%9C%8D%E5%88%91-%E7%9B%91%E7%8B%B1%E5%9B%9A%E7%8A%AF%E4%BB%8E%E7%89%A2%E6%88%BF%E9%87%8C%E9%AB%98%E5%91%BC-%E6%AC%A2%E8%BF%8E%E8%90%A8%E7%A7%91%E9%BD%90",
-      "source": "rfi.fr",
-      "published": 1761042203
     },
     {
       "id": "38db6fca66b4",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761161559
+  "build_id": 1761163920
 }
