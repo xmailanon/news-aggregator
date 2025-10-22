@@ -1,6 +1,13 @@
 {
-  "updated": 1761163920,
+  "updated": 1761165484,
   "items": [
+    {
+      "id": "4957ee7d1d69",
+      "title": "美原油庫存下降　國際油價上揚",
+      "url": "https://money.udn.com/money/story/5599/9091012",
+      "source": "money.udn.com",
+      "published": 1761165014
+    },
     {
       "id": "218d7f1843d5",
       "title": "古巴據報逮捕中國芬太尼毒梟　同時遭美墨通緝",
@@ -142,9 +149,9 @@
       "published": 1761153921
     },
     {
-      "id": "77523eb54be4",
+      "id": "890fe6460c58",
       "title": "路透民調：多數美國人支持承認巴勒斯坦國　川普立場不符民意",
-      "url": "https://money.udn.com/money/story/10511/9090944",
+      "url": "https://money.udn.com/money/story/5599/9090944",
       "source": "money.udn.com",
       "published": 1761153679
     },
@@ -329,13 +336,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251022-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%AE%BF%E7%91%9E%E5%85%B8%E7%AD%BE%E7%BD%B2%E9%87%87%E8%B4%AD150%E6%9E%B6-%E9%B9%B0%E7%8B%AE-%E6%88%98%E6%9C%BA%E5%8D%8F%E8%AE%AE",
       "source": "rfi.fr",
       "published": 1761147967
-    },
-    {
-      "id": "0561a3187f1c",
-      "title": "德國和法國支持歐盟峰會討論中國大陸議題 或涉及動用「反脅迫工具」",
-      "url": "https://money.udn.com/money/story/5599/9087061",
-      "source": "money.udn.com",
-      "published": 1761147306
     },
     {
       "id": "6bd34d2421b7",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761163920
+  "build_id": 1761165484
 }
