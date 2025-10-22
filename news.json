@@ -1,6 +1,27 @@
 {
-  "updated": 1761153029,
+  "updated": 1761154490,
   "items": [
+    {
+      "id": "76261fe6d9c2",
+      "title": "新北市前議員張瑞山逝世 享壽71歲",
+      "url": "https://udn.com/news/story/6656/9090884",
+      "source": "udn.com",
+      "published": 1761154024
+    },
+    {
+      "id": "e0e8f01c26f1",
+      "title": "國際金價上沖下洗 打4,000美元保衛戰",
+      "url": "https://money.udn.com/money/story/5599/9090766",
+      "source": "money.udn.com",
+      "published": 1761153921
+    },
+    {
+      "id": "77523eb54be4",
+      "title": "路透民調：多數美國人支持承認巴勒斯坦國　川普立場不符民意",
+      "url": "https://money.udn.com/money/story/10511/9090944",
+      "source": "money.udn.com",
+      "published": 1761153679
+    },
     {
       "id": "64ef07285321",
       "title": "南中国海两架军机发生事故 澳大利亚与中国互相谴责",
@@ -80,7 +101,7 @@
     },
     {
       "id": "b6daed97ebe2",
-      "title": "觀察站／新黨魁重老將 世代交替淪口號？",
+      "title": "觀察站／國民黨新黨魁重老將 世代交替淪口號？",
       "url": "https://udn.com/news/story/122404/9090891",
       "source": "udn.com",
       "published": 1761149465
@@ -191,13 +212,6 @@
       "published": 1761148685
     },
     {
-      "id": "783c61e8186b",
-      "title": "新聞眼／郭信良重判變無罪 綠恐遭迴力鏢",
-      "url": "https://udn.com/news/story/7314/9090855",
-      "source": "udn.com",
-      "published": 1761148605
-    },
-    {
       "id": "312fdc9f958f",
       "title": "泽连斯基访瑞典签署采购150架“鹰狮”战机协议",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251022-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%AE%BF%E7%91%9E%E5%85%B8%E7%AD%BE%E7%BD%B2%E9%87%87%E8%B4%AD150%E6%9E%B6-%E9%B9%B0%E7%8B%AE-%E6%88%98%E6%9C%BA%E5%8D%8F%E8%AE%AE",
@@ -301,20 +315,6 @@
       "url": "https://money.udn.com/money/story/123398/9090606",
       "source": "money.udn.com",
       "published": 1761141170
-    },
-    {
-      "id": "fe965fe5737f",
-      "title": "2026年有色金屬供需預測 為何鎳和鉛將供應過剩、銅卻獨自走強？",
-      "url": "https://money.udn.com/money/story/120769/9089973",
-      "source": "money.udn.com",
-      "published": 1761141129
-    },
-    {
-      "id": "e15bf935e519",
-      "title": "Anthropic 和 Google 洽談雲端運算交易 交易規模達數百億美元",
-      "url": "https://money.udn.com/money/story/5599/9087067",
-      "source": "money.udn.com",
-      "published": 1761141063
     },
     {
       "id": "3afd54ce2592",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761153029
+  "build_id": 1761154490
 }
