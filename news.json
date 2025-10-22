@@ -1,6 +1,13 @@
 {
-  "updated": 1761170880,
+  "updated": 1761172333,
   "items": [
+    {
+      "id": "5a67ac9c5104",
+      "title": "路透：川普政府擬限制含有美國軟體商品出口至中國",
+      "url": "https://money.udn.com/money/story/10511/9091064",
+      "source": "money.udn.com",
+      "published": 1761171153
+    },
     {
       "id": "2d62acf397c9",
       "title": "美財長宣布將重手制裁俄羅斯　痛批普丁不誠實坦率",
@@ -315,13 +322,6 @@
       "url": "https://udn.com/news/story/122404/9090888",
       "source": "udn.com",
       "published": 1761149399
-    },
-    {
-      "id": "2ab62ffef357",
-      "title": "韓國軍方稱北韓發射了疑似彈道飛彈",
-      "url": "https://money.udn.com/money/story/5599/9086949",
-      "source": "money.udn.com",
-      "published": 1761149322
     },
     {
       "id": "05711f013eb2",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761170880
+  "build_id": 1761172333
 }
