@@ -1,6 +1,13 @@
 {
-  "updated": 1761151601,
+  "updated": 1761153029,
   "items": [
+    {
+      "id": "64ef07285321",
+      "title": "南中国海两架军机发生事故 澳大利亚与中国互相谴责",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251022-%E5%8D%97%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%B8%A4%E6%9E%B6%E5%86%9B%E6%9C%BA%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E4%B8%8E%E4%B8%AD%E5%9B%BD%E4%BA%92%E7%9B%B8%E8%B0%B4%E8%B4%A3",
+      "source": "rfi.fr",
+      "published": 1761152651
+    },
     {
       "id": "9ebaea0c95d2",
       "title": "市場憂經濟前景　歐股多收跌",
@@ -751,13 +758,6 @@
       "published": 1761036724
     },
     {
-      "id": "c812cce28113",
-      "title": "一中国女子涉嫌盗窃巴黎博物馆6公斤金块  现已被捕",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251021-%E4%B8%80%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%B6%89%E5%AB%8C%E7%9B%97%E7%AA%83%E5%B7%B4%E9%BB%8E%E5%8D%9A%E7%89%A9%E9%A6%866%E5%85%AC%E6%96%A4%E9%87%91%E5%9D%97-%E7%8E%B0%E5%B7%B2%E8%A2%AB%E6%8D%95",
-      "source": "rfi.fr",
-      "published": 1761033297
-    },
-    {
       "id": "38db6fca66b4",
       "title": "美澳簽署稀土協議，抗衡中國市場主導地位",
       "url": "https://www.bbc.com/zhongwen/articles/c1d0gvrge0yo/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761151601
+  "build_id": 1761153029
 }
