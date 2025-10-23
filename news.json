@@ -1,6 +1,13 @@
 {
-  "updated": 1761241023,
+  "updated": 1761243283,
   "items": [
+    {
+      "id": "3be91f8ded7a",
+      "title": "F-16明年全交機？顧立雄坦言挑戰",
+      "url": "https://udn.com/news/story/10930/9093546",
+      "source": "udn.com",
+      "published": 1761242106
+    },
     {
       "id": "f831c4babe32",
       "title": "川普制裁俄國 油價大漲5%",
@@ -9,9 +16,9 @@
       "published": 1761240027
     },
     {
-      "id": "3d1279c14477",
+      "id": "d23025573304",
       "title": "美中新一輪貿易談判將登場　歐股收紅",
-      "url": "https://money.udn.com/money/story/10511/9093588",
+      "url": "https://money.udn.com/money/story/5599/9093588",
       "source": "money.udn.com",
       "published": 1761239551
     },
@@ -70,6 +77,13 @@
       "url": "https://udn.com/news/story/6656/9093555",
       "source": "udn.com",
       "published": 1761235744
+    },
+    {
+      "id": "d001b9db8cf5",
+      "title": "彭博：賴政府拉攏MAGA與美保守派 反映自身焦慮",
+      "url": "https://udn.com/news/story/6656/9093407",
+      "source": "udn.com",
+      "published": 1761235201
     },
     {
       "id": "d8ff73636b33",
@@ -329,20 +343,6 @@
       "url": "https://udn.com/news/story/124539/9093245",
       "source": "udn.com",
       "published": 1761225929
-    },
-    {
-      "id": "b80b38519f1a",
-      "title": "木原稔盼深化與台合作 外交部：日本政府一貫立場",
-      "url": "https://udn.com/news/story/6656/9093239",
-      "source": "udn.com",
-      "published": 1761225859
-    },
-    {
-      "id": "e3a55362e27b",
-      "title": "普發現金1萬元上路！北富銀率先加碼 抽萬元現金、手機好禮",
-      "url": "https://udn.com/news/story/124539/9093220",
-      "source": "udn.com",
-      "published": 1761224713
     },
     {
       "id": "e25bad9dbc75",
@@ -1388,5 +1388,5 @@
       "published": 1758700223
     }
   ],
-  "build_id": 1761241023
+  "build_id": 1761243283
 }
