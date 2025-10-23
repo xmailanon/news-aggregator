@@ -1,6 +1,20 @@
 {
-  "updated": 1761237842,
+  "updated": 1761239358,
   "items": [
+    {
+      "id": "79754df64500",
+      "title": "川普：與習近平將談妥「一切」",
+      "url": "https://money.udn.com/money/story/5599/9093452",
+      "source": "money.udn.com",
+      "published": 1761238447
+    },
+    {
+      "id": "022ce0da3d5b",
+      "title": "在欧洲，为离散的人开一间中文书店",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%AD%E5%8D%8E%E4%B8%96%E7%95%8C/20251023-%E5%9C%A8%E6%AC%A7%E6%B4%B2%EF%BC%8C%E4%B8%BA%E7%A6%BB%E6%95%A3%E7%9A%84%E4%BA%BA%E5%BC%80%E4%B8%80%E5%AE%B6%E4%B8%AD%E6%96%87%E4%B9%A6%E5%BA%97",
+      "source": "rfi.fr",
+      "published": 1761238339
+    },
     {
       "id": "804768d08ce6",
       "title": "普發1萬來了 最快11月12日入帳",
@@ -44,6 +58,13 @@
       "published": 1761235744
     },
     {
+      "id": "d8ff73636b33",
+      "title": "災防法研修 拒撤離擬最高罰15萬",
+      "url": "https://udn.com/news/story/124616/9093340",
+      "source": "udn.com",
+      "published": 1761235200
+    },
+    {
       "id": "434b93dfadeb",
       "title": "歷史上的今天／1954年西部縱貫公路高級路面通車",
       "url": "https://udn.com/news/story/7314/9091280",
@@ -61,6 +82,13 @@
       "id": "467ba9c717cb",
       "title": "拿百萬「投資」邱復生涉侵占？柯文哲批檢「文字獄」",
       "url": "https://udn.com/news/story/6656/9093401",
+      "source": "udn.com",
+      "published": 1761235200
+    },
+    {
+      "id": "ecfa7e22da71",
+      "title": "馬太鞍堰塞湖洪災滿月…光復中繼屋40戶 最快年底完成",
+      "url": "https://udn.com/news/story/124616/9093342",
       "source": "udn.com",
       "published": 1761235200
     },
@@ -310,32 +338,11 @@
       "published": 1761225137
     },
     {
-      "id": "e3a55362e27b",
-      "title": "普發現金1萬元上路！北富銀率先加碼 抽萬元現金、手機好禮",
-      "url": "https://udn.com/news/story/124539/9093220",
-      "source": "udn.com",
-      "published": 1761224713
-    },
-    {
-      "id": "cba444521d50",
-      "title": "影／普發現金分「5大管道」11月5日開放預登記 最快11月12日入帳",
-      "url": "https://udn.com/news/story/124539/9093206",
-      "source": "udn.com",
-      "published": 1761224269
-    },
-    {
       "id": "896c36557a8c",
       "title": "美新創要在太空蓋 AI 中心 下月發射輝達晶片",
       "url": "https://money.udn.com/money/story/5599/9093198",
       "source": "money.udn.com",
       "published": 1761224010
-    },
-    {
-      "id": "efb974df52d6",
-      "title": "小摩：金價三年後翻倍 投資人買黃金不只是防美元貶值",
-      "url": "https://money.udn.com/money/story/5599/9093196",
-      "source": "money.udn.com",
-      "published": 1761223880
     },
     {
       "id": "e25bad9dbc75",
@@ -714,13 +721,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251022-%E6%99%AE%E8%BE%BE%E4%BD%A9%E6%96%AF%E5%B3%B0%E4%BC%9A%E6%97%A0%E9%99%90%E6%9C%9F%E6%8E%A8%E8%BF%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E4%B8%8E%E6%99%AE%E4%BA%AC%E5%BE%92%E5%8A%B3%E4%BC%9A%E6%99%A4",
       "source": "rfi.fr",
       "published": 1761148741
-    },
-    {
-      "id": "312fdc9f958f",
-      "title": "泽连斯基访瑞典签署采购150架“鹰狮”战机协议",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251022-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%AE%BF%E7%91%9E%E5%85%B8%E7%AD%BE%E7%BD%B2%E9%87%87%E8%B4%AD150%E6%9E%B6-%E9%B9%B0%E7%8B%AE-%E6%88%98%E6%9C%BA%E5%8D%8F%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1761147967
     },
     {
       "id": "6bd34d2421b7",
@@ -1388,5 +1388,5 @@
       "published": 1758700223
     }
   ],
-  "build_id": 1761237842
+  "build_id": 1761239358
 }
