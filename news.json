@@ -1,6 +1,41 @@
 {
-  "updated": 1761255109,
+  "updated": 1761257337,
   "items": [
+    {
+      "id": "197c29c67e60",
+      "title": "川習會聚焦美國內政？川普：優先討論芬太尼",
+      "url": "https://money.udn.com/money/story/5599/9093687",
+      "source": "money.udn.com",
+      "published": 1761257172
+    },
+    {
+      "id": "21de81f22d21",
+      "title": "黃仁勳等人出手致電 川普暫緩聯邦執法人員進駐舊金山",
+      "url": "https://money.udn.com/money/story/5599/9093676",
+      "source": "money.udn.com",
+      "published": 1761257011
+    },
+    {
+      "id": "6fb871aa8b56",
+      "title": "中央委员们都到哪去了",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251023-%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BB%AC%E9%83%BD%E5%88%B0%E5%93%AA%E5%8E%BB%E4%BA%86",
+      "source": "rfi.fr",
+      "published": 1761256814
+    },
+    {
+      "id": "585603f08668",
+      "title": "28頭問題豬流向中彰嘉 圖解去向、關鍵15天廚餘怎去化",
+      "url": "https://udn.com/news/story/7314/9093572",
+      "source": "udn.com",
+      "published": 1761256200
+    },
+    {
+      "id": "afc016f6b5a9",
+      "title": "普丁：絕不屈服美國壓力　長程飛彈攻擊將強烈回應",
+      "url": "https://money.udn.com/money/story/5599/9093661",
+      "source": "money.udn.com",
+      "published": 1761255391
+    },
     {
       "id": "e6c7b35bf018",
       "title": "欧盟首度制裁中国炼油厂与石油公司 北京扬言\"反制\"",
@@ -177,32 +212,11 @@
       "published": 1761242106
     },
     {
-      "id": "f831c4babe32",
-      "title": "川普制裁俄國 油價大漲5%",
-      "url": "https://money.udn.com/money/story/5599/9093441",
-      "source": "money.udn.com",
-      "published": 1761240027
-    },
-    {
       "id": "ec16ac9d3c9b",
       "title": "普發現金最快11月12日入帳 11月5日開放分流預先登記",
       "url": "https://udn.com/news/story/124539/9093445",
       "source": "udn.com",
       "published": 1761239950
-    },
-    {
-      "id": "d23025573304",
-      "title": "美中新一輪貿易談判將登場　歐股收紅",
-      "url": "https://money.udn.com/money/story/5599/9093588",
-      "source": "money.udn.com",
-      "published": 1761239551
-    },
-    {
-      "id": "79754df64500",
-      "title": "川普：與習近平將談妥「一切」",
-      "url": "https://money.udn.com/money/story/5599/9093452",
-      "source": "money.udn.com",
-      "published": 1761238447
     },
     {
       "id": "022ce0da3d5b",
@@ -378,13 +392,6 @@
       "url": "https://udn.com/news/story/124539/9093254",
       "source": "udn.com",
       "published": 1761226408
-    },
-    {
-      "id": "5ffe7ff152e8",
-      "title": "不是沒想過閃兵！黃少祺徒手摳尿垢1個月被痛罵：死菜鳥",
-      "url": "https://udn.com/news/story/123693/9093163",
-      "source": "udn.com",
-      "published": 1761226080
     },
     {
       "id": "e25bad9dbc75",
@@ -623,13 +630,6 @@
       "url": "https://cn.nytimes.com/usa/20251023/china-trump-rare-earths/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1761161186
-    },
-    {
-      "id": "888857856c44",
-      "title": "巴黎卢浮宫重开 馆长辞职被拒 遗落的王冠或可修复 其他珠宝无踪",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251022-%E5%B7%B4%E9%BB%8E%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%87%8D%E5%BC%80-%E9%A6%86%E9%95%BF%E8%BE%9E%E8%81%8C%E8%A2%AB%E6%8B%92-%E9%81%97%E8%90%BD%E7%9A%84%E7%8E%8B%E5%86%A0%E6%88%96%E5%8F%AF%E4%BF%AE%E5%A4%8D-%E5%85%B6%E4%BB%96%E7%8F%A0%E5%AE%9D%E6%97%A0%E8%B8%AA",
-      "source": "rfi.fr",
-      "published": 1761158164
     },
     {
       "id": "2a3f6410b15b",
@@ -1388,5 +1388,5 @@
       "published": 1758700223
     }
   ],
-  "build_id": 1761255109
+  "build_id": 1761257337
 }
