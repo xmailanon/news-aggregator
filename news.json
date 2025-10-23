@@ -1,6 +1,27 @@
 {
-  "updated": 1761235955,
+  "updated": 1761237842,
   "items": [
+    {
+      "id": "804768d08ce6",
+      "title": "普發1萬來了 最快11月12日入帳",
+      "url": "https://udn.com/news/story/124539/9093491",
+      "source": "udn.com",
+      "published": 1761236842
+    },
+    {
+      "id": "7cb862f9ac1c",
+      "title": "尽管存在中美贸易战，但中国消费者重返美国市场",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251023-%E5%B0%BD%E7%AE%A1%E5%AD%98%E5%9C%A8%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98%EF%BC%8C%E4%BD%86%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E9%87%8D%E8%BF%94%E7%BE%8E%E5%9B%BD%E5%B8%82%E5%9C%BA",
+      "source": "rfi.fr",
+      "published": 1761236771
+    },
+    {
+      "id": "92f88d6f5e9f",
+      "title": "中国“反对”美欧对俄石油制裁 指欧盟制裁12个中国公司“非法”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251023-%E4%B8%AD%E5%9B%BD-%E5%8F%8D%E5%AF%B9-%E7%BE%8E%E6%AC%A7%E5%AF%B9%E4%BF%84%E7%9F%B3%E6%B2%B9%E5%88%B6%E8%A3%81-%E6%8C%87%E6%AC%A7%E7%9B%9F%E5%88%B6%E8%A3%8112%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8-%E9%9D%9E%E6%B3%95",
+      "source": "rfi.fr",
+      "published": 1761235975
+    },
     {
       "id": "0f4c9ffa4827",
       "title": "顧立雄：M1A2T戰車 31日成軍",
@@ -301,13 +322,6 @@
       "url": "https://udn.com/news/story/124539/9093206",
       "source": "udn.com",
       "published": 1761224269
-    },
-    {
-      "id": "9624809234d1",
-      "title": "普發現金仍難救消費！2025年零售業營業額恐轉為衰退 結束九年正成長",
-      "url": "https://udn.com/news/story/124539/9093204",
-      "source": "udn.com",
-      "published": 1761224192
     },
     {
       "id": "896c36557a8c",
@@ -716,13 +730,6 @@
       "published": 1761142320
     },
     {
-      "id": "3afd54ce2592",
-      "title": "北约以俄罗斯为目标举行核威慑演习",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251022-%E5%8C%97%E7%BA%A6%E4%BB%A5%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BA%E7%9B%AE%E6%A0%87%E4%B8%BE%E8%A1%8C%E6%A0%B8%E5%A8%81%E6%85%91%E6%BC%94%E4%B9%A0",
-      "source": "rfi.fr",
-      "published": 1761140734
-    },
-    {
       "id": "b6b058e8299e",
       "title": "欧盟敦促中国加快审批对欧稀土出口",
       "url": "https://www.dw.com/zh/欧盟敦促中国加快审批对欧稀土出口/a-74459284?maca=chi-rss-chi-all-1127-rdf",
@@ -742,13 +749,6 @@
       "url": "https://www.dw.com/zh/大屠杀照片：ai帮助确认1941年的纳粹凶手/a-74425341?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761138960
-    },
-    {
-      "id": "0123dcbb8e02",
-      "title": "国民党新任党主席郑丽文将为台海两岸关系翻开新的一页？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20251022-%E5%9B%BD%E6%B0%91%E5%85%9A%E6%96%B0%E4%BB%BB%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87%E5%B0%86%E4%B8%BA%E5%8F%B0%E6%B5%B7%E4%B8%A4%E5%B2%B8%E5%85%B3%E7%B3%BB%E7%BF%BB%E5%BC%80%E6%96%B0%E7%9A%84%E4%B8%80%E9%A1%B5",
-      "source": "rfi.fr",
-      "published": 1761137645
     },
     {
       "id": "9d181aa0637f",
@@ -1388,5 +1388,5 @@
       "published": 1758700223
     }
   ],
-  "build_id": 1761235955
+  "build_id": 1761237842
 }
