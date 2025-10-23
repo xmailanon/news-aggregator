@@ -1,6 +1,20 @@
 {
-  "updated": 1761260935,
+  "updated": 1761262322,
   "items": [
+    {
+      "id": "8fb5b3241a54",
+      "title": "英特爾第3季獲利優於預期　削減成本與投資見效",
+      "url": "https://money.udn.com/money/story/10511/9093721",
+      "source": "money.udn.com",
+      "published": 1761262212
+    },
+    {
+      "id": "e1d41715998a",
+      "title": "川普將會習近平  駐美代表處：與美行政部門密切溝通",
+      "url": "https://money.udn.com/money/story/10511/9093715",
+      "source": "money.udn.com",
+      "published": 1761261676
+    },
     {
       "id": "cec699f98837",
       "title": "中国取代美国 重又成为德国最大贸易伙伴",
@@ -182,20 +196,6 @@
       "url": "https://money.udn.com/money/story/5599/9093395",
       "source": "money.udn.com",
       "published": 1761244941
-    },
-    {
-      "id": "050db6c2efdf",
-      "title": "Google 攻量子電腦 大躍進",
-      "url": "https://money.udn.com/money/story/123398/9093355",
-      "source": "money.udn.com",
-      "published": 1761244880
-    },
-    {
-      "id": "29cc16d06639",
-      "title": "韓廠記憶體第4季喊漲三成",
-      "url": "https://money.udn.com/money/story/5599/9093350",
-      "source": "money.udn.com",
-      "published": 1761244807
     },
     {
       "id": "16cd620abba6",
@@ -1388,5 +1388,5 @@
       "published": 1758700223
     }
   ],
-  "build_id": 1761260935
+  "build_id": 1761262322
 }
