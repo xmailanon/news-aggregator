@@ -1,6 +1,20 @@
 {
-  "updated": 1761239358,
+  "updated": 1761241023,
   "items": [
+    {
+      "id": "f831c4babe32",
+      "title": "川普制裁俄國 油價大漲5%",
+      "url": "https://money.udn.com/money/story/5599/9093441",
+      "source": "money.udn.com",
+      "published": 1761240027
+    },
+    {
+      "id": "3d1279c14477",
+      "title": "美中新一輪貿易談判將登場　歐股收紅",
+      "url": "https://money.udn.com/money/story/10511/9093588",
+      "source": "money.udn.com",
+      "published": 1761239551
+    },
     {
       "id": "79754df64500",
       "title": "川普：與習近平將談妥「一切」",
@@ -17,7 +31,7 @@
     },
     {
       "id": "804768d08ce6",
-      "title": "普發1萬來了 最快11月12日入帳",
+      "title": "普發1萬來了 最快11月12日入帳 5管道發放",
       "url": "https://udn.com/news/story/124539/9093491",
       "source": "udn.com",
       "published": 1761236842
@@ -37,9 +51,9 @@
       "published": 1761235975
     },
     {
-      "id": "0f4c9ffa4827",
+      "id": "b9faf306bb01",
       "title": "顧立雄：M1A2T戰車 31日成軍",
-      "url": "https://udn.com/news/story/6656/9093550",
+      "url": "https://udn.com/news/story/10930/9093550",
       "source": "udn.com",
       "published": 1761235745
     },
@@ -105,13 +119,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251023-%E6%AC%A7%E7%9B%9F%E5%B3%B0%E4%BC%9A%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8A%97%E4%BF%84%E7%AD%B9%E6%AC%BE-%E5%8A%A8%E7%94%A8%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%BB%E7%BB%93%E8%B5%84%E4%BA%A7-%E6%AF%94%E5%88%A9%E6%97%B6%E6%98%AF%E5%85%B3%E9%94%AE",
       "source": "rfi.fr",
       "published": 1761234133
-    },
-    {
-      "id": "e4eecb649e68",
-      "title": "國健署加熱菸載具展示規定大轉彎 反菸團體：整件事「荒腔走板」",
-      "url": "https://udn.com/news/story/6656/9093496",
-      "source": "udn.com",
-      "published": 1761233863
     },
     {
       "id": "bdb0211277ed",
@@ -331,18 +338,11 @@
       "published": 1761225859
     },
     {
-      "id": "5d66934c63d9",
-      "title": "打破500年來宗教隔閡 英王查爾斯與教宗一起公開祈禱",
-      "url": "https://money.udn.com/money/story/5599/9093226",
-      "source": "money.udn.com",
-      "published": 1761225137
-    },
-    {
-      "id": "896c36557a8c",
-      "title": "美新創要在太空蓋 AI 中心 下月發射輝達晶片",
-      "url": "https://money.udn.com/money/story/5599/9093198",
-      "source": "money.udn.com",
-      "published": 1761224010
+      "id": "e3a55362e27b",
+      "title": "普發現金1萬元上路！北富銀率先加碼 抽萬元現金、手機好禮",
+      "url": "https://udn.com/news/story/124539/9093220",
+      "source": "udn.com",
+      "published": 1761224713
     },
     {
       "id": "e25bad9dbc75",
@@ -1388,5 +1388,5 @@
       "published": 1758700223
     }
   ],
-  "build_id": 1761239358
+  "build_id": 1761241023
 }
