@@ -1,6 +1,13 @@
 {
-  "updated": 1761338302,
+  "updated": 1761340130,
   "items": [
+    {
+      "id": "5c5114d169fd",
+      "title": "美通膨溫和聯準會有望再度降息　美股創高",
+      "url": "https://money.udn.com/money/story/5599/9095171",
+      "source": "money.udn.com",
+      "published": 1761339336
+    },
     {
       "id": "3caf30099405",
       "title": "美派福特號航艦打擊群赴拉美　打擊販毒引南美不安",
@@ -238,13 +245,6 @@
       "url": "https://money.udn.com/money/story/5599/9094726",
       "source": "money.udn.com",
       "published": 1761319385
-    },
-    {
-      "id": "3ecf87b376e4",
-      "title": "白宮：美政府持續停擺　很可能造成沒有10月通膨報告",
-      "url": "https://money.udn.com/money/story/5599/9095021",
-      "source": "money.udn.com",
-      "published": 1761319294
     },
     {
       "id": "6aeb5b406045",
@@ -1395,5 +1395,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1761338302
+  "build_id": 1761340130
 }
