@@ -1,6 +1,27 @@
 {
-  "updated": 1761305612,
+  "updated": 1761308380,
   "items": [
+    {
+      "id": "985a4309ffee",
+      "title": "歐中為稀土問題關係緊張　德外長訪中行延期",
+      "url": "https://money.udn.com/money/story/5599/9094764",
+      "source": "money.udn.com",
+      "published": 1761307590
+    },
+    {
+      "id": "3977f0b7b6fd",
+      "title": "马克龙在欧盟峰会要求对中国稀土管制采取反胁迫措施",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251024-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%9C%A8%E6%AC%A7%E7%9B%9F%E5%B3%B0%E4%BC%9A%E8%A6%81%E6%B1%82%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E7%AE%A1%E5%88%B6%E9%87%87%E5%8F%96%E5%8F%8D%E8%83%81%E8%BF%AB%E6%8E%AA%E6%96%BD",
+      "source": "rfi.fr",
+      "published": 1761307533
+    },
+    {
+      "id": "8c73483b07ff",
+      "title": "菲國參謀總長：不論有無美軍基地 都將成中國攻擊目標",
+      "url": "https://money.udn.com/money/story/5599/9094754",
+      "source": "money.udn.com",
+      "published": 1761306873
+    },
     {
       "id": "6ac8ed44fc9b",
       "title": "東京美國大使館外1男朝警揮刀被捕　川普3天後將訪日",
@@ -247,13 +268,6 @@
       "published": 1761291391
     },
     {
-      "id": "fb909b274bed",
-      "title": "中國外交部：習近平將赴韓出席APEC會議",
-      "url": "https://money.udn.com/money/story/10511/9094492",
-      "source": "money.udn.com",
-      "published": 1761291391
-    },
-    {
       "id": "cb240bd74d46",
       "title": "「WE CAN再造兆元產業」論壇 共議台灣下一座護國神山",
       "url": "https://udn.com/news/story/7314/9094488",
@@ -266,13 +280,6 @@
       "url": "https://udn.com/news/story/122404/9094487",
       "source": "udn.com",
       "published": 1761291063
-    },
-    {
-      "id": "5d73bfd6d5fe",
-      "title": "市場關注企業財報與科技股漲勢　日股收高",
-      "url": "https://money.udn.com/money/story/5599/9094485",
-      "source": "money.udn.com",
-      "published": 1761291047
     },
     {
       "id": "34c89cc18730",
@@ -842,13 +849,6 @@
       "published": 1761172787
     },
     {
-      "id": "068deb0b4154",
-      "title": "美国考虑限制对华出口使用美国软件制造的产品",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251022-%E8%B7%AF%E9%80%8F-%E7%BE%8E%E5%9B%BD%E8%80%83%E8%99%91%E9%99%90%E5%88%B6%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%8F%A3%E4%BD%BF%E7%94%A8%E7%BE%8E%E5%9B%BD%E8%BD%AF%E4%BB%B6%E5%88%B6%E9%80%A0%E7%9A%84%E4%BA%A7%E5%93%81",
-      "source": "rfi.fr",
-      "published": 1761168047
-    },
-    {
       "id": "05325773f5b7",
       "title": "特朗普打响与中国的稀土争夺战",
       "url": "https://cn.nytimes.com/usa/20251023/china-trump-rare-earths/?utm_source=RSS",
@@ -1388,5 +1388,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1761305612
+  "build_id": 1761308380
 }
