@@ -1,12 +1,54 @@
 {
-  "updated": 1761288358,
+  "updated": 1761289830,
   "items": [
+    {
+      "id": "a07b84429181",
+      "title": "台灣捐助捷克救世軍團 助烏克蘭青少年重建生活",
+      "url": "https://udn.com/news/story/7314/9094454",
+      "source": "udn.com",
+      "published": 1761289359
+    },
+    {
+      "id": "57f3c12c743d",
+      "title": "香港立法会选举提名期首日 建制内斗加剧 北京对内对外均发警告",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251024-%E9%A6%99%E6%B8%AF%E7%AB%8B%E6%B3%95%E4%BC%9A%E9%80%89%E4%B8%BE%E6%8F%90%E5%90%8D%E6%9C%9F%E9%A6%96%E6%97%A5-%E5%BB%BA%E5%88%B6%E5%86%85%E6%96%97%E5%8A%A0%E5%89%A7-%E5%8C%97%E4%BA%AC%E5%AF%B9%E5%86%85%E5%AF%B9%E5%A4%96%E5%9D%87%E5%8F%91%E8%AD%A6%E5%91%8A",
+      "source": "rfi.fr",
+      "published": 1761289350
+    },
+    {
+      "id": "415e4eb63520",
+      "title": "分析：特朗普放棄胡蘿蔔，轉而在烏克蘭問題上對普京揮起大棒",
+      "url": "https://www.bbc.com/zhongwen/articles/c62ex002j58o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1761289289
+    },
+    {
+      "id": "65c65cce0914",
+      "title": "立陶宛國防預算爭議延燒  部長與總理不合遭撤職",
+      "url": "https://money.udn.com/money/story/5599/9094442",
+      "source": "money.udn.com",
+      "published": 1761288870
+    },
+    {
+      "id": "b918a7d60c64",
+      "title": "時代雜誌批賴總統「魯莽的領導人」 外交部駁：中國才是破壞和平根源",
+      "url": "https://udn.com/news/story/6656/9094438",
+      "source": "udn.com",
+      "published": 1761288491
+    },
     {
       "id": "71f54cab8249",
       "title": "日本前寫真女星森下千里獲拔擢政務官 網友驚嘆之餘紛表祝福",
       "url": "https://money.udn.com/money/story/5599/9094433",
       "source": "money.udn.com",
       "published": 1761288155
+    },
+    {
+      "id": "f042b4ea13bd",
+      "title": "卓榮泰：普發現金執行上有三大挑戰 喊話全民防堵詐騙",
+      "url": "https://udn.com/news/story/124539/9094432",
+      "source": "udn.com",
+      "published": 1761288135
     },
     {
       "id": "942b0f190912",
@@ -268,13 +310,6 @@
       "published": 1761279686
     },
     {
-      "id": "c9c6e88cf84e",
-      "title": "彭博分析：川習會達成全面協議難度高 鷹派擔心台灣被當交易籌碼",
-      "url": "https://money.udn.com/money/story/5599/9094136",
-      "source": "money.udn.com",
-      "published": 1761279187
-    },
-    {
       "id": "c5b09a6296a7",
       "title": "鄭麗文第二波人事 張榮恭、蕭旭岑任副主席 李哲華、吳宗憲也上榜",
       "url": "https://udn.com/news/story/122404/9094101",
@@ -301,27 +336,6 @@
       "url": "https://udn.com/news/story/6656/9094031",
       "source": "udn.com",
       "published": 1761276605
-    },
-    {
-      "id": "5f28939143de",
-      "title": "證實推薦李乾龍 王金平撇世代不交替：鄭麗文一定重用年輕人",
-      "url": "https://udn.com/news/story/6656/9094027",
-      "source": "udn.com",
-      "published": 1761276462
-    },
-    {
-      "id": "801a2c9ff729",
-      "title": "指中共以湄洲媽祖祖廟為統戰核心 內政部：近年每月都有受拘禁陳情",
-      "url": "https://udn.com/news/story/6656/9093971",
-      "source": "udn.com",
-      "published": 1761274852
-    },
-    {
-      "id": "6aaaab83e37c",
-      "title": "吳志中歡迎歐洲兩岸專家學者團 呼籲堅定支持台灣",
-      "url": "https://udn.com/news/story/7314/9093885",
-      "source": "udn.com",
-      "published": 1761274759
     },
     {
       "id": "caab84abd305",
@@ -751,13 +765,6 @@
       "published": 1761172787
     },
     {
-      "id": "70e71be7364b",
-      "title": "卢浮宫盗宝案：馆方承认安保失误 将设警局升级监控系统",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251022-%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%8E%8B%E5%86%A0%E7%8F%A0%E5%AE%9D%E8%A2%AB%E7%9B%97%E6%A1%88-%E9%A6%86%E6%96%B9%E6%89%BF%E8%AE%A4%E5%AE%89%E4%BF%9D%E5%A4%B1%E8%AF%AF-%E5%B0%86%E8%AE%BE%E8%AD%A6%E5%B1%80%E5%8D%87%E7%BA%A7%E7%9B%91%E6%8E%A7",
-      "source": "rfi.fr",
-      "published": 1761169065
-    },
-    {
       "id": "3d1df3d76bc4",
       "title": "欧盟通过第19轮对俄制裁 列入中国炼油厂 强化能源禁令",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251022-%E6%AC%A7%E7%9B%9F%E9%80%9A%E8%BF%87%E7%AC%AC19%E8%BD%AE%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81-%E5%88%97%E5%85%A5%E4%B8%AD%E5%9B%BD%E7%82%BC%E6%B2%B9%E5%8E%82%E5%B9%B6%E5%BC%BA%E5%8C%96%E8%83%BD%E6%BA%90%E7%A6%81%E4%BB%A4",
@@ -889,13 +896,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c8x14dv10jqo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1761117366
-    },
-    {
-      "id": "21a1f1b408c7",
-      "title": "日本首位女性首相：歷史性時刻，但仍有保留",
-      "url": "https://www.bbc.com/zhongwen/articles/clyg4g88zjro/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1761110377
     },
     {
       "id": "c94d46a11421",
@@ -1395,5 +1395,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1761288358
+  "build_id": 1761289830
 }
