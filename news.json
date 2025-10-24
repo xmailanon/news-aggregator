@@ -1,6 +1,27 @@
 {
-  "updated": 1761293642,
+  "updated": 1761295459,
   "items": [
+    {
+      "id": "5ebe6ede836f",
+      "title": "高市早苗发表首次施政演说  强调推动日中战略互惠关系",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251024-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%91%E8%A1%A8%E9%A6%96%E6%AC%A1%E6%96%BD%E6%94%BF%E6%BC%94%E8%AF%B4-%E5%BC%BA%E8%B0%83%E6%8E%A8%E5%8A%A8%E6%97%A5%E4%B8%AD%E6%88%98%E7%95%A5%E4%BA%92%E6%83%A0%E5%85%B3%E7%B3%BB",
+      "source": "rfi.fr",
+      "published": 1761294598
+    },
+    {
+      "id": "8d4302bf8e18",
+      "title": "挑戰謝龍介 陳以信宣布爭取國民黨2026台南市長提名",
+      "url": "https://udn.com/news/story/6656/9094548",
+      "source": "udn.com",
+      "published": 1761294524
+    },
+    {
+      "id": "ed717688f388",
+      "title": "日本高中以下學生輕生人數創45年來新高 學校問題最苦惱",
+      "url": "https://money.udn.com/money/story/5599/9094539",
+      "source": "money.udn.com",
+      "published": 1761294033
+    },
     {
       "id": "c2775d169dc8",
       "title": "軟體缺陷車燈過亮　特斯拉召回逾6萬輛Cybertruck",
@@ -308,20 +329,6 @@
       "url": "https://money.udn.com/money/story/5599/9094109",
       "source": "money.udn.com",
       "published": 1761282846
-    },
-    {
-      "id": "72a36b0b5075",
-      "title": "受雷根反關稅廣告激怒 川普終止與加拿大貿易談判",
-      "url": "https://money.udn.com/money/story/10511/9094262",
-      "source": "money.udn.com",
-      "published": 1761282809
-    },
-    {
-      "id": "3ab05935d1ef",
-      "title": "政院訂定公務員違規赴陸懲處建議 翁曉玲：沒效果又擾民",
-      "url": "https://udn.com/news/story/6656/9094249",
-      "source": "udn.com",
-      "published": 1761282262
     },
     {
       "id": "77611caf8489",
@@ -791,13 +798,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251022-%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%BC%95%E5%8F%91%E7%9A%84%E4%B8%A4%E5%A4%A7%E7%96%91%E9%97%AE-%E6%8E%A5%E7%8F%AD%E4%BA%BA%E9%97%AE%E9%A2%98%E5%92%8C%E8%B4%AA%E8%85%90%E9%AB%98%E5%AE%98%E6%9A%B4%E5%A2%9E",
       "source": "rfi.fr",
       "published": 1761172787
-    },
-    {
-      "id": "6b25acf856c5",
-      "title": "欧盟考虑对华稀土出口限制采取反制措施",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251022-%E6%AC%A7%E7%9B%9F%E8%80%83%E8%99%91%E5%AF%B9%E5%8D%8E%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E9%99%90%E5%88%B6%E9%87%87%E5%8F%96%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD",
-      "source": "rfi.fr",
-      "published": 1761168324
     },
     {
       "id": "068deb0b4154",
@@ -1395,5 +1395,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1761293642
+  "build_id": 1761295459
 }
