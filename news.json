@@ -1,6 +1,48 @@
 {
-  "updated": 1761322344,
+  "updated": 1761324222,
   "items": [
+    {
+      "id": "11618ef08ebb",
+      "title": "美對陸出招 301調查伺候",
+      "url": "https://money.udn.com/money/story/5599/9094966",
+      "source": "money.udn.com",
+      "published": 1761324340
+    },
+    {
+      "id": "2bda6ecfd161",
+      "title": "川習會前夕 美貿易代表署宣布對中國展開301條款調查",
+      "url": "https://money.udn.com/money/story/5599/9095116",
+      "source": "money.udn.com",
+      "published": 1761324209
+    },
+    {
+      "id": "9a1291afd4d1",
+      "title": "缅东电诈中心上千人逃往泰国 移民局说多数是中国人",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251024-%E7%BC%85%E4%B8%9C%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%83%E4%B8%8A%E5%8D%83%E4%BA%BA%E9%80%83%E5%BE%80%E6%B3%B0%E5%9B%BD-%E7%A7%BB%E6%B0%91%E5%B1%80%E8%AF%B4%E5%A4%9A%E6%95%B0%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA",
+      "source": "rfi.fr",
+      "published": 1761323596
+    },
+    {
+      "id": "0a680936fc53",
+      "title": "揪詐騙廣告 北市自研AI系統",
+      "url": "https://udn.com/news/story/6656/9095087",
+      "source": "udn.com",
+      "published": 1761323536
+    },
+    {
+      "id": "6953cfe8b58b",
+      "title": "北市府「紙本+電郵」打詐 快過數發部電子通報",
+      "url": "https://udn.com/news/story/6656/9095086",
+      "source": "udn.com",
+      "published": 1761323378
+    },
+    {
+      "id": "ef6921a3d069",
+      "title": "監測花蓮堰塞湖 燕子口昨降挖導流",
+      "url": "https://udn.com/news/story/124616/9095008",
+      "source": "udn.com",
+      "published": 1761322463
+    },
     {
       "id": "71e8c0acadd7",
       "title": "英特爾上季轉盈 復甦邁步 將推客製化晶片槓博通、邁威爾",
@@ -233,20 +275,6 @@
       "published": 1761309813
     },
     {
-      "id": "29826a64a7d5",
-      "title": "排除資訊系統故障　阿拉斯加航空恢復營運",
-      "url": "https://money.udn.com/money/story/5599/9094788",
-      "source": "money.udn.com",
-      "published": 1761309390
-    },
-    {
-      "id": "52997aaaf4c9",
-      "title": "紐西蘭男童吞食百塊磁鐵　組織壞死切除部分腸道",
-      "url": "https://money.udn.com/money/story/5599/9094787",
-      "source": "money.udn.com",
-      "published": 1761309390
-    },
-    {
       "id": "c9ee524266b8",
       "title": "德国外长瓦德富尔取消周日访华计划",
       "url": "https://www.dw.com/zh/德国外长瓦德富尔取消周日访华计划/a-74485742?maca=chi-rss-chi-all-1127-rdf",
@@ -401,32 +429,11 @@
       "published": 1761294598
     },
     {
-      "id": "8d4302bf8e18",
-      "title": "挑戰謝龍介 陳以信宣布爭取國民黨2026台南市長提名",
-      "url": "https://udn.com/news/story/6656/9094548",
-      "source": "udn.com",
-      "published": 1761294524
-    },
-    {
       "id": "6a5d4d1d9eb4",
       "title": "中美第五轮经贸谈判在即 中国商务部长称双方“完全可以找到办法”解决贸易争端",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251024-%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%BA%94%E8%BD%AE%E7%BB%8F%E8%B4%B8%E8%B0%88%E5%88%A4%E5%9C%A8%E5%8D%B3-%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E7%A7%B0%E5%8F%8C%E6%96%B9-%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E5%8A%9E%E6%B3%95-%E8%A7%A3%E5%86%B3%E8%B4%B8%E6%98%93%E4%BA%89%E7%AB%AF",
       "source": "rfi.fr",
       "published": 1761294194
-    },
-    {
-      "id": "d0dd745b8efe",
-      "title": "花蓮堰塞湖狀況穩定 燕子口重機具進場降挖導流",
-      "url": "https://udn.com/news/story/124616/9094529",
-      "source": "udn.com",
-      "published": 1761293210
-    },
-    {
-      "id": "692ce81ac8b2",
-      "title": "公務員赴陸違規最重可免職 學界痛批擾民：欲以程序阻礙赴陸交流",
-      "url": "https://udn.com/news/story/124636/9094525",
-      "source": "udn.com",
-      "published": 1761292924
     },
     {
       "id": "28c4e8643839",
@@ -749,13 +756,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20251023-%E7%94%B2%E7%83%B7%E6%8E%92%E6%94%BE-%E5%8C%96%E7%9F%B3%E8%83%BD%E6%BA%90%E4%BC%81%E4%B8%9A%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%85%B3%E9%97%AD%E6%B1%A1%E6%9F%93%E9%98%80%E9%97%A8",
       "source": "rfi.fr",
       "published": 1761232928
-    },
-    {
-      "id": "09bdd641fdcf",
-      "title": "美国财长和贸易代表赴马来西亚与中国谈判",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251023-%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E5%92%8C%E8%B4%B8%E6%98%93%E4%BB%A3%E8%A1%A8%E8%B5%B4%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%B0%88%E5%88%A4",
-      "source": "rfi.fr",
-      "published": 1761231700
     },
     {
       "id": "c81e5cb63334",
@@ -1395,5 +1395,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1761322344
+  "build_id": 1761324222
 }
