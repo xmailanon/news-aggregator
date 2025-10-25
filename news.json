@@ -1,6 +1,34 @@
 {
-  "updated": 1761402903,
+  "updated": 1761404908,
   "items": [
+    {
+      "id": "b2418301f2de",
+      "title": "稀土：欧盟制定计划摆脱对北京的依赖",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251025-%E7%A8%80%E5%9C%9F-%E6%AC%A7%E7%9B%9F%E5%88%B6%E5%AE%9A%E8%AE%A1%E5%88%92%E6%91%86%E8%84%B1%E5%AF%B9%E5%8C%97%E4%BA%AC%E7%9A%84%E4%BE%9D%E8%B5%96",
+      "source": "rfi.fr",
+      "published": 1761404874
+    },
+    {
+      "id": "5c7c864c165f",
+      "title": "富爸爸作者清崎：不想這輩子就這樣？快拋開舊思維 搶進「四種」資產",
+      "url": "https://money.udn.com/money/story/5599/9096307",
+      "source": "money.udn.com",
+      "published": 1761404768
+    },
+    {
+      "id": "7c61f9c540fc",
+      "title": "美預測中心：加勒比海熱帶風暴美莉莎將增強為颶風",
+      "url": "https://money.udn.com/money/story/5599/9096300",
+      "source": "money.udn.com",
+      "published": 1761404083
+    },
+    {
+      "id": "23d10f75a479",
+      "title": "「川習會」投資指南看這裡！要提防川普打台灣牌",
+      "url": "https://money.udn.com/money/story/5599/9096282",
+      "source": "money.udn.com",
+      "published": 1761403187
+    },
     {
       "id": "53510ad59400",
       "title": "向中國跪了...稀土管制迫使德國企業向北京交出機密",
@@ -224,27 +252,6 @@
       "url": "https://money.udn.com/money/story/5599/9096072",
       "source": "money.udn.com",
       "published": 1761386084
-    },
-    {
-      "id": "d79a03a02e3a",
-      "title": "IBM 說 AMD 普通晶片可用於量子運算錯誤修正  兩家公司股價大漲近8%",
-      "url": "https://money.udn.com/money/story/5599/9096061",
-      "source": "money.udn.com",
-      "published": 1761385109
-    },
-    {
-      "id": "6c47e1e25dc4",
-      "title": "北韓是否具核武國地位？ 川普：某種程度上是",
-      "url": "https://money.udn.com/money/story/5599/9096059",
-      "source": "money.udn.com",
-      "published": 1761384972
-    },
-    {
-      "id": "46eb90ceb404",
-      "title": "BLACKPINK曼谷演唱會照常舉行 主辦單位懇請粉絲穿黑白服裝致敬王太后",
-      "url": "https://money.udn.com/money/story/5599/9096049",
-      "source": "money.udn.com",
-      "published": 1761384334
     },
     {
       "id": "49080c2dc5ee",
@@ -490,13 +497,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251024-%E6%AC%A7%E7%9B%9F%E5%B3%B0%E4%BC%9A%E8%AE%A1%E5%88%92%E5%8A%A8%E7%94%A8%E4%BF%84%E5%86%BB%E7%BB%93%E8%B5%84%E4%BA%A7%E6%8F%B4%E4%B9%8C-%E6%AF%94%E5%88%A9%E6%97%B6%E7%AD%89%E5%9B%BD%E7%BB%A7%E7%BB%AD%E5%8F%8D%E5%AF%B9",
       "source": "rfi.fr",
       "published": 1761317205
-    },
-    {
-      "id": "c74d2e3bb53a",
-      "title": "法国巴黎名牌奢华品二手货店发现仿冒品",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20251024-%E6%B3%95%E5%9B%BD%E5%B7%B4%E9%BB%8E%E5%90%8D%E7%89%8C%E5%A5%A2%E5%8D%8E%E5%93%81%E4%BA%8C%E6%89%8B%E8%B4%A7%E5%BA%97%E5%8F%91%E7%8E%B0%E4%BB%BF%E5%86%92%E5%93%81",
-      "source": "rfi.fr",
-      "published": 1761316372
     },
     {
       "id": "d704f7dab668",
@@ -1381,5 +1381,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761402903
+  "build_id": 1761404908
 }
