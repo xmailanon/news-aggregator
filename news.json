@@ -1,6 +1,34 @@
 {
-  "updated": 1761394572,
+  "updated": 1761396971,
   "items": [
+    {
+      "id": "5b29834ae1ce",
+      "title": "俄貝爾哥羅德州稱水壩遭烏克蘭攻擊受損　籲居民撤離",
+      "url": "https://money.udn.com/money/story/5599/9096198",
+      "source": "money.udn.com",
+      "published": 1761396883
+    },
+    {
+      "id": "70504b8b5bcf",
+      "title": "羅浮宮竊案曝安全隱憂 珍貴藏品轉移法國央行",
+      "url": "https://money.udn.com/money/story/5599/9096192",
+      "source": "money.udn.com",
+      "published": 1761396330
+    },
+    {
+      "id": "dcc28ada98f9",
+      "title": "特朗普前往亚洲将与习近平会面 也乐见金正恩：朝鲜已是核武国",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251025-%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E5%BE%80%E4%BA%9A%E6%B4%B2%E5%B0%86%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E9%9D%A2-%E4%B9%9F%E4%B9%90%E8%A7%81%E9%87%91%E6%AD%A3%E6%81%A9-%E6%9C%9D%E9%B2%9C%E5%B7%B2%E6%98%AF%E6%A0%B8%E6%AD%A6%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1761395880
+    },
+    {
+      "id": "1386c4f32e73",
+      "title": "俄軍空襲烏克蘭首都基輔等地區 造成4死20傷",
+      "url": "https://money.udn.com/money/story/5599/9096172",
+      "source": "money.udn.com",
+      "published": 1761394874
+    },
     {
       "id": "7b50cde0032c",
       "title": "中國大陸管制稀土出口致經損 歐盟致力終結依賴",
@@ -254,13 +282,6 @@
       "published": 1761378386
     },
     {
-      "id": "50fadbd007ce",
-      "title": "泰國柬埔寨10/26簽停火協議 川普預計見證儀式",
-      "url": "https://money.udn.com/money/story/10511/9095939",
-      "source": "money.udn.com",
-      "published": 1761378333
-    },
-    {
       "id": "4ed2e731d784",
       "title": "7天6夜「陸勝一號」旅對抗演習啟動 陸航、資電、無人機參演",
       "url": "https://udn.com/news/story/10930/9095931",
@@ -273,20 +294,6 @@
       "url": "https://udn.com/news/story/6656/9095921",
       "source": "udn.com",
       "published": 1761377803
-    },
-    {
-      "id": "975199df4f9e",
-      "title": "泰民眾悼念王太后 總理：哀悼90天勿穿鮮豔服裝",
-      "url": "https://money.udn.com/money/story/5599/9095926",
-      "source": "money.udn.com",
-      "published": 1761377789
-    },
-    {
-      "id": "738205533ce1",
-      "title": "泰王太后辭世全國服喪90天 政府籲娛樂業「莊重運作」",
-      "url": "https://money.udn.com/money/story/5599/9095923",
-      "source": "money.udn.com",
-      "published": 1761377550
     },
     {
       "id": "b3354b0292d3",
@@ -567,13 +574,6 @@
       "url": "https://www.dw.com/zh/因比利时反对-欧盟暂缓批准动用俄罗斯冻结资产的援乌计划/a-74484246?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761300900
-    },
-    {
-      "id": "6a5d4d1d9eb4",
-      "title": "中美第五轮经贸谈判在即 中国商务部长称双方“完全可以找到办法”解决贸易争端",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251024-%E4%B8%AD%E7%BE%8E%E7%AC%AC%E4%BA%94%E8%BD%AE%E7%BB%8F%E8%B4%B8%E8%B0%88%E5%88%A4%E5%9C%A8%E5%8D%B3-%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E7%A7%B0%E5%8F%8C%E6%96%B9-%E5%AE%8C%E5%85%A8%E5%8F%AF%E4%BB%A5%E6%89%BE%E5%88%B0%E5%8A%9E%E6%B3%95-%E8%A7%A3%E5%86%B3%E8%B4%B8%E6%98%93%E4%BA%89%E7%AB%AF",
-      "source": "rfi.fr",
-      "published": 1761294194
     },
     {
       "id": "28c4e8643839",
@@ -1381,5 +1381,5 @@
       "published": 1758809040
     }
   ],
-  "build_id": 1761394572
+  "build_id": 1761396971
 }
