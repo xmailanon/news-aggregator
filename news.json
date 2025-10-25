@@ -1,6 +1,13 @@
 {
-  "updated": 1761433713,
+  "updated": 1761435127,
   "items": [
+    {
+      "id": "55035e81f97c",
+      "title": "德国社民党批评外长推迟访华发出“不良信号",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251025-%E5%BE%B7%E5%9B%BD%E7%A4%BE%E6%B0%91%E5%85%9A%E6%89%B9%E8%AF%84%E5%A4%96%E9%95%BF%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E%E5%8F%91%E5%87%BA-%E4%B8%8D%E8%89%AF%E4%BF%A1%E5%8F%B7",
+      "source": "rfi.fr",
+      "published": 1761434409
+    },
     {
       "id": "15fdfd218c74",
       "title": "陸軍司令部「中正堂」改名  帥化民譏：綠營應很想改成「清德堂」",
@@ -364,13 +371,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251024-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%B2%E4%BF%A1%E4%B8%80%E4%B8%AA%E4%B8%AA%E6%8B%94%E9%99%A4%E4%B9%8B%E5%90%8E",
       "source": "rfi.fr",
       "published": 1761344421
-    },
-    {
-      "id": "0cbf768ed506",
-      "title": "法国博瓦尔动物园两只大熊猫将返回中国安享“晚年”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251024-%E6%B3%95%E5%9B%BD%E5%8D%9A%E7%93%A6%E5%B0%94%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%A4%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B0%86%E8%BF%94%E5%9B%9E%E4%B8%AD%E5%9B%BD%E5%AE%89%E4%BA%AB-%E6%99%9A%E5%B9%B4",
-      "source": "rfi.fr",
-      "published": 1761342232
     },
     {
       "id": "583e8ba305b4",
@@ -1241,5 +1241,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761433713
+  "build_id": 1761435127
 }
