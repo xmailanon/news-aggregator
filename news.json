@@ -1,6 +1,55 @@
 {
-  "updated": 1761408627,
+  "updated": 1761410392,
   "items": [
+    {
+      "id": "bffec412f4d8",
+      "title": "聯合報一周大事10/19~10/25",
+      "url": "https://udn.com/news/story/7314/9096396",
+      "source": "udn.com",
+      "published": 1761409483
+    },
+    {
+      "id": "78cf96ff4636",
+      "title": "陸勝一號「旅對抗」操演 7天6夜仿真實戰場",
+      "url": "https://udn.com/news/story/6656/9096443",
+      "source": "udn.com",
+      "published": 1761409324
+    },
+    {
+      "id": "416c6195b658",
+      "title": "陸軍司令部 中正堂悄改名忠誠堂",
+      "url": "https://udn.com/news/story/6656/9096438",
+      "source": "udn.com",
+      "published": 1761409235
+    },
+    {
+      "id": "b01d405d70b9",
+      "title": "綠提案廢中正紀念堂 挨轟打假球",
+      "url": "https://udn.com/news/story/6656/9096439",
+      "source": "udn.com",
+      "published": 1761409234
+    },
+    {
+      "id": "1fc3b74ab42f",
+      "title": "冷眼集／效忠國家 還是效忠政治正確？",
+      "url": "https://udn.com/news/story/6656/9096441",
+      "source": "udn.com",
+      "published": 1761409234
+    },
+    {
+      "id": "16e01931d350",
+      "title": "新聞幕後／抗中牌老哏 綠內部有雜音",
+      "url": "https://udn.com/news/story/6656/9096442",
+      "source": "udn.com",
+      "published": 1761409233
+    },
+    {
+      "id": "880aded46fca",
+      "title": "俄空袭乌克兰酿4死20伤 泽连斯基呼吁盟国保护乌克兰领空",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251025-%E4%BF%84%E7%A9%BA%E8%A2%AD%E4%B9%8C%E5%85%8B%E5%85%B0%E9%85%BF4%E6%AD%BB20%E4%BC%A4-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%BC%E5%90%81%E7%9B%9F%E5%9B%BD%E4%BF%9D%E6%8A%A4%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A2%86%E7%A9%BA",
+      "source": "rfi.fr",
+      "published": 1761408872
+    },
     {
       "id": "e41da80223da",
       "title": "光復將建超級堤防 2027年底完成 能防洪百年",
@@ -338,13 +387,6 @@
       "published": 1761383354
     },
     {
-      "id": "e06035e49b9f",
-      "title": "燕子口堰塞湖減災工程  施工便道推進到壩頂",
-      "url": "https://udn.com/news/story/124616/9095965",
-      "source": "udn.com",
-      "published": 1761382533
-    },
-    {
       "id": "0fc33cff766f",
       "title": "朝鲜用加密货币购买军火规避联合国制裁 并派程序员出国洗钱",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251025-%E6%9C%9D%E9%B2%9C%E7%94%A8%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E8%B4%AD%E4%B9%B0%E5%86%9B%E7%81%AB%E8%A7%84%E9%81%BF%E8%81%94%E5%90%88%E5%9B%BD%E5%88%B6%E8%A3%81-%E5%B9%B6%E6%B4%BE%E7%A8%8B%E5%BA%8F%E5%91%98%E5%87%BA%E5%9B%BD%E6%B4%97%E9%92%B1",
@@ -352,46 +394,11 @@
       "published": 1761382044
     },
     {
-      "id": "af4c767ed3b3",
-      "title": "台灣同志遊行驚喜 蔡英文帶愛犬親臨現場向民眾揮手致意",
-      "url": "https://udn.com/news/story/6656/9095977",
-      "source": "udn.com",
-      "published": 1761381025
-    },
-    {
-      "id": "a71a237c9952",
-      "title": "影／朱立倫出席 台灣光復八十週年慶祝大會",
-      "url": "https://udn.com/news/story/6656/9095968",
-      "source": "udn.com",
-      "published": 1761380268
-    },
-    {
-      "id": "2b67ee172fb7",
-      "title": "民間自辦光復80周年慶祝大會 葛永光嘆：執政者自己消滅中華民國",
-      "url": "https://udn.com/news/story/6656/9095966",
-      "source": "udn.com",
-      "published": 1761380015
-    },
-    {
-      "id": "d5d136bbb361",
-      "title": "中國設台灣光復紀念日 國民黨呼籲中共正視抗戰史實",
-      "url": "https://udn.com/news/story/6656/9095938",
-      "source": "udn.com",
-      "published": 1761378564
-    },
-    {
       "id": "a14db31d63fd",
       "title": "俄罗斯可搭载核弹头的战略轰炸机飞抵日本领空附近  日本战机紧急起飞应对",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251025-%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%AF%E6%90%AD%E8%BD%BD%E6%A0%B8%E5%BC%B9%E5%A4%B4%E7%9A%84%E6%88%98%E7%95%A5%E8%BD%B0%E7%82%B8%E6%9C%BA%E9%A3%9E%E6%8A%B5%E6%97%A5%E6%9C%AC%E9%A2%86%E7%A9%BA%E9%99%84%E8%BF%91-%E6%97%A5%E6%9C%AC%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E8%B5%B7%E9%A3%9E%E5%BA%94%E5%AF%B9",
       "source": "rfi.fr",
       "published": 1761378523
-    },
-    {
-      "id": "c15df0f5e3bc",
-      "title": "民眾黨參加同志大遊行 促人工生殖法適用男女同志",
-      "url": "https://udn.com/news/story/6656/9095934",
-      "source": "udn.com",
-      "published": 1761378386
     },
     {
       "id": "819f6c101b96",
@@ -525,13 +532,6 @@
       "url": "https://www.dw.com/zh/移民与-市容-：梅尔茨-问问您的女儿/a-74488940?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761315840
-    },
-    {
-      "id": "d438749fd7b4",
-      "title": "马克龙对禁止热力发动机坚称：定为2035年的目标“很好” ！",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251024-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%AF%B9%E7%A6%81%E6%AD%A2%E7%83%AD%E5%8A%9B%E5%8F%91%E5%8A%A8%E6%9C%BA%E5%9D%9A%E7%A7%B0-%E5%AE%9A%E4%B8%BA2035%E5%B9%B4%E7%9A%84%E7%9B%AE%E6%A0%87-%E5%BE%88%E5%A5%BD",
-      "source": "rfi.fr",
-      "published": 1761314154
     },
     {
       "id": "d9feba356691",
@@ -1381,5 +1381,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761408627
+  "build_id": 1761410392
 }
