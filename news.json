@@ -1,6 +1,13 @@
 {
-  "updated": 1761507109,
+  "updated": 1761509448,
   "items": [
+    {
+      "id": "91c043da1e2a",
+      "title": "颶風美莉莎直撲牙買加　威力續增強將有災難性洪水",
+      "url": "https://money.udn.com/money/story/5599/9097936",
+      "source": "money.udn.com",
+      "published": 1761508470
+    },
     {
       "id": "a0a47b2fb560",
       "title": "川習會前　美中都表示越來越接近達成貿易協議",
@@ -252,13 +259,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251026-%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A6%96%E9%83%BD%E5%9F%BA%E8%BE%85%E9%81%AD%E4%BF%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB-3%E4%BA%BA%E6%AD%BB%E4%BA%A1-29%E4%BA%BA%E5%8F%97%E4%BC%A4",
       "source": "rfi.fr",
       "published": 1761494336
-    },
-    {
-      "id": "2415e8fbe69f",
-      "title": "俄羅斯成功試射新型核動力巡弋飛彈 普亭：全球獨一無二、無可匹敵",
-      "url": "https://money.udn.com/money/story/5599/9097877",
-      "source": "money.udn.com",
-      "published": 1761493552
     },
     {
       "id": "c668a823fd83",
@@ -1402,5 +1402,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761507109
+  "build_id": 1761509448
 }
