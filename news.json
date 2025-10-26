@@ -1,6 +1,27 @@
 {
-  "updated": 1761500039,
+  "updated": 1761502387,
   "items": [
+    {
+      "id": "56359dc501ba",
+      "title": "Fed 本周保險式降息有影 有望增添明年經濟成長的順風",
+      "url": "https://money.udn.com/money/story/5599/9097705",
+      "source": "money.udn.com",
+      "published": 1761501520
+    },
+    {
+      "id": "f2b818ececfd",
+      "title": "一支廣告惹惱川普 美對加拿大加徵10%關稅 貿易緊張再度升溫",
+      "url": "https://money.udn.com/money/story/5599/9097758",
+      "source": "money.udn.com",
+      "published": 1761500177
+    },
+    {
+      "id": "c93c9b2df4f7",
+      "title": "美穩定幣支付金額大增七成 倡議人士樂觀前景",
+      "url": "https://money.udn.com/money/story/10511/9097753",
+      "source": "money.udn.com",
+      "published": 1761500134
+    },
     {
       "id": "ccdcecb8949f",
       "title": "阿根廷國會選舉 總統「期中考」考驗自由市場改革與撙節措施民意支持度",
@@ -289,32 +310,11 @@
       "published": 1761484880
     },
     {
-      "id": "dc43a7f97d53",
-      "title": "巴西總統：立即與美國商討關稅解決方案",
-      "url": "https://money.udn.com/money/story/5599/9097556",
-      "source": "money.udn.com",
-      "published": 1761483971
-    },
-    {
-      "id": "6666a42635f5",
-      "title": "川普放話不願浪費時間見普丁　克宮澄清會面未取消",
-      "url": "https://money.udn.com/money/story/5599/9097528",
-      "source": "money.udn.com",
-      "published": 1761482732
-    },
-    {
       "id": "750cd86b8a6a",
       "title": "特朗普与马泰柬三国签署贸易和关键矿产协议 并签泰柬停火协议 三国关税19%",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251026-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E9%A9%AC%E6%B3%B0%E6%9F%AC%E4%B8%89%E5%9B%BD%E7%AD%BE%E7%BD%B2%E8%B4%B8%E6%98%93%E5%92%8C%E5%85%B3%E9%94%AE%E7%9F%BF%E4%BA%A7%E5%8D%8F%E8%AE%AE-%E5%B9%B6%E7%AD%BE%E6%B3%B0%E6%9F%AC%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE-%E4%B8%89%E5%9B%BD%E5%85%B3%E7%A8%8E19",
       "source": "rfi.fr",
       "published": 1761481846
-    },
-    {
-      "id": "85f8f0f162d9",
-      "title": "歐盟商會解讀中共四中全會公報　中國可能提刺激政策",
-      "url": "https://money.udn.com/money/story/5599/9097496",
-      "source": "money.udn.com",
-      "published": 1761481834
     },
     {
       "id": "2fb559f76045",
@@ -1402,5 +1402,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761500039
+  "build_id": 1761502387
 }
