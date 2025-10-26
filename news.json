@@ -1,24 +1,38 @@
 {
-  "updated": 1761485829,
+  "updated": 1761487671,
   "items": [
     {
-      "id": "6475bd389d4b",
+      "id": "9b71a0c57fa0",
+      "title": "中美吉隆坡贸易谈判第二天，李成钢: 达成“初步共识”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251026-%E4%B8%AD%E7%BE%8E%E5%90%89%E9%9A%86%E5%9D%A1%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4%E7%AC%AC%E4%BA%8C%E5%A4%A9%EF%BC%8C%E6%9D%8E%E6%88%90%E9%92%A2-%E8%BE%BE%E6%88%90-%E5%88%9D%E6%AD%A5%E5%85%B1%E8%AF%86",
+      "source": "rfi.fr",
+      "published": 1761487251
+    },
+    {
+      "id": "cc4af0f71522",
+      "title": "堰塞湖降壩引流道路仍封 花蓮大天祥地區27日停班課",
+      "url": "https://udn.com/news/story/124616/9097589",
+      "source": "udn.com",
+      "published": 1761485922
+    },
+    {
+      "id": "4d88708fa143",
       "title": "BBC：川普亞洲行聚焦新貿易協議　成敗繫於中國",
-      "url": "https://money.udn.com/money/story/10511/9097578",
+      "url": "https://money.udn.com/money/story/5599/9097578",
       "source": "money.udn.com",
       "published": 1761484880
     },
     {
-      "id": "a0ade3ffdd09",
+      "id": "dc43a7f97d53",
       "title": "巴西總統：立即與美國商討關稅解決方案",
-      "url": "https://money.udn.com/money/story/10511/9097556",
+      "url": "https://money.udn.com/money/story/5599/9097556",
       "source": "money.udn.com",
       "published": 1761483971
     },
     {
-      "id": "c96c697a8d96",
+      "id": "6666a42635f5",
       "title": "川普放話不願浪費時間見普丁　克宮澄清會面未取消",
-      "url": "https://money.udn.com/money/story/10511/9097528",
+      "url": "https://money.udn.com/money/story/5599/9097528",
       "source": "money.udn.com",
       "published": 1761482732
     },
@@ -401,13 +415,6 @@
       "published": 1761452750
     },
     {
-      "id": "e417ee00a9ed",
-      "title": "綠委批「投誠APP」是不折不扣的叛國軟體 國安單位應調查",
-      "url": "https://udn.com/news/story/6656/9096873",
-      "source": "udn.com",
-      "published": 1761451264
-    },
-    {
       "id": "55035e81f97c",
       "title": "德国社民党批评外长推迟访华发出“不良信号",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251025-%E5%BE%B7%E5%9B%BD%E7%A4%BE%E6%B0%91%E5%85%9A%E6%89%B9%E8%AF%84%E5%A4%96%E9%95%BF%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E%E5%8F%91%E5%87%BA-%E4%B8%8D%E8%89%AF%E4%BF%A1%E5%8F%B7",
@@ -623,13 +630,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251025-%E6%9C%9D%E9%B2%9C%E7%94%A8%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E8%B4%AD%E4%B9%B0%E5%86%9B%E7%81%AB%E8%A7%84%E9%81%BF%E8%81%94%E5%90%88%E5%9B%BD%E5%88%B6%E8%A3%81-%E5%B9%B6%E6%B4%BE%E7%A8%8B%E5%BA%8F%E5%91%98%E5%87%BA%E5%9B%BD%E6%B4%97%E9%92%B1",
       "source": "rfi.fr",
       "published": 1761382044
-    },
-    {
-      "id": "a14db31d63fd",
-      "title": "俄罗斯可搭载核弹头的战略轰炸机飞抵日本领空附近  日本战机紧急起飞应对",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251025-%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%AF%E6%90%AD%E8%BD%BD%E6%A0%B8%E5%BC%B9%E5%A4%B4%E7%9A%84%E6%88%98%E7%95%A5%E8%BD%B0%E7%82%B8%E6%9C%BA%E9%A3%9E%E6%8A%B5%E6%97%A5%E6%9C%AC%E9%A2%86%E7%A9%BA%E9%99%84%E8%BF%91-%E6%97%A5%E6%9C%AC%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E8%B5%B7%E9%A3%9E%E5%BA%94%E5%AF%B9",
-      "source": "rfi.fr",
-      "published": 1761378523
     },
     {
       "id": "0085a2abb5ee",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761485829
+  "build_id": 1761487671
 }
