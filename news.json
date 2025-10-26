@@ -1,6 +1,20 @@
 {
-  "updated": 1761483455,
+  "updated": 1761484824,
   "items": [
+    {
+      "id": "6475bd389d4b",
+      "title": "BBC：川普亞洲行聚焦新貿易協議　成敗繫於中國",
+      "url": "https://money.udn.com/money/story/10511/9097578",
+      "source": "money.udn.com",
+      "published": 1761484880
+    },
+    {
+      "id": "a0ade3ffdd09",
+      "title": "巴西總統：立即與美國商討關稅解決方案",
+      "url": "https://money.udn.com/money/story/10511/9097556",
+      "source": "money.udn.com",
+      "published": 1761483971
+    },
     {
       "id": "c96c697a8d96",
       "title": "川普放話不願浪費時間見普丁　克宮澄清會面未取消",
@@ -212,25 +226,11 @@
       "published": 1761469409
     },
     {
-      "id": "7de3a1f22670",
-      "title": "俄軍夜襲基輔釀3死31傷　澤倫斯基籲加強制裁",
-      "url": "https://money.udn.com/money/story/5599/9097267",
-      "source": "money.udn.com",
-      "published": 1761468846
-    },
-    {
       "id": "ab7eef977ba2",
       "title": "泰國王太后詩麗吉去世，享年93歲",
       "url": "https://www.bbc.com/zhongwen/articles/ckgkxlzmdvyo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1761468767
-    },
-    {
-      "id": "a7a106b7586e",
-      "title": "中英關係穩健關鍵是接受台灣屬於中國？中國大使狠逼 英外交部回應了",
-      "url": "https://money.udn.com/money/story/5599/9097264",
-      "source": "money.udn.com",
-      "published": 1761468568
     },
     {
       "id": "a348fac33b2d",
@@ -1402,5 +1402,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761483455
+  "build_id": 1761484824
 }
