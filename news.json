@@ -1,6 +1,48 @@
 {
-  "updated": 1761461089,
+  "updated": 1761462529,
   "items": [
+    {
+      "id": "21fc26784e08",
+      "title": "俄羅斯無人機夜襲基輔　釀3死數十傷",
+      "url": "https://money.udn.com/money/story/5599/9097158",
+      "source": "money.udn.com",
+      "published": 1761462749
+    },
+    {
+      "id": "26ef2dff6838",
+      "title": "印度與中國關係回暖　中斷5年後恢復直航",
+      "url": "https://money.udn.com/money/story/5599/9097152",
+      "source": "money.udn.com",
+      "published": 1761462370
+    },
+    {
+      "id": "a5280b562538",
+      "title": "委內瑞拉誓言保衛海岸　防範美國祕密行動",
+      "url": "https://money.udn.com/money/story/5599/9097143",
+      "source": "money.udn.com",
+      "published": 1761462039
+    },
+    {
+      "id": "1c602a1cc3d1",
+      "title": "陸「歸家APP」讓台灣人登記投誠？陸委會：若有會下架",
+      "url": "https://udn.com/news/story/6656/9097141",
+      "source": "udn.com",
+      "published": 1761461898
+    },
+    {
+      "id": "3f5812c4d8ff",
+      "title": "米雷伊執政期中考　阿根廷國會選舉即將登場",
+      "url": "https://money.udn.com/money/story/10511/9097136",
+      "source": "money.udn.com",
+      "published": 1761461671
+    },
+    {
+      "id": "be2d4df94b96",
+      "title": "澳洲托育中心連爆性侵案　當局推登記制度加強安全",
+      "url": "https://money.udn.com/money/story/5599/9097138",
+      "source": "money.udn.com",
+      "published": 1761461669
+    },
     {
       "id": "e077c652a0de",
       "title": "美貿易代表：美中談判有進展　川習會將富有成效",
@@ -170,32 +212,11 @@
       "published": 1761451666
     },
     {
-      "id": "15ac586bbbef",
-      "title": "泰柬停火協議遇泰王太后駕崩　川普專機一抵達就簽",
-      "url": "https://money.udn.com/money/story/5599/9096877",
-      "source": "money.udn.com",
-      "published": 1761451291
-    },
-    {
-      "id": "f1ef3a9c5743",
-      "title": "北韓外長將訪俄羅斯與白俄羅斯　具體日期未公布",
-      "url": "https://money.udn.com/money/story/5599/9096875",
-      "source": "money.udn.com",
-      "published": 1761451290
-    },
-    {
       "id": "e417ee00a9ed",
       "title": "綠委批「投誠APP」是不折不扣的叛國軟體 國安單位應調查",
       "url": "https://udn.com/news/story/6656/9096873",
       "source": "udn.com",
       "published": 1761451264
-    },
-    {
-      "id": "fe155fb02718",
-      "title": "川習會前美中談判現重大進展！美貿易代表：幾乎可交川習簽署",
-      "url": "https://money.udn.com/money/story/5599/9096863",
-      "source": "money.udn.com",
-      "published": 1761450449
     },
     {
       "id": "68a21d190761",
@@ -210,20 +231,6 @@
       "url": "https://udn.com/news/story/6656/9096842",
       "source": "udn.com",
       "published": 1761449482
-    },
-    {
-      "id": "de26d9be1191",
-      "title": "匿名捐40億元付美軍薪水！紐時曝光川普神秘金主大有來頭",
-      "url": "https://money.udn.com/money/story/10511/9096831",
-      "source": "money.udn.com",
-      "published": 1761449028
-    },
-    {
-      "id": "99deffe6e855",
-      "title": "美國政府停擺經濟不明朗　聯準會預期再度降息",
-      "url": "https://money.udn.com/money/story/10511/9096815",
-      "source": "money.udn.com",
-      "published": 1761448874
     },
     {
       "id": "fe71eb30f37f",
@@ -280,13 +287,6 @@
       "url": "https://udn.com/news/story/6656/9096684",
       "source": "udn.com",
       "published": 1761443644
-    },
-    {
-      "id": "e153eb3b73cb",
-      "title": "民進黨青年局首次訪日 綠委：台日政黨交流新階段",
-      "url": "https://udn.com/news/story/6656/9096668",
-      "source": "udn.com",
-      "published": 1761443145
     },
     {
       "id": "55035e81f97c",
@@ -1381,5 +1381,5 @@
       "published": 1758956400
     }
   ],
-  "build_id": 1761461089
+  "build_id": 1761462529
 }
