@@ -1,6 +1,41 @@
 {
-  "updated": 1761504188,
+  "updated": 1761505633,
   "items": [
+    {
+      "id": "40a17e83f998",
+      "title": "川習會前　美中都表示越來越接近達成貿易協議",
+      "url": "https://money.udn.com/money/story/10511/9097926",
+      "source": "money.udn.com",
+      "published": 1761504331
+    },
+    {
+      "id": "1ae9a54e19dc",
+      "title": "川普：將與習近平達「全面協議」 北京可能延後稀土管制",
+      "url": "https://money.udn.com/money/story/5599/9097772",
+      "source": "money.udn.com",
+      "published": 1761504080
+    },
+    {
+      "id": "3fc8a46844de",
+      "title": "美中經貿磋商取得進展 專家：衝突降溫...有利陸經濟",
+      "url": "https://money.udn.com/money/story/5599/9097788",
+      "source": "money.udn.com",
+      "published": 1761503922
+    },
+    {
+      "id": "c4be2bcb8470",
+      "title": "川普這趟亞洲行 各國各有盤算 台緊盯安全情勢",
+      "url": "https://money.udn.com/money/story/5599/9097778",
+      "source": "money.udn.com",
+      "published": 1761503873
+    },
+    {
+      "id": "d65583325a16",
+      "title": "川普亞洲行 金融市場關注四議題",
+      "url": "https://money.udn.com/money/story/5599/9097780",
+      "source": "money.udn.com",
+      "published": 1761503773
+    },
     {
       "id": "1eca79db56bc",
       "title": "輝達執行長黃仁勳將於 APEC 開講 企業家領袖峰會...大咖雲集",
@@ -163,6 +198,13 @@
       "published": 1761494431
     },
     {
+      "id": "abf0febdd3b6",
+      "title": "軍品委商 官兵怨迷彩服、野戰靴常缺貨",
+      "url": "https://udn.com/news/story/10930/9097873",
+      "source": "udn.com",
+      "published": 1761494400
+    },
+    {
       "id": "b57ab63110ec",
       "title": "從加班文化到多元共識 剖析AI時代的企業治理與跨境協作 專訪 才望子Cybozu 社長青野慶久",
       "url": "https://udn.com/news/story/7314/9088644",
@@ -187,13 +229,6 @@
       "id": "b38fcc4f16ba",
       "title": "副手挨批老藍男 鄭麗文：老幹新枝",
       "url": "https://udn.com/news/story/122404/9097868",
-      "source": "udn.com",
-      "published": 1761494400
-    },
-    {
-      "id": "abf0febdd3b6",
-      "title": "軍品委商 官兵怨迷彩服、野戰靴常缺貨",
-      "url": "https://udn.com/news/story/10930/9097873",
       "source": "udn.com",
       "published": 1761494400
     },
@@ -226,46 +261,11 @@
       "published": 1761493552
     },
     {
-      "id": "8fb544319be4",
-      "title": "大陸黃金夢 建「去美元化」體系",
-      "url": "https://money.udn.com/money/story/122381/9097659",
-      "source": "money.udn.com",
-      "published": 1761492760
-    },
-    {
-      "id": "ba9d15cb5afb",
-      "title": "北京出招 爭取各國黃金存放中國",
-      "url": "https://money.udn.com/money/story/122381/9097665",
-      "source": "money.udn.com",
-      "published": 1761492574
-    },
-    {
-      "id": "fed51c68dac2",
-      "title": "美越兩國將敲定貿易協議　越南部分商品有望免關稅",
-      "url": "https://money.udn.com/money/story/5599/9097744",
-      "source": "money.udn.com",
-      "published": 1761491171
-    },
-    {
       "id": "c668a823fd83",
       "title": "墙外文摘：中共军队大清洗尚未结束",
       "url": "https://www.dw.com/zh/墙外文摘：中共军队大清洗尚未结束/a-74503039?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761490860
-    },
-    {
-      "id": "80710d6de623",
-      "title": "美財長貝森特：中國稀土管制將延後1年實施 還將大買美國黃豆",
-      "url": "https://money.udn.com/money/story/5599/9097707",
-      "source": "money.udn.com",
-      "published": 1761490472
-    },
-    {
-      "id": "88b6e29a0f1c",
-      "title": "川習會前傳捷報 美財長示意美中就稀土、關稅問題互相讓步",
-      "url": "https://money.udn.com/money/story/5599/9097686",
-      "source": "money.udn.com",
-      "published": 1761489911
     },
     {
       "id": "e30b7b3ac42e",
@@ -1402,5 +1402,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761504188
+  "build_id": 1761505633
 }
