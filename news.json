@@ -1,9 +1,30 @@
 {
-  "updated": 1761545842,
+  "updated": 1761547875,
   "items": [
     {
+      "id": "3768b4de25a2",
+      "title": "嗡嗡作響的煩擾，還是就業熱潮？住在199座資料中心旁的生活",
+      "url": "https://www.bbc.com/zhongwen/articles/cy7eny33v8mo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1761547604
+    },
+    {
+      "id": "cef7672199de",
+      "title": "IMF 示警：美國債務五年內超越義大利和希臘 財政惡化居已開發國之首",
+      "url": "https://money.udn.com/money/story/5599/9098954",
+      "source": "money.udn.com",
+      "published": 1761546749
+    },
+    {
+      "id": "cf5e66dbf966",
+      "title": "川習會進展牽動市場 投資人關注新加坡股市短期表現",
+      "url": "https://money.udn.com/money/story/10511/9098948",
+      "source": "money.udn.com",
+      "published": 1761546620
+    },
+    {
       "id": "ced94d0dbc14",
-      "title": "時隔5年恢復直航　印度靛藍航空班機降落中國廣州",
+      "title": "時隔5年恢復直航 印度靛藍航空班機降落中國廣州",
       "url": "https://money.udn.com/money/story/5599/9098929",
       "source": "money.udn.com",
       "published": 1761546116
@@ -17,7 +38,7 @@
     },
     {
       "id": "98124ef3abfe",
-      "title": "網路騷擾法國第一夫人　10人巴黎出庭受審",
+      "title": "網路騷擾法國第一夫人 10人巴黎出庭受審",
       "url": "https://money.udn.com/money/story/5599/9098915",
       "source": "money.udn.com",
       "published": 1761545551
@@ -35,6 +56,13 @@
       "url": "https://money.udn.com/money/story/5599/9098883",
       "source": "money.udn.com",
       "published": 1761544886
+    },
+    {
+      "id": "55d3a4473e24",
+      "title": "北京紀念80年前台灣光復 是認定二次光復為時不遠？",
+      "url": "https://udn.com/news/story/6656/9098882",
+      "source": "udn.com",
+      "published": 1761544857
     },
     {
       "id": "5d84777dc9a2",
@@ -254,20 +282,6 @@
       "published": 1761536248
     },
     {
-      "id": "ff7e447f8775",
-      "title": "日本新創公司JPYC搶頭香　全球首個日圓穩定幣正式發行",
-      "url": "https://money.udn.com/money/story/10511/9098501",
-      "source": "money.udn.com",
-      "published": 1761536211
-    },
-    {
-      "id": "9cf5472bc9a0",
-      "title": "川普結束馬來西亞訪問　轉赴日本展開亞洲行第2站",
-      "url": "https://money.udn.com/money/story/5599/9098502",
-      "source": "money.udn.com",
-      "published": 1761536210
-    },
-    {
       "id": "ae62eb148753",
       "title": "Grimp Taiwan繩索救助國際邀請賽精彩結束 高雄拿下亞軍",
       "url": "https://udn.com/news/story/7314/9098450",
@@ -301,13 +315,6 @@
       "url": "https://udn.com/news/story/6656/9098369",
       "source": "udn.com",
       "published": 1761533764
-    },
-    {
-      "id": "880fb8f1dad5",
-      "title": "影／行政院造成NCC人事案延宕？陳崇樹：在目前職位上無從評論",
-      "url": "https://udn.com/news/story/6656/9098319",
-      "source": "udn.com",
-      "published": 1761532724
     },
     {
       "id": "b163f1ea5b8c",
@@ -1080,13 +1087,6 @@
       "published": 1761095212
     },
     {
-      "id": "b74f57338c8e",
-      "title": "如何評估二手電動車的電池健康狀況？",
-      "url": "https://www.bbc.com/zhongwen/articles/c797z5e3v75o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1761092242
-    },
-    {
       "id": "c72d9c9db780",
       "title": "卢浮宫劫案：1亿美元珍宝失窃背后的长期安保漏洞",
       "url": "https://cn.nytimes.com/world/20251022/louvre-robbery-security-paris/?utm_source=RSS",
@@ -1402,5 +1402,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761545842
+  "build_id": 1761547875
 }
