@@ -1,10 +1,38 @@
 {
-  "updated": 1761556416,
+  "updated": 1761558049,
   "items": [
     {
-      "id": "994755841835",
+      "id": "b951d20d0916",
+      "title": "南韓高人氣貝果店 發生年輕員工疑似過勞死事件",
+      "url": "https://money.udn.com/money/story/5599/9099366",
+      "source": "money.udn.com",
+      "published": 1761557848
+    },
+    {
+      "id": "5a196376be58",
+      "title": "科斯塔会见李强：对扩大关键原材料出口管制表强烈关切、促协助结束俄乌战争",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251027-%E7%A7%91%E6%96%AF%E5%A1%94%E4%BC%9A%E8%A7%81%E6%9D%8E%E5%BC%BA-%E5%AF%B9%E6%89%A9%E5%A4%A7%E5%85%B3%E9%94%AE%E5%8E%9F%E6%9D%90%E6%96%99%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E8%A1%A8%E5%BC%BA%E7%83%88%E5%85%B3%E5%88%87-%E4%BF%83%E5%8D%8F%E5%8A%A9%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89",
+      "source": "rfi.fr",
+      "published": 1761557602
+    },
+    {
+      "id": "49b76b48166d",
+      "title": "川普訪日　看好聚焦駐軍、國防支出、貿易及皮卡車",
+      "url": "https://money.udn.com/money/story/10511/9099354",
+      "source": "money.udn.com",
+      "published": 1761557502
+    },
+    {
+      "id": "7ff8dd9a388c",
+      "title": "美中將達協議抑制避險需求 金價又挫2%",
+      "url": "https://money.udn.com/money/story/5599/9099323",
+      "source": "money.udn.com",
+      "published": 1761556708
+    },
+    {
+      "id": "83d5e5d39425",
       "title": "張峻帶人衝光復鄉座談踹桌 傅崐萁：議長帶頭動粗是民主之恥",
-      "url": "https://udn.com/news/story/6656/9099305",
+      "url": "https://udn.com/news/story/124616/9099305",
       "source": "udn.com",
       "published": 1761556324
     },
@@ -254,32 +282,11 @@
       "published": 1761546116
     },
     {
-      "id": "8ce00883b5be",
-      "title": "全球首款日圓穩定幣推出了！JPYC 價值與日圓1比1錨定 初期不收交易費",
-      "url": "https://money.udn.com/money/story/5599/9098925",
-      "source": "money.udn.com",
-      "published": 1761545926
-    },
-    {
-      "id": "98124ef3abfe",
-      "title": "網路騷擾法國第一夫人 10人巴黎出庭受審",
-      "url": "https://money.udn.com/money/story/5599/9098915",
-      "source": "money.udn.com",
-      "published": 1761545551
-    },
-    {
       "id": "0834254bb4d8",
       "title": "你的頸圍如何反映健康狀況？",
       "url": "https://www.bbc.com/zhongwen/articles/crl20zpjyy2o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1761545500
-    },
-    {
-      "id": "ad07961e9085",
-      "title": "川普下午抵東京！日出動1.8萬警創「史上最高維安」肅殺場面曝光",
-      "url": "https://money.udn.com/money/story/5599/9098883",
-      "source": "money.udn.com",
-      "published": 1761544886
     },
     {
       "id": "5d84777dc9a2",
@@ -728,13 +735,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251025-%E7%BE%8E%E4%B8%AD%E5%90%89%E9%9A%86%E5%9D%A1%E7%BB%8F%E8%B4%B8%E8%B0%88%E5%88%A4%E6%9D%8E%E6%88%90%E9%92%A2%E5%9C%A8%E5%9C%BA-%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7",
       "source": "rfi.fr",
       "published": 1761430876
-    },
-    {
-      "id": "6414bb9e5bdd",
-      "title": "科特迪瓦2025总统选举投票日",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251025-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A62025%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E6%97%A5",
-      "source": "rfi.fr",
-      "published": 1761429461
     },
     {
       "id": "3e3829e207c7",
@@ -1402,5 +1402,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761556416
+  "build_id": 1761558049
 }
