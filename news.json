@@ -1,6 +1,13 @@
 {
-  "updated": 1761682313,
+  "updated": 1761683997,
   "items": [
+    {
+      "id": "da39051ab18a",
+      "title": "颶風美莉莎登陸牙買加　加勒比海地區7人喪命",
+      "url": "https://money.udn.com/money/story/5599/9103031",
+      "source": "money.udn.com",
+      "published": 1761683433
+    },
     {
       "id": "8f420bc86b09",
       "title": "輝達與諾基亞達成戰略夥伴關係 斥資10億美元入股",
@@ -175,13 +182,6 @@
       "url": "https://udn.com/news/story/6656/9102930",
       "source": "udn.com",
       "published": 1761667832
-    },
-    {
-      "id": "b2ab71edb128",
-      "title": "金價連3,900美元也岌岌可危 市場人士仍堅定看漲到5,000美元",
-      "url": "https://money.udn.com/money/story/5599/9102954",
-      "source": "money.udn.com",
-      "published": 1761667749
     },
     {
       "id": "00dfffb6c1d1",
@@ -1388,5 +1388,5 @@
       "published": 1759137060
     }
   ],
-  "build_id": 1761682313
+  "build_id": 1761683997
 }
