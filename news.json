@@ -1,6 +1,27 @@
 {
-  "updated": 1761689364,
+  "updated": 1761691133,
   "items": [
+    {
+      "id": "917f52b7865f",
+      "title": "美智庫公布新民調 多數美國民眾支持與中國友好互動",
+      "url": "https://money.udn.com/money/story/5599/9103079",
+      "source": "money.udn.com",
+      "published": 1761691109
+    },
+    {
+      "id": "0aee157d210f",
+      "title": "韓國行程口風緊　黃仁勳：很多會要開、很多消息宣布",
+      "url": "https://money.udn.com/money/story/10511/9103078",
+      "source": "money.udn.com",
+      "published": 1761690991
+    },
+    {
+      "id": "a72b1cac58d8",
+      "title": "鄭麗文當選國民黨黨主席 「藍營獅王」將如何改變台灣政壇？",
+      "url": "https://udn.com/news/story/122404/9101552",
+      "source": "udn.com",
+      "published": 1761689133
+    },
     {
       "id": "3f6a166cb023",
       "title": "美國防部準助理部長：與台日韓合作　強化集體安全",
@@ -198,20 +219,6 @@
       "published": 1761674983
     },
     {
-      "id": "a33ea1dd6ae1",
-      "title": "美國兩大射頻晶片商結親 Skyworks 收購同業 Qorvo 恐招致反壟斷調查",
-      "url": "https://money.udn.com/money/story/5599/9102855",
-      "source": "money.udn.com",
-      "published": 1761674912
-    },
-    {
-      "id": "3889f349516b",
-      "title": "AI 搶飯碗！亞馬遜要裁1.4萬人 分析師：人工智慧已能彌補生產力缺口",
-      "url": "https://money.udn.com/money/story/123398/9102850",
-      "source": "money.udn.com",
-      "published": 1761674854
-    },
-    {
       "id": "aafded2b4b7f",
       "title": "普發現金13歲以上代領門檻 藍批擾民",
       "url": "https://udn.com/news/story/6656/9102869",
@@ -392,13 +399,6 @@
       "url": "https://udn.com/news/story/6656/9102579",
       "source": "udn.com",
       "published": 1761656765
-    },
-    {
-      "id": "ea3ac4e5a549",
-      "title": "民進黨青年局拜會日本參政黨 探討新興政黨崛起關鍵",
-      "url": "https://udn.com/news/story/6656/9102561",
-      "source": "udn.com",
-      "published": 1761656615
     },
     {
       "id": "932e2faf6a74",
@@ -1388,5 +1388,5 @@
       "published": 1759137060
     }
   ],
-  "build_id": 1761689364
+  "build_id": 1761691133
 }
