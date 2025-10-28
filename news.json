@@ -1,6 +1,41 @@
 {
-  "updated": 1761624736,
+  "updated": 1761626477,
   "items": [
+    {
+      "id": "71f46d62519d",
+      "title": "AI機器人「聽見我、陪伴我、回應我」，但它會誘導人自殺嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cd045m1lpm0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1761626024
+    },
+    {
+      "id": "1aa04fa07a70",
+      "title": "簽關稅稀土文件共創新黃金時代　川普會高市重點一覽",
+      "url": "https://money.udn.com/money/story/10511/9101065",
+      "source": "money.udn.com",
+      "published": 1761625351
+    },
+    {
+      "id": "673f5be802ff",
+      "title": "黃國昌要選新北又提地方聯合治理 綠營轟這就是期約賄選",
+      "url": "https://udn.com/news/story/6656/9101055",
+      "source": "udn.com",
+      "published": 1761625184
+    },
+    {
+      "id": "df79d0be8905",
+      "title": "光復災民被擋座談會門外抗議 傅崐萁：沒有場地容納8千600名災民",
+      "url": "https://udn.com/news/story/6656/9101061",
+      "source": "udn.com",
+      "published": 1761625183
+    },
+    {
+      "id": "969be066e97b",
+      "title": "非洲豬瘟防疫頻遭點名 盧秀燕：查到什麼報什麼絕無隱瞞",
+      "url": "https://udn.com/news/story/7314/9101060",
+      "source": "udn.com",
+      "published": 1761625107
+    },
     {
       "id": "d49aad2492fc",
       "title": "影/高市早苗送川普2+1份大禮曝光！投其所好還狂打「安倍牌」博好感",
@@ -205,32 +240,11 @@
       "published": 1761619932
     },
     {
-      "id": "9f0332133239",
-      "title": "影／海底電纜頻遭破壞 林佳龍：投資緊急維修能力加強全球夥伴合作",
-      "url": "https://udn.com/news/story/6656/9100765",
-      "source": "udn.com",
-      "published": 1761619722
-    },
-    {
       "id": "7d4d5ab4c8b5",
       "title": "理專中飽私囊又離奇死亡 愛馬仕家族後代150億美元不翼而飛、只搭廉航",
       "url": "https://money.udn.com/money/story/122381/9100744",
       "source": "money.udn.com",
       "published": 1761619676
-    },
-    {
-      "id": "5c5022a8c073",
-      "title": "連勝文賣12年愛車怨「國民黨太窮」 曝2兒子舉動惹蔡依珊尖叫",
-      "url": "https://udn.com/news/story/6656/9100634",
-      "source": "udn.com",
-      "published": 1761619642
-    },
-    {
-      "id": "2cc5fd7a3e81",
-      "title": "鄭麗文反對提高國防預算 卓榮泰：強化實力才有永久和平",
-      "url": "https://udn.com/news/story/122404/9100760",
-      "source": "udn.com",
-      "published": 1761619631
     },
     {
       "id": "0ce5271ee462",
@@ -292,13 +306,6 @@
       "id": "e95862e433d4",
       "title": "荷蘭政府接管安世半導體　傳因憂歐洲業務遭拆解",
       "url": "https://money.udn.com/money/story/5599/9100568",
-      "source": "money.udn.com",
-      "published": 1761616839
-    },
-    {
-      "id": "259000996c51",
-      "title": "美軍B-1B轟炸機現蹤委國外海　近期3度展示武力",
-      "url": "https://money.udn.com/money/story/5599/9100567",
       "source": "money.udn.com",
       "published": 1761616839
     },
@@ -1346,13 +1353,6 @@
       "published": 1760438340
     },
     {
-      "id": "6a1ae2d5439d",
-      "title": "美中關係定調難，習近平特朗普的「主導權測試」還在持續",
-      "url": "https://www.bbc.com/zhongwen/articles/c891wzzvkxdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1760432955
-    },
-    {
       "id": "fae1ad7942bf",
       "title": "北京发“心战大队”悬赏公告 台北批认知战手法粗劣",
       "url": "https://www.dw.com/zh/北京发-心战大队-悬赏公告-台北批认知战手法粗劣/a-74318204?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761624736
+  "build_id": 1761626477
 }
