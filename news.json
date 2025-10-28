@@ -1,6 +1,27 @@
 {
-  "updated": 1761679924,
+  "updated": 1761682313,
   "items": [
+    {
+      "id": "8f420bc86b09",
+      "title": "輝達與諾基亞達成戰略夥伴關係 斥資10億美元入股",
+      "url": "https://money.udn.com/money/story/123398/9103021",
+      "source": "money.udn.com",
+      "published": 1761680710
+    },
+    {
+      "id": "acc058a0fec0",
+      "title": "以色列總理下令轟加薩　哈瑪斯暫緩交還人質遺體",
+      "url": "https://money.udn.com/money/story/5599/9103022",
+      "source": "money.udn.com",
+      "published": 1761680710
+    },
+    {
+      "id": "fe6ead173c33",
+      "title": "特习会：美方谈判“框架” 能否抵御中方政治压力",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251028-%E7%89%B9%E4%B9%A0%E4%BC%9A-%E7%BE%8E%E6%96%B9%E8%B0%88%E5%88%A4-%E6%A1%86%E6%9E%B6-%E8%83%BD%E5%90%A6%E6%8A%B5%E5%BE%A1%E4%B8%AD%E6%96%B9%E6%94%BF%E6%B2%BB%E5%8E%8B%E5%8A%9B",
+      "source": "rfi.fr",
+      "published": 1761680244
+    },
     {
       "id": "f6885e5f1329",
       "title": "川普會高市 讚揚美日同盟 肯定日本推動防衛支出擴大計畫",
@@ -198,13 +219,6 @@
       "published": 1761667250
     },
     {
-      "id": "1526776ced90",
-      "title": "喊台南設AI副市長！爭藍初選挨批來亂 陳以信：撥亂反正",
-      "url": "https://udn.com/news/story/6656/9102709",
-      "source": "udn.com",
-      "published": 1761667200
-    },
-    {
       "id": "2c5d93324324",
       "title": "歷史上的今天／1958年省運會游泳賽 出現唯一父女選手",
       "url": "https://udn.com/news/story/7314/9100692",
@@ -219,18 +233,18 @@
       "published": 1761667200
     },
     {
+      "id": "1526776ced90",
+      "title": "喊台南設AI副市長！爭藍初選挨批來亂 陳以信：撥亂反正",
+      "url": "https://udn.com/news/story/6656/9102709",
+      "source": "udn.com",
+      "published": 1761667200
+    },
+    {
       "id": "5a2cf26fcfcc",
       "title": "公務員職場霸凌 最重可一次記兩大過免職",
       "url": "https://udn.com/news/story/6656/9102926",
       "source": "udn.com",
       "published": 1761667064
-    },
-    {
-      "id": "4aa4f8bce54f",
-      "title": "GTC DC 前重磅消息 輝達10億美元買諾基亞新股",
-      "url": "https://money.udn.com/money/story/123398/9102915",
-      "source": "money.udn.com",
-      "published": 1761666680
     },
     {
       "id": "db61336e0140",
@@ -252,13 +266,6 @@
       "url": "https://www.dw.com/zh/拼污染拼劳力拼技术，西方如何打破中国的稀土垄断？/a-74528836?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761664680
-    },
-    {
-      "id": "b0e67d68ff46",
-      "title": "美軍襲擊東太平洋4艘「運毒」船隻 擊殺14人",
-      "url": "https://money.udn.com/money/story/5599/9102798",
-      "source": "money.udn.com",
-      "published": 1761664456
     },
     {
       "id": "ba9d91a21131",
@@ -721,13 +728,6 @@
       "url": "https://www.dw.com/zh/哈里斯不排除再战白宫-民主党-重量级-人物考虑2028大选/a-74513470?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761576480
-    },
-    {
-      "id": "b15ec6a6ceb9",
-      "title": "特朗普会见日本天皇时长约30分钟 高市早苗周二拟提安倍印太愿景等议题",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251027-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E6%97%B6%E9%95%BF%E7%BA%A630%E5%88%86%E9%92%9F-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%91%A8%E4%BA%8C%E6%8B%9F%E6%8F%90%E5%AE%89%E5%80%8D%E5%8D%B0%E5%A4%AA%E6%84%BF%E6%99%AF%E7%AD%89%E8%AE%AE%E9%A2%98",
-      "source": "rfi.fr",
-      "published": 1761574884
     },
     {
       "id": "04562ddb96d5",
@@ -1388,5 +1388,5 @@
       "published": 1759137060
     }
   ],
-  "build_id": 1761679924
+  "build_id": 1761682313
 }
