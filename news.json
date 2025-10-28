@@ -1,9 +1,23 @@
 {
-  "updated": 1761692956,
+  "updated": 1761694435,
   "items": [
     {
+      "id": "9d671a38548a",
+      "title": "北韓試射巡弋飛彈　時機選在川普訪韓前一天",
+      "url": "https://money.udn.com/money/story/5599/9103101",
+      "source": "money.udn.com",
+      "published": 1761694235
+    },
+    {
+      "id": "11081074abc5",
+      "title": "輝達市值逼近5兆美元 AI 訂單飆破5,000億美元",
+      "url": "https://money.udn.com/money/story/123398/9103094",
+      "source": "money.udn.com",
+      "published": 1761693210
+    },
+    {
       "id": "c9df9ff7b724",
-      "title": "美股三大指數再創新高 受輝達和微軟提振",
+      "title": "美股收盤／三大指數再創新高 受輝達和微軟提振",
       "url": "https://money.udn.com/money/story/123398/9103087",
       "source": "money.udn.com",
       "published": 1761692270
@@ -212,20 +226,6 @@
       "published": 1761675109
     },
     {
-      "id": "ea76865d78ff",
-      "title": "高市迎川普 送上「安倍球桿」",
-      "url": "https://money.udn.com/money/story/5599/9102839",
-      "source": "money.udn.com",
-      "published": 1761675033
-    },
-    {
-      "id": "3db45051e20d",
-      "title": "南韓上季 GDP 成長1.2% 美國關稅成為最大不確定因素",
-      "url": "https://money.udn.com/money/story/5599/9102860",
-      "source": "money.udn.com",
-      "published": 1761675018
-    },
-    {
       "id": "aafded2b4b7f",
       "title": "普發現金13歲以上代領門檻 藍批擾民",
       "url": "https://udn.com/news/story/6656/9102869",
@@ -294,6 +294,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251028-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97-%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E7%A1%AE%E8%AE%A4%E4%BA%86%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%92%8C%E5%B9%B3%E7%A8%B3%E5%AE%9A%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7",
       "source": "rfi.fr",
       "published": 1761667250
+    },
+    {
+      "id": "ce195dfa2152",
+      "title": "英国拟扩大使用军营收容寻求庇护者",
+      "url": "https://www.ftchinese.com/story/001108015",
+      "source": "ftchinese.com",
+      "published": 1761667200
     },
     {
       "id": "2c5d93324324",
@@ -891,13 +898,6 @@
       "published": 1761494400
     },
     {
-      "id": "89c396c179c1",
-      "title": "AI热潮，是革命还是泡沫？",
-      "url": "https://www.ftchinese.com/story/001107991",
-      "source": "ftchinese.com",
-      "published": 1761494400
-    },
-    {
       "id": "c668a823fd83",
       "title": "墙外文摘：中共军队大清洗尚未结束",
       "url": "https://www.dw.com/zh/墙外文摘：中共军队大清洗尚未结束/a-74503039?maca=chi-rss-chi-all-1127-rdf",
@@ -1388,5 +1388,5 @@
       "published": 1759137060
     }
   ],
-  "build_id": 1761692956
+  "build_id": 1761694435
 }
