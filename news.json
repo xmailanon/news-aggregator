@@ -1,6 +1,20 @@
 {
-  "updated": 1761748963,
+  "updated": 1761750704,
   "items": [
+    {
+      "id": "84a230112edf",
+      "title": "中國大陸大豆進口格局生變 川普與習近平的潛在協議難解美國豆農困境",
+      "url": "https://money.udn.com/money/story/5599/9103371",
+      "source": "money.udn.com",
+      "published": 1761750292
+    },
+    {
+      "id": "d0a47828d329",
+      "title": "烏軍苦守東部大城波克羅夫斯克　俄增兵包圍戰事告急",
+      "url": "https://money.udn.com/money/story/5599/9105343",
+      "source": "money.udn.com",
+      "published": 1761749670
+    },
     {
       "id": "c44a5cdeb565",
       "title": "加拿大著手重塑貿易格局 轉向亞洲以應對川普關稅衝擊",
@@ -14,6 +28,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251029-%E5%8D%A1%E6%8B%89%E6%96%AF%E8%AF%81%E5%AE%9E%E7%8E%8B%E6%AF%85%E5%B0%B1%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E7%9A%84%E4%BA%89%E8%AE%AE%E5%8F%91%E8%A8%80-%E6%8C%87%E4%B8%AD%E4%BF%84%E5%BE%88%E6%9C%89%E5%8F%AF%E9%A2%84%E6%B5%8B%E6%80%A7",
       "source": "rfi.fr",
       "published": 1761748397
+    },
+    {
+      "id": "06fb9615bba2",
+      "title": "德语媒体：退缩中的特朗普",
+      "url": "https://www.dw.com/zh/德语媒体：退缩中的特朗普/a-74544009?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1761748320
     },
     {
       "id": "176b97a71724",
@@ -203,20 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/9103786",
       "source": "money.udn.com",
       "published": 1761741745
-    },
-    {
-      "id": "34646005c774",
-      "title": "澳洲養老基金主管：中國大陸 AI 產業對美國科技股估值的威脅已「迫在眉睫」",
-      "url": "https://money.udn.com/money/story/123398/9103787",
-      "source": "money.udn.com",
-      "published": 1761741344
-    },
-    {
-      "id": "806086275da4",
-      "title": "南韓國安高官：川普同意南韓需開發核動力潛艦能力",
-      "url": "https://money.udn.com/money/story/5599/9105117",
-      "source": "money.udn.com",
-      "published": 1761740896
     },
     {
       "id": "044aefa05c84",
@@ -1227,13 +1234,6 @@
       "published": 1761108427
     },
     {
-      "id": "0a6e5a2a893a",
-      "title": "德语媒体：市场不听从党的指挥",
-      "url": "https://www.dw.com/zh/德语媒体：市场不听从党的指挥/a-74443786?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1761054300
-    },
-    {
       "id": "7124473dde4e",
       "title": "卢浮宫劫案背后的黑市帝国：失窃珍宝最终会流向何方？",
       "url": "https://www.dw.com/zh/卢浮宫劫案背后的黑市帝国：失窃珍宝最终会流向何方？/a-74437040?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761748963
+  "build_id": 1761750704
 }
