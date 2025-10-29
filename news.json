@@ -1,6 +1,20 @@
 {
-  "updated": 1761779363,
+  "updated": 1761780900,
   "items": [
+    {
+      "id": "268fded9a967",
+      "title": "川習會將登場　美官員：相信川普不會被迫表態反台獨",
+      "url": "https://money.udn.com/money/story/10511/9105716",
+      "source": "money.udn.com",
+      "published": 1761780092
+    },
+    {
+      "id": "58e8ffecf82f",
+      "title": "美股收盤／鮑爾澆息美股大盤熱情 輝達市值衝破5兆美元助那斯達克再創新高",
+      "url": "https://money.udn.com/money/story/123398/9105711",
+      "source": "money.udn.com",
+      "published": 1761779960
+    },
     {
       "id": "9c1e10bd5f48",
       "title": "Fed 決策／ 鮑爾談話偏鷹 表明12月降息非定論",
@@ -212,20 +226,6 @@
       "published": 1761763544
     },
     {
-      "id": "cdbcd515327b",
-      "title": "蘋果產品升級 將搭載 OLED",
-      "url": "https://money.udn.com/money/story/123398/9105361",
-      "source": "money.udn.com",
-      "published": 1761763471
-    },
-    {
-      "id": "773152610996",
-      "title": "Fed決策聲明五要點：降息且宣布停止縮表 續強調就業市場風險",
-      "url": "https://money.udn.com/money/story/5599/9105609",
-      "source": "money.udn.com",
-      "published": 1761762752
-    },
-    {
       "id": "74467b5631d6",
       "title": "卢浮宫失窃案：两名盗贼将被起诉     被盗珠宝尚无踪影",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251029-%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%8F%A0%E5%AE%9D%E7%9B%97%E7%AA%83%E6%A1%88-%E4%B8%A4%E5%90%8D%E7%9B%97%E8%B4%BC%E5%B0%86%E8%A2%AB%E8%B5%B7%E8%AF%89-%E8%A2%AB%E7%9B%97%E7%8F%A0%E5%AE%9D%E5%B0%9A%E6%97%A0%E8%B8%AA%E5%BD%B1",
@@ -329,6 +329,13 @@
       "url": "https://udn.com/news/story/120821/9105274",
       "source": "udn.com",
       "published": 1761754394
+    },
+    {
+      "id": "105d5465acc5",
+      "title": "得不到共情的，不仅仅是郑智化",
+      "url": "https://www.ftchinese.com/story/001108026",
+      "source": "ftchinese.com",
+      "published": 1761753600
     },
     {
       "id": "90bcb213ab06",
@@ -618,6 +625,13 @@
       "published": 1761686261
     },
     {
+      "id": "184cb631aebe",
+      "title": "首富榜：财富洗牌与企业家变迁",
+      "url": "https://www.ftchinese.com/story/001108027",
+      "source": "ftchinese.com",
+      "published": 1761667200
+    },
+    {
       "id": "90415ebe48e9",
       "title": "欧盟加紧保障关键矿产供应",
       "url": "https://www.ftchinese.com/story/001108025",
@@ -880,20 +894,6 @@
       "id": "f3d47735e049",
       "title": "特朗普盛赞美日“伟大友谊”",
       "url": "https://www.ftchinese.com/story/001108006",
-      "source": "ftchinese.com",
-      "published": 1761580800
-    },
-    {
-      "id": "b1dcaac08ce4",
-      "title": "规模有限竞争炽烈 首创证券或需大折让招徕",
-      "url": "https://www.ftchinese.com/story/001108005",
-      "source": "ftchinese.com",
-      "published": 1761580800
-    },
-    {
-      "id": "70b982aa76c7",
-      "title": "中国生物科技企业的崛起",
-      "url": "https://www.ftchinese.com/story/001108004",
       "source": "ftchinese.com",
       "published": 1761580800
     },
@@ -1402,5 +1402,5 @@
       "published": 1759652400
     }
   ],
-  "build_id": 1761779363
+  "build_id": 1761780900
 }
