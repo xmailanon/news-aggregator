@@ -1,6 +1,20 @@
 {
-  "updated": 1761770374,
+  "updated": 1761772149,
   "items": [
+    {
+      "id": "720f932e853d",
+      "title": "解读四中全会内幕：蔡霞高瑜盛雪三位女士的评论",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251029-%E8%A7%A3%E8%AF%BB%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%86%85%E5%B9%95-%E8%94%A1%E9%9C%9E%E9%AB%98%E7%91%9C%E7%9B%9B%E9%9B%AA%E4%B8%89%E4%BD%8D%E5%A5%B3%E5%A3%AB%E7%9A%84%E8%AF%84%E8%AE%BA",
+      "source": "rfi.fr",
+      "published": 1761771202
+    },
+    {
+      "id": "95f56ee0428b",
+      "title": "鮑爾放鷹　美股收盤走勢分歧",
+      "url": "https://money.udn.com/money/story/123398/9105640",
+      "source": "money.udn.com",
+      "published": 1761770731
+    },
     {
       "id": "960d661df774",
       "title": "市場評估美庫存與俄制裁　國際油價上揚",
@@ -161,13 +175,6 @@
       "url": "https://money.udn.com/money/story/5599/9105433",
       "source": "money.udn.com",
       "published": 1761757387
-    },
-    {
-      "id": "746d608df2e9",
-      "title": "美韓達協議 汽車關稅降至15% 承諾不會讓南韓晶片關稅條件比台灣差",
-      "url": "https://money.udn.com/money/story/5599/9105443",
-      "source": "money.udn.com",
-      "published": 1761757282
     },
     {
       "id": "6293b17e1301",
@@ -546,13 +553,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251028-%E9%A9%AC%E9%87%8C-%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%95%A6%E4%BF%83%E5%85%AC%E6%B0%91-%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80-%E8%AF%A5%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1761687128
-    },
-    {
-      "id": "9c2ba447ae5c",
-      "title": "德克萨斯州起诉两家制药公司",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251028-%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%E8%B5%B7%E8%AF%89%E4%B8%A4%E5%AE%B6%E5%88%B6%E8%8D%AF%E5%85%AC%E5%8F%B8",
-      "source": "rfi.fr",
-      "published": 1761686625
     },
     {
       "id": "36f5caadc795",
@@ -1402,5 +1402,5 @@
       "published": 1759652400
     }
   ],
-  "build_id": 1761770374
+  "build_id": 1761772149
 }
