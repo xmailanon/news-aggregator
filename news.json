@@ -1,6 +1,13 @@
 {
-  "updated": 1761777522,
+  "updated": 1761779363,
   "items": [
+    {
+      "id": "9c1e10bd5f48",
+      "title": "Fed 決策／ 鮑爾談話偏鷹 表明12月降息非定論",
+      "url": "https://money.udn.com/money/story/5599/9105704",
+      "source": "money.udn.com",
+      "published": 1761778169
+    },
     {
       "id": "1553138eb1b8",
       "title": "川習會擬談台灣？美眾議員籲川普堅定對台承諾",
@@ -226,13 +233,6 @@
       "published": 1761762324
     },
     {
-      "id": "7d6961256488",
-      "title": "聯準會再降息1碼　未來政策走向受矚",
-      "url": "https://money.udn.com/money/story/5599/9105605",
-      "source": "money.udn.com",
-      "published": 1761761553
-    },
-    {
       "id": "65fa535feb6b",
       "title": "韩国最迟到2035年将国防开支增至GDP的3.5% 美防长赞韩推动作战指挥权移交",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251029-%E9%9F%A9%E5%9B%BD%E6%9C%80%E8%BF%9F%E5%88%B02035%E5%B9%B4%E5%B0%86%E5%9B%BD%E9%98%B2%E5%BC%80%E6%94%AF%E5%A2%9E%E8%87%B3gdp%E7%9A%843-5-%E7%BE%8E%E9%98%B2%E9%95%BF%E8%B5%9E%E9%9F%A9%E6%8E%A8%E5%8A%A8%E4%BD%9C%E6%88%98%E6%8C%87%E6%8C%A5%E6%9D%83%E7%A7%BB%E4%BA%A4",
@@ -329,6 +329,13 @@
       "url": "https://udn.com/news/story/120821/9105274",
       "source": "udn.com",
       "published": 1761754394
+    },
+    {
+      "id": "90bcb213ab06",
+      "title": "全球房地产市场持续降温，亚太前景分化",
+      "url": "https://www.ftchinese.com/story/001108020",
+      "source": "ftchinese.com",
+      "published": 1761753600
     },
     {
       "id": "9e295111550c",
@@ -891,13 +898,6 @@
       "published": 1761580800
     },
     {
-      "id": "466e7d127051",
-      "title": "猪肉何以成为中国通胀标杆",
-      "url": "https://www.ftchinese.com/story/001107998",
-      "source": "ftchinese.com",
-      "published": 1761580800
-    },
-    {
       "id": "23acce4b4622",
       "title": "东盟峰会莫迪“放鸽子”：害怕与特朗普握手言欢？",
       "url": "https://www.dw.com/zh/东盟峰会莫迪-放鸽子-：害怕与特朗普握手言欢？/a-74514353?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1759652400
     }
   ],
-  "build_id": 1761777522
+  "build_id": 1761779363
 }
