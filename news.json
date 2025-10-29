@@ -1,6 +1,48 @@
 {
-  "updated": 1761723391,
+  "updated": 1761725668,
   "items": [
+    {
+      "id": "f4f673cfcb8b",
+      "title": "影／川普APEC企業峰會演說拋重商訊號 為川習會暖身",
+      "url": "https://money.udn.com/money/story/5599/9104516",
+      "source": "money.udn.com",
+      "published": 1761725467
+    },
+    {
+      "id": "1f8779a72359",
+      "title": "香港法治排名跌至全球第24位 历史新低 中国则回升至92位",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251029-%E9%A6%99%E6%B8%AF%E6%B3%95%E6%B2%BB%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B3%E5%85%A8%E7%90%83%E7%AC%AC24%E4%BD%8D-%E5%8E%86%E5%8F%B2%E6%96%B0%E4%BD%8E-%E4%B8%AD%E5%9B%BD%E5%88%99%E5%9B%9E%E5%8D%87%E8%87%B392%E4%BD%8D",
+      "source": "rfi.fr",
+      "published": 1761725417
+    },
+    {
+      "id": "bef902d9cd77",
+      "title": "堰塞湖引流後潰決…靳珩隧道、魯丹橋積水退去 中橫恢復管制放行",
+      "url": "https://udn.com/news/story/124616/9104397",
+      "source": "udn.com",
+      "published": 1761724913
+    },
+    {
+      "id": "bab1dafdcfc5",
+      "title": "政院明提移工新政策！卓榮泰：本勞加薪換增額度 資深獲永居",
+      "url": "https://udn.com/news/story/6656/9104439",
+      "source": "udn.com",
+      "published": 1761724013
+    },
+    {
+      "id": "8ee4db77d50e",
+      "title": "綠營派誰出戰2026台北市長？傳罷團力挺「他」 王世堅點名這些人",
+      "url": "https://udn.com/news/story/6656/9104409",
+      "source": "udn.com",
+      "published": 1761723880
+    },
+    {
+      "id": "8c614af72b2b",
+      "title": "熊闖學校等熊害頻傳　日本中央將提高因應層級",
+      "url": "https://money.udn.com/money/story/5599/9104411",
+      "source": "money.udn.com",
+      "published": 1761723465
+    },
     {
       "id": "7d8c612e3350",
       "title": "日美攜手砸800億美元蓋核電廠 核能會是 AI 電力需求的解方嗎？",
@@ -14,6 +56,13 @@
       "url": "https://money.udn.com/money/story/5599/9104405",
       "source": "money.udn.com",
       "published": 1761723315
+    },
+    {
+      "id": "decada63106d",
+      "title": "危機將解除！燕子口堰塞湖壩體幾乎完全沖毀 水位回原河道無災情",
+      "url": "https://udn.com/news/story/124616/9104367",
+      "source": "udn.com",
+      "published": 1761722585
     },
     {
       "id": "5cba3309c622",
@@ -38,7 +87,7 @@
     },
     {
       "id": "d0f7bc964dea",
-      "title": "川習會在即　川普：將與習近平談輝達Blackwell晶片",
+      "title": "川習會在即 川普：將與習近平談輝達 Blackwell 晶片",
       "url": "https://money.udn.com/money/story/10511/9104328",
       "source": "money.udn.com",
       "published": 1761721594
@@ -59,7 +108,7 @@
     },
     {
       "id": "d19024e10d12",
-      "title": "WTO生存危機　英貿易大臣：各國應維護多邊貿易體系",
+      "title": "WTO生存危機 英貿易大臣：各國應維護多邊貿易體系",
       "url": "https://money.udn.com/money/story/10511/9104318",
       "source": "money.udn.com",
       "published": 1761721240
@@ -136,7 +185,7 @@
     },
     {
       "id": "163427a027e7",
-      "title": "被周玉蔻罵「堅屁啦 醜又髒」 王世堅：不評論沒格調老太太",
+      "title": "被周玉蔻罵「堅屁啦、醜又髒」 王世堅：不評論沒格調老太太",
       "url": "https://udn.com/news/story/6656/9104223",
       "source": "udn.com",
       "published": 1761718909
@@ -240,20 +289,6 @@
       "published": 1761716635
     },
     {
-      "id": "8cbb47509b86",
-      "title": "川普結束日本行赴韓國　正面評價日相高市早苗",
-      "url": "https://money.udn.com/money/story/10511/9104069",
-      "source": "money.udn.com",
-      "published": 1761716257
-    },
-    {
-      "id": "b4e8db7f9498",
-      "title": "安世晶片供應干擾開始衝擊汽車生產 恐威脅全球車廠本季產量",
-      "url": "https://money.udn.com/money/story/5599/9104071",
-      "source": "money.udn.com",
-      "published": 1761716255
-    },
-    {
       "id": "8077c9103e4e",
       "title": "涉美濃大峽谷案地主被指為藍營議員助理 國民黨高雄市黨部嚴正抗議",
       "url": "https://udn.com/news/story/6656/9104063",
@@ -275,39 +310,11 @@
       "published": 1761715672
     },
     {
-      "id": "437191528b1b",
-      "title": "前原能會官員斷言 核能復興成全球趨勢建議政府取消除役計畫",
-      "url": "https://udn.com/news/story/7314/9104005",
-      "source": "udn.com",
-      "published": 1761714917
-    },
-    {
-      "id": "8d22f06542eb",
-      "title": "總統令：柯承亨准辭 任命張元斌為國安局副局長",
-      "url": "https://udn.com/news/story/6656/9103996",
-      "source": "udn.com",
-      "published": 1761714606
-    },
-    {
-      "id": "08bac0fec1c3",
-      "title": "王定宇爆：銀行KYC用大陸資料庫 機敏單位官兵申貸列高風險",
-      "url": "https://udn.com/news/story/10930/9103974",
-      "source": "udn.com",
-      "published": 1761714384
-    },
-    {
       "id": "93661ea9d55c",
       "title": "特朗普訪日觀察：稀土、諾貝爾獎提名與歡呼，午餐的日本食材和美國大米",
       "url": "https://www.bbc.com/zhongwen/articles/cly4jn18xpzo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1761714311
-    },
-    {
-      "id": "4af14f0870eb",
-      "title": "「少師化」引爆師生、家長集體焦慮 惡性循環如何解？",
-      "url": "https://udn.com/news/story/6656/9103809",
-      "source": "udn.com",
-      "published": 1761714000
     },
     {
       "id": "2799683bb2ff",
@@ -434,6 +441,20 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251028-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97-%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E7%A1%AE%E8%AE%A4%E4%BA%86%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%92%8C%E5%B9%B3%E7%A8%B3%E5%AE%9A%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7",
       "source": "rfi.fr",
       "published": 1761667250
+    },
+    {
+      "id": "942639bbdb4b",
+      "title": "为什么我买不到小尺寸智能手机？",
+      "url": "https://www.ftchinese.com/story/001108024",
+      "source": "ftchinese.com",
+      "published": 1761667200
+    },
+    {
+      "id": "0586cf5b6f7c",
+      "title": "从年赚百亿到年年亏损，高鑫能否打赢这场翻身战？",
+      "url": "https://www.ftchinese.com/story/001108023",
+      "source": "ftchinese.com",
+      "published": 1761667200
     },
     {
       "id": "877a6bd42627",
@@ -716,13 +737,6 @@
       "published": 1761600517
     },
     {
-      "id": "8f7575627081",
-      "title": "对第一夫人进行网络骚扰   法国8男、2女被告上法庭",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251027-%E5%AF%B9%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%BF%9B%E8%A1%8C%E7%BD%91%E7%BB%9C%E9%AA%9A%E6%89%B0-%E6%B3%95%E5%9B%BD8%E7%94%B7-2%E5%A5%B3%E8%A2%AB%E5%91%8A%E4%B8%8A%E6%B3%95%E5%BA%AD",
-      "source": "rfi.fr",
-      "published": 1761599758
-    },
-    {
       "id": "e1f205b992c3",
       "title": "“习特会”不只谈贸易，习近平或在台湾问题上施压",
       "url": "https://cn.nytimes.com/china/20251028/trump-tariffs-china-taiwan/?utm_source=RSS",
@@ -943,20 +957,6 @@
       "id": "59cfecb80edf",
       "title": "亚马逊云宕机反映出欧盟仍未正视该领域的风险",
       "url": "https://www.ftchinese.com/story/001108003",
-      "source": "ftchinese.com",
-      "published": 1761494400
-    },
-    {
-      "id": "b32fcc9e059d",
-      "title": "法国学者迪伦•莫廷：中国崛起会引发周边新的对冲",
-      "url": "https://www.ftchinese.com/story/001108002",
-      "source": "ftchinese.com",
-      "published": 1761494400
-    },
-    {
-      "id": "0a6871cda62f",
-      "title": "中国“十四五”规划亮点和“十五五”规划看点",
-      "url": "https://www.ftchinese.com/story/001108000",
       "source": "ftchinese.com",
       "published": 1761494400
     },
@@ -1402,5 +1402,5 @@
       "published": 1759137060
     }
   ],
-  "build_id": 1761723391
+  "build_id": 1761725668
 }
