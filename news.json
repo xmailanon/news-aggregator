@@ -1,6 +1,20 @@
 {
-  "updated": 1761734538,
+  "updated": 1761736162,
   "items": [
+    {
+      "id": "b3e62919ff68",
+      "title": "川普：美韓貿易協議「差不多」已敲定",
+      "url": "https://money.udn.com/money/story/5599/9104959",
+      "source": "money.udn.com",
+      "published": 1761735637
+    },
+    {
+      "id": "3a700efbe93e",
+      "title": "韩美首脑会谈：贸易谈判陷僵局 也未能促成特金会",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251029-%E9%9F%A9%E7%BE%8E%E9%A6%96%E8%84%91%E4%BC%9A%E8%B0%88-%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4%E9%99%B7%E5%83%B5%E5%B1%80-%E4%B9%9F%E6%9C%AA%E8%83%BD%E4%BF%83%E6%88%90%E7%89%B9%E9%87%91%E4%BC%9A",
+      "source": "rfi.fr",
+      "published": 1761735133
+    },
     {
       "id": "6295668967bb",
       "title": "特朗普：预计与习近平的会晤将顺利进行，时长或达4小时",
@@ -322,13 +336,6 @@
       "url": "https://money.udn.com/money/story/122381/9104401",
       "source": "money.udn.com",
       "published": 1761723347
-    },
-    {
-      "id": "3f9eceac2ab7",
-      "title": "【重磅快評】川普吹噓老技術見習近平 美中已進入同治年間",
-      "url": "https://money.udn.com/money/story/5599/9104405",
-      "source": "money.udn.com",
-      "published": 1761723315
     },
     {
       "id": "decada63106d",
@@ -679,13 +686,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251028-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%BC%E5%90%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%BD%E5%8E%8B-%E4%BF%83%E4%BD%BF%E4%B8%AD%E5%9B%BD%E5%87%8F%E5%B0%91%E4%BB%8E%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E8%BF%9B%E5%8F%A3%E9%87%8F",
       "source": "rfi.fr",
       "published": 1761647605
-    },
-    {
-      "id": "ce7ca9ea4e05",
-      "title": "日本首相高市早苗与美国总统特朗普会谈 双方誓言建立日美“新黄金时代”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251028-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%B0%88-%E5%8F%8C%E6%96%B9%E8%AA%93%E8%A8%80%E5%BB%BA%E7%AB%8B%E6%97%A5%E7%BE%8E-%E6%96%B0%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3",
-      "source": "rfi.fr",
-      "published": 1761646513
     },
     {
       "id": "a272b07d8128",
@@ -1388,5 +1388,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761734538
+  "build_id": 1761736162
 }
