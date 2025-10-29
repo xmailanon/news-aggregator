@@ -1,6 +1,48 @@
 {
-  "updated": 1761727534,
+  "updated": 1761729051,
   "items": [
+    {
+      "id": "2434c9e74798",
+      "title": "特习会在即，台湾国安局长表示：美方不会以台湾议题换取中共经贸优惠",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251029-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%9C%A8%E5%8D%B3%EF%BC%8C%E5%8F%B0%E6%B9%BE%E5%9B%BD%E5%AE%89%E5%B1%80%E9%95%BF%E8%A1%A8%E7%A4%BA-%E7%BE%8E%E6%96%B9%E4%B8%8D%E4%BC%9A%E4%BB%A5%E5%8F%B0%E6%B9%BE%E8%AE%AE%E9%A2%98%E6%8D%A2%E5%8F%96%E4%B8%AD%E5%85%B1%E7%BB%8F%E8%B4%B8%E4%BC%98%E6%83%A0",
+      "source": "rfi.fr",
+      "published": 1761728700
+    },
+    {
+      "id": "e3a2dcfccdc0",
+      "title": "無法協調合適時機　川普：亞洲行未能與金正恩會面",
+      "url": "https://money.udn.com/money/story/5599/9104666",
+      "source": "money.udn.com",
+      "published": 1761728424
+    },
+    {
+      "id": "d7e0d7f5d8c6",
+      "title": "輝達確定落腳北士科T17、T18 蔣萬安：目標明年中簽約",
+      "url": "https://udn.com/news/story/7314/9104648",
+      "source": "udn.com",
+      "published": 1761728285
+    },
+    {
+      "id": "2dc9dfd78f46",
+      "title": "聯準會可望再度降息　未來政策走向受關注",
+      "url": "https://money.udn.com/money/story/10511/9104637",
+      "source": "money.udn.com",
+      "published": 1761728063
+    },
+    {
+      "id": "5873efba73be",
+      "title": "李在明會川普　要求美國同意供應韓國核潛艦燃料",
+      "url": "https://money.udn.com/money/story/10511/9104639",
+      "source": "money.udn.com",
+      "published": 1761728063
+    },
+    {
+      "id": "162d906f38c6",
+      "title": "韓流席捲全球…釜山駐處讚BLACKPINK成功模式 盼台韓AI深化合作",
+      "url": "https://udn.com/news/story/7314/9104563",
+      "source": "udn.com",
+      "published": 1761727873
+    },
     {
       "id": "7a1752e390f2",
       "title": "物價衝擊日本中央新幹線　工程費飆升約8100億元",
@@ -9,11 +51,46 @@
       "published": 1761727562
     },
     {
+      "id": "0a7b1ccc1968",
+      "title": "卓榮泰：企業加薪可增聘外勞 跨國勞動力精進方案明拍板",
+      "url": "https://udn.com/news/story/6656/9104593",
+      "source": "udn.com",
+      "published": 1761727331
+    },
+    {
+      "id": "96c3f3e7d2fb",
+      "title": "川普樂觀看待川習會 專家料習近平態度強硬",
+      "url": "https://www.dw.com/zh/川普樂觀看待川習會-專家料習近平態度強硬/a-74535227?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1761727320
+    },
+    {
       "id": "c63cc4ef2523",
       "title": "「十五五」港澳重经济发展 首提「爱国者治港」未提外部势力 惟反台独势转强",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251029-%E5%8D%81%E4%BA%94%E4%BA%94-%E6%B8%AF%E6%BE%B3%E9%87%8D%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95-%E9%A6%96%E6%8F%90-%E7%88%B1%E5%9B%BD%E8%80%85%E6%B2%BB%E6%B8%AF-%E6%9C%AA%E6%8F%90%E5%A4%96%E9%83%A8%E5%8A%BF%E5%8A%9B-%E6%83%9F%E5%8F%8D%E5%8F%B0%E7%8B%AC%E5%8A%BF%E8%BD%AC%E5%BC%BA",
       "source": "rfi.fr",
       "published": 1761727244
+    },
+    {
+      "id": "8e3d726d692a",
+      "title": "張元斌回鍋國安局副局長 具科技背景可應對複合式威脅",
+      "url": "https://udn.com/news/story/10930/9104578",
+      "source": "udn.com",
+      "published": 1761727084
+    },
+    {
+      "id": "ef061815998c",
+      "title": "中方确认习近平周四会晤特朗普 日中拟周五举行首次首脑会谈",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251029-%E4%B8%AD%E6%96%B9%E7%A1%AE%E8%AE%A4%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%91%A8%E5%9B%9B%E4%BC%9A%E6%99%A4%E7%89%B9%E6%9C%97%E6%99%AE-%E6%97%A5%E4%B8%AD%E6%8B%9F%E5%91%A8%E4%BA%94%E4%B8%BE%E8%A1%8C%E9%A6%96%E6%AC%A1%E9%A6%96%E8%84%91%E4%BC%9A%E8%B0%88",
+      "source": "rfi.fr",
+      "published": 1761726979
+    },
+    {
+      "id": "1d525a5e5525",
+      "title": "政院擬通過精進跨國人力政策 製造業增額10％、中階技術人力100%留用",
+      "url": "https://udn.com/news/story/6656/9104558",
+      "source": "udn.com",
+      "published": 1761726618
     },
     {
       "id": "686ad11917a0",
@@ -219,13 +296,6 @@
       "published": 1761720070
     },
     {
-      "id": "8c980f225a04",
-      "title": "影/梅麗莎重返怪物級颶風！NASA曝風暴中心衛星圖 古巴急撤73萬人",
-      "url": "https://money.udn.com/money/story/5599/9104254",
-      "source": "money.udn.com",
-      "published": 1761719777
-    },
-    {
       "id": "2f696e9e2b11",
       "title": "民眾黨通過2026年首波提名 現任北市4席、竹市2席議員拚連任",
       "url": "https://udn.com/news/story/6656/9104247",
@@ -254,13 +324,6 @@
       "published": 1761718660
     },
     {
-      "id": "e262e71c20ef",
-      "title": "大陸終於下單了！川習會前夕「恢復採購美國大豆」美中釋1訊號",
-      "url": "https://money.udn.com/money/story/5599/9104209",
-      "source": "money.udn.com",
-      "published": 1761718644
-    },
-    {
       "id": "29a08f629795",
       "title": "會見宋濤引民進黨攻擊 蕭旭岑：政治惡鬥沒有回應價值",
       "url": "https://udn.com/news/story/6656/9104198",
@@ -268,53 +331,11 @@
       "published": 1761718505
     },
     {
-      "id": "7df6902a92d7",
-      "title": "SK海力士單季獲利創歷史新高　押注晶片「超級循環」",
-      "url": "https://money.udn.com/money/story/5599/9104187",
-      "source": "money.udn.com",
-      "published": 1761718354
-    },
-    {
       "id": "1958d40824ea",
       "title": "影／反對增加國防預算 鄭麗文：台灣不是提款機、印鈔機",
       "url": "https://udn.com/news/story/122404/9104175",
       "source": "udn.com",
       "published": 1761718052
-    },
-    {
-      "id": "0dca06a49dc4",
-      "title": "影／回應習近平賀電  鄭麗文：兩岸底線是和平與尊重台灣民意",
-      "url": "https://udn.com/news/story/122404/9104138",
-      "source": "udn.com",
-      "published": 1761717527
-    },
-    {
-      "id": "18d74f649115",
-      "title": "接國民黨北市黨部主委？戴錫欽：第一優先仍推薦黃呂錦茹回任",
-      "url": "https://udn.com/news/story/122404/9104130",
-      "source": "udn.com",
-      "published": 1761717350
-    },
-    {
-      "id": "7fb7ddde01da",
-      "title": "朱立倫總辭黨務 鄭麗文：把這看作善意給新主席最大人事空間",
-      "url": "https://udn.com/news/story/122404/9104117",
-      "source": "udn.com",
-      "published": 1761717125
-    },
-    {
-      "id": "8164ab99a29c",
-      "title": "部隊鍋 EP242｜Eagle Eye有何創新？共同圖像放到單兵上 能實現無法想像的科幻？",
-      "url": "https://udn.com/news/story/10930/9104114",
-      "source": "udn.com",
-      "published": 1761716973
-    },
-    {
-      "id": "b298d892a4ae",
-      "title": "稱風災光電板損壞「序號盤點不可行」 陳菁徽秀經濟部公文打臉環境部",
-      "url": "https://udn.com/news/story/6656/9104105",
-      "source": "udn.com",
-      "published": 1761716805
     },
     {
       "id": "e4c42f3ed620",
@@ -730,25 +751,11 @@
       "published": 1761610686
     },
     {
-      "id": "e280b974f80e",
-      "title": "欧洲工业界担心掉入北京的稀土坑，欧盟威胁动用反胁迫机制回击",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251027-%E6%AC%A7%E6%B4%B2%E5%B7%A5%E4%B8%9A%E7%95%8C%E6%8B%85%E5%BF%83%E6%8E%89%E5%85%A5%E5%8C%97%E4%BA%AC%E7%9A%84%E7%A8%80%E5%9C%9F%E5%9D%91%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%A8%81%E8%83%81%E5%8A%A8%E7%94%A8%E5%8F%8D%E8%83%81%E8%BF%AB%E6%9C%BA%E5%88%B6%E5%9B%9E%E5%87%BB",
-      "source": "rfi.fr",
-      "published": 1761606578
-    },
-    {
       "id": "e1f205b992c3",
       "title": "“习特会”不只谈贸易，习近平或在台湾问题上施压",
       "url": "https://cn.nytimes.com/china/20251028/trump-tariffs-china-taiwan/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1761596851
-    },
-    {
-      "id": "d51191e41d98",
-      "title": "稀土出口管制：北京将给美国松绑 欧盟呢？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251027-%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E5%8C%97%E4%BA%AC%E5%B0%86%E7%BB%99%E7%BE%8E%E5%9B%BD%E6%9D%BE%E7%BB%91%E5%90%97-%E6%AC%A7%E7%9B%9F%E5%91%A2",
-      "source": "rfi.fr",
-      "published": 1761594723
     },
     {
       "id": "348e79a149a8",
@@ -1136,23 +1143,9 @@
       "published": 1761244517
     },
     {
-      "id": "c81e5cb63334",
-      "title": "军队“反腐沙皇”张升民晋升军委副主席",
-      "url": "https://www.dw.com/zh/军队-反腐沙皇-张升民晋升军委副主席/a-74474125?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1761229560
-    },
-    {
       "id": "b198acadd743",
       "title": "德语媒体：对华依赖正在吞噬我们的繁荣",
       "url": "https://www.dw.com/zh/德语媒体：对华依赖正在吞噬我们的繁荣/a-74473200?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1761229080
-    },
-    {
-      "id": "9b0a15ac2be9",
-      "title": "四中全会公报：中共如何概述其核心政策目标？",
-      "url": "https://www.dw.com/zh/四中全会公报：中共如何概述其核心政策目标？/a-74472274?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761229080
     },
@@ -1402,5 +1395,5 @@
       "published": 1759137060
     }
   ],
-  "build_id": 1761727534
+  "build_id": 1761729051
 }
