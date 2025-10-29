@@ -1,6 +1,13 @@
 {
-  "updated": 1761764875,
+  "updated": 1761766314,
   "items": [
+    {
+      "id": "b3946c8b845e",
+      "title": "美聯準會宣布今年二度降息 調降一碼",
+      "url": "https://money.udn.com/money/story/5599/9105619",
+      "source": "money.udn.com",
+      "published": 1761765270
+    },
     {
       "id": "db884758a930",
       "title": "「川習會」今登場！ 韓媒：川普中午前就搭機返美 白宮還有萬聖節活動",
@@ -147,13 +154,6 @@
       "url": "https://money.udn.com/money/story/5599/9105440",
       "source": "money.udn.com",
       "published": 1761756626
-    },
-    {
-      "id": "fdba41f1cc63",
-      "title": "拚美製 輝達預告先進封裝快來了 外界預料美商艾克爾拔頭籌",
-      "url": "https://money.udn.com/money/story/5599/9105442",
-      "source": "money.udn.com",
-      "published": 1761756574
     },
     {
       "id": "6293b17e1301",
@@ -1402,5 +1402,5 @@
       "published": 1759652400
     }
   ],
-  "build_id": 1761764875
+  "build_id": 1761766314
 }
