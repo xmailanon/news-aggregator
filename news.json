@@ -1,6 +1,27 @@
 {
-  "updated": 1761745665,
+  "updated": 1761747030,
   "items": [
+    {
+      "id": "bb4e7d7f7418",
+      "title": "沈伯洋遭大陸公安立案偵查 外交部：長臂管轄製造寒蟬效應",
+      "url": "https://udn.com/news/story/6656/9105276",
+      "source": "udn.com",
+      "published": 1761746576
+    },
+    {
+      "id": "9dfafb83ea91",
+      "title": "白宮：川習會10月30日上午10時舉行",
+      "url": "https://money.udn.com/money/story/5599/9105286",
+      "source": "money.udn.com",
+      "published": 1761746442
+    },
+    {
+      "id": "8e2819c3c43b",
+      "title": "慶州或釜山 川習會地點鬧雙胞？中國駐美大使館推文有玄機",
+      "url": "https://money.udn.com/money/story/5599/9105279",
+      "source": "money.udn.com",
+      "published": 1761746171
+    },
     {
       "id": "79e92a7bc1ee",
       "title": "輝達再創里程碑　成全球首家市值破5兆美元企業",
@@ -14,6 +35,20 @@
       "url": "https://money.udn.com/money/story/123398/9105255",
       "source": "money.udn.com",
       "published": 1761745370
+    },
+    {
+      "id": "1d35ebf9feea",
+      "title": "外界關切中選會委員提名 政院：發函朝野黨團搜集推薦人選",
+      "url": "https://udn.com/news/story/6656/9105227",
+      "source": "udn.com",
+      "published": 1761745166
+    },
+    {
+      "id": "96be35fe9eb7",
+      "title": "特朗普称协定几已达成 首尔承诺在美投资3500亿美元",
+      "url": "https://www.dw.com/zh/特朗普称协定几已达成-首尔承诺在美投资3500亿美元/a-74542566?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1761745140
     },
     {
       "id": "2a337516f8de",
@@ -191,20 +226,6 @@
       "published": 1761740083
     },
     {
-      "id": "0416ff91122f",
-      "title": "輝達推出新系統 NVQLink 將把量子計算機與其 AI 晶片連接",
-      "url": "https://money.udn.com/money/story/5599/9104479",
-      "source": "money.udn.com",
-      "published": 1761739459
-    },
-    {
-      "id": "8b67a808b1e9",
-      "title": "英國首相：不接受任何人施壓影響中國使館建案裁決",
-      "url": "https://money.udn.com/money/story/5599/9105085",
-      "source": "money.udn.com",
-      "published": 1761739236
-    },
-    {
       "id": "dc2505fa2341",
       "title": "連兩起意外…外界瘋猜美軍軍機失事原因  軍事專家：應思考兩事件關聯性",
       "url": "https://udn.com/news/story/10930/9105041",
@@ -373,25 +394,11 @@
       "published": 1761725942
     },
     {
-      "id": "5607a49ee7e0",
-      "title": "下一步動向？柯承亨辭卸國安局副局長 傳將出任國防院執行長",
-      "url": "https://udn.com/news/story/10930/9104527",
-      "source": "udn.com",
-      "published": 1761725569
-    },
-    {
       "id": "1f8779a72359",
       "title": "香港法治排名跌至全球第24位 历史新低 中国则回升至92位",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251029-%E9%A6%99%E6%B8%AF%E6%B3%95%E6%B2%BB%E6%8E%92%E5%90%8D%E8%B7%8C%E8%87%B3%E5%85%A8%E7%90%83%E7%AC%AC24%E4%BD%8D-%E5%8E%86%E5%8F%B2%E6%96%B0%E4%BD%8E-%E4%B8%AD%E5%9B%BD%E5%88%99%E5%9B%9E%E5%8D%87%E8%87%B392%E4%BD%8D",
       "source": "rfi.fr",
       "published": 1761725417
-    },
-    {
-      "id": "163fd2ca197d",
-      "title": "燕子口堰塞湖潰散 台8線東段預計下午5時放行「天祥至太魯閣」",
-      "url": "https://udn.com/news/story/124616/9104512",
-      "source": "udn.com",
-      "published": 1761725225
     },
     {
       "id": "ef4f2c6aa996",
@@ -1395,5 +1402,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761745665
+  "build_id": 1761747030
 }
