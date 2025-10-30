@@ -1,6 +1,27 @@
 {
-  "updated": 1761833402,
+  "updated": 1761835282,
   "items": [
+    {
+      "id": "70b2fb643637",
+      "title": "特朗普与习近平会晤 同意缓和贸易冲突",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251030-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E6%99%A4-%E5%90%8C%E6%84%8F%E7%BC%93%E5%92%8C%E8%B4%B8%E6%98%93%E5%86%B2%E7%AA%81",
+      "source": "rfi.fr",
+      "published": 1761834869
+    },
+    {
+      "id": "0015a68de92d",
+      "title": "烏克蘭學者分析中美關係回暖  對莫斯科是大災難",
+      "url": "https://money.udn.com/money/story/5599/9107863",
+      "source": "money.udn.com",
+      "published": 1761834694
+    },
+    {
+      "id": "1106acb58b3c",
+      "title": "歐洲央行維持基準利率2%按兵不動　符合預期",
+      "url": "https://money.udn.com/money/story/5599/9107830",
+      "source": "money.udn.com",
+      "published": 1761833540
+    },
     {
       "id": "ac484a94c4af",
       "title": "三星晶片業務利潤猛增 人工智慧推動內存晶片需求",
@@ -168,20 +189,6 @@
       "url": "https://money.udn.com/money/story/5599/9107699",
       "source": "money.udn.com",
       "published": 1761828869
-    },
-    {
-      "id": "caf1112dc0ed",
-      "title": "大街罵人小巷道歉...川普政府悄悄付清去年拖欠 WTO 的會費",
-      "url": "https://money.udn.com/money/story/5599/9107688",
-      "source": "money.udn.com",
-      "published": 1761828659
-    },
-    {
-      "id": "e9617a769aec",
-      "title": "日本防熊通知  學生帶寶特瓶發噪音、走路不拿食物",
-      "url": "https://money.udn.com/money/story/5599/9107683",
-      "source": "money.udn.com",
-      "published": 1761828310
     },
     {
       "id": "a1e7d9623c72",
@@ -770,13 +777,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251029-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%B0%88%E7%BE%8E%E4%B8%AD%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E6%99%A4-%E6%88%91%E4%BB%AC%E5%8F%AA%E5%BA%94%E5%90%91%E4%BE%B5%E7%95%A5%E8%80%85%E6%96%BD%E5%8E%8B",
       "source": "rfi.fr",
       "published": 1761733157
-    },
-    {
-      "id": "fa13035b0aab",
-      "title": "特朗普：预计将降低就芬太尼问题对华加征的关税 或与习近平谈英伟达问题",
-      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251029-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%A2%84%E8%AE%A1%E5%B0%86%E9%99%8D%E4%BD%8E%E5%B0%B1%E8%8A%AC%E5%A4%AA%E5%B0%BC%E9%97%AE%E9%A2%98%E5%AF%B9%E5%8D%8E%E5%8A%A0%E5%BE%81%E7%9A%84%E5%85%B3%E7%A8%8E-%E6%88%96%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%88%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%97%AE%E9%A2%98",
-      "source": "rfi.fr",
-      "published": 1761731182
     },
     {
       "id": "e4c42f3ed620",
@@ -1388,5 +1388,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761833402
+  "build_id": 1761835282
 }
