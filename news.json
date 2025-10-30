@@ -1,10 +1,31 @@
 {
-  "updated": 1761865745,
+  "updated": 1761867186,
   "items": [
     {
-      "id": "47849cf8345e",
-      "title": "美股被微軟、Meta拖累 AI支出引發疑慮 市場提前消化川習會利多",
-      "url": "https://money.udn.com/money/story/5599/9108273",
+      "id": "1f0e294ae3a3",
+      "title": "分析：川習會為貿易戰降溫　未改美中全面競爭態勢",
+      "url": "https://money.udn.com/money/story/10511/9108288",
+      "source": "money.udn.com",
+      "published": 1761867392
+    },
+    {
+      "id": "39037379484b",
+      "title": "台積電ADR跌 0.6% 較台北交易溢價23.7%",
+      "url": "https://money.udn.com/money/story/5599/9108286",
+      "source": "money.udn.com",
+      "published": 1761867269
+    },
+    {
+      "id": "5b371430aa2b",
+      "title": "女共諜朱諶之父兄、丈夫皆國民黨 6頁自白書曝投共轉折",
+      "url": "https://udn.com/news/story/10930/9106547",
+      "source": "udn.com",
+      "published": 1761867000
+    },
+    {
+      "id": "82c149839f5c",
+      "title": "美股收盤／主要指數被微軟、Meta 拖累 AI 支出引發疑慮 市場提前消化川習會利多",
+      "url": "https://money.udn.com/money/story/123398/9108273",
       "source": "money.udn.com",
       "published": 1761865893
     },
@@ -35,6 +56,13 @@
       "url": "https://money.udn.com/money/story/5599/9108206",
       "source": "money.udn.com",
       "published": 1761862411
+    },
+    {
+      "id": "e5592d107911",
+      "title": "川習會未談台灣 美學者：大陸可能怕籌碼不夠",
+      "url": "https://udn.com/news/story/124643/9108206",
+      "source": "udn.com",
+      "published": 1761861780
     },
     {
       "id": "d382422fb573",
@@ -149,13 +177,6 @@
       "published": 1761855164
     },
     {
-      "id": "e5592d107911",
-      "title": "川習會未談台灣 美學者：大陸可能怕籌碼不夠",
-      "url": "https://udn.com/news/story/124643/9108206",
-      "source": "udn.com",
-      "published": 1761854625
-    },
-    {
       "id": "9fb008824eba",
       "title": "葉騰有望成荷蘭最年輕總理　中間路線面臨右派挑戰",
       "url": "https://money.udn.com/money/story/5599/9108196",
@@ -254,25 +275,11 @@
       "published": 1761846308
     },
     {
-      "id": "6bb173580cd1",
-      "title": "以色列稱透過紅十字會接收2人質遺體　身分待鑑定",
-      "url": "https://money.udn.com/money/story/5599/9108152",
-      "source": "money.udn.com",
-      "published": 1761845450
-    },
-    {
       "id": "9298449bec79",
       "title": "泽连斯基：中国加入阻止俄罗斯扩大延长战争的努力很重要",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251030-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%85%A5%E9%98%BB%E6%AD%A2%E4%BF%84%E7%BD%97%E6%96%AF%E6%89%A9%E5%A4%A7%E5%BB%B6%E9%95%BF%E6%88%98%E4%BA%89%E7%9A%84%E5%8A%AA%E5%8A%9B%E5%BE%88%E9%87%8D%E8%A6%81",
       "source": "rfi.fr",
       "published": 1761845290
-    },
-    {
-      "id": "82811792076b",
-      "title": "川習會面 貿易戰大降溫 雙方貿易緊張關係明顯緩和",
-      "url": "https://money.udn.com/money/story/5599/9108027",
-      "source": "money.udn.com",
-      "published": 1761844800
     },
     {
       "id": "59ad4acc13f8",
@@ -338,6 +345,27 @@
       "published": 1761840001
     },
     {
+      "id": "96219529792c",
+      "title": "市场的悲欢并不相通：巴黎巴塞尔的氛围体验",
+      "url": "https://www.ftchinese.com/story/001108019",
+      "source": "ftchinese.com",
+      "published": 1761840000
+    },
+    {
+      "id": "a080c3fe5edf",
+      "title": "每周时事分析：要不“G2”，要不继续斗争",
+      "url": "https://www.ftchinese.com/story/001108045",
+      "source": "ftchinese.com",
+      "published": 1761840000
+    },
+    {
+      "id": "5b610a41913f",
+      "title": "当美国制造不确定，中国的机会在哪里？",
+      "url": "https://www.ftchinese.com/story/001108021",
+      "source": "ftchinese.com",
+      "published": 1761840000
+    },
+    {
       "id": "92ec4a92af20",
       "title": "新聞眼／川習會我陷邊緣化危機 政府如何確保利益不被犧牲？",
       "url": "https://udn.com/news/story/124643/9108024",
@@ -362,13 +390,6 @@
       "id": "2739e0029b08",
       "title": "朱立倫勉鄭麗文 任勞任怨任謗",
       "url": "https://udn.com/news/story/122404/9107952",
-      "source": "udn.com",
-      "published": 1761840000
-    },
-    {
-      "id": "e2cf70e3c0e9",
-      "title": "歷史上的今天／1963年全台4地萬人唱軍歌 為總統暖壽",
-      "url": "https://udn.com/news/story/7314/9106010",
       "source": "udn.com",
       "published": 1761840000
     },
@@ -866,27 +887,6 @@
       "id": "942639bbdb4b",
       "title": "为什么我买不到小尺寸智能手机？",
       "url": "https://www.ftchinese.com/story/001108024",
-      "source": "ftchinese.com",
-      "published": 1761667200
-    },
-    {
-      "id": "0586cf5b6f7c",
-      "title": "从年赚百亿到年年亏损，高鑫能否打赢这场翻身战？",
-      "url": "https://www.ftchinese.com/story/001108023",
-      "source": "ftchinese.com",
-      "published": 1761667200
-    },
-    {
-      "id": "877a6bd42627",
-      "title": "特朗普称将下调对中国加征的“芬太尼关税”",
-      "url": "https://www.ftchinese.com/story/001108022",
-      "source": "ftchinese.com",
-      "published": 1761667200
-    },
-    {
-      "id": "5326360f1dde",
-      "title": "李巍、邹玥：中美产业政治学的兴起",
-      "url": "https://www.ftchinese.com/story/001108018",
       "source": "ftchinese.com",
       "published": 1761667200
     },
@@ -1395,5 +1395,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761865745
+  "build_id": 1761867186
 }
