@@ -1,6 +1,20 @@
 {
-  "updated": 1761855053,
+  "updated": 1761856734,
   "items": [
+    {
+      "id": "e5f4f1dcdacd",
+      "title": "美政府削減難民收容上限至7500人　優先考慮南非白人",
+      "url": "https://money.udn.com/money/story/10511/9108210",
+      "source": "money.udn.com",
+      "published": 1761856592
+    },
+    {
+      "id": "f210c45a4900",
+      "title": "投資人評估美中貿易休兵　國際油價持穩",
+      "url": "https://money.udn.com/money/story/5599/9108207",
+      "source": "money.udn.com",
+      "published": 1761855164
+    },
     {
       "id": "0311fd1cb570",
       "title": "川習會未談台灣 美學者：大陸可能怕籌碼不夠",
@@ -16,9 +30,9 @@
       "published": 1761854085
     },
     {
-      "id": "005cb815b853",
+      "id": "0cdfa71cd735",
       "title": "美財長：中國未來3年購7500萬噸黃豆　回復正常量",
-      "url": "https://money.udn.com/money/story/10511/9108195",
+      "url": "https://money.udn.com/money/story/5599/9108195",
       "source": "money.udn.com",
       "published": 1761854049
     },
@@ -210,20 +224,6 @@
       "url": "https://udn.com/news/story/7314/9107980",
       "source": "udn.com",
       "published": 1761840672
-    },
-    {
-      "id": "cb007ae97564",
-      "title": "字母 營收優於預期",
-      "url": "https://money.udn.com/money/story/123398/9108012",
-      "source": "money.udn.com",
-      "published": 1761840671
-    },
-    {
-      "id": "d78f5ee9b58a",
-      "title": "微軟 高成本添疑慮",
-      "url": "https://money.udn.com/money/story/123398/9108014",
-      "source": "money.udn.com",
-      "published": 1761840655
     },
     {
       "id": "34817b9bfded",
@@ -1395,5 +1395,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761855053
+  "build_id": 1761856734
 }
