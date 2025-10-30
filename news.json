@@ -1,6 +1,41 @@
 {
-  "updated": 1761835282,
+  "updated": 1761837083,
   "items": [
+    {
+      "id": "43b41648d445",
+      "title": "台美談判持續進行中 鄭麗君：APEC後若達共識將進行總結會商",
+      "url": "https://udn.com/news/story/6656/9107914",
+      "source": "udn.com",
+      "published": 1761836568
+    },
+    {
+      "id": "f3989c0ff760",
+      "title": "簡又新喊話重新思考核能政策 曾文生：找國外專家協助安檢",
+      "url": "https://udn.com/news/story/6656/9107931",
+      "source": "udn.com",
+      "published": 1761836326
+    },
+    {
+      "id": "96d38fcafc1f",
+      "title": "賴總統：「近零碳建築」推動提升到國家核心戰略層次",
+      "url": "https://udn.com/news/story/6656/9107926",
+      "source": "udn.com",
+      "published": 1761836226
+    },
+    {
+      "id": "358cdeabe261",
+      "title": "川普與習近平會晤前氣氛轉暖 中美關係紛亂九個月後能否迎來轉機",
+      "url": "https://money.udn.com/money/story/5599/9105776",
+      "source": "money.udn.com",
+      "published": 1761836207
+    },
+    {
+      "id": "6cdb156dbada",
+      "title": "贝森特：我们将掌控自己的命运，不再让供应链中有任何咽喉点",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251030-%E8%B4%9D%E6%A3%AE%E7%89%B9-%E6%88%91%E4%BB%AC%E5%B0%86%E6%8E%8C%E6%8E%A7%E8%87%AA%E5%B7%B1%E7%9A%84%E5%91%BD%E8%BF%90%EF%BC%8C%E4%B8%8D%E5%86%8D%E8%AE%A9%E4%BE%9B%E5%BA%94%E9%93%BE%E4%B8%AD%E6%9C%89%E4%BB%BB%E4%BD%95%E5%92%BD%E5%96%89%E7%82%B9",
+      "source": "rfi.fr",
+      "published": 1761835440
+    },
     {
       "id": "70b2fb643637",
       "title": "特朗普与习近平会晤 同意缓和贸易冲突",
@@ -184,13 +219,6 @@
       "published": 1761828870
     },
     {
-      "id": "8d740317767a",
-      "title": "俄軍轟炸能源設施　烏克蘭限制全國電力供應",
-      "url": "https://money.udn.com/money/story/5599/9107699",
-      "source": "money.udn.com",
-      "published": 1761828869
-    },
-    {
       "id": "a1e7d9623c72",
       "title": "綠指鄭麗文是麻煩製造者 國民黨：繼續務實處理兩岸問題",
       "url": "https://udn.com/news/story/6656/9107659",
@@ -308,27 +336,6 @@
       "url": "https://udn.com/news/story/6656/9107449",
       "source": "udn.com",
       "published": 1761820984
-    },
-    {
-      "id": "cfce80cdc0fd",
-      "title": "58歲「國民爸爸」曝開餐廳黑歷史！ 「遭好友騙上千萬」幽默談人生起伏",
-      "url": "https://udn.com/news/story/123693/9107130",
-      "source": "udn.com",
-      "published": 1761820740
-    },
-    {
-      "id": "2116e9979176",
-      "title": "【重磅快評】川習會未提台灣，賴清德打幾分？",
-      "url": "https://udn.com/news/story/6656/9107434",
-      "source": "udn.com",
-      "published": 1761820589
-    },
-    {
-      "id": "ad34c6d98b78",
-      "title": "歷經2小時取得共識！馬太鞍堰塞湖災後重建特別條例 立院拚31日三讀",
-      "url": "https://udn.com/news/story/124616/9107424",
-      "source": "udn.com",
-      "published": 1761820577
     },
     {
       "id": "6cc1af884b86",
@@ -770,13 +777,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251029-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%A2%84%E8%AE%A1%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E4%BC%9A%E6%99%A4%E5%B0%86%E9%A1%BA%E5%88%A9%E8%BF%9B%E8%A1%8C%EF%BC%8C%E6%97%B6%E9%95%BF%E6%88%96%E8%BE%BE4%E5%B0%8F%E6%97%B6",
       "source": "rfi.fr",
       "published": 1761733941
-    },
-    {
-      "id": "4bc41000108c",
-      "title": "泽连斯基谈美中领导人会晤：我们只应向侵略者施压",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251029-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%B0%88%E7%BE%8E%E4%B8%AD%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E6%99%A4-%E6%88%91%E4%BB%AC%E5%8F%AA%E5%BA%94%E5%90%91%E4%BE%B5%E7%95%A5%E8%80%85%E6%96%BD%E5%8E%8B",
-      "source": "rfi.fr",
-      "published": 1761733157
     },
     {
       "id": "e4c42f3ed620",
@@ -1388,5 +1388,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761835282
+  "build_id": 1761837083
 }
