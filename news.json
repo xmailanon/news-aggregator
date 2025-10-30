@@ -1,6 +1,13 @@
 {
-  "updated": 1761842713,
+  "updated": 1761844189,
   "items": [
+    {
+      "id": "32f412c3145a",
+      "title": "會談沒驚喜 亞股走低",
+      "url": "https://money.udn.com/money/story/5599/9108049",
+      "source": "money.udn.com",
+      "published": 1761842916
+    },
     {
       "id": "8b148a3abf95",
       "title": "美中達協議…脆弱的休兵 仍未解決根本的問題",
@@ -51,9 +58,9 @@
       "published": 1761840712
     },
     {
-      "id": "140a99baa7fb",
+      "id": "c613387cd9a2",
       "title": "簡又新提3原則評估重啟核能 府：需社會共識等3原則",
-      "url": "https://udn.com/news/story/6656/9107980",
+      "url": "https://udn.com/news/story/7314/9107980",
       "source": "udn.com",
       "published": 1761840672
     },
@@ -212,9 +219,9 @@
       "published": 1761836568
     },
     {
-      "id": "f3989c0ff760",
+      "id": "821b941e8268",
       "title": "簡又新喊話重新思考核能政策 曾文生：找國外專家協助安檢",
-      "url": "https://udn.com/news/story/6656/9107931",
+      "url": "https://udn.com/news/story/7314/9107931",
       "source": "udn.com",
       "published": 1761836326
     },
@@ -280,13 +287,6 @@
       "url": "https://money.udn.com/money/story/123398/9107820",
       "source": "money.udn.com",
       "published": 1761833147
-    },
-    {
-      "id": "c157ecc9b957",
-      "title": "川普對俄羅斯石油的制裁效果 將在中美元首峰會上面臨初期考驗",
-      "url": "https://money.udn.com/money/story/5599/9105883",
-      "source": "money.udn.com",
-      "published": 1761833060
     },
     {
       "id": "0bf6e612856a",
@@ -1395,5 +1395,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761842713
+  "build_id": 1761844189
 }
