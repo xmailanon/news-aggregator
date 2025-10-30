@@ -1,6 +1,48 @@
 {
-  "updated": 1761804911,
+  "updated": 1761806860,
   "items": [
+    {
+      "id": "cd7b23019e55",
+      "title": "川普：中國將大量購買美國黃豆等農產品",
+      "url": "https://money.udn.com/money/story/10511/9106765",
+      "source": "money.udn.com",
+      "published": 1761805824
+    },
+    {
+      "id": "5761d0cd8f6f",
+      "title": "陸委會揭中共宗教統戰手法 介紹台灣年輕人姻緣配對",
+      "url": "https://udn.com/news/story/6656/9106750",
+      "source": "udn.com",
+      "published": 1761805741
+    },
+    {
+      "id": "e88ed0e2f4cd",
+      "title": "俄羅斯成功試射核動力無人載具　川普下令恢復核試",
+      "url": "https://money.udn.com/money/story/10511/9106748",
+      "source": "money.udn.com",
+      "published": 1761805293
+    },
+    {
+      "id": "5f8995322a4f",
+      "title": "荷蘭國會大選　極右派與親歐中間派政黨旗鼓相當",
+      "url": "https://money.udn.com/money/story/5599/9106747",
+      "source": "money.udn.com",
+      "published": 1761805291
+    },
+    {
+      "id": "108ae9fca3c0",
+      "title": "日相高市訪韓參加APEC　出發前參加安倍丈人追思會",
+      "url": "https://money.udn.com/money/story/5599/9106743",
+      "source": "money.udn.com",
+      "published": 1761805291
+    },
+    {
+      "id": "fb0a1f6e6a64",
+      "title": "外交部組團赴瓜地馬拉貝里斯考察 擬推旅展方案",
+      "url": "https://udn.com/news/story/6656/9106696",
+      "source": "udn.com",
+      "published": 1761805135
+    },
     {
       "id": "659104c4b23f",
       "title": "川習會後不確定仍高 金價上漲 油價下跌 那斯達克期指搖擺",
@@ -14,6 +56,13 @@
       "url": "https://money.udn.com/money/story/5599/9106716",
       "source": "money.udn.com",
       "published": 1761804704
+    },
+    {
+      "id": "5c0fcc7841f4",
+      "title": "邱議瑩為「西瓜、蓮霧說」批柯志恩尖酸刻薄 藍回擊：林飛帆說過",
+      "url": "https://udn.com/news/story/6656/9106708",
+      "source": "udn.com",
+      "published": 1761804566
     },
     {
       "id": "ca53e27836e1",
@@ -240,60 +289,11 @@
       "published": 1761800453
     },
     {
-      "id": "001520bb95e8",
-      "title": "川普重大宣布：對中國的芬太尼關稅從20%降至10%",
-      "url": "https://money.udn.com/money/story/5599/9106488",
-      "source": "money.udn.com",
-      "published": 1761800255
-    },
-    {
-      "id": "cfaf96ffaec4",
-      "title": "川普睽違6年會習近平　地點選釜山機場有原因",
-      "url": "https://money.udn.com/money/story/10511/9106482",
-      "source": "money.udn.com",
-      "published": 1761800078
-    },
-    {
-      "id": "660946ca2563",
-      "title": "想想論壇再復出捍衛「小英遺產」 反洩對賴執政憂心？",
-      "url": "https://udn.com/news/story/6656/9106479",
-      "source": "udn.com",
-      "published": 1761799956
-    },
-    {
-      "id": "de70db125850",
-      "title": "川習會後空軍一號開講！川普：完全沒談台灣 立即下調對中芬太尼關稅",
-      "url": "https://money.udn.com/money/story/5599/9106475",
-      "source": "money.udn.com",
-      "published": 1761799890
-    },
-    {
-      "id": "f7df44b67e65",
-      "title": "爆醫療攻防演練用陸製網通設備 黃國昌：洪奇昌撐腰 數發部不敢有動作",
-      "url": "https://udn.com/news/story/6656/9106473",
-      "source": "udn.com",
-      "published": 1761799725
-    },
-    {
       "id": "bdeebfdd62b8",
       "title": "特朗普聲稱美國將恢復核武試驗，上一次核爆發生在1992年",
       "url": "https://www.bbc.com/zhongwen/articles/cly91vn4x9vo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1761799603
-    },
-    {
-      "id": "791e2e073acc",
-      "title": "美對西班牙橄欖加徵關稅　世貿裁定歐盟可祭反制措施",
-      "url": "https://money.udn.com/money/story/10511/9106461",
-      "source": "money.udn.com",
-      "published": 1761799533
-    },
-    {
-      "id": "6fd3fc341ab2",
-      "title": "川習會落幕 台旅美學者觀察：會談以經貿為主軸",
-      "url": "https://udn.com/news/story/6656/9106455",
-      "source": "udn.com",
-      "published": 1761799414
     },
     {
       "id": "825d3bf2fdfe",
@@ -455,6 +455,20 @@
       "url": "https://www.dw.com/zh/nasa静音超音速客机x-59完成首次试飞/a-74545899?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761754560
+    },
+    {
+      "id": "ae0096dee6d6",
+      "title": "特朗普盛赞美中领导人会晤",
+      "url": "https://www.ftchinese.com/story/001108040",
+      "source": "ftchinese.com",
+      "published": 1761753600
+    },
+    {
+      "id": "d0ceb872d537",
+      "title": "特朗普结束与习近平的会晤后离开韩国",
+      "url": "https://www.ftchinese.com/story/001108039",
+      "source": "ftchinese.com",
+      "published": 1761753600
     },
     {
       "id": "ea7f61770cc9",
@@ -796,20 +810,6 @@
       "id": "877737f22adf",
       "title": "内塔尼亚胡称哈马斯“明显违反”停火协议",
       "url": "https://www.ftchinese.com/story/001108016",
-      "source": "ftchinese.com",
-      "published": 1761667200
-    },
-    {
-      "id": "8def46759f16",
-      "title": "二十届四中全会公报的四大信号",
-      "url": "https://www.ftchinese.com/story/001108009",
-      "source": "ftchinese.com",
-      "published": 1761667200
-    },
-    {
-      "id": "915b6d831328",
-      "title": "实体清单并非在美中企的“终结者审判”",
-      "url": "https://www.ftchinese.com/story/001108011",
       "source": "ftchinese.com",
       "published": 1761667200
     },
@@ -1402,5 +1402,5 @@
       "published": 1759652400
     }
   ],
-  "build_id": 1761804911
+  "build_id": 1761806860
 }
