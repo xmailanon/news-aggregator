@@ -1,6 +1,20 @@
 {
-  "updated": 1761863815,
+  "updated": 1761865745,
   "items": [
+    {
+      "id": "47849cf8345e",
+      "title": "美股被微軟、Meta拖累 AI支出引發疑慮 市場提前消化川習會利多",
+      "url": "https://money.udn.com/money/story/5599/9108273",
+      "source": "money.udn.com",
+      "published": 1761865893
+    },
+    {
+      "id": "0baa22a5900b",
+      "title": "籌資擴展AI基礎設施　Meta將發行高達300億美元債券",
+      "url": "https://money.udn.com/money/story/123398/9108267",
+      "source": "money.udn.com",
+      "published": 1761865568
+    },
     {
       "id": "ceff9205ca52",
       "title": "英王胞弟安德魯捲性侵醜聞　遭撤王子頭銜、收回住所",
@@ -261,13 +275,6 @@
       "published": 1761844800
     },
     {
-      "id": "8d9447fe4163",
-      "title": "Fed再降息1碼 將停止縮表 調整為3.75%-4% 近三年來最低",
-      "url": "https://money.udn.com/money/story/5599/9108031",
-      "source": "money.udn.com",
-      "published": 1761844737
-    },
-    {
       "id": "59ad4acc13f8",
       "title": "川習會未觸及兩岸議題 「經濟優先、政治延後」 台灣面臨被邊緣化風險",
       "url": "https://udn.com/news/story/124643/9108041",
@@ -280,13 +287,6 @@
       "url": "https://udn.com/news/story/124643/9108061",
       "source": "udn.com",
       "published": 1761844042
-    },
-    {
-      "id": "32f412c3145a",
-      "title": "會談沒驚喜 亞股走低",
-      "url": "https://money.udn.com/money/story/5599/9108049",
-      "source": "money.udn.com",
-      "published": 1761842916
     },
     {
       "id": "334ca801194a",
@@ -1395,5 +1395,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761863815
+  "build_id": 1761865745
 }
