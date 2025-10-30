@@ -1,6 +1,13 @@
 {
-  "updated": 1761851273,
+  "updated": 1761852731,
   "items": [
+    {
+      "id": "124450e6aa45",
+      "title": "俄關切川普稱重啟核試　專家研判應是測載台非核彈",
+      "url": "https://money.udn.com/money/story/5599/9108186",
+      "source": "money.udn.com",
+      "published": 1761851530
+    },
     {
       "id": "0a94e7381fc9",
       "title": "加拿大總理拚降低對美依賴　10/31在韓國會習近平",
@@ -210,13 +217,6 @@
       "url": "https://udn.com/news/story/7314/9108097",
       "source": "udn.com",
       "published": 1761840385
-    },
-    {
-      "id": "39a50c5a4726",
-      "title": "OpenAI估值衝1兆美元 預計明年申請IPO 目標籌資600億美元",
-      "url": "https://money.udn.com/money/story/5599/9108019",
-      "source": "money.udn.com",
-      "published": 1761840337
     },
     {
       "id": "bc2afae7d9e1",
@@ -1395,5 +1395,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761851273
+  "build_id": 1761852731
 }
