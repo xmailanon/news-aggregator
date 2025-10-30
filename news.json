@@ -1,12 +1,54 @@
 {
-  "updated": 1761806860,
+  "updated": 1761808225,
   "items": [
+    {
+      "id": "8fd33b026687",
+      "title": "中美元首會晤結束，特朗普稱「明年四月訪華」台灣問題「完全未提」",
+      "url": "https://www.bbc.com/zhongwen/articles/c0519g2506vo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1761807968
+    },
+    {
+      "id": "6509b08f03a3",
+      "title": "吳志中：台灣土耳其震災互伸援手 強化救災應變合作",
+      "url": "https://udn.com/news/story/6656/9106821",
+      "source": "udn.com",
+      "published": 1761807505
+    },
+    {
+      "id": "2ca2e0eedf02",
+      "title": "川普：未與習近平談輝達 Blackwell 晶片",
+      "url": "https://money.udn.com/money/story/10511/9106820",
+      "source": "money.udn.com",
+      "published": 1761807253
+    },
+    {
+      "id": "833d1d991d1e",
+      "title": "政院通過刑法修正草案 故意殺人及兒虐致死判10年以上不得假釋",
+      "url": "https://udn.com/news/story/7314/9106804",
+      "source": "udn.com",
+      "published": 1761806734
+    },
+    {
+      "id": "276d38f8b55a",
+      "title": "民進黨：鄭麗文重複中共話術 才是真正的麻煩製造者",
+      "url": "https://udn.com/news/story/122404/9106789",
+      "source": "udn.com",
+      "published": 1761806464
+    },
     {
       "id": "cd7b23019e55",
       "title": "川普：中國將大量購買美國黃豆等農產品",
       "url": "https://money.udn.com/money/story/10511/9106765",
       "source": "money.udn.com",
       "published": 1761805824
+    },
+    {
+      "id": "644fdb39182d",
+      "title": "豬瘟發臭不只是廚餘 是對內放水、對外演戲的防疫制度",
+      "url": "https://udn.com/news/story/6656/9106733",
+      "source": "udn.com",
+      "published": 1761805800
     },
     {
       "id": "5761d0cd8f6f",
@@ -45,7 +87,7 @@
     },
     {
       "id": "659104c4b23f",
-      "title": "川習會後不確定仍高 金價上漲 油價下跌 那斯達克期指搖擺",
+      "title": "川習會後不確定仍高！金價上漲、油價下跌 那斯達克期指搖擺",
       "url": "https://money.udn.com/money/story/5599/9106714",
       "source": "money.udn.com",
       "published": 1761804706
@@ -70,13 +112,6 @@
       "url": "https://udn.com/news/story/120821/9106685",
       "source": "udn.com",
       "published": 1761804095
-    },
-    {
-      "id": "8fd33b026687",
-      "title": "中美元首會晤結束，特朗普稱「明年四月訪華」台灣問題「完全未提」",
-      "url": "https://www.bbc.com/zhongwen/articles/c0519g2506vo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1761804033
     },
     {
       "id": "268b7b66fed1",
@@ -247,46 +282,11 @@
       "published": 1761801292
     },
     {
-      "id": "a714c7e47b7d",
-      "title": "陸勝一號導入TAK套件 智慧化戰場管理強化訓練效能",
-      "url": "https://udn.com/news/story/10930/9106481",
-      "source": "udn.com",
-      "published": 1761801273
-    },
-    {
       "id": "14ac52828ab7",
       "title": "川習會落幕　川普將對中芬太尼關稅調降至10%",
       "url": "https://money.udn.com/money/story/10511/9106538",
       "source": "money.udn.com",
       "published": 1761801152
-    },
-    {
-      "id": "2de062588cad",
-      "title": "會晤習近平後搭機返美　川普稱4月將訪中國",
-      "url": "https://money.udn.com/money/story/10511/9106537",
-      "source": "money.udn.com",
-      "published": 1761801152
-    },
-    {
-      "id": "0d6b7411820b",
-      "title": "移工措施鬆綁！ 製造業移工上限提至45%、首設菲律賓延攬中心",
-      "url": "https://udn.com/news/story/120821/9106514",
-      "source": "udn.com",
-      "published": 1761800591
-    },
-    {
-      "id": "78689dfd464d",
-      "title": "旅宿業開放移工 學者警告恐釀同工不同酬與人權爭議",
-      "url": "https://udn.com/news/story/120821/9106513",
-      "source": "udn.com",
-      "published": 1761800504
-    },
-    {
-      "id": "d82613660089",
-      "title": "爭彰化縣長提名 邱建富：若非民主徵召「我有自己的打算」",
-      "url": "https://udn.com/news/story/6656/9106504",
-      "source": "udn.com",
-      "published": 1761800453
     },
     {
       "id": "bdeebfdd62b8",
@@ -1402,5 +1402,5 @@
       "published": 1759652400
     }
   ],
-  "build_id": 1761806860
+  "build_id": 1761808225
 }
