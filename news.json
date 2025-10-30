@@ -1,6 +1,34 @@
 {
-  "updated": 1761852731,
+  "updated": 1761855053,
   "items": [
+    {
+      "id": "0311fd1cb570",
+      "title": "川習會未談台灣 美學者：大陸可能怕籌碼不夠",
+      "url": "https://udn.com/news/story/6656/9108206",
+      "source": "udn.com",
+      "published": 1761854625
+    },
+    {
+      "id": "9fb008824eba",
+      "title": "葉騰有望成荷蘭最年輕總理　中間路線面臨右派挑戰",
+      "url": "https://money.udn.com/money/story/5599/9108196",
+      "source": "money.udn.com",
+      "published": 1761854085
+    },
+    {
+      "id": "005cb815b853",
+      "title": "美財長：中國未來3年購7500萬噸黃豆　回復正常量",
+      "url": "https://money.udn.com/money/story/10511/9108195",
+      "source": "money.udn.com",
+      "published": 1761854049
+    },
+    {
+      "id": "994d2c5b3c73",
+      "title": "特朗普下令重启核武试验 世界或重陷“核时代”阴影",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251030-%E8%A2%AB%E4%BF%84%E7%BD%97%E6%96%AF%E6%8C%91%E8%A1%85%E5%90%8E-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%87%8D%E5%90%AF%E7%BE%8E%E5%9B%BD%E6%A0%B8%E6%AD%A6%E8%AF%95%E9%AA%8C",
+      "source": "rfi.fr",
+      "published": 1761852887
+    },
     {
       "id": "124450e6aa45",
       "title": "俄關切川普稱重啟核試　專家研判應是測載台非核彈",
@@ -10,7 +38,7 @@
     },
     {
       "id": "0a94e7381fc9",
-      "title": "加拿大總理拚降低對美依賴　10/31在韓國會習近平",
+      "title": "加拿大總理拚降低對美依賴　10月31日在韓國會習近平",
       "url": "https://money.udn.com/money/story/5599/9108176",
       "source": "money.udn.com",
       "published": 1761849910
@@ -198,20 +226,6 @@
       "published": 1761840655
     },
     {
-      "id": "b8f8fedeb71c",
-      "title": "Meta 稅務拖累獲利",
-      "url": "https://money.udn.com/money/story/123398/9108015",
-      "source": "money.udn.com",
-      "published": 1761840645
-    },
-    {
-      "id": "a1fc96edc820",
-      "title": "三星晶片第3季獲利暴增79% 遠超預期  HBM3E 出貨追上SK海力士",
-      "url": "https://money.udn.com/money/story/5599/9107939",
-      "source": "money.udn.com",
-      "published": 1761840628
-    },
-    {
       "id": "34817b9bfded",
       "title": "屏東2鄉抗議「瘋電」 縣府稱從未同意",
       "url": "https://udn.com/news/story/7314/9108097",
@@ -301,13 +315,6 @@
       "url": "https://udn.com/news/story/124643/9108032",
       "source": "udn.com",
       "published": 1761840000
-    },
-    {
-      "id": "6086d72cf7d8",
-      "title": "廣角鏡／地空整體作戰 仿實戰震撼逼真",
-      "url": "https://udn.com/news/story/10930/9108076",
-      "source": "udn.com",
-      "published": 1761839984
     },
     {
       "id": "eae38d4d2475",
@@ -756,13 +763,6 @@
       "url": "https://www.ftchinese.com/story/001108020",
       "source": "ftchinese.com",
       "published": 1761753600
-    },
-    {
-      "id": "32cb8d140e9a",
-      "title": "欧洲汽车制造商协会：安世半导体芯片短缺加剧 装配线停工或在几天之内",
-      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251029-%E6%AC%A7%E6%B4%B2%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E5%8D%8F%E4%BC%9A-%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%8A%AF%E7%89%87%E7%9F%AD%E7%BC%BA%E5%8A%A0%E5%89%A7%EF%BC%8C%E8%A3%85%E9%85%8D%E7%BA%BF%E5%81%9C%E5%B7%A5%E6%88%96%E5%9C%A8%E5%87%A0%E5%A4%A9%E4%B9%8B%E5%86%85",
-      "source": "rfi.fr",
-      "published": 1761753061
     },
     {
       "id": "c8ffef6e4926",
@@ -1395,5 +1395,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761852731
+  "build_id": 1761855053
 }
