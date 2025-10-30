@@ -1,6 +1,13 @@
 {
-  "updated": 1761856734,
+  "updated": 1761858556,
   "items": [
+    {
+      "id": "21b928f52a26",
+      "title": "投資人消化川習會及企業財報　美股收黑",
+      "url": "https://money.udn.com/money/story/10511/9108213",
+      "source": "money.udn.com",
+      "published": 1761858011
+    },
     {
       "id": "e5f4f1dcdacd",
       "title": "美政府削減難民收容上限至7500人　優先考慮南非白人",
@@ -16,9 +23,9 @@
       "published": 1761855164
     },
     {
-      "id": "0311fd1cb570",
+      "id": "e5592d107911",
       "title": "川習會未談台灣 美學者：大陸可能怕籌碼不夠",
-      "url": "https://udn.com/news/story/6656/9108206",
+      "url": "https://udn.com/news/story/124643/9108206",
       "source": "udn.com",
       "published": 1761854625
     },
@@ -203,13 +210,6 @@
       "url": "https://money.udn.com/money/story/5599/9108007",
       "source": "money.udn.com",
       "published": 1761841220
-    },
-    {
-      "id": "db48eb0f0efa",
-      "title": "日銀、ECB按兵不動",
-      "url": "https://money.udn.com/money/story/5599/9108005",
-      "source": "money.udn.com",
-      "published": 1761841203
     },
     {
       "id": "f9f916248abb",
@@ -1395,5 +1395,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761856734
+  "build_id": 1761858556
 }
