@@ -1,6 +1,34 @@
 {
-  "updated": 1761948555,
+  "updated": 1761950296,
   "items": [
+    {
+      "id": "9fdc1f289f8d",
+      "title": "特朗普呼吁参议院废除冗长辩论制　以结束美国政府停摆僵局",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251031-%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%8F%82%E8%AE%AE%E9%99%A2%E5%BA%9F%E9%99%A4%E5%86%97%E9%95%BF%E8%BE%A9%E8%AE%BA%E5%88%B6-%E4%BB%A5%E7%BB%93%E6%9D%9F%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E5%83%B5%E5%B1%80",
+      "source": "rfi.fr",
+      "published": 1761950259
+    },
+    {
+      "id": "97b778496e51",
+      "title": "美加貿易談判陷僵　川普不滿反關稅廣告拒恢復協商",
+      "url": "https://money.udn.com/money/story/10511/9110490",
+      "source": "money.udn.com",
+      "published": 1761950173
+    },
+    {
+      "id": "b7e1b402d32b",
+      "title": "“中国可以和美国一起伟大”？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251031-%E4%B8%AD%E5%9B%BD%E5%8F%AF%E4%BB%A5%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%B5%B7%E4%BC%9F%E5%A4%A7",
+      "source": "rfi.fr",
+      "published": 1761949267
+    },
+    {
+      "id": "98c786bccd28",
+      "title": "市場關注委內瑞拉局勢　油價持穩",
+      "url": "https://money.udn.com/money/story/5599/9110482",
+      "source": "money.udn.com",
+      "published": 1761948751
+    },
     {
       "id": "2b887ce9d1fc",
       "title": "從小白兔變大肥貓 台肥董座吳音寧上、李孫榮下",
@@ -252,20 +280,6 @@
       "url": "https://money.udn.com/money/story/5599/9110178",
       "source": "money.udn.com",
       "published": 1761927042
-    },
-    {
-      "id": "50c1e6ee1945",
-      "title": "搶賺男人錢 2／粗獷男人味成過去式？日本熟男愛買這些化妝保養品",
-      "url": "https://money.udn.com/money/story/122979/8996817",
-      "source": "money.udn.com",
-      "published": 1761926988
-    },
-    {
-      "id": "71f3aed65be1",
-      "title": "搶賺男人錢 1／熟男把護膚當刷牙！日本男性化妝品市場5年內倍增好驚人",
-      "url": "https://money.udn.com/money/story/122979/8996810",
-      "source": "money.udn.com",
-      "published": 1761926868
     },
     {
       "id": "9640c0f0ef09",
@@ -623,20 +637,6 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251030-%E9%98%BF%E5%AF%8C%E6%B1%97%E5%92%8C%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%B3%E5%AE%9A%E9%87%8D%E5%90%AF%E8%B0%88%E5%88%A4%E8%BF%9B%E7%A8%8B",
       "source": "rfi.fr",
       "published": 1761858379
-    },
-    {
-      "id": "339b6d016428",
-      "title": "第十三届“朗姆酒之路”帆船赛将于2026年11月1日启航",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251030-%E7%AC%AC%E5%8D%81%E4%B8%89%E5%B1%8A-%E6%9C%97%E5%A7%86%E9%85%92%E4%B9%8B%E8%B7%AF-%E5%B8%86%E8%88%B9%E8%B5%9B%E5%B0%86%E4%BA%8E2026%E5%B9%B411%E6%9C%881%E6%97%A5%E5%90%AF%E8%88%AA",
-      "source": "rfi.fr",
-      "published": 1761858115
-    },
-    {
-      "id": "a484285843a8",
-      "title": "AF447案重新开庭：法航和空客拒认刑事责任",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251030-af447%E6%A1%88%E9%87%8D%E6%96%B0%E5%BC%80%E5%BA%AD-%E6%B3%95%E8%88%AA%E5%92%8C%E7%A9%BA%E5%AE%A2%E6%8B%92%E8%AE%A4%E5%88%91%E4%BA%8B%E8%B4%A3%E4%BB%BB",
-      "source": "rfi.fr",
-      "published": 1761857817
     },
     {
       "id": "994d2c5b3c73",
@@ -1402,5 +1402,5 @@
       "published": 1759652400
     }
   ],
-  "build_id": 1761948555
+  "build_id": 1761950296
 }
