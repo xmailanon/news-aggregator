@@ -1,6 +1,20 @@
 {
-  "updated": 1761882894,
+  "updated": 1761884034,
   "items": [
+    {
+      "id": "4a8fbf9dc81a",
+      "title": "AI熱潮推升亞洲股市 集中化風險升溫 被動型基金被迫追高科技股",
+      "url": "https://money.udn.com/money/story/5599/9108898",
+      "source": "money.udn.com",
+      "published": 1761884102
+    },
+    {
+      "id": "9830e16d0bd8",
+      "title": "美国大米、牛肉饼和千岛酱：特朗普在亚洲吃了些什么",
+      "url": "https://cn.nytimes.com/world/20251031/trump-asia-summit-food/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1761883348
+    },
     {
       "id": "482f691d625b",
       "title": "川習會未談輝達AI晶片  美專家：美方持保留空間",
@@ -9,11 +23,11 @@
       "published": 1761882878
     },
     {
-      "id": "9830e16d0bd8",
-      "title": "美国大米、牛肉饼和千岛酱：特朗普在亚洲吃了些什么",
-      "url": "https://cn.nytimes.com/world/20251031/trump-asia-summit-food/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1761882720
+      "id": "d7d057eaad5e",
+      "title": "花縣府救災便當費9千多萬？ 傅崐萁痛批民進黨抹黑造謠",
+      "url": "https://udn.com/news/story/124616/9108820",
+      "source": "udn.com",
+      "published": 1761882844
     },
     {
       "id": "85267e014659",
@@ -282,13 +296,6 @@
       "published": 1761875967
     },
     {
-      "id": "d02a71ab12b1",
-      "title": "Meta 大手筆發債300億美元吸引創紀錄買氣 與股價崩跌形成截然對比",
-      "url": "https://money.udn.com/money/story/123398/9108507",
-      "source": "money.udn.com",
-      "published": 1761875809
-    },
-    {
       "id": "03135f7ab759",
       "title": "鄭麗文受德國之聲專訪 強調「不放棄武力保台」",
       "url": "https://udn.com/news/story/122404/9108453",
@@ -308,13 +315,6 @@
       "url": "https://cn.nytimes.com/world/20251031/china-trump-xi-trade/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1761873912
-    },
-    {
-      "id": "7300666fb35d",
-      "title": "林佳龍力挺林岱樺引爭議…黃暐瀚不驚訝：派系掌門人該做的事",
-      "url": "https://udn.com/news/story/6656/9108348",
-      "source": "udn.com",
-      "published": 1761872912
     },
     {
       "id": "a94cf772f5d4",
@@ -1395,5 +1395,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761882894
+  "build_id": 1761884034
 }
