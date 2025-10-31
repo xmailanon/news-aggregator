@@ -1,10 +1,17 @@
 {
-  "updated": 1761908928,
+  "updated": 1761910356,
   "items": [
     {
-      "id": "adffbce0223a",
+      "id": "bb1baa3235cb",
+      "title": "川習會後貿易不均衡仍存在！川普的對華政策錯在哪？",
+      "url": "https://money.udn.com/money/story/120769/9109459",
+      "source": "money.udn.com",
+      "published": 1761910025
+    },
+    {
+      "id": "4e10703293a9",
       "title": "分析：川普缺席APEC習近平補上　美中區域競賽出現變化",
-      "url": "https://money.udn.com/money/story/10511/9109883",
+      "url": "https://money.udn.com/money/story/5599/9109883",
       "source": "money.udn.com",
       "published": 1761909140
     },
@@ -21,6 +28,27 @@
       "url": "https://money.udn.com/money/story/5599/9109882",
       "source": "money.udn.com",
       "published": 1761909138
+    },
+    {
+      "id": "11d51511751d",
+      "title": "海鯤號遇滲水努力抓漏 源頭找不到？台船發聲明駁斥",
+      "url": "https://udn.com/news/story/10930/9109874",
+      "source": "udn.com",
+      "published": 1761908827
+    },
+    {
+      "id": "d717de3132a9",
+      "title": "副總統：節能環保健康與AI導入 新世代家電重要趨勢",
+      "url": "https://udn.com/news/story/6656/9109837",
+      "source": "udn.com",
+      "published": 1761908711
+    },
+    {
+      "id": "7ac5bf660d9a",
+      "title": "送上望遠鏡+放大鏡 王世堅盼卓榮泰高瞻遠矚、觀察細微",
+      "url": "https://udn.com/news/story/6656/9109845",
+      "source": "udn.com",
+      "published": 1761908303
     },
     {
       "id": "9cc79fa22697",
@@ -247,13 +275,6 @@
       "published": 1761900331
     },
     {
-      "id": "868b6432e8cb",
-      "title": "習近平與高市早苗首度會晤　舉行中日領袖會談",
-      "url": "https://money.udn.com/money/story/5599/9109522",
-      "source": "money.udn.com",
-      "published": 1761899452
-    },
-    {
       "id": "928744c74556",
       "title": "特首去信公务员 保安局斥海外呼吁罢投 港府内外施压为选举催票",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251031-%E7%89%B9%E9%A6%96%E5%8E%BB%E4%BF%A1%E5%85%AC%E5%8A%A1%E5%91%98-%E4%BF%9D%E5%AE%89%E5%B1%80%E6%96%A5%E6%B5%B7%E5%A4%96%E5%91%BC%E5%90%81%E7%BD%A2%E6%8A%95-%E6%B8%AF%E5%BA%9C%E5%86%85%E5%A4%96%E6%96%BD%E5%8E%8B%E4%B8%BA%E9%80%89%E4%B8%BE%E5%82%AC%E7%A5%A8",
@@ -301,27 +322,6 @@
       "url": "https://udn.com/news/story/6656/9109386",
       "source": "udn.com",
       "published": 1761896796
-    },
-    {
-      "id": "4a37f4e25282",
-      "title": "指川普也拒稱普亭獨裁者 張雅屏：不顧人民死活才真獨裁",
-      "url": "https://udn.com/news/story/122404/9109383",
-      "source": "udn.com",
-      "published": 1761896471
-    },
-    {
-      "id": "e383ac5f008d",
-      "title": "救國團73週年團慶貴賓雲集，誓言推動｢造夢十大建設｣",
-      "url": "https://udn.com/news/story/7314/9109338",
-      "source": "udn.com",
-      "published": 1761896100
-    },
-    {
-      "id": "589313b152b8",
-      "title": "影／財劃法恐釀精障者服務斷鏈危機 民團籲建立中央保障、地方共責制",
-      "url": "https://udn.com/news/story/6656/9109371",
-      "source": "udn.com",
-      "published": 1761896025
     },
     {
       "id": "e2468a2e7fca",
@@ -1346,13 +1346,6 @@
       "published": 1760778240
     },
     {
-      "id": "abc6029e2269",
-      "title": "德语媒体：自信诚可贵 黄金价更高",
-      "url": "https://www.dw.com/zh/德语媒体：自信诚可贵-黄金价更高/a-74401430?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1760699040
-    },
-    {
       "id": "415f82732de1",
       "title": "中國打壓地下教會 傅希秋：習近平要「絕對的順服」",
       "url": "https://www.dw.com/zh/中國打壓地下教會-傅希秋：習近平要「絕對的順服」/a-74397199?maca=chi-rss-chi-news-3224-rdf",
@@ -1402,5 +1395,5 @@
       "published": 1759484160
     }
   ],
-  "build_id": 1761908928
+  "build_id": 1761910356
 }
