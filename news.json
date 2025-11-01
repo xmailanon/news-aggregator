@@ -1,6 +1,13 @@
 {
-  "updated": 1762001829,
+  "updated": 1762003185,
   "items": [
+    {
+      "id": "6179790064b7",
+      "title": "OpenAI 的虧損可在微軟財報找到？上季恐慘賠逾115億美元",
+      "url": "https://money.udn.com/money/story/123398/9111562",
+      "source": "money.udn.com",
+      "published": 1762001910
+    },
     {
       "id": "4d3f02fdb16f",
       "title": "法文化部長：羅浮宮低估風險　年底前更新防盜措施",
@@ -16,6 +23,20 @@
       "published": 1762001527
     },
     {
+      "id": "ab2feb03be05",
+      "title": "中共滲透台灣政軍企 前軍情局長籲民眾提高保防意識",
+      "url": "https://udn.com/news/story/10930/9111538",
+      "source": "udn.com",
+      "published": 1762000684
+    },
+    {
+      "id": "d0f90d13482d",
+      "title": "美财长：中国收紧稀土出口管制“是一个错误”",
+      "url": "https://www.dw.com/zh/美财长：中国收紧稀土出口管制-是一个错误/a-74585009?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1762000500
+    },
+    {
       "id": "e2895edf138f",
       "title": "羅浮宮搶案嫌犯巴黎出庭　被竊珠寶仍下落不明",
       "url": "https://money.udn.com/money/story/5599/9111533",
@@ -28,6 +49,13 @@
       "url": "https://udn.com/news/story/6656/9111530",
       "source": "udn.com",
       "published": 1762000122
+    },
+    {
+      "id": "d33bce13bcb3",
+      "title": "特朗普走后，习近平成APEC峰会焦点",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251101-%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%B0%E5%90%8E%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%88%90apec%E5%B3%B0%E4%BC%9A%E7%84%A6%E7%82%B9",
+      "source": "rfi.fr",
+      "published": 1761999851
     },
     {
       "id": "9091b2f61aca",
@@ -324,25 +352,11 @@
       "published": 1761987010
     },
     {
-      "id": "b1da27da9013",
-      "title": "防海底電纜遭斷通訊 賴清德喊話立院支持海纜7法修法",
-      "url": "https://udn.com/news/story/6656/9111280",
-      "source": "udn.com",
-      "published": 1761986628
-    },
-    {
       "id": "286016d3b002",
       "title": "轉眼身處美中對抗前沿　菲國巴丹群島居民心情複雜",
       "url": "https://money.udn.com/money/story/5599/9111268",
       "source": "money.udn.com",
       "published": 1761985848
-    },
-    {
-      "id": "f0a70b9b5d99",
-      "title": "科技巨人財報亮眼推動那指連漲七月 11月行情仍站在多頭這邊",
-      "url": "https://money.udn.com/money/story/123398/9111263",
-      "source": "money.udn.com",
-      "published": 1761985489
     },
     {
       "id": "731a399eceb4",
@@ -616,13 +630,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cjw974qqn1vo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1761902964
-    },
-    {
-      "id": "df6c87543d9a",
-      "title": "在发表震惊世界声明后，特朗普为重启核武器试验辩护",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251031-%E5%9C%A8%E5%8F%91%E8%A1%A8%E9%9C%87%E6%83%8A%E4%B8%96%E7%95%8C%E5%A3%B0%E6%98%8E%E5%90%8E%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E9%87%8D%E5%90%AF%E6%A0%B8%E6%AD%A6%E5%99%A8%E8%AF%95%E9%AA%8C%E8%BE%A9%E6%8A%A4",
-      "source": "rfi.fr",
-      "published": 1761901684
     },
     {
       "id": "e2468a2e7fca",
@@ -1393,14 +1400,7 @@
       "url": "https://www.dw.com/zh/中國打壓地下教會-傅希秋：習近平要「絕對的順服」/a-74397199?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1760693820
-    },
-    {
-      "id": "25380bde0d51",
-      "title": "香港立法會選舉：棄選潮下「換血」有準則？誰是接棒者？",
-      "url": "https://www.bbc.com/zhongwen/articles/c14plpy2kjeo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1760683112
     }
   ],
-  "build_id": 1762001829
+  "build_id": 1762003185
 }
