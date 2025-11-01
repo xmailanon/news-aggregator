@@ -1,6 +1,13 @@
 {
-  "updated": 1762034898,
+  "updated": 1762036503,
   "items": [
+    {
+      "id": "15b185c8c5f5",
+      "title": "特朗普恭维习近平 华盛顿对北京很强硬",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%AD%E7%BB%B4%E4%B9%A0%E8%BF%91%E5%B9%B3-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%AF%B9%E5%8C%97%E4%BA%AC%E5%BE%88%E5%BC%BA%E7%A1%AC",
+      "source": "rfi.fr",
+      "published": 1762035603
+    },
     {
       "id": "f4e7990a87e6",
       "title": "APEC慶州峰會閉幕 一圖看具體成果、21會員經貿實力",
@@ -560,13 +567,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251031-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%B0%88%E6%97%B6%E6%95%A6%E4%BF%83%E4%B8%AD%E5%9B%BD%E9%87%8A%E6%94%BE%E9%BB%8E%E6%99%BA%E8%8B%B1",
       "source": "rfi.fr",
       "published": 1761943895
-    },
-    {
-      "id": "b9be17b17c36",
-      "title": "法国极右翼在国民议会就废黜优待阿尔及利亚移民协定取得首次胜利",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251031-%E6%B3%95%E5%9B%BD%E6%9E%81%E5%8F%B3%E7%BF%BC%E5%9C%A8%E5%9B%BD%E6%B0%91%E8%AE%AE%E4%BC%9A%E5%B0%B1%E5%BA%9F%E9%BB%9C%E4%BC%98%E5%BE%85%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A%E7%A7%BB%E6%B0%91%E5%8D%8F%E5%AE%9A%E5%8F%96%E5%BE%97%E9%A6%96%E6%AC%A1%E8%83%9C%E5%88%A9",
-      "source": "rfi.fr",
-      "published": 1761937173
     },
     {
       "id": "186b474b5b42",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1762034898
+  "build_id": 1762036503
 }
