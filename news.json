@@ -1,6 +1,20 @@
 {
-  "updated": 1762031245,
+  "updated": 1762032724,
   "items": [
+    {
+      "id": "871cd2171163",
+      "title": "敘利亞總統擬訪問華府　可能加入打擊伊斯蘭國聯盟",
+      "url": "https://money.udn.com/money/story/5599/9111842",
+      "source": "money.udn.com",
+      "published": 1762032645
+    },
+    {
+      "id": "3e8bfb98c5b3",
+      "title": "法国反欺诈部门举报希音售卖涉儿童色情玩偶 电商巨头再陷丑闻风暴",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E6%B3%95%E5%9B%BD%E5%8F%8D%E6%AC%BA%E8%AF%88%E9%83%A8%E9%97%A8%E4%B8%BE%E6%8A%A5%E5%B8%8C%E9%9F%B3%E5%94%AE%E5%8D%96%E6%B6%89%E5%84%BF%E7%AB%A5%E8%89%B2%E6%83%85%E7%8E%A9%E5%81%B6-%E7%94%B5%E5%95%86%E5%B7%A8%E5%A4%B4%E5%86%8D%E9%99%B7%E4%B8%91%E9%97%BB%E9%A3%8E%E6%9A%B4",
+      "source": "rfi.fr",
+      "published": 1762032319
+    },
     {
       "id": "508f9cc4056d",
       "title": "巴黎羅浮宮竊案　法檢方再控兩名新嫌犯涉案",
@@ -317,13 +331,6 @@
       "published": 1762003430
     },
     {
-      "id": "6179790064b7",
-      "title": "OpenAI 的虧損可在微軟財報找到？上季恐慘賠逾115億美元",
-      "url": "https://money.udn.com/money/story/123398/9111562",
-      "source": "money.udn.com",
-      "published": 1762001910
-    },
-    {
       "id": "21cd09e0e733",
       "title": "中美首脑会晤后 安世Nexperia半导体危机缓解 中国将批准部分出口",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251101-%E4%B8%AD%E7%BE%8E%E9%A6%96%E8%84%91%E4%BC%9A%E6%99%A4%E5%90%8E-%E5%AE%89%E4%B8%96nexperia%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8D%B1%E6%9C%BA%E7%BC%93%E8%A7%A3-%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%89%B9%E5%87%86%E9%83%A8%E5%88%86%E5%87%BA%E5%8F%A3",
@@ -602,13 +609,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251031-%E7%A8%80%E5%9C%9F-%E6%AC%A7%E7%9B%9F%E5%B0%B1%E5%AF%B9%E5%8D%8E%E5%BE%81%E6%94%B6-%E5%AE%9E%E7%89%A9-%E5%85%B3%E7%A8%8E%E5%B1%95%E5%BC%80%E8%BE%A9%E8%AE%BA-%E4%BB%A5%E7%A1%AE%E4%BF%9D%E5%85%B3%E9%94%AE%E7%89%A9%E8%B5%84%E4%BE%9B%E5%BA%94",
       "source": "rfi.fr",
       "published": 1761919520
-    },
-    {
-      "id": "cd6056d52c1c",
-      "title": "亚太经合峰会登场 习近平展现多边主义倡导者形象",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251031-%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E5%B3%B0%E4%BC%9A%E7%99%BB%E5%9C%BA-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B1%95%E7%8E%B0%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89%E5%80%A1%E5%AF%BC%E8%80%85%E5%BD%A2%E8%B1%A1",
-      "source": "rfi.fr",
-      "published": 1761917014
     },
     {
       "id": "9a11ed384434",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1762031245
+  "build_id": 1762032724
 }
