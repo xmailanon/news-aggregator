@@ -1,6 +1,41 @@
 {
-  "updated": 1762004224,
+  "updated": 1762006071,
   "items": [
+    {
+      "id": "7a296513e730",
+      "title": "海洋保育法執法範圍及於東、南沙 協力廠商今受表揚",
+      "url": "https://udn.com/news/story/10930/9111596",
+      "source": "udn.com",
+      "published": 1762006084
+    },
+    {
+      "id": "ceb1e36d5edb",
+      "title": "卸任副主席 連勝文：肩上大鎖解開「對得起國民黨了」",
+      "url": "https://udn.com/news/story/6656/9111588",
+      "source": "udn.com",
+      "published": 1762004885
+    },
+    {
+      "id": "ca1bd9269fbc",
+      "title": "赫格塞斯：美國準備與盟友共享技術　因應中國侵擾",
+      "url": "https://money.udn.com/money/story/5599/9111585",
+      "source": "money.udn.com",
+      "published": 1762004730
+    },
+    {
+      "id": "98f137367548",
+      "title": "特朗普的亚洲之旅将如何搅动印太局势？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%8D%B0%E5%A4%AA%E7%BA%B5%E8%A7%88/20251101-%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E4%BA%9A%E6%B4%B2%E4%B9%8B%E6%97%85%E5%B0%86%E5%A6%82%E4%BD%95%E6%90%85%E5%8A%A8%E5%8D%B0%E5%A4%AA%E5%B1%80%E5%8A%BF",
+      "source": "rfi.fr",
+      "published": 1762004452
+    },
+    {
+      "id": "da092ebcfdce",
+      "title": "美債本周被鮑爾3個字打趴！12月 Fed 降息有賴2條件到位",
+      "url": "https://money.udn.com/money/story/5599/9111582",
+      "source": "money.udn.com",
+      "published": 1762004386
+    },
     {
       "id": "0864408c9613",
       "title": "卡尼称已就反关税广告向特朗普道歉",
@@ -331,39 +366,11 @@
       "published": 1761989125
     },
     {
-      "id": "bed8a050d28f",
-      "title": "原民專門人才頒獎 原民會：獲獎者是台灣重要資產",
-      "url": "https://udn.com/news/story/7314/9111320",
-      "source": "udn.com",
-      "published": 1761988772
-    },
-    {
-      "id": "6c1c6a991ccc",
-      "title": "M1A2T戰車連長孫韜奇行動迅捷剛猛 將門虎子受矚",
-      "url": "https://udn.com/news/story/10930/9111325",
-      "source": "udn.com",
-      "published": 1761988770
-    },
-    {
       "id": "208f3e2bc06b",
       "title": "巨額 AI 投資如何分攤風險？ Meta、xAI 有妙招：把債務隱藏在外",
       "url": "https://money.udn.com/money/story/123398/9111315",
       "source": "money.udn.com",
       "published": 1761987911
-    },
-    {
-      "id": "a77987ef03d2",
-      "title": "反關稅廣告惹議　加拿大總理卡尼向川普致歉",
-      "url": "https://money.udn.com/money/story/10511/9111302",
-      "source": "money.udn.com",
-      "published": 1761987253
-    },
-    {
-      "id": "286016d3b002",
-      "title": "轉眼身處美中對抗前沿　菲國巴丹群島居民心情複雜",
-      "url": "https://money.udn.com/money/story/5599/9111268",
-      "source": "money.udn.com",
-      "published": 1761985848
     },
     {
       "id": "731a399eceb4",
@@ -602,13 +609,6 @@
       "url": "https://www.dw.com/zh/英伟达将向韩国供应26万枚尖端芯片/a-74570158?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761911520
-    },
-    {
-      "id": "d08923a4086e",
-      "title": "法国民议会重启政府预算案讨论, 巨额资产税是核心话题",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251031-%E6%B3%95%E5%9B%BD%E6%B0%91%E8%AE%AE%E4%BC%9A%E9%87%8D%E5%90%AF%E6%94%BF%E5%BA%9C%E9%A2%84%E7%AE%97%E6%A1%88%E8%AE%A8%E8%AE%BA-%E5%B7%A8%E9%A2%9D%E8%B5%84%E4%BA%A7%E7%A8%8E%E6%98%AF%E6%A0%B8%E5%BF%83%E8%AF%9D%E9%A2%98",
-      "source": "rfi.fr",
-      "published": 1761911244
     },
     {
       "id": "1dc52c6e29da",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1762004224
+  "build_id": 1762006071
 }
