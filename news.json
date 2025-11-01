@@ -1,6 +1,20 @@
 {
-  "updated": 1762036503,
+  "updated": 1762038542,
   "items": [
+    {
+      "id": "a5f1c958dbb7",
+      "title": "莫斯科称俄军在顿涅茨克门户城市波克罗夫斯克取得突破 基辅否认",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E8%8E%AB%E6%96%AF%E7%A7%91%E7%A7%B0%E4%BF%84%E5%86%9B%E5%9C%A8%E9%A1%BF%E6%B6%85%E8%8C%A8%E5%85%8B%E9%97%A8%E6%88%B7%E5%9F%8E%E5%B8%82%E6%B3%A2%E5%85%8B%E7%BD%97%E5%A4%AB%E6%96%AF%E5%85%8B%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4-%E5%9F%BA%E8%BE%85%E5%90%A6%E8%AE%A4",
+      "source": "rfi.fr",
+      "published": 1762037206
+    },
+    {
+      "id": "3d34f5685a7f",
+      "title": "川普控奈及利亞未阻基督徒遭殺害　揚言採取軍事行動",
+      "url": "https://money.udn.com/money/story/10511/9111865",
+      "source": "money.udn.com",
+      "published": 1762036592
+    },
     {
       "id": "15b185c8c5f5",
       "title": "特朗普恭维习近平 华盛顿对北京很强硬",
@@ -45,7 +59,7 @@
     },
     {
       "id": "1b9e58b1dc16",
-      "title": "卢浮宫窃案：一38岁女子被起诉 被盗珠宝仍下落不明",
+      "title": "卢浮宫窃宝案：一38岁女子被起诉 被盗珠宝仍下落不明",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%AA%83%E6%A1%88-%E4%B8%8038%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B5%B7%E8%AF%89-%E8%A2%AB%E7%9B%97%E7%8F%A0%E5%AE%9D%E4%BB%8D%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E",
       "source": "rfi.fr",
       "published": 1762033082
@@ -380,13 +394,6 @@
       "published": 1762004452
     },
     {
-      "id": "da092ebcfdce",
-      "title": "美債本周被鮑爾3個字打趴！12月 Fed 降息有賴2條件到位",
-      "url": "https://money.udn.com/money/story/5599/9111582",
-      "source": "money.udn.com",
-      "published": 1762004386
-    },
-    {
       "id": "0864408c9613",
       "title": "卡尼称已就反关税广告向特朗普道歉",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251101-%E5%8D%A1%E5%B0%BC%E7%A7%B0%E5%B7%B2%E5%B0%B1%E5%8F%8D%E5%85%B3%E7%A8%8E%E5%B9%BF%E5%91%8A%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%93%E6%AD%89",
@@ -560,13 +567,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251031-%E8%B4%9D%E6%A3%AE%E7%89%B9-%E5%8C%97%E4%BA%AC%E5%9C%A8%E7%A8%80%E5%9C%9F%E9%97%AE%E9%A2%98%E4%B8%8A%E8%AF%AF%E5%88%A4%E5%BD%A2%E5%8A%BF-%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%B9%B4%E5%86%85%E5%8F%AF%E6%91%86%E8%84%B1%E4%BE%9D%E8%B5%96",
       "source": "rfi.fr",
       "published": 1761945401
-    },
-    {
-      "id": "63f1340dd75f",
-      "title": "特朗普与习近平会谈时敦促中国释放黎智英",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251031-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%B0%88%E6%97%B6%E6%95%A6%E4%BF%83%E4%B8%AD%E5%9B%BD%E9%87%8A%E6%94%BE%E9%BB%8E%E6%99%BA%E8%8B%B1",
-      "source": "rfi.fr",
-      "published": 1761943895
     },
     {
       "id": "186b474b5b42",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1762036503
+  "build_id": 1762038542
 }
