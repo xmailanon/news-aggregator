@@ -1,6 +1,13 @@
 {
-  "updated": 1762108843,
+  "updated": 1762110418,
   "items": [
+    {
+      "id": "9dbf6d311e43",
+      "title": "中國稀土政策若走回頭路　美國財長：川普可能提高關稅",
+      "url": "https://money.udn.com/money/story/10511/9113228",
+      "source": "money.udn.com",
+      "published": 1762110149
+    },
     {
       "id": "9cfa59fc64b4",
       "title": "乌克兰遭俄军袭击六人死亡 基辅空袭黑海俄石油终端",
@@ -49,6 +56,13 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251102-%E5%8F%B0%E6%B9%BE-%E6%96%B0%E4%BB%BB%E5%8F%8D%E5%AF%B9%E5%85%9A%E9%A2%86%E8%A2%96%E5%8F%8D%E5%AF%B9%E5%A2%9E%E5%8A%A0%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97",
       "source": "rfi.fr",
       "published": 1762105380
+    },
+    {
+      "id": "c4d989fedb34",
+      "title": "川習會未提台灣　川普重申：習近平知道犯台後果",
+      "url": "https://money.udn.com/money/story/5599/9113205",
+      "source": "money.udn.com",
+      "published": 1762104967
     },
     {
       "id": "3de571e0cefe",
@@ -280,20 +294,6 @@
       "url": "https://money.udn.com/money/story/122381/9112986",
       "source": "money.udn.com",
       "published": 1762095909
-    },
-    {
-      "id": "ba9d2b75ec26",
-      "title": "比利時東北部軍事基地出現無人機　當局展開調查",
-      "url": "https://money.udn.com/money/story/5599/9112994",
-      "source": "money.udn.com",
-      "published": 1762095611
-    },
-    {
-      "id": "928082e5f49f",
-      "title": "超富家族對新創投資漸失興趣 戰場轉向這些領域",
-      "url": "https://money.udn.com/money/story/122381/9112962",
-      "source": "money.udn.com",
-      "published": 1762094731
     },
     {
       "id": "65909e775193",
@@ -1402,5 +1402,5 @@
       "published": 1760438340
     }
   ],
-  "build_id": 1762108843
+  "build_id": 1762110418
 }
