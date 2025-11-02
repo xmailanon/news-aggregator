@@ -1,6 +1,41 @@
 {
-  "updated": 1762054396,
+  "updated": 1762056815,
   "items": [
+    {
+      "id": "96b0c63c1b1c",
+      "title": "墨西哥北部超市爆炸　至少23人葬身火窟",
+      "url": "https://money.udn.com/money/story/5599/9112264",
+      "source": "money.udn.com",
+      "published": 1762056448
+    },
+    {
+      "id": "0fbd36cc63be",
+      "title": "彭博：川普亞洲行表明「美仍是後盾」但台灣等亞太盟友面臨2現實問題",
+      "url": "https://money.udn.com/money/story/5599/9112209",
+      "source": "money.udn.com",
+      "published": 1762055291
+    },
+    {
+      "id": "0d24c62e3057",
+      "title": "歐巴馬批川普政府魯莽行事　籲選民投票反制",
+      "url": "https://money.udn.com/money/story/10511/9112206",
+      "source": "money.udn.com",
+      "published": 1762055132
+    },
+    {
+      "id": "99d279f0585c",
+      "title": "曹興誠批鄭麗文中邪 國民黨：先為大罷免向民眾道歉",
+      "url": "https://udn.com/news/story/6656/9112202",
+      "source": "udn.com",
+      "published": 1762054782
+    },
+    {
+      "id": "5231e6164c52",
+      "title": "德國兵役改革　防長稱可望如期於明年生效",
+      "url": "https://money.udn.com/money/story/5599/9112193",
+      "source": "money.udn.com",
+      "published": 1762054568
+    },
     {
       "id": "7513db46cf7e",
       "title": "喊普亭不是獨裁者 敢言敢戰的鄭麗文能翻轉國民黨嗎",
@@ -191,39 +226,11 @@
       "published": 1762042888
     },
     {
-      "id": "762fa662b7c8",
-      "title": "加薩停火學校重開　逾2.5萬孩童回難民教室上課",
-      "url": "https://money.udn.com/money/story/5599/9111918",
-      "source": "money.udn.com",
-      "published": 1762042873
-    },
-    {
-      "id": "42ed56e0b6e1",
-      "title": "川習協議更多細節曝！白宮：陸立即暫緩稀土管制 放行安世半導體出貨",
-      "url": "https://money.udn.com/money/story/5599/9111891",
-      "source": "money.udn.com",
-      "published": 1762040444
-    },
-    {
-      "id": "7fdda3e7e957",
-      "title": "美政府停擺航管人力短缺　紐約機場航班延誤達2小時",
-      "url": "https://money.udn.com/money/story/10511/9111885",
-      "source": "money.udn.com",
-      "published": 1762040172
-    },
-    {
       "id": "dba773bb734b",
       "title": "華航機隊／曾堅持不買波音747 華航當年如何回心轉意",
       "url": "https://udn.com/news/story/10930/9107176",
       "source": "udn.com",
       "published": 1762039800
-    },
-    {
-      "id": "1a2ab0187b27",
-      "title": "英國劍橋郡火車驚傳持刀傷人　數名傷者送醫兩人被捕",
-      "url": "https://money.udn.com/money/story/5599/9111880",
-      "source": "money.udn.com",
-      "published": 1762038726
     },
     {
       "id": "a5f1c958dbb7",
@@ -378,13 +385,6 @@
       "url": "https://udn.com/news/story/6656/9111729",
       "source": "udn.com",
       "published": 1762013910
-    },
-    {
-      "id": "fa9125e9c30d",
-      "title": "新聞眼／吳音寧將掌台肥 看見賴政府故態復萌",
-      "url": "https://udn.com/news/story/6656/9111724",
-      "source": "udn.com",
-      "published": 1762013812
     },
     {
       "id": "fe798066e5d2",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1762054396
+  "build_id": 1762056815
 }
