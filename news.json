@@ -1,6 +1,41 @@
 {
-  "updated": 1762097576,
+  "updated": 1762099797,
   "items": [
+    {
+      "id": "85dee845d518",
+      "title": "59歲追夢、57歲築夢，樂齡族用全民英檢開啟人生下半場",
+      "url": "https://udn.com/news/story/7314/9109587",
+      "source": "udn.com",
+      "published": 1762099200
+    },
+    {
+      "id": "d7d5c5df5ab1",
+      "title": "當AI進入食農產業 好食好事新創展會 揭示科技如何成為新供應鏈語言",
+      "url": "https://udn.com/news/story/7314/9109806",
+      "source": "udn.com",
+      "published": 1762099200
+    },
+    {
+      "id": "d2c318d930eb",
+      "title": "歷史上的今天／1957年伊拉克王儲看演習 F-86輪番轟炸",
+      "url": "https://udn.com/news/story/7314/9112549",
+      "source": "udn.com",
+      "published": 1762099200
+    },
+    {
+      "id": "09af76924edb",
+      "title": "五角大楼负责人到访越南 此时美越军售谈判仍在持续",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251102-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%88%B0%E8%AE%BF%E8%B6%8A%E5%8D%97-%E6%AD%A4%E6%97%B6%E7%BE%8E%E8%B6%8A%E5%86%9B%E5%94%AE%E8%B0%88%E5%88%A4%E4%BB%8D%E5%9C%A8%E6%8C%81%E7%BB%AD",
+      "source": "rfi.fr",
+      "published": 1762098952
+    },
+    {
+      "id": "62945f3d3eaf",
+      "title": "國軍5大採購案延宕  藍委：如何補強戰力",
+      "url": "https://udn.com/news/story/10930/9113103",
+      "source": "udn.com",
+      "published": 1762097862
+    },
     {
       "id": "488c9bd31706",
       "title": "貝森特稱中國是不可靠夥伴 美國須擺脫中國稀土控制",
@@ -387,34 +422,6 @@
       "published": 1762067497
     },
     {
-      "id": "e4734808f36c",
-      "title": "「比蔣萬安強逾100個」張景森曝1條件賴清德一手好牌",
-      "url": "https://udn.com/news/story/6656/9112480",
-      "source": "udn.com",
-      "published": 1762065724
-    },
-    {
-      "id": "c42b0385ff40",
-      "title": "鄭麗文操盤2026 陸空戰老將搭新秀、地方黨部留懸念",
-      "url": "https://udn.com/news/story/122404/9112462",
-      "source": "udn.com",
-      "published": 1762064587
-    },
-    {
-      "id": "b8f8e5c43be6",
-      "title": "綠：黃國昌偷換聯合政府概念 無視地方政府為首長制",
-      "url": "https://udn.com/news/story/6656/9112423",
-      "source": "udn.com",
-      "published": 1762064328
-    },
-    {
-      "id": "c7422d0e9862",
-      "title": "國防部：第2批海馬士多管火箭 提前115年完成交運",
-      "url": "https://udn.com/news/story/10930/9112380",
-      "source": "udn.com",
-      "published": 1762063303
-    },
-    {
       "id": "f7f469c54dae",
       "title": "羅浮宮珠寶大劫案，再有兩人被起訴",
       "url": "https://www.bbc.com/zhongwen/articles/c15pp84v2n1o/trad?at_medium=RSS&at_campaign=rss",
@@ -651,13 +658,6 @@
       "url": "https://www.dw.com/zh/首次「習苗會」：中日能否持續破冰？/a-74582227?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761991320
-    },
-    {
-      "id": "e99351176993",
-      "title": "中国军方称严密跟监菲律宾组织的南海联合巡航",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251101-%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E7%A7%B0%E4%B8%A5%E5%AF%86%E8%B7%9F%E7%9B%91%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BB%84%E7%BB%87%E7%9A%84%E5%8D%97%E6%B5%B7%E8%81%94%E5%90%88%E5%B7%A1%E8%88%AA",
-      "source": "rfi.fr",
-      "published": 1761989966
     },
     {
       "id": "bd4d909a0d7f",
@@ -1402,5 +1402,5 @@
       "published": 1760505000
     }
   ],
-  "build_id": 1762097576
+  "build_id": 1762099797
 }
