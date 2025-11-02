@@ -1,12 +1,26 @@
 {
-  "updated": 1762121311,
+  "updated": 1762122947,
   "items": [
+    {
+      "id": "d446337d99bb",
+      "title": "特朗普称习近平知道中国若侵台会有后果",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251102-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9F%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8B%A5%E4%BE%B5%E5%8F%B0%E4%BC%9A%E6%9C%89%E5%90%8E%E6%9E%9C",
+      "source": "rfi.fr",
+      "published": 1762122804
+    },
     {
       "id": "faba55957982",
       "title": "以色列再收到3人質遺體　將進行身分鑑定",
       "url": "https://money.udn.com/money/story/5599/9113278",
       "source": "money.udn.com",
       "published": 1762122084
+    },
+    {
+      "id": "30a754c11e9c",
+      "title": "小毛贼做大案 卢浮宫窃宝案新进展",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251102-%E5%B0%8F%E6%AF%9B%E8%B4%BC%E5%81%9A%E5%A4%A7%E6%A1%88-%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%AA%83%E5%AE%9D%E6%A1%88%E6%96%B0%E8%BF%9B%E5%B1%95",
+      "source": "rfi.fr",
+      "published": 1762121395
     },
     {
       "id": "e9214e144832",
@@ -16,9 +30,9 @@
       "published": 1762120483
     },
     {
-      "id": "22f519cae53d",
+      "id": "4784c59a995b",
       "title": "軍費創新高軍購卻大延宕 充滿小說「1984」既視感",
-      "url": "https://udn.com/news/story/6656/9113201",
+      "url": "https://udn.com/news/story/10930/9113201",
       "source": "udn.com",
       "published": 1762120200
     },
@@ -548,25 +562,11 @@
       "published": 1762033560
     },
     {
-      "id": "015841f47ae2",
-      "title": "欧盟：中国同意暂停扩大稀土出口管制 双方将继续就出口政策保持对话",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E6%AC%A7%E7%9B%9F-%E4%B8%AD%E5%9B%BD%E5%90%8C%E6%84%8F%E6%9A%82%E5%81%9C%E6%89%A9%E5%A4%A7%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E5%8F%8C%E6%96%B9%E5%B0%86%E7%BB%A7%E7%BB%AD%E5%B0%B1%E5%87%BA%E5%8F%A3%E6%94%BF%E7%AD%96%E4%BF%9D%E6%8C%81%E5%AF%B9%E8%AF%9D",
-      "source": "rfi.fr",
-      "published": 1762033239
-    },
-    {
       "id": "1b9e58b1dc16",
       "title": "卢浮宫窃宝案：一38岁女子被起诉 被盗珠宝仍下落不明",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%AA%83%E6%A1%88-%E4%B8%8038%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B5%B7%E8%AF%89-%E8%A2%AB%E7%9B%97%E7%8F%A0%E5%AE%9D%E4%BB%8D%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E",
       "source": "rfi.fr",
       "published": 1762033082
-    },
-    {
-      "id": "b477b47bea7d",
-      "title": "赫格赛斯促东盟强化海上防卫 应对中国在南海“破坏稳定”行动",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E8%B5%AB%E6%A0%BC%E8%B5%9B%E6%96%AF%E4%BF%83%E4%B8%9C%E7%9B%9F%E5%BC%BA%E5%8C%96%E6%B5%B7%E4%B8%8A%E9%98%B2%E5%8D%AB-%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7-%E7%A0%B4%E5%9D%8F%E7%A8%B3%E5%AE%9A-%E8%A1%8C%E5%8A%A8",
-      "source": "rfi.fr",
-      "published": 1762032811
     },
     {
       "id": "0b5daec3d427",
@@ -1402,5 +1402,5 @@
       "published": 1760438340
     }
   ],
-  "build_id": 1762121311
+  "build_id": 1762122947
 }
