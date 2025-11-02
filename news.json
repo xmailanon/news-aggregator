@@ -1,6 +1,48 @@
 {
-  "updated": 1762058432,
+  "updated": 1762060204,
   "items": [
+    {
+      "id": "d507ea793e50",
+      "title": "美軍加勒比海再轟疑似運毒船　釀3死",
+      "url": "https://money.udn.com/money/story/10511/9112321",
+      "source": "money.udn.com",
+      "published": 1762059247
+    },
+    {
+      "id": "e13b1545d672",
+      "title": "鄭麗文擬啟動下鄉 號召支持者入黨、布局地方選戰",
+      "url": "https://udn.com/news/story/122404/9112207",
+      "source": "udn.com",
+      "published": 1762059042
+    },
+    {
+      "id": "11c315f7e82e",
+      "title": "綠高雄市長初選有團隊要選民「自稱28歲」 遭質疑公然作弊",
+      "url": "https://udn.com/news/story/6656/9112312",
+      "source": "udn.com",
+      "published": 1762058965
+    },
+    {
+      "id": "7407a557166a",
+      "title": "中韓領導人會談當天　金正恩視察特種作戰部隊",
+      "url": "https://money.udn.com/money/story/5599/9112308",
+      "source": "money.udn.com",
+      "published": 1762058732
+    },
+    {
+      "id": "d75a545f9af7",
+      "title": "林岱樺造勢創政壇驚奇 游盈隆：為綠高雄市長投下變數",
+      "url": "https://udn.com/news/story/6656/9112307",
+      "source": "udn.com",
+      "published": 1762058664
+    },
+    {
+      "id": "1263a26cd1db",
+      "title": "美防長讚「美中關係史上最佳」！雙方同意設軍事溝通管道 美媒有質疑",
+      "url": "https://money.udn.com/money/story/5599/9112304",
+      "source": "money.udn.com",
+      "published": 1762058610
+    },
     {
       "id": "533ead060441",
       "title": "鄭麗文就職演說 馬英九為何聽到哭？黃暐瀚：看見藍營重返執政的希望",
@@ -233,32 +275,11 @@
       "published": 1762046473
     },
     {
-      "id": "1409a2177472",
-      "title": "從懸賞3億的通緝犯晉身白宮貴賓！川普將接待敘利亞總統夏拉 美敘首例",
-      "url": "https://money.udn.com/money/story/5599/9111958",
-      "source": "money.udn.com",
-      "published": 1762046473
-    },
-    {
       "id": "06f87f2186b2",
       "title": "中國全運會：跨越歷史和時代的國家敘事",
       "url": "https://www.bbc.com/zhongwen/articles/c04dndq6reko/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762046263
-    },
-    {
-      "id": "440e1fb00291",
-      "title": "希臘克里特島爆發家族世仇槍擊　釀2死多傷",
-      "url": "https://money.udn.com/money/story/5599/9111931",
-      "source": "money.udn.com",
-      "published": 1762044330
-    },
-    {
-      "id": "46fdbaa2a6e0",
-      "title": "川普威脅對奈及利亞動武！已下令五角大廈備戰 原因曝光",
-      "url": "https://money.udn.com/money/story/5599/9111929",
-      "source": "money.udn.com",
-      "published": 1762043924
     },
     {
       "id": "b39a894bb14e",
@@ -292,13 +313,6 @@
       "id": "f4e7990a87e6",
       "title": "APEC慶州峰會閉幕 一圖看具體成果、21會員經貿實力",
       "url": "https://udn.com/news/story/7314/9111725",
-      "source": "udn.com",
-      "published": 1762033800
-    },
-    {
-      "id": "4c00cfbf3730",
-      "title": "賴政府敢選吳音寧 就要敢承擔後果",
-      "url": "https://udn.com/news/story/6656/9111802",
       "source": "udn.com",
       "published": 1762033800
     },
@@ -371,20 +385,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251101-%E6%9F%8F%E6%9E%97%E6%9C%BA%E5%9C%BA%E5%8F%91%E7%8E%B0%E4%B8%8D%E6%98%8E%E6%97%A0%E4%BA%BA%E6%9C%BA-%E8%88%AA%E7%8F%AD%E6%9A%82%E5%81%9C%E4%B8%A4%E5%B0%8F%E6%97%B6",
       "source": "rfi.fr",
       "published": 1762019423
-    },
-    {
-      "id": "66e0ff5113ae",
-      "title": "洪秀柱建議鄭麗文 依憲法處理兩岸議題",
-      "url": "https://udn.com/news/story/122404/9111787",
-      "source": "udn.com",
-      "published": 1762019052
-    },
-    {
-      "id": "785629dcd07b",
-      "title": "新聞眼／鄭麗文帶領獅群第一課：團結內部、接軌民意",
-      "url": "https://udn.com/news/story/122404/9111786",
-      "source": "udn.com",
-      "published": 1762018520
     },
     {
       "id": "fe798066e5d2",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1762058432
+  "build_id": 1762060204
 }
