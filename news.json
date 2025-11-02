@@ -1,6 +1,27 @@
 {
-  "updated": 1762089490,
+  "updated": 1762090573,
   "items": [
+    {
+      "id": "e002adc8be5a",
+      "title": "英警公布火車砍人案2嫌身分 稱尚無跡象表明案件與恐攻有關",
+      "url": "https://money.udn.com/money/story/5599/9112893",
+      "source": "money.udn.com",
+      "published": 1762090409
+    },
+    {
+      "id": "9761f4f43672",
+      "title": "外部威脅升高　歐盟2026工作計畫重點強化邊境防禦",
+      "url": "https://money.udn.com/money/story/5599/9112891",
+      "source": "money.udn.com",
+      "published": 1762090246
+    },
+    {
+      "id": "7e247781554e",
+      "title": "特习会后 华盛顿寻求重启与中国军事沟通渠道",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251102-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%90%8E-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%AF%BB%E6%B1%82%E9%87%8D%E5%90%AF%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%8B%E6%B2%9F%E9%80%9A%E6%B8%A0%E9%81%93",
+      "source": "rfi.fr",
+      "published": 1762089485
+    },
     {
       "id": "d7f5a50fa43c",
       "title": "大埃及博物館歷經20年建造終開幕　各國政要齊聚慶賀",
@@ -240,16 +261,16 @@
       "published": 1762070520
     },
     {
-      "id": "431259f17eb0",
-      "title": "德国重金投入核聚变 是浪费钱吗？",
-      "url": "https://www.dw.com/zh/德国重金投入核聚变-是浪费钱吗？/a-74544838?maca=chi-rss-chi-all-1127-rdf",
+      "id": "0b54185160ba",
+      "title": "事实核查：德国取消了2025年的圣诞市场？",
+      "url": "https://www.dw.com/zh/事实核查：德国取消了2025年的圣诞市场？/a-74531700?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762070400
     },
     {
-      "id": "0b54185160ba",
-      "title": "事实核查：德国取消了2025年的圣诞市场？",
-      "url": "https://www.dw.com/zh/事实核查：德国取消了2025年的圣诞市场？/a-74531700?maca=chi-rss-chi-all-1127-rdf",
+      "id": "431259f17eb0",
+      "title": "德国重金投入核聚变 是浪费钱吗？",
+      "url": "https://www.dw.com/zh/德国重金投入核聚变-是浪费钱吗？/a-74544838?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762070400
     },
@@ -364,20 +385,6 @@
       "url": "https://udn.com/news/story/6656/9112423",
       "source": "udn.com",
       "published": 1762064328
-    },
-    {
-      "id": "80ea2ae97a7a",
-      "title": "遭美政府關門波及　低收入戶：沒食物券就沒飯吃",
-      "url": "https://money.udn.com/money/story/10511/9112443",
-      "source": "money.udn.com",
-      "published": 1762063943
-    },
-    {
-      "id": "24eb9ad7856c",
-      "title": "澳洲遊輪將老人留偏島釀憾事  家屬質疑船公司疏失",
-      "url": "https://money.udn.com/money/story/5599/9112441",
-      "source": "money.udn.com",
-      "published": 1762063942
     },
     {
       "id": "c7422d0e9862",
@@ -665,13 +672,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251031-%E4%B8%AD%E5%9B%BD%E5%8F%AF%E4%BB%A5%E5%92%8C%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%B5%B7%E4%BC%9F%E5%A4%A7",
       "source": "rfi.fr",
       "published": 1761949267
-    },
-    {
-      "id": "483d6bd6a6c4",
-      "title": "高市早苗与习近平会晤 双方重申推动稳定与互惠关系",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251031-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E6%99%A4-%E9%87%8D%E7%94%B3%E6%8E%A8%E5%8A%A8%E7%A8%B3%E5%AE%9A%E4%B8%8E%E4%BA%92%E6%83%A0%E5%85%B3%E7%B3%BB",
-      "source": "rfi.fr",
-      "published": 1761945726
     },
     {
       "id": "06de079c754e",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1762089490
+  "build_id": 1762090573
 }
