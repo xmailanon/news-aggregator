@@ -1,6 +1,13 @@
 {
-  "updated": 1762110418,
+  "updated": 1762111908,
   "items": [
+    {
+      "id": "ab71667b2ad1",
+      "title": "姚金祥投書英媒駁中國大使 指中方扭曲歷史昧於事實",
+      "url": "https://udn.com/news/story/6656/9113204",
+      "source": "udn.com",
+      "published": 1762110844
+    },
     {
       "id": "9dbf6d311e43",
       "title": "中國稀土政策若走回頭路　美國財長：川普可能提高關稅",
@@ -185,7 +192,7 @@
     },
     {
       "id": "fffc2d226391",
-      "title": "沒延宕？國防部報告未提魚叉、刺針飛彈",
+      "title": "軍購沒延宕？國防部報告未提魚叉、刺針飛彈",
       "url": "https://udn.com/news/story/10930/9113129",
       "source": "udn.com",
       "published": 1762099916
@@ -213,21 +220,21 @@
     },
     {
       "id": "9572150e31c2",
-      "title": "冷眼集／軍購延宕報告 軍方盡顯尷尬與閃躲",
+      "title": "冷眼集／國防部軍購延宕報告 盡顯軍方尷尬與閃躲",
       "url": "https://udn.com/news/story/10930/9113116",
       "source": "udn.com",
       "published": 1762099750
     },
     {
-      "id": "7c4ba1dbf08f",
+      "id": "3af4caadb79f",
       "title": "萊爾校長打響名號 國民黨新媒體部人事受矚",
-      "url": "https://udn.com/news/story/6656/9113150",
+      "url": "https://udn.com/news/story/122404/9113150",
       "source": "udn.com",
       "published": 1762099727
     },
     {
       "id": "323cbf62fed6",
-      "title": "總統被截胡",
+      "title": "廣角鏡／總統被截胡",
       "url": "https://udn.com/news/story/6656/9113154",
       "source": "udn.com",
       "published": 1762099607
@@ -371,13 +378,6 @@
       "url": "https://udn.com/news/story/6656/9112733",
       "source": "udn.com",
       "published": 1762081662
-    },
-    {
-      "id": "11c68d3a57b2",
-      "title": "食農教育博覽會 以午餐之河意象推動永續飲食",
-      "url": "https://udn.com/news/story/7314/9112718",
-      "source": "udn.com",
-      "published": 1762081624
     },
     {
       "id": "190d6f1e681a",
@@ -1402,5 +1402,5 @@
       "published": 1760438340
     }
   ],
-  "build_id": 1762110418
+  "build_id": 1762111908
 }
