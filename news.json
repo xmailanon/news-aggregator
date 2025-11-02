@@ -1,6 +1,41 @@
 {
-  "updated": 1762124922,
+  "updated": 1762126346,
   "items": [
+    {
+      "id": "5f6aa5607b61",
+      "title": "歐盟加速打造「無人機長城」 倚重雷射武器防禦俄侵擾",
+      "url": "https://udn.com/news/story/10930/9112586",
+      "source": "udn.com",
+      "published": 1762126200
+    },
+    {
+      "id": "15581d00cdc3",
+      "title": "彭博：防美指控匯率操縱 央行干預空間有限 台幣年底波動料加劇",
+      "url": "https://money.udn.com/money/story/5599/9113293",
+      "source": "money.udn.com",
+      "published": 1762126175
+    },
+    {
+      "id": "03f17a89a0e9",
+      "title": "川普令恢復核武試驗　美能源部長：系統測試暫無核試爆",
+      "url": "https://money.udn.com/money/story/10511/9113291",
+      "source": "money.udn.com",
+      "published": 1762125691
+    },
+    {
+      "id": "373d8b118e6d",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/9113290",
+      "source": "money.udn.com",
+      "published": 1762125568
+    },
+    {
+      "id": "0ed21c468ee1",
+      "title": "法广两名记者马里遇害12周年",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251102-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%B3%95%E5%B9%BF%E4%B8%A4%E5%90%8D%E8%AE%B0%E8%80%85%E9%A9%AC%E9%87%8C%E9%81%87%E5%AE%B312%E5%91%A8%E5%B9%B4",
+      "source": "rfi.fr",
+      "published": 1762125345
+    },
     {
       "id": "b3a2fc47a8f2",
       "title": "小米手机有没有后门？习近平难得一笑视频走红",
@@ -115,7 +150,7 @@
     },
     {
       "id": "c04af982d8d6",
-      "title": "中國稀土政策若走回頭路　美國財長：川普可能提高關稅",
+      "title": "中國稀土政策若走回頭路 美財長貝森特：川普可能提高關稅",
       "url": "https://money.udn.com/money/story/5599/9113228",
       "source": "money.udn.com",
       "published": 1762110149
@@ -226,39 +261,11 @@
       "published": 1762104111
     },
     {
-      "id": "a890591376f1",
-      "title": "夏普擬攻 AI、機器人、電動車",
-      "url": "https://money.udn.com/money/story/5599/9113006",
-      "source": "money.udn.com",
-      "published": 1762104078
-    },
-    {
-      "id": "610ff48629d2",
-      "title": "私人飛機引擎出租 商機火",
-      "url": "https://money.udn.com/money/story/5599/9113008",
-      "source": "money.udn.com",
-      "published": 1762104062
-    },
-    {
-      "id": "a097c40af233",
-      "title": "1分鐘看世界／歐盟規劃成立單一金融監管機構 納管股市、加密幣交易所",
-      "url": "https://money.udn.com/money/story/5599/9112982",
-      "source": "money.udn.com",
-      "published": 1762103998
-    },
-    {
       "id": "f3b8112a9a52",
       "title": "菲律宾与加拿大签署《军队互访地位协定》针对中国的海洋行动",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251102-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%AD%BE%E7%BD%B2-%E5%86%9B%E9%98%9F%E4%BA%92%E8%AE%BF%E5%9C%B0%E4%BD%8D%E5%8D%8F%E5%AE%9A-%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B5%B7%E6%B4%8B%E8%A1%8C%E5%8A%A8",
       "source": "rfi.fr",
       "published": 1762101385
-    },
-    {
-      "id": "3328e433bae2",
-      "title": "被點名接國民黨新媒體部主任 林益諄：投入自媒體6年 並未接獲徵詢",
-      "url": "https://udn.com/news/story/122404/9113182",
-      "source": "udn.com",
-      "published": 1762100464
     },
     {
       "id": "fa37dba3931a",
@@ -343,6 +350,20 @@
       "url": "https://udn.com/news/story/6656/9113154",
       "source": "udn.com",
       "published": 1762099607
+    },
+    {
+      "id": "1219591df756",
+      "title": "一周世界舆论聚焦：李在明仍在中美间平衡",
+      "url": "https://www.ftchinese.com/story/001108067",
+      "source": "ftchinese.com",
+      "published": 1762099200
+    },
+    {
+      "id": "6621b8f4c9b2",
+      "title": "特朗普扬言恢复核试验引发困惑和反弹",
+      "url": "https://www.ftchinese.com/story/001108068",
+      "source": "ftchinese.com",
+      "published": 1762099200
     },
     {
       "id": "85dee845d518",
@@ -560,13 +581,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E5%A4%A7%E5%9F%83%E5%8F%8A%E5%8D%9A%E7%89%A9%E9%A6%86%E9%9A%86%E9%87%8D%E5%BC%80%E5%B9%95-%E5%9B%BE%E5%9D%A6%E5%8D%A1%E9%97%A8%E9%99%B5%E5%A2%93%E7%8F%8D%E5%AE%9D%E9%A6%96%E5%BA%A6%E5%AE%8C%E6%95%B4%E9%9D%A2%E4%B8%96-%E5%A1%9E%E8%A5%BF%E5%AE%A3%E7%A7%B0-%E4%B8%BA%E6%96%87%E6%98%8E%E5%8F%B2%E5%BC%80%E5%90%AF%E6%96%B0%E7%AF%87%E7%AB%A0",
       "source": "rfi.fr",
       "published": 1762033560
-    },
-    {
-      "id": "1b9e58b1dc16",
-      "title": "卢浮宫窃宝案：一38岁女子被起诉 被盗珠宝仍下落不明",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%AA%83%E6%A1%88-%E4%B8%8038%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B5%B7%E8%AF%89-%E8%A2%AB%E7%9B%97%E7%8F%A0%E5%AE%9D%E4%BB%8D%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E",
-      "source": "rfi.fr",
-      "published": 1762033082
     },
     {
       "id": "0b5daec3d427",
@@ -887,20 +901,6 @@
       "id": "be38c4e60bdd",
       "title": "从酷夏到入冬：看风看云，冷暖自知",
       "url": "https://www.ftchinese.com/story/001108048",
-      "source": "ftchinese.com",
-      "published": 1761840000
-    },
-    {
-      "id": "aa1a70efc3ff",
-      "title": "《日掛中天》：遥远的罪罚与救赎",
-      "url": "https://www.ftchinese.com/story/001108034",
-      "source": "ftchinese.com",
-      "published": 1761840000
-    },
-    {
-      "id": "a584ddf77dea",
-      "title": "保罗•托马斯•安德森：上升的一切必将汇合",
-      "url": "https://www.ftchinese.com/story/001108043",
       "source": "ftchinese.com",
       "published": 1761840000
     },
@@ -1402,5 +1402,5 @@
       "published": 1760438340
     }
   ],
-  "build_id": 1762124922
+  "build_id": 1762126346
 }
