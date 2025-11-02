@@ -1,6 +1,20 @@
 {
-  "updated": 1762078139,
+  "updated": 1762079800,
   "items": [
+    {
+      "id": "e4e0ce929fc3",
+      "title": "敘利亞總統夏拉擬近期訪問白宮　外長證實消息",
+      "url": "https://money.udn.com/money/story/10511/9112709",
+      "source": "money.udn.com",
+      "published": 1762079433
+    },
+    {
+      "id": "48c3eaba01eb",
+      "title": "美前國安顧問波頓：川習對台灣問題沉默未必是金",
+      "url": "https://money.udn.com/money/story/5599/9112699",
+      "source": "money.udn.com",
+      "published": 1762078831
+    },
     {
       "id": "af2f5305ac73",
       "title": "外國人說Don’t be so salty. 可不是說你很鹹",
@@ -338,20 +352,6 @@
       "published": 1762055291
     },
     {
-      "id": "0d24c62e3057",
-      "title": "歐巴馬批川普政府魯莽行事　籲選民投票反制",
-      "url": "https://money.udn.com/money/story/10511/9112206",
-      "source": "money.udn.com",
-      "published": 1762055132
-    },
-    {
-      "id": "5231e6164c52",
-      "title": "德國兵役改革　防長稱可望如期於明年生效",
-      "url": "https://money.udn.com/money/story/5599/9112193",
-      "source": "money.udn.com",
-      "published": 1762054568
-    },
-    {
       "id": "f7f469c54dae",
       "title": "羅浮宮珠寶大劫案，再有兩人被起訴",
       "url": "https://www.bbc.com/zhongwen/articles/c15pp84v2n1o/trad?at_medium=RSS&at_campaign=rss",
@@ -455,6 +455,27 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251101-%E6%9F%8F%E6%9E%97%E6%9C%BA%E5%9C%BA%E5%8F%91%E7%8E%B0%E4%B8%8D%E6%98%8E%E6%97%A0%E4%BA%BA%E6%9C%BA-%E8%88%AA%E7%8F%AD%E6%9A%82%E5%81%9C%E4%B8%A4%E5%B0%8F%E6%97%B6",
       "source": "rfi.fr",
       "published": 1762019423
+    },
+    {
+      "id": "4e7d8fd0f6c5",
+      "title": "香港网约车的前世今生",
+      "url": "https://www.ftchinese.com/story/001108052",
+      "source": "ftchinese.com",
+      "published": 1762012800
+    },
+    {
+      "id": "07a7e28085b2",
+      "title": "从郑智化“连滚带爬”登机看民航困局",
+      "url": "https://www.ftchinese.com/story/001108055",
+      "source": "ftchinese.com",
+      "published": 1762012800
+    },
+    {
+      "id": "76c7eba31173",
+      "title": "十五五规划、产业政策和国际竞争",
+      "url": "https://www.ftchinese.com/story/001108063",
+      "source": "ftchinese.com",
+      "published": 1762012800
     },
     {
       "id": "ccc385b53ac0",
@@ -880,27 +901,6 @@
       "id": "a584ddf77dea",
       "title": "保罗•托马斯•安德森：上升的一切必将汇合",
       "url": "https://www.ftchinese.com/story/001108043",
-      "source": "ftchinese.com",
-      "published": 1761840000
-    },
-    {
-      "id": "9223870ac83d",
-      "title": "比亚迪第三季度利润同比下滑33%",
-      "url": "https://www.ftchinese.com/story/001108047",
-      "source": "ftchinese.com",
-      "published": 1761840000
-    },
-    {
-      "id": "96219529792c",
-      "title": "市场的悲欢并不相通：巴黎巴塞尔的氛围体验",
-      "url": "https://www.ftchinese.com/story/001108019",
-      "source": "ftchinese.com",
-      "published": 1761840000
-    },
-    {
-      "id": "5b610a41913f",
-      "title": "当美国制造不确定，中国的机会在哪里？",
-      "url": "https://www.ftchinese.com/story/001108021",
       "source": "ftchinese.com",
       "published": 1761840000
     },
@@ -1402,5 +1402,5 @@
       "published": 1760778240
     }
   ],
-  "build_id": 1762078139
+  "build_id": 1762079800
 }
