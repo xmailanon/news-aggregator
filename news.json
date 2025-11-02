@@ -1,6 +1,13 @@
 {
-  "updated": 1762122947,
+  "updated": 1762124922,
   "items": [
+    {
+      "id": "b3a2fc47a8f2",
+      "title": "小米手机有没有后门？习近平难得一笑视频走红",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251102-%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E6%9C%89%E6%B2%A1%E6%9C%89%E5%90%8E%E9%97%A8-%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%9A%BE%E5%BE%97%E4%B8%80%E7%AC%91%E8%A7%86%E9%A2%91%E8%B5%B0%E7%BA%A2",
+      "source": "rfi.fr",
+      "published": 1762124425
+    },
     {
       "id": "d446337d99bb",
       "title": "特朗普称习近平知道中国若侵台会有后果",
@@ -546,13 +553,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%AD%E7%BB%B4%E4%B9%A0%E8%BF%91%E5%B9%B3-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%AF%B9%E5%8C%97%E4%BA%AC%E5%BE%88%E5%BC%BA%E7%A1%AC",
       "source": "rfi.fr",
       "published": 1762035603
-    },
-    {
-      "id": "510f6810aab0",
-      "title": "特习会没给德国经济界带来曙光",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251101-%E7%89%B9%E4%B9%A0%E4%BC%9A%E6%B2%A1%E7%BB%99%E5%BE%B7%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%B8%A6%E6%9D%A5%E6%9B%99%E5%85%89",
-      "source": "rfi.fr",
-      "published": 1762033584
     },
     {
       "id": "7e707ce169e4",
@@ -1402,5 +1402,5 @@
       "published": 1760438340
     }
   ],
-  "build_id": 1762122947
+  "build_id": 1762124922
 }
