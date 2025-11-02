@@ -1,6 +1,41 @@
 {
-  "updated": 1762088196,
+  "updated": 1762089490,
   "items": [
+    {
+      "id": "d7f5a50fa43c",
+      "title": "大埃及博物館歷經20年建造終開幕　各國政要齊聚慶賀",
+      "url": "https://money.udn.com/money/story/5599/9112875",
+      "source": "money.udn.com",
+      "published": 1762088450
+    },
+    {
+      "id": "c8e595c5cc22",
+      "title": "AI最新熱門工作：工程師不只要會寫程式 還須點滿這技能",
+      "url": "https://money.udn.com/money/story/5599/9112874",
+      "source": "money.udn.com",
+      "published": 1762088450
+    },
+    {
+      "id": "21397b16b471",
+      "title": "特朗普威胁军事干预尼日利亚 指该国伊斯兰恐怖分子屠杀基督徒",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251102-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%86%9B%E4%BA%8B%E5%B9%B2%E9%A2%84%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A-%E6%8C%87%E8%AF%A5%E5%9B%BD%E4%BC%8A%E6%96%AF%E5%85%B0%E6%81%90%E6%80%96%E5%88%86%E5%AD%90%E5%B1%A0%E6%9D%80%E5%9F%BA%E7%9D%A3%E5%BE%92",
+      "source": "rfi.fr",
+      "published": 1762088247
+    },
+    {
+      "id": "e8e57f3f701f",
+      "title": "安世半導體有望恢復出貨　公司盼穩定供應客戶",
+      "url": "https://money.udn.com/money/story/5599/9112867",
+      "source": "money.udn.com",
+      "published": 1762088087
+    },
+    {
+      "id": "c1c416fd4d03",
+      "title": "英國火車無差別砍人案　警方排除恐攻因素",
+      "url": "https://money.udn.com/money/story/5599/9112864",
+      "source": "money.udn.com",
+      "published": 1762088047
+    },
     {
       "id": "ce2db4afe845",
       "title": "高市早苗「滑椅子」搭話印尼總統　網：社交能力太強",
@@ -345,39 +380,11 @@
       "published": 1762063942
     },
     {
-      "id": "07e547ad83a3",
-      "title": "黃仁勳首爾揪吃炸雞...竟獨缺輝達在韓第一供應商 外媒曝內幕",
-      "url": "https://money.udn.com/money/story/5599/9112435",
-      "source": "money.udn.com",
-      "published": 1762063711
-    },
-    {
       "id": "c7422d0e9862",
       "title": "國防部：第2批海馬士多管火箭 提前115年完成交運",
       "url": "https://udn.com/news/story/10930/9112380",
       "source": "udn.com",
       "published": 1762063303
-    },
-    {
-      "id": "b5a2e23e7c8e",
-      "title": "OPEC+料將再度上調石油產量",
-      "url": "https://money.udn.com/money/story/5599/9112368",
-      "source": "money.udn.com",
-      "published": 1762060870
-    },
-    {
-      "id": "d507ea793e50",
-      "title": "美軍加勒比海再轟疑似運毒船　釀3死",
-      "url": "https://money.udn.com/money/story/10511/9112321",
-      "source": "money.udn.com",
-      "published": 1762059247
-    },
-    {
-      "id": "7407a557166a",
-      "title": "中韓領導人會談當天　金正恩視察特種作戰部隊",
-      "url": "https://money.udn.com/money/story/5599/9112308",
-      "source": "money.udn.com",
-      "published": 1762058732
     },
     {
       "id": "f7f469c54dae",
@@ -651,13 +658,6 @@
       "url": "https://cn.nytimes.com/china/20251101/china-apec-trump-trade/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1761960636
-    },
-    {
-      "id": "ff3c13ee626c",
-      "title": "中国：“生几个孩子已成职业晋升的决定性因素”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251031-%E4%B8%AD%E5%9B%BD-%E7%94%9F%E5%87%A0%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%B7%B2%E6%88%90%E8%81%8C%E4%B8%9A%E6%99%8B%E5%8D%87%E7%9A%84%E5%86%B3%E5%AE%9A%E6%80%A7%E5%9B%A0%E7%B4%A0",
-      "source": "rfi.fr",
-      "published": 1761954279
     },
     {
       "id": "b7e1b402d32b",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1762088196
+  "build_id": 1762089490
 }
