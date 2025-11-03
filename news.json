@@ -1,6 +1,13 @@
 {
-  "updated": 1762198340,
+  "updated": 1762200699,
   "items": [
+    {
+      "id": "6716f88d826c",
+      "title": "星國擬列李光耀故居為古蹟　李顯揚批不尊重盼拆除",
+      "url": "https://money.udn.com/money/story/5599/9115545",
+      "source": "money.udn.com",
+      "published": 1762199130
+    },
     {
       "id": "35f12880c408",
       "title": "法国2026年预算：议会通过“对非生产性财富征税”",
@@ -10,7 +17,7 @@
     },
     {
       "id": "f5df64644cf4",
-      "title": "法国2026年预算：议会通过“对非生产性财富征税”",
+      "title": "马克龙针对法国企业举办一项“选择法国”活动",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251103-%E6%B3%95%E5%9B%BD2026%E5%B9%B4%E9%A2%84%E7%AE%97-%E8%AE%AE%E4%BC%9A%E9%80%9A%E8%BF%87-%E5%AF%B9%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E8%B4%A2%E5%AF%8C%E5%BE%81%E7%A8%8E",
       "source": "rfi.fr",
       "published": 1762196190
@@ -343,13 +350,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251103-%E8%8B%B1%E5%9B%BD%E5%A4%A7%E5%AD%A6%E5%9B%A0%E4%B8%AD%E5%9B%BD%E6%96%BD%E5%8E%8B%E5%8F%AB%E5%81%9C%E4%BA%BA%E6%9D%83%E7%A0%94%E7%A9%B6",
       "source": "rfi.fr",
       "published": 1762179218
-    },
-    {
-      "id": "674a5eedb107",
-      "title": "華爾街示警 科技大廠 AI 競賽可能演變成「囚徒困境」",
-      "url": "https://money.udn.com/money/story/5599/9115189",
-      "source": "money.udn.com",
-      "published": 1762178924
     },
     {
       "id": "a424615702b2",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762198340
+  "build_id": 1762200699
 }
