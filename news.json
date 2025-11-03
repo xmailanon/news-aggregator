@@ -1,6 +1,27 @@
 {
-  "updated": 1762207805,
+  "updated": 1762209517,
   "items": [
+    {
+      "id": "7a78a75e623b",
+      "title": "OpenAI與亞馬遜協議激勵AI類股走高　美股多收漲",
+      "url": "https://money.udn.com/money/story/5599/9115611",
+      "source": "money.udn.com",
+      "published": 1762209372
+    },
+    {
+      "id": "744900f7918e",
+      "title": "美国将迎来地方选举　特朗普面临任期初期重大考验",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251103-%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%9C%B0%E6%96%B9%E9%80%89%E4%B8%BE-%E7%89%B9%E6%9C%97%E6%99%AE%E9%9D%A2%E4%B8%B4%E4%BB%BB%E6%9C%9F%E5%88%9D%E6%9C%9F%E9%87%8D%E5%A4%A7%E8%80%83%E9%AA%8C",
+      "source": "rfi.fr",
+      "published": 1762208884
+    },
+    {
+      "id": "5aa9eea88052",
+      "title": "市場衡量OPEC+下季暫停增產計畫　國際油價小升",
+      "url": "https://money.udn.com/money/story/5599/9115598",
+      "source": "money.udn.com",
+      "published": 1762208012
+    },
     {
       "id": "d6e0f6559b9a",
       "title": "賣兒童外型情趣娃娃遭法國警告　Shein宣布平台禁售",
@@ -324,25 +345,11 @@
       "published": 1762184710
     },
     {
-      "id": "f87fd84e573a",
-      "title": "德外長與王毅通話　將重啟訪中行程",
-      "url": "https://money.udn.com/money/story/5599/9115442",
-      "source": "money.udn.com",
-      "published": 1762184709
-    },
-    {
       "id": "af6176eef8b6",
       "title": "暢談APEC成果 林信義：花若盛開 蝴蝶自來",
       "url": "https://udn.com/news/story/6656/9115380",
       "source": "udn.com",
       "published": 1762184265
-    },
-    {
-      "id": "d0b736efa9ee",
-      "title": "OpenAI與亞馬遜簽署合作協議　美股早盤走高",
-      "url": "https://money.udn.com/money/story/123398/9115407",
-      "source": "money.udn.com",
-      "published": 1762184169
     },
     {
       "id": "455ba448a341",
@@ -623,13 +630,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251102-%E5%B0%8F%E6%AF%9B%E8%B4%BC%E5%81%9A%E5%A4%A7%E6%A1%88-%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%AA%83%E5%AE%9D%E6%A1%88%E6%96%B0%E8%BF%9B%E5%B1%95",
       "source": "rfi.fr",
       "published": 1762121395
-    },
-    {
-      "id": "ee04b3efd354",
-      "title": "贝森特：如果中国不履行稀土承诺 美国随时准备提高关税",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251102-%E8%B4%9D%E6%A3%AE%E7%89%B9%E8%AD%A6%E5%91%8A-%E5%A6%82%E6%9E%9C%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%B1%A5%E8%A1%8C%E7%A8%80%E5%9C%9F%E6%89%BF%E8%AF%BA-%E7%BE%8E%E5%9B%BD%E9%9A%8F%E6%97%B6%E5%87%86%E5%A4%87%E6%8F%90%E9%AB%98%E5%85%B3%E7%A8%8E",
-      "source": "rfi.fr",
-      "published": 1762119065
     },
     {
       "id": "a9021832b294",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762207805
+  "build_id": 1762209517
 }
