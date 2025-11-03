@@ -1,30 +1,44 @@
 {
-  "updated": 1762153876,
+  "updated": 1762155396,
   "items": [
     {
+      "id": "b8182d9aa3d4",
+      "title": "颱風海鷗壓境  菲律賓中部逾7000人緊急撤離",
+      "url": "https://money.udn.com/money/story/5599/9114442",
+      "source": "money.udn.com",
+      "published": 1762155032
+    },
+    {
+      "id": "45bddf04ece0",
+      "title": "貝森特又批利率太高 說美國房市可能已陷衰退",
+      "url": "https://money.udn.com/money/story/10511/9114430",
+      "source": "money.udn.com",
+      "published": 1762154733
+    },
+    {
+      "id": "2e427c7ec9c6",
+      "title": "【重磅快評】美濃峽谷沒代誌？賴清德子弟兵為萊爾秀暖場",
+      "url": "https://udn.com/news/story/6656/9114424",
+      "source": "udn.com",
+      "published": 1762154566
+    },
+    {
       "id": "288a7a9e283f",
-      "title": "美關稅回不去了！官員：認命吧，最高法院難撼川普政策",
+      "title": "美關稅回不去了！官員：認命吧 最高法院難撼川普政策",
       "url": "https://money.udn.com/money/story/5599/9114395",
       "source": "money.udn.com",
       "published": 1762154045
     },
     {
       "id": "95f96ac70054",
-      "title": "大馬推動稀土產業  首相安華：超級磁鐵廠投資到位",
+      "title": "大馬推動稀土產業 首相安華：超級磁鐵廠投資到位",
       "url": "https://money.udn.com/money/story/5599/9114389",
       "source": "money.udn.com",
       "published": 1762153957
     },
     {
-      "id": "5a19af456511",
-      "title": "台日交流貢獻獲肯定  謝長廷獲日本旭日大綬章",
-      "url": "https://money.udn.com/money/story/5599/9114355",
-      "source": "money.udn.com",
-      "published": 1762153240
-    },
-    {
       "id": "5bb4979c7ddb",
-      "title": "支持婦女職訓計畫　駐土耳其代表處捐縫紉設備",
+      "title": "支持婦女職訓計畫 駐土耳其代表處捐縫紉設備",
       "url": "https://money.udn.com/money/story/5599/9114327",
       "source": "money.udn.com",
       "published": 1762152848
@@ -37,8 +51,15 @@
       "published": 1762152464
     },
     {
+      "id": "76c61175002a",
+      "title": "川習會後芬太尼問題  美媒：不確定因素仍多",
+      "url": "https://money.udn.com/money/story/5599/9114301",
+      "source": "money.udn.com",
+      "published": 1762152335
+    },
+    {
       "id": "f97e6d1305d5",
-      "title": "阿富汗強震逾20死、320傷　著名藍色清真寺受損",
+      "title": "阿富汗強震逾20死、320傷 著名藍色清真寺受損",
       "url": "https://money.udn.com/money/story/5599/9114300",
       "source": "money.udn.com",
       "published": 1762152329
@@ -93,15 +114,8 @@
       "published": 1762148715
     },
     {
-      "id": "94b1f6c5b0aa",
-      "title": "迪士尼公主音樂會5日首登小巨蛋　傳遞勇氣與愛",
-      "url": "https://money.udn.com/money/story/5599/9114145",
-      "source": "money.udn.com",
-      "published": 1762148713
-    },
-    {
       "id": "edb91a28d4c7",
-      "title": "韓美防長年度安全會議　磋商駐韓美軍角色調整",
+      "title": "韓美防長年度安全會議 磋商駐韓美軍角色調整",
       "url": "https://money.udn.com/money/story/5599/9114144",
       "source": "money.udn.com",
       "published": 1762148713
@@ -205,13 +219,6 @@
       "published": 1762144599
     },
     {
-      "id": "cc66b297d532",
-      "title": "稱中俄秘密測試核武！川普：必重啟核試爆「別人有美國也要有」",
-      "url": "https://money.udn.com/money/story/5599/9113975",
-      "source": "money.udn.com",
-      "published": 1762144593
-    },
-    {
       "id": "5b1da41464f2",
       "title": "國民黨地方黨部人事多數留任 戴錫欽續任北市主委",
       "url": "https://udn.com/news/story/6656/9113932",
@@ -301,13 +308,6 @@
       "url": "https://udn.com/news/story/6656/9113756",
       "source": "udn.com",
       "published": 1762140175
-    },
-    {
-      "id": "b9b812dda461",
-      "title": "綠委憂不在籍投票會「中共介選」 徐巧芯批：假議題",
-      "url": "https://udn.com/news/story/6656/9113753",
-      "source": "udn.com",
-      "published": 1762140112
     },
     {
       "id": "7846bc760b0f",
@@ -1402,5 +1402,5 @@
       "published": 1760505000
     }
   ],
-  "build_id": 1762153876
+  "build_id": 1762155396
 }
