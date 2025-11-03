@@ -1,6 +1,13 @@
 {
-  "updated": 1762202361,
+  "updated": 1762204160,
   "items": [
+    {
+      "id": "bf8c03871821",
+      "title": "法官裁定繼續支付補助　川普政府稱將部分發放食物券",
+      "url": "https://money.udn.com/money/story/10511/9115559",
+      "source": "money.udn.com",
+      "published": 1762203279
+    },
     {
       "id": "6716f88d826c",
       "title": "星國擬列李光耀故居為古蹟　李顯揚批不尊重盼拆除",
@@ -329,13 +336,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251103-%E5%93%88%E7%8E%9B%E6%96%AF%E5%86%8D%E4%BA%A4%E5%87%BA3%E5%85%B7%E9%81%97%E4%BD%93-%E4%BB%A5%E8%89%B2%E5%88%97%E7%A1%AE%E8%AE%A4%E6%98%AF%E8%A2%AB%E4%BF%98%E4%BA%BA%E8%B4%A8",
       "source": "rfi.fr",
       "published": 1762180489
-    },
-    {
-      "id": "4f77086ef4bb",
-      "title": "美國重啟核試　芬蘭總統：核武新時代已開啟",
-      "url": "https://money.udn.com/money/story/5599/9115211",
-      "source": "money.udn.com",
-      "published": 1762179676
     },
     {
       "id": "648cc9e82e63",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762202361
+  "build_id": 1762204160
 }
