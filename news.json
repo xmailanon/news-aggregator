@@ -1,6 +1,27 @@
 {
-  "updated": 1762193667,
+  "updated": 1762195430,
   "items": [
+    {
+      "id": "dd60f09900d0",
+      "title": "市場觀望企業財報　歐股收盤走勢分歧",
+      "url": "https://money.udn.com/money/story/5599/9115531",
+      "source": "money.udn.com",
+      "published": 1762194989
+    },
+    {
+      "id": "13748479aa2d",
+      "title": "川普：我任內陸不會犯台",
+      "url": "https://money.udn.com/money/story/5599/9115389",
+      "source": "money.udn.com",
+      "published": 1762194392
+    },
+    {
+      "id": "899bc2932b57",
+      "title": "刚果(金)当局暂停多个反对党",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251103-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E5%BD%93%E5%B1%80%E6%9A%82%E5%81%9C%E5%A4%9A%E4%B8%AA%E5%8F%8D%E5%AF%B9%E5%85%9A",
+      "source": "rfi.fr",
+      "published": 1762193277
+    },
     {
       "id": "efef405e1ea7",
       "title": "韩美安保会议前夕 赫格塞斯访问了边境板门店",
@@ -317,20 +338,6 @@
       "published": 1762178924
     },
     {
-      "id": "09aebde1a0b5",
-      "title": "微軟加速阿聯布局7年投150億美元 獲美晶片出口許可",
-      "url": "https://money.udn.com/money/story/123398/9115185",
-      "source": "money.udn.com",
-      "published": 1762178449
-    },
-    {
-      "id": "eaa79be44961",
-      "title": "Shein 平台賣兒童狀成人娃娃 法財長警告再上架就封殺",
-      "url": "https://money.udn.com/money/story/5599/9115184",
-      "source": "money.udn.com",
-      "published": 1762178447
-    },
-    {
       "id": "a424615702b2",
       "title": "德中外长通电话 王毅呼吁柏林反对“一切台独行径”",
       "url": "https://www.dw.com/zh/德中外长通电话-王毅呼吁柏林反对-一切台独行径/a-74599670?maca=chi-rss-chi-all-1127-rdf",
@@ -644,13 +651,6 @@
       "url": "https://cn.nytimes.com/asia-pacific/20251103/japan-work-job-retirement-centenarian/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1762107966
-    },
-    {
-      "id": "1b95b6ff2a15",
-      "title": "台湾约50人户籍被废止 因设籍中国或领用护照",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251102-%E5%8F%B0%E6%B9%BE%E7%BA%A650%E4%BA%BA%E6%88%B7%E7%B1%8D%E8%A2%AB%E5%BA%9F%E6%AD%A2-%E5%9B%A0%E8%AE%BE%E7%B1%8D%E4%B8%AD%E5%9B%BD%E6%88%96%E9%A2%86%E7%94%A8%E6%8A%A4%E7%85%A7",
-      "source": "rfi.fr",
-      "published": 1762106336
     },
     {
       "id": "369bd35ce752",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762193667
+  "build_id": 1762195430
 }
