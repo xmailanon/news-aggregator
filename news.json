@@ -1,6 +1,13 @@
 {
-  "updated": 1762295930,
+  "updated": 1762297758,
   "items": [
+    {
+      "id": "1a263b286f27",
+      "title": "美舉行4場選舉　民意風向考驗川普",
+      "url": "https://money.udn.com/money/story/10511/9118121",
+      "source": "money.udn.com",
+      "published": 1762295770
+    },
     {
       "id": "dc993cc13078",
       "title": "波克罗夫斯克为什么不能失守",
@@ -219,13 +226,6 @@
       "published": 1762277070
     },
     {
-      "id": "55d88bb223cb",
-      "title": "1分鐘看世界／新加坡立法嚴懲詐騙犯 祭出最重24下鞭刑",
-      "url": "https://money.udn.com/money/story/5599/9117877",
-      "source": "money.udn.com",
-      "published": 1762276989
-    },
-    {
       "id": "9e12b36e20dc",
       "title": "美国太空军将用三种武器远程干扰中国卫星",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251104-%E7%BE%8E%E5%9B%BD%E5%A4%AA%E7%A9%BA%E5%86%9B%E5%B0%86%E4%BD%BF%E7%94%A8%E4%B8%89%E7%A7%8D%E6%AD%A6%E5%99%A8%E8%BF%9C%E7%A8%8B%E5%B9%B2%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F",
@@ -308,6 +308,41 @@
       "url": "https://udn.com/news/story/6656/9117947",
       "source": "udn.com",
       "published": 1762272599
+    },
+    {
+      "id": "e6cffb65731e",
+      "title": "诺贝尔奖之外，日本还获得了什么国际大奖？",
+      "url": "https://www.ftchinese.com/story/001107999",
+      "source": "ftchinese.com",
+      "published": 1762272000
+    },
+    {
+      "id": "246ff7ae552b",
+      "title": "拉米雷斯：建设墨西哥-中国富有弹性和前瞻性的伙伴关系",
+      "url": "https://www.ftchinese.com/story/001108056",
+      "source": "ftchinese.com",
+      "published": 1762272000
+    },
+    {
+      "id": "dff036e4c2d8",
+      "title": "存安全隐患的隐藏式门把手，应该召回升级吗？",
+      "url": "https://www.ftchinese.com/story/001108087",
+      "source": "ftchinese.com",
+      "published": 1762272000
+    },
+    {
+      "id": "7318d21820ed",
+      "title": "AI时代，如何给孩子选专业？",
+      "url": "https://www.ftchinese.com/story/001108090",
+      "source": "ftchinese.com",
+      "published": 1762272000
+    },
+    {
+      "id": "5f25f2d6d6ce",
+      "title": "美国前副总统迪克•切尼去世，享年84岁",
+      "url": "https://www.ftchinese.com/story/001108091",
+      "source": "ftchinese.com",
+      "published": 1762272000
     },
     {
       "id": "d7b3424dad92",
@@ -905,41 +940,6 @@
       "published": 1762099200
     },
     {
-      "id": "c14e7ec54a4d",
-      "title": "曹德旺退居幕后 福耀玻璃能否经受考验？",
-      "url": "https://www.ftchinese.com/story/001108076",
-      "source": "ftchinese.com",
-      "published": 1762099200
-    },
-    {
-      "id": "de170c33180b",
-      "title": "未来的求职者：了解AI的“能”与“不能”",
-      "url": "https://www.ftchinese.com/story/001108073",
-      "source": "ftchinese.com",
-      "published": 1762099200
-    },
-    {
-      "id": "c7656ef7dbac",
-      "title": "评价《澎湖海战》，关键在于人民史观",
-      "url": "https://www.ftchinese.com/story/001108065",
-      "source": "ftchinese.com",
-      "published": 1762099200
-    },
-    {
-      "id": "6912767523a7",
-      "title": "印尼与中国就73亿美元高铁项目进行债务重组谈判",
-      "url": "https://www.ftchinese.com/story/001108072",
-      "source": "ftchinese.com",
-      "published": 1762099200
-    },
-    {
-      "id": "d4c87189e66a",
-      "title": "美国特使：真主党弃武后黎巴嫩将迎来巨额投资",
-      "url": "https://www.ftchinese.com/story/001108071",
-      "source": "ftchinese.com",
-      "published": 1762099200
-    },
-    {
       "id": "8cba4c4d3194",
       "title": "美防长为何一面指责中国、一面称赞美中关系？",
       "url": "https://www.dw.com/zh/美防长为何一面指责中国、一面称赞美中关系？/a-74590749?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762295930
+  "build_id": 1762297758
 }
