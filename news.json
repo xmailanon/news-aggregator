@@ -1,10 +1,24 @@
 {
-  "updated": 1762294142,
+  "updated": 1762295930,
   "items": [
     {
-      "id": "286b13f8bc05",
-      "title": "白宮：目前無意對中國出售輝達Blackwell晶片",
-      "url": "https://money.udn.com/money/story/10511/9118096",
+      "id": "dc993cc13078",
+      "title": "波克罗夫斯克为什么不能失守",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251104-%E6%B3%A2%E5%85%8B%E7%BD%97%E5%A4%AB%E6%96%AF%E5%85%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%A4%B1%E5%AE%88",
+      "source": "rfi.fr",
+      "published": 1762295136
+    },
+    {
+      "id": "b0334ef2235b",
+      "title": "AI 泡沫焦慮、美利率前景不明 美股收黑",
+      "url": "https://money.udn.com/money/story/123398/9118114",
+      "source": "money.udn.com",
+      "published": 1762294329
+    },
+    {
+      "id": "22c2c155732f",
+      "title": "白宮：目前無意對中國出售輝達 Blackwell 晶片",
+      "url": "https://money.udn.com/money/story/5599/9118096",
       "source": "money.udn.com",
       "published": 1762293657
     },
@@ -114,6 +128,13 @@
       "published": 1762285325
     },
     {
+      "id": "e781d5a6fda3",
+      "title": "普發現金1萬5日起分流登記 10日起全面開放",
+      "url": "https://udn.com/news/story/124539/9117854",
+      "source": "udn.com",
+      "published": 1762281928
+    },
+    {
       "id": "a77313a29816",
       "title": "美元指數升破100 亞幣低迷 加密幣拋售潮加劇",
       "url": "https://money.udn.com/money/story/5599/9117880",
@@ -210,13 +231,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251104-%E7%BE%8E%E5%9B%BD%E5%A4%AA%E7%A9%BA%E5%86%9B%E5%B0%86%E4%BD%BF%E7%94%A8%E4%B8%89%E7%A7%8D%E6%AD%A6%E5%99%A8%E8%BF%9C%E7%A8%8B%E5%B9%B2%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F",
       "source": "rfi.fr",
       "published": 1762274545
-    },
-    {
-      "id": "c1b422131dc2",
-      "title": "歐盟擴大年度報告　蒙特內哥羅談判進度最快",
-      "url": "https://money.udn.com/money/story/5599/9118008",
-      "source": "money.udn.com",
-      "published": 1762273810
     },
     {
       "id": "deec234e9c60",
@@ -357,13 +371,6 @@
       "url": "https://www.dw.com/zh/安世半导体：北京批荷兰-一意孤行-德国公司受影响/a-74614859?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762268760
-    },
-    {
-      "id": "533ac67d62e8",
-      "title": "軍購特別預算案一角曝光 陸軍統建採購反無人機系統",
-      "url": "https://udn.com/news/story/10930/9117762",
-      "source": "udn.com",
-      "published": 1762268046
     },
     {
       "id": "aa9621678b5d",
@@ -588,13 +595,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251103-%E4%B8%AD%E5%9B%BD%E5%BB%B6%E9%95%BF45%E5%9B%BD%E5%85%8D%E7%AD%BE%E8%87%B32026%E5%B9%B4%E5%BA%95-%E5%B9%B6%E5%B0%86%E7%91%9E%E5%85%B8%E7%BA%B3%E5%85%A5%E5%85%8D%E7%AD%BE%E8%8C%83%E5%9B%B4",
       "source": "rfi.fr",
       "published": 1762206413
-    },
-    {
-      "id": "28596609e2c3",
-      "title": "德国外长与王毅通话 将重启访华行程",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251103-%E5%BE%B7%E5%9B%BD%E5%A4%96%E9%95%BF%E4%B8%8E%E7%8E%8B%E6%AF%85%E9%80%9A%E8%AF%9D-%E5%B0%86%E9%87%8D%E5%90%AF%E8%AE%BF%E5%8D%8E%E8%A1%8C%E7%A8%8B",
-      "source": "rfi.fr",
-      "published": 1762206136
     },
     {
       "id": "e3ff2fd35185",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762294142
+  "build_id": 1762295930
 }
