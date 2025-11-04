@@ -1,6 +1,13 @@
 {
-  "updated": 1762280076,
+  "updated": 1762282012,
   "items": [
+    {
+      "id": "a77313a29816",
+      "title": "美元指數升破100 亞幣低迷 加密幣拋售潮加劇",
+      "url": "https://money.udn.com/money/story/5599/9117880",
+      "source": "money.udn.com",
+      "published": 1762281299
+    },
     {
       "id": "4d76f4999ef1",
       "title": "美利率前景不確定性、AI泡沫疑慮拖累　歐股收盤互有漲跌",
@@ -269,17 +276,10 @@
     },
     {
       "id": "cc388ec29632",
-      "title": "中国判处7名在缅甸运营电诈园区的团伙成员死刑 其中两人缓期",
+      "title": "中国判处7名在缅甸运营电诈园团伙成员死刑 其中两人缓期",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251104-%E4%B8%AD%E5%9B%BD%E5%88%A4%E5%A4%847%E5%90%8D%E5%9C%A8%E7%BC%85%E7%94%B8%E8%BF%90%E8%90%A5%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E7%9A%84%E5%9B%A2%E4%BC%99%E6%88%90%E5%91%98%E6%AD%BB%E5%88%91-%E5%85%B6%E4%B8%AD%E4%B8%A4%E4%BA%BA%E7%BC%93%E6%9C%9F",
       "source": "rfi.fr",
       "published": 1762269391
-    },
-    {
-      "id": "6eb4db4b9e25",
-      "title": "印尼巴布亞連2起過河意外　逾20人落水多為兒童",
-      "url": "https://money.udn.com/money/story/5599/9117817",
-      "source": "money.udn.com",
-      "published": 1762268794
     },
     {
       "id": "45a2b7a2dda6",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762280076
+  "build_id": 1762282012
 }
