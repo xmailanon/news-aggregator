@@ -1,6 +1,20 @@
 {
-  "updated": 1762287094,
+  "updated": 1762288807,
   "items": [
+    {
+      "id": "befdaed580f8",
+      "title": "美最高法院将审特朗普关税案　白宫：有信心",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251104-%E7%BE%8E%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%B0%86%E5%AE%A1%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%A1%88-%E7%99%BD%E5%AE%AB-%E6%9C%89%E4%BF%A1%E5%BF%83",
+      "source": "rfi.fr",
+      "published": 1762288652
+    },
+    {
+      "id": "ed3c5f791295",
+      "title": "美國物價居高不下 民調顯示近6成民眾怪川普",
+      "url": "https://money.udn.com/money/story/5599/9118066",
+      "source": "money.udn.com",
+      "published": 1762287506
+    },
     {
       "id": "8d8a096bbed3",
       "title": "法作家獲頒法國龔固爾獎　書寫家族史小說受肯定",
@@ -243,13 +257,6 @@
       "id": "2220eaaf68da",
       "title": "美財長貝森特：輝達創新速度快 Blackwell 銷售限制可預見解除",
       "url": "https://money.udn.com/money/story/5599/9117948",
-      "source": "money.udn.com",
-      "published": 1762270574
-    },
-    {
-      "id": "cc8f29bcc8cd",
-      "title": "輝達攜手德國電信打造AI雲端中心　明年Q1開始營運",
-      "url": "https://money.udn.com/money/story/5599/9117949",
       "source": "money.udn.com",
       "published": 1762270574
     },
@@ -588,13 +595,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251103-%E6%B3%95%E5%9B%BD2026%E5%B9%B4%E9%A2%84%E7%AE%97-%E8%AE%AE%E4%BC%9A%E9%80%9A%E8%BF%87-%E5%AF%B9%E9%9D%9E%E7%94%9F%E4%BA%A7%E6%80%A7%E8%B4%A2%E5%AF%8C%E5%BE%81%E7%A8%8E",
       "source": "rfi.fr",
       "published": 1762196190
-    },
-    {
-      "id": "899bc2932b57",
-      "title": "刚果(金)当局暂停多个反对党",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251103-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E5%BD%93%E5%B1%80%E6%9A%82%E5%81%9C%E5%A4%9A%E4%B8%AA%E5%8F%8D%E5%AF%B9%E5%85%9A",
-      "source": "rfi.fr",
-      "published": 1762193277
     },
     {
       "id": "efef405e1ea7",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762287094
+  "build_id": 1762288807
 }
