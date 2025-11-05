@@ -1,6 +1,13 @@
 {
-  "updated": 1762361239,
+  "updated": 1762362637,
   "items": [
+    {
+      "id": "65190add3383",
+      "title": "川普：美股受政府關門影響　但預計仍將創新高",
+      "url": "https://money.udn.com/money/story/10511/9120789",
+      "source": "money.udn.com",
+      "published": 1762361288
+    },
     {
       "id": "568aec2fb0ba",
       "title": "台湾对66架美国F-16战斗机的交付延迟表担忧",
@@ -322,13 +329,6 @@
       "url": "https://money.udn.com/money/story/120769/9120061",
       "source": "money.udn.com",
       "published": 1762350761
-    },
-    {
-      "id": "dd38c469af97",
-      "title": "川普談交易：我做生意很保守，總是先做最壞打算，好事才會自然發生",
-      "url": "https://money.udn.com/money/story/5599/9120346",
-      "source": "money.udn.com",
-      "published": 1762350637
     },
     {
       "id": "80a2aa5bdc26",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762361239
+  "build_id": 1762362637
 }
