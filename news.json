@@ -1,6 +1,55 @@
 {
-  "updated": 1762323362,
+  "updated": 1762325276,
   "items": [
+    {
+      "id": "d400fa33c255",
+      "title": "美國政府關門36天破紀錄　史上最長停擺",
+      "url": "https://money.udn.com/money/story/10511/9119384",
+      "source": "money.udn.com",
+      "published": 1762325156
+    },
+    {
+      "id": "7d3c155407f7",
+      "title": "曼達尼：政局黯淡之際　紐約將成為那道光",
+      "url": "https://money.udn.com/money/story/10511/9119382",
+      "source": "money.udn.com",
+      "published": 1762325114
+    },
+    {
+      "id": "a3ff0fdcd4c7",
+      "title": "日本熊害延燒 防熊噴霧商 Tiemco 意外成迷因股",
+      "url": "https://money.udn.com/money/story/5599/9119343",
+      "source": "money.udn.com",
+      "published": 1762324489
+    },
+    {
+      "id": "2d5b9d8c2e1e",
+      "title": "加州公投料通過重劃選區  川普主導德州案遭反擊",
+      "url": "https://money.udn.com/money/story/10511/9119334",
+      "source": "money.udn.com",
+      "published": 1762324239
+    },
+    {
+      "id": "c45648525113",
+      "title": "川普光環褪？民主黨贏兩州長紐約市長選舉重點一覽",
+      "url": "https://money.udn.com/money/story/10511/9119298",
+      "source": "money.udn.com",
+      "published": 1762323692
+    },
+    {
+      "id": "ac325d31ff62",
+      "title": "補充保費改革 利息、股利、租金收入採年度結算 衛福部估影響480萬人",
+      "url": "https://udn.com/news/story/6656/9119294",
+      "source": "udn.com",
+      "published": 1762323608
+    },
+    {
+      "id": "e43dce196f45",
+      "title": "「鐙鋒氫科技」用二十年淬鍊的氫能夢！宏碁龍騰微笑獎見證台灣新創踏上永續征途",
+      "url": "https://udn.com/news/story/7314/9119274",
+      "source": "udn.com",
+      "published": 1762323282
+    },
     {
       "id": "d53ae61aa265",
       "title": "南海國際會議召開  共籲全球攜手維護區域穩定安全",
@@ -42,6 +91,13 @@
       "url": "https://udn.com/news/story/10930/9119056",
       "source": "udn.com",
       "published": 1762322639
+    },
+    {
+      "id": "c41eab200523",
+      "title": "AI醫療潛力股！「神瑞人工智慧」將人工智慧導入醫學分析 勇奪宏碁龍騰微笑獎國際組首獎",
+      "url": "https://udn.com/news/story/7314/9118900",
+      "source": "udn.com",
+      "published": 1762322610
     },
     {
       "id": "f6ecaa002a38",
@@ -233,13 +289,6 @@
       "published": 1762317560
     },
     {
-      "id": "7b76c12f88b4",
-      "title": "海纜七法修得洋洋灑灑卻無法求償 洪孟楷質疑：這法豈不是修半套？",
-      "url": "https://udn.com/news/story/6656/9118941",
-      "source": "udn.com",
-      "published": 1762317449
-    },
-    {
       "id": "ef8b3cfc2b8f",
       "title": "安世半導體爭議波及日產汽車  Rogue車型減產",
       "url": "https://money.udn.com/money/story/5599/9118937",
@@ -268,34 +317,6 @@
       "published": 1762316721
     },
     {
-      "id": "fbed5fe377b3",
-      "title": "停砍年金所得替代率行不行？ 銓敘部長：水庫會更早沒了",
-      "url": "https://udn.com/news/story/10903/9118909",
-      "source": "udn.com",
-      "published": 1762316586
-    },
-    {
-      "id": "0b035362170f",
-      "title": "財劃法修法 莊翠雲：年底前送出政院版盼本會期通過",
-      "url": "https://udn.com/news/story/6656/9118910",
-      "source": "udn.com",
-      "published": 1762316584
-    },
-    {
-      "id": "b35c5386d54e",
-      "title": "教宗批美在委國外海部署軍力 籲以對話化解緊張",
-      "url": "https://money.udn.com/money/story/10511/9118906",
-      "source": "money.udn.com",
-      "published": 1762316490
-    },
-    {
-      "id": "aebed2bb2a25",
-      "title": "澳16歲以下社媒禁令12月上路 增列 Reddit、Kick",
-      "url": "https://money.udn.com/money/story/5599/9118808",
-      "source": "money.udn.com",
-      "published": 1762314933
-    },
-    {
       "id": "1fa7063ad87e",
       "title": "進口博覽會前夕推「共享大市場」　中國欲塑開放形象",
       "url": "https://www.dw.com/zh/進口博覽會前夕推「共享大市場」　中國欲塑開放形象/a-74620646?maca=chi-rss-chi-all-1127-rdf",
@@ -303,32 +324,11 @@
       "published": 1762314900
     },
     {
-      "id": "6be654b91126",
-      "title": "安世晶片短缺繼續延燒 Nissan下周起減產這款暢銷SUV",
-      "url": "https://money.udn.com/money/story/5599/9118788",
-      "source": "money.udn.com",
-      "published": 1762314574
-    },
-    {
-      "id": "7a42d276b12f",
-      "title": "日本兵庫連環車禍1死17傷 初判小轎車暴衝肇禍",
-      "url": "https://money.udn.com/money/story/5599/9118755",
-      "source": "money.udn.com",
-      "published": 1762313820
-    },
-    {
       "id": "959166b7b0e4",
       "title": "中国安全部门的AI愿景：利用人工智能完善对社会的监控",
       "url": "https://cn.nytimes.com/china/20251105/china-police-ai-surveillance/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1762313689
-    },
-    {
-      "id": "fc18c259583e",
-      "title": "波士尼亞養老院大火奪10命　約20人受傷",
-      "url": "https://money.udn.com/money/story/5599/9118724",
-      "source": "money.udn.com",
-      "published": 1762313441
     },
     {
       "id": "ffcd394f6b69",
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762323362
+  "build_id": 1762325276
 }
