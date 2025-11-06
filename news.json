@@ -1,6 +1,20 @@
 {
-  "updated": 1762464863,
+  "updated": 1762466971,
   "items": [
+    {
+      "id": "850d9c11f405",
+      "title": "AI類股承壓　美股收黑",
+      "url": "https://money.udn.com/money/story/5599/9123430",
+      "source": "money.udn.com",
+      "published": 1762466457
+    },
+    {
+      "id": "e07f620a7d85",
+      "title": "【總編開箱】健保補充保費新制7小時就急轉彎 衛福部惹怒誰？",
+      "url": "https://udn.com/news/story/8819/9123353",
+      "source": "udn.com",
+      "published": 1762465800
+    },
     {
       "id": "ae7b5a641c32",
       "title": "中国呼吁取消绿色产品关税",
@@ -212,6 +226,20 @@
       "published": 1762448270
     },
     {
+      "id": "a6aa2a4dfa84",
+      "title": "二代健保補充保費改革喊卡 卓揆指示暫緩具爭議規劃",
+      "url": "https://udn.com/news/story/8819/9123193",
+      "source": "udn.com",
+      "published": 1762448225
+    },
+    {
+      "id": "49bf66e30777",
+      "title": "健保採分級費率 聲音浮現",
+      "url": "https://udn.com/news/story/8819/9123216",
+      "source": "udn.com",
+      "published": 1762448105
+    },
+    {
       "id": "c5d06d3312e8",
       "title": "川普關稅案 勝訴機率降低 多位大法官質疑課徵合法性",
       "url": "https://money.udn.com/money/story/5599/9123198",
@@ -266,13 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9120965",
       "source": "money.udn.com",
       "published": 1762445136
-    },
-    {
-      "id": "604ab87aa0ef",
-      "title": "高通財測沒驚喜 早盤股價跌",
-      "url": "https://money.udn.com/money/story/123398/9123191",
-      "source": "money.udn.com",
-      "published": 1762445068
     },
     {
       "id": "8bef87e53988",
@@ -401,13 +422,6 @@
       "published": 1762441618
     },
     {
-      "id": "5b1deb4a2a21",
-      "title": "Taiwan Plus遭爆台灣腔英文禁播報 監院批歧視要求檢討",
-      "url": "https://udn.com/news/story/6656/9123104",
-      "source": "udn.com",
-      "published": 1762440125
-    },
-    {
       "id": "879ab7f2966e",
       "title": "欧盟新气候目标与中国何关？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20251106-%E6%AC%A7%E7%9B%9F%E6%96%B0%E6%B0%94%E5%80%99%E7%9B%AE%E6%A0%87%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%85%B3%E7%B3%BB",
@@ -422,13 +436,6 @@
       "published": 1762439499
     },
     {
-      "id": "c64253e4882f",
-      "title": "歧視口音？監院指播音排除台灣腔 TaiwanPlus：台籍主播達7成",
-      "url": "https://udn.com/news/story/7314/9123030",
-      "source": "udn.com",
-      "published": 1762438321
-    },
-    {
       "id": "1ef82a0e643b",
       "title": "美国与大马和柬埔寨签署的贸易协议包含“毒丸条款” 被指对东南亚进行忠诚度测试",
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251106-%E7%BE%8E%E5%9B%BD%E4%B8%8E%E5%A4%A7%E9%A9%AC%E5%92%8C%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%AD%BE%E7%BD%B2%E7%9A%84%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E5%8C%85%E5%90%AB-%E6%AF%92%E4%B8%B8%E6%9D%A1%E6%AC%BE-%E8%A2%AB%E6%8C%87%E5%AF%B9%E4%B8%9C%E5%8D%97%E4%BA%9A%E8%BF%9B%E8%A1%8C%E5%BF%A0%E8%AF%9A%E5%BA%A6%E6%B5%8B%E8%AF%95",
@@ -441,13 +448,6 @@
       "url": "https://www.dw.com/zh/安世半导体：中国造-不担保！/a-74643556?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762437000
-    },
-    {
-      "id": "110f0d04aa91",
-      "title": "駐聯代表團訪人權會 讚台灣致力實踐國際人權標準",
-      "url": "https://udn.com/news/story/7314/9122989",
-      "source": "udn.com",
-      "published": 1762436875
     },
     {
       "id": "f53cbf02338c",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762464863
+  "build_id": 1762466971
 }
