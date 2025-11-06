@@ -1,6 +1,20 @@
 {
-  "updated": 1762441893,
+  "updated": 1762443681,
   "items": [
+    {
+      "id": "5dd76c0b318e",
+      "title": "裴洛西宣布不再尋求連任　傳奇生涯將劃下句點",
+      "url": "https://money.udn.com/money/story/10511/9123254",
+      "source": "money.udn.com",
+      "published": 1762443008
+    },
+    {
+      "id": "c080a0e4f26c",
+      "title": "為解決1危機走回「印鈔」老路？他預測Fed年底前恐擴大資產負債表",
+      "url": "https://money.udn.com/money/story/5599/9123238",
+      "source": "money.udn.com",
+      "published": 1762442487
+    },
     {
       "id": "698416f733d1",
       "title": "涉密歇根大学走私生物材料案 三名中国访问学者遭刑事起诉",
@@ -177,25 +191,11 @@
       "published": 1762435292
     },
     {
-      "id": "d26195fda6a6",
-      "title": "社會主義者曼達尼當選紐約市長 華爾街精英放下成見尋求合作",
-      "url": "https://money.udn.com/money/story/5599/9121121",
-      "source": "money.udn.com",
-      "published": 1762435251
-    },
-    {
       "id": "85f722fd2b9e",
       "title": "國土署：雙城論壇MOU 勿交流關鍵基礎建設圖資",
       "url": "https://udn.com/news/story/6656/9122939",
       "source": "udn.com",
       "published": 1762435198
-    },
-    {
-      "id": "6723fb6a6417",
-      "title": "Google Cloud 發布 Ironwood TPU 與全新 ARM 架構 Axion 虛擬機器",
-      "url": "https://money.udn.com/money/story/5599/9122949",
-      "source": "money.udn.com",
-      "published": 1762435195
     },
     {
       "id": "0425445e616b",
@@ -576,6 +576,20 @@
       "published": 1762360208
     },
     {
+      "id": "fad74b1e5b02",
+      "title": "亿航智能计划三年内推出机场空中出租车服务",
+      "url": "https://www.ftchinese.com/story/001108115",
+      "source": "ftchinese.com",
+      "published": 1762358400
+    },
+    {
+      "id": "f56a0827e8f2",
+      "title": "巴西的巨型森林基金是一个终极现实主义方案",
+      "url": "https://www.ftchinese.com/story/001108114",
+      "source": "ftchinese.com",
+      "published": 1762358400
+    },
+    {
       "id": "6d5186d2c5a1",
       "title": "小马智行和文远知行在港上市首日股价大跌",
       "url": "https://www.ftchinese.com/story/001108113",
@@ -898,20 +912,6 @@
       "published": 1762272000
     },
     {
-      "id": "9ae8ed21264d",
-      "title": "卖一辆蚀一辆，千里科技要靠AI逆转胜？",
-      "url": "https://www.ftchinese.com/story/001108093",
-      "source": "ftchinese.com",
-      "published": 1762272000
-    },
-    {
-      "id": "6f01936f113e",
-      "title": "车企高管：若欧盟放松燃油车禁令将扩大投资",
-      "url": "https://www.ftchinese.com/story/001108092",
-      "source": "ftchinese.com",
-      "published": 1762272000
-    },
-    {
       "id": "459dc767753b",
       "title": "德语媒体：被严重夸大的稀土威胁",
       "url": "https://www.dw.com/zh/德语媒体：被严重夸大的稀土威胁/a-74615467?maca=chi-rss-chi-all-1127-rdf",
@@ -924,13 +924,6 @@
       "url": "https://www.dw.com/zh/安世半导体：北京批荷兰-一意孤行-德国公司受影响/a-74614859?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762268760
-    },
-    {
-      "id": "aa9621678b5d",
-      "title": "普京下令12月前制定稀土开采路线图",
-      "url": "https://www.dw.com/zh/普京下令12月前制定稀土开采路线图/a-74613985?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762267800
     },
     {
       "id": "16eefd978aa1",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/法国卢浮宫遭抢-9件珠宝被盗/a-74415566?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760869260
+    },
+    {
+      "id": "8aded405855a",
+      "title": "女性比男性需要更多的睡眠",
+      "url": "https://www.dw.com/zh/女性比男性需要更多的睡眠/a-74389633?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1760858580
     }
   ],
-  "build_id": 1762441893
+  "build_id": 1762443681
 }
