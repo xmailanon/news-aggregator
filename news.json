@@ -1,6 +1,13 @@
 {
-  "updated": 1762447711,
+  "updated": 1762449097,
   "items": [
+    {
+      "id": "b12027e679cf",
+      "title": "欧盟私下警告成员国：短期内几乎无力迫使中方放松稀土出口管制",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251106-%E6%AC%A7%E7%9B%9F%E7%A7%81%E4%B8%8B%E8%AD%A6%E5%91%8A%E6%88%90%E5%91%98%E5%9B%BD-%E7%9F%AD%E6%9C%9F%E5%86%85%E5%87%A0%E4%B9%8E%E6%97%A0%E5%8A%9B%E8%BF%AB%E4%BD%BF%E4%B8%AD%E6%96%B9%E6%94%BE%E6%9D%BE%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
+      "source": "rfi.fr",
+      "published": 1762448270
+    },
     {
       "id": "c5d06d3312e8",
       "title": "川普關稅案 勝訴機率降低 多位大法官質疑課徵合法性",
@@ -117,6 +124,13 @@
       "id": "47c22ee16e4b",
       "title": "700萬戶後年減稅！CPI漲幅超標利多 雙薪家庭育2兒能減多少？",
       "url": "https://udn.com/news/story/7314/9123294",
+      "source": "udn.com",
+      "published": 1762444800
+    },
+    {
+      "id": "4dca82992f2a",
+      "title": "郭台銘母親初永真 百歲辭世",
+      "url": "https://udn.com/news/story/6656/9123171",
       "source": "udn.com",
       "published": 1762444800
     },
@@ -343,13 +357,6 @@
       "url": "https://udn.com/news/story/6656/9122939",
       "source": "udn.com",
       "published": 1762435198
-    },
-    {
-      "id": "0425445e616b",
-      "title": "監察院檢討投資台灣方案 經濟部：未完成案件屬正常進度",
-      "url": "https://udn.com/news/story/7314/9122925",
-      "source": "udn.com",
-      "published": 1762434861
     },
     {
       "id": "f53cbf02338c",
@@ -735,13 +742,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251105-%E5%B7%B4%E9%BB%8E%E5%B8%8C%E9%9F%B3%E9%A6%96%E5%BA%97%E5%BC%80%E5%B9%95%E5%BC%95%E5%8F%91%E6%8A%97%E8%AE%AE-%E6%B3%95%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E5%85%B6%E5%B9%B3%E5%8F%B0%E8%BF%90%E8%90%A5",
       "source": "rfi.fr",
       "published": 1762355659
-    },
-    {
-      "id": "584681c573f4",
-      "title": "美地方选举结果揭晓：特朗普再度当选一周年的尴尬",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251105-%E7%BE%8E%E5%9C%B0%E6%96%B9%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E6%8F%AD%E6%99%93-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E5%BA%A6%E5%BD%93%E9%80%89%E4%B8%80%E5%91%A8%E5%B9%B4%E7%9A%84%E5%B0%B4%E5%B0%AC",
-      "source": "rfi.fr",
-      "published": 1762355590
     },
     {
       "id": "09400626b839",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762447711
+  "build_id": 1762449097
 }
