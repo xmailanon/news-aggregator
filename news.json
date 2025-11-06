@@ -1,6 +1,62 @@
 {
-  "updated": 1762402584,
+  "updated": 1762404277,
   "items": [
+    {
+      "id": "78227c19c38c",
+      "title": "Nissan橫濱總部大樓賣了！被台灣汽車零組件王買下 斥資近200億元",
+      "url": "https://money.udn.com/money/story/5599/9121642",
+      "source": "money.udn.com",
+      "published": 1762404106
+    },
+    {
+      "id": "4d5d94ddd301",
+      "title": "推動AI人工智慧軍事用途 國防部設專案辦公室",
+      "url": "https://udn.com/news/story/6656/9121610",
+      "source": "udn.com",
+      "published": 1762403324
+    },
+    {
+      "id": "a7f2c7e70c05",
+      "title": "美國紐約市及地方選舉：民主黨大勝背後的四大意義",
+      "url": "https://www.bbc.com/zhongwen/articles/c77zerp7gzeo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1762403173
+    },
+    {
+      "id": "0363e7dbdfb5",
+      "title": "卓揆喊話國人行動支持國產豬 周末大啖夜市肉圓、滷肉飯",
+      "url": "https://udn.com/news/story/7314/9121599",
+      "source": "udn.com",
+      "published": 1762403109
+    },
+    {
+      "id": "9f3f62f7a2d8",
+      "title": "二代健保補充保費新制惹怒全民 為何要收補充保費？誰要繳錢一次看",
+      "url": "https://udn.com/news/story/7314/9121595",
+      "source": "udn.com",
+      "published": 1762402967
+    },
+    {
+      "id": "fe8292e30470",
+      "title": "股利+利息滿2萬就收補充保費 前健保局長鄭守夏憂「賺小錢者交大錢」",
+      "url": "https://udn.com/news/story/7314/9121583",
+      "source": "udn.com",
+      "published": 1762402878
+    },
+    {
+      "id": "0aedcf9a983d",
+      "title": "日本擬推650億美元刺激措施 晶片AI補助每年65億美元改列一般預算",
+      "url": "https://money.udn.com/money/story/5599/9121569",
+      "source": "money.udn.com",
+      "published": 1762402779
+    },
+    {
+      "id": "c7dc7f65dc67",
+      "title": "北檢指2次故意亮票 趙少康嘆：不去非洲大遷徙 還需故意表態？",
+      "url": "https://udn.com/news/story/6656/9121561",
+      "source": "udn.com",
+      "published": 1762402426
+    },
     {
       "id": "7270c62c7d32",
       "title": "聯合國教科文組織大會拍板！每年3月21日為國際太極拳日",
@@ -9,18 +65,18 @@
       "published": 1762402410
     },
     {
-      "id": "c0015accf94e",
-      "title": "法國漁民駕車蓄意衝撞釀5傷　當局稱無激進化前科",
-      "url": "https://money.udn.com/money/story/5599/9121555",
-      "source": "money.udn.com",
-      "published": 1762402331
+      "id": "236dff9c28f5",
+      "title": "昨致電也想選新北的林右昌沒接通 蘇巧慧：持續請益",
+      "url": "https://udn.com/news/story/6656/9121559",
+      "source": "udn.com",
+      "published": 1762402385
     },
     {
-      "id": "1cf4868cbb39",
-      "title": "美UPS貨機墜毀瞬間成火球　肯塔基州進入緊急狀態",
-      "url": "https://money.udn.com/money/story/5599/9121556",
-      "source": "money.udn.com",
-      "published": 1762402331
+      "id": "4188441863c8",
+      "title": "近39萬頭豬待銷 供給過多時將採抽籤登記出豬",
+      "url": "https://udn.com/news/story/6656/9121560",
+      "source": "udn.com",
+      "published": 1762402383
     },
     {
       "id": "3ffaa5e05a71",
@@ -28,6 +84,48 @@
       "url": "https://money.udn.com/money/story/5599/9121558",
       "source": "money.udn.com",
       "published": 1762402331
+    },
+    {
+      "id": "1cf4868cbb39",
+      "title": "美 UPS 貨機墜毀瞬間成火球 肯塔基州進入緊急狀態",
+      "url": "https://money.udn.com/money/story/5599/9121556",
+      "source": "money.udn.com",
+      "published": 1762402331
+    },
+    {
+      "id": "c0015accf94e",
+      "title": "法國漁民駕車蓄意衝撞釀5傷 當局稱無激進化前科",
+      "url": "https://money.udn.com/money/story/5599/9121555",
+      "source": "money.udn.com",
+      "published": 1762402331
+    },
+    {
+      "id": "1af1e80cb623",
+      "title": "國民黨新人事 柱系班師回朝 郝龍斌美女智囊掌國際部",
+      "url": "https://udn.com/news/story/6656/9121549",
+      "source": "udn.com",
+      "published": 1762402265
+    },
+    {
+      "id": "8b230746a3df",
+      "title": "國防部：10月1日成立AI專案辦公室 視需求將擴大規模",
+      "url": "https://udn.com/news/story/10930/9121465",
+      "source": "udn.com",
+      "published": 1762402137
+    },
+    {
+      "id": "cb14b10cb831",
+      "title": "罷免案涉亮票遭起訴 趙少康：尊重司法是我一向態度",
+      "url": "https://udn.com/news/story/6656/9121463",
+      "source": "udn.com",
+      "published": 1762402012
+    },
+    {
+      "id": "09ba81272d2c",
+      "title": "國民黨公布新人事 牛煦庭、江怡臻出任發言人",
+      "url": "https://udn.com/news/story/6656/9121425",
+      "source": "udn.com",
+      "published": 1762401979
     },
     {
       "id": "2fa3ec686fdd",
@@ -38,7 +136,7 @@
     },
     {
       "id": "7b91ddab3fde",
-      "title": "一文看懂 數兆美元AI泡沫升溫全過程",
+      "title": "一文看懂 數兆美元 AI 泡沫升溫全過程",
       "url": "https://money.udn.com/money/story/5599/9121494",
       "source": "money.udn.com",
       "published": 1762401325
@@ -184,27 +282,6 @@
       "published": 1762398609
     },
     {
-      "id": "a17d6adaa95c",
-      "title": "市府拒發現金...綠擱置總預算 蔣萬安反擊：用老本發不合理",
-      "url": "https://udn.com/news/story/6656/9121343",
-      "source": "udn.com",
-      "published": 1762398289
-    },
-    {
-      "id": "b2f3fddedf0a",
-      "title": "海、空軍服供站潮牌衣鞋多元 陸軍品牌單調官兵只能羨慕",
-      "url": "https://udn.com/news/story/10930/9121323",
-      "source": "udn.com",
-      "published": 1762397928
-    },
-    {
-      "id": "312fc1708caa",
-      "title": "蔣萬安、李四川在雙北「共伴效應」？戴錫欽：可把能量帶動起來",
-      "url": "https://udn.com/news/story/6656/9121322",
-      "source": "udn.com",
-      "published": 1762397927
-    },
-    {
       "id": "41479b184cbf",
       "title": "影／川普憶川習會中方高官怕習模樣 稱「沒見過男人如此害怕」",
       "url": "https://money.udn.com/money/story/5599/9121317",
@@ -233,81 +310,11 @@
       "published": 1762397732
     },
     {
-      "id": "c9078bf76765",
-      "title": "岡村富夫出線 捷克史上首名極右派議長",
-      "url": "https://money.udn.com/money/story/5599/9121301",
-      "source": "money.udn.com",
-      "published": 1762397730
-    },
-    {
-      "id": "6693d7d0cb3e",
-      "title": "掀共伴效應...最快忍痛讓李四川選新北？蔣萬安1句話回應",
-      "url": "https://udn.com/news/story/6656/9121284",
-      "source": "udn.com",
-      "published": 1762397343
-    },
-    {
-      "id": "60b4ea0e4027",
-      "title": "緝毒犬察覺有異 台灣旅客走私大麻闖日本海關被捕",
-      "url": "https://money.udn.com/money/story/5599/9121274",
-      "source": "money.udn.com",
-      "published": 1762397194
-    },
-    {
-      "id": "bfac17673a30",
-      "title": "【軍情+】獨家直擊！陸軍官校橄欖球隊「最硬鮮肉」",
-      "url": "https://udn.com/news/story/123527/9121276",
-      "source": "udn.com",
-      "published": 1762397164
-    },
-    {
-      "id": "b465441e1611",
-      "title": "影／閃兵案引修法呼聲 顧立雄：會與內政部研議",
-      "url": "https://udn.com/news/story/10930/9121264",
-      "source": "udn.com",
-      "published": 1762396983
-    },
-    {
-      "id": "39cbecbb302a",
-      "title": "月底宣布參選新北市長？ 李四川態度曝：先把輝達處理完",
-      "url": "https://udn.com/news/story/6656/9121231",
-      "source": "udn.com",
-      "published": 1762396384
-    },
-    {
-      "id": "fc96a312338e",
-      "title": "普發1萬all in啥？她想買新機車 內行人端「更划算方案」：不會後悔",
-      "url": "https://udn.com/news/story/124539/9121088",
-      "source": "udn.com",
-      "published": 1762395618
-    },
-    {
       "id": "3fa8fbbb674d",
       "title": "疑遭太空碎片撞击，中国神舟二十号飞船推迟返航",
       "url": "https://cn.nytimes.com/science/20251106/china-space-station-debris/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1762395289
-    },
-    {
-      "id": "d4c4b36b17d4",
-      "title": "台電指核二、核三廠具重啟條件 民進黨團：僅初步評估",
-      "url": "https://udn.com/news/story/6656/9121158",
-      "source": "udn.com",
-      "published": 1762394967
-    },
-    {
-      "id": "bcb29961a4ef",
-      "title": "2026市議員選舉 北市黨部主委戴錫欽曝「最低標準」要單獨過半",
-      "url": "https://udn.com/news/story/6656/9121140",
-      "source": "udn.com",
-      "published": 1762394789
-    },
-    {
-      "id": "ddb7dbd416d2",
-      "title": "教長 : 公教人員年改結束後 仍有69%月退5萬以上",
-      "url": "https://udn.com/news/story/10903/9121103",
-      "source": "udn.com",
-      "published": 1762393984
     },
     {
       "id": "925420dce46a",
@@ -989,13 +996,6 @@
       "published": 1762166316
     },
     {
-      "id": "3ca7ce015b6c",
-      "title": "「森林中的兄弟」：守護亞馬遜隔絕族群的奮戰",
-      "url": "https://www.bbc.com/zhongwen/articles/c3dn0rkjjd0o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1762144852
-    },
-    {
       "id": "7846bc760b0f",
       "title": "习近平含蓄警告各国：不要站队美国限制对华贸易",
       "url": "https://cn.nytimes.com/china/20251101/china-apec-trump-trade/?utm_source=RSS",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762402584
+  "build_id": 1762404277
 }
