@@ -1,6 +1,13 @@
 {
-  "updated": 1762452911,
+  "updated": 1762454904,
   "items": [
+    {
+      "id": "667acca10079",
+      "title": "波音同意支付逾340億元　美法官撤銷墜機案刑事指控",
+      "url": "https://money.udn.com/money/story/5599/9123376",
+      "source": "money.udn.com",
+      "published": 1762453273
+    },
     {
       "id": "a9ef8471cf83",
       "title": "世界气象组织：2025年将是有史以来第二或第三热的年份",
@@ -138,13 +145,6 @@
       "id": "7742f00c8ec3",
       "title": "冷眼集／投資台灣大撒幣政策 淪大內宣素材",
       "url": "https://udn.com/news/story/6656/9123208",
-      "source": "udn.com",
-      "published": 1762444800
-    },
-    {
-      "id": "47c22ee16e4b",
-      "title": "700萬戶後年減稅！CPI漲幅超標利多 雙薪家庭育2兒能減多少？",
-      "url": "https://udn.com/news/story/7314/9123294",
       "source": "udn.com",
       "published": 1762444800
     },
@@ -338,13 +338,6 @@
       "published": 1762437637
     },
     {
-      "id": "2ecafbd9c05c",
-      "title": "川普關稅案在最高法院若敗訴　恐加劇貿易不確定性",
-      "url": "https://money.udn.com/money/story/5599/9123011",
-      "source": "money.udn.com",
-      "published": 1762437637
-    },
-    {
       "id": "1ef82a0e643b",
       "title": "美国与大马和柬埔寨签署的贸易协议包含“毒丸条款” 被指对东南亚进行忠诚度测试",
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251106-%E7%BE%8E%E5%9B%BD%E4%B8%8E%E5%A4%A7%E9%A9%AC%E5%92%8C%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%AD%BE%E7%BD%B2%E7%9A%84%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E5%8C%85%E5%90%AB-%E6%AF%92%E4%B8%B8%E6%9D%A1%E6%AC%BE-%E8%A2%AB%E6%8C%87%E5%AF%B9%E4%B8%9C%E5%8D%97%E4%BA%9A%E8%BF%9B%E8%A1%8C%E5%BF%A0%E8%AF%9A%E5%BA%A6%E6%B5%8B%E8%AF%95",
@@ -371,6 +364,13 @@
       "url": "https://udn.com/news/story/6656/9122939",
       "source": "udn.com",
       "published": 1762435198
+    },
+    {
+      "id": "0425445e616b",
+      "title": "監察院檢討投資台灣方案 經濟部：未完成案件屬正常進度",
+      "url": "https://udn.com/news/story/7314/9122925",
+      "source": "udn.com",
+      "published": 1762434861
     },
     {
       "id": "f53cbf02338c",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762452911
+  "build_id": 1762454904
 }
