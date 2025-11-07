@@ -1,6 +1,20 @@
 {
-  "updated": 1762533757,
+  "updated": 1762535348,
   "items": [
+    {
+      "id": "7fcd80079bb1",
+      "title": "特斯拉股東會通過 馬斯克薪酬 十年1兆美元",
+      "url": "https://money.udn.com/money/story/5599/9125486",
+      "source": "money.udn.com",
+      "published": 1762534643
+    },
+    {
+      "id": "fbeac27ba569",
+      "title": "川普禁降規Blackwell銷陸",
+      "url": "https://money.udn.com/money/story/5599/9125499",
+      "source": "money.udn.com",
+      "published": 1762534465
+    },
     {
       "id": "612d0d205606",
       "title": "川普否認氣候危機…多國抨擊",
@@ -31,7 +45,7 @@
     },
     {
       "id": "853ce0d280cd",
-      "title": "馬習會10周年 馬籲賴懸崖勒馬 「讓兩岸遠離戰爭」",
+      "title": "馬習會10周年 馬英九籲賴總統懸崖勒馬「讓兩岸遠離戰爭」",
       "url": "https://udn.com/news/story/6656/9125550",
       "source": "udn.com",
       "published": 1762531526
@@ -252,20 +266,6 @@
       "url": "https://money.udn.com/money/story/5599/9125314",
       "source": "money.udn.com",
       "published": 1762523110
-    },
-    {
-      "id": "ca731c0a277c",
-      "title": "州級數據推算顯示 美國上周首次申領失業救濟人數增加",
-      "url": "https://money.udn.com/money/story/5599/9123476",
-      "source": "money.udn.com",
-      "published": 1762522870
-    },
-    {
-      "id": "823b9affd83e",
-      "title": "[深度] 貿易協議尚熱關稅案又起 美國貿易夥伴陷入新迷霧",
-      "url": "https://money.udn.com/money/story/5599/9123510",
-      "source": "money.udn.com",
-      "published": 1762522603
     },
     {
       "id": "aba15f173a0a",
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762533757
+  "build_id": 1762535348
 }
