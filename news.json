@@ -1,6 +1,41 @@
 {
-  "updated": 1762532068,
+  "updated": 1762533757,
   "items": [
+    {
+      "id": "612d0d205606",
+      "title": "川普否認氣候危機…多國抨擊",
+      "url": "https://money.udn.com/money/story/5599/9125519",
+      "source": "money.udn.com",
+      "published": 1762533240
+    },
+    {
+      "id": "e7272cffc32e",
+      "title": "金價收復4,000美元",
+      "url": "https://money.udn.com/money/story/5599/9125513",
+      "source": "money.udn.com",
+      "published": 1762533178
+    },
+    {
+      "id": "c47edf167260",
+      "title": "继法国后 Shein在意大利面临服装行业及政府压力",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251107-%E7%BB%A7%E6%B3%95%E5%9B%BD%E5%90%8E-shein%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E9%9D%A2%E4%B8%B4%E6%9C%8D%E8%A3%85%E8%A1%8C%E4%B8%9A%E5%92%8C%E6%94%BF%E5%BA%9C%E5%8E%8B%E5%8A%9B",
+      "source": "rfi.fr",
+      "published": 1762532944
+    },
+    {
+      "id": "c400964610c0",
+      "title": "蕭美琴訪歐洲議會發表演說 外交部：詳情回國後說明",
+      "url": "https://udn.com/news/story/6656/9125625",
+      "source": "udn.com",
+      "published": 1762532066
+    },
+    {
+      "id": "853ce0d280cd",
+      "title": "馬習會10周年 馬籲賴懸崖勒馬 「讓兩岸遠離戰爭」",
+      "url": "https://udn.com/news/story/6656/9125550",
+      "source": "udn.com",
+      "published": 1762531526
+    },
     {
       "id": "7fad298f7b1e",
       "title": "傅崐萁萬年總召？藍廢總召2年條款",
@@ -233,20 +268,6 @@
       "published": 1762522603
     },
     {
-      "id": "06971ec66667",
-      "title": "路透：Meta每日推送150億則可疑詐騙廣告 年賺2000億",
-      "url": "https://money.udn.com/money/story/5599/9125308",
-      "source": "money.udn.com",
-      "published": 1762522568
-    },
-    {
-      "id": "f3c1d0191aa0",
-      "title": "英國央行維持利率在4%不變 為12月降息奠定基礎",
-      "url": "https://money.udn.com/money/story/5599/9123532",
-      "source": "money.udn.com",
-      "published": 1762522046
-    },
-    {
       "id": "aba15f173a0a",
       "title": "台灣首以成員國參與IPAC 范雲籲關注大陸跨境鎮壓",
       "url": "https://udn.com/news/story/6656/9125285",
@@ -357,20 +378,6 @@
       "url": "https://www.dw.com/zh/中国第三艘航母-福建舰-入列/a-74658676?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762513560
-    },
-    {
-      "id": "d10f50c8a690",
-      "title": "外交部：斐濟外交官訪台 中國無權置喙干預",
-      "url": "https://udn.com/news/story/6656/9125094",
-      "source": "udn.com",
-      "published": 1762513484
-    },
-    {
-      "id": "2ba0bd9d75aa",
-      "title": "追夢事務所上線 賴總統街舞評審初體驗擺出B-Boy姿勢",
-      "url": "https://udn.com/news/story/7314/9125034",
-      "source": "udn.com",
-      "published": 1762513435
     },
     {
       "id": "82bf6a84aae3",
@@ -602,13 +609,6 @@
       "url": "https://cn.nytimes.com/business/20251107/rare-earth-china-europe/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1762458752
-    },
-    {
-      "id": "a9ef8471cf83",
-      "title": "世界气象组织：2025年将是有记录以来第二或第三热的年份",
-      "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20251106-%E4%B8%96%E7%95%8C%E6%B0%94%E8%B1%A1%E7%BB%84%E7%BB%87-2025%E5%B9%B4%E5%B0%86%E6%98%AF%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E7%AC%AC%E4%BA%8C%E6%88%96%E7%AC%AC%E4%B8%89%E7%83%AD%E7%9A%84%E5%B9%B4%E4%BB%BD",
-      "source": "rfi.fr",
-      "published": 1762451510
     },
     {
       "id": "dc8f91175813",
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762532068
+  "build_id": 1762533757
 }
