@@ -1,6 +1,48 @@
 {
-  "updated": 1762487630,
+  "updated": 1762488780,
   "items": [
+    {
+      "id": "6cb2496f3309",
+      "title": "川普稱：烏茲別克未來10年將在美投資逾1,000億美元",
+      "url": "https://money.udn.com/money/story/5599/9124047",
+      "source": "money.udn.com",
+      "published": 1762488753
+    },
+    {
+      "id": "713b43078959",
+      "title": "南韓軍方：北韓朝東部外海發射彈道飛彈",
+      "url": "https://money.udn.com/money/story/5599/9124049",
+      "source": "money.udn.com",
+      "published": 1762488753
+    },
+    {
+      "id": "c7dbc7a62a9a",
+      "title": "AI股估值憂慮拖累日韓股 但專家估亞股「旺於美股」將延續到年底",
+      "url": "https://money.udn.com/money/story/5599/9124044",
+      "source": "money.udn.com",
+      "published": 1762488683
+    },
+    {
+      "id": "89e7a64b46cc",
+      "title": "補充健保新制急喊卡 吳思瑤：健保財源永續別剝奪年輕世代",
+      "url": "https://udn.com/news/story/6656/9124042",
+      "source": "udn.com",
+      "published": 1762488584
+    },
+    {
+      "id": "0f92ec199614",
+      "title": "COP30：世界領袖抨擊特朗普在氣候問題上的不作為",
+      "url": "https://www.bbc.com/zhongwen/articles/c051vy10eq9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1762488531
+    },
+    {
+      "id": "421b1c66648c",
+      "title": "立院「東北亞區域促進會」成立 邱志偉盼為外交啟新頁",
+      "url": "https://udn.com/news/story/6656/9124025",
+      "source": "udn.com",
+      "published": 1762488184
+    },
     {
       "id": "bb1bd03e3a5c",
       "title": "荷蘭政府預期  安世中國廠將在「幾天內」恢復晶片供應",
@@ -247,25 +289,11 @@
       "published": 1762480838
     },
     {
-      "id": "24a94e4ed4a8",
-      "title": "外交部：感謝美方支持台灣平等參與APEC 絕不接受中國大陸矮化",
-      "url": "https://udn.com/news/story/6656/9123689",
-      "source": "udn.com",
-      "published": 1762480426
-    },
-    {
       "id": "cb8bce3db7b6",
       "title": "恶性伤害事件频发，中国家暴受害女性为何如此无助",
       "url": "https://cn.nytimes.com/china/20251107/china-domestic-violence-police/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1762480285
-    },
-    {
-      "id": "211eb0b17468",
-      "title": "NCC人事民眾黨全封殺 黃國昌批主委被提名人蔣榮先「橡皮圖章」",
-      "url": "https://udn.com/news/story/6656/9123685",
-      "source": "udn.com",
-      "published": 1762480249
     },
     {
       "id": "a06c12904826",
@@ -280,27 +308,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c62e0npw2yzo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762478692
-    },
-    {
-      "id": "512b61ecf638",
-      "title": "高通 CEO 指全球嚴重低估 AI 爆發規模 他毫不擔心產業過度投資",
-      "url": "https://money.udn.com/money/story/5599/9123614",
-      "source": "money.udn.com",
-      "published": 1762478356
-    },
-    {
-      "id": "f24b347f7cdb",
-      "title": "大陸明年辦 APEC 美國務院：支持台灣平等參與",
-      "url": "https://money.udn.com/money/story/5599/9123589",
-      "source": "money.udn.com",
-      "published": 1762478241
-    },
-    {
-      "id": "d813fd2f6452",
-      "title": "美政府停擺創最長紀錄 40座主要機場7日起減班、估逾1,800架次受影響",
-      "url": "https://money.udn.com/money/story/5599/9123608",
-      "source": "money.udn.com",
-      "published": 1762478240
     },
     {
       "id": "f4ab830ed443",
@@ -443,6 +450,34 @@
       "published": 1762445163
     },
     {
+      "id": "3b549c3f7951",
+      "title": "特斯拉股东批准马斯克万亿美元薪酬方案",
+      "url": "https://www.ftchinese.com/story/001108117",
+      "source": "ftchinese.com",
+      "published": 1762444800
+    },
+    {
+      "id": "f6263c89cdd5",
+      "title": "沉寂18个月后索马里海盗再度登上商船",
+      "url": "https://www.ftchinese.com/story/001108118",
+      "source": "ftchinese.com",
+      "published": 1762444800
+    },
+    {
+      "id": "716561438e61",
+      "title": "特朗普无法迫使东南亚加入美国的贸易阵营",
+      "url": "https://www.ftchinese.com/story/001108123",
+      "source": "ftchinese.com",
+      "published": 1762444800
+    },
+    {
+      "id": "aa0c92c63140",
+      "title": "哥伦比亚学者耶佩斯-卢戈：中国企业在如何“出海”哥伦比亚？",
+      "url": "https://www.ftchinese.com/story/001108122",
+      "source": "ftchinese.com",
+      "published": 1762444800
+    },
+    {
       "id": "d93db03d84e9",
       "title": "自媒体革命如何造就西方政治—媒体关系大转型？",
       "url": "https://www.ftchinese.com/story/001108121",
@@ -460,20 +495,6 @@
       "id": "ecf1718e95a2",
       "title": "剥离中国临床业务深耕沙特 药明康德加速全球化步伐",
       "url": "https://www.ftchinese.com/story/001108119",
-      "source": "ftchinese.com",
-      "published": 1762444800
-    },
-    {
-      "id": "f6263c89cdd5",
-      "title": "沉寂18个月后索马里海盗再度登上商船",
-      "url": "https://www.ftchinese.com/story/001108118",
-      "source": "ftchinese.com",
-      "published": 1762444800
-    },
-    {
-      "id": "3b549c3f7951",
-      "title": "特斯拉股东批准马斯克万亿美元薪酬方案",
-      "url": "https://www.ftchinese.com/story/001108117",
       "source": "ftchinese.com",
       "published": 1762444800
     },
@@ -796,20 +817,6 @@
       "id": "5d2b1c3dbd29",
       "title": "万喆：下一个中国，是中国的再造",
       "url": "https://www.ftchinese.com/story/001108107",
-      "source": "ftchinese.com",
-      "published": 1762358400
-    },
-    {
-      "id": "cda9823db2bb",
-      "title": "FT社评：美国民主党人找到欢呼的理由",
-      "url": "https://www.ftchinese.com/story/001108108",
-      "source": "ftchinese.com",
-      "published": 1762358400
-    },
-    {
-      "id": "d327b1bcb9d2",
-      "title": "每周时事分析：韩国追求核潜艇正为中韩关系增加变数",
-      "url": "https://www.ftchinese.com/story/001108106",
       "source": "ftchinese.com",
       "published": 1762358400
     },
@@ -1227,13 +1234,6 @@
       "published": 1761812526
     },
     {
-      "id": "93661ea9d55c",
-      "title": "特朗普訪日觀察：稀土、諾貝爾獎提名與歡呼，午餐的日本食材和美國大米",
-      "url": "https://www.bbc.com/zhongwen/articles/cly4jn18xpzo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1761714311
-    },
-    {
       "id": "2799683bb2ff",
       "title": "中國「十五五」規劃：科技自主成核心目標",
       "url": "https://www.dw.com/zh/中國「十五五」規劃：科技自主成核心目標/a-74533361?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762487630
+  "build_id": 1762488780
 }
