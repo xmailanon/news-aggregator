@@ -1,6 +1,41 @@
 {
-  "updated": 1762503260,
+  "updated": 1762505096,
   "items": [
+    {
+      "id": "32f66dc21e65",
+      "title": "高市早苗：台灣有事若伴隨武力  可能構成存亡危機事態",
+      "url": "https://money.udn.com/money/story/5599/9124752",
+      "source": "money.udn.com",
+      "published": 1762504582
+    },
+    {
+      "id": "43b59ffb6dfb",
+      "title": "高市國會答詢 台灣有事可能成日本存亡危機事態 能行使集體自衛權",
+      "url": "https://money.udn.com/money/story/5599/9124744",
+      "source": "money.udn.com",
+      "published": 1762504526
+    },
+    {
+      "id": "6aef1263d7ac",
+      "title": "蔡英文年改爭議  他轟政府只擔心沒錢花 不在乎國民退休生活",
+      "url": "https://udn.com/news/story/6656/9124724",
+      "source": "udn.com",
+      "published": 1762503995
+    },
+    {
+      "id": "63495f5c2fb4",
+      "title": "公民團體赴泰與各國組織交流　籲台灣為人權保護基地",
+      "url": "https://money.udn.com/money/story/5599/9124715",
+      "source": "money.udn.com",
+      "published": 1762503761
+    },
+    {
+      "id": "e17ead49ae75",
+      "title": "馬斯克再破紀錄！股東大膽押寶 1兆美元天價獎酬狠甩黃仁勳好幾條街",
+      "url": "https://money.udn.com/money/story/122381/9124705",
+      "source": "money.udn.com",
+      "published": 1762503572
+    },
     {
       "id": "2ff7fec52697",
       "title": "日本財相：政府將支持三大銀行共同發行穩定幣計畫",
@@ -9,8 +44,15 @@
       "published": 1762503138
     },
     {
+      "id": "1ebd6e8063d5",
+      "title": "鄭麗文明出席追思共諜活動 民進黨轟接受中共史觀：配合統戰",
+      "url": "https://udn.com/news/story/6656/9124698",
+      "source": "udn.com",
+      "published": 1762503110
+    },
+    {
       "id": "2a6cb4957357",
-      "title": "NCC人事全遭封殺 卓榮泰：已遞出半個橄欖園",
+      "title": "NCC人事全遭封殺 卓榮泰「已遞半個橄欖園」：在野黨提出人選才會通過",
       "url": "https://udn.com/news/story/6656/9124682",
       "source": "udn.com",
       "published": 1762502561
@@ -233,20 +275,6 @@
       "published": 1762494165
     },
     {
-      "id": "58699ccedf00",
-      "title": "聲援鍾沛君 國民黨團：賴清德要縱容綠營學者嗎？",
-      "url": "https://udn.com/news/story/6656/9124281",
-      "source": "udn.com",
-      "published": 1762494068
-    },
-    {
-      "id": "4197f06fa314",
-      "title": "NCC人事藍白再封殺 綠：提學界說傀儡、提業界罵酬庸…非監督搞癱瘓",
-      "url": "https://udn.com/news/story/6656/9124263",
-      "source": "udn.com",
-      "published": 1762493764
-    },
-    {
       "id": "0c734b62e729",
       "title": "影／川普宣布減肥藥協議突生插曲 來賓暈倒導致活動臨時喊停",
       "url": "https://money.udn.com/money/story/5599/9124196",
@@ -282,39 +310,11 @@
       "published": 1762490795
     },
     {
-      "id": "4348b24c644e",
-      "title": "AI掀失業潮　美10月裁員創22年同月新高",
-      "url": "https://money.udn.com/money/story/5599/9124133",
-      "source": "money.udn.com",
-      "published": 1762490794
-    },
-    {
       "id": "f5356f9be2e0",
       "title": "美國最高法院允許特朗普政府要求在護照上註明出生性別",
       "url": "https://www.bbc.com/zhongwen/articles/c9v104g7g3xo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762490243
-    },
-    {
-      "id": "c9e124a201b6",
-      "title": "波蘭威士忌出口成長快速　國際嶄露頭角",
-      "url": "https://money.udn.com/money/story/5599/9124116",
-      "source": "money.udn.com",
-      "published": 1762490174
-    },
-    {
-      "id": "d9eb6f7a62e5",
-      "title": "疑不滿美國祭制裁 北韓時隔16天再射彈道飛彈",
-      "url": "https://money.udn.com/money/story/5599/9124114",
-      "source": "money.udn.com",
-      "published": 1762490130
-    },
-    {
-      "id": "51c8e4903602",
-      "title": "美國年底購物季銷售額估將破天荒突破1兆美元 但成長趨緩",
-      "url": "https://money.udn.com/money/story/5599/9124099",
-      "source": "money.udn.com",
-      "published": 1762489954
     },
     {
       "id": "6b7f1c5d357d",
@@ -927,7 +927,7 @@
     },
     {
       "id": "e015724d5e71",
-      "title": "法國就「性愛娃娃醜聞」對Shein和Temu展開調查",
+      "title": "法國就「性愛娃娃醜聞」對Shein展開調查",
       "url": "https://www.bbc.com/zhongwen/articles/c5y057ldvn1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762322930
@@ -1402,5 +1402,5 @@
       "published": 1760778240
     }
   ],
-  "build_id": 1762503260
+  "build_id": 1762505096
 }
