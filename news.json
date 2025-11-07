@@ -1,5 +1,5 @@
 {
-  "updated": 1762556935,
+  "updated": 1762558370,
   "items": [
     {
       "id": "55c66993c19b",
@@ -21,6 +21,13 @@
       "url": "https://money.udn.com/money/story/123398/9125752",
       "source": "money.udn.com",
       "published": 1762554092
+    },
+    {
+      "id": "c400964610c0",
+      "title": "蕭美琴訪歐洲議會發表演說 外交部：詳情回國後說明",
+      "url": "https://udn.com/news/story/6656/9125625",
+      "source": "udn.com",
+      "published": 1762553640
     },
     {
       "id": "46dcaf60a100",
@@ -245,13 +252,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251107-%E7%BB%A7%E6%B3%95%E5%9B%BD%E5%90%8E-shein%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E9%9D%A2%E4%B8%B4%E6%9C%8D%E8%A3%85%E8%A1%8C%E4%B8%9A%E5%92%8C%E6%94%BF%E5%BA%9C%E5%8E%8B%E5%8A%9B",
       "source": "rfi.fr",
       "published": 1762532944
-    },
-    {
-      "id": "c400964610c0",
-      "title": "蕭美琴訪歐洲議會發表演說 外交部：詳情回國後說明",
-      "url": "https://udn.com/news/story/6656/9125625",
-      "source": "udn.com",
-      "published": 1762532066
     },
     {
       "id": "472d294a7e9b",
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762556935
+  "build_id": 1762558370
 }
