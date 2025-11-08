@@ -1,6 +1,13 @@
 {
-  "updated": 1762607968,
+  "updated": 1762609029,
   "items": [
+    {
+      "id": "08f26392913c",
+      "title": "加薩衛生部：以哈戰爭迄今逾6萬9000名巴勒斯坦人喪生",
+      "url": "https://money.udn.com/money/story/5599/9126846",
+      "source": "money.udn.com",
+      "published": 1762608070
+    },
     {
       "id": "f2bd8aa278fa",
       "title": "CNN指过去五年来中国大规模扩建导弹生产相关设施 建筑面积增加逾200万平方米",
@@ -259,13 +266,6 @@
       "url": "https://udn.com/news/story/6656/9126521",
       "source": "udn.com",
       "published": 1762589143
-    },
-    {
-      "id": "0d5a87dd5e32",
-      "title": "中國科研船停靠庫克群島　考察深海採礦潛力",
-      "url": "https://money.udn.com/money/story/5599/9126520",
-      "source": "money.udn.com",
-      "published": 1762588856
     },
     {
       "id": "7ff7bfe5914a",
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762607968
+  "build_id": 1762609029
 }
