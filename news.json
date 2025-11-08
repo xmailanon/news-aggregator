@@ -1,5 +1,5 @@
 {
-  "updated": 1762621802,
+  "updated": 1762623217,
   "items": [
     {
       "id": "4dfedf93198f",
@@ -7,6 +7,13 @@
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251108-%E5%BE%B7%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%AE%A1%E5%88%92%E5%AE%A1%E6%9F%A5%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BE%9D%E8%B5%96",
       "source": "rfi.fr",
       "published": 1762620769
+    },
+    {
+      "id": "3ef807ebbbc3",
+      "title": "法国建议侨民暂时撤离马里",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251108-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E5%9B%BD%E5%BB%BA%E8%AE%AE%E4%BE%A8%E6%B0%91%E6%9A%82%E6%97%B6%E6%92%A4%E7%A6%BB%E9%A9%AC%E9%87%8C",
+      "source": "rfi.fr",
+      "published": 1762620453
     },
     {
       "id": "639e35653ee3",
@@ -73,7 +80,7 @@
     },
     {
       "id": "70d037eb8ae9",
-      "title": "志願役士兵 四年1.2萬人賠錢搶退",
+      "title": "志願役士兵 4年1.2萬人賠錢求去 立委質疑待遇、戰爭風險使然",
       "url": "https://udn.com/news/story/10930/9127034",
       "source": "udn.com",
       "published": 1762618682
@@ -168,6 +175,13 @@
       "url": "https://money.udn.com/money/story/10511/9126877",
       "source": "money.udn.com",
       "published": 1762611610
+    },
+    {
+      "id": "2c7468dd5893",
+      "title": "疑受美政府預算未過影響 福衛八號齊柏林衛星發射再延期",
+      "url": "https://udn.com/news/story/7314/9126871",
+      "source": "udn.com",
+      "published": 1762611074
     },
     {
       "id": "8f817a272861",
@@ -380,13 +394,6 @@
       "published": 1762592301
     },
     {
-      "id": "0b1534ffb5c2",
-      "title": "稱白恐秋祭不祭悼共諜吳石 主辦單位採通卻讚「烈士犧牲」",
-      "url": "https://udn.com/news/story/6656/9126526",
-      "source": "udn.com",
-      "published": 1762589223
-    },
-    {
       "id": "60e4e5307ff9",
       "title": "ARD德国趋势调查：半数受访者感到不安全",
       "url": "https://www.dw.com/zh/ard德国趋势调查：半数受访者感到不安全/a-74663504?maca=chi-rss-chi-all-1127-rdf",
@@ -497,13 +504,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251107-%E7%BE%8E%E5%9B%BD%E9%99%86%E5%86%9B%E9%83%A8%E9%95%BF-%E9%99%86%E5%86%9B%E6%8B%9F%E5%9C%A8%E6%9C%AA%E6%9D%A5%E4%B8%A4%E5%88%B0%E4%B8%89%E5%B9%B4%E5%86%85%E9%87%87%E8%B4%AD%E8%87%B3%E5%B0%91100%E4%B8%87%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA",
       "source": "rfi.fr",
       "published": 1762530909
-    },
-    {
-      "id": "86ae53a85b2f",
-      "title": "政府停摆与关税措施合法性疑问令美国经济充满不确定性",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251107-%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E4%B8%8E%E5%85%B3%E7%A8%8E%E6%8E%AA%E6%96%BD%E5%90%88%E6%B3%95%E6%80%A7%E7%96%91%E9%97%AE%E4%BB%A4%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%85%E6%BB%A1%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7",
-      "source": "rfi.fr",
-      "published": 1762530248
     },
     {
       "id": "a947a0c13391",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762621802
+  "build_id": 1762623217
 }
