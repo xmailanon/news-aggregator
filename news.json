@@ -1,10 +1,24 @@
 {
-  "updated": 1762630301,
+  "updated": 1762632580,
   "items": [
     {
-      "id": "90462fa67a80",
+      "id": "de77c8c7c3f6",
+      "title": "特朗普提议将医改补助直接发给民众 以缓解政府关门僵局",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251108-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E8%AE%AE%E5%B0%86%E5%8C%BB%E6%94%B9%E8%A1%A5%E5%8A%A9%E7%9B%B4%E6%8E%A5%E5%8F%91%E7%BB%99%E6%B0%91%E4%BC%97-%E4%BB%A5%E6%94%BF%E5%BA%9C%E5%85%B3%E9%97%A8%E5%83%B5%E5%B1%80",
+      "source": "rfi.fr",
+      "published": 1762632268
+    },
+    {
+      "id": "d270f26adc53",
+      "title": "美国的政治气氛陡变 特朗普遭遇一系列挫折",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251108-%E7%BE%8E%E5%9B%BD%E7%9A%84%E6%94%BF%E6%B2%BB%E6%B0%94%E6%B0%9B%E9%99%A1%E5%8F%98-%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E9%81%87%E4%B8%80%E7%B3%BB%E5%88%97%E6%8C%AB%E6%8A%98",
+      "source": "rfi.fr",
+      "published": 1762631938
+    },
+    {
+      "id": "f4728d31041b",
       "title": "中國部分恢復安世晶片出口　歐盟：汽車業憂慮緩解",
-      "url": "https://money.udn.com/money/story/10511/9127086",
+      "url": "https://money.udn.com/money/story/5599/9127086",
       "source": "money.udn.com",
       "published": 1762629689
     },
@@ -261,6 +275,13 @@
       "published": 1762611610
     },
     {
+      "id": "b0a28dba304a",
+      "title": "鄭麗文追思白色恐怖挨批祭悼共諜 陸委會：嚴重傷害國家尊嚴",
+      "url": "https://udn.com/news/story/6656/9126873",
+      "source": "udn.com",
+      "published": 1762611339
+    },
+    {
       "id": "2c7468dd5893",
       "title": "疑受美政府預算未過影響 福衛八號齊柏林衛星發射再延期",
       "url": "https://udn.com/news/story/7314/9126871",
@@ -394,13 +415,6 @@
       "published": 1762592524
     },
     {
-      "id": "ef6306a20c98",
-      "title": "明年度總預算案仍「躺」在立院 政院：一直積極誠懇溝通",
-      "url": "https://udn.com/news/story/6656/9126577",
-      "source": "udn.com",
-      "published": 1762592343
-    },
-    {
       "id": "60e4e5307ff9",
       "title": "ARD德国趋势调查：半数受访者感到不安全",
       "url": "https://www.dw.com/zh/ard德国趋势调查：半数受访者感到不安全/a-74663504?maca=chi-rss-chi-all-1127-rdf",
@@ -525,20 +539,6 @@
       "url": "https://www.dw.com/zh/德语媒体：神秘的中国核战略/a-74662873?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762525440
-    },
-    {
-      "id": "4c827744d331",
-      "title": "回声报：中国如何强化其在非洲的金融影响力",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251107-%E5%9B%9E%E5%A3%B0%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BC%BA%E5%8C%96%E5%85%B6%E5%9C%A8%E9%9D%9E%E6%B4%B2%E7%9A%84%E9%87%91%E8%9E%8D%E5%BD%B1%E5%93%8D%E5%8A%9B",
-      "source": "rfi.fr",
-      "published": 1762523879
-    },
-    {
-      "id": "b71248f98f24",
-      "title": "20万个平台包裹被法国海关拦截拆封 法部长指与Shein执行主席唐伟无谈判余地",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251107-20%E4%B8%87%E4%B8%AA%E5%B9%B3%E5%8F%B0%E5%8C%85%E8%A3%B9%E8%A2%AB%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%85%B3%E6%8B%A6%E6%88%AA%E6%8B%86%E5%B0%81-%E6%B3%95%E9%83%A8%E9%95%BF%E6%8C%87%E4%B8%8Eshein%E6%89%A7%E8%A1%8C%E4%B8%BB%E5%B8%AD%E5%94%90%E4%BC%9F%E6%97%A0%E8%B0%88%E5%88%A4%E4%BD%99%E5%9C%B0",
-      "source": "rfi.fr",
-      "published": 1762520900
     },
     {
       "id": "a9bb417580bc",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762630301
+  "build_id": 1762632580
 }
