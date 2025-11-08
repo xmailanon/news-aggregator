@@ -1,6 +1,41 @@
 {
-  "updated": 1762625575,
+  "updated": 1762627353,
   "items": [
+    {
+      "id": "4befcb52ef90",
+      "title": "馬斯克：機器人可做所有工作 成為終結貧窮關鍵力量",
+      "url": "https://money.udn.com/money/story/123398/9126973",
+      "source": "money.udn.com",
+      "published": 1762626903
+    },
+    {
+      "id": "c406a247751f",
+      "title": "日三大銀行試發穩定幣 避免日圓和公債遭拋售",
+      "url": "https://money.udn.com/money/story/5599/9126975",
+      "source": "money.udn.com",
+      "published": 1762626830
+    },
+    {
+      "id": "f8cce3c5dbf5",
+      "title": "Fed 理事找到降息新理由 米倫：穩定幣壓低中性利率",
+      "url": "https://money.udn.com/money/story/10511/9126978",
+      "source": "money.udn.com",
+      "published": 1762626790
+    },
+    {
+      "id": "fc76f4d47150",
+      "title": "輝瑞將收購 Metsera 藥廠 併購案擊敗諾和諾德",
+      "url": "https://money.udn.com/money/story/123398/9126976",
+      "source": "money.udn.com",
+      "published": 1762626789
+    },
+    {
+      "id": "d282be848df2",
+      "title": "1分鐘看世界／川普不滿牛肉價飆漲 下令調查加工業操縱價格",
+      "url": "https://money.udn.com/money/story/5599/9126934",
+      "source": "money.udn.com",
+      "published": 1762626581
+    },
     {
       "id": "f0153e8316ef",
       "title": "國民黨主席鄭麗文赴秋祭 陸委會：譴責追思共諜",
@@ -72,16 +107,16 @@
       "published": 1762618745
     },
     {
-      "id": "7b759ba115cf",
-      "title": "蕭美琴赴歐IPAC演說 副學者：過分誇飾 恐招中共封鎖",
-      "url": "https://udn.com/news/story/6656/9127009",
+      "id": "86d73727260b",
+      "title": "總預算尚未付委 17年來最晚一次",
+      "url": "https://udn.com/news/story/6656/9127012",
       "source": "udn.com",
       "published": 1762618744
     },
     {
-      "id": "86d73727260b",
-      "title": "總預算尚未付委 17年來最晚一次",
-      "url": "https://udn.com/news/story/6656/9127012",
+      "id": "7b759ba115cf",
+      "title": "蕭美琴赴歐IPAC演說 學者：過分誇飾 恐招中共封鎖",
+      "url": "https://udn.com/news/story/6656/9127009",
       "source": "udn.com",
       "published": 1762618744
     },
@@ -317,13 +352,6 @@
       "published": 1762598747
     },
     {
-      "id": "06f29a3a3eca",
-      "title": "達康崩盤教訓可防 AI 泡沫化：以「這招」降低曝險可安枕無憂",
-      "url": "https://money.udn.com/money/story/5599/9126687",
-      "source": "money.udn.com",
-      "published": 1762598551
-    },
-    {
       "id": "b197ba4925c8",
       "title": "鄭麗文出席白色恐怖秋祭 蔡正元：乾脆改名「中國國民投降黨」",
       "url": "https://udn.com/news/story/6656/9126685",
@@ -336,34 +364,6 @@
       "url": "https://www.dw.com/zh/北京同意荷兰派人来谈-安世半导体风波或迎转机/a-74672585?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762598340
-    },
-    {
-      "id": "4ff387fb758b",
-      "title": "招不到人也沒錢加薪 人力短缺逼出日本超商黑暗面",
-      "url": "https://money.udn.com/money/story/122381/9126618",
-      "source": "money.udn.com",
-      "published": 1762598095
-    },
-    {
-      "id": "d6e21570d3b4",
-      "title": "麥道MD-11飛機致命空難　UPS與FedEx宣布停飛",
-      "url": "https://money.udn.com/money/story/5599/9126674",
-      "source": "money.udn.com",
-      "published": 1762597292
-    },
-    {
-      "id": "36c61f445984",
-      "title": "巴菲特教我們的事2／細數「奧瑪哈」先知給予 CEO 的領導啟發",
-      "url": "https://money.udn.com/money/story/122381/9126621",
-      "source": "money.udn.com",
-      "published": 1762596624
-    },
-    {
-      "id": "dc3a4648bf93",
-      "title": "楊双子從鐵道看身分認同 印度文化人共鳴殖民軌跡",
-      "url": "https://money.udn.com/money/story/5599/9126665",
-      "source": "money.udn.com",
-      "published": 1762596391
     },
     {
       "id": "5ce9188307c6",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762625575
+  "build_id": 1762627353
 }
