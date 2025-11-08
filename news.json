@@ -1,6 +1,27 @@
 {
-  "updated": 1762615987,
+  "updated": 1762618228,
   "items": [
+    {
+      "id": "e1e773aaacc2",
+      "title": "聯合報一周大事11/02~11/08",
+      "url": "https://udn.com/news/story/7314/9126903",
+      "source": "udn.com",
+      "published": 1762617602
+    },
+    {
+      "id": "660e1d328066",
+      "title": "歷史上的今天／1961年氣象所檢測蔬菜 發現原子塵增加",
+      "url": "https://udn.com/news/story/7314/9126297",
+      "source": "udn.com",
+      "published": 1762617600
+    },
+    {
+      "id": "c9e79f357bd6",
+      "title": "俄对乌能源基础设施袭击造成4人死亡 爱沙尼亚外长呼吁中国对俄施压",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251108-%E4%BF%84%E5%AF%B9%E4%B9%8C%E8%83%BD%E6%BA%90%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E8%A2%AD%E5%87%BB%E9%80%A0%E6%88%904%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%E5%A4%96%E9%95%BF%E5%91%BC%E5%90%81%E4%B8%AD%E5%9B%BD%E5%AF%B9%E4%BF%84%E6%96%BD%E5%8E%8B",
+      "source": "rfi.fr",
+      "published": 1762617147
+    },
     {
       "id": "8754b5698517",
       "title": "德语媒体：德企为何难摆脱对中国原材料的依赖？",
@@ -359,20 +380,6 @@
       "published": 1762582464
     },
     {
-      "id": "39a6c888a3f9",
-      "title": "勇鷹高教機頻傳意外 徐巧芯：全部應重新檢測",
-      "url": "https://udn.com/news/story/10930/9126280",
-      "source": "udn.com",
-      "published": 1762579143
-    },
-    {
-      "id": "24c7965a0472",
-      "title": "志願役士兵編現比3年半崩降近3成 專家：蠟燭多頭燒誰想留營？",
-      "url": "https://udn.com/news/story/10930/9126274",
-      "source": "udn.com",
-      "published": 1762578846
-    },
-    {
       "id": "efbede236dea",
       "title": "在意大利，Shein也面临产业界的反弹",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251108-%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%EF%BC%8Cshein%E4%B9%9F%E9%9D%A2%E4%B8%B4%E4%BA%A7%E4%B8%9A%E7%95%8C%E7%9A%84%E5%8F%8D%E5%BC%B9",
@@ -637,13 +644,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c5y43dg221no/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762473841
-    },
-    {
-      "id": "bb9ec427c9ba",
-      "title": "费加罗报《世界裂解》评析：通过釜山协议，中国证明已与美国平起平坐",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251106-%E8%B4%B9%E5%8A%A0%E7%BD%97%E6%8A%A5-%E4%B8%96%E7%95%8C%E8%A3%82%E8%A7%A3-%E8%AF%84%E6%9E%90-%E9%80%9A%E8%BF%87%E9%87%9C%E5%B1%B1%E5%8D%8F%E8%AE%AE%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%AF%81%E6%98%8E%E5%B7%B2%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%B9%B3%E8%B5%B7%E5%B9%B3%E5%9D%90",
-      "source": "rfi.fr",
-      "published": 1762469487
     },
     {
       "id": "6a5d33113231",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762615987
+  "build_id": 1762618228
 }
