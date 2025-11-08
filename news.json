@@ -1,12 +1,26 @@
 {
-  "updated": 1762589527,
+  "updated": 1762591246,
   "items": [
+    {
+      "id": "d75b50ea8e62",
+      "title": "OpenAI 執行長奧特曼呼籲川普政府：讓 AI 資料中心享有晶片法抵稅優惠",
+      "url": "https://money.udn.com/money/story/5599/9126543",
+      "source": "money.udn.com",
+      "published": 1762590524
+    },
     {
       "id": "0b1534ffb5c2",
       "title": "稱白恐秋祭不祭悼共諜吳石 主辦單位採通卻讚「烈士犧牲」",
       "url": "https://udn.com/news/story/6656/9126526",
       "source": "udn.com",
       "published": 1762589223
+    },
+    {
+      "id": "60e4e5307ff9",
+      "title": "ARD德国趋势调查：半数受访者感到不安全",
+      "url": "https://www.dw.com/zh/ard德国趋势调查：半数受访者感到不安全/a-74663504?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1762589220
     },
     {
       "id": "1ea694a63d65",
@@ -238,13 +252,6 @@
       "url": "https://money.udn.com/money/story/5599/9126244",
       "source": "money.udn.com",
       "published": 1762578041
-    },
-    {
-      "id": "589cc3541a41",
-      "title": "控在加薩犯下種族滅絕 土耳其對以色列高官發逮捕令",
-      "url": "https://money.udn.com/money/story/5599/9126236",
-      "source": "money.udn.com",
-      "published": 1762577672
     },
     {
       "id": "b6cc7043d603",
@@ -1059,20 +1066,6 @@
       "published": 1762269960
     },
     {
-      "id": "45a2b7a2dda6",
-      "title": "安世半导体：北京批荷兰“一意孤行” 德国公司受影响",
-      "url": "https://www.dw.com/zh/安世半导体：北京批荷兰-一意孤行-德国公司受影响/a-74614859?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762268760
-    },
-    {
-      "id": "16eefd978aa1",
-      "title": "特朗普重提“G2”，中美关系新定义？",
-      "url": "https://www.dw.com/zh/特朗普重提-g2-，中美关系新定义？/a-74611395?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762261320
-    },
-    {
       "id": "333ab043496f",
       "title": "中美元首會晤協議細節陸續出爐，華盛頓與北京是否「休戰」在望？",
       "url": "https://www.bbc.com/zhongwen/articles/cy9pyqr3j8eo/trad?at_medium=RSS&at_campaign=rss",
@@ -1290,6 +1283,13 @@
       "published": 1761489480
     },
     {
+      "id": "19ac571ca50c",
+      "title": "犯罪率是否在上升？德国安全吗？",
+      "url": "https://www.dw.com/zh/犯罪率是否在上升？德国安全吗？/a-74013992?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1761467820
+    },
+    {
       "id": "05ad71dead4a",
       "title": "DW事实核查：如何识破假账号、机器人和喷子？",
       "url": "https://www.dw.com/zh/dw事实核查：如何识破假账号、机器人和喷子？/a-74009408?maca=chi-rss-chi-news-3224-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762589527
+  "build_id": 1762591246
 }
