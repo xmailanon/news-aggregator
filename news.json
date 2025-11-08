@@ -1,6 +1,34 @@
 {
-  "updated": 1762612503,
+  "updated": 1762614516,
   "items": [
+    {
+      "id": "a1df27f5ed37",
+      "title": "印尼校園清真寺爆炸案增至96傷　警持續調查涉案學生",
+      "url": "https://money.udn.com/money/story/5599/9126910",
+      "source": "money.udn.com",
+      "published": 1762613670
+    },
+    {
+      "id": "6114fd184606",
+      "title": "「柏林自由會議」蔡英文赴德國演說 桃機啟程微笑揮手",
+      "url": "https://udn.com/news/story/6656/9126894",
+      "source": "udn.com",
+      "published": 1762613267
+    },
+    {
+      "id": "e2bfb03de5d6",
+      "title": "美股會摔落「修正」領域嗎？要看這4大顧慮是否改善",
+      "url": "https://money.udn.com/money/story/123398/9126893",
+      "source": "money.udn.com",
+      "published": 1762612951
+    },
+    {
+      "id": "8754b5698517",
+      "title": "德语媒体：德企为何难摆脱对中国原材料的依赖？",
+      "url": "https://www.dw.com/zh/德语媒体：德企为何难摆脱对中国原材料的依赖？/a-74673902?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1762612920
+    },
     {
       "id": "0544dc64e0a0",
       "title": "赫格塞思：美军采购体系须转型为战时模式，迅速加快能力部署",
@@ -9,9 +37,9 @@
       "published": 1762611985
     },
     {
-      "id": "a870dbd8e07a",
+      "id": "b04dfe28d661",
       "title": "川普聲稱今年感恩節大餐花費比去年低25% 美媒稱數據具誤導性",
-      "url": "https://money.udn.com/money/story/5599/9126877",
+      "url": "https://money.udn.com/money/story/10511/9126877",
       "source": "money.udn.com",
       "published": 1762611610
     },
@@ -233,25 +261,11 @@
       "published": 1762592343
     },
     {
-      "id": "ccc7f15468eb",
-      "title": "冒牌股神滿天飛！波克夏警告 別信網路流傳的巴菲特 AI 深偽影片",
-      "url": "https://money.udn.com/money/story/5599/9126576",
-      "source": "money.udn.com",
-      "published": 1762592327
-    },
-    {
       "id": "72e9c5dcec8c",
       "title": "鄭麗文：威權、箝制自由言論的幽靈再次籠罩台灣",
       "url": "https://udn.com/news/story/6656/9126575",
       "source": "udn.com",
       "published": 1762592301
-    },
-    {
-      "id": "84805c27195f",
-      "title": "中國商人涉新加坡洗錢案　英國沒收恐龍化石豪宅藝品",
-      "url": "https://money.udn.com/money/story/5599/9126558",
-      "source": "money.udn.com",
-      "published": 1762591530
     },
     {
       "id": "0b1534ffb5c2",
@@ -357,13 +371,6 @@
       "url": "https://udn.com/news/story/10930/9126274",
       "source": "udn.com",
       "published": 1762578846
-    },
-    {
-      "id": "3f3d53237914",
-      "title": "鄭麗文赴白色恐怖秋祭挨批 台灣政治受難人互助會：祭悼吳石等非事實",
-      "url": "https://udn.com/news/story/6656/9126250",
-      "source": "udn.com",
-      "published": 1762578230
     },
     {
       "id": "efbede236dea",
@@ -954,13 +961,6 @@
       "published": 1762345320
     },
     {
-      "id": "00dc8c6b788a",
-      "title": "北京降低部分美国农产品关税",
-      "url": "https://www.dw.com/zh/北京降低部分美国农产品关税/a-74625512?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762343940
-    },
-    {
       "id": "65b873c4f7e0",
       "title": "台灣「普發現金」一萬元，民眾怎麼看？",
       "url": "https://www.bbc.com/zhongwen/articles/ce3keqyw755o/trad?at_medium=RSS&at_campaign=rss",
@@ -1185,13 +1185,6 @@
       "published": 1761922740
     },
     {
-      "id": "6652b301d435",
-      "title": "德语媒体：平起平坐的两大超级大国",
-      "url": "https://www.dw.com/zh/德语媒体：平起平坐的两大超级大国/a-74574618?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1761921600
-    },
-    {
       "id": "d0ca3bbfeda6",
       "title": "英伟达将向韩国供应26万枚尖端芯片",
       "url": "https://www.dw.com/zh/英伟达将向韩国供应26万枚尖端芯片/a-74570158?maca=chi-rss-chi-all-1127-rdf",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/女性比男性需要更多的睡眠/a-74389633?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760858580
+    },
+    {
+      "id": "5ec7ac4931bc",
+      "title": "深陷爱泼斯坦丑闻 英国安德鲁王子放弃王室头衔",
+      "url": "https://www.dw.com/zh/深陷爱泼斯坦丑闻-英国安德鲁王子放弃王室头衔/a-74408957?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1760778240
     }
   ],
-  "build_id": 1762612503
+  "build_id": 1762614516
 }
