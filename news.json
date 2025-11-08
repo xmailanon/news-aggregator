@@ -1,6 +1,13 @@
 {
-  "updated": 1762641312,
+  "updated": 1762643318,
   "items": [
+    {
+      "id": "712292477ad8",
+      "title": "埃及鲜橙出口全球领先的挑战",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251108-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%9F%83%E5%8F%8A%E9%B2%9C%E6%A9%99%E5%87%BA%E5%8F%A3%E5%85%A8%E7%90%83%E9%A2%86%E5%85%88%E7%9A%84%E6%8C%91%E6%88%98",
+      "source": "rfi.fr",
+      "published": 1762641941
+    },
     {
       "id": "36e92e34171a",
       "title": "【總編開箱】志願役士兵大量流失 只談備戰、不談避戰的警訊",
@@ -532,13 +539,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251107-%E7%BE%8E%E5%9B%BD%E7%BC%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%AF%B9%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%9D%83%E8%AE%B0%E5%BD%95%E7%9A%84%E6%99%AE%E9%81%8D%E5%AE%9A%E6%9C%9F%E5%AE%A1%E8%AE%AE",
       "source": "rfi.fr",
       "published": 1762536879
-    },
-    {
-      "id": "43f053c20225",
-      "title": "毛里求斯扣押马达加斯加富豪",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251107-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%AF%9B%E9%87%8C%E6%B1%82%E6%96%AF%E6%89%A3%E6%8A%BC%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E5%AF%8C%E8%B1%AA",
-      "source": "rfi.fr",
-      "published": 1762535560
     },
     {
       "id": "0a8dbf0be7d3",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762641312
+  "build_id": 1762643318
 }
