@@ -1,6 +1,27 @@
 {
-  "updated": 1762604194,
+  "updated": 1762606628,
   "items": [
+    {
+      "id": "9344d135ea45",
+      "title": "俄無人機飛彈襲擊烏克蘭　至少3死能源設施受損",
+      "url": "https://money.udn.com/money/story/5599/9126809",
+      "source": "money.udn.com",
+      "published": 1762605934
+    },
+    {
+      "id": "74d1860f83a5",
+      "title": "塔利班：阿富汗與巴基斯坦和談破裂　但維持停火",
+      "url": "https://money.udn.com/money/story/5599/9126810",
+      "source": "money.udn.com",
+      "published": 1762605934
+    },
+    {
+      "id": "dd32f0b91aaa",
+      "title": "歐洲面臨6萬噸「巨型垃圾」風機葉片！綠能回收危機如何成新商機？",
+      "url": "https://money.udn.com/money/story/122381/9126781",
+      "source": "money.udn.com",
+      "published": 1762604276
+    },
     {
       "id": "9a84fc7ff89a",
       "title": "土耳其香水倉庫火災　6死5傷",
@@ -52,7 +73,7 @@
     },
     {
       "id": "ee78f467b98b",
-      "title": "希音平台下架非法商品 法国经济部长赞是首个胜利、未来可期",
+      "title": "希音平台下架非法商品 法国经济部长赞是首胜、未来可期",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251108-%E5%B8%8C%E9%9F%B3%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E9%9D%9E%E6%B3%95%E5%95%86%E5%93%81-%E7%BB%8F%E6%B5%8E%E9%83%A8%E9%95%BF%E8%B5%9E%E6%98%AF%E9%A6%96%E4%B8%AA%E8%83%9C%E5%88%A9-%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F",
       "source": "rfi.fr",
       "published": 1762599735
@@ -240,13 +261,6 @@
       "published": 1762588856
     },
     {
-      "id": "ead18b7b15e1",
-      "title": "蒙特婁國際旅展  台灣展區推永續旅遊、文化魅力",
-      "url": "https://money.udn.com/money/story/5599/9126519",
-      "source": "money.udn.com",
-      "published": 1762588856
-    },
-    {
       "id": "7ff7bfe5914a",
       "title": "再撇秋祭不紀念吳石...鄭麗文：國共主張不同 不代表要兵刃相見",
       "url": "https://udn.com/news/story/6656/9126506",
@@ -259,20 +273,6 @@
       "url": "https://udn.com/news/story/7314/9126487",
       "source": "udn.com",
       "published": 1762588351
-    },
-    {
-      "id": "b4dc30fab8b7",
-      "title": "巴西南部龍捲風釀災　至少5死約130傷",
-      "url": "https://money.udn.com/money/story/5599/9126498",
-      "source": "money.udn.com",
-      "published": 1762587914
-    },
-    {
-      "id": "ff1b7837831b",
-      "title": "熊闖日本JR車站車庫　山形新幹線部分區間停駛",
-      "url": "https://money.udn.com/money/story/5599/9126486",
-      "source": "money.udn.com",
-      "published": 1762587378
     },
     {
       "id": "7abe6c440ec3",
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762604194
+  "build_id": 1762606628
 }
