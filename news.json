@@ -1,6 +1,27 @@
 {
-  "updated": 1762610903,
+  "updated": 1762612503,
   "items": [
+    {
+      "id": "0544dc64e0a0",
+      "title": "赫格塞思：美军采购体系须转型为战时模式，迅速加快能力部署",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251108-%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D-%E7%BE%8E%E5%86%9B%E9%87%87%E8%B4%AD%E4%BD%93%E7%B3%BB%E9%A1%BB%E8%BD%AC%E5%9E%8B%E4%B8%BA%E6%88%98%E6%97%B6%E6%A8%A1%E5%BC%8F%EF%BC%8C%E8%BF%85%E9%80%9F%E5%8A%A0%E5%BF%AB%E8%83%BD%E5%8A%9B%E9%83%A8%E7%BD%B2",
+      "source": "rfi.fr",
+      "published": 1762611985
+    },
+    {
+      "id": "a870dbd8e07a",
+      "title": "川普聲稱今年感恩節大餐花費比去年低25% 美媒稱數據具誤導性",
+      "url": "https://money.udn.com/money/story/5599/9126877",
+      "source": "money.udn.com",
+      "published": 1762611610
+    },
+    {
+      "id": "8f817a272861",
+      "title": "富爸爸作者清崎：在佳節時分被解僱真的很慘 好險我是老闆",
+      "url": "https://money.udn.com/money/story/5599/9126870",
+      "source": "money.udn.com",
+      "published": 1762611047
+    },
     {
       "id": "08f26392913c",
       "title": "加薩衛生部：以哈戰爭迄今逾6萬9000名巴勒斯坦人喪生",
@@ -231,20 +252,6 @@
       "url": "https://money.udn.com/money/story/5599/9126558",
       "source": "money.udn.com",
       "published": 1762591530
-    },
-    {
-      "id": "c9678d2970fc",
-      "title": "AI 熱潮退燒？相關概念股一周蒸發近1兆美元 輝達財報前市場神經緊繃",
-      "url": "https://money.udn.com/money/story/123398/9126556",
-      "source": "money.udn.com",
-      "published": 1762591408
-    },
-    {
-      "id": "d75b50ea8e62",
-      "title": "OpenAI 執行長奧特曼呼籲川普政府：讓 AI 資料中心享有晶片法抵稅優惠",
-      "url": "https://money.udn.com/money/story/5599/9126543",
-      "source": "money.udn.com",
-      "published": 1762590524
     },
     {
       "id": "0b1534ffb5c2",
@@ -555,13 +562,6 @@
       "published": 1762513080
     },
     {
-      "id": "2798311aeea7",
-      "title": "美国务院支持台湾平等参与APEC 台湾外交部：绝不接受中国矮化及排除台湾参加",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251107-%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E6%94%AF%E6%8C%81%E5%8F%B0%E6%B9%BE%E5%B9%B3%E7%AD%89%E5%8F%82%E4%B8%8Eapec-%E5%8F%B0%E6%B9%BE%E5%A4%96%E4%BA%A4%E9%83%A8-%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E4%B8%AD%E5%9B%BD%E7%9F%AE%E5%8C%96%E5%8F%8A%E6%8E%92%E9%99%A4%E5%8F%B0%E6%B9%BE%E5%8F%82%E5%8A%A0",
-      "source": "rfi.fr",
-      "published": 1762511601
-    },
-    {
       "id": "e445d6a3fed3",
       "title": "美國前眾議長佩洛西宣布後年退休：美媒稱「時代終結」特朗普批其為「國家負擔」",
       "url": "https://www.bbc.com/zhongwen/articles/cjr0qw4qrd9o/trad?at_medium=RSS&at_campaign=rss",
@@ -805,13 +805,6 @@
       "url": "https://www.dw.com/zh/德语媒体：缓解是暂时的，冲突是长期的/a-74646328?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762442220
-    },
-    {
-      "id": "5f031762b0f9",
-      "title": "安世半导体：中国造 不担保！",
-      "url": "https://www.dw.com/zh/安世半导体：中国造-不担保！/a-74643556?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762437000
     },
     {
       "id": "da06a696d07c",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/法国卢浮宫遭抢-9件珠宝被盗/a-74415566?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760869260
+    },
+    {
+      "id": "8aded405855a",
+      "title": "女性比男性需要更多的睡眠",
+      "url": "https://www.dw.com/zh/女性比男性需要更多的睡眠/a-74389633?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1760858580
     }
   ],
-  "build_id": 1762610903
+  "build_id": 1762612503
 }
