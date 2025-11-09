@@ -1,6 +1,13 @@
 {
-  "updated": 1762729722,
+  "updated": 1762731137,
   "items": [
+    {
+      "id": "bedecab07fa2",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/9128581",
+      "source": "money.udn.com",
+      "published": 1762730109
+    },
     {
       "id": "8a3de311e476",
       "title": "對阿富汗和談破裂收場　巴基斯坦承諾繼續對話",
@@ -10,7 +17,7 @@
     },
     {
       "id": "10309561bc2f",
-      "title": "蔡正元：自以為是創造兩岸和平議題 讓民進黨笑到喘息",
+      "title": "鄭麗文捲吳石風波 蔡正元：自以為是創造兩岸和平議題讓民進黨笑到喘息",
       "url": "https://udn.com/news/story/6656/9128575",
       "source": "udn.com",
       "published": 1762728625
@@ -261,6 +268,27 @@
       "published": 1762704005
     },
     {
+      "id": "eb8e8df28fa0",
+      "title": "“学费越贵越好招生”彰显国际教育的隐性变革",
+      "url": "https://www.ftchinese.com/story/001108133",
+      "source": "ftchinese.com",
+      "published": 1762704000
+    },
+    {
+      "id": "ea9cd80e3aff",
+      "title": "伦敦发展促进署科创产业董事总经理科伊尔：中企正以前所未有的速度进入伦敦",
+      "url": "https://www.ftchinese.com/story/001108135",
+      "source": "ftchinese.com",
+      "published": 1762704000
+    },
+    {
+      "id": "9bcc3492f391",
+      "title": "美国对俄石油制裁将豁免匈牙利",
+      "url": "https://www.ftchinese.com/story/001108136",
+      "source": "ftchinese.com",
+      "published": 1762704000
+    },
+    {
       "id": "7828d60d7f9b",
       "title": "共和党选举受挫后特朗普下令调查肉类加工企业",
       "url": "https://www.ftchinese.com/story/001108137",
@@ -378,13 +406,6 @@
       "url": "https://money.udn.com/money/story/5599/9128424",
       "source": "money.udn.com",
       "published": 1762701680
-    },
-    {
-      "id": "5945c6ae916f",
-      "title": "美重振製造 面臨 AI 爭奪資源",
-      "url": "https://money.udn.com/money/story/122381/9128113",
-      "source": "money.udn.com",
-      "published": 1762700714
     },
     {
       "id": "3fdd11d11c40",
@@ -852,27 +873,6 @@
       "id": "ecf1718e95a2",
       "title": "剥离中国临床业务深耕沙特 药明康德加速全球化步伐",
       "url": "https://www.ftchinese.com/story/001108119",
-      "source": "ftchinese.com",
-      "published": 1762444800
-    },
-    {
-      "id": "22e06dbb75e7",
-      "title": "我们究竟希望娃哈哈成为下一个万科还是格力？",
-      "url": "https://www.ftchinese.com/story/001108110",
-      "source": "ftchinese.com",
-      "published": 1762444800
-    },
-    {
-      "id": "357680d6c7d0",
-      "title": "消失的宝塔，为何串起美、中、新三国博物馆？",
-      "url": "https://www.ftchinese.com/story/001108102",
-      "source": "ftchinese.com",
-      "published": 1762444800
-    },
-    {
-      "id": "5b981ca4a3eb",
-      "title": "探远岛，交朋友",
-      "url": "https://www.ftchinese.com/story/001108104",
       "source": "ftchinese.com",
       "published": 1762444800
     },
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762729722
+  "build_id": 1762731137
 }
