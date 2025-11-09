@@ -1,6 +1,20 @@
 {
-  "updated": 1762686431,
+  "updated": 1762687927,
   "items": [
+    {
+      "id": "1e3b8f9386cc",
+      "title": "蕭美琴歐洲議會演講　IPAC：歐盟及比利時外交部均知情協助",
+      "url": "https://money.udn.com/money/story/5599/9128076",
+      "source": "money.udn.com",
+      "published": 1762687846
+    },
+    {
+      "id": "fcffff9279af",
+      "title": "大埃及博物館開幕後人潮擠爆　假日僅供線上購票",
+      "url": "https://money.udn.com/money/story/5599/9128070",
+      "source": "money.udn.com",
+      "published": 1762687294
+    },
     {
       "id": "e5b16eeef815",
       "title": "聯合國年度氣候峰會10日登場　重點解析一次看懂",
@@ -14,6 +28,13 @@
       "url": "https://money.udn.com/money/story/5599/9128055",
       "source": "money.udn.com",
       "published": 1762686016
+    },
+    {
+      "id": "0b4997e96982",
+      "title": "綠營嘉義縣長初選兩人再度競逐 山海派系與黃家班角力升溫",
+      "url": "https://udn.com/news/story/6656/9128048",
+      "source": "udn.com",
+      "published": 1762685943
     },
     {
       "id": "e414f919d3f4",
@@ -115,7 +136,7 @@
     },
     {
       "id": "6f21ab24bdb1",
-      "title": "日本首相关于大陆武力攻台日本将参战的发言引起轩然大波",
+      "title": "日本首相关于“台湾有事”可能构成存亡危机事态发言引起争议",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251109-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E5%85%B3%E4%BA%8E%E5%A4%A7%E9%99%86%E6%AD%A6%E5%8A%9B%E6%94%BB%E5%8F%B0%E6%97%A5%E6%9C%AC%E5%B0%86%E5%8F%82%E6%88%98%E7%9A%84%E5%8F%91%E8%A8%80%E5%BC%95%E8%B5%B7%E8%BD%A9%E7%84%B6%E5%A4%A7%E6%B3%A2",
       "source": "rfi.fr",
       "published": 1762681718
@@ -331,25 +352,11 @@
       "published": 1762670806
     },
     {
-      "id": "188680dc78b3",
-      "title": "喬治王子首度出席倫敦陣亡將士追悼會　威廉缺席",
-      "url": "https://money.udn.com/money/story/5599/9127755",
-      "source": "money.udn.com",
-      "published": 1762670791
-    },
-    {
       "id": "e25aaa3cb100",
       "title": "網傳捐巨資換IPAC演講 府：惡意捏造已報警調查",
       "url": "https://udn.com/news/story/6656/9127738",
       "source": "udn.com",
       "published": 1762670019
-    },
-    {
-      "id": "e5d690ddde94",
-      "title": "影／公開活動替黃仁勳說話突收傳票！OpenAI 執行長當場傻眼 畫面曝光",
-      "url": "https://money.udn.com/money/story/5599/9127740",
-      "source": "money.udn.com",
-      "published": 1762669977
     },
     {
       "id": "43f0016bddc2",
@@ -364,13 +371,6 @@
       "url": "https://udn.com/news/story/10930/9127650",
       "source": "udn.com",
       "published": 1762666744
-    },
-    {
-      "id": "c273b52d03cf",
-      "title": "民進黨客青培力營15日登場 梁文傑、米莎等任講師",
-      "url": "https://udn.com/news/story/6656/9127616",
-      "source": "udn.com",
-      "published": 1762665729
     },
     {
       "id": "88412b6b72a9",
@@ -637,13 +637,6 @@
       "url": "https://www.dw.com/zh/媒体：若中国恢复供货-荷兰政府将停止对安世的管制/a-74659181?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762515120
-    },
-    {
-      "id": "2c7166743e18",
-      "title": "中国第三艘航母“福建舰”入列",
-      "url": "https://www.dw.com/zh/中国第三艘航母-福建舰-入列/a-74658676?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762513560
     },
     {
       "id": "c7f978160202",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/法国卢浮宫遭抢-9件珠宝被盗/a-74415566?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760869260
+    },
+    {
+      "id": "8aded405855a",
+      "title": "女性比男性需要更多的睡眠",
+      "url": "https://www.dw.com/zh/女性比男性需要更多的睡眠/a-74389633?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1760858580
     }
   ],
-  "build_id": 1762686431
+  "build_id": 1762687927
 }
