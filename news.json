@@ -1,6 +1,48 @@
 {
-  "updated": 1762702348,
+  "updated": 1762704611,
   "items": [
+    {
+      "id": "cb52729a3691",
+      "title": "评高市涉台发言 中国驻大阪总领事扬言斩首遭围观",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251109-%E8%AF%84%E9%AB%98%E5%B8%82%E6%B6%89%E5%8F%B0%E5%8F%91%E8%A8%80-%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%A4%A7%E9%98%AA%E6%80%BB%E9%A2%86%E4%BA%8B%E6%89%AC%E8%A8%80%E6%96%A9%E9%A6%96%E9%81%AD%E5%9B%B4%E8%A7%82",
+      "source": "rfi.fr",
+      "published": 1762704296
+    },
+    {
+      "id": "cdeadb4cff65",
+      "title": "外國人說I didn’t get the memo，不是我沒有收到備忘錄？",
+      "url": "https://money.udn.com/money/story/5601/8984807",
+      "source": "money.udn.com",
+      "published": 1762704097
+    },
+    {
+      "id": "b44bcb77e15d",
+      "title": "以色列再收到遺體　哈瑪斯聲稱為2014年陣亡軍官",
+      "url": "https://money.udn.com/money/story/5599/9128472",
+      "source": "money.udn.com",
+      "published": 1762703131
+    },
+    {
+      "id": "225ff435e31d",
+      "title": "俄罗斯袭击导致乌克兰电力供应瘫痪",
+      "url": "https://www.dw.com/zh/俄罗斯袭击导致乌克兰电力供应瘫痪/a-74679685?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1762702800
+    },
+    {
+      "id": "3923fb9ca0f6",
+      "title": "葉克膜之父巴特利久病纏身逝世 享壽86歲",
+      "url": "https://money.udn.com/money/story/5599/9128451",
+      "source": "money.udn.com",
+      "published": 1762702732
+    },
+    {
+      "id": "a6d33a7a0639",
+      "title": "陸船闖金門禁限制水域 刻意匿蹤",
+      "url": "https://udn.com/news/story/6656/9128396",
+      "source": "udn.com",
+      "published": 1762702381
+    },
     {
       "id": "175a773b9213",
       "title": "海巡執法疲於奔命直擊／ 肉眼可見陸船 看得到抓不到",
@@ -324,13 +366,6 @@
       "published": 1762684140
     },
     {
-      "id": "485451406eae",
-      "title": "COP30將登場　今年氣候科學領域重要議題一次掌握",
-      "url": "https://money.udn.com/money/story/5599/9128020",
-      "source": "money.udn.com",
-      "published": 1762683675
-    },
-    {
       "id": "4ac34d2e1e73",
       "title": "志願役四分之一求去 國防部：提升待遇、人性管理",
       "url": "https://udn.com/news/story/10930/9127987",
@@ -343,20 +378,6 @@
       "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251109-%E4%BF%84%E7%BD%97%E6%96%AF%E8%B5%B4%E5%8D%8E%E6%97%85%E6%B8%B8%E4%BA%BA%E6%95%B0%E5%B7%B2%E8%B7%83%E5%8D%87%E8%87%B313%E5%B9%B4%E6%9D%A5%E6%9C%80%E9%AB%98%E6%B0%B4%E5%B9%B3",
       "source": "rfi.fr",
       "published": 1762682918
-    },
-    {
-      "id": "0f8c221eba49",
-      "title": "傳台灣捐巨資換副總統歐洲議會演講　IPAC：假消息",
-      "url": "https://money.udn.com/money/story/5599/9127991",
-      "source": "money.udn.com",
-      "published": 1762682453
-    },
-    {
-      "id": "c64c61a13cb0",
-      "title": "「南迴有光」徐超斌追思會…賴清德親贈褒揚令 繼續照亮偏鄉",
-      "url": "https://udn.com/news/story/7314/9127982",
-      "source": "udn.com",
-      "published": 1762682084
     },
     {
       "id": "6c2f8e571804",
@@ -373,13 +394,6 @@
       "published": 1762681718
     },
     {
-      "id": "76e5fbe01192",
-      "title": "UPS貨機空難釀14死　美國FAA下令MD-11停飛受檢",
-      "url": "https://money.udn.com/money/story/5599/9127977",
-      "source": "money.udn.com",
-      "published": 1762681532
-    },
-    {
       "id": "3f572601de73",
       "title": "一中国渔船在韩国附近公海倾覆 已致2人死亡3人失踪",
       "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251109-%E4%B8%80%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%99%84%E8%BF%91%E5%85%AC%E6%B5%B7%E5%80%BE%E8%A6%86-%E5%B7%B2%E8%87%B42%E6%AD%BB3%E5%A4%B1%E8%B8%AA",
@@ -394,16 +408,16 @@
       "published": 1762678723
     },
     {
-      "id": "1e4dfbca79f0",
-      "title": "缅甸清剿KK园区 其它诈骗点渔翁得利？",
-      "url": "https://www.dw.com/zh/缅甸清剿kk园区-其它诈骗点渔翁得利？/a-74613312?maca=chi-rss-chi-all-1127-rdf",
+      "id": "10692d93b0e9",
+      "title": "首尔欲借助核动力潜艇抵御平壤威胁",
+      "url": "https://www.dw.com/zh/首尔欲借助核动力潜艇抵御平壤威胁/a-74631894?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762676880
     },
     {
-      "id": "10692d93b0e9",
-      "title": "首尔欲借助核动力潜艇抵御平壤威胁",
-      "url": "https://www.dw.com/zh/首尔欲借助核动力潜艇抵御平壤威胁/a-74631894?maca=chi-rss-chi-all-1127-rdf",
+      "id": "1e4dfbca79f0",
+      "title": "缅甸清剿KK园区 其它诈骗点渔翁得利？",
+      "url": "https://www.dw.com/zh/缅甸清剿kk园区-其它诈骗点渔翁得利？/a-74613312?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762676880
     },
@@ -623,13 +637,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251108-%E8%8D%B7%E5%85%B0%E9%A6%96%E7%9B%B8-%E4%B8%AD%E6%96%B9%E5%B7%B2%E5%90%8C%E6%84%8F%E6%81%A2%E5%A4%8D%E5%AE%89%E4%B8%96%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3-%E5%AF%B9%E5%BC%A0%E5%AD%A6%E6%94%BF%E7%9A%84%E7%A8%8B%E5%BA%8F%E4%BB%8D%E7%84%B6%E6%9C%89%E6%95%88",
       "source": "rfi.fr",
       "published": 1762596135
-    },
-    {
-      "id": "1a781180328c",
-      "title": "中国谴责日本授予台湾原驻日代表勋章 日本外相回应",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251108-%E4%B8%AD%E5%9B%BD%E8%B0%B4%E8%B4%A3%E6%97%A5%E6%9C%AC%E6%8E%88%E4%BA%88%E5%8F%B0%E6%B9%BE%E5%8E%9F%E9%A9%BB%E6%97%A5%E4%BB%A3%E8%A1%A8%E5%8B%8B%E7%AB%A0-%E6%97%A5%E6%9C%AC%E5%A4%96%E7%9B%B8%E5%9B%9E%E5%BA%94",
-      "source": "rfi.fr",
-      "published": 1762593879
     },
     {
       "id": "60e4e5307ff9",
@@ -1393,14 +1400,7 @@
       "url": "https://www.dw.com/zh/四中全会开幕之际-中国经济增速再放缓/a-74415963?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1760951040
-    },
-    {
-      "id": "9bd2efb431d2",
-      "title": "法国卢浮宫遭抢 9件珠宝被盗",
-      "url": "https://www.dw.com/zh/法国卢浮宫遭抢-9件珠宝被盗/a-74415566?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1760869260
     }
   ],
-  "build_id": 1762702348
+  "build_id": 1762704611
 }
