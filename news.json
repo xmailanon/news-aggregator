@@ -1,6 +1,13 @@
 {
-  "updated": 1762715213,
+  "updated": 1762716721,
   "items": [
+    {
+      "id": "80a8780b67ca",
+      "title": "入狱才20天，为什么萨科齐有望周一获释？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251109-%E5%85%A5%E7%8B%B1%E6%89%8D20%E5%A4%A9%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%90%A8%E7%A7%91%E9%BD%90%E6%9C%89%E6%9C%9B%E5%91%A8%E4%B8%80%E8%8E%B7%E9%87%8A",
+      "source": "rfi.fr",
+      "published": 1762716673
+    },
     {
       "id": "f59f085eabba",
       "title": "乌克兰袭击导致俄罗斯2万人断电停暖",
@@ -588,13 +595,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251108-%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D-%E7%BE%8E%E5%86%9B%E9%87%87%E8%B4%AD%E4%BD%93%E7%B3%BB%E9%A1%BB%E8%BD%AC%E5%9E%8B%E4%B8%BA%E6%88%98%E6%97%B6%E6%A8%A1%E5%BC%8F%EF%BC%8C%E8%BF%85%E9%80%9F%E5%8A%A0%E5%BF%AB%E8%83%BD%E5%8A%9B%E9%83%A8%E7%BD%B2",
       "source": "rfi.fr",
       "published": 1762611985
-    },
-    {
-      "id": "f2bd8aa278fa",
-      "title": "CNN指过去五年来中国大规模扩建导弹生产相关设施 建筑面积增加逾200万平方米",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251108-cnn%E6%8C%87%E8%BF%87%E5%8E%BB%E4%BA%94%E5%B9%B4%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%A9%E5%BB%BA%E5%AF%BC%E5%BC%B9%E7%94%9F%E4%BA%A7%E7%9B%B8%E5%85%B3%E8%AE%BE%E6%96%BD-%E5%BB%BA%E7%AD%91%E9%9D%A2%E7%A7%AF%E5%A2%9E%E5%8A%A0%E9%80%BE200%E4%B8%87%E5%B9%B3%E6%96%B9%E7%B1%B3",
-      "source": "rfi.fr",
-      "published": 1762607607
     },
     {
       "id": "5e944d3516a9",
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762715213
+  "build_id": 1762716721
 }
