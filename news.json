@@ -1,5 +1,5 @@
 {
-  "updated": 1762711977,
+  "updated": 1762713656,
   "items": [
     {
       "id": "9bae9516a67c",
@@ -115,10 +115,17 @@
     },
     {
       "id": "1948f4c06ca3",
-      "title": "2026大選 綠憂總統因素 影響縣市長初選",
+      "title": "2026大選 綠憂「總統因素」影響縣市長初選",
       "url": "https://udn.com/news/story/6656/9128433",
       "source": "udn.com",
       "published": 1762704005
+    },
+    {
+      "id": "b4963d73eb6f",
+      "title": "觀察站／我外交藍圖 從親美迎向歐洲",
+      "url": "https://udn.com/news/story/6656/9128438",
+      "source": "udn.com",
+      "published": 1762704000
     },
     {
       "id": "a7d7e5cad3ae",
@@ -131,13 +138,6 @@
       "id": "a6e68b8f539a",
       "title": "歷史上的今天／1961年官方喬人事 省體育會理事長換人",
       "url": "https://udn.com/news/story/7314/9127939",
-      "source": "udn.com",
-      "published": 1762704000
-    },
-    {
-      "id": "b4963d73eb6f",
-      "title": "觀察站／我外交藍圖從親美迎向歐洲",
-      "url": "https://udn.com/news/story/6656/9128438",
       "source": "udn.com",
       "published": 1762704000
     },
@@ -184,9 +184,9 @@
       "published": 1762702732
     },
     {
-      "id": "a6d33a7a0639",
-      "title": "陸船闖金門禁限制水域 刻意匿蹤",
-      "url": "https://udn.com/news/story/6656/9128396",
+      "id": "e25a44c58938",
+      "title": "陸船闖金門禁限制水域公然下錨  關閉定位刻意匿蹤",
+      "url": "https://udn.com/news/story/10930/9128396",
       "source": "udn.com",
       "published": 1762702381
     },
@@ -198,9 +198,9 @@
       "published": 1762702252
     },
     {
-      "id": "7e3e5ad39e6e",
+      "id": "5d043f883fd2",
       "title": "觀察站／大陸「灰色地帶」襲擾策略升級版",
-      "url": "https://udn.com/news/story/6656/9128415",
+      "url": "https://udn.com/news/story/10930/9128415",
       "source": "udn.com",
       "published": 1762702164
     },
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762711977
+  "build_id": 1762713656
 }
