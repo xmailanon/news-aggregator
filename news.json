@@ -1,6 +1,13 @@
 {
-  "updated": 1762713656,
+  "updated": 1762715213,
   "items": [
+    {
+      "id": "f59f085eabba",
+      "title": "乌克兰袭击导致俄罗斯2万人断电停暖",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251109-%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A2%AD%E5%87%BB%E5%AF%BC%E8%87%B4%E4%BF%84%E7%BD%97%E6%96%AF2%E4%B8%87%E4%BA%BA%E6%96%AD%E7%94%B5%E5%81%9C%E6%9A%96",
+      "source": "rfi.fr",
+      "published": 1762715117
+    },
     {
       "id": "9bae9516a67c",
       "title": "亞洲晶片股仍有吸引力 現在做空 AI 交易還太早",
@@ -128,6 +135,13 @@
       "published": 1762704000
     },
     {
+      "id": "fa67a90acfb8",
+      "title": "新聞眼／非典外交 給台灣安全加分？減分？",
+      "url": "https://udn.com/news/story/6656/9128444",
+      "source": "udn.com",
+      "published": 1762704000
+    },
+    {
       "id": "a7d7e5cad3ae",
       "title": "房市焦點轉向都更重建！漢皇集團以品牌力搶佔換屋族心佔率",
       "url": "https://udn.com/news/story/7314/9123677",
@@ -145,13 +159,6 @@
       "id": "2a7f7bed5877",
       "title": "談蕭美琴歐洲行 學者：訪歐能否成慣例考驗賴政府",
       "url": "https://udn.com/news/story/6656/9128443",
-      "source": "udn.com",
-      "published": 1762704000
-    },
-    {
-      "id": "fa67a90acfb8",
-      "title": "新聞眼／非典外交 給台灣安全加分？減分？",
-      "url": "https://udn.com/news/story/6656/9128444",
       "source": "udn.com",
       "published": 1762704000
     },
@@ -623,13 +630,6 @@
       "url": "https://www.dw.com/zh/北京同意荷兰派人来谈-安世半导体风波或迎转机/a-74672585?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762598340
-    },
-    {
-      "id": "5ce9188307c6",
-      "title": "荷兰首相：中方已同意恢复安世中国出口 对张学政的程序仍然有效",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251108-%E8%8D%B7%E5%85%B0%E9%A6%96%E7%9B%B8-%E4%B8%AD%E6%96%B9%E5%B7%B2%E5%90%8C%E6%84%8F%E6%81%A2%E5%A4%8D%E5%AE%89%E4%B8%96%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3-%E5%AF%B9%E5%BC%A0%E5%AD%A6%E6%94%BF%E7%9A%84%E7%A8%8B%E5%BA%8F%E4%BB%8D%E7%84%B6%E6%9C%89%E6%95%88",
-      "source": "rfi.fr",
-      "published": 1762596135
     },
     {
       "id": "60e4e5307ff9",
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762713656
+  "build_id": 1762715213
 }
