@@ -1,6 +1,13 @@
 {
-  "updated": 1762706376,
+  "updated": 1762708053,
   "items": [
+    {
+      "id": "181656ee826e",
+      "title": "涉华协议分歧持续 新西兰延长暂停向库克群岛政府直接拨款",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251109-%E6%B6%89%E5%8D%8E%E5%8D%8F%E8%AE%AE%E5%88%86%E6%AD%A7%E6%8C%81%E7%BB%AD-%E6%96%B0%E8%A5%BF%E5%85%B0%E5%86%B3%E5%AE%9A%E5%BB%B6%E9%95%BF%E6%9A%82%E5%81%9C%E5%90%91%E5%BA%93%E5%85%8B%E7%BE%A4%E5%B2%9B%E6%94%BF%E5%BA%9C%E7%9B%B4%E6%8E%A5%E6%8B%A8%E6%AC%BE",
+      "source": "rfi.fr",
+      "published": 1762706374
+    },
     {
       "id": "cb52729a3691",
       "title": "评高市涉台发言 中国驻大阪总领事扬言斩首遭围观",
@@ -616,13 +623,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251108-%E5%B8%8C%E9%9F%B3%E5%B9%B3%E5%8F%B0%E4%B8%8B%E6%9E%B6%E9%9D%9E%E6%B3%95%E5%95%86%E5%93%81-%E7%BB%8F%E6%B5%8E%E9%83%A8%E9%95%BF%E8%B5%9E%E6%98%AF%E9%A6%96%E4%B8%AA%E8%83%9C%E5%88%A9-%E6%9C%AA%E6%9D%A5%E5%8F%AF%E6%9C%9F",
       "source": "rfi.fr",
       "published": 1762599735
-    },
-    {
-      "id": "0eb5c46b1520",
-      "title": "欧盟拟设立“民主韧性中心” 应对俄中等国的虚假信息威胁",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251108-%E6%AC%A7%E7%9B%9F%E6%8B%9F%E8%AE%BE%E7%AB%8B-%E6%B0%91%E4%B8%BB%E9%9F%A7%E6%80%A7%E4%B8%AD%E5%BF%83-%E5%BA%94%E5%AF%B9%E4%BF%84%E4%B8%AD%E7%AD%89%E5%9B%BD%E7%9A%84%E8%99%9A%E5%81%87%E4%BF%A1%E6%81%AF%E5%A8%81%E8%83%81",
-      "source": "rfi.fr",
-      "published": 1762598747
     },
     {
       "id": "9859bb593425",
@@ -1402,5 +1402,5 @@
       "published": 1760951040
     }
   ],
-  "build_id": 1762706376
+  "build_id": 1762708053
 }
