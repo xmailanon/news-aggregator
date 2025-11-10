@@ -1,6 +1,41 @@
 {
-  "updated": 1762787507,
+  "updated": 1762789194,
   "items": [
+    {
+      "id": "b3f00c6f7305",
+      "title": "BBC陷新聞倫理風暴　英相支持「強大、獨立」公共媒體",
+      "url": "https://money.udn.com/money/story/10511/9130746",
+      "source": "money.udn.com",
+      "published": 1762788973
+    },
+    {
+      "id": "3ea2ea2cdaae",
+      "title": "印度新德里著名地標紅堡附近發生爆炸 已知8死11傷",
+      "url": "https://money.udn.com/money/story/5599/9130690",
+      "source": "money.udn.com",
+      "published": 1762788136
+    },
+    {
+      "id": "b2c9a8af2185",
+      "title": "美政府關門危機有望結束　美股早盤勁揚",
+      "url": "https://money.udn.com/money/story/5599/9130689",
+      "source": "money.udn.com",
+      "published": 1762788093
+    },
+    {
+      "id": "d8474d865770",
+      "title": "BBC總裁蒂姆·戴維為何辭職？紀錄片剪輯事件究竟是怎麼回事？",
+      "url": "https://www.bbc.com/zhongwen/articles/cdrzpn41xlvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1762787825
+    },
+    {
+      "id": "216c5703ab52",
+      "title": "為了AI 歐盟準備犧牲這項「神聖原則」 隱私不顧了",
+      "url": "https://money.udn.com/money/story/5599/9130660",
+      "source": "money.udn.com",
+      "published": 1762787630
+    },
     {
       "id": "13d3b6312637",
       "title": "中国暂停对美国船舶征收“特殊”港务费",
@@ -240,34 +275,6 @@
       "published": 1762775674
     },
     {
-      "id": "3fe731ce192e",
-      "title": "黃金價格續漲 美國經濟疲軟跡象強化降息預期",
-      "url": "https://money.udn.com/money/story/5599/9129887",
-      "source": "money.udn.com",
-      "published": 1762775475
-    },
-    {
-      "id": "bc8aecbb938c",
-      "title": "川普接下來會買什麼？跟著白宮風向選股票成為投資新潮流",
-      "url": "https://money.udn.com/money/story/5599/9128958",
-      "source": "money.udn.com",
-      "published": 1762775291
-    },
-    {
-      "id": "f14cd78fe9e2",
-      "title": "泰國士兵在邊境踩中地雷 泰柬和平協議面臨變數",
-      "url": "https://money.udn.com/money/story/5599/9130006",
-      "source": "money.udn.com",
-      "published": 1762775140
-    },
-    {
-      "id": "0a6de74a5de8",
-      "title": "從追漲AI股到泡沫恐慌 市場情緒轉變激發期權需求",
-      "url": "https://money.udn.com/money/story/5599/9129585",
-      "source": "money.udn.com",
-      "published": 1762775086
-    },
-    {
       "id": "397818e6fbb1",
       "title": "COP30 ： 气候峰会有何用？运作机制是否需要改革？",
       "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20251110-cop30-%E6%B0%94%E5%80%99%E5%B3%B0%E4%BC%9A%E6%9C%89%E4%BD%95%E7%94%A8-%E8%BF%90%E4%BD%9C%E6%9C%BA%E5%88%B6%E6%98%AF%E5%90%A6%E9%9C%80%E8%A6%81%E6%94%B9%E9%9D%A9",
@@ -420,13 +427,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cwyk2r1lkv1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762750856
-    },
-    {
-      "id": "d8474d865770",
-      "title": "BBC總裁蒂姆·戴維為何辭職？紀錄片剪輯事件究竟是怎麼回事？",
-      "url": "https://www.bbc.com/zhongwen/articles/cdrzpn41xlvo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1762750521
     },
     {
       "id": "5e944d3516a9",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1762787507
+  "build_id": 1762789194
 }
