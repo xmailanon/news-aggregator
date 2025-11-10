@@ -1,19 +1,54 @@
 {
-  "updated": 1762757405,
+  "updated": 1762758658,
   "items": [
     {
+      "id": "8bc02d5c418b",
+      "title": "捷克政權更替　將卸任外長示警新政府恐減少援烏",
+      "url": "https://money.udn.com/money/story/5599/9129674",
+      "source": "money.udn.com",
+      "published": 1762758043
+    },
+    {
+      "id": "83226e4243e4",
+      "title": "遭陸外交官暗嗆斬首...美專家：高市早苗台灣有事言論「並非承諾」",
+      "url": "https://money.udn.com/money/story/5599/9129667",
+      "source": "money.udn.com",
+      "published": 1762757990
+    },
+    {
+      "id": "a8ea16cb61c0",
+      "title": "網傳台捐80億歐元換蕭美琴演講 刑事局：依法偵辦假訊息",
+      "url": "https://udn.com/news/story/6656/9129666",
+      "source": "udn.com",
+      "published": 1762757968
+    },
+    {
+      "id": "0b42f1ed58bf",
+      "title": "氣候變遷加劇衝突 聯合國：難民深陷惡性循環",
+      "url": "https://money.udn.com/money/story/5599/9129656",
+      "source": "money.udn.com",
+      "published": 1762757669
+    },
+    {
+      "id": "45d2619955c3",
+      "title": "國防部：海鯤艦成認知戰重點 意圖削弱社會共識",
+      "url": "https://udn.com/news/story/10930/9129619",
+      "source": "udn.com",
+      "published": 1762757454
+    },
+    {
       "id": "c27a2641fd66",
-      "title": "颱風鳳凰肆虐菲律賓　台灣示範農場挺過風暴",
+      "title": "颱風鳳凰肆虐菲律賓 台灣示範農場挺過風暴",
       "url": "https://money.udn.com/money/story/5599/9129622",
       "source": "money.udn.com",
       "published": 1762757136
     },
     {
-      "id": "4f3f010f8e4a",
-      "title": "非洲豬瘟疫情綠民代指盧秀燕怠忽職守 廖偉翔駁：中央失職是元凶",
-      "url": "https://udn.com/news/story/6656/9129609",
+      "id": "35b54cc6fe2d",
+      "title": "影／廖偉翔轟政府：食安都靠善後 別用「加強稽查」話術敷衍",
+      "url": "https://udn.com/news/story/6656/9129615",
       "source": "udn.com",
-      "published": 1762756786
+      "published": 1762757010
     },
     {
       "id": "9cea1dd21a39",
@@ -42,13 +77,6 @@
       "url": "https://money.udn.com/money/story/5599/9129560",
       "source": "money.udn.com",
       "published": 1762755683
-    },
-    {
-      "id": "25742120747c",
-      "title": "丹娜絲災戶補助金加碼！內政部：一律調升至2萬元",
-      "url": "https://udn.com/news/story/6656/9129555",
-      "source": "udn.com",
-      "published": 1762755642
     },
     {
       "id": "1092fd14704c",
@@ -261,39 +289,11 @@
       "published": 1762748495
     },
     {
-      "id": "426b8ed01faf",
-      "title": "邁出結束政府停擺的第一步！美國參議院通過程序表決 8名民主黨人讓步",
-      "url": "https://money.udn.com/money/story/5599/9129241",
-      "source": "money.udn.com",
-      "published": 1762748494
-    },
-    {
       "id": "2ba3a7e847ad",
       "title": "影／北市推普發現金加碼活動 蔣萬安：多多消費贏大獎",
       "url": "https://udn.com/news/story/124539/9129228",
       "source": "udn.com",
       "published": 1762748407
-    },
-    {
-      "id": "42e6510b7bc1",
-      "title": "鄭麗文秋祭活動惹議 黃國昌：吳石是共諜不是受難者",
-      "url": "https://udn.com/news/story/6656/9129149",
-      "source": "udn.com",
-      "published": 1762748108
-    },
-    {
-      "id": "f43385ba518f",
-      "title": "「台灣有事」發言 高市早苗：符合政府見解、不會撤回",
-      "url": "https://money.udn.com/money/story/5599/9129206",
-      "source": "money.udn.com",
-      "published": 1762747955
-    },
-    {
-      "id": "0c652d161e47",
-      "title": "兌現川普承諾 美今起暫停對中國海運業301調查 陸船港口費也停收",
-      "url": "https://money.udn.com/money/story/5599/9129163",
-      "source": "money.udn.com",
-      "published": 1762747241
     },
     {
       "id": "5e944d3516a9",
@@ -441,6 +441,13 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251109-%E8%AF%84%E9%AB%98%E5%B8%82%E6%B6%89%E5%8F%B0%E5%8F%91%E8%A8%80-%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%A4%A7%E9%98%AA%E6%80%BB%E9%A2%86%E4%BA%8B%E6%89%AC%E8%A8%80%E6%96%A9%E9%A6%96%E9%81%AD%E5%9B%B4%E8%A7%82",
       "source": "rfi.fr",
       "published": 1762704296
+    },
+    {
+      "id": "3d38481e64b8",
+      "title": "英国调查中国制造电动巴士是否可被远程停驶",
+      "url": "https://www.ftchinese.com/story/001108140",
+      "source": "ftchinese.com",
+      "published": 1762704000
     },
     {
       "id": "736677010f5f",
@@ -915,13 +922,6 @@
       "id": "d9056f7bc713",
       "title": "如何抵抗反科学之风",
       "url": "https://www.ftchinese.com/story/001108124",
-      "source": "ftchinese.com",
-      "published": 1762444800
-    },
-    {
-      "id": "aa0c92c63140",
-      "title": "哥伦比亚学者耶佩斯-卢戈：中国企业如何“出海”哥伦比亚？",
-      "url": "https://www.ftchinese.com/story/001108122",
       "source": "ftchinese.com",
       "published": 1762444800
     },
@@ -1402,5 +1402,5 @@
       "published": 1760869260
     }
   ],
-  "build_id": 1762757405
+  "build_id": 1762758658
 }
