@@ -1,6 +1,41 @@
 {
-  "updated": 1762800375,
+  "updated": 1762801678,
   "items": [
+    {
+      "id": "4260ac847ef0",
+      "title": "美國政府「開門」露出曙光 臨時撥款法案程序表決過關",
+      "url": "https://money.udn.com/money/story/10511/9130678",
+      "source": "money.udn.com",
+      "published": 1762801702
+    },
+    {
+      "id": "35e97f02e578",
+      "title": "印度德里汽車爆炸事件　CNN：增至10死逾30傷",
+      "url": "https://money.udn.com/money/story/5599/9130862",
+      "source": "money.udn.com",
+      "published": 1762801579
+    },
+    {
+      "id": "8a270b368506",
+      "title": "沙柯吉獲釋以待上訴審理  稱「真相終將大白」",
+      "url": "https://money.udn.com/money/story/5599/9130860",
+      "source": "money.udn.com",
+      "published": 1762801325
+    },
+    {
+      "id": "f3cdb0c5e708",
+      "title": "金價放閃站回4,100美元 美經濟疲軟疑慮加深提高 Fed 降息可能性",
+      "url": "https://money.udn.com/money/story/5599/9130665",
+      "source": "money.udn.com",
+      "published": 1762801273
+    },
+    {
+      "id": "3476e78847cf",
+      "title": "美喊自產稀土 專家打臉",
+      "url": "https://money.udn.com/money/story/10511/9130677",
+      "source": "money.udn.com",
+      "published": 1762801160
+    },
     {
       "id": "14c5c96b2869",
       "title": "美聯邦政府關門近尾聲 川普籲航管人員現在就回去上班",
@@ -248,7 +283,7 @@
     },
     {
       "id": "abb8b825ec76",
-      "title": "陽光行動／免評巴氏量表 申請不如預期",
+      "title": "陽光行動／80歲以上免評巴氏量表 申請不如預期",
       "url": "https://udn.com/news/story/124653/9130719",
       "source": "udn.com",
       "published": 1762789564
@@ -289,25 +324,11 @@
       "published": 1762788136
     },
     {
-      "id": "2e2a8088bce2",
-      "title": "美政府關門危機有望結束　美股早盤勁揚",
-      "url": "https://money.udn.com/money/story/123398/9130689",
-      "source": "money.udn.com",
-      "published": 1762788093
-    },
-    {
       "id": "d8474d865770",
       "title": "BBC總裁蒂姆·戴維為何辭職？紀錄片剪輯事件究竟是怎麼回事？",
       "url": "https://www.bbc.com/zhongwen/articles/cdrzpn41xlvo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762787825
-    },
-    {
-      "id": "216c5703ab52",
-      "title": "為了AI 歐盟準備犧牲這項「神聖原則」 隱私不顧了",
-      "url": "https://money.udn.com/money/story/5599/9130660",
-      "source": "money.udn.com",
-      "published": 1762787630
     },
     {
       "id": "13d3b6312637",
@@ -324,13 +345,6 @@
       "published": 1762786350
     },
     {
-      "id": "064405e20f79",
-      "title": "彭博：川普不甩環保 讓綠色轉型國家「吃悶虧」但全球不甩會一起遭殃",
-      "url": "https://money.udn.com/money/story/5599/9130576",
-      "source": "money.udn.com",
-      "published": 1762785816
-    },
-    {
       "id": "6099005f9a74",
       "title": "今日台灣明日各國 蔡英文挺民主籲先強化防衛合作",
       "url": "https://udn.com/news/story/6656/9130571",
@@ -343,20 +357,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251110-%E6%B3%95%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%B0%BC%E5%8F%A4%E6%8B%89%C2%B7%E8%90%A8%E7%A7%91%E9%BD%90%E8%8E%B7%E9%87%8A%E5%87%BA%E7%8B%B1",
       "source": "rfi.fr",
       "published": 1762785760
-    },
-    {
-      "id": "78b7375a24a2",
-      "title": "美股早盤／買盤全開 費半噴近3% 油金比特幣全漲",
-      "url": "https://money.udn.com/money/story/123398/9130565",
-      "source": "money.udn.com",
-      "published": 1762785637
-    },
-    {
-      "id": "193cc4250ad4",
-      "title": "剪輯拼接川普談話挨轟　BBC為「判斷失誤」道歉",
-      "url": "https://money.udn.com/money/story/10511/9130553",
-      "source": "money.udn.com",
-      "published": 1762785036
     },
     {
       "id": "1a187c928dbe",
@@ -1402,5 +1402,5 @@
       "published": 1761013990
     }
   ],
-  "build_id": 1762800375
+  "build_id": 1762801678
 }
