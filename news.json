@@ -1,6 +1,20 @@
 {
-  "updated": 1762771424,
+  "updated": 1762772942,
   "items": [
+    {
+      "id": "e1384ca78cd8",
+      "title": "烏東前線遭蠶食　俄軍稱再奪3村",
+      "url": "https://money.udn.com/money/story/5599/9130220",
+      "source": "money.udn.com",
+      "published": 1762773151
+    },
+    {
+      "id": "96c5cf504442",
+      "title": "逾543萬人搶第一波入帳！普發一萬網站13日開放查詢",
+      "url": "https://udn.com/news/story/124539/9130176",
+      "source": "udn.com",
+      "published": 1762771963
+    },
     {
       "id": "0181a58fbfd7",
       "title": "拚了！這國豪砸近10億美元擴充 AI 人才庫 從小學一路栽培到研究所",
@@ -49,6 +63,13 @@
       "url": "https://www.bbc.com/zhongwen/articles/c4gp00qr9kpo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762770593
+    },
+    {
+      "id": "ed335c81aa4f",
+      "title": "涉嫌一般利敌罪韩国前总统尹锡悦被起诉",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251110-%E6%B6%89%E5%AB%8C%E4%B8%80%E8%88%AC%E5%88%A9%E6%95%8C%E7%BD%AA%E9%9F%A9%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E8%A2%AB%E8%B5%B7%E8%AF%89",
+      "source": "rfi.fr",
+      "published": 1762770353
     },
     {
       "id": "c62aaeb7a9a8",
@@ -275,13 +296,6 @@
       "published": 1762758809
     },
     {
-      "id": "78ca631f8271",
-      "title": "印尼追封已故獨裁者蘇哈托為國家英雄　人權團體反彈",
-      "url": "https://money.udn.com/money/story/5599/9129702",
-      "source": "money.udn.com",
-      "published": 1762758754
-    },
-    {
       "id": "b13aa796f2af",
       "title": "昔日美國FBI頭號通緝黑客獄中直面BBC記者",
       "url": "https://www.bbc.com/zhongwen/articles/c4gp04z2e28o/trad?at_medium=RSS&at_campaign=rss",
@@ -315,13 +329,6 @@
       "url": "https://udn.com/news/story/6656/9129603",
       "source": "udn.com",
       "published": 1762756650
-    },
-    {
-      "id": "f1b5696b3be3",
-      "title": "立委：社群充斥普發現金詐騙廣告 要求3天內下架",
-      "url": "https://udn.com/news/story/124539/9129559",
-      "source": "udn.com",
-      "published": 1762756384
     },
     {
       "id": "a9de4dc6e842",
@@ -749,13 +756,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251108-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E8%AE%AE%E5%B0%86%E5%8C%BB%E6%94%B9%E8%A1%A5%E5%8A%A9%E7%9B%B4%E6%8E%A5%E5%8F%91%E7%BB%99%E6%B0%91%E4%BC%97-%E4%BB%A5%E6%94%BF%E5%BA%9C%E5%85%B3%E9%97%A8%E5%83%B5%E5%B1%80",
       "source": "rfi.fr",
       "published": 1762632268
-    },
-    {
-      "id": "3ef807ebbbc3",
-      "title": "法国建议侨民暂时撤离马里",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251108-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E5%9B%BD%E5%BB%BA%E8%AE%AE%E4%BE%A8%E6%B0%91%E6%9A%82%E6%97%B6%E6%92%A4%E7%A6%BB%E9%A9%AC%E9%87%8C",
-      "source": "rfi.fr",
-      "published": 1762620453
     },
     {
       "id": "af00dd824d7d",
@@ -1402,5 +1402,5 @@
       "published": 1760951040
     }
   ],
-  "build_id": 1762771424
+  "build_id": 1762772942
 }
