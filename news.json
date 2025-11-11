@@ -1,6 +1,48 @@
 {
-  "updated": 1762872064,
+  "updated": 1762873869,
   "items": [
+    {
+      "id": "a18201756bdc",
+      "title": "铭记战争、警醒当下：法国纪念一战停战107周年",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251111-%E9%93%AD%E8%AE%B0%E6%88%98%E4%BA%89-%E8%AD%A6%E9%86%92%E5%BD%93%E4%B8%8B-%E6%B3%95%E5%9B%BD%E7%BA%AA%E5%BF%B5%E4%B8%80%E6%88%98%E5%81%9C%E6%88%98107%E5%91%A8%E5%B9%B4",
+      "source": "rfi.fr",
+      "published": 1762873040
+    },
+    {
+      "id": "22574e47dc5d",
+      "title": "美股早盤／科技股下跌+ ADP 周報顯示美勞動力放緩 費半跌1% 輝達挫逾2%",
+      "url": "https://money.udn.com/money/story/123398/9133208",
+      "source": "money.udn.com",
+      "published": 1762872659
+    },
+    {
+      "id": "be25de2c4acc",
+      "title": "德语媒体：中国如何重塑全球经济",
+      "url": "https://www.dw.com/zh/德语媒体：中国如何重塑全球经济/a-74702639?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1762872420
+    },
+    {
+      "id": "df62306411fe",
+      "title": "日相挺台遭中國外交官嗆「斬首」 自民黨決議籲政府強烈回應",
+      "url": "https://money.udn.com/money/story/5599/9133196",
+      "source": "money.udn.com",
+      "published": 1762872307
+    },
+    {
+      "id": "c364fd7fe3c5",
+      "title": "大賣空本尊再嗆 AI 股 指控科技巨擘低估折舊、灌水獲利",
+      "url": "https://money.udn.com/money/story/123398/9133171",
+      "source": "money.udn.com",
+      "published": 1762871669
+    },
+    {
+      "id": "4f26e6fc3658",
+      "title": "超微睽違3年分析師日將登場　外界聚焦AI晶片系統業務藍圖",
+      "url": "https://money.udn.com/money/story/123398/9133165",
+      "source": "money.udn.com",
+      "published": 1762871409
+    },
     {
       "id": "f2d8f4805118",
       "title": "促台日「善的循環」 謝長廷赴日皇居獲授旭日大綬章",
@@ -184,13 +226,6 @@
       "published": 1762864223
     },
     {
-      "id": "e0e0ab4658d8",
-      "title": "教宗將會30多位好萊塢明星名導　盼深化與電影界對話",
-      "url": "https://money.udn.com/money/story/5599/9132987",
-      "source": "money.udn.com",
-      "published": 1762863694
-    },
-    {
       "id": "7f18961fed15",
       "title": "曝國人網路行為資料受業者宰制 監院批政院不積極、應檢討",
       "url": "https://udn.com/news/story/7314/9132945",
@@ -205,20 +240,6 @@
       "published": 1762862524
     },
     {
-      "id": "42f23e50d33c",
-      "title": "大馬士革國家博物館遭竊　盜走數座古羅馬雕像",
-      "url": "https://money.udn.com/money/story/5599/9132919",
-      "source": "money.udn.com",
-      "published": 1762862457
-    },
-    {
-      "id": "ee4731676bcc",
-      "title": "思科：亞太新興國家擁抱AI　視為超越更發達國家機會",
-      "url": "https://money.udn.com/money/story/5599/9132921",
-      "source": "money.udn.com",
-      "published": 1762862455
-    },
-    {
       "id": "4b6d07b86d33",
       "title": "有意裁撤國民黨駐美代表處？鄭麗文辦公室否認：內容不符實",
       "url": "https://udn.com/news/story/6656/9132913",
@@ -231,13 +252,6 @@
       "url": "https://www.dw.com/zh/不依不饶：特朗普律师威胁向bbc索赔十亿美元/a-74699591?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762862220
-    },
-    {
-      "id": "4e82be0b7a09",
-      "title": "德國法院判決　OpenAI未獲授權不得使用歌曲歌詞",
-      "url": "https://money.udn.com/money/story/5599/9132904",
-      "source": "money.udn.com",
-      "published": 1762862050
     },
     {
       "id": "1c9a3e12a043",
@@ -765,13 +779,6 @@
       "published": 1762779360
     },
     {
-      "id": "a38e197c3691",
-      "title": "特朗普挑战下 《解放报》警示贝伦谈判：“气候之战也是民主之战”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251110-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%91%E6%88%98%E4%B8%8B-%E8%A7%A3%E6%94%BE%E6%8A%A5-%E8%AD%A6%E7%A4%BA%E8%B4%9D%E4%BC%A6%E8%B0%88%E5%88%A4-%E6%B0%94%E5%80%99%E4%B9%8B%E6%88%98%E4%B9%9F%E6%98%AF%E6%B0%91%E4%B8%BB%E4%B9%8B%E6%88%98",
-      "source": "rfi.fr",
-      "published": 1762778092
-    },
-    {
       "id": "6473c61816c7",
       "title": "德媒关注：一名维吾尔人被遣返中国",
       "url": "https://www.dw.com/zh/德媒关注：一名维吾尔人被遣返中国/a-74687099?maca=chi-rss-chi-all-1127-rdf",
@@ -1150,13 +1157,6 @@
       "published": 1762355520
     },
     {
-      "id": "8ee478112db9",
-      "title": "Shein首家实体店巴黎开张 法国宣布封禁其电商平台",
-      "url": "https://www.dw.com/zh/shein首家实体店巴黎开张-法国宣布封禁其电商平台/a-74631469?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762353900
-    },
-    {
       "id": "65b873c4f7e0",
       "title": "台灣「普發現金」一萬元，民眾怎麼看？",
       "url": "https://www.bbc.com/zhongwen/articles/ce3keqyw755o/trad?at_medium=RSS&at_campaign=rss",
@@ -1211,13 +1211,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cr5e76dyj10o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762245110
-    },
-    {
-      "id": "caf827478c11",
-      "title": "德语媒体：暂时停火的中美制度之争",
-      "url": "https://www.dw.com/zh/德语媒体：暂时停火的中美制度之争/a-74601217?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762183680
     },
     {
       "id": "f79653511afb",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/大屠杀照片：ai帮助确认1941年的纳粹凶手/a-74425341?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761138960
+    },
+    {
+      "id": "7124473dde4e",
+      "title": "卢浮宫劫案背后的黑市帝国：失窃珍宝最终会流向何方？",
+      "url": "https://www.dw.com/zh/卢浮宫劫案背后的黑市帝国：失窃珍宝最终会流向何方？/a-74437040?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1761046320
     }
   ],
-  "build_id": 1762872064
+  "build_id": 1762873869
 }
