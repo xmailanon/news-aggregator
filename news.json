@@ -1,6 +1,27 @@
 {
-  "updated": 1762889509,
+  "updated": 1762891859,
   "items": [
+    {
+      "id": "d7ced4b1184d",
+      "title": "美聯邦政府最快本周開門 航空公司警告班次恢復沒那麼快",
+      "url": "https://money.udn.com/money/story/10511/9133486",
+      "source": "money.udn.com",
+      "published": 1762891419
+    },
+    {
+      "id": "b0a4566c92d0",
+      "title": "面臨強化國防壓力　英國刪減全球基金援助經費15%",
+      "url": "https://money.udn.com/money/story/5599/9133484",
+      "source": "money.udn.com",
+      "published": 1762890313
+    },
+    {
+      "id": "115da34c125e",
+      "title": "土耳其軍機墜毀機上至少20人　當局未透露傷亡數",
+      "url": "https://money.udn.com/money/story/5599/9133481",
+      "source": "money.udn.com",
+      "published": 1762889770
+    },
     {
       "id": "a6c1075f3372",
       "title": "賴總統：台美談判差臨門一腳 關稅20%希望降低且不疊加",
@@ -9,9 +30,9 @@
       "published": 1762885526
     },
     {
-      "id": "4726e4715bf3",
+      "id": "ce0f0fdad9fa",
       "title": "聯合國氣候峰會　紐松抨擊川普化石燃料政策",
-      "url": "https://money.udn.com/money/story/10511/9133462",
+      "url": "https://money.udn.com/money/story/5599/9133462",
       "source": "money.udn.com",
       "published": 1762884754
     },
@@ -226,13 +247,6 @@
       "published": 1762877880
     },
     {
-      "id": "2fc1b64cf13c",
-      "title": "摩根大通估計人工智慧熱潮未來五年將需要5兆美元融資",
-      "url": "https://money.udn.com/money/story/5599/9131111",
-      "source": "money.udn.com",
-      "published": 1762877698
-    },
-    {
       "id": "1026ec65b7e1",
       "title": "马云妻子以1950万英镑购得伦敦前意大利大使馆",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251111-%E9%A9%AC%E4%BA%91%E5%A6%BB%E5%AD%90%E4%BB%A51950%E4%B8%87%E8%8B%B1%E9%95%91%E8%B4%AD%E5%BE%97%E4%BC%A6%E6%95%A6%E5%89%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E4%BD%BF%E9%A6%86",
@@ -252,20 +266,6 @@
       "url": "https://udn.com/news/story/7314/9131065",
       "source": "udn.com",
       "published": 1762876800
-    },
-    {
-      "id": "b11993493821",
-      "title": "圖靈獎得主　Meta首席AI科學家勒昆傳將離職自立門戶",
-      "url": "https://money.udn.com/money/story/123398/9133398",
-      "source": "money.udn.com",
-      "published": 1762876471
-    },
-    {
-      "id": "e5a7d514552f",
-      "title": "川普突批評法國稅務政策　稱美國科技遭不公平課稅",
-      "url": "https://money.udn.com/money/story/5599/9133373",
-      "source": "money.udn.com",
-      "published": 1762876001
     },
     {
       "id": "2f6d065bac9b",
@@ -1402,5 +1402,5 @@
       "published": 1761013990
     }
   ],
-  "build_id": 1762889509
+  "build_id": 1762891859
 }
