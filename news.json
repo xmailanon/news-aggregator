@@ -1,6 +1,34 @@
 {
-  "updated": 1762893524,
+  "updated": 1762895339,
   "items": [
+    {
+      "id": "c2e1bb9d2292",
+      "title": "特朗普称需要60万中国学生 MAGA怒批：为何要培养对手？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251111-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9C%80%E8%A6%8160%E4%B8%87%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F-maga%E6%80%92%E6%89%B9-%E4%B8%BA%E4%BD%95%E8%A6%81%E5%9F%B9%E5%85%BB%E5%AF%B9%E6%89%8B",
+      "source": "rfi.fr",
+      "published": 1762895183
+    },
+    {
+      "id": "9e9ce0edda44",
+      "title": "2000萬學童因高溫失學 巴西環境部長喊話：終結化石燃料和雨林砍伐",
+      "url": "https://money.udn.com/money/story/5599/9133509",
+      "source": "money.udn.com",
+      "published": 1762894952
+    },
+    {
+      "id": "bb0d21c7c1f1",
+      "title": "美參院通過結束政府關門法案　川普稱「重大勝利」",
+      "url": "https://money.udn.com/money/story/10511/9133505",
+      "source": "money.udn.com",
+      "published": 1762894472
+    },
+    {
+      "id": "c1da48471a3d",
+      "title": "英國科技副大臣訪中談合作　稱將維護學術自由",
+      "url": "https://money.udn.com/money/story/5599/9133499",
+      "source": "money.udn.com",
+      "published": 1762893931
+    },
     {
       "id": "d7ced4b1184d",
       "title": "美聯邦政府最快本周開門 航空公司警告班次恢復沒那麼快",
@@ -205,32 +233,11 @@
       "published": 1762878289
     },
     {
-      "id": "ff620918c46a",
-      "title": "川普稱接近與印度達成貿易協議 將在某個時候降低關稅",
-      "url": "https://money.udn.com/money/story/5599/9130942",
-      "source": "money.udn.com",
-      "published": 1762878251
-    },
-    {
       "id": "8b13266fdf1c",
       "title": "回響／石崇良：長照3.0思考納入外籍看護",
       "url": "https://udn.com/news/story/124653/9133225",
       "source": "udn.com",
       "published": 1762878179
-    },
-    {
-      "id": "ef8fba96e623",
-      "title": "摩根大通私人銀行預測黃金價格到2026年底前突破5,000美元",
-      "url": "https://money.udn.com/money/story/5599/9131004",
-      "source": "money.udn.com",
-      "published": 1762878054
-    },
-    {
-      "id": "9e36a0a22e2c",
-      "title": "泡沫或良性循環？微軟+Google 同日宣布砸164億美元在歐洲蓋 AI 設施",
-      "url": "https://money.udn.com/money/story/123398/9133431",
-      "source": "money.udn.com",
-      "published": 1762877970
     },
     {
       "id": "7a7a028bda59",
@@ -630,13 +637,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251110-%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE%E5%90%8E-%E4%B8%AD%E5%9B%BD%E9%99%90%E5%88%B6%E5%90%91%E5%8C%97%E7%BE%8E%E5%87%BA%E5%8F%A3%E8%8D%AF%E5%93%81%E5%89%8D%E4%BD%93",
       "source": "rfi.fr",
       "published": 1762795505
-    },
-    {
-      "id": "37738129c639",
-      "title": "蔡英文在柏林墙倒塌纪念日访柏林：芯片增加台湾防御能力",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251110-%E8%94%A1%E8%8B%B1%E6%96%87%E5%9C%A8%E6%9F%8F%E6%9E%97%E5%A2%99%E5%80%92%E5%A1%8C%E7%BA%AA%E5%BF%B5%E6%97%A5%E8%AE%BF%E6%9F%8F%E6%9E%97-%E8%8A%AF%E7%89%87%E5%A2%9E%E5%8A%A0%E5%8F%B0%E6%B9%BE%E9%98%B2%E5%BE%A1%E8%83%BD%E5%8A%9B",
-      "source": "rfi.fr",
-      "published": 1762792935
     },
     {
       "id": "3edf57faa928",
@@ -1402,5 +1402,5 @@
       "published": 1761013990
     }
   ],
-  "build_id": 1762893524
+  "build_id": 1762895339
 }
