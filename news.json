@@ -1,6 +1,13 @@
 {
-  "updated": 1762969135,
+  "updated": 1762971309,
   "items": [
+    {
+      "id": "4a7f14803128",
+      "title": "日本首相高市早苗与约旦国王阿卜杜拉会谈 讨论加沙重建",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251112-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8E%E7%BA%A6%E6%97%A6%E5%9B%BD%E7%8E%8B%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89%E4%BC%9A%E8%B0%88-%E8%AE%A8%E8%AE%BA%E5%8A%A0%E6%B2%99%E9%87%8D%E5%BB%BA",
+      "source": "rfi.fr",
+      "published": 1762969467
+    },
     {
       "id": "30be34eab894",
       "title": "美政府關門危機有望落幕  歐股收紅",
@@ -16,9 +23,9 @@
       "published": 1762968079
     },
     {
-      "id": "8928857cb832",
+      "id": "c1a82c253fc7",
       "title": "挺林岱樺惹議 林佳龍：挺制度非個人",
-      "url": "https://udn.com/news/story/6656/9136043",
+      "url": "https://udn.com/news/story/124652/9136043",
       "source": "udn.com",
       "published": 1762965916
     },
@@ -94,7 +101,7 @@
     },
     {
       "id": "7ba2dfbd20eb",
-      "title": "鄭麗文兼任國民黨革實院長",
+      "title": "鄭麗文兼任國民黨革實院長 蔣中正後第一人",
       "url": "https://udn.com/news/story/6656/9136039",
       "source": "udn.com",
       "published": 1762963407
@@ -665,13 +672,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c4gwy79y7pzo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762880251
-    },
-    {
-      "id": "1026ec65b7e1",
-      "title": "马云妻子以1950万英镑购得伦敦前意大利大使馆",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251111-%E9%A9%AC%E4%BA%91%E5%A6%BB%E5%AD%90%E4%BB%A51950%E4%B8%87%E8%8B%B1%E9%95%91%E8%B4%AD%E5%BE%97%E4%BC%A6%E6%95%A6%E5%89%8D%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E4%BD%BF%E9%A6%86",
-      "source": "rfi.fr",
-      "published": 1762877532
     },
     {
       "id": "22c2fe5a0691",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762969135
+  "build_id": 1762971309
 }
