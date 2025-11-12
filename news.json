@@ -1,10 +1,31 @@
 {
-  "updated": 1762988986,
+  "updated": 1762990535,
   "items": [
     {
-      "id": "c0dc1bc6e389",
-      "title": "道瓊再創新高突破4.8萬點 科技巨人拖累那指收低",
-      "url": "https://money.udn.com/money/story/5599/9136224",
+      "id": "6ca446a01a21",
+      "title": "美國FBI局長訪中　 北京承諾遏止芬太尼前驅物流通",
+      "url": "https://money.udn.com/money/story/10511/9136244",
+      "source": "money.udn.com",
+      "published": 1762990223
+    },
+    {
+      "id": "767c11f286ee",
+      "title": "台積電ADR跌 0.2% 較台北交易溢價22.4%",
+      "url": "https://money.udn.com/money/story/123398/9136241",
+      "source": "money.udn.com",
+      "published": 1762989854
+    },
+    {
+      "id": "f34c1e8fc1a9",
+      "title": "美國FBI局長上周訪中：中國同意停止生產芬太尼相關化學品",
+      "url": "https://money.udn.com/money/story/5599/9136238",
+      "source": "money.udn.com",
+      "published": 1762989506
+    },
+    {
+      "id": "886ecae1fd53",
+      "title": "美股收盤／道瓊再創新高突破4.8萬點 科技巨人拖累那指收低",
+      "url": "https://money.udn.com/money/story/123398/9136224",
       "source": "money.udn.com",
       "published": 1762988334
     },
@@ -205,27 +226,6 @@
       "published": 1762971540
     },
     {
-      "id": "a3998909defc",
-      "title": "科技巨擘歐洲 AI 大布局",
-      "url": "https://money.udn.com/money/story/5599/9135888",
-      "source": "money.udn.com",
-      "published": 1762971488
-    },
-    {
-      "id": "90ed135832f1",
-      "title": "蝦皮母公司獲利 不如預期",
-      "url": "https://money.udn.com/money/story/5599/9135895",
-      "source": "money.udn.com",
-      "published": 1762971441
-    },
-    {
-      "id": "0cff53e8d1f5",
-      "title": "三星晶圓代工 拚兩年內賺錢",
-      "url": "https://money.udn.com/money/story/5599/9135889",
-      "source": "money.udn.com",
-      "published": 1762971403
-    },
-    {
       "id": "4a7f14803128",
       "title": "日本首相高市早苗与约旦国王阿卜杜拉会谈 讨论加沙重建",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251112-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8E%E7%BA%A6%E6%97%A6%E5%9B%BD%E7%8E%8B%E9%98%BF%E5%8D%9C%E6%9D%9C%E6%8B%89%E4%BC%9A%E8%B0%88-%E8%AE%A8%E8%AE%BA%E5%8A%A0%E6%B2%99%E9%87%8D%E5%BB%BA",
@@ -329,6 +329,27 @@
       "url": "https://udn.com/news/story/6656/9136038",
       "source": "udn.com",
       "published": 1762963325
+    },
+    {
+      "id": "0d3a4ace40fc",
+      "title": "雪佛龙将优先考量股东回报而非产量",
+      "url": "https://www.ftchinese.com/story/001108178",
+      "source": "ftchinese.com",
+      "published": 1762963200
+    },
+    {
+      "id": "8b46ba96b2e6",
+      "title": "从巴菲特“最后一信”看贫富不均",
+      "url": "https://www.ftchinese.com/story/001108177",
+      "source": "ftchinese.com",
+      "published": 1762963200
+    },
+    {
+      "id": "3529534f2622",
+      "title": "彼此不再依赖的世界？AI与自动化如何重塑世界贸易格局",
+      "url": "https://www.ftchinese.com/story/001108149",
+      "source": "ftchinese.com",
+      "published": 1762963200
     },
     {
       "id": "ed8bfed85a22",
@@ -919,27 +940,6 @@
       "published": 1762790400
     },
     {
-      "id": "08344ad5d1e9",
-      "title": "联合国气候大会开幕，重心转向亚太",
-      "url": "https://www.ftchinese.com/story/001108159",
-      "source": "ftchinese.com",
-      "published": 1762790400
-    },
-    {
-      "id": "d639b9478caf",
-      "title": "“麦克风外交”距离“求同存异”有多远？",
-      "url": "https://www.ftchinese.com/story/001108156",
-      "source": "ftchinese.com",
-      "published": 1762790400
-    },
-    {
-      "id": "b69661e51723",
-      "title": "BBC是如何深陷“剪辑风波”的？",
-      "url": "https://www.ftchinese.com/story/001108157",
-      "source": "ftchinese.com",
-      "published": 1762790400
-    },
-    {
       "id": "b35612056d11",
       "title": "德语媒体：算出来的“好心情”",
       "url": "https://www.dw.com/zh/德语媒体：算出来的-好心情/a-74690167?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762988986
+  "build_id": 1762990535
 }
