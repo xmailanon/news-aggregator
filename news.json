@@ -1,40 +1,222 @@
 {
-  "updated": 1762994970,
+  "updated": 1763000898,
   "items": [
     {
-      "id": "6bb01c61fb09",
-      "title": "Google控告中國詐騙平台Lighthouse全球竊資",
-      "url": "https://money.udn.com/money/story/5599/9136334",
+      "id": "4f0d859f710a",
+      "title": "AI熱再添新柴火！Anthropic將砸500億美元自建資料中心",
+      "url": "https://money.udn.com/money/story/5599/9136575",
       "source": "money.udn.com",
-      "published": 1762994754
+      "published": 1763000769
     },
     {
-      "id": "2023f534cebc",
-      "title": "路透調查：8成經濟學家預測聯準會12月再降息1碼",
-      "url": "https://money.udn.com/money/story/5599/9136333",
-      "source": "money.udn.com",
-      "published": 1762994712
+      "id": "260a8b5a8f5a",
+      "title": "陳建仁是中研院院長候選人？立委質疑「裁判變球員」提前知道面試題目",
+      "url": "https://udn.com/news/story/6656/9136571",
+      "source": "udn.com",
+      "published": 1763000644
     },
     {
-      "id": "c5feb925473c",
-      "title": "紐時：習近平打軍方貪腐　對核武部隊感不安",
-      "url": "https://money.udn.com/money/story/5599/9136317",
-      "source": "money.udn.com",
-      "published": 1762994170
+      "id": "dd5b3d04c247",
+      "title": "普發一萬進帳換鎖戶 民眾有錢領不出",
+      "url": "https://udn.com/news/story/124539/9136567",
+      "source": "udn.com",
+      "published": 1763000516
     },
     {
-      "id": "022e565ca156",
+      "id": "c31d12ff2afe",
+      "title": "萬榮明利村淹水挨批人禍 陳金德：河床跟堤防一樣高 水利署已補強",
+      "url": "https://udn.com/news/story/6656/9136559",
+      "source": "udn.com",
+      "published": 1763000385
+    },
+    {
+      "id": "35b4f3c70edc",
+      "title": "美國停止鑄造1美分硬幣　逾230年歷史畫下句點",
+      "url": "https://money.udn.com/money/story/10511/9136535",
+      "source": "money.udn.com",
+      "published": 1762999954
+    },
+    {
+      "id": "0e4fb3c5de9a",
+      "title": "美國眾議院通過一項臨時支出法案 政府停擺即將落幕",
+      "url": "https://money.udn.com/money/story/10511/9136498",
+      "source": "money.udn.com",
+      "published": 1762999491
+    },
+    {
+      "id": "2675eb265476",
+      "title": "AIT谷立言拜會鄭麗文 顧立雄：盼不分朝野支持國防預算",
+      "url": "https://udn.com/news/story/6656/9136518",
+      "source": "udn.com",
+      "published": 1762999436
+    },
+    {
+      "id": "e892bde27720",
+      "title": "不只F-16V、勇鷹也延遲交機 軍售眉角多我方能做什麼？",
+      "url": "https://udn.com/news/story/10930/9132386",
+      "source": "udn.com",
+      "published": 1762999200
+    },
+    {
+      "id": "fedf3af01a0a",
+      "title": "吉野家靠「新配方」提振中國業務 今年在華利潤料創紀錄新高",
+      "url": "https://money.udn.com/money/story/5599/9136414",
+      "source": "money.udn.com",
+      "published": 1762999108
+    },
+    {
+      "id": "fde74589bfd5",
+      "title": "AMD 股價大漲9%！這些展望數字驚艷市場 分析師提醒有這些考量點",
+      "url": "https://money.udn.com/money/story/123398/9136492",
+      "source": "money.udn.com",
+      "published": 1762999058
+    },
+    {
+      "id": "d4cc6ab1cd18",
+      "title": "孫雯涉中國代理人案開審　美檢：貪婪、背叛紐約州",
+      "url": "https://money.udn.com/money/story/10511/9136478",
+      "source": "money.udn.com",
+      "published": 1762998873
+    },
+    {
+      "id": "597a75c845ef",
+      "title": "美史最長政府停擺劃下句點！國會通過撥款法案 送川普簽字",
+      "url": "https://money.udn.com/money/story/5599/9136467",
+      "source": "money.udn.com",
+      "published": 1762998695
+    },
+    {
+      "id": "98c2b667eed5",
+      "title": "遭狠酸「剪破襪子」！iPhone Pocket高價惹議 被質疑測試果粉忠誠極限",
+      "url": "https://money.udn.com/money/story/5599/9136465",
+      "source": "money.udn.com",
+      "published": 1762998605
+    },
+    {
+      "id": "3b748aa04f84",
+      "title": "G7外長呼籲烏克蘭立即停火 並敦促蘇丹局勢降溫",
+      "url": "https://money.udn.com/money/story/5599/9136451",
+      "source": "money.udn.com",
+      "published": 1762998337
+    },
+    {
+      "id": "6fd259a91876",
+      "title": "「比特幣女王」住進倫敦豪宅，持有逾50億英鎊比特幣被判洗錢罪入獄",
+      "url": "https://www.bbc.com/zhongwen/articles/c5ypzegznk5o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1762998069
+    },
+    {
+      "id": "646f17bb2ce4",
+      "title": "美眾院通過法案終結史上最久停擺　就等川普簽名",
+      "url": "https://money.udn.com/money/story/10511/9136434",
+      "source": "money.udn.com",
+      "published": 1762997794
+    },
+    {
+      "id": "5048c788e038",
+      "title": "史上第一遭跨黨鼓掌！迎輝達 游淑慧分析2點價值不可言喻",
+      "url": "https://udn.com/news/story/6656/9136433",
+      "source": "udn.com",
+      "published": 1762997766
+    },
+    {
+      "id": "68ca07ef5731",
+      "title": "美眾院通過短期撥款法案 結束聯邦政府關門最長紀錄",
+      "url": "https://money.udn.com/money/story/5599/9136432",
+      "source": "money.udn.com",
+      "published": 1762997752
+    },
+    {
+      "id": "b94309584d8a",
+      "title": "Fed 兩官員同聲支持利率不動 柯林斯、波斯提克都警告通膨風險仍居上風",
+      "url": "https://money.udn.com/money/story/5599/9136425",
+      "source": "money.udn.com",
+      "published": 1762997549
+    },
+    {
+      "id": "ceef04694409",
+      "title": "美政府停擺43天 10月通膨與就業數據恐無法公布",
+      "url": "https://money.udn.com/money/story/10511/9136418",
+      "source": "money.udn.com",
+      "published": 1762997452
+    },
+    {
+      "id": "ee8ad2cac8e1",
+      "title": "222:209通過！美國眾院表決結束聯邦政府停擺結果出爐",
+      "url": "https://money.udn.com/money/story/5599/9136412",
+      "source": "money.udn.com",
+      "published": 1762997407
+    },
+    {
+      "id": "c30f455c0b4a",
+      "title": "兩棲突擊車救災壓毀泡水車 顧立雄：不會讓官兵扛責任",
+      "url": "https://udn.com/news/story/10930/9136408",
+      "source": "udn.com",
+      "published": 1762997264
+    },
+    {
+      "id": "fac68b978db8",
+      "title": "IEA：未來25年油氣消費持續增長 環團峰會中向化石燃料宣戰",
+      "url": "https://money.udn.com/money/story/5599/9136409",
+      "source": "money.udn.com",
+      "published": 1762997249
+    },
+    {
+      "id": "79e83c965c0e",
+      "title": "烏克蘭戰時貪腐案一路燒向最高層 澤倫斯基切割親信舊識求自保",
+      "url": "https://money.udn.com/money/story/5599/9136405",
+      "source": "money.udn.com",
+      "published": 1762997113
+    },
+    {
+      "id": "4c49f6d70b16",
+      "title": "扛不住民怨！白宮官員透露：研擬調降食品關稅 壓低咖啡、香蕉價",
+      "url": "https://money.udn.com/money/story/5599/9136401",
+      "source": "money.udn.com",
+      "published": 1762997071
+    },
+    {
+      "id": "5868a954722e",
+      "title": "甘迺迪外孫宣布角逐國會議員　盼延續政治家族傳統",
+      "url": "https://money.udn.com/money/story/10511/9136393",
+      "source": "money.udn.com",
+      "published": 1762996891
+    },
+    {
+      "id": "41d13347c253",
+      "title": "日本熊害事件增 美國務院罕見發「野生動物」警示",
+      "url": "https://money.udn.com/money/story/5599/9136396",
+      "source": "money.udn.com",
+      "published": 1762996890
+    },
+    {
+      "id": "b6d680fa7746",
+      "title": "孙雯“中国代理人”案开审，检察官称其“背叛”纽约州",
+      "url": "https://cn.nytimes.com/usa/20251113/linda-sun-china-trial/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1762996457
+    },
+    {
+      "id": "a9642535dc6e",
+      "title": "秋祭又惹議...他提醒鄭麗文：不要讓這三把火繼續延燒",
+      "url": "https://udn.com/news/story/6656/9136370",
+      "source": "udn.com",
+      "published": 1762996206
+    },
+    {
+      "id": "0572eeed9c24",
+      "title": "美債一路漲到年底？交易員押注10年期殖利率幾周內跌破4%",
+      "url": "https://money.udn.com/money/story/5599/9136359",
+      "source": "money.udn.com",
+      "published": 1762995726
+    },
+    {
+      "id": "25ce1f02b8f1",
       "title": "民進黨強調普發現金是政院 王鴻薇：國人不是傻子也没失憶",
-      "url": "https://udn.com/news/story/6656/9136309",
+      "url": "https://udn.com/news/story/124539/9136309",
       "source": "udn.com",
       "published": 1762993894
-    },
-    {
-      "id": "e7fde3278318",
-      "title": "艾普斯坦案電郵再掀波瀾　川普斥民主黨轉移焦點",
-      "url": "https://money.udn.com/money/story/10511/9136306",
-      "source": "money.udn.com",
-      "published": 1762993837
     },
     {
       "id": "573b5566266c",
@@ -42,20 +224,6 @@
       "url": "https://udn.com/news/story/124539/9136274",
       "source": "udn.com",
       "published": 1762993762
-    },
-    {
-      "id": "e1f0e184fb69",
-      "title": "美眾院控中國操縱關鍵礦物價格　擴張經濟與地緣影響",
-      "url": "https://money.udn.com/money/story/10511/9136293",
-      "source": "money.udn.com",
-      "published": 1762993292
-    },
-    {
-      "id": "a620994e79ff",
-      "title": "日圓貶值再探155關卡再掀干預議論 但高市政府護盤效果令人懷疑",
-      "url": "https://money.udn.com/money/story/5599/9136290",
-      "source": "money.udn.com",
-      "published": 1762993148
     },
     {
       "id": "fa95ece72807",
@@ -86,53 +254,11 @@
       "published": 1762991940
     },
     {
-      "id": "0ef2f148a505",
-      "title": "書法帶入現代藝術領域　董陽孜作品進駐荷蘭國家博物館",
-      "url": "https://money.udn.com/money/story/5599/9136262",
-      "source": "money.udn.com",
-      "published": 1762991685
-    },
-    {
-      "id": "f96a4e52f306",
-      "title": "1億美元貪腐案撼動基輔政壇　 司法與能源部長請辭",
-      "url": "https://money.udn.com/money/story/5599/9136261",
-      "source": "money.udn.com",
-      "published": 1762991685
-    },
-    {
-      "id": "33b0613428c4",
-      "title": "美媒：美台關稅談判正就「韓日之間投資額」拉鋸",
-      "url": "https://money.udn.com/money/story/5599/9136257",
-      "source": "money.udn.com",
-      "published": 1762991435
-    },
-    {
       "id": "2d7f6de3862f",
       "title": "沈伯洋德國國會作證 說明台灣受中國假訊息攻擊經驗",
       "url": "https://udn.com/news/story/124655/9136250",
       "source": "udn.com",
       "published": 1762991369
-    },
-    {
-      "id": "41797546ec0a",
-      "title": "納德拉：微軟可利用 OpenAI 客製晶片成果  幫助自家晶片研發",
-      "url": "https://money.udn.com/money/story/5599/9136252",
-      "source": "money.udn.com",
-      "published": 1762991271
-    },
-    {
-      "id": "408908528d5a",
-      "title": "國際油價因供過於求創6月來最大跌幅 金銀走高",
-      "url": "https://money.udn.com/money/story/5599/9136249",
-      "source": "money.udn.com",
-      "published": 1762990951
-    },
-    {
-      "id": "65356b94b1fd",
-      "title": "與阿根廷簽署美元貨幣互換　美國財政部長：已帶來收益",
-      "url": "https://money.udn.com/money/story/5599/9136246",
-      "source": "money.udn.com",
-      "published": 1762990590
     },
     {
       "id": "473ceb8497fa",
@@ -142,39 +268,11 @@
       "published": 1762990560
     },
     {
-      "id": "6ca446a01a21",
-      "title": "美國 FBI 局長訪中 北京承諾遏止芬太尼前驅物流通",
-      "url": "https://money.udn.com/money/story/10511/9136244",
-      "source": "money.udn.com",
-      "published": 1762990223
-    },
-    {
       "id": "5c43b397d921",
       "title": "共諜吳石差點接任台灣警備總司令 白崇禧與228是關鍵",
       "url": "https://udn.com/news/story/10930/9132842",
       "source": "udn.com",
       "published": 1762990200
-    },
-    {
-      "id": "767c11f286ee",
-      "title": "台積電ADR跌 0.2% 較台北交易溢價22.4%",
-      "url": "https://money.udn.com/money/story/123398/9136241",
-      "source": "money.udn.com",
-      "published": 1762989854
-    },
-    {
-      "id": "f34c1e8fc1a9",
-      "title": "美國FBI局長上周訪中：中國同意停止生產芬太尼相關化學品",
-      "url": "https://money.udn.com/money/story/5599/9136238",
-      "source": "money.udn.com",
-      "published": 1762989506
-    },
-    {
-      "id": "886ecae1fd53",
-      "title": "美股收盤／道瓊再創新高突破4.8萬點 科技巨人拖累那指收低",
-      "url": "https://money.udn.com/money/story/123398/9136224",
-      "source": "money.udn.com",
-      "published": 1762988334
     },
     {
       "id": "304cf8e48ddd",
@@ -198,13 +296,6 @@
       "published": 1762985775
     },
     {
-      "id": "123441a51ba6",
-      "title": "COP30直擊／抗議聲音重返峰會 公正轉型成戰場",
-      "url": "https://money.udn.com/money/story/5599/9136204",
-      "source": "money.udn.com",
-      "published": 1762985551
-    },
-    {
       "id": "16c07d69bf58",
       "title": "欧盟和英国就欧洲防务1500亿欧元加强基金的准入费问题讨价还价",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251112-%E6%AC%A7%E7%9B%9F%E5%92%8C%E8%8B%B1%E5%9B%BD%E5%B0%B1%E6%AC%A7%E6%B4%B2%E9%98%B2%E5%8A%A11500%E4%BA%BF%E6%AC%A7%E5%85%83%E5%8A%A0%E5%BC%BA%E5%9F%BA%E9%87%91%E7%9A%84%E5%87%86%E5%85%A5%E8%B4%B9%E9%97%AE%E9%A2%98%E8%AE%A8%E4%BB%B7%E8%BF%98%E4%BB%B7",
@@ -217,20 +308,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251112-%E5%B7%B4%E9%BB%8E11%E6%9C%8813%E6%97%A5%E6%81%90%E8%A2%AD%E5%8D%81%E5%91%A8%E5%B9%B4-%E6%B3%95%E5%9B%BD%E8%AF%BE%E5%A0%82%E4%B8%8A%E5%A6%82%E4%BD%95%E8%AE%A8%E8%AE%BA%E8%BF%99%E4%BA%9B%E4%BA%8B%E4%BB%B6",
       "source": "rfi.fr",
       "published": 1762984972
-    },
-    {
-      "id": "0c68bb33330a",
-      "title": "國際油價重挫　創6月以來最大跌幅",
-      "url": "https://money.udn.com/money/story/5599/9136176",
-      "source": "money.udn.com",
-      "published": 1762984848
-    },
-    {
-      "id": "f7740611db68",
-      "title": "美股收盤走勢分歧　道瓊指數創新高、那斯達克下跌",
-      "url": "https://money.udn.com/money/story/123398/9136181",
-      "source": "money.udn.com",
-      "published": 1762984848
     },
     {
       "id": "21fd9cfd0b10",
@@ -252,13 +329,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251112-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E6%99%A4%E8%A5%BF%E7%8F%AD%E7%89%99%E5%9B%BD%E7%8E%8B%E8%8F%B2%E5%88%A9%E4%BD%A9%E5%85%AD%E4%B8%96-%E5%91%BC%E5%90%81%E6%B7%B1%E5%8C%96%E5%90%88%E4%BD%9C-%E5%BB%BA%E7%AB%8B%E6%9B%B4%E5%85%B7%E5%85%A8%E7%90%83%E5%BD%B1%E5%93%8D%E5%8A%9B%E7%9A%84%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB",
       "source": "rfi.fr",
       "published": 1762984198
-    },
-    {
-      "id": "4624ee323283",
-      "title": "美最高法院還在審關稅政策 白宮：川普盼落實2000美元關稅紅利",
-      "url": "https://money.udn.com/money/story/5599/9136169",
-      "source": "money.udn.com",
-      "published": 1762984053
     },
     {
       "id": "beb597e56a59",
@@ -324,34 +394,6 @@
       "published": 1762963938
     },
     {
-      "id": "036072f82fa2",
-      "title": "邱垂正：研議反制中共懲獨跨國鎮壓",
-      "url": "https://udn.com/news/story/124655/9136003",
-      "source": "udn.com",
-      "published": 1762963923
-    },
-    {
-      "id": "2b348df79f74",
-      "title": "中共追緝中 沈伯洋抵德國國會作證",
-      "url": "https://udn.com/news/story/124655/9135997",
-      "source": "udn.com",
-      "published": 1762963900
-    },
-    {
-      "id": "b6b17abb539a",
-      "title": "國民黨團：立院兩岸小組 可解決問題",
-      "url": "https://udn.com/news/story/124655/9135987",
-      "source": "udn.com",
-      "published": 1762963883
-    },
-    {
-      "id": "6bfd7ee89b7c",
-      "title": "觀察站／老牛奮蹄 看韓國瑜如何打兩岸牌",
-      "url": "https://udn.com/news/story/124655/9135984",
-      "source": "udn.com",
-      "published": 1762963868
-    },
-    {
       "id": "f4c6648a94a6",
       "title": "澳大利亚和印度尼西亚将签署新条约以“保障地区和平”",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251112-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%92%8C%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E5%B0%86%E7%AD%BE%E7%BD%B2%E6%96%B0%E6%9D%A1%E7%BA%A6%E4%BB%A5-%E4%BF%9D%E9%9A%9C%E5%9C%B0%E5%8C%BA%E5%92%8C%E5%B9%B3",
@@ -359,32 +401,11 @@
       "published": 1762963494
     },
     {
-      "id": "4704f8461c99",
-      "title": "國軍編現比 國防部拚年底達8成",
-      "url": "https://udn.com/news/story/10930/9136046",
-      "source": "udn.com",
-      "published": 1762963409
-    },
-    {
-      "id": "7ba2dfbd20eb",
-      "title": "鄭麗文兼任國民黨革實院長 蔣中正後第一人",
-      "url": "https://udn.com/news/story/6656/9136039",
-      "source": "udn.com",
-      "published": 1762963407
-    },
-    {
-      "id": "7d96634969ac",
-      "title": "新聞眼／鄭主席兼革實院長 羊群能變獅群？",
-      "url": "https://udn.com/news/story/6656/9136041",
-      "source": "udn.com",
-      "published": 1762963370
-    },
-    {
-      "id": "21554d4cd735",
-      "title": "蔡英文訪歐積電：晶片增強台灣防禦力",
-      "url": "https://udn.com/news/story/7314/9136045",
-      "source": "udn.com",
-      "published": 1762963370
+      "id": "eb7c002a83ee",
+      "title": "美国梦如何被“付费入场”取代",
+      "url": "https://www.ftchinese.com/story/001108180",
+      "source": "ftchinese.com",
+      "published": 1762963200
     },
     {
       "id": "0e1f47c46ac3",
@@ -933,13 +954,6 @@
       "published": 1762790400
     },
     {
-      "id": "1f8f446cc031",
-      "title": "印尼考虑发行“熊猫债券”",
-      "url": "https://www.ftchinese.com/story/001108162",
-      "source": "ftchinese.com",
-      "published": 1762790400
-    },
-    {
       "id": "b35612056d11",
       "title": "德语媒体：算出来的“好心情”",
       "url": "https://www.dw.com/zh/德语媒体：算出来的-好心情/a-74690167?maca=chi-rss-chi-all-1127-rdf",
@@ -987,13 +1001,6 @@
       "url": "https://cn.nytimes.com/business/20251110/china-exports-fall/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1762734941
-    },
-    {
-      "id": "575cca6ca9fe",
-      "title": "中国暂停对五种关键矿物实施出口管制",
-      "url": "https://cn.nytimes.com/business/20251110/china-suspends-export-controls/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1762733662
     },
     {
       "id": "8340c08cf2a2",
@@ -1169,13 +1176,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cr7mjpdlj0go/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762332621
-    },
-    {
-      "id": "1bc44eb4a637",
-      "title": "「AI教母」李飛飛：「很自豪自己與眾不同」",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yp28l0v8zo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1762320920
     },
     {
       "id": "de200aa4985c",
@@ -1402,5 +1402,5 @@
       "published": 1760858580
     }
   ],
-  "build_id": 1762994970
+  "build_id": 1763000898
 }
