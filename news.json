@@ -1,6 +1,41 @@
 {
-  "updated": 1763113175,
+  "updated": 1763115139,
   "items": [
+    {
+      "id": "41855d65e63f",
+      "title": "俄無人機攻擊烏克蘭南部市集　釀2死7傷",
+      "url": "https://money.udn.com/money/story/5599/9140347",
+      "source": "money.udn.com",
+      "published": 1763115137
+    },
+    {
+      "id": "cb87b4f167c6",
+      "title": "路透：記憶體晶片嚴重缺貨　三星漲價最多60%",
+      "url": "https://money.udn.com/money/story/5599/9140337",
+      "source": "money.udn.com",
+      "published": 1763114783
+    },
+    {
+      "id": "90beec6c844c",
+      "title": "新版財劃法再次修正三讀 地方636億元補助款全補回",
+      "url": "https://udn.com/news/story/6656/9140308",
+      "source": "udn.com",
+      "published": 1763114111
+    },
+    {
+      "id": "c3f98d7dbcd5",
+      "title": "越南淹大水購物中心安然矗立  網民：日本不意外",
+      "url": "https://money.udn.com/money/story/5599/9140292",
+      "source": "money.udn.com",
+      "published": 1763113534
+    },
+    {
+      "id": "a0f4cc07500a",
+      "title": "普發現金入帳遭鎖帳戶？金管會查核並非屬實",
+      "url": "https://udn.com/news/story/124539/9140289",
+      "source": "udn.com",
+      "published": 1763113391
+    },
     {
       "id": "6d731d6f8cba",
       "title": "科技股泡沫疑慮與降息預期下滑　拖累亞股收盤盡墨",
@@ -14,6 +49,13 @@
       "url": "https://money.udn.com/money/story/5599/9140250",
       "source": "money.udn.com",
       "published": 1763112616
+    },
+    {
+      "id": "88370f3dd54b",
+      "title": "刑事局長周幼偉投書以媒 籲INTERPOL大會納入台灣",
+      "url": "https://udn.com/news/story/7314/9140214",
+      "source": "udn.com",
+      "published": 1763112165
     },
     {
       "id": "23efd2c1b1c0",
@@ -296,13 +338,6 @@
       "published": 1763103244
     },
     {
-      "id": "5b72007f2925",
-      "title": "比特幣跌破97,000美元！長期持有者大舉拋售 市場情緒急轉空",
-      "url": "https://money.udn.com/money/story/5599/9139790",
-      "source": "money.udn.com",
-      "published": 1763102472
-    },
-    {
       "id": "87bf505b4f78",
       "title": "ATM領取普發一萬元 財政部：17日上路",
       "url": "https://udn.com/news/story/124539/9139787",
@@ -310,39 +345,11 @@
       "published": 1763102222
     },
     {
-      "id": "42185a0f1027",
-      "title": "美國喬治亞工廠拘留事件 部分韓國勞工已返美",
-      "url": "https://money.udn.com/money/story/5599/9139785",
-      "source": "money.udn.com",
-      "published": 1763102205
-    },
-    {
-      "id": "235545aaaa58",
-      "title": "國際油價大漲 烏克蘭無人機空襲毀損俄港口石油設施",
-      "url": "https://money.udn.com/money/story/5599/9139763",
-      "source": "money.udn.com",
-      "published": 1763101837
-    },
-    {
-      "id": "637d63c716cd",
-      "title": "央視15分鐘專題「起底」八炯、閩南狼 稱不存在「沒有管轄權」問題",
-      "url": "https://udn.com/news/story/124655/9139762",
-      "source": "udn.com",
-      "published": 1763101824
-    },
-    {
       "id": "f24f568b127f",
       "title": "高市早苗「台灣有事」爭議升級　北京召見日大使",
       "url": "https://www.dw.com/zh/高市早苗「台灣有事」爭議升級　北京召見日大使/a-74713905?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763101140
-    },
-    {
-      "id": "efb4744cd388",
-      "title": "【重磅快評】武大郎外交官：膨風沈伯洋、矮化台灣人",
-      "url": "https://udn.com/news/story/6656/9139682",
-      "source": "udn.com",
-      "published": 1763100098
     },
     {
       "id": "582aef50d878",
@@ -357,13 +364,6 @@
       "url": "https://www.dw.com/zh/bbc就剪辑不当向特朗普致歉-但拒绝赔偿/a-74699591?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763100000
-    },
-    {
-      "id": "13239df4ea12",
-      "title": "美宣布3.3億美元零配件軍售 外交部感謝：延續美方常態化政策",
-      "url": "https://udn.com/news/story/10930/9139648",
-      "source": "udn.com",
-      "published": 1763099623
     },
     {
       "id": "ce378d5cf525",
@@ -1402,5 +1402,5 @@
       "published": 1760683112
     }
   ],
-  "build_id": 1763113175
+  "build_id": 1763115139
 }
