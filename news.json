@@ -1,19 +1,26 @@
 {
-  "updated": 1763118542,
+  "updated": 1763120000,
   "items": [
+    {
+      "id": "998a5f90acf7",
+      "title": "中美兩國據悉仍在商討有關中國大陸放寬稀土出口的關鍵細節",
+      "url": "https://money.udn.com/money/story/5599/9140420",
+      "source": "money.udn.com",
+      "published": 1763119920
+    },
+    {
+      "id": "f64a9c22f1c1",
+      "title": "薛劍斬首言論延燒  自民黨籲拒出席大阪領事館活動",
+      "url": "https://money.udn.com/money/story/5599/9140450",
+      "source": "money.udn.com",
+      "published": 1763119852
+    },
     {
       "id": "99dab192f2bb",
       "title": "峇里島巴士死亡車禍　中國公民5死8傷",
       "url": "https://money.udn.com/money/story/5599/9140430",
       "source": "money.udn.com",
       "published": 1763118448
-    },
-    {
-      "id": "5688fc83006c",
-      "title": "批中央對基隆不公平到極點 謝國樑：舉債也要把捷運蓋到完",
-      "url": "https://udn.com/news/story/6656/9140416",
-      "source": "udn.com",
-      "published": 1763118008
     },
     {
       "id": "5bf78e9e8a20",
@@ -317,6 +324,13 @@
       "published": 1763106378
     },
     {
+      "id": "c03514136afa",
+      "title": "八旬母悶死身障兒 楊智伃籲賴總統特赦：別讓台灣成沒一絲溫度的國家",
+      "url": "https://udn.com/news/story/7314/9139960",
+      "source": "udn.com",
+      "published": 1763106071
+    },
+    {
       "id": "df1685dec0a9",
       "title": "泰國國王哇集拉隆功成為中泰建交50年來首位訪華的泰國君主",
       "url": "https://www.bbc.com/zhongwen/articles/c5yp3nj3l11o/trad?at_medium=RSS&at_campaign=rss",
@@ -343,20 +357,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251114-%E6%B8%AF%E5%BA%9C%E5%8A%9E%E9%80%89%E5%89%8D%E5%A4%A7%E6%B1%87%E6%BC%94%E6%8E%A8%E6%8A%95%E7%A5%A8%E7%8E%87-%E8%B6%85%E7%BA%A7%E5%AF%8C%E8%B1%AA%E4%B9%9F%E8%A6%81%E8%90%BD%E5%8C%BA%E6%B4%BE%E9%80%89%E4%B8%BE%E5%8D%95%E5%BC%A0",
       "source": "rfi.fr",
       "published": 1763104955
-    },
-    {
-      "id": "fa375cf11536",
-      "title": "AI概念股走跌Fed降息預期減弱　日股收低日經挫1.77%",
-      "url": "https://money.udn.com/money/story/5599/9139905",
-      "source": "money.udn.com",
-      "published": 1763104882
-    },
-    {
-      "id": "fa4f63de9ea7",
-      "title": "希特勒性發育與青春期受影響？DNA研究揭露可能罹患這種基因疾病",
-      "url": "https://money.udn.com/money/story/5599/9139898",
-      "source": "money.udn.com",
-      "published": 1763104837
     },
     {
       "id": "a4ed875291a5",
@@ -1395,5 +1395,5 @@
       "published": 1760683112
     }
   ],
-  "build_id": 1763118542
+  "build_id": 1763120000
 }
