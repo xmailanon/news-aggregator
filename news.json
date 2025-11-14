@@ -1,6 +1,27 @@
 {
-  "updated": 1763136760,
+  "updated": 1763138769,
   "items": [
+    {
+      "id": "e3bc89f3f295",
+      "title": "三星部分記憶體漲價 最高60%",
+      "url": "https://money.udn.com/money/story/5599/9140768",
+      "source": "money.udn.com",
+      "published": 1763138796
+    },
+    {
+      "id": "dce6e74de1c7",
+      "title": "輝達晶片限制銷陸 微軟、亞馬遜喊支持",
+      "url": "https://money.udn.com/money/story/5599/9140767",
+      "source": "money.udn.com",
+      "published": 1763138589
+    },
+    {
+      "id": "d2509c39e50f",
+      "title": "川普第2任首次 宣布對台百億軍售",
+      "url": "https://udn.com/news/story/10930/9140860",
+      "source": "udn.com",
+      "published": 1763136935
+    },
     {
       "id": "c3aba1245312",
       "title": "地方補助款 未來額度不能比今年少",
@@ -254,20 +275,6 @@
       "published": 1763129174
     },
     {
-      "id": "943738ccbc27",
-      "title": "哈薩克爆發罕見反中抗議　12人被捕6人遭罰",
-      "url": "https://money.udn.com/money/story/5599/9140659",
-      "source": "money.udn.com",
-      "published": 1763129174
-    },
-    {
-      "id": "474466edf88b",
-      "title": "AI融入愛情生活　日女披婚紗嫁自創ChatGPT男友",
-      "url": "https://money.udn.com/money/story/5599/9140658",
-      "source": "money.udn.com",
-      "published": 1763129174
-    },
-    {
       "id": "18c9a4b2b1f1",
       "title": "蔡英文訪德獲頒FNF友誼獎狀 出席零日攻擊柏林放映會",
       "url": "https://udn.com/news/story/6656/9140618",
@@ -399,13 +406,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251114-%E5%8C%97%E4%BA%AC%E5%AF%B9%E6%88%91%E4%BB%AC%E7%9A%84%E4%BE%9B%E5%BA%94%E9%93%BE%E9%87%91%E9%92%A5%E4%BA%86%E5%A6%82%E6%8C%87%E6%8E%8C-%E6%AC%A7%E7%9B%9F%E8%A2%AB%E8%BF%AB-%E5%BC%80%E6%94%BE-%E8%BF%98%E6%98%AF-%E8%87%AA%E6%95%91",
       "source": "rfi.fr",
       "published": 1763117279
-    },
-    {
-      "id": "bb98480d9bf4",
-      "title": "施俊吉質疑美方未給協防承諾 李淳：台美安全保障不是對價關係",
-      "url": "https://udn.com/news/story/124621/9140401",
-      "source": "udn.com",
-      "published": 1763117252
     },
     {
       "id": "511c0ca046db",
@@ -919,13 +919,6 @@
       "published": 1762963200
     },
     {
-      "id": "ca3774fde5fa",
-      "title": "乌克兰司法部长涉嫌腐败遭停职调查",
-      "url": "https://www.dw.com/zh/乌克兰司法部长涉嫌腐败遭停职调查/a-74716851?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762961340
-    },
-    {
       "id": "8a9ffc0d2763",
       "title": "德语媒体：欧洲减排 中国赚钱？",
       "url": "https://www.dw.com/zh/德语媒体：欧洲减排-中国赚钱？/a-74715784?maca=chi-rss-chi-all-1127-rdf",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/中國打壓地下教會-傅希秋：習近平要「絕對的順服」/a-74397199?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1760693820
+    },
+    {
+      "id": "25380bde0d51",
+      "title": "香港立法會選舉：棄選潮下「換血」有準則？誰是接棒者？",
+      "url": "https://www.bbc.com/zhongwen/articles/c14plpy2kjeo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1760683112
     }
   ],
-  "build_id": 1763136760
+  "build_id": 1763138769
 }
