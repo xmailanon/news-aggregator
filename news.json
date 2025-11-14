@@ -1,6 +1,20 @@
 {
-  "updated": 1763159913,
+  "updated": 1763161775,
   "items": [
+    {
+      "id": "e7357dc31ffb",
+      "title": "美股漲跌互見 科技股反彈",
+      "url": "https://money.udn.com/money/story/123398/9141020",
+      "source": "money.udn.com",
+      "published": 1763159790
+    },
+    {
+      "id": "1dc9459ec2b1",
+      "title": "伊朗攔截貨船並引入領海　為6月來首見扣押油輪事件",
+      "url": "https://money.udn.com/money/story/5599/9141017",
+      "source": "money.udn.com",
+      "published": 1763158897
+    },
     {
       "id": "d4f73db42489",
       "title": "《费加罗报》评“安世半导体争夺战”：中国一记反手给欧洲上了堂工业课",
@@ -261,13 +275,6 @@
       "published": 1763136863
     },
     {
-      "id": "667f7f3ca299",
-      "title": "南韓輸美關稅稅率降到15% 晶片銷美條件不輸台灣",
-      "url": "https://money.udn.com/money/story/5599/9140719",
-      "source": "money.udn.com",
-      "published": 1763136643
-    },
-    {
       "id": "80f0d463a714",
       "title": "藍白修財劃法…地方補助款 未來額度不能比今年少",
       "url": "https://udn.com/news/story/124401/9140806",
@@ -280,13 +287,6 @@
       "url": "https://udn.com/news/story/7314/9138953",
       "source": "udn.com",
       "published": 1763136000
-    },
-    {
-      "id": "1af3b5de58d0",
-      "title": "民調：僅29%美國人支持軍事行動擊斃可疑毒販",
-      "url": "https://money.udn.com/money/story/10511/9140872",
-      "source": "money.udn.com",
-      "published": 1763135111
     },
     {
       "id": "9ce4bf9abe94",
@@ -1402,5 +1402,5 @@
       "published": 1760683112
     }
   ],
-  "build_id": 1763159913
+  "build_id": 1763161775
 }
