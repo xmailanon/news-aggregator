@@ -1,6 +1,20 @@
 {
-  "updated": 1763144089,
+  "updated": 1763146007,
   "items": [
+    {
+      "id": "f1824f6e7a21",
+      "title": "COP30直擊／衝突再升溫！抗議者強勢阻擋入口 峰會大門一度關閉",
+      "url": "https://money.udn.com/money/story/5599/9140971",
+      "source": "money.udn.com",
+      "published": 1763145474
+    },
+    {
+      "id": "90731caebdae",
+      "title": "隨亞股走弱　歐股收黑",
+      "url": "https://money.udn.com/money/story/5599/9140969",
+      "source": "money.udn.com",
+      "published": 1763145084
+    },
     {
       "id": "047895ba91f8",
       "title": "財劃法再修 卓揆：掏空中央 總預算無法依此調整",
@@ -51,6 +65,13 @@
       "published": 1763139970
     },
     {
+      "id": "1cf97ca4b987",
+      "title": "前駐歐代表看關稅談判 李淳：「台灣模式」難複製",
+      "url": "https://udn.com/news/story/124621/9140814",
+      "source": "udn.com",
+      "published": 1763139775
+    },
+    {
       "id": "e3bc89f3f295",
       "title": "三星部分記憶體漲價 最高60%",
       "url": "https://money.udn.com/money/story/5599/9140768",
@@ -63,6 +84,13 @@
       "url": "https://money.udn.com/money/story/5599/9140767",
       "source": "money.udn.com",
       "published": 1763138589
+    },
+    {
+      "id": "4ec5a1c91c99",
+      "title": "藍版財劃法修正案三讀",
+      "url": "https://udn.com/news/story/124401/9140754",
+      "source": "udn.com",
+      "published": 1763137783
     },
     {
       "id": "d2509c39e50f",
@@ -261,25 +289,11 @@
       "published": 1763130990
     },
     {
-      "id": "3bb91864f32a",
-      "title": "美股遭2大利空合擊  要止血務必守住這些關鍵價位",
-      "url": "https://money.udn.com/money/story/123398/9140687",
-      "source": "money.udn.com",
-      "published": 1763130750
-    },
-    {
       "id": "d4ba911d62d4",
       "title": "罕见反华抗议后  哈萨克斯坦宣布多人被捕",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251114-%E7%BD%95%E8%A7%81%E5%8F%8D%E5%8D%8E%E6%8A%97%E8%AE%AE%E5%90%8E-%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E5%AE%A3%E5%B8%83%E5%A4%9A%E4%BA%BA%E8%A2%AB%E6%8D%95",
       "source": "rfi.fr",
       "published": 1763130512
-    },
-    {
-      "id": "200deefa969a",
-      "title": "橋水Q2才增持輝達 Q3就大砍65%輝達持股 新敲進這兩檔股票",
-      "url": "https://money.udn.com/money/story/123398/9140682",
-      "source": "money.udn.com",
-      "published": 1763130471
     },
     {
       "id": "18c9a4b2b1f1",
@@ -401,25 +415,11 @@
       "published": 1763119150
     },
     {
-      "id": "d5e746bec48c",
-      "title": "台積電赴美投資  李淳：把神山「種」到美國維持全球核心地位",
-      "url": "https://udn.com/news/story/124621/9140406",
-      "source": "udn.com",
-      "published": 1763117386
-    },
-    {
       "id": "0cc03d60234d",
       "title": "“北京对我们的供应链金钥了如指掌”：欧盟被迫“开放”还是“自救”？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251114-%E5%8C%97%E4%BA%AC%E5%AF%B9%E6%88%91%E4%BB%AC%E7%9A%84%E4%BE%9B%E5%BA%94%E9%93%BE%E9%87%91%E9%92%A5%E4%BA%86%E5%A6%82%E6%8C%87%E6%8E%8C-%E6%AC%A7%E7%9B%9F%E8%A2%AB%E8%BF%AB-%E5%BC%80%E6%94%BE-%E8%BF%98%E6%98%AF-%E8%87%AA%E6%95%91",
       "source": "rfi.fr",
       "published": 1763117279
-    },
-    {
-      "id": "bb98480d9bf4",
-      "title": "施俊吉質疑美方未給協防承諾 李淳：台美安全保障不是對價關係",
-      "url": "https://udn.com/news/story/124621/9140401",
-      "source": "udn.com",
-      "published": 1763117252
     },
     {
       "id": "511c0ca046db",
@@ -1402,5 +1402,5 @@
       "published": 1760683112
     }
   ],
-  "build_id": 1763144089
+  "build_id": 1763146007
 }
