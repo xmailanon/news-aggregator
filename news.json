@@ -1,6 +1,20 @@
 {
-  "updated": 1763161775,
+  "updated": 1763163241,
   "items": [
+    {
+      "id": "68df14afeb30",
+      "title": "川普2.0首度對台軍售　韓儒伯：美助台維持高妥善率",
+      "url": "https://money.udn.com/money/story/10511/9141033",
+      "source": "money.udn.com",
+      "published": 1763163039
+    },
+    {
+      "id": "840f9f27f387",
+      "title": "對等關稅大倒退！川普簽行政命令 百項食品獲豁免",
+      "url": "https://money.udn.com/money/story/5599/9141031",
+      "source": "money.udn.com",
+      "published": 1763162867
+    },
     {
       "id": "e7357dc31ffb",
       "title": "美股漲跌互見 科技股反彈",
@@ -21,6 +35,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251114-%E8%B4%B9%E5%8A%A0%E7%BD%97%E6%8A%A5-%E8%AF%84-%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E4%BA%89%E5%A4%BA%E6%88%98-%E4%B8%AD%E5%9B%BD%E4%B8%80%E8%AE%B0%E5%8F%8D%E6%89%8B%E7%BB%99%E6%AC%A7%E6%B4%B2%E4%B8%8A%E4%BA%86%E5%A0%82%E5%B7%A5%E4%B8%9A%E8%AF%BE",
       "source": "rfi.fr",
       "published": 1763158028
+    },
+    {
+      "id": "1566cae78e7b",
+      "title": "國民黨主席鄭麗文首度接受外媒專訪 強調兩岸對話才能取代對抗",
+      "url": "https://udn.com/news/story/6656/9140739",
+      "source": "udn.com",
+      "published": 1763157780
     },
     {
       "id": "4625012624db",
@@ -219,20 +240,6 @@
       "published": 1763139775
     },
     {
-      "id": "e3bc89f3f295",
-      "title": "三星部分記憶體漲價 最高60%",
-      "url": "https://money.udn.com/money/story/5599/9140768",
-      "source": "money.udn.com",
-      "published": 1763138796
-    },
-    {
-      "id": "dce6e74de1c7",
-      "title": "輝達晶片限制銷陸 微軟、亞馬遜喊支持",
-      "url": "https://money.udn.com/money/story/5599/9140767",
-      "source": "money.udn.com",
-      "published": 1763138589
-    },
-    {
       "id": "4ec5a1c91c99",
       "title": "藍版財劃法修正案三讀",
       "url": "https://udn.com/news/story/124401/9140754",
@@ -350,13 +357,6 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251114-%E6%97%A5%E6%9C%AC%E5%92%8C%E5%8D%B0%E5%B0%BC%E5%B0%86%E5%9C%A8%E4%B8%9C%E4%BA%AC%E4%B8%BE%E8%A1%8C2-2%E4%BC%9A%E8%AE%AE",
       "source": "rfi.fr",
       "published": 1763132901
-    },
-    {
-      "id": "1566cae78e7b",
-      "title": "國民黨主席鄭麗文首度接受外媒專訪 強調兩岸對話才能取代對抗",
-      "url": "https://udn.com/news/story/6656/9140739",
-      "source": "udn.com",
-      "published": 1763132586
     },
     {
       "id": "944be8ba0ef0",
@@ -1402,5 +1402,5 @@
       "published": 1760683112
     }
   ],
-  "build_id": 1763161775
+  "build_id": 1763163241
 }
