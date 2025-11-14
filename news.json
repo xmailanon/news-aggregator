@@ -1,6 +1,34 @@
 {
-  "updated": 1763129419,
+  "updated": 1763131146,
   "items": [
+    {
+      "id": "d4ba911d62d4",
+      "title": "罕见反华抗议后  哈萨克斯坦宣布多人被捕",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251114-%E7%BD%95%E8%A7%81%E5%8F%8D%E5%8D%8E%E6%8A%97%E8%AE%AE%E5%90%8E-%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E5%AE%A3%E5%B8%83%E5%A4%9A%E4%BA%BA%E8%A2%AB%E6%8D%95",
+      "source": "rfi.fr",
+      "published": 1763130512
+    },
+    {
+      "id": "f39803d1fa2a",
+      "title": "高割離席？橋水Q2才增持輝達 Q3就大砍65%輝達持股 新敲進這兩檔股票",
+      "url": "https://money.udn.com/money/story/5599/9140682",
+      "source": "money.udn.com",
+      "published": 1763130471
+    },
+    {
+      "id": "51d49ac76073",
+      "title": "美國和韓國據悉談判聯合為兩國海軍建造核動力潛艇",
+      "url": "https://money.udn.com/money/story/5599/9139453",
+      "source": "money.udn.com",
+      "published": 1763130262
+    },
+    {
+      "id": "6f65f9aff05d",
+      "title": "美司法部對加州選區重劃案提告　阻民主黨取得國會多數計畫",
+      "url": "https://money.udn.com/money/story/10511/9140667",
+      "source": "money.udn.com",
+      "published": 1763129610
+    },
     {
       "id": "474466edf88b",
       "title": "AI融入愛情生活　日女披婚紗嫁自創ChatGPT男友",
@@ -212,25 +240,11 @@
       "published": 1763121274
     },
     {
-      "id": "ac565fc969d6",
-      "title": "韓國將與最大機構投資者國民年金公團協調行動 以穩定韓元匯率",
-      "url": "https://money.udn.com/money/story/5599/9140183",
-      "source": "money.udn.com",
-      "published": 1763121221
-    },
-    {
       "id": "1711109c9391",
       "title": "中国10月份零售增速持续放缓：结构调整面临相当大的压力",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251114-%E4%B8%AD%E5%9B%BD10%E6%9C%88%E4%BB%BD%E9%9B%B6%E5%94%AE%E5%A2%9E%E9%80%9F%E6%8C%81%E7%BB%AD%E6%94%BE%E7%BC%93-%E7%BB%93%E6%9E%84%E8%B0%83%E6%95%B4%E9%9D%A2%E4%B8%B4%E7%9B%B8%E5%BD%93%E5%A4%A7%E7%9A%84%E5%8E%8B%E5%8A%9B",
       "source": "rfi.fr",
       "published": 1763120843
-    },
-    {
-      "id": "590c3e5b1798",
-      "title": "烏克蘭襲擊俄羅斯黑海石油碼頭 俄軍攻擊基輔造成人員傷亡",
-      "url": "https://money.udn.com/money/story/5599/9140252",
-      "source": "money.udn.com",
-      "published": 1763120583
     },
     {
       "id": "1bbf55f79602",
@@ -245,13 +259,6 @@
       "url": "https://udn.com/news/story/124655/9140448",
       "source": "udn.com",
       "published": 1763120208
-    },
-    {
-      "id": "998a5f90acf7",
-      "title": "中美兩國據悉仍在商討有關中國大陸放寬稀土出口的關鍵細節",
-      "url": "https://money.udn.com/money/story/5599/9140420",
-      "source": "money.udn.com",
-      "published": 1763119920
     },
     {
       "id": "482a2cc645fe",
@@ -835,13 +842,6 @@
       "published": 1762992623
     },
     {
-      "id": "3fd44450059b",
-      "title": "做两面人 搞伪忠诚 张又侠警告谁",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251112-%E5%81%9A%E4%B8%A4%E9%9D%A2%E4%BA%BA-%E6%90%9E%E4%BC%AA%E5%BF%A0%E8%AF%9A-%E5%BC%A0%E5%8F%88%E4%BE%A0%E8%AD%A6%E5%91%8A%E8%B0%81",
-      "source": "rfi.fr",
-      "published": 1762987117
-    },
-    {
       "id": "88a1be3f4ef3",
       "title": "食品救济站和白宫奢华浴室：贫富两端的美国",
       "url": "https://cn.nytimes.com/usa/20251113/shutdown-trump-rich-poor/?utm_source=RSS",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1763129419
+  "build_id": 1763131146
 }
