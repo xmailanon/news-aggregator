@@ -1,6 +1,34 @@
 {
-  "updated": 1763095288,
+  "updated": 1763097026,
   "items": [
+    {
+      "id": "4f2c47e7d7f1",
+      "title": "美媒：亞馬遜微軟挺立法　限制輝達對中出口晶片",
+      "url": "https://money.udn.com/money/story/5599/9139558",
+      "source": "money.udn.com",
+      "published": 1763097158
+    },
+    {
+      "id": "bf678fba9c82",
+      "title": "傳美要求台投資破10兆 黃國昌：關稅可以降到多少？",
+      "url": "https://udn.com/news/story/124621/9139542",
+      "source": "udn.com",
+      "published": 1763096625
+    },
+    {
+      "id": "a61a521042a8",
+      "title": "滿足基層醫療需求 醫官菜鳥先下部隊！完成專科者補服2年隊勤",
+      "url": "https://udn.com/news/story/10930/9139515",
+      "source": "udn.com",
+      "published": 1763096086
+    },
+    {
+      "id": "45ddb22c8834",
+      "title": "遭批恐助長毒梟　哥國總統撤回停止與美共享情報命令",
+      "url": "https://money.udn.com/money/story/10511/9139513",
+      "source": "money.udn.com",
+      "published": 1763096073
+    },
     {
       "id": "badf90b12138",
       "title": "川普政府擬擴大關稅豁免範圍　壓低食品價格",
@@ -17,7 +45,7 @@
     },
     {
       "id": "57fbc7e3c347",
-      "title": "AI估值翻車怎麼辦？川普政府說不紓困 美智庫提解方",
+      "title": "AI 估值翻車怎麼辦？川普政府說不紓困 美智庫提解方",
       "url": "https://money.udn.com/money/story/5599/9139481",
       "source": "money.udn.com",
       "published": 1763095082
@@ -192,7 +220,7 @@
     },
     {
       "id": "703d628b8d40",
-      "title": "不只遭陸懸賞！網驚現斬殺閩南狼、八炯 盧秀燕：在台中鬧事絕不寬貸",
+      "title": "不只遭陸懸賞！網驚現斬殺閩南狼 盧秀燕：在台中鬧事絕不寬貸",
       "url": "https://udn.com/news/story/124655/9139261",
       "source": "udn.com",
       "published": 1763090792
@@ -247,25 +275,11 @@
       "published": 1763088851
     },
     {
-      "id": "5f1bdc216756",
-      "title": "蜜雪兒歐巴馬白禮服助吳季剛成名　新書揭秘時尚歷程",
-      "url": "https://money.udn.com/money/story/10511/9139154",
-      "source": "money.udn.com",
-      "published": 1763088390
-    },
-    {
       "id": "68baa0e735ed",
       "title": "藍營民調／賴總統滿意度未突破同溫層 打詐、司法信任過半不滿意",
       "url": "https://udn.com/news/story/6656/9139151",
       "source": "udn.com",
       "published": 1763088266
-    },
-    {
-      "id": "0cac45bd803c",
-      "title": "輝達 AI 晶片爭奪戰加劇！傳亞馬遜、微軟支持法案 加強限制晶片出口",
-      "url": "https://money.udn.com/money/story/5599/9139135",
-      "source": "money.udn.com",
-      "published": 1763088044
     },
     {
       "id": "d98f71d9ec82",
@@ -303,25 +317,11 @@
       "published": 1763087356
     },
     {
-      "id": "d72c66e58917",
-      "title": "高嘉瑜爆北市官網出現「上海區公所」社會局長要求致歉：錯誤訊息",
-      "url": "https://udn.com/news/story/6656/9139105",
-      "source": "udn.com",
-      "published": 1763087030
-    },
-    {
       "id": "77d89377b695",
       "title": "中国和欧盟结成“绿色联盟”的愿望，注定是难以实现的！",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251114-%E8%81%94%E5%90%88%E5%9B%BD%E6%B0%94%E5%80%99%E5%A4%A7%E4%BC%9A%E6%98%BE%E7%A4%BA-%E4%B8%AD%E6%AC%A7-%E7%BB%BF%E8%89%B2%E8%81%94%E7%9B%9F-%E4%BB%8D%E6%98%AF%E5%B9%BB%E6%83%B3",
       "source": "rfi.fr",
       "published": 1763086975
-    },
-    {
-      "id": "3dfe621d50d8",
-      "title": "柯承亨轉任國防院執行長 今日正式就任",
-      "url": "https://udn.com/news/story/10930/9139090",
-      "source": "udn.com",
-      "published": 1763086851
     },
     {
       "id": "ee9c3db01f9e",
@@ -1393,14 +1393,7 @@
       "url": "https://www.bbc.com/zhongwen/articles/c14plpy2kjeo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1760683112
-    },
-    {
-      "id": "71c98b4f0d61",
-      "title": "英美制裁跨國網詐首腦 揭太子集團詐騙帝國黑幕",
-      "url": "https://www.dw.com/zh/英美制裁跨國網詐首腦-揭太子集團詐騙帝國黑幕/a-74359140?maca=chi-rss-chi-news-3224-rdf",
-      "source": "dw.com",
-      "published": 1760505000
     }
   ],
-  "build_id": 1763095288
+  "build_id": 1763097026
 }
