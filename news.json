@@ -1,6 +1,62 @@
 {
-  "updated": 1763146007,
+  "updated": 1763147286,
   "items": [
+    {
+      "id": "df94645770eb",
+      "title": "降低依賴美 歐擬整合美元儲備",
+      "url": "https://money.udn.com/money/story/5599/9140724",
+      "source": "money.udn.com",
+      "published": 1763147139
+    },
+    {
+      "id": "72721c815202",
+      "title": "南韓挺電動車 將擴大金援",
+      "url": "https://money.udn.com/money/story/5599/9140722",
+      "source": "money.udn.com",
+      "published": 1763147101
+    },
+    {
+      "id": "fab61fb791ec",
+      "title": "美緊縮簽證 考量肥胖因素",
+      "url": "https://money.udn.com/money/story/5599/9140726",
+      "source": "money.udn.com",
+      "published": 1763147082
+    },
+    {
+      "id": "cb4504a4faa6",
+      "title": "1分鐘看世界／歷峰上半年度營收增一成 反映美中珠寶需求回升",
+      "url": "https://money.udn.com/money/story/5599/9140741",
+      "source": "money.udn.com",
+      "published": 1763147003
+    },
+    {
+      "id": "76a6400fe28f",
+      "title": "波克夏發日圓債 規模大增",
+      "url": "https://money.udn.com/money/story/5599/9140731",
+      "source": "money.udn.com",
+      "published": 1763146946
+    },
+    {
+      "id": "cc2b2a0ff3c4",
+      "title": "貝佐斯旗下  藍源火箭任務報捷",
+      "url": "https://money.udn.com/money/story/5599/9140733",
+      "source": "money.udn.com",
+      "published": 1763146873
+    },
+    {
+      "id": "73831ba64371",
+      "title": "應材財測冷颼颼 股價崩",
+      "url": "https://money.udn.com/money/story/123398/9140735",
+      "source": "money.udn.com",
+      "published": 1763146816
+    },
+    {
+      "id": "f6c1a4c22de8",
+      "title": "企業人力支出面臨緊縮",
+      "url": "https://money.udn.com/money/story/5599/9140734",
+      "source": "money.udn.com",
+      "published": 1763146784
+    },
     {
       "id": "f1824f6e7a21",
       "title": "COP30直擊／衝突再升溫！抗議者強勢阻擋入口 峰會大門一度關閉",
@@ -91,6 +147,20 @@
       "url": "https://udn.com/news/story/124401/9140754",
       "source": "udn.com",
       "published": 1763137783
+    },
+    {
+      "id": "e7900b172c62",
+      "title": "張善政表態爭取連任桃園市長 不在意綠營派誰",
+      "url": "https://udn.com/news/story/124652/9140681",
+      "source": "udn.com",
+      "published": 1763137658
+    },
+    {
+      "id": "050627bff999",
+      "title": "新聞眼／張善政罕見上前線消毒 為2026選戰鋪路？",
+      "url": "https://udn.com/news/story/124652/9140678",
+      "source": "udn.com",
+      "published": 1763137600
     },
     {
       "id": "d2509c39e50f",
@@ -219,18 +289,11 @@
       "published": 1763132901
     },
     {
-      "id": "a21776f66c33",
+      "id": "1566cae78e7b",
       "title": "國民黨主席鄭麗文首度接受外媒專訪 強調兩岸對話才能取代對抗",
-      "url": "https://money.udn.com/money/story/5599/9140739",
-      "source": "money.udn.com",
-      "published": 1763132610
-    },
-    {
-      "id": "acfc57ec4284",
-      "title": "聖路易斯聯準總裁：央行需要繼續抑制通膨",
-      "url": "https://money.udn.com/money/story/5599/9138901",
-      "source": "money.udn.com",
-      "published": 1763132590
+      "url": "https://udn.com/news/story/6656/9140739",
+      "source": "udn.com",
+      "published": 1763132586
     },
     {
       "id": "944be8ba0ef0",
@@ -240,53 +303,11 @@
       "published": 1763132444
     },
     {
-      "id": "3c2d02254590",
-      "title": "美國瑞士「基本」達成協議 關稅降至15% 還有這些條件...",
-      "url": "https://money.udn.com/money/story/5599/9140716",
-      "source": "money.udn.com",
-      "published": 1763132311
-    },
-    {
-      "id": "b260eecca661",
-      "title": "台灣也快了？美宣布與瑞士達成協議 關稅從39%砍至15%",
-      "url": "https://money.udn.com/money/story/5599/9140706",
-      "source": "money.udn.com",
-      "published": 1763132011
-    },
-    {
       "id": "eaad48f56a90",
       "title": "希音（Shein）在法国增开5家门店计划被推迟",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251114-%E5%B8%8C%E9%9F%B3-shein-%E5%9C%A8%E6%B3%95%E5%9B%BD%E5%A2%9E%E5%BC%805%E5%AE%B6%E9%97%A8%E5%BA%97%E8%AE%A1%E5%88%92%E8%A2%AB%E6%8E%A8%E8%BF%9F",
       "source": "rfi.fr",
       "published": 1763131898
-    },
-    {
-      "id": "7bb030d2ccf6",
-      "title": "川普擬顯著調降關稅並宣布與多國的架構協議 以應對食品等高物價",
-      "url": "https://money.udn.com/money/story/5599/9139116",
-      "source": "money.udn.com",
-      "published": 1763131715
-    },
-    {
-      "id": "500791ffa770",
-      "title": "加拿大考慮對礦業和稀土進行股權投資 來應對中國大陸主導供應的局面",
-      "url": "https://money.udn.com/money/story/5599/9139117",
-      "source": "money.udn.com",
-      "published": 1763131441
-    },
-    {
-      "id": "ded16b492bd9",
-      "title": "美零售巨擘沃爾瑪執行長董明倫將於明年1月卸任 由美國區總裁弗納接任",
-      "url": "https://money.udn.com/money/story/5599/9140692",
-      "source": "money.udn.com",
-      "published": 1763131429
-    },
-    {
-      "id": "1f8924e44843",
-      "title": "用俄遭凍結資產援烏呼聲漸高　比利時壓力日增",
-      "url": "https://money.udn.com/money/story/5599/9140688",
-      "source": "money.udn.com",
-      "published": 1763130990
     },
     {
       "id": "d4ba911d62d4",
@@ -392,27 +413,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251114-%E4%B8%AD%E5%9B%BD10%E6%9C%88%E4%BB%BD%E9%9B%B6%E5%94%AE%E5%A2%9E%E9%80%9F%E6%8C%81%E7%BB%AD%E6%94%BE%E7%BC%93-%E7%BB%93%E6%9E%84%E8%B0%83%E6%95%B4%E9%9D%A2%E4%B8%B4%E7%9B%B8%E5%BD%93%E5%A4%A7%E7%9A%84%E5%8E%8B%E5%8A%9B",
       "source": "rfi.fr",
       "published": 1763120843
-    },
-    {
-      "id": "1bbf55f79602",
-      "title": "中共揚言全球抓捕沈伯洋 國際刑警組織：紅色通緝不得涉政治",
-      "url": "https://udn.com/news/story/124655/9140449",
-      "source": "udn.com",
-      "published": 1763120492
-    },
-    {
-      "id": "8662211a1882",
-      "title": "民進黨團提案譴責中共跨境鎮壓 立院逕付二讀交協商",
-      "url": "https://udn.com/news/story/124655/9140448",
-      "source": "udn.com",
-      "published": 1763120208
-    },
-    {
-      "id": "ffea80f3135f",
-      "title": "新版財劃法再次修正三讀 卓揆：遺憾立院再次修惡",
-      "url": "https://udn.com/news/story/124401/9140439",
-      "source": "udn.com",
-      "published": 1763119150
     },
     {
       "id": "0cc03d60234d",
@@ -1402,5 +1402,5 @@
       "published": 1760683112
     }
   ],
-  "build_id": 1763146007
+  "build_id": 1763147286
 }
