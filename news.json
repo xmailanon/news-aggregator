@@ -1,6 +1,13 @@
 {
-  "updated": 1763196030,
+  "updated": 1763197770,
   "items": [
+    {
+      "id": "f1bd3567370a",
+      "title": "特朗普要求司法部调查爱泼斯坦与政商名人关系 众院下周表决强制公开案卷",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251115-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E5%8F%B8%E6%B3%95%E9%83%A8%E8%B0%83%E6%9F%A5%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E4%B8%8E%E6%94%BF%E5%95%86%E5%90%8D%E4%BA%BA%E5%85%B3%E7%B3%BB-%E4%BC%97%E9%99%A2%E4%B8%8B%E5%91%A8%E8%A1%A8%E5%86%B3%E5%BC%BA%E5%88%B6%E5%85%AC%E5%BC%80%E6%A1%88%E5%8D%B7",
+      "source": "rfi.fr",
+      "published": 1763197014
+    },
     {
       "id": "a19daa2274e5",
       "title": "輝達財報在望！逢低買盤繼續發威 那斯達克寫下4月來最大反攻",
@@ -10,7 +17,7 @@
     },
     {
       "id": "bf7fea2b70c9",
-      "title": "採購法草案新增訪價需公告 凸顯中油三接浮報工程費法律漏洞",
+      "title": "「不缺錢」中油三階工程費疑浮報近160億 採購法草案增這條防漏洞",
       "url": "https://udn.com/news/story/6656/9141774",
       "source": "udn.com",
       "published": 1763195744
@@ -525,13 +532,6 @@
       "url": "https://www.dw.com/zh/摆脱衰退但未真正复苏-经济五贤人-谏言德国政府/a-74743364?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763116380
-    },
-    {
-      "id": "81b795298054",
-      "title": "政府重开门，美国仍难回“正常”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20251114-%E6%94%BF%E5%BA%9C%E9%87%8D%E5%BC%80%E9%97%A8%EF%BC%8C%E7%BE%8E%E5%9B%BD%E4%BB%8D%E9%9A%BE%E5%9B%9E-%E6%AD%A3%E5%B8%B8",
-      "source": "rfi.fr",
-      "published": 1763115221
     },
     {
       "id": "9f15600e9129",
@@ -1402,5 +1402,5 @@
       "published": 1760683112
     }
   ],
-  "build_id": 1763196030
+  "build_id": 1763197770
 }
