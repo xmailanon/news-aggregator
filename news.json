@@ -1,12 +1,33 @@
 {
-  "updated": 1763248149,
+  "updated": 1763249577,
   "items": [
+    {
+      "id": "e641f5f8a369",
+      "title": "台灣天燈快閃倫敦市集　英國民眾一早排隊盼赴台旅遊",
+      "url": "https://money.udn.com/money/story/5599/9142392",
+      "source": "money.udn.com",
+      "published": 1763249451
+    },
+    {
+      "id": "b9a7deb2e1cf",
+      "title": "刚果(金)东部和平多哈签框架",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251115-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E4%B8%9C%E9%83%A8%E5%92%8C%E5%B9%B3%E5%A4%9A%E5%93%88%E7%AD%BE%E6%A1%86%E6%9E%B6",
+      "source": "rfi.fr",
+      "published": 1763247212
+    },
     {
       "id": "51748cc00a3f",
       "title": "COP30直擊／氣候遊行圖輯：一場嘉年華狂歡過後，地球的明天呢？",
       "url": "https://money.udn.com/money/story/5599/9142383",
       "source": "money.udn.com",
       "published": 1763247096
+    },
+    {
+      "id": "dc91183c44ec",
+      "title": "喊人人致電韓國瑜阻新財劃法 黃國昌批綠委：淪為行政權附庸大可辭職",
+      "url": "https://udn.com/news/story/124401/9142323",
+      "source": "udn.com",
+      "published": 1763246370
     },
     {
       "id": "d86846f2c140",
@@ -147,13 +168,6 @@
       "url": "https://money.udn.com/money/story/123398/9142217",
       "source": "money.udn.com",
       "published": 1763229016
-    },
-    {
-      "id": "dc91183c44ec",
-      "title": "喊人人致電韓國瑜阻新財劃法 黃國昌批綠委：淪為行政權附庸大可辭職",
-      "url": "https://udn.com/news/story/124401/9142323",
-      "source": "udn.com",
-      "published": 1763228370
     },
     {
       "id": "0651917248de",
@@ -315,13 +329,6 @@
       "url": "https://money.udn.com/money/story/10511/9142155",
       "source": "money.udn.com",
       "published": 1763219055
-    },
-    {
-      "id": "1a20cd26d0e6",
-      "title": "發現未獲許可貨物 伊朗查扣一艘波斯灣油輪",
-      "url": "https://money.udn.com/money/story/5599/9142150",
-      "source": "money.udn.com",
-      "published": 1763218949
     },
     {
       "id": "f7036ac88a0a",
@@ -492,18 +499,18 @@
       "published": 1763158028
     },
     {
-      "id": "fa9e3d5ae5da",
-      "title": "2025爱丽舍宫法国制造展16日开幕",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251114-2025%E7%88%B1%E4%B8%BD%E8%88%8D%E5%AE%AB%E6%B3%95%E5%9B%BD%E5%88%B6%E9%80%A0%E5%B1%9516%E6%97%A5%E5%BC%80%E5%B9%95",
-      "source": "rfi.fr",
-      "published": 1763155093
-    },
-    {
       "id": "e47178a702ef",
       "title": "“外强中干”的祖国让中国人感到绝望",
       "url": "https://cn.nytimes.com/opinion/20251114/china-politics-social-public-mood/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1763148805
+    },
+    {
+      "id": "eeab9edf89cb",
+      "title": "埃及学教授领导联合国教科文",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C/20251114-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C-%E7%AC%AC137%E9%9B%86-%E5%9F%83%E5%8F%8A%E5%AD%A6%E6%95%99%E6%8E%88%E9%A2%86%E5%AF%BC%E8%81%94%E5%90%88%E5%9B%BD%E6%95%99%E7%A7%91%E6%96%87",
+      "source": "rfi.fr",
+      "published": 1763140896
     },
     {
       "id": "d399e7677a2f",
@@ -534,11 +541,11 @@
       "published": 1763132940
     },
     {
-      "id": "d4ba911d62d4",
-      "title": "罕见反华抗议后  哈萨克斯坦宣布多人被捕",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251114-%E7%BD%95%E8%A7%81%E5%8F%8D%E5%8D%8E%E6%8A%97%E8%AE%AE%E5%90%8E-%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E5%AE%A3%E5%B8%83%E5%A4%9A%E4%BA%BA%E8%A2%AB%E6%8D%95",
+      "id": "944be8ba0ef0",
+      "title": "教科文新任总干事言优先任务",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251114-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E5%9B%BD-%E4%B8%AD%E4%B8%9C-%E6%95%99%E7%A7%91%E6%96%87%E6%96%B0%E4%BB%BB%E6%80%BB%E5%B9%B2%E4%BA%8B%E8%A8%80%E4%BC%98%E5%85%88%E4%BB%BB%E5%8A%A1",
       "source": "rfi.fr",
-      "published": 1763130512
+      "published": 1763132444
     },
     {
       "id": "f252a4c03935",
@@ -567,13 +574,6 @@
       "url": "https://www.dw.com/zh/特朗普二任首度对台军售-中国表达强烈不满/a-74746440?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763122020
-    },
-    {
-      "id": "1711109c9391",
-      "title": "中国10月份零售增速持续放缓：结构调整面临相当大的压力",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251114-%E4%B8%AD%E5%9B%BD10%E6%9C%88%E4%BB%BD%E9%9B%B6%E5%94%AE%E5%A2%9E%E9%80%9F%E6%8C%81%E7%BB%AD%E6%94%BE%E7%BC%93-%E7%BB%93%E6%9E%84%E8%B0%83%E6%95%B4%E9%9D%A2%E4%B8%B4%E7%9B%B8%E5%BD%93%E5%A4%A7%E7%9A%84%E5%8E%8B%E5%8A%9B",
-      "source": "rfi.fr",
-      "published": 1763120843
     },
     {
       "id": "511c0ca046db",
@@ -1402,5 +1402,5 @@
       "published": 1760693820
     }
   ],
-  "build_id": 1763248149
+  "build_id": 1763249577
 }
