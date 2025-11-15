@@ -1,6 +1,34 @@
 {
-  "updated": 1763203085,
+  "updated": 1763204833,
   "items": [
+    {
+      "id": "5c7e10bdf06d",
+      "title": "8日解除管制 文雅畜牧場隔日出貨雞蛋「芬普尼又超標」 食藥署這樣說",
+      "url": "https://udn.com/news/story/7314/9141928",
+      "source": "udn.com",
+      "published": 1763204804
+    },
+    {
+      "id": "13ae0f262378",
+      "title": "印尼中爪哇省連日豪雨釀山崩　增至6死17失蹤",
+      "url": "https://money.udn.com/money/story/5599/9141927",
+      "source": "money.udn.com",
+      "published": 1763204789
+    },
+    {
+      "id": "80bbe0990db0",
+      "title": "歐洲汽車生產商據稱要求供應商尋找中國產半導體的永久性替代品",
+      "url": "https://money.udn.com/money/story/5599/9140979",
+      "source": "money.udn.com",
+      "published": 1763204429
+    },
+    {
+      "id": "162a23d3c1a6",
+      "title": "閃電訪陸最後一天 張榮恭提「和陸興台」",
+      "url": "https://udn.com/news/story/6656/9141924",
+      "source": "udn.com",
+      "published": 1763204425
+    },
     {
       "id": "fdc8e4ab1334",
       "title": "林俊憲下營後援會成立拚台南市長初選「會贏」 高大成：他準備好了",
@@ -24,7 +52,7 @@
     },
     {
       "id": "7072cdb10ec2",
-      "title": "Apple Watch血氧偵測遭判侵權　蘋果須賠逾6億美元",
+      "title": "Apple Watch 血氧偵測遭判侵權 蘋果須賠逾6億美元",
       "url": "https://money.udn.com/money/story/5599/9141903",
       "source": "money.udn.com",
       "published": 1763202648
@@ -247,20 +275,6 @@
       "published": 1763189137
     },
     {
-      "id": "886b84ea29b4",
-      "title": "中國籲公民暫勿赴日 日本回應多層次溝通很重要",
-      "url": "https://money.udn.com/money/story/5599/9141647",
-      "source": "money.udn.com",
-      "published": 1763188238
-    },
-    {
-      "id": "d09072028ecc",
-      "title": "消息人士：印度克什米爾警察局發生爆炸　釀9死29傷",
-      "url": "https://money.udn.com/money/story/5599/9141646",
-      "source": "money.udn.com",
-      "published": 1763188238
-    },
-    {
       "id": "5ab22c3a278d",
       "title": "林佳龍歡迎聖克里斯多福總理　感謝堅定支持台灣",
       "url": "https://udn.com/news/story/6656/9141540",
@@ -322,20 +336,6 @@
       "url": "https://udn.com/news/story/6656/9141399",
       "source": "udn.com",
       "published": 1763183231
-    },
-    {
-      "id": "ab1308ce4412",
-      "title": "鄭麗文會晤英駐台代表 英方關切國民黨發展",
-      "url": "https://udn.com/news/story/6656/9141479",
-      "source": "udn.com",
-      "published": 1763181845
-    },
-    {
-      "id": "0c4023d9543a",
-      "title": "馬英九批高市早苗涉台發言 陳冠廷：遺憾以北京視角評論",
-      "url": "https://udn.com/news/story/6656/9141462",
-      "source": "udn.com",
-      "published": 1763180960
     },
     {
       "id": "2b8741174290",
@@ -541,13 +541,6 @@
       "published": 1763121979
     },
     {
-      "id": "1711109c9391",
-      "title": "中国10月份零售增速持续放缓：结构调整面临相当大的压力",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251114-%E4%B8%AD%E5%9B%BD10%E6%9C%88%E4%BB%BD%E9%9B%B6%E5%94%AE%E5%A2%9E%E9%80%9F%E6%8C%81%E7%BB%AD%E6%94%BE%E7%BC%93-%E7%BB%93%E6%9E%84%E8%B0%83%E6%95%B4%E9%9D%A2%E4%B8%B4%E7%9B%B8%E5%BD%93%E5%A4%A7%E7%9A%84%E5%8E%8B%E5%8A%9B",
-      "source": "rfi.fr",
-      "published": 1763120843
-    },
-    {
       "id": "0cc03d60234d",
       "title": "“北京对我们的供应链金钥了如指掌”：欧盟被迫“开放”还是“自救”？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251114-%E5%8C%97%E4%BA%AC%E5%AF%B9%E6%88%91%E4%BB%AC%E7%9A%84%E4%BE%9B%E5%BA%94%E9%93%BE%E9%87%91%E9%92%A5%E4%BA%86%E5%A6%82%E6%8C%87%E6%8E%8C-%E6%AC%A7%E7%9B%9F%E8%A2%AB%E8%BF%AB-%E5%BC%80%E6%94%BE-%E8%BF%98%E6%98%AF-%E8%87%AA%E6%95%91",
@@ -581,6 +574,13 @@
       "url": "https://www.bbc.com/zhongwen/articles/c5yp3nj3l11o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1763106012
+    },
+    {
+      "id": "54284ece05a8",
+      "title": "稀土：中国计划管制出口，尤其针对美国军方",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251114-%E7%A8%80%E5%9C%9F-%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E7%AE%A1%E5%88%B6%E5%87%BA%E5%8F%A3%EF%BC%8C%E5%B0%A4%E5%85%B6%E6%98%AF%E9%92%88%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%86%9B%E6%96%B9",
+      "source": "rfi.fr",
+      "published": 1763105704
     },
     {
       "id": "6320e8980eda",
@@ -1402,5 +1402,5 @@
       "published": 1760683112
     }
   ],
-  "build_id": 1763203085
+  "build_id": 1763204833
 }
