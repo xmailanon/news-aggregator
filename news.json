@@ -1,6 +1,20 @@
 {
-  "updated": 1763187251,
+  "updated": 1763189066,
   "items": [
+    {
+      "id": "5ab22c3a278d",
+      "title": "林佳龍歡迎聖克里斯多福總理　感謝堅定支持台灣",
+      "url": "https://udn.com/news/story/6656/9141540",
+      "source": "udn.com",
+      "published": 1763187514
+    },
+    {
+      "id": "d9f4017a054c",
+      "title": "林佳龍籲外媒避免自我審查  正常稱呼看待台灣",
+      "url": "https://udn.com/news/story/6656/9141614",
+      "source": "udn.com",
+      "published": 1763187486
+    },
     {
       "id": "1901c187fd98",
       "title": "造價470元賣147萬　美陸軍部長批軍火商坑自家人",
@@ -273,20 +287,6 @@
       "url": "https://money.udn.com/money/story/10511/9141271",
       "source": "money.udn.com",
       "published": 1763174731
-    },
-    {
-      "id": "8a91a29266a9",
-      "title": "民進黨2026初選登記截止 高雄4搶1、台南妃憲對決",
-      "url": "https://udn.com/news/story/124652/9141212",
-      "source": "udn.com",
-      "published": 1763173444
-    },
-    {
-      "id": "a8d69cb55afa",
-      "title": "高市早苗涉台言論 馬英九：錯引集體自衛權 攪動台海情勢",
-      "url": "https://udn.com/news/story/6656/9141207",
-      "source": "udn.com",
-      "published": 1763173348
     },
     {
       "id": "2b8741174290",
@@ -1402,5 +1402,5 @@
       "published": 1760683112
     }
   ],
-  "build_id": 1763187251
+  "build_id": 1763189066
 }
