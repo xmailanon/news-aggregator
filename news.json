@@ -1,6 +1,41 @@
 {
-  "updated": 1763191927,
+  "updated": 1763194336,
   "items": [
+    {
+      "id": "77aad1ab6025",
+      "title": "中国当局呼吁避免赴日旅游  将重创日本旅游业和零售业",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251115-%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E5%91%BC%E5%90%81%E9%81%BF%E5%85%8D%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8-%E5%B0%86%E9%87%8D%E5%88%9B%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E5%92%8C%E9%9B%B6%E5%94%AE%E4%B8%9A",
+      "source": "rfi.fr",
+      "published": 1763194252
+    },
+    {
+      "id": "b4afaa182108",
+      "title": "政院最快20日提院版財劃法 全盤修正水平垂直事權",
+      "url": "https://udn.com/news/story/124401/9141730",
+      "source": "udn.com",
+      "published": 1763193289
+    },
+    {
+      "id": "c1ec76f861fb",
+      "title": "美對台3.3億美元軍售 軍事專家揭關鍵：利用遊戲規則的政治操作",
+      "url": "https://udn.com/news/story/10930/9141728",
+      "source": "udn.com",
+      "published": 1763192747
+    },
+    {
+      "id": "499409df61dc",
+      "title": "夏季旅日消費陸客居冠！中國用觀光施壓高市 日方：難接受已提交涉",
+      "url": "https://money.udn.com/money/story/5599/9141725",
+      "source": "money.udn.com",
+      "published": 1763192553
+    },
+    {
+      "id": "e98082234972",
+      "title": "中日關係緊張 總統府：盼中國勿成國際社會麻煩製造者",
+      "url": "https://udn.com/news/story/6656/9141719",
+      "source": "udn.com",
+      "published": 1763191965
+    },
     {
       "id": "786d61e8f9f4",
       "title": "老靈魂的新日常1／舊未必不如新！抗拒、甚至逆轉數位革命者大有人在",
@@ -35,6 +70,13 @@
       "url": "https://udn.com/news/story/124652/9141672",
       "source": "udn.com",
       "published": 1763189404
+    },
+    {
+      "id": "c17c17f8d396",
+      "title": "駁斥AI泡沫論　Splunk高層：提升生產力改變數據價值",
+      "url": "https://money.udn.com/money/story/5599/9141670",
+      "source": "money.udn.com",
+      "published": 1763189143
     },
     {
       "id": "dbbd089d609e",
@@ -240,20 +282,6 @@
       "published": 1763179571
     },
     {
-      "id": "aa533fd12b89",
-      "title": "COP30直擊／ AI、太空科技助抗氣候變遷 「需保持透明度」才能獲信任",
-      "url": "https://money.udn.com/money/story/5599/9141423",
-      "source": "money.udn.com",
-      "published": 1763179370
-    },
-    {
-      "id": "5d2c9907483b",
-      "title": "「首相自己把國家引向危機」 日在野黨議員質疑高市發言",
-      "url": "https://money.udn.com/money/story/5599/9141410",
-      "source": "money.udn.com",
-      "published": 1763179191
-    },
-    {
       "id": "96c0cd8e99e2",
       "title": "卓榮泰批財劃法修正是修惡 侯友宜反問：至今未看到行政院版本",
       "url": "https://udn.com/news/story/124401/9141401",
@@ -266,27 +294,6 @@
       "url": "https://udn.com/news/story/124401/9141365",
       "source": "udn.com",
       "published": 1763177496
-    },
-    {
-      "id": "c912f7f3fde6",
-      "title": "結束訪歐行程返台 蔡英文：台灣需要我 我就會在",
-      "url": "https://udn.com/news/story/6656/9141351",
-      "source": "udn.com",
-      "published": 1763177315
-    },
-    {
-      "id": "6bb821fa8381",
-      "title": "薛瑞福：全社會防衛韌性是台灣堅定面對中共進犯關鍵",
-      "url": "https://udn.com/news/story/10930/9141190",
-      "source": "udn.com",
-      "published": 1763175589
-    },
-    {
-      "id": "976f9d805bc8",
-      "title": "美日台兵推促指管鏈結 薛瑞福：台灣須建立聯戰空間意識",
-      "url": "https://udn.com/news/story/10930/9141189",
-      "source": "udn.com",
-      "published": 1763175587
     },
     {
       "id": "2b8741174290",
@@ -357,6 +364,13 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251114-%E4%BF%84%E6%B0%94%E5%80%99%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E6%89%B9%E6%AC%A7%E6%B4%B2%E5%9B%BD%E5%AE%B6%E4%B8%8D%E5%85%91%E7%8E%B0%E6%B0%94%E5%80%99%E6%89%BF%E8%AF%BA",
       "source": "rfi.fr",
       "published": 1763154259
+    },
+    {
+      "id": "e47178a702ef",
+      "title": "“外强中干”的祖国让中国人感到绝望",
+      "url": "https://cn.nytimes.com/opinion/20251114/china-politics-social-public-mood/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1763148805
     },
     {
       "id": "eeab9edf89cb",
@@ -569,13 +583,6 @@
       "published": 1763104955
     },
     {
-      "id": "a4ed875291a5",
-      "title": "「香港议会」首案：19岁女因助拍宣传片囚12个月 官指涉国际元素要加刑",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251114-%E9%A6%99%E6%B8%AF%E8%AE%AE%E4%BC%9A-%E9%A6%96%E6%A1%88-19%E5%B2%81%E5%A5%B3%E5%9B%A0%E5%8A%A9%E6%8B%8D%E5%AE%A3%E4%BC%A0%E7%89%87%E5%9B%9A12%E4%B8%AA%E6%9C%88-%E5%AE%98%E6%8C%87%E6%B6%89%E5%9B%BD%E9%99%85%E5%85%83%E7%B4%A0%E8%A6%81%E5%8A%A0%E5%88%91",
-      "source": "rfi.fr",
-      "published": 1763104673
-    },
-    {
       "id": "582aef50d878",
       "title": "BBC就《廣角鏡》節目剪輯事件向特朗普道歉，但拒絕支付賠償金",
       "url": "https://www.bbc.com/zhongwen/articles/c4gpjn528gwo/trad?at_medium=RSS&at_campaign=rss",
@@ -623,13 +630,6 @@
       "url": "https://cn.nytimes.com/world/20251114/scam-center-she-zhijiang-extradited-china/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1763083362
-    },
-    {
-      "id": "e47178a702ef",
-      "title": "“外强中干”的祖国让中国人感到绝望",
-      "url": "https://cn.nytimes.com/opinion/20251114/china-politics-social-public-mood/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1763082284
     },
     {
       "id": "610146f2d9ee",
@@ -1402,5 +1402,5 @@
       "published": 1760683112
     }
   ],
-  "build_id": 1763191927
+  "build_id": 1763194336
 }
