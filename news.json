@@ -1,6 +1,48 @@
 {
-  "updated": 1763309420,
+  "updated": 1763311277,
   "items": [
+    {
+      "id": "3a21d6f48e92",
+      "title": "鄭麗文扛國民黨財務 6000萬元缺口待補",
+      "url": "https://udn.com/news/story/6656/9143636",
+      "source": "udn.com",
+      "published": 1763310554
+    },
+    {
+      "id": "ba1da0f92cc3",
+      "title": "觀察站／財劃法修正 打不過才提案 朝野能良性溝通？",
+      "url": "https://udn.com/news/story/6656/9143637",
+      "source": "udn.com",
+      "published": 1763310482
+    },
+    {
+      "id": "f82734fb78cb",
+      "title": "政院版財劃法 最快周四行政院會通過",
+      "url": "https://udn.com/news/story/6656/9143635",
+      "source": "udn.com",
+      "published": 1763310402
+    },
+    {
+      "id": "5a2baadcbc1f",
+      "title": "鄭麗文、黃國昌本周會面 全程公開",
+      "url": "https://udn.com/news/story/6656/9143633",
+      "source": "udn.com",
+      "published": 1763310284
+    },
+    {
+      "id": "de47873bb76b",
+      "title": "普發現金變「行政院發」 在野黨批割稻尾",
+      "url": "https://udn.com/news/story/6656/9143638",
+      "source": "udn.com",
+      "published": 1763310205
+    },
+    {
+      "id": "e24a03b8ef61",
+      "title": "總統凱道跳街舞",
+      "url": "https://udn.com/news/story/6656/9143641",
+      "source": "udn.com",
+      "published": 1763310152
+    },
     {
       "id": "e89ad6988748",
       "title": "歷史上的今天／1961年美籍女豎琴家狄玲訪台演奏講學",
@@ -37,9 +79,16 @@
       "published": 1763308800
     },
     {
-      "id": "6d2e39ef4df4",
-      "title": "賴清德總統憂這件事「衛福部會又被罵」 石崇良：已組成專案小組研議",
-      "url": "https://udn.com/news/story/7314/9143645",
+      "id": "5e9e03d6f196",
+      "title": "衛福部將設兒少及家庭支持署 4年135億照顧兒童健康",
+      "url": "https://udn.com/news/story/124657/9143577",
+      "source": "udn.com",
+      "published": 1763308800
+    },
+    {
+      "id": "8021273fb02f",
+      "title": "賴總統憂這件事「衛福部會又被罵」 石崇良：已組成專案小組研議",
+      "url": "https://udn.com/news/story/124657/9143645",
       "source": "udn.com",
       "published": 1763308544
     },
@@ -282,20 +331,6 @@
       "published": 1763293373
     },
     {
-      "id": "1e254146aaf2",
-      "title": "彰化縣長選舉升溫 藍綠營參選人動作加大爭取出線",
-      "url": "https://udn.com/news/story/124652/9143240",
-      "source": "udn.com",
-      "published": 1763293371
-    },
-    {
-      "id": "4d9a85eb9c6f",
-      "title": "李遠：好作品應改編 戲劇、音樂、電影傳世界",
-      "url": "https://udn.com/news/story/7314/9143233",
-      "source": "udn.com",
-      "published": 1763292928
-    },
-    {
       "id": "abf085b20e24",
       "title": "三星、現代汽車未來5年共將在韓投資12.5兆元",
       "url": "https://money.udn.com/money/story/5599/9143217",
@@ -308,13 +343,6 @@
       "url": "https://money.udn.com/money/story/5599/9143216",
       "source": "money.udn.com",
       "published": 1763289909
-    },
-    {
-      "id": "41faecdb6bd1",
-      "title": "115年健保總額逾兆 賴總統喊話醫療機構加薪",
-      "url": "https://udn.com/news/story/7314/9143199",
-      "source": "udn.com",
-      "published": 1763289725
     },
     {
       "id": "f1391cf38022",
@@ -338,39 +366,11 @@
       "published": 1763287807
     },
     {
-      "id": "ccd4c04c8ae3",
-      "title": "黃國昌稱基隆是地方聯合治理示範 綠營：是利益交換結果",
-      "url": "https://udn.com/news/story/6656/9143165",
-      "source": "udn.com",
-      "published": 1763287194
-    },
-    {
-      "id": "e6f7ce521861",
-      "title": "外交交流漸增 林佳龍：台灣成功證明民主韌性",
-      "url": "https://udn.com/news/story/6656/9143160",
-      "source": "udn.com",
-      "published": 1763286983
-    },
-    {
       "id": "c40014ab22d2",
       "title": "中日紧张局势继续升级 中国海警船进入“钓鱼岛”巡航",
       "url": "https://www.dw.com/zh/中日紧张局势继续升级-中国海警船进入-钓鱼岛-巡航/a-74763292?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763286780
-    },
-    {
-      "id": "59e2d99839c4",
-      "title": "「七月爍爁」獲金典大獎 林俊頴：寫小說很幸福",
-      "url": "https://udn.com/news/story/7314/9143149",
-      "source": "udn.com",
-      "published": 1763285831
-    },
-    {
-      "id": "499ca31b29c3",
-      "title": "援引「阿北」5個互相…邱佩琳談任謝國樑副手 盼更多人才進政府大水庫",
-      "url": "https://udn.com/news/story/6656/9143150",
-      "source": "udn.com",
-      "published": 1763285826
     },
     {
       "id": "c9813171916d",
@@ -1402,5 +1402,5 @@
       "published": 1761013990
     }
   ],
-  "build_id": 1763309420
+  "build_id": 1763311277
 }
