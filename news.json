@@ -1,6 +1,27 @@
 {
-  "updated": 1763302099,
+  "updated": 1763303772,
   "items": [
+    {
+      "id": "4a37268844a1",
+      "title": "高市早苗「台灣有事」引爭端  日本內部意見分歧",
+      "url": "https://money.udn.com/money/story/5599/9143465",
+      "source": "money.udn.com",
+      "published": 1763303767
+    },
+    {
+      "id": "f0a4ef9fea74",
+      "title": "被指涉嫌中国间谍活动 BBC一记者被安全部门调查",
+      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251116-%E8%A2%AB%E6%8C%87%E6%B6%89%E5%AB%8C%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8-bbc%E4%B8%80%E8%AE%B0%E8%80%85%E8%A2%AB%E5%AE%89%E5%85%A8%E9%83%A8%E9%97%A8%E8%B0%83%E6%9F%A5",
+      "source": "rfi.fr",
+      "published": 1763303284
+    },
+    {
+      "id": "8b6c9cc6ec77",
+      "title": "美駐日大使再發文　強調美日同盟堅定維護台海和平穩定",
+      "url": "https://money.udn.com/money/story/5599/9143433",
+      "source": "money.udn.com",
+      "published": 1763302889
+    },
     {
       "id": "d74353066e27",
       "title": "俄軍續攻烏克蘭　宣稱奪下札波羅熱州兩座村落",
@@ -310,13 +331,6 @@
       "published": 1763284325
     },
     {
-      "id": "7e0a21b779e7",
-      "title": "日本最新民調：「台灣有事」行使集體自衛權 贊成超過反對",
-      "url": "https://money.udn.com/money/story/5599/9143113",
-      "source": "money.udn.com",
-      "published": 1763284172
-    },
-    {
       "id": "35d8f0c058ee",
       "title": "翻轉彰化低薪困局 彰化市長林世賢宣布爭取民進黨提名選縣長",
       "url": "https://udn.com/news/story/124652/9143110",
@@ -329,13 +343,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251116-%E6%B6%89%E6%8C%AA%E7%94%A8%E8%B5%84%E9%87%91%E7%AD%893%E7%BD%AA-%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E6%89%B9%E6%8D%95",
       "source": "rfi.fr",
       "published": 1763283859
-    },
-    {
-      "id": "1588cb8627e4",
-      "title": "美駐日大使發文諷中國  稱「感謝中方加深日美同盟」",
-      "url": "https://money.udn.com/money/story/5599/9143103",
-      "source": "money.udn.com",
-      "published": 1763283652
     },
     {
       "id": "9fba3bdb338c",
@@ -665,13 +672,6 @@
       "url": "https://cn.nytimes.com/opinion/20251114/china-politics-social-public-mood/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1763148805
-    },
-    {
-      "id": "eeab9edf89cb",
-      "title": "埃及学教授领导联合国教科文",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C/20251114-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C-%E7%AC%AC137%E9%9B%86-%E5%9F%83%E5%8F%8A%E5%AD%A6%E6%95%99%E6%8E%88%E9%A2%86%E5%AF%BC%E8%81%94%E5%90%88%E5%9B%BD%E6%95%99%E7%A7%91%E6%96%87",
-      "source": "rfi.fr",
-      "published": 1763140896
     },
     {
       "id": "d399e7677a2f",
@@ -1402,5 +1402,5 @@
       "published": 1761138960
     }
   ],
-  "build_id": 1763302099
+  "build_id": 1763303772
 }
