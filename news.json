@@ -1,6 +1,41 @@
 {
-  "updated": 1763314483,
+  "updated": 1763316786,
   "items": [
+    {
+      "id": "8017babf88f3",
+      "title": "華爾街預期營收將年增56%？輝達財報 分析師唱多",
+      "url": "https://money.udn.com/money/story/123398/9143517",
+      "source": "money.udn.com",
+      "published": 1763315919
+    },
+    {
+      "id": "92e3b35a4a46",
+      "title": "觀察站／出生人數今年續創低 少子化問題仍看不到解方",
+      "url": "https://udn.com/news/story/124657/9143605",
+      "source": "udn.com",
+      "published": 1763315325
+    },
+    {
+      "id": "625e5c73a211",
+      "title": "DeepSeek攻占非洲、拉美 但美、歐多國下架或禁用",
+      "url": "https://udn.com/news/story/6656/9143664",
+      "source": "udn.com",
+      "published": 1763314978
+    },
+    {
+      "id": "0d1005aec80b",
+      "title": "兒少及家庭支持署幕後推手 呂鴻基：沒有兒童就沒有國家",
+      "url": "https://udn.com/news/story/124657/9143601",
+      "source": "udn.com",
+      "published": 1763314723
+    },
+    {
+      "id": "a5179a1a6625",
+      "title": "在野酸國安局認知作戰：AI都要主張台獨？",
+      "url": "https://udn.com/news/story/6656/9143663",
+      "source": "udn.com",
+      "published": 1763314587
+    },
     {
       "id": "19e96a2fe7d2",
       "title": "日本勞動力短缺衝擊 GDP 飯店、照護業影響最大",
@@ -101,7 +136,7 @@
     },
     {
       "id": "e24a03b8ef61",
-      "title": "總統凱道跳街舞",
+      "title": "廣角鏡／賴總統凱道跳街舞",
       "url": "https://udn.com/news/story/6656/9143641",
       "source": "udn.com",
       "published": 1763310152
@@ -268,27 +303,6 @@
       "published": 1763300732
     },
     {
-      "id": "5973edb09fd0",
-      "title": "唐鳳出席菲律賓論壇 分享台灣民主韌性模式",
-      "url": "https://udn.com/news/story/6656/9143383",
-      "source": "udn.com",
-      "published": 1763300525
-    },
-    {
-      "id": "9c7dff72aec8",
-      "title": "川普調降逾200項食品進口關稅　印度農民商人受惠",
-      "url": "https://money.udn.com/money/story/5599/9143382",
-      "source": "money.udn.com",
-      "published": 1763300168
-    },
-    {
-      "id": "32ae726c87f2",
-      "title": "韓國人權海報設計展移師來台 提供DIY參與",
-      "url": "https://udn.com/news/story/7314/9143361",
-      "source": "udn.com",
-      "published": 1763299385
-    },
-    {
       "id": "5c487fcc381e",
       "title": "墙外文摘：“一中原则”失效，“一中政策”模糊？",
       "url": "https://www.dw.com/zh/墙外文摘：-一中原则-失效，-一中政策-模糊？/a-74766313?maca=chi-rss-chi-all-1127-rdf",
@@ -301,20 +315,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251116-%E6%B0%91%E8%B0%83-%E9%AB%98%E5%B8%82%E5%86%85%E9%98%81%E6%94%AF%E6%8C%81%E7%8E%87%E5%8D%87%E8%87%B369-9%EF%BC%85-%E5%9B%9B%E8%89%98%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E5%9C%A8%E9%92%93%E9%B1%BC%E5%B2%9B%E6%B5%B7%E5%9F%9F%E5%B7%A1%E8%88%AA",
       "source": "rfi.fr",
       "published": 1763298641
-    },
-    {
-      "id": "8259589dc107",
-      "title": "少子化已成國安危機…醫界讚「兒家署」成立 專人專責、專屬預算",
-      "url": "https://udn.com/news/story/7314/9143318",
-      "source": "udn.com",
-      "published": 1763296603
-    },
-    {
-      "id": "85d242b3067c",
-      "title": "國安局示警DeepSeek等陸製AI「親中貶台」 陸委會回應了",
-      "url": "https://udn.com/news/story/6656/9143303",
-      "source": "udn.com",
-      "published": 1763295564
     },
     {
       "id": "fee20aedafad",
@@ -1402,5 +1402,5 @@
       "published": 1761013990
     }
   ],
-  "build_id": 1763314483
+  "build_id": 1763316786
 }
