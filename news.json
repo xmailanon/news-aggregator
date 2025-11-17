@@ -1,17 +1,45 @@
 {
-  "updated": 1763384730,
+  "updated": 1763387170,
   "items": [
     {
-      "id": "1fde4feece30",
-      "title": "奈及利亞西北部中學槍響　武裝分子綁架25女學生",
-      "url": "https://money.udn.com/money/story/5599/9145557",
+      "id": "d860d16f5d06",
+      "title": "美參院共和黨人推法案制裁俄國貿易夥伴　川普表態支持",
+      "url": "https://money.udn.com/money/story/10511/9145599",
       "source": "money.udn.com",
-      "published": 1763384435
+      "published": 1763387109
+    },
+    {
+      "id": "fe01d5b3a76d",
+      "title": "川普堅持控告BBC求償 BBC董事會主席：決心抗爭",
+      "url": "https://money.udn.com/money/story/5599/9145596",
+      "source": "money.udn.com",
+      "published": 1763386992
+    },
+    {
+      "id": "61ebc002a3a7",
+      "title": "阿聯酋航空訂購65架波音777X　合約價值逾兆元",
+      "url": "https://money.udn.com/money/story/5599/9145577",
+      "source": "money.udn.com",
+      "published": 1763385135
+    },
+    {
+      "id": "d9c0fbfc61c2",
+      "title": "沙烏地聖城麥地那郊外死亡車禍　印度朝聖者至少45死",
+      "url": "https://money.udn.com/money/story/5599/9145576",
+      "source": "money.udn.com",
+      "published": 1763385135
     },
     {
       "id": "f411b99b9391",
       "title": "血腥鎮壓學運遭判死　哈希納稱判決出於政治動機",
       "url": "https://money.udn.com/money/story/5599/9145562",
+      "source": "money.udn.com",
+      "published": 1763384435
+    },
+    {
+      "id": "1fde4feece30",
+      "title": "奈及利亞西北部中學槍響　武裝分子綁架25女學生",
+      "url": "https://money.udn.com/money/story/5599/9145557",
       "source": "money.udn.com",
       "published": 1763384435
     },
@@ -28,6 +56,13 @@
       "url": "https://udn.com/news/story/7314/9145050",
       "source": "udn.com",
       "published": 1763384093
+    },
+    {
+      "id": "80c461ca360a",
+      "title": "客座评论：高市早苗“台湾有事”言论为何触怒中国",
+      "url": "https://www.dw.com/zh/客座评论：高市早苗-台湾有事-言论为何触怒中国/a-74776136?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1763384040
     },
     {
       "id": "18371395be36",
@@ -184,25 +219,11 @@
       "published": 1763379677
     },
     {
-      "id": "f93d42cee1a6",
-      "title": "川普轉變立場 稱眾議院應投票支持司法部公布艾普斯坦檔案",
-      "url": "https://money.udn.com/money/story/10511/9144647",
-      "source": "money.udn.com",
-      "published": 1763379630
-    },
-    {
       "id": "05f795b19d56",
       "title": "議長張勝德表態參選宜蘭縣長！街頭正式立看板 爭取國民黨提名",
       "url": "https://udn.com/news/story/124652/9145411",
       "source": "udn.com",
       "published": 1763379551
-    },
-    {
-      "id": "6c1c632d4fd5",
-      "title": "國際貿易緊張影響　歐盟下修歐元區2026年成長預估",
-      "url": "https://money.udn.com/money/story/5599/9145406",
-      "source": "money.udn.com",
-      "published": 1763379391
     },
     {
       "id": "f7e5a4b31f00",
@@ -226,25 +247,11 @@
       "published": 1763379107
     },
     {
-      "id": "7862c281dccc",
-      "title": "前聯準會理事Kugler在更多交易違規行為後辭職",
-      "url": "https://money.udn.com/money/story/5599/9143842",
-      "source": "money.udn.com",
-      "published": 1763379062
-    },
-    {
       "id": "d32e2254e828",
       "title": "遭林楚茵質疑拚「中共代理人」 陳玉珍反嗆：一味用意識形態看事情",
       "url": "https://udn.com/news/story/6656/9145394",
       "source": "udn.com",
       "published": 1763378991
-    },
-    {
-      "id": "197b647a9f40",
-      "title": "南韓史上最嚴打房幫倒忙？首爾上月房價、租金漲幅創高",
-      "url": "https://money.udn.com/money/story/5599/9145392",
-      "source": "money.udn.com",
-      "published": 1763378808
     },
     {
       "id": "38a5fe26ad2e",
@@ -1393,14 +1400,7 @@
       "url": "https://www.bbc.com/zhongwen/articles/cp3xnrvg55ro/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1761463595
-    },
-    {
-      "id": "66c0807d78ec",
-      "title": "真假图片大挑战：你能分得清吗？",
-      "url": "https://www.dw.com/zh/真假图片大挑战：你能分得清吗？/a-74495227?maca=chi-rss-chi-news-3224-rdf",
-      "source": "dw.com",
-      "published": 1761390600
     }
   ],
-  "build_id": 1763384730
+  "build_id": 1763387170
 }
