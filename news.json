@@ -1,6 +1,27 @@
 {
-  "updated": 1763494301,
+  "updated": 1763496740,
   "items": [
+    {
+      "id": "1f5dc9cf1c23",
+      "title": "英國國會示警中國間諜活動　籲提防假招募、點名2女",
+      "url": "https://money.udn.com/money/story/5599/9148518",
+      "source": "money.udn.com",
+      "published": 1763494582
+    },
+    {
+      "id": "78e45144ba05",
+      "title": "卡舒吉遇害事件：特朗普力挺沙特王储 并否认儿子女婿与沙特有利益往来",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251118-%E5%8D%A1%E8%88%92%E5%90%89%E9%81%87%E5%AE%B3%E4%BA%8B%E4%BB%B6-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8C%BA%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8-%E5%B9%B6%E5%90%A6%E8%AE%A4%E5%84%BF%E5%AD%90%E5%A5%B3%E5%A9%BF%E4%B8%8E%E6%B2%99%E7%89%B9%E6%9C%89%E5%88%A9%E7%9B%8A%E5%BE%80%E6%9D%A5",
+      "source": "rfi.fr",
+      "published": 1763494446
+    },
+    {
+      "id": "5ceba62d7208",
+      "title": "黑色星期二  Fed 降息前景與 AI 泡沫恐慌發酵 金融市場大血洗",
+      "url": "https://money.udn.com/money/story/5599/9148328",
+      "source": "money.udn.com",
+      "published": 1763494244
+    },
     {
       "id": "63b9b6e22a3d",
       "title": "AI熱潮不減　輝達微軟對Anthropic投資150億美元",
@@ -240,13 +261,6 @@
       "published": 1763483780
     },
     {
-      "id": "aa73d831ad3a",
-      "title": "日本股債雙殺 科技股重挫；財政擔憂及中日緊張關係打擊市場情緒",
-      "url": "https://money.udn.com/money/story/5599/9147190",
-      "source": "money.udn.com",
-      "published": 1763483209
-    },
-    {
       "id": "3eb5ed491913",
       "title": "行政戰立法 學者建議總統院際協調 換閣揆或修法",
       "url": "https://udn.com/news/story/124401/9148394",
@@ -273,13 +287,6 @@
       "url": "https://udn.com/news/story/124401/9148390",
       "source": "udn.com",
       "published": 1763482585
-    },
-    {
-      "id": "f11d81681708",
-      "title": "美國向史瓦帝尼、尚比亞提供1000劑愛滋病毒預防新藥",
-      "url": "https://money.udn.com/money/story/10511/9148465",
-      "source": "money.udn.com",
-      "published": 1763482507
     },
     {
       "id": "5b9ac9f3c42c",
@@ -616,13 +623,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251117-%E6%95%B0%E5%AD%97%E5%B3%B0%E4%BC%9A%E5%89%8D%EF%BC%8C%E9%BB%98%E8%8C%A8%E5%91%BC%E5%90%81%E6%AC%A7%E6%B4%B2%E6%9B%B4%E5%8A%A0%E7%8B%AC%E7%AB%8B%E8%87%AA%E4%B8%BB-%E7%A7%B0%E4%B8%8D%E8%83%BD%E6%8C%87%E6%9C%9B%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%B8%AD%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1763406633
-    },
-    {
-      "id": "2837e490df55",
-      "title": "孟加拉国前总理因血腥镇压暴乱被判死刑",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251117-%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E5%89%8D%E6%80%BB%E7%90%86%E5%9B%A0%E8%A1%80%E8%85%A5%E9%95%87%E5%8E%8B%E6%9A%B4%E4%B9%B1%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
-      "source": "rfi.fr",
-      "published": 1763402617
     },
     {
       "id": "132c5abdf103",
@@ -1402,5 +1402,5 @@
       "published": 1761713640
     }
   ],
-  "build_id": 1763494301
+  "build_id": 1763496740
 }
