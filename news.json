@@ -1,6 +1,34 @@
 {
-  "updated": 1763492929,
+  "updated": 1763494301,
   "items": [
+    {
+      "id": "63b9b6e22a3d",
+      "title": "AI熱潮不減　輝達微軟對Anthropic投資150億美元",
+      "url": "https://money.udn.com/money/story/5599/9148514",
+      "source": "money.udn.com",
+      "published": 1763493690
+    },
+    {
+      "id": "80f371805cd2",
+      "title": "COP30直擊／氣候署長登峰會綠區演講 宣示台灣對抗升溫不落人後",
+      "url": "https://money.udn.com/money/story/5599/9148513",
+      "source": "money.udn.com",
+      "published": 1763493457
+    },
+    {
+      "id": "71df9b23323c",
+      "title": "聯邦政府開門第一份勞動市場報告出爐 美就業不給力 降息陷分歧",
+      "url": "https://money.udn.com/money/story/5599/9148293",
+      "source": "money.udn.com",
+      "published": 1763493097
+    },
+    {
+      "id": "20eb7164f5c5",
+      "title": "泽连斯基周三访问土耳其 美国将重新斡旋俄乌谈判",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251118-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%A8%E4%B8%89%E8%AE%BF%E9%97%AE%E5%9C%9F%E8%80%B3%E5%85%B6-%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E6%96%B0%E6%96%A1%E6%97%8B%E4%BF%84%E4%B9%8C%E8%B0%88%E5%88%A4",
+      "source": "rfi.fr",
+      "published": 1763493017
+    },
     {
       "id": "a86a5b3092b5",
       "title": "抱怨晶片生意輸台灣 川普：實在很不光彩",
@@ -45,7 +73,7 @@
     },
     {
       "id": "42bc55ad8f0e",
-      "title": "快讯：西班牙将向乌克兰提供6.15亿欧元军事援助",
+      "title": "西班牙最终确认：将向乌克兰提供8.17亿欧元军事援助",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251118-%E5%BF%AB%E8%AE%AF-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%86%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B6-15%E4%BA%BF%E6%AC%A7%E5%85%83%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9",
       "source": "rfi.fr",
       "published": 1763490546
@@ -275,20 +303,6 @@
       "published": 1763481600
     },
     {
-      "id": "89ac9812279f",
-      "title": "微軟、輝達、Anthropic 大合作 無力回天救美股 賣壓仍沉重",
-      "url": "https://money.udn.com/money/story/123398/9148439",
-      "source": "money.udn.com",
-      "published": 1763480967
-    },
-    {
-      "id": "9f81a879285f",
-      "title": "歐盟調查亞馬遜微軟雲端服務壟斷情況　可能加強限制",
-      "url": "https://money.udn.com/money/story/5599/9148424",
-      "source": "money.udn.com",
-      "published": 1763480732
-    },
-    {
       "id": "8ae3a7b2419a",
       "title": "【即時短評】財劃法修法想雙贏 卓榮泰快收起硬嘴 展現軟功",
       "url": "https://udn.com/news/story/124401/9148409",
@@ -308,13 +322,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251118-%E6%B3%95%E5%BE%B7%E4%B8%A4%E5%9B%BD%E5%9C%A8%E6%9F%8F%E6%9E%97%E5%B3%B0%E4%BC%9A%E8%81%94%E6%89%8B%E6%8E%A8%E5%8A%A8%E6%AC%A7%E6%B4%B2%E5%8A%A0%E9%80%9F%E5%AE%9E%E7%8E%B0%E6%95%B0%E5%AD%97%E7%A7%91%E6%8A%80%E8%87%AA%E4%B8%BB",
       "source": "rfi.fr",
       "published": 1763479363
-    },
-    {
-      "id": "710c36b48b37",
-      "title": "COP30直擊／台灣借鏡！峰會草案籲「逐步淘汰化石燃料補貼」",
-      "url": "https://money.udn.com/money/story/5599/9148334",
-      "source": "money.udn.com",
-      "published": 1763479109
     },
     {
       "id": "22c067b22a46",
@@ -609,13 +616,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251117-%E6%95%B0%E5%AD%97%E5%B3%B0%E4%BC%9A%E5%89%8D%EF%BC%8C%E9%BB%98%E8%8C%A8%E5%91%BC%E5%90%81%E6%AC%A7%E6%B4%B2%E6%9B%B4%E5%8A%A0%E7%8B%AC%E7%AB%8B%E8%87%AA%E4%B8%BB-%E7%A7%B0%E4%B8%8D%E8%83%BD%E6%8C%87%E6%9C%9B%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%B8%AD%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1763406633
-    },
-    {
-      "id": "24919b73b3d8",
-      "title": "PSG向姆巴佩索赔2.4亿欧元 后又改口为4.4亿欧元",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251117-psg%E5%90%91%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%B4%A2%E8%B5%942-4%E4%BA%BF%E6%AC%A7%E5%85%83-%E5%A7%86%E5%B7%B4%E4%BD%A9%E6%8F%90%E5%87%BA2-63%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B5%94%E5%81%BF",
-      "source": "rfi.fr",
-      "published": 1763404932
     },
     {
       "id": "2837e490df55",
@@ -1402,5 +1402,5 @@
       "published": 1761713640
     }
   ],
-  "build_id": 1763492929
+  "build_id": 1763494301
 }
