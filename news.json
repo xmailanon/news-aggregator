@@ -1,6 +1,27 @@
 {
-  "updated": 1763572222,
+  "updated": 1763573724,
   "items": [
+    {
+      "id": "637ca4cda1cc",
+      "title": "市場靜待輝達財報　歐股收跌",
+      "url": "https://money.udn.com/money/story/5599/9151007",
+      "source": "money.udn.com",
+      "published": 1763573487
+    },
+    {
+      "id": "964507c87771",
+      "title": "影／COP30談判進入深水區 環團盼要有氣候金融正義",
+      "url": "https://money.udn.com/money/story/5599/9151004",
+      "source": "money.udn.com",
+      "published": 1763572679
+    },
+    {
+      "id": "38c05ca6ed99",
+      "title": "中国重新成为德国第一大贸易伙伴 对华贸易逆差达647亿欧元",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%96%B0%E6%88%90%E4%B8%BA%E5%BE%B7%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4-%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E9%80%86%E5%B7%AE%E8%BE%BE647%E4%BA%BF%E6%AC%A7%E5%85%83",
+      "source": "rfi.fr",
+      "published": 1763572419
+    },
     {
       "id": "39dc4db2a8f5",
       "title": "俄企涉勒索軟體運作　美澳英聯合制裁",
@@ -329,20 +350,6 @@
       "url": "https://www.dw.com/zh/美国公民因涉嫌向中国提供情报在德国受审/a-74808524?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763561160
-    },
-    {
-      "id": "e5593bad23d7",
-      "title": "洪灝談中國股市與經濟走向 為什麼房價還會繼續跌？",
-      "url": "https://money.udn.com/money/story/120769/9150557",
-      "source": "money.udn.com",
-      "published": 1763561136
-    },
-    {
-      "id": "df7647cad92c",
-      "title": "全球屏息關注 NVIDIA 會刺破 AI 泡沫 或率科技股反攻？",
-      "url": "https://money.udn.com/money/story/123398/9150680",
-      "source": "money.udn.com",
-      "published": 1763561026
     },
     {
       "id": "69240c54d4b5",
@@ -798,13 +805,6 @@
       "url": "https://www.dw.com/zh/德国巨额基建投资来了，在德中企准备好了吗？/a-74789365?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763466300
-    },
-    {
-      "id": "d9b2e0813b8f",
-      "title": "关税效应：中国对欧贸易顺差超过对美贸易顺差，欧洲承受第二波“中国冲击”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251118-%E5%85%B3%E7%A8%8E%E6%95%88%E5%BA%94-%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%AC%A7%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E8%B6%85%E8%BF%87%E5%AF%B9%E7%BE%8E%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%EF%BC%8C%E6%AC%A7%E6%B4%B2%E6%89%BF%E5%8F%97%E7%AC%AC%E4%BA%8C%E6%B3%A2-%E4%B8%AD%E5%9B%BD%E5%86%B2%E5%87%BB",
-      "source": "rfi.fr",
-      "published": 1763463392
     },
     {
       "id": "11d75d1514d1",
@@ -1402,5 +1402,5 @@
       "published": 1761713640
     }
   ],
-  "build_id": 1763572222
+  "build_id": 1763573724
 }
