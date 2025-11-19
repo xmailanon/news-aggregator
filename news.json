@@ -1,6 +1,20 @@
 {
-  "updated": 1763584540,
+  "updated": 1763586481,
   "items": [
+    {
+      "id": "bedbc994d4ff",
+      "title": "馬斯克擬在沙烏地興建AI數據中心　採用輝達晶片",
+      "url": "https://money.udn.com/money/story/5599/9151061",
+      "source": "money.udn.com",
+      "published": 1763585654
+    },
+    {
+      "id": "88e3927def8e",
+      "title": "美司法部應國會要求　將限期公布艾普斯坦檔案",
+      "url": "https://money.udn.com/money/story/10511/9151056",
+      "source": "money.udn.com",
+      "published": 1763584571
+    },
     {
       "id": "d85edb57cfb4",
       "title": "欧盟新防务计划：推进军事“申根化”  拟为部队推行统一通行证",
@@ -9,9 +23,9 @@
       "published": 1763582579
     },
     {
-      "id": "a9c3ae87957c",
-      "title": "路透：川普可能推遲開徵半導體關稅　避免美中貿易戰升級",
-      "url": "https://money.udn.com/money/story/10511/9151040",
+      "id": "564d838f333e",
+      "title": "路透：川普可能推遲開徵半導體關稅 避免美中貿易戰升級",
+      "url": "https://money.udn.com/money/story/5599/9151040",
       "source": "money.udn.com",
       "published": 1763582407
     },
@@ -322,20 +336,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E6%B8%AF%E5%AA%92-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E4%BC%81%E8%A6%81%E6%B1%82%E5%91%98%E5%B7%A5%E5%8F%96%E6%B6%88%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8%E8%A1%8C%E7%A8%8B-%E6%9C%89%E4%BA%BA%E8%80%83%E8%99%91-%E5%81%B7%E5%81%B7%E5%8E%BB",
       "source": "rfi.fr",
       "published": 1763567202
-    },
-    {
-      "id": "87216df01aea",
-      "title": "印尼塞梅魯火山噴發　當局提升警戒至最高層級",
-      "url": "https://money.udn.com/money/story/5599/9150957",
-      "source": "money.udn.com",
-      "published": 1763567132
-    },
-    {
-      "id": "4ce07711d558",
-      "title": "扭轉美股頹勢的重擔 落在 NVIDIA 肩上",
-      "url": "https://money.udn.com/money/story/122381/9150913",
-      "source": "money.udn.com",
-      "published": 1763566405
     },
     {
       "id": "46148ac9d566",
@@ -1402,5 +1402,5 @@
       "published": 1761713640
     }
   ],
-  "build_id": 1763584540
+  "build_id": 1763586481
 }
