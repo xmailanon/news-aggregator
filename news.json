@@ -1,6 +1,20 @@
 {
-  "updated": 1763591909,
+  "updated": 1763593794,
   "items": [
+    {
+      "id": "261b79bc1dc8",
+      "title": "輝達財報／上季營收狂飆62% 估本季650億美元超預期 盤後漲5%打臉空頭",
+      "url": "https://money.udn.com/money/story/5599/9151111",
+      "source": "money.udn.com",
+      "published": 1763592788
+    },
+    {
+      "id": "718bb734cc7a",
+      "title": "美股收盤／標普500指數中止連四跌 輝達盤後財報化解 AI 泡沫疑慮",
+      "url": "https://money.udn.com/money/story/123398/9151108",
+      "source": "money.udn.com",
+      "published": 1763592574
+    },
     {
       "id": "632b1799d566",
       "title": "特朗普辱骂女记者舆论大哗",
@@ -184,13 +198,6 @@
       "published": 1763575645
     },
     {
-      "id": "298e3c4d2420",
-      "title": "1分鐘看世界／拍賣史第二貴藝品 一幅肖像畫2.3億美元落槌",
-      "url": "https://money.udn.com/money/story/5599/9150808",
-      "source": "money.udn.com",
-      "published": 1763575500
-    },
-    {
       "id": "95ee63f4b718",
       "title": "无人机再侵罗马尼亚 德国战机和罗马尼亚战机紧急升空",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%86%8D%E4%BE%B5%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A-%E5%BE%B7%E5%9B%BD%E6%88%98%E6%9C%BA%E5%92%8C%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E5%8D%87%E7%A9%BA",
@@ -210,13 +217,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251119-shein%E9%A3%8E%E6%B3%A2%E5%B0%86%E8%BF%9B%E5%85%A5%E5%8F%B8%E6%B3%95%E7%A8%8B%E5%BA%8F-%E6%B3%95%E5%9B%BD%E5%95%86%E4%B8%9A12%E5%AE%B6%E8%A1%8C%E4%B8%9A%E5%8D%8F%E4%BC%9A%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89",
       "source": "rfi.fr",
       "published": 1763573889
-    },
-    {
-      "id": "637ca4cda1cc",
-      "title": "市場靜待輝達財報　歐股收跌",
-      "url": "https://money.udn.com/money/story/5599/9151007",
-      "source": "money.udn.com",
-      "published": 1763573487
     },
     {
       "id": "38c05ca6ed99",
@@ -336,6 +336,20 @@
       "url": "https://udn.com/news/story/122004/9150898",
       "source": "udn.com",
       "published": 1763568172
+    },
+    {
+      "id": "594de798b917",
+      "title": "深势科技孙伟杰：让科学发现像使用搜索引擎一样简单",
+      "url": "https://www.ftchinese.com/story/001108244",
+      "source": "ftchinese.com",
+      "published": 1763568000
+    },
+    {
+      "id": "5ce4e9ca281d",
+      "title": "新交所和纳斯达克简化企业两地上市流程",
+      "url": "https://www.ftchinese.com/story/001108245",
+      "source": "ftchinese.com",
+      "published": 1763568000
     },
     {
       "id": "a25e9999efdb",
@@ -919,20 +933,6 @@
       "published": 1763395200
     },
     {
-      "id": "373f17c98e30",
-      "title": "瑞银就迁址美国向贝森特“问路”",
-      "url": "https://www.ftchinese.com/story/001108226",
-      "source": "ftchinese.com",
-      "published": 1763395200
-    },
-    {
-      "id": "b1b32ca4f586",
-      "title": "知名AI投资者坦承对巨额投资感到“紧张”",
-      "url": "https://www.ftchinese.com/story/001108225",
-      "source": "ftchinese.com",
-      "published": 1763395200
-    },
-    {
       "id": "aebfea202922",
       "title": "德国总理：乌克兰需要年轻人报效祖国",
       "url": "https://www.dw.com/zh/德国总理：乌克兰需要年轻人报效祖国/a-74779935?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1761713640
     }
   ],
-  "build_id": 1763591909
+  "build_id": 1763593794
 }
