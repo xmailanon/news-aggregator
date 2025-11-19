@@ -1,6 +1,27 @@
 {
-  "updated": 1763570806,
+  "updated": 1763572222,
   "items": [
+    {
+      "id": "39dc4db2a8f5",
+      "title": "俄企涉勒索軟體運作　美澳英聯合制裁",
+      "url": "https://money.udn.com/money/story/5599/9151001",
+      "source": "money.udn.com",
+      "published": 1763571969
+    },
+    {
+      "id": "9d601f92026c",
+      "title": "美國會報告稱共軍可快速封鎖台灣 薛瑞福指預警時間大減",
+      "url": "https://udn.com/news/story/6656/9150945",
+      "source": "udn.com",
+      "published": 1763570920
+    },
+    {
+      "id": "229b6e3771d4",
+      "title": "美促我資助第三國國防合作案 揭仲：分擔美第一島鏈軍事開銷",
+      "url": "https://udn.com/news/story/6656/9150948",
+      "source": "udn.com",
+      "published": 1763570849
+    },
     {
       "id": "5bd615cbf9cc",
       "title": "美參院通過法案 解除台美交往限制",
@@ -247,20 +268,6 @@
       "published": 1763563568
     },
     {
-      "id": "4d11b3bcc500",
-      "title": "城鎮韌性演習再擴大 卓榮泰：明年首實施跨縣市演練",
-      "url": "https://udn.com/news/story/10930/9150737",
-      "source": "udn.com",
-      "published": 1763563145
-    },
-    {
-      "id": "923273e41165",
-      "title": "國台辦稱收到多封舉報台獨郵件 外交部譴責：中國對台無管轄權",
-      "url": "https://udn.com/news/story/6656/9150730",
-      "source": "udn.com",
-      "published": 1763563096
-    },
-    {
       "id": "9e2386d7598e",
       "title": "美国确认向台湾出售雷神防空导弹系统价值近7亿美元",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E7%BE%8E%E5%9B%BD%E7%A1%AE%E8%AE%A4%E5%90%91%E5%8F%B0%E6%B9%BE%E5%87%BA%E5%94%AE%E9%9B%B7%E7%A5%9E%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9%E7%B3%BB%E7%BB%9F%E4%BB%B7%E5%80%BC%E8%BF%917%E4%BA%BF%E7%BE%8E%E5%85%83",
@@ -343,13 +350,6 @@
       "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20251119-cop30-%E9%80%90%E6%AD%A5%E6%B7%98%E6%B1%B0%E5%8C%96%E7%9F%B3%E7%87%83%E6%96%99%E4%B9%8B%E4%BA%89%E4%BB%A5%E5%8F%8A%E6%8B%AF%E6%95%91%E6%B0%94%E5%80%99%E5%8D%8F%E8%AE%AE%E7%9A%84%E6%9C%80%E5%90%8E%E5%86%B2%E5%88%BA",
       "source": "rfi.fr",
       "published": 1763560767
-    },
-    {
-      "id": "b8d5ad519802",
-      "title": "儘管聯準會降息機率下降 交易員仍積極布局避險",
-      "url": "https://money.udn.com/money/story/5599/9148600",
-      "source": "money.udn.com",
-      "published": 1763560513
     },
     {
       "id": "146647c333b1",
@@ -1402,5 +1402,5 @@
       "published": 1761713640
     }
   ],
-  "build_id": 1763570806
+  "build_id": 1763572222
 }
