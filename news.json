@@ -1,6 +1,20 @@
 {
-  "updated": 1763579303,
+  "updated": 1763580750,
   "items": [
+    {
+      "id": "c85854d1e937",
+      "title": "路透：美國要烏克蘭認了！ 用割地與裁軍交換止戰",
+      "url": "https://money.udn.com/money/story/5599/9151029",
+      "source": "money.udn.com",
+      "published": 1763579901
+    },
+    {
+      "id": "cfd78ea6b6c5",
+      "title": "塞浦路斯天然气最早或于2027年进入欧洲市场",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E5%A4%A9%E7%84%B6%E6%B0%94%E6%9C%80%E6%97%A9%E6%88%96%E4%BA%8E2027%E5%B9%B4%E8%BF%9B%E5%85%A5%E6%AC%A7%E6%B4%B2%E5%B8%82%E5%9C%BA",
+      "source": "rfi.fr",
+      "published": 1763579381
+    },
     {
       "id": "521cfc47fdfe",
       "title": "川普白宮設宴 黃仁勳、馬斯克都在",
@@ -331,13 +345,6 @@
       "published": 1763565240
     },
     {
-      "id": "cd6b3856e777",
-      "title": "澤倫斯基訪土爭支持 俄國空襲烏克蘭西部至少25死",
-      "url": "https://money.udn.com/money/story/5599/9150871",
-      "source": "money.udn.com",
-      "published": 1763565214
-    },
-    {
       "id": "3d418c5be65f",
       "title": "力挺高市早苗 日本商家︰中国抵制「对业绩影响不大」",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E5%8A%9B%E6%8C%BA%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97-%E6%97%A5%E6%9C%AC%E5%95%86%E5%AE%B6%EF%B8%B0%E4%B8%AD%E5%9B%BD%E6%8A%B5%E5%88%B6-%E5%AF%B9%E4%B8%9A%E7%BB%A9%E5%BD%B1%E5%93%8D%E4%B8%8D%E5%A4%A7",
@@ -644,13 +651,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251118-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%A8%E4%B8%89%E8%AE%BF%E9%97%AE%E5%9C%9F%E8%80%B3%E5%85%B6-%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E6%96%B0%E6%96%A1%E6%97%8B%E4%BF%84%E4%B9%8C%E8%B0%88%E5%88%A4",
       "source": "rfi.fr",
       "published": 1763493017
-    },
-    {
-      "id": "42bc55ad8f0e",
-      "title": "西班牙最终确认：将向乌克兰提供8.17亿欧元军事援助",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251118-%E5%BF%AB%E8%AE%AF-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%86%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B6-15%E4%BA%BF%E6%AC%A7%E5%85%83%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9",
-      "source": "rfi.fr",
-      "published": 1763490546
     },
     {
       "id": "8390b27fc7ed",
@@ -1402,5 +1402,5 @@
       "published": 1761713640
     }
   ],
-  "build_id": 1763579303
+  "build_id": 1763580750
 }
