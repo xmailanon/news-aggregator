@@ -1,12 +1,47 @@
 {
-  "updated": 1763541942,
+  "updated": 1763543529,
   "items": [
+    {
+      "id": "1ea4ebba5c17",
+      "title": "中國郵輪取消宮古島上岸行程　整船旅客返回廈門",
+      "url": "https://money.udn.com/money/story/5599/9150097",
+      "source": "money.udn.com",
+      "published": 1763542471
+    },
+    {
+      "id": "aaed9621c5c5",
+      "title": "日媒：中方表達意向  恢復日本牛肉出口中國磋商喊停",
+      "url": "https://money.udn.com/money/story/5599/9150099",
+      "source": "money.udn.com",
+      "published": 1763542471
+    },
+    {
+      "id": "c6a84ff6fb47",
+      "title": "衝刺 AI 花太兇！經理人20年來首度憂心過度投資 加碼布局這四類股",
+      "url": "https://money.udn.com/money/story/123398/9150102",
+      "source": "money.udn.com",
+      "published": 1763542470
+    },
+    {
+      "id": "c2c170f71516",
+      "title": "台智光一審敗訴 何孟樺批蔣萬安謊言治市…北市反擊：何立場搖擺",
+      "url": "https://udn.com/news/story/6656/9150076",
+      "source": "udn.com",
+      "published": 1763542014
+    },
     {
       "id": "83907c27c064",
       "title": "杜拜航空拚機隊成長　7500億訂購150架空巴A321neo",
       "url": "https://money.udn.com/money/story/5599/9150066",
       "source": "money.udn.com",
       "published": 1763541997
+    },
+    {
+      "id": "eddf9457b614",
+      "title": "鄭麗文稱普亭不是獨裁者 蕭美琴：完全不認同",
+      "url": "https://udn.com/news/story/6656/9149933",
+      "source": "udn.com",
+      "published": 1763541948
     },
     {
       "id": "271053c3a9df",
@@ -261,20 +296,6 @@
       "published": 1763536889
     },
     {
-      "id": "732570b29aa0",
-      "title": "鄭黃會登場 聚焦四大主軸「政黨競合非零和遊戲」",
-      "url": "https://udn.com/news/story/122004/9149111",
-      "source": "udn.com",
-      "published": 1763536800
-    },
-    {
-      "id": "7fb3629348f2",
-      "title": "983萬家戶將收到！台灣普發全民安全指引獲歐洲友盟肯定",
-      "url": "https://udn.com/news/story/10930/9149775",
-      "source": "udn.com",
-      "published": 1763536785
-    },
-    {
       "id": "6cb160346c05",
       "title": "烏克蘭財政告急　盼歐盟放行俄資產1630億美元貸款",
       "url": "https://money.udn.com/money/story/10511/9149785",
@@ -315,27 +336,6 @@
       "url": "https://money.udn.com/money/story/10511/9149739",
       "source": "money.udn.com",
       "published": 1763535272
-    },
-    {
-      "id": "13a05c047bf0",
-      "title": "戴克辛須補稅176億泰銖　檢方擬上訴冒犯君主罪一案",
-      "url": "https://money.udn.com/money/story/5599/9149742",
-      "source": "money.udn.com",
-      "published": 1763535270
-    },
-    {
-      "id": "fe7a1a86dca9",
-      "title": "釜山高中生成醫療人球致死　韓急診醫療法修法引議",
-      "url": "https://money.udn.com/money/story/5599/9149731",
-      "source": "money.udn.com",
-      "published": 1763534793
-    },
-    {
-      "id": "e097d87fa894",
-      "title": "華郵社論：川普袒護沙國王儲穆罕默德「選錯邊」",
-      "url": "https://money.udn.com/money/story/5599/9149673",
-      "source": "money.udn.com",
-      "published": 1763533652
     },
     {
       "id": "47fa13e85d5e",
@@ -399,6 +399,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251118-%E4%BA%BA%E9%81%93%E6%8A%A5-%E8%B5%B0%E8%AE%BF%E4%B8%AD%E5%9B%BD-%E6%97%A0%E4%BA%BA%E6%9C%BA-ai-%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E6%8B%AF%E6%95%91%E6%BF%92%E5%8D%B1%E7%9A%84%E5%86%9C%E4%B8%9A",
       "source": "rfi.fr",
       "published": 1763503535
+    },
+    {
+      "id": "c85c82892fdd",
+      "title": "大寨红色旅游：从毛泽东的乌托邦到习近平的“自力更生”",
+      "url": "https://cn.nytimes.com/china/20251119/china-mao-red-tourism/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1763499802
     },
     {
       "id": "c456484541ee",
@@ -1150,13 +1157,6 @@
       "published": 1763084960
     },
     {
-      "id": "c2da55d611fe",
-      "title": "妙瓦底诈骗园区头目佘智江被引渡至中国",
-      "url": "https://cn.nytimes.com/world/20251114/scam-center-she-zhijiang-extradited-china/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1763083362
-    },
-    {
       "id": "d0097c4a306f",
       "title": "“新的美国梦是逃离”",
       "url": "https://cn.nytimes.com/culture/20251114/new-american-dream-tiktok/?utm_source=RSS",
@@ -1402,5 +1402,5 @@
       "published": 1761713640
     }
   ],
-  "build_id": 1763541942
+  "build_id": 1763543529
 }
