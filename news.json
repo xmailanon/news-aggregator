@@ -1,6 +1,20 @@
 {
-  "updated": 1763580750,
+  "updated": 1763583046,
   "items": [
+    {
+      "id": "d85edb57cfb4",
+      "title": "欧盟新防务计划：推进军事“申根化”  拟为部队推行统一通行证",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E6%AC%A7%E7%9B%9F%E6%96%B0%E9%98%B2%E5%8A%A1%E8%AE%A1%E5%88%92-%E6%8E%A8%E8%BF%9B%E5%86%9B%E4%BA%8B-%E7%94%B3%E6%A0%B9%E5%8C%96-%E6%8B%9F%E4%B8%BA%E9%83%A8%E9%98%9F%E6%8E%A8%E8%A1%8C%E7%BB%9F%E4%B8%80%E9%80%9A%E8%A1%8C%E8%AF%81",
+      "source": "rfi.fr",
+      "published": 1763582579
+    },
+    {
+      "id": "a9c3ae87957c",
+      "title": "路透：川普可能推遲開徵半導體關稅　避免美中貿易戰升級",
+      "url": "https://money.udn.com/money/story/10511/9151040",
+      "source": "money.udn.com",
+      "published": 1763582407
+    },
     {
       "id": "c85854d1e937",
       "title": "路透：美國要烏克蘭認了！ 用割地與裁軍交換止戰",
@@ -324,13 +338,6 @@
       "published": 1763566405
     },
     {
-      "id": "e1b057f32377",
-      "title": "美股早盤／大盤撥雲見日 台積電 ADR 漲2% 投資人等待輝達盤後開獎",
-      "url": "https://money.udn.com/money/story/123398/9150905",
-      "source": "money.udn.com",
-      "published": 1763565873
-    },
-    {
       "id": "46148ac9d566",
       "title": "看不上气候峰会主办地？ 德国总理惹怒巴西",
       "url": "https://www.dw.com/zh/看不上气候峰会主办地？-德国总理惹怒巴西/a-74809818?maca=chi-rss-chi-all-1127-rdf",
@@ -644,13 +651,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251118-%E5%8D%A1%E8%88%92%E5%90%89%E9%81%87%E5%AE%B3%E4%BA%8B%E4%BB%B6-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8C%BA%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8-%E5%B9%B6%E5%90%A6%E8%AE%A4%E5%84%BF%E5%AD%90%E5%A5%B3%E5%A9%BF%E4%B8%8E%E6%B2%99%E7%89%B9%E6%9C%89%E5%88%A9%E7%9B%8A%E5%BE%80%E6%9D%A5",
       "source": "rfi.fr",
       "published": 1763494446
-    },
-    {
-      "id": "20eb7164f5c5",
-      "title": "泽连斯基周三访问土耳其 美国将重新斡旋俄乌谈判",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251118-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%A8%E4%B8%89%E8%AE%BF%E9%97%AE%E5%9C%9F%E8%80%B3%E5%85%B6-%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%87%8D%E6%96%B0%E6%96%A1%E6%97%8B%E4%BF%84%E4%B9%8C%E8%B0%88%E5%88%A4",
-      "source": "rfi.fr",
-      "published": 1763493017
     },
     {
       "id": "8390b27fc7ed",
@@ -1402,5 +1402,5 @@
       "published": 1761713640
     }
   ],
-  "build_id": 1763580750
+  "build_id": 1763583046
 }
