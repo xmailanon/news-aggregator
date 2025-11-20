@@ -1,6 +1,41 @@
 {
-  "updated": 1763622641,
+  "updated": 1763624173,
   "items": [
+    {
+      "id": "7e2fc36978c7",
+      "title": "藍白黨魁昨會面 李四川：沒時間看",
+      "url": "https://udn.com/news/story/6656/9152305",
+      "source": "udn.com",
+      "published": 1763623917
+    },
+    {
+      "id": "28c4731bf646",
+      "title": "輝達財報減緩AI泡沫疑慮　日經指數收漲逾1200點",
+      "url": "https://money.udn.com/money/story/5599/9152300",
+      "source": "money.udn.com",
+      "published": 1763623809
+    },
+    {
+      "id": "7a2a9914eb67",
+      "title": "傳美晶片出口限制轉彎　美媒：輝達將迎重大利多",
+      "url": "https://money.udn.com/money/story/5599/9152278",
+      "source": "money.udn.com",
+      "published": 1763623295
+    },
+    {
+      "id": "4e9d7074f35c",
+      "title": "政院批准社安網2.0 兒虐逾4成源自疏忽 社家署長：擬推到宅育嬰指導",
+      "url": "https://udn.com/news/story/6656/9152258",
+      "source": "udn.com",
+      "published": 1763623192
+    },
+    {
+      "id": "cf4eb0ece7c5",
+      "title": "曾被指中國間諜！菲華裔前市長郭華萍涉詐騙園區案 遭重判終身監禁",
+      "url": "https://money.udn.com/money/story/5599/9152256",
+      "source": "money.udn.com",
+      "published": 1763623176
+    },
     {
       "id": "1d06093979ca",
       "title": "日本自民黨今開會 討論修改安保3文件及非核三原則",
@@ -16,11 +51,46 @@
       "published": 1763622591
     },
     {
+      "id": "d45bffa35ebc",
+      "title": "2026藍白合？林碩彥建議聯合政府 楊文科：好人才廣納不分黨派",
+      "url": "https://udn.com/news/story/124652/9152230",
+      "source": "udn.com",
+      "published": 1763622272
+    },
+    {
+      "id": "aaa04cb8e318",
+      "title": "政院版財劃法挹注地方上看1.2兆 蔣萬安：會議未有具體數字",
+      "url": "https://udn.com/news/story/124401/9152227",
+      "source": "udn.com",
+      "published": 1763622232
+    },
+    {
+      "id": "f06256a7a803",
+      "title": "外交部：7友邦在COP30公開挺台 象徵邦誼彌堅",
+      "url": "https://udn.com/news/story/6656/9151866",
+      "source": "udn.com",
+      "published": 1763622109
+    },
+    {
+      "id": "587cd4e68877",
+      "title": "行政院會今通過院版財劃法 李四川透露向卓榮泰反映這些事",
+      "url": "https://udn.com/news/story/124401/9152220",
+      "source": "udn.com",
+      "published": 1763622096
+    },
+    {
       "id": "211afa682908",
       "title": "在日台灣同鄉會12團體發聲  譴責中國製造反日氛圍",
       "url": "https://money.udn.com/money/story/5599/9152216",
       "source": "money.udn.com",
       "published": 1763622037
+    },
+    {
+      "id": "2411708d79ee",
+      "title": "張惇涵喊話盼朝野支持 政院版財劃法補助地方皆有成長",
+      "url": "https://udn.com/news/story/124401/9152205",
+      "source": "udn.com",
+      "published": 1763621952
     },
     {
       "id": "c2d4a29d9349",
@@ -94,7 +164,7 @@
     },
     {
       "id": "c78979911f00",
-      "title": "曾遭指共諜　菲前華裔市長涉人口販運被判無期徒刑",
+      "title": "曾遭指共諜 菲前華裔市長涉人口販運被判無期徒刑",
       "url": "https://money.udn.com/money/story/5599/9152157",
       "source": "money.udn.com",
       "published": 1763620600
@@ -149,32 +219,11 @@
       "published": 1763619305
     },
     {
-      "id": "c70242eed5de",
-      "title": "質疑賴政府默許台積電洩密 國民黨團籲盡速補破網、留人才",
-      "url": "https://udn.com/news/story/6656/9152094",
-      "source": "udn.com",
-      "published": 1763619226
-    },
-    {
       "id": "2b26cc971aab",
-      "title": "印尼塞梅魯火山噴發　逾900人撤離170登山客脫困",
+      "title": "印尼塞梅魯火山噴發 逾900人撤離170登山客脫困",
       "url": "https://money.udn.com/money/story/5599/9152074",
       "source": "money.udn.com",
       "published": 1763618802
-    },
-    {
-      "id": "9b29a6f03bd1",
-      "title": "院會拍板財劃法修法 卓榮泰喊話在野黨、預算重編不可行",
-      "url": "https://udn.com/news/story/124401/9152070",
-      "source": "udn.com",
-      "published": 1763618778
-    },
-    {
-      "id": "397dcea5da13",
-      "title": "行政院版本財劃法出爐 高市府：優於立法院倉促修法版本",
-      "url": "https://udn.com/news/story/124401/9152069",
-      "source": "udn.com",
-      "published": 1763618764
     },
     {
       "id": "ee683b09d472",
@@ -191,25 +240,11 @@
       "published": 1763618441
     },
     {
-      "id": "dd9baa5c4c61",
-      "title": "民進黨團喊話：共同支持行政院院版財劃法",
-      "url": "https://udn.com/news/story/124401/9152035",
-      "source": "udn.com",
-      "published": 1763618164
-    },
-    {
       "id": "2091c0c01ad5",
       "title": "幫派暴力陰影下重燃希望 海地晉級世界盃全國狂歡",
       "url": "https://money.udn.com/money/story/5599/9152031",
       "source": "money.udn.com",
       "published": 1763618049
-    },
-    {
-      "id": "c12cdc63e248",
-      "title": "政院版財劃法補助成長比縣市高於直轄市 台南統籌款比今年增近一倍",
-      "url": "https://udn.com/news/story/124401/9152022",
-      "source": "udn.com",
-      "published": 1763617848
     },
     {
       "id": "074fb3e491ca",
@@ -224,20 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9152000",
       "source": "money.udn.com",
       "published": 1763617471
-    },
-    {
-      "id": "101f2bad2a57",
-      "title": "怕吳釗燮？ 林佳龍稱很熟：line來line去 但公私要分開",
-      "url": "https://udn.com/news/story/6656/9151995",
-      "source": "udn.com",
-      "published": 1763617383
-    },
-    {
-      "id": "c7d8e8dd53b9",
-      "title": "政院通過財劃法修正草案 相關分配公式出爐",
-      "url": "https://udn.com/news/story/124401/9151989",
-      "source": "udn.com",
-      "published": 1763617253
     },
     {
       "id": "6ac90f4ff335",
@@ -287,27 +308,6 @@
       "url": "https://www.dw.com/zh/德財長：支持自由市場-不希望德國和歐洲成輸家/a-74814578?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763612400
-    },
-    {
-      "id": "bf9ad619e1a1",
-      "title": "Google 才是全端 AI 贏家！股價神逆轉狂漲54% 市值暴增快超車老三微軟",
-      "url": "https://money.udn.com/money/story/123398/9151731",
-      "source": "money.udn.com",
-      "published": 1763612024
-    },
-    {
-      "id": "cb7389a5c4ab",
-      "title": "華府援烏致飛彈短缺　日本首度向美出口愛國者飛彈",
-      "url": "https://money.udn.com/money/story/5599/9151714",
-      "source": "money.udn.com",
-      "published": 1763611582
-    },
-    {
-      "id": "089d4f5d0ba8",
-      "title": "李在明埃及媒體投書：不能讓南北韓對話中斷",
-      "url": "https://money.udn.com/money/story/5599/9151713",
-      "source": "money.udn.com",
-      "published": 1763611582
     },
     {
       "id": "633ff81f1d4e",
@@ -462,6 +462,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%96%B0%E6%88%90%E4%B8%BA%E5%BE%B7%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4-%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E9%80%86%E5%B7%AE%E8%BE%BE647%E4%BA%BF%E6%AC%A7%E5%85%83",
       "source": "rfi.fr",
       "published": 1763572419
+    },
+    {
+      "id": "662154f7dbb1",
+      "title": "对赌协议压顶之下 真实生物三闯港交所",
+      "url": "https://www.ftchinese.com/story/001108255",
+      "source": "ftchinese.com",
+      "published": 1763568000
     },
     {
       "id": "5111e9068286",
@@ -880,13 +887,6 @@
       "id": "dfed27b350c5",
       "title": "特朗普在英国的小帮手",
       "url": "https://www.ftchinese.com/story/001108238",
-      "source": "ftchinese.com",
-      "published": 1763481600
-    },
-    {
-      "id": "419be4f3040d",
-      "title": "ChatGPT将获得大量个人税务和理财数据",
-      "url": "https://www.ftchinese.com/story/001108237",
       "source": "ftchinese.com",
       "published": 1763481600
     },
@@ -1402,5 +1402,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1763622641
+  "build_id": 1763624173
 }
