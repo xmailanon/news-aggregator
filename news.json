@@ -1,6 +1,48 @@
 {
-  "updated": 1763651456,
+  "updated": 1763653222,
   "items": [
+    {
+      "id": "2ece7f2649c1",
+      "title": "COP30直擊／友邦發言挺台 中國竟貶我為「地方政府」無權參加氣候公約",
+      "url": "https://money.udn.com/money/story/5599/9153413",
+      "source": "money.udn.com",
+      "published": 1763653400
+    },
+    {
+      "id": "c1f967424e08",
+      "title": "COP30直擊／聯合國秘書長趕赴貝倫 促各國守住1.5°C、脫離化石燃料",
+      "url": "https://money.udn.com/money/story/5599/9153408",
+      "source": "money.udn.com",
+      "published": 1763653299
+    },
+    {
+      "id": "21c6c9de815e",
+      "title": "高市早苗「台灣有事論」引發中國全力反制  國際社會有何反應",
+      "url": "https://www.bbc.com/zhongwen/articles/c20e0z9ej08o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1763652959
+    },
+    {
+      "id": "f9e717bed01d",
+      "title": "美前副總統錢尼葬禮於華府舉行 拜登、布希預計出席但川普未獲邀",
+      "url": "https://money.udn.com/money/story/5599/9153384",
+      "source": "money.udn.com",
+      "published": 1763652767
+    },
+    {
+      "id": "3a04f234f020",
+      "title": "2026年看漲美股的6大理由",
+      "url": "https://money.udn.com/money/story/122381/9153367",
+      "source": "money.udn.com",
+      "published": 1763652398
+    },
+    {
+      "id": "b98524695f71",
+      "title": "美國就業數據及輝達財報提振　華爾街股市開高",
+      "url": "https://money.udn.com/money/story/123398/9153318",
+      "source": "money.udn.com",
+      "published": 1763651540
+    },
     {
       "id": "d44cdaf0a7b0",
       "title": "聯準會研究報告：移民速度放緩或導致未來美國勞動力人口萎縮",
@@ -191,32 +233,11 @@
       "published": 1763644719
     },
     {
-      "id": "6bea30ac33c6",
-      "title": "美國同意批准向 G42出售 AI 晶片 助力阿聯酋 AI 雄心",
-      "url": "https://money.udn.com/money/story/5599/9151676",
-      "source": "money.udn.com",
-      "published": 1763644402
-    },
-    {
-      "id": "0478d7b90752",
-      "title": "韓國酷澎顧客個資外流　涉及4500多人",
-      "url": "https://money.udn.com/money/story/5599/9153098",
-      "source": "money.udn.com",
-      "published": 1763644353
-    },
-    {
       "id": "37e1bdb532da",
       "title": "仿效晶片效益 外交部成立無人機外交小組",
       "url": "https://udn.com/news/story/6656/9153074",
       "source": "udn.com",
       "published": 1763644345
-    },
-    {
-      "id": "a1afd96332c5",
-      "title": "尼泊爾再爆政治衝突　小鎮實施宵禁",
-      "url": "https://money.udn.com/money/story/5599/9153084",
-      "source": "money.udn.com",
-      "published": 1763643974
     },
     {
       "id": "478683d21675",
@@ -226,25 +247,11 @@
       "published": 1763643560
     },
     {
-      "id": "d67abec2df0e",
-      "title": "美國國防部將和 MP 材料聯手 在沙烏地建設稀土工廠",
-      "url": "https://money.udn.com/money/story/5599/9151777",
-      "source": "money.udn.com",
-      "published": 1763643340
-    },
-    {
       "id": "a7d7dfbfa341",
       "title": "極端氣候衝擊原民社區 台加合作AI防災科技",
       "url": "https://udn.com/news/story/7314/9153056",
       "source": "udn.com",
       "published": 1763643323
-    },
-    {
-      "id": "2d3445c1c55a",
-      "title": "非法移民與複合性威脅嚴峻　歐盟擴大暫停免簽事由",
-      "url": "https://money.udn.com/money/story/5599/9153063",
-      "source": "money.udn.com",
-      "published": 1763643248
     },
     {
       "id": "75d183d76cca",
@@ -1213,13 +1220,6 @@
       "published": 1763108675
     },
     {
-      "id": "8824b4669c98",
-      "title": "「台灣有事，就是日本有事」？高市早苗發言引發中日外交風波，北京將如何反制",
-      "url": "https://www.bbc.com/zhongwen/articles/cp85eg85zzgo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1763106378
-    },
-    {
       "id": "bcaba386003d",
       "title": "專訪香港導演周冠威：抗爭很痛苦 服從也很痛苦",
       "url": "https://www.dw.com/zh/專訪香港導演周冠威：抗爭很痛苦-服從也很痛苦/a-74728666?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1761911520
     }
   ],
-  "build_id": 1763651456
+  "build_id": 1763653222
 }
