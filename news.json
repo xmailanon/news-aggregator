@@ -1,12 +1,47 @@
 {
-  "updated": 1763646252,
+  "updated": 1763647803,
   "items": [
+    {
+      "id": "abc44785c1e3",
+      "title": "姍姍來遲的美國9月就業趨穩 12月 Fed 是否降息仍不確定",
+      "url": "https://money.udn.com/money/story/10511/9153184",
+      "source": "money.udn.com",
+      "published": 1763647631
+    },
+    {
+      "id": "83ba42d09710",
+      "title": "路透揭中共「影子海軍」演練奪台 軍事專家：台灣守軍恐無力招架",
+      "url": "https://udn.com/news/story/10930/9153141",
+      "source": "udn.com",
+      "published": 1763647237
+    },
+    {
+      "id": "d988f528dc35",
+      "title": "川普據悉計劃推出「創世使命」以促進美國 AI 發展",
+      "url": "https://money.udn.com/money/story/5599/9151414",
+      "source": "money.udn.com",
+      "published": 1763646925
+    },
+    {
+      "id": "7e1b57a6dd8e",
+      "title": "荷蘭暫停干預安世半導體 這場中荷之爭卻顯現出歐洲的哪些問題？",
+      "url": "https://money.udn.com/money/story/120769/9152410",
+      "source": "money.udn.com",
+      "published": 1763646772
+    },
     {
       "id": "b639a7c789a6",
       "title": "日本央行審議委員小枝淳子暗示12月份可能會升息",
       "url": "https://money.udn.com/money/story/5599/9151581",
       "source": "money.udn.com",
       "published": 1763646203
+    },
+    {
+      "id": "922a63a826aa",
+      "title": "陸要求巴拿馬議員取消訪台 我外交部強烈譴責：蠻橫無理",
+      "url": "https://udn.com/news/story/6656/9153118",
+      "source": "udn.com",
+      "published": 1763646132
     },
     {
       "id": "354262a5da13",
@@ -21,6 +56,13 @@
       "url": "https://money.udn.com/money/story/5599/9153126",
       "source": "money.udn.com",
       "published": 1763645771
+    },
+    {
+      "id": "6868487d7b9a",
+      "title": "偷換概念？政院版財劃法出爐 學者批苛待地方：中央更集權更集錢",
+      "url": "https://udn.com/news/story/124401/9153122",
+      "source": "udn.com",
+      "published": 1763645623
     },
     {
       "id": "e4d1c7996073",
@@ -205,32 +247,11 @@
       "published": 1763641607
     },
     {
-      "id": "327e4879f964",
-      "title": "歐盟駐華大使對中歐關係感到不安 呼籲與北京重啟關係",
-      "url": "https://money.udn.com/money/story/5599/9152048",
-      "source": "money.udn.com",
-      "published": 1763641436
-    },
-    {
-      "id": "cb9bbc00174e",
-      "title": "日本高級官員稱日圓出現單向、突然的波動令人擔憂",
-      "url": "https://money.udn.com/money/story/5599/9152295",
-      "source": "money.udn.com",
-      "published": 1763641379
-    },
-    {
       "id": "f9a7a49d85a1",
       "title": "特朗普将会见候任纽约市长、“共产主义分子”马姆达尼",
       "url": "https://www.dw.com/zh/特朗普将会见候任纽约市长、-共产主义分子-马姆达尼/a-74819483?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763641200
-    },
-    {
-      "id": "d54c04019df9",
-      "title": "美駐日大使稱美國會在任何中日爭端中力挺日本",
-      "url": "https://money.udn.com/money/story/5599/9152836",
-      "source": "money.udn.com",
-      "published": 1763641088
     },
     {
       "id": "1a86196b45ed",
@@ -336,27 +357,6 @@
       "url": "https://udn.com/news/story/10930/9152832",
       "source": "udn.com",
       "published": 1763636298
-    },
-    {
-      "id": "4dc3f18f5d4a",
-      "title": "行政院版財劃法出爐 黃敏惠、張麗善各有建議主張",
-      "url": "https://udn.com/news/story/124401/9152795",
-      "source": "udn.com",
-      "published": 1763635238
-    },
-    {
-      "id": "555b67cbf037",
-      "title": "行政院版財劃法出爐 柯志恩感嘆「從從容容變拖泥帶水」",
-      "url": "https://udn.com/news/story/124401/9152768",
-      "source": "udn.com",
-      "published": 1763634285
-    },
-    {
-      "id": "9ac3c0590a06",
-      "title": "變性需強制摘除原性器官 監察院要求內政部檢討改進",
-      "url": "https://udn.com/news/story/7314/9152759",
-      "source": "udn.com",
-      "published": 1763634066
     },
     {
       "id": "29b963d2d027",
@@ -1402,5 +1402,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1763646252
+  "build_id": 1763647803
 }
