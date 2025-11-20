@@ -1,30 +1,156 @@
 {
-  "updated": 1763631538,
+  "updated": 1763633476,
   "items": [
     {
+      "id": "15b66b8d5390",
+      "title": "DRAM供應吃緊加劇 高階記憶體價格可能漲一倍",
+      "url": "https://money.udn.com/money/story/5599/9152714",
+      "source": "money.udn.com",
+      "published": 1763632954
+    },
+    {
+      "id": "54396d3c1695",
+      "title": "立陶宛更新國安評估  提前重開白俄邊境檢查站",
+      "url": "https://money.udn.com/money/story/5599/9152711",
+      "source": "money.udn.com",
+      "published": 1763632863
+    },
+    {
+      "id": "6c25a376631a",
+      "title": "【重磅快評】「一國兩區」先行者蔡英文，民進黨超尷尬",
+      "url": "https://udn.com/news/story/6656/9152701",
+      "source": "udn.com",
+      "published": 1763632786
+    },
+    {
+      "id": "df3d05f9629a",
+      "title": "星總理籲日中爭議降溫　學者：東協視日本為重要夥伴",
+      "url": "https://money.udn.com/money/story/5599/9152692",
+      "source": "money.udn.com",
+      "published": 1763632453
+    },
+    {
+      "id": "7ed1ed991c7e",
+      "title": "中国裔日本议员要求把薛剑驱逐出境 大阪知事将拒绝参加中国大阪总领馆活动",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251120-%E4%B8%AD%E5%9B%BD%E8%A3%94%E6%97%A5%E6%9C%AC%E8%AE%AE%E5%91%98%E8%A6%81%E6%B1%82%E6%8A%8A%E8%96%9B%E5%89%91%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83-%E5%A4%A7%E9%98%AA%E7%9F%A5%E4%BA%8B%E5%B0%86%E6%8B%92%E7%BB%9D%E5%8F%82%E5%8A%A0%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%98%AA%E6%80%BB%E9%A2%86%E9%A6%86%E6%B4%BB%E5%8A%A8",
+      "source": "rfi.fr",
+      "published": 1763632366
+    },
+    {
+      "id": "aff7924c1288",
+      "title": "打臉「大賣空」本尊 輝達財務長、科技分析師反駁折舊說",
+      "url": "https://money.udn.com/money/story/5599/9152679",
+      "source": "money.udn.com",
+      "published": 1763632053
+    },
+    {
+      "id": "e49f6414bd91",
+      "title": "以色列再度空襲加薩　民防單位：3死15傷",
+      "url": "https://money.udn.com/money/story/5599/9152671",
+      "source": "money.udn.com",
+      "published": 1763631921
+    },
+    {
+      "id": "12a36872b002",
+      "title": "輝達強勁財報提振市場信心　亞股多收紅",
+      "url": "https://money.udn.com/money/story/5599/9152673",
+      "source": "money.udn.com",
+      "published": 1763631921
+    },
+    {
+      "id": "c854d050ab23",
+      "title": "政院版財劃法修正草案公布 竹市府怒批：懲罰經濟貢獻高縣市",
+      "url": "https://udn.com/news/story/124401/9152669",
+      "source": "udn.com",
+      "published": 1763631845
+    },
+    {
+      "id": "6d47dca71f5b",
+      "title": "中國公司曾收購美國中情局保險供應商  北京當局海外大併購引起擔憂",
+      "url": "https://www.bbc.com/zhongwen/articles/cwynyg85yyeo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1763631793
+    },
+    {
+      "id": "e9e7aa846898",
+      "title": "陸配村里長沒解職送監院查處 內政部：現行法令無扞格",
+      "url": "https://udn.com/news/story/6656/9152661",
+      "source": "udn.com",
+      "published": 1763631577
+    },
+    {
+      "id": "384a59387ea9",
+      "title": "陸配村長解職惹議 國民黨團擬修法保障陸配參政權…內政部：尊重",
+      "url": "https://udn.com/news/story/6656/9152660",
+      "source": "udn.com",
+      "published": 1763631577
+    },
+    {
+      "id": "50669c349d50",
+      "title": "中國男子冷凍亡妻引發爭議",
+      "url": "https://www.bbc.com/zhongwen/articles/ced6d6yp99no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1763631545
+    },
+    {
+      "id": "d34209be0d4e",
+      "title": "撥補勞保法制化政院版草案出爐 李彥秀：缺乏誠意、搪塞有餘",
+      "url": "https://udn.com/news/story/6656/9152655",
+      "source": "udn.com",
+      "published": 1763631485
+    },
+    {
+      "id": "90d1641736a4",
+      "title": "蔣萬安與輝達副總裁會面 確定設輝達台北子公司",
+      "url": "https://udn.com/news/story/7314/9152657",
+      "source": "udn.com",
+      "published": 1763631470
+    },
+    {
+      "id": "e9399abbb647",
+      "title": "政院版財劃法挨批「老調重彈」 藍委：重新政治包裝的煙霧彈",
+      "url": "https://udn.com/news/story/124401/9152642",
+      "source": "udn.com",
+      "published": 1763631364
+    },
+    {
+      "id": "7868d98e35ba",
+      "title": "支持行政院版財劃法修正案 黃偉哲呼籲立院勿以政黨偏見傷南部民眾",
+      "url": "https://udn.com/news/story/124401/9152639",
+      "source": "udn.com",
+      "published": 1763631269
+    },
+    {
+      "id": "43c34bea2ab3",
+      "title": "藍白2026搭檔選正副縣市長？ 李乾龍鬆口：看機緣但可行",
+      "url": "https://udn.com/news/story/122004/9152637",
+      "source": "udn.com",
+      "published": 1763631228
+    },
+    {
       "id": "9fd6057b6154",
-      "title": "韓鄭合體 鄭麗文：當韓國瑜最堅強的後盾",
+      "title": "拜訪韓國瑜 鄭麗文曝受益良多：中央黨部當韓最堅強的後盾",
       "url": "https://udn.com/news/story/6656/9152633",
       "source": "udn.com",
       "published": 1763631185
     },
     {
-      "id": "b57b93ca7c0a",
+      "id": "cd252f8b070f",
       "title": "政院版勞保條例修法草案出爐 廖偉翔：缺乏財務永續的結構性改革",
-      "url": "https://udn.com/news/story/6656/9152634",
+      "url": "https://udn.com/news/story/124401/9152634",
       "source": "udn.com",
       "published": 1763631184
     },
     {
       "id": "b9956474623b",
-      "title": "配潛水鐘、百噸級拖纜機　大武艦救南能力升級　周六首度開放參觀",
+      "title": "配潛水鐘、百噸級拖纜機！大武艦救南能力升級 周六首度開放參觀",
       "url": "https://udn.com/news/story/10930/9152631",
       "source": "udn.com",
       "published": 1763631069
     },
     {
       "id": "02b29869aa4d",
-      "title": "俄羅斯夜襲烏克蘭西部　公寓大樓26死仍有22人失聯",
+      "title": "俄羅斯夜襲烏克蘭西部 公寓大樓26死仍有22人失聯",
       "url": "https://money.udn.com/money/story/5599/9152626",
       "source": "money.udn.com",
       "published": 1763631051
@@ -45,7 +171,7 @@
     },
     {
       "id": "f2e290bb7353",
-      "title": "北韓軍人又越界  仍未回應南韓會談要求",
+      "title": "北韓軍人又越界 仍未回應南韓會談要求",
       "url": "https://money.udn.com/money/story/5599/9152574",
       "source": "money.udn.com",
       "published": 1763629943
@@ -142,20 +268,6 @@
       "published": 1763626123
     },
     {
-      "id": "8560e3f2fd56",
-      "title": "院版財政收支劃分法今通過 新北市府：不接受「3不條件」下倉促定案",
-      "url": "https://udn.com/news/story/124401/9152390",
-      "source": "udn.com",
-      "published": 1763625810
-    },
-    {
-      "id": "e066a4b192c9",
-      "title": "整理包／從大罷免翻車到遭中共通緝 沈伯洋過往爭議一次回顧",
-      "url": "https://udn.com/news/story/6656/9151903",
-      "source": "udn.com",
-      "published": 1763625225
-    },
-    {
       "id": "72ffe6666780",
       "title": "樂施會：G20 億萬富豪年收入足讓全球貧困人口脫貧",
       "url": "https://money.udn.com/money/story/5599/9152331",
@@ -163,39 +275,11 @@
       "published": 1763624711
     },
     {
-      "id": "c9e6ad7f3e47",
-      "title": "數發部推台灣主權AI語言資料庫 預計12月發表首版",
-      "url": "https://udn.com/news/story/7314/9152250",
-      "source": "udn.com",
-      "published": 1763624658
-    },
-    {
-      "id": "eb27eb28dd91",
-      "title": "海軍高雄新濱營區本周六開放 最新艦艇裝備陳展超吸睛",
-      "url": "https://udn.com/news/story/10930/9152322",
-      "source": "udn.com",
-      "published": 1763624546
-    },
-    {
-      "id": "eea23aad5d01",
-      "title": "行政院提財劃法修正案…嘉義市政府表達不樂觀 提4修正建議",
-      "url": "https://udn.com/news/story/124401/9152315",
-      "source": "udn.com",
-      "published": 1763624234
-    },
-    {
       "id": "09ab76cd9417",
       "title": "中日緊張影響「貓熊外交」？2隻「旅日」大貓熊租期將至、返國倒數",
       "url": "https://money.udn.com/money/story/5599/9152311",
       "source": "money.udn.com",
       "published": 1763624132
-    },
-    {
-      "id": "dcf16774ee14",
-      "title": "「沒時間看也沒有評論」藍白黨魁昨會面 李四川再重申這一事",
-      "url": "https://udn.com/news/story/122004/9152305",
-      "source": "udn.com",
-      "published": 1763623917
     },
     {
       "id": "28c4731bf646",
@@ -210,13 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9152278",
       "source": "money.udn.com",
       "published": 1763623295
-    },
-    {
-      "id": "4e9d7074f35c",
-      "title": "政院批准社安網2.0 兒虐逾4成源自疏忽…社家署長：擬推到宅育嬰指導",
-      "url": "https://udn.com/news/story/6656/9152258",
-      "source": "udn.com",
-      "published": 1763623192
     },
     {
       "id": "cf4eb0ece7c5",
@@ -240,20 +317,6 @@
       "published": 1763622591
     },
     {
-      "id": "d45bffa35ebc",
-      "title": "2026藍白合？林碩彥建議聯合政府 楊文科：好人才廣納不分黨派",
-      "url": "https://udn.com/news/story/124652/9152230",
-      "source": "udn.com",
-      "published": 1763622272
-    },
-    {
-      "id": "aaa04cb8e318",
-      "title": "政院版財劃法挹注地方上看1.2兆 蔣萬安：會議未有具體數字",
-      "url": "https://udn.com/news/story/124401/9152227",
-      "source": "udn.com",
-      "published": 1763622232
-    },
-    {
       "id": "211afa682908",
       "title": "在日台灣同鄉會12團體發聲 譴責中國製造反日氛圍",
       "url": "https://money.udn.com/money/story/5599/9152216",
@@ -268,53 +331,11 @@
       "published": 1763621552
     },
     {
-      "id": "ad69c7f68342",
-      "title": "川普推動新版俄烏和平方案 美陸軍部長抵基輔",
-      "url": "https://money.udn.com/money/story/5599/9152184",
-      "source": "money.udn.com",
-      "published": 1763621140
-    },
-    {
-      "id": "4f460c1ff501",
-      "title": "供應鏈衝擊持續！FedEx 執行長重申美中貨運量下滑 全球物流大洗牌",
-      "url": "https://money.udn.com/money/story/5599/9152177",
-      "source": "money.udn.com",
-      "published": 1763621137
-    },
-    {
-      "id": "c78979911f00",
-      "title": "曾遭指共諜 菲前華裔市長涉人口販運被判無期徒刑",
-      "url": "https://money.udn.com/money/story/5599/9152157",
-      "source": "money.udn.com",
-      "published": 1763620600
-    },
-    {
-      "id": "04ed4aab0244",
-      "title": "白宮傳要求美國國會否決管制輝達出口晶片的法案",
-      "url": "https://money.udn.com/money/story/5599/9152106",
-      "source": "money.udn.com",
-      "published": 1763619568
-    },
-    {
-      "id": "2b26cc971aab",
-      "title": "印尼塞梅魯火山噴發 逾900人撤離170登山客脫困",
-      "url": "https://money.udn.com/money/story/5599/9152074",
-      "source": "money.udn.com",
-      "published": 1763618802
-    },
-    {
       "id": "ee683b09d472",
       "title": "英國立法禁售塑膠濕紙巾，但新式濕紙巾適合扔進馬桶嗎？",
       "url": "https://www.bbc.com/zhongwen/articles/c2em89lxv3xo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1763618528
-    },
-    {
-      "id": "10e7ff2417d1",
-      "title": "韓渡輪擱淺事件 航海人員滑手機釀禍遭緊急逮捕",
-      "url": "https://money.udn.com/money/story/5599/9152055",
-      "source": "money.udn.com",
-      "published": 1763618441
     },
     {
       "id": "074fb3e491ca",
@@ -709,13 +730,6 @@
       "published": 1763551380
     },
     {
-      "id": "51907f88bbb3",
-      "title": "140年前法国攻打了台湾：如今台湾面临中国的威胁，中法基隆之战能否带来战略启示？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20251119-140%E5%B9%B4%E5%89%8D%E6%B3%95%E5%9B%BD%E6%94%BB%E6%89%93%E4%BA%86%E5%8F%B0%E6%B9%BE-%E5%A6%82%E4%BB%8A%E5%8F%B0%E6%B9%BE%E9%9D%A2%E4%B8%B4%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A8%81%E8%83%81%EF%BC%8C%E4%B8%AD%E6%B3%95%E5%9F%BA%E9%9A%86%E4%B9%8B%E6%88%98%E8%83%BD%E5%90%A6%E5%B8%A6%E6%9D%A5%E6%88%98%E7%95%A5%E5%90%AF%E7%A4%BA",
-      "source": "rfi.fr",
-      "published": 1763551144
-    },
-    {
       "id": "dbbfde9990b1",
       "title": "高市早苗言論風波，台灣捲入中日角力為何力求低調？",
       "url": "https://www.bbc.com/zhongwen/articles/cr43g4lv69lo/trad?at_medium=RSS&at_campaign=rss",
@@ -987,13 +1001,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cly9mnkyen8o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1763428961
-    },
-    {
-      "id": "004010be86b5",
-      "title": "「國運與王國衰亡」：歷史上的極光成因理論",
-      "url": "https://www.bbc.com/zhongwen/articles/crexylx9q57o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1763425350
     },
     {
       "id": "5d5cc8d4c147",
@@ -1393,14 +1400,7 @@
       "url": "https://www.dw.com/zh/英伟达将向韩国供应26万枚尖端芯片/a-74570158?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761911520
-    },
-    {
-      "id": "1bdb29c21156",
-      "title": "持續投入、租賃金器、購買者年輕化……2025大行情下的「買金潮」有何不同？",
-      "url": "https://www.bbc.com/zhongwen/articles/cjw974qqn1vo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1761902964
     }
   ],
-  "build_id": 1763631538
+  "build_id": 1763633476
 }
