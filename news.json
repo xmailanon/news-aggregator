@@ -1,12 +1,75 @@
 {
-  "updated": 1763626500,
+  "updated": 1763628374,
   "items": [
+    {
+      "id": "ddfbebfc9521",
+      "title": "捷克南部列車相撞42傷　城際交通中斷",
+      "url": "https://money.udn.com/money/story/5599/9152492",
+      "source": "money.udn.com",
+      "published": 1763628325
+    },
+    {
+      "id": "ab0d81dd2758",
+      "title": "韓浦項鋼鐵廠疑發生一氧化碳意外　3人心跳停止",
+      "url": "https://money.udn.com/money/story/5599/9152471",
+      "source": "money.udn.com",
+      "published": 1763627851
+    },
+    {
+      "id": "ffd1361dec41",
+      "title": "中日交恶：香港两公司弹性处理赴日机票　官办电台突停播日制动画 建制有微言",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251120-%E4%B8%AD%E6%97%A5%E4%BA%A4%E6%81%B6-%E9%A6%99%E6%B8%AF%E4%B8%A4%E5%85%AC%E5%8F%B8%E5%BC%B9%E6%80%A7%E5%A4%84%E7%90%86%E8%B5%B4%E6%97%A5%E6%9C%BA%E7%A5%A8-%E5%AE%98%E5%8A%9E%E7%94%B5%E5%8F%B0%E7%AA%81%E5%81%9C%E6%92%AD%E6%97%A5%E5%88%B6%E5%8A%A8%E7%94%BB-%E5%BB%BA%E5%88%B6%E6%9C%89%E5%BE%AE%E8%A8%80",
+      "source": "rfi.fr",
+      "published": 1763627640
+    },
+    {
+      "id": "076c54f087e8",
+      "title": "院版財劃法修正草案公布 苗栗縣政府喊「無從掌握實際影響」",
+      "url": "https://udn.com/news/story/124401/9152442",
+      "source": "udn.com",
+      "published": 1763626993
+    },
+    {
+      "id": "de76a099217b",
+      "title": "財政部稱政院版地方獲配財源較立院新版增千億 各縣市實際金額仍未定",
+      "url": "https://udn.com/news/story/124401/9152439",
+      "source": "udn.com",
+      "published": 1763626984
+    },
+    {
+      "id": "39fabc0e938f",
+      "title": "影／藍白地方合作聯合政府？ 李乾龍：我想也可行",
+      "url": "https://udn.com/news/story/122004/9152409",
+      "source": "udn.com",
+      "published": 1763626424
+    },
     {
       "id": "e1f3a4e47184",
       "title": "巴拿馬國會議員規劃訪台灣　與中國掀外交齟齬",
       "url": "https://money.udn.com/money/story/5599/9152404",
       "source": "money.udn.com",
       "published": 1763626337
+    },
+    {
+      "id": "1a786e803bb8",
+      "title": "整理包／從大罷免翻車到遭中共通緝 沈伯洋過往爭議一次回顧",
+      "url": "https://udn.com/news/story/121461/9152380",
+      "source": "udn.com",
+      "published": 1763626123
+    },
+    {
+      "id": "0106a16b97c6",
+      "title": "政院財劃法新版本出爐 張麗善質疑：1.2兆標準何在？",
+      "url": "https://udn.com/news/story/124401/9152398",
+      "source": "udn.com",
+      "published": 1763626123
+    },
+    {
+      "id": "8560e3f2fd56",
+      "title": "院版財政收支劃分法今通過 新北市府：不接受「3不條件」下倉促定案",
+      "url": "https://udn.com/news/story/124401/9152390",
+      "source": "udn.com",
+      "published": 1763625810
     },
     {
       "id": "e066a4b192c9",
@@ -17,7 +80,7 @@
     },
     {
       "id": "72ffe6666780",
-      "title": "樂施會：G20億萬富豪年收入足讓全球貧困人口脫貧",
+      "title": "樂施會：G20 億萬富豪年收入足讓全球貧困人口脫貧",
       "url": "https://money.udn.com/money/story/5599/9152331",
       "source": "money.udn.com",
       "published": 1763624711
@@ -42,6 +105,13 @@
       "url": "https://udn.com/news/story/124401/9152315",
       "source": "udn.com",
       "published": 1763624234
+    },
+    {
+      "id": "09ab76cd9417",
+      "title": "中日緊張影響「貓熊外交」？2隻「旅日」大貓熊租期將至、返國倒數",
+      "url": "https://money.udn.com/money/story/5599/9152311",
+      "source": "money.udn.com",
+      "published": 1763624132
     },
     {
       "id": "dcf16774ee14",
@@ -163,13 +233,6 @@
       "published": 1763621196
     },
     {
-      "id": "91d7fbee886a",
-      "title": "【重磅快評】卓揆迎戰演過頭 政院財劃法暗藏這些魔鬼",
-      "url": "https://udn.com/news/story/124401/9152178",
-      "source": "udn.com",
-      "published": 1763621156
-    },
-    {
       "id": "ad69c7f68342",
       "title": "川普推動新版俄烏和平方案 美陸軍部長抵基輔",
       "url": "https://money.udn.com/money/story/5599/9152184",
@@ -184,46 +247,11 @@
       "published": 1763621137
     },
     {
-      "id": "7cf69069999c",
-      "title": "蕭副總統：台日友好在一次次挑戰中展現無遺",
-      "url": "https://udn.com/news/story/6656/9152091",
-      "source": "udn.com",
-      "published": 1763621105
-    },
-    {
-      "id": "18a4cc1bbc44",
-      "title": "前年改委員：在野裝聾作啞 執政認為碰不得 勞保缺口地雷在各黨",
-      "url": "https://udn.com/news/story/6656/9152173",
-      "source": "udn.com",
-      "published": 1763621020
-    },
-    {
-      "id": "9cdb3f4c5afb",
-      "title": "立委：政府應盤點數位安全保護 提兒少個資修法版本",
-      "url": "https://udn.com/news/story/6656/9152115",
-      "source": "udn.com",
-      "published": 1763620990
-    },
-    {
       "id": "c78979911f00",
       "title": "曾遭指共諜 菲前華裔市長涉人口販運被判無期徒刑",
       "url": "https://money.udn.com/money/story/5599/9152157",
       "source": "money.udn.com",
       "published": 1763620600
-    },
-    {
-      "id": "4174e53bc13c",
-      "title": "食安連環爆官民雙輸 政府還在擠牙膏匪夷所思",
-      "url": "https://udn.com/news/story/6656/9152155",
-      "source": "udn.com",
-      "published": 1763620533
-    },
-    {
-      "id": "a0d04856e47f",
-      "title": "永豐銀行用熱血翻轉金融，連續3年榮獲「體育推手獎」肯定！",
-      "url": "https://udn.com/news/story/7314/9131417",
-      "source": "udn.com",
-      "published": 1763620500
     },
     {
       "id": "04ed4aab0244",
@@ -280,27 +308,6 @@
       "url": "https://money.udn.com/money/story/10511/9151973",
       "source": "money.udn.com",
       "published": 1763617001
-    },
-    {
-      "id": "d76ad87b0c23",
-      "title": "COP30 談判陷僵局 巴西總統魯拉親自到場加持",
-      "url": "https://money.udn.com/money/story/5599/9151945",
-      "source": "money.udn.com",
-      "published": 1763616639
-    },
-    {
-      "id": "f15060e6c9ae",
-      "title": "美政府停擺沒照片掀陰謀論 NASA 公開彗星照強調「非外星文明物體」",
-      "url": "https://money.udn.com/money/story/5599/9151937",
-      "source": "money.udn.com",
-      "published": 1763616530
-    },
-    {
-      "id": "393ff4a395ea",
-      "title": "幫輝達排除障礙？傳美晶片出口限制轉彎 白宮籲國會擋下 GAIN AI 法案",
-      "url": "https://money.udn.com/money/story/5599/9151857",
-      "source": "money.udn.com",
-      "published": 1763615288
     },
     {
       "id": "cab3edbc087c",
@@ -721,13 +728,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A/20251119-%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A-%E5%BE%B7%E5%9B%BD%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E4%B9%8B%E5%8D%81%E4%B8%83-%E5%BC%BA%E7%9B%97-%E7%9B%97%E4%BA%A6%E6%9C%89%E9%81%93%E4%B8%8E%E7%90%86%E6%83%B3%E4%B8%BB%E4%B9%89%E7%9A%84%E7%A0%B4%E7%81%AD",
       "source": "rfi.fr",
       "published": 1763541289
-    },
-    {
-      "id": "10077d3c008f",
-      "title": "欧洲思想文化长廊:德国浪漫主义之十六：席勒：自由的精灵",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A/20251119-%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A-%E5%BE%B7%E5%9B%BD%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E4%B9%8B%E5%8D%81%E5%85%AD-%E5%B8%AD%E5%8B%92-%E8%87%AA%E7%94%B1%E7%9A%84%E7%B2%BE%E7%81%B5",
-      "source": "rfi.fr",
-      "published": 1763540685
     },
     {
       "id": "4fd1fecd0a80",
@@ -1402,5 +1402,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1763626500
+  "build_id": 1763628374
 }
