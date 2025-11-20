@@ -1,6 +1,97 @@
 {
-  "updated": 1763667138,
+  "updated": 1763669520,
   "items": [
+    {
+      "id": "5b1c50431dfd",
+      "title": "美就業走穩 9月非農就業比預期好 但企業裁員明顯增加 12月降息添變數",
+      "url": "https://money.udn.com/money/story/5599/9153327",
+      "source": "money.udn.com",
+      "published": 1763668846
+    },
+    {
+      "id": "e05f73004bf6",
+      "title": "世卫宣布非洲三国除麻疹风疹",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251120-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-rfi-%E4%B8%96%E5%8D%AB%E5%AE%A3%E5%B8%83%E9%9D%9E%E6%B4%B2%E4%B8%89%E5%9B%BD%E9%99%A4%E9%BA%BB%E7%96%B9%E9%A3%8E%E7%96%B9",
+      "source": "rfi.fr",
+      "published": 1763668796
+    },
+    {
+      "id": "e185b794e349",
+      "title": "亞洲穩定匯價 外匯存底銀彈充足",
+      "url": "https://money.udn.com/money/story/5599/9153325",
+      "source": "money.udn.com",
+      "published": 1763668390
+    },
+    {
+      "id": "32fd43eaa0d5",
+      "title": "10月會議紀錄揭密  Fed 多位官員挺利率不變",
+      "url": "https://money.udn.com/money/story/5599/9153323",
+      "source": "money.udn.com",
+      "published": 1763668312
+    },
+    {
+      "id": "d3081138f797",
+      "title": "日大手筆救市 1,300億美元上膛 匯債緊張",
+      "url": "https://money.udn.com/money/story/5599/9153320",
+      "source": "money.udn.com",
+      "published": 1763668275
+    },
+    {
+      "id": "9c784f07020a",
+      "title": "1分鐘看世界／環球等三大唱片公司授權 音樂新創將推 AI 編曲服務",
+      "url": "https://money.udn.com/money/story/5599/9153300",
+      "source": "money.udn.com",
+      "published": 1763668180
+    },
+    {
+      "id": "5a39be7bc6ef",
+      "title": "川普「創世紀任務」強化 AI 布局 能源部：重要性不輸太空競賽",
+      "url": "https://money.udn.com/money/story/5599/9153271",
+      "source": "money.udn.com",
+      "published": 1763668112
+    },
+    {
+      "id": "ca2efb590ff3",
+      "title": "沃爾瑪報喜 二度上修財測",
+      "url": "https://money.udn.com/money/story/123398/9153282",
+      "source": "money.udn.com",
+      "published": 1763668011
+    },
+    {
+      "id": "8698dfee2b76",
+      "title": "普丁出招 設 AI 特別工作小組",
+      "url": "https://money.udn.com/money/story/5599/9153281",
+      "source": "money.udn.com",
+      "published": 1763667965
+    },
+    {
+      "id": "9e9b91855d28",
+      "title": "印度衝刺晶片製造 喊話七年追平對手",
+      "url": "https://money.udn.com/money/story/5599/9153283",
+      "source": "money.udn.com",
+      "published": 1763667924
+    },
+    {
+      "id": "864afcb810f5",
+      "title": "英國：俄艦侵犯專屬經濟海域　首度雷射攻擊英空軍",
+      "url": "https://money.udn.com/money/story/5599/9153537",
+      "source": "money.udn.com",
+      "published": 1763667920
+    },
+    {
+      "id": "7cc7f08fda13",
+      "title": "俄罗斯称已占领乌克兰防线的“关键枢纽”——库皮扬斯克市",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251120-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E5%B7%B2%E5%8D%A0%E9%A2%86%E4%B9%8C%E5%85%8B%E5%85%B0%E9%98%B2%E7%BA%BF%E7%9A%84-%E5%85%B3%E9%94%AE%E6%9E%A2%E7%BA%BD-%E5%BA%93%E7%9A%AE%E6%89%AC%E6%96%AF%E5%85%8B%E5%B8%82",
+      "source": "rfi.fr",
+      "published": 1763667672
+    },
+    {
+      "id": "433f391b7733",
+      "title": "乌克兰称已收到美国的和平计划草案 愿与美方“建设性”合作",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251120-%E4%B9%8C%E5%85%8B%E5%85%B0%E7%A7%B0%E5%B7%B2%E6%94%B6%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92%E8%8D%89%E6%A1%88-%E6%84%BF%E4%B8%8E%E7%BE%8E%E6%96%B9-%E5%BB%BA%E8%AE%BE%E6%80%A7-%E5%90%88%E4%BD%9C",
+      "source": "rfi.fr",
+      "published": 1763667193
+    },
     {
       "id": "14de82484d6b",
       "title": "BBC前记者写书揭露20多年前“骗访戴安娜王妃”事件",
@@ -114,53 +205,11 @@
       "published": 1763658291
     },
     {
-      "id": "167d099fe63f",
-      "title": "輝達本季財測 未納大陸市場",
-      "url": "https://money.udn.com/money/story/123398/9153352",
-      "source": "money.udn.com",
-      "published": 1763658044
-    },
-    {
-      "id": "3f6a0ebef21e",
-      "title": "加密貨幣總市值蒸發逾1兆美元 比特幣觸及7個月低點",
-      "url": "https://money.udn.com/money/story/5599/9151146",
-      "source": "money.udn.com",
-      "published": 1763657880
-    },
-    {
-      "id": "1a02075c6937",
-      "title": "人工智慧教父之一 LeCun 將最早於本周宣布離開 Meta",
-      "url": "https://money.udn.com/money/story/5599/9151170",
-      "source": "money.udn.com",
-      "published": 1763657707
-    },
-    {
-      "id": "fc982dda9016",
-      "title": "美批准向阿聯、沙國出售Blackwell 輝達AI晶片 超級大單來了",
-      "url": "https://money.udn.com/money/story/5599/9153336",
-      "source": "money.udn.com",
-      "published": 1763657698
-    },
-    {
-      "id": "af10dc06cde1",
-      "title": "大咖對話 馬斯克、黃仁勳看見未來",
-      "url": "https://money.udn.com/money/story/5599/9153341",
-      "source": "money.udn.com",
-      "published": 1763657442
-    },
-    {
       "id": "754a3ffe9eb8",
       "title": "學者建議 另訂勞保撥補特別條例",
       "url": "https://udn.com/news/story/6656/9153433",
       "source": "udn.com",
       "published": 1763657428
-    },
-    {
-      "id": "85447e2aeaec",
-      "title": "城堡證券推出人工智慧主題債券籃子 可迅速調整對科技巨頭的敞口",
-      "url": "https://money.udn.com/money/story/5599/9151218",
-      "source": "money.udn.com",
-      "published": 1763657416
     },
     {
       "id": "c5f84829b47c",
@@ -254,20 +303,6 @@
       "published": 1763654962
     },
     {
-      "id": "e7ea4b15b6bf",
-      "title": "AI工作術 2／探測1億人在想什麼！網路巨頭的AI神器讓廣告創意更容易",
-      "url": "https://money.udn.com/money/story/122979/9043995",
-      "source": "money.udn.com",
-      "published": 1763654767
-    },
-    {
-      "id": "7d83d34ade48",
-      "title": "AI工作術 1／用AI是員工的義務！網路巨頭如何三年把業務生產力提升二倍？",
-      "url": "https://money.udn.com/money/story/122979/9043994",
-      "source": "money.udn.com",
-      "published": 1763654622
-    },
-    {
       "id": "8dcd7e83981a",
       "title": "歷史上的今天／1980年大雨淹水 台北市松江路汪洋一片",
       "url": "https://udn.com/news/story/7314/9151202",
@@ -287,20 +322,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251120-%E5%87%BA%E8%AE%A9%E9%A2%86%E5%9C%9F-%E6%94%BE%E5%BC%83%E6%AD%A6%E5%99%A8-%E7%BE%8E%E5%9B%BD%E7%9A%84-%E6%AD%A2%E4%B9%8C%E6%88%98%E8%8D%89%E6%A1%88-%E5%BC%95%E7%88%86%E6%AC%A7%E6%B4%B2%E5%A4%96%E4%BA%A4%E5%9C%88",
       "source": "rfi.fr",
       "published": 1763653485
-    },
-    {
-      "id": "2ece7f2649c1",
-      "title": "COP30直擊／友邦發言挺台 中國竟貶我為「地方政府」無權參加氣候公約",
-      "url": "https://money.udn.com/money/story/5599/9153413",
-      "source": "money.udn.com",
-      "published": 1763653400
-    },
-    {
-      "id": "c1f967424e08",
-      "title": "COP30直擊／聯合國秘書長趕赴貝倫 促各國守住1.5°C、脫離化石燃料",
-      "url": "https://money.udn.com/money/story/5599/9153408",
-      "source": "money.udn.com",
-      "published": 1763653299
     },
     {
       "id": "eb199003cd7f",
@@ -618,13 +639,6 @@
       "published": 1763582579
     },
     {
-      "id": "cfd78ea6b6c5",
-      "title": "塞浦路斯天然气最早或于2027年进入欧洲市场",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E5%A4%A9%E7%84%B6%E6%B0%94%E6%9C%80%E6%97%A9%E6%88%96%E4%BA%8E2027%E5%B9%B4%E8%BF%9B%E5%85%A5%E6%AC%A7%E6%B4%B2%E5%B8%82%E5%9C%BA",
-      "source": "rfi.fr",
-      "published": 1763579381
-    },
-    {
       "id": "0341460c660d",
       "title": "你真的需要“日行1万步”吗？",
       "url": "https://cn.nytimes.com/education/20251120/how-many-steps-per-day-health/?utm_source=RSS",
@@ -639,13 +653,6 @@
       "published": 1763578021
     },
     {
-      "id": "1e3d9c8357a2",
-      "title": "泽连斯基土耳其会谈未见成效 乌克兰遭俄军空袭致25人遇难",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251119-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%9C%9F%E8%80%B3%E5%85%B6%E4%BC%9A%E8%B0%88%E6%9C%AA%E8%A7%81%E6%88%90%E6%95%88-%E4%B9%8C%E5%85%8B%E5%85%B0%E9%81%AD%E4%BF%84%E5%86%9B%E7%A9%BA%E8%A2%AD%E8%87%B425%E4%BA%BA%E9%81%87%E9%9A%BE",
-      "source": "rfi.fr",
-      "published": 1763576182
-    },
-    {
       "id": "6fe248561490",
       "title": "“美国优先”的特朗普为何“顾外不顾内”",
       "url": "https://cn.nytimes.com/usa/20251120/trump-america-first-saudi-tariffs/?utm_source=RSS",
@@ -658,13 +665,6 @@
       "url": "https://cn.nytimes.com/usa/20251120/larry-summers-harvard-epstein/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1763574525
-    },
-    {
-      "id": "38c05ca6ed99",
-      "title": "中国重新成为德国第一大贸易伙伴 对华贸易逆差达647亿欧元",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%96%B0%E6%88%90%E4%B8%BA%E5%BE%B7%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4-%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E9%80%86%E5%B7%AE%E8%BE%BE647%E4%BA%BF%E6%AC%A7%E5%85%83",
-      "source": "rfi.fr",
-      "published": 1763572419
     },
     {
       "id": "594de798b917",
@@ -1402,5 +1402,5 @@
       "published": 1761922740
     }
   ],
-  "build_id": 1763667138
+  "build_id": 1763669520
 }
