@@ -1,6 +1,13 @@
 {
-  "updated": 1763662507,
+  "updated": 1763664461,
   "items": [
+    {
+      "id": "284fca12e62c",
+      "title": "中国将在赞比亚投14亿美元  升级一条运输铜矿的铁路",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251120-%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%9C%A8%E8%B5%9E%E6%AF%94%E4%BA%9A%E6%8A%9514%E4%BA%BF%E7%BE%8E%E5%85%83-%E5%8D%87%E7%BA%A7%E4%B8%80%E6%9D%A1%E8%BF%90%E8%BE%93%E9%93%9C%E7%9F%BF%E7%9A%84%E9%93%81%E8%B7%AF",
+      "source": "rfi.fr",
+      "published": 1763662999
+    },
     {
       "id": "f1c684b23b88",
       "title": "欧盟与南非就稀有矿产等战略原材料寻求合作",
@@ -637,13 +644,6 @@
       "url": "https://cn.nytimes.com/usa/20251120/trump-america-first-saudi-tariffs/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1763575271
-    },
-    {
-      "id": "95ee63f4b718",
-      "title": "无人机再侵罗马尼亚 德国战机和罗马尼亚战机紧急升空",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251119-%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%86%8D%E4%BE%B5%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A-%E5%BE%B7%E5%9B%BD%E6%88%98%E6%9C%BA%E5%92%8C%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E5%8D%87%E7%A9%BA",
-      "source": "rfi.fr",
-      "published": 1763574636
     },
     {
       "id": "2fbe6f217eac",
@@ -1402,5 +1402,5 @@
       "published": 1761922740
     }
   ],
-  "build_id": 1763662507
+  "build_id": 1763664461
 }
