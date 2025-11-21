@@ -1,6 +1,34 @@
 {
-  "updated": 1763697240,
+  "updated": 1763698402,
   "items": [
+    {
+      "id": "1e83a9f1f427",
+      "title": "牽一髮動全身！美國聯準會升降息如何撼動全球市場一次看",
+      "url": "https://money.udn.com/money/story/5599/9154235",
+      "source": "money.udn.com",
+      "published": 1763698247
+    },
+    {
+      "id": "3e588940bc59",
+      "title": "Fed官員續放鷹 市場估12月降息機率不到四成",
+      "url": "https://money.udn.com/money/story/5599/9154220",
+      "source": "money.udn.com",
+      "published": 1763697932
+    },
+    {
+      "id": "d1f4c5e08dc2",
+      "title": "日本熊患危机：袭击事件激增，政府派遣自卫队捕熊",
+      "url": "https://cn.nytimes.com/asia-pacific/20251121/japan-bears-attacks/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1763697863
+    },
+    {
+      "id": "6b004a67da8a",
+      "title": "影／批行政院財劃法玩弄數字 黃國昌要求退回",
+      "url": "https://udn.com/news/story/6656/9154186",
+      "source": "udn.com",
+      "published": 1763697364
+    },
     {
       "id": "baca15d76770",
       "title": "三星電子重回雙箭頭體制　盧泰文升任代表理事",
@@ -14,6 +42,13 @@
       "url": "https://money.udn.com/money/story/5599/9154160",
       "source": "money.udn.com",
       "published": 1763696834
+    },
+    {
+      "id": "6e39d4864a58",
+      "title": "藍委提修總統副總統選罷法付委 拚周典論涉收購連署案解套",
+      "url": "https://udn.com/news/story/6656/9154152",
+      "source": "udn.com",
+      "published": 1763696494
     },
     {
       "id": "11061880cbae",
@@ -254,39 +289,11 @@
       "published": 1763690071
     },
     {
-      "id": "feabdb71496c",
-      "title": "賴總統吃壽司挺日 大阪美女參議員大啖滷肉飯回應：德不孤必有鄰",
-      "url": "https://udn.com/news/story/6656/9153751",
-      "source": "udn.com",
-      "published": 1763690005
-    },
-    {
-      "id": "5f20e09bc820",
-      "title": "一周兩次「聯合戰備警巡」 29共機7共艦出海擾台",
-      "url": "https://udn.com/news/story/10930/9153837",
-      "source": "udn.com",
-      "published": 1763690003
-    },
-    {
       "id": "edad09572136",
       "title": "輝達先進晶片遭非法出口至中國　四嫌遭美方逮捕",
       "url": "https://money.udn.com/money/story/5599/9153815",
       "source": "money.udn.com",
       "published": 1763689521
-    },
-    {
-      "id": "79270643a3f3",
-      "title": "俄羅斯重返G7！揭露川普團隊28點和平計畫的潛台詞",
-      "url": "https://money.udn.com/money/story/5599/9153812",
-      "source": "money.udn.com",
-      "published": 1763689459
-    },
-    {
-      "id": "5e7155bc33f7",
-      "title": "油價因美國力促俄烏和談走低  金價微跌",
-      "url": "https://money.udn.com/money/story/5599/9153778",
-      "source": "money.udn.com",
-      "published": 1763688466
     },
     {
       "id": "7e89ccddb7c6",
@@ -665,13 +672,6 @@
       "url": "https://cn.nytimes.com/business/20251120/ai-research-chinese-talent/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1763609663
-    },
-    {
-      "id": "194e7e133245",
-      "title": "中國打壓升級 錫安教會18人遭正式批捕",
-      "url": "https://www.dw.com/zh/中國打壓升級-錫安教會18人遭正式批捕/a-74814437?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763609400
     },
     {
       "id": "a31a9d33fd1a",
@@ -1108,13 +1108,6 @@
       "published": 1763346325
     },
     {
-      "id": "0576ed52daaa",
-      "title": "Anthropic称中国黑客利用该公司AI技术发起网络攻击",
-      "url": "https://cn.nytimes.com/business/20251117/chinese-hackers-artificial-intelligence/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1763340201
-    },
-    {
       "id": "255e0ae7eb3b",
       "title": "硅谷的堕落：从革命者到逐利忘义",
       "url": "https://cn.nytimes.com/opinion/20251117/silicon-valley-meta-apple-trump/?utm_source=RSS",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/中国崛起为全球科研强国：这对欧洲意味着什么？/a-74559428?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1762070520
+    },
+    {
+      "id": "b4a1630c1080",
+      "title": "英国安德鲁王子：失掉王室头衔、逐出温莎庄园",
+      "url": "https://www.dw.com/zh/英国安德鲁王子：失掉王室头衔、逐出温莎庄园/a-74571720?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1761922740
     }
   ],
-  "build_id": 1763697240
+  "build_id": 1763698402
 }
