@@ -1,6 +1,20 @@
 {
-  "updated": 1763743306,
+  "updated": 1763744944,
   "items": [
+    {
+      "id": "a26d315829a2",
+      "title": "和平計畫迫烏讓步　澤倫斯基：烏克蘭史上最艱難抉擇",
+      "url": "https://money.udn.com/money/story/5599/9155743",
+      "source": "money.udn.com",
+      "published": 1763744790
+    },
+    {
+      "id": "42eb027f8757",
+      "title": "輝達獲利市場不領情 黃仁勳抱屈 投資人期待高到「怎麼做都不對」",
+      "url": "https://money.udn.com/money/story/123398/9155573",
+      "source": "money.udn.com",
+      "published": 1763743661
+    },
     {
       "id": "00502e729bec",
       "title": "買甲骨文CDS…AI避險新交易",
@@ -16,9 +30,9 @@
       "published": 1763743259
     },
     {
-      "id": "ab8e3c15a14c",
+      "id": "820d0bde4805",
       "title": "觀察站／雲縣長選戰 藍營深耕優勢、綠整合存變數",
-      "url": "https://udn.com/news/story/6656/9155680",
+      "url": "https://udn.com/news/story/124652/9155680",
       "source": "udn.com",
       "published": 1763742596
     },
@@ -79,13 +93,6 @@
       "published": 1763740800
     },
     {
-      "id": "b3af93c13747",
-      "title": "福島核食管制全解禁 食藥署稱無關中日爭議",
-      "url": "https://udn.com/news/story/6656/9155629",
-      "source": "udn.com",
-      "published": 1763740800
-    },
-    {
       "id": "5a41b343d3fa",
       "title": "公投恢復綁大選 有機會明年選舉適用",
       "url": "https://udn.com/news/story/6656/9155638",
@@ -119,13 +126,6 @@
       "url": "https://udn.com/news/story/6656/9155656",
       "source": "udn.com",
       "published": 1763740744
-    },
-    {
-      "id": "73031a81cd87",
-      "title": "我投資美4千億美元？龔明鑫：還沒確定",
-      "url": "https://udn.com/news/story/6656/9155659",
-      "source": "udn.com",
-      "published": 1763740743
     },
     {
       "id": "2b19ce9f9576",
@@ -324,25 +324,11 @@
       "published": 1763732837
     },
     {
-      "id": "4cab531a2ac3",
-      "title": "日本首相高市早苗公布大規模財政刺激措施 總規模達到21.3兆日圓",
-      "url": "https://money.udn.com/money/story/5599/9154311",
-      "source": "money.udn.com",
-      "published": 1763732436
-    },
-    {
       "id": "d624b782e03d",
       "title": "恢復公投綁大選遭綠譴責 藍白：教訓民進黨背叛民主無能卸責",
       "url": "https://udn.com/news/story/6656/9155422",
       "source": "udn.com",
       "published": 1763732185
-    },
-    {
-      "id": "8dc27b877115",
-      "title": "聯準會官員 Paulson 稱 她對12月利率決議持謹慎態度",
-      "url": "https://money.udn.com/money/story/5599/9154658",
-      "source": "money.udn.com",
-      "published": 1763732140
     },
     {
       "id": "6c03ccdedcf2",
@@ -406,6 +392,20 @@
       "url": "https://www.dw.com/zh/法国孩子不会在乌克兰作战牺牲/a-74835373?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763724120
+    },
+    {
+      "id": "cff307dc4453",
+      "title": "地制法三讀通過「每年將增1.8億人事費用」 內政部：排擠地方業務預算",
+      "url": "https://udn.com/news/story/6656/9155221",
+      "source": "udn.com",
+      "published": 1763722588
+    },
+    {
+      "id": "8b3db58ac2ad",
+      "title": "台股重挫賴總統稱馬英九轉移政權時不足萬點 王鴻薇：無能",
+      "url": "https://udn.com/news/story/6656/9155222",
+      "source": "udn.com",
+      "published": 1763722587
     },
     {
       "id": "dffd10bbdf24",
@@ -1402,5 +1402,5 @@
       "published": 1761922740
     }
   ],
-  "build_id": 1763743306
+  "build_id": 1763744944
 }
