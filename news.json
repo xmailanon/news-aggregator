@@ -1,6 +1,41 @@
 {
-  "updated": 1763701874,
+  "updated": 1763703626,
   "items": [
+    {
+      "id": "efb7cd84fb91",
+      "title": "高市稱推進中日戰略互惠方向未變 台灣有事是否構成危機將依情況判定",
+      "url": "https://money.udn.com/money/story/5599/9154396",
+      "source": "money.udn.com",
+      "published": 1763703211
+    },
+    {
+      "id": "b23f71394409",
+      "title": "挺日抗中國壓力  駐日代表籲「買爆日本農水產品」",
+      "url": "https://money.udn.com/money/story/5599/9154393",
+      "source": "money.udn.com",
+      "published": 1763703033
+    },
+    {
+      "id": "5a1bdddc232b",
+      "title": "高市早苗大撒幣！國民可拿6百元消費券買米 18歲以下發4千元現金",
+      "url": "https://money.udn.com/money/story/5599/9154369",
+      "source": "money.udn.com",
+      "published": 1763702672
+    },
+    {
+      "id": "6366183d4970",
+      "title": "美人權報告政策大轉彎　將納入性別變更與平權議題",
+      "url": "https://money.udn.com/money/story/10511/9154364",
+      "source": "money.udn.com",
+      "published": 1763702492
+    },
+    {
+      "id": "e9cc51064513",
+      "title": "鴻海大舉投資AI　劉揚偉預言中國電車產業恐加速整併",
+      "url": "https://money.udn.com/money/story/5599/9154337",
+      "source": "money.udn.com",
+      "published": 1763701953
+    },
     {
       "id": "9908da8e6411",
       "title": "財報亮眼卻兩面不討好 黃仁勳內部會議談話曝光「替輝達抱屈」",
@@ -10,7 +45,7 @@
     },
     {
       "id": "b473920cf8c1",
-      "title": "影／賴清德雲林贈匾談經濟 馬時代台股8000點...現在最高28000點",
+      "title": "影／賴清德總統雲林贈匾談經濟 馬時代台股8000點...現在最高28000點",
       "url": "https://udn.com/news/story/6656/9154326",
       "source": "udn.com",
       "published": 1763701744
@@ -149,13 +184,6 @@
       "published": 1763697948
     },
     {
-      "id": "3e588940bc59",
-      "title": "Fed官員續放鷹 市場估12月降息機率不到四成",
-      "url": "https://money.udn.com/money/story/5599/9154220",
-      "source": "money.udn.com",
-      "published": 1763697932
-    },
-    {
       "id": "d1f4c5e08dc2",
       "title": "日本熊患危机：袭击事件激增，政府派遣自卫队捕熊",
       "url": "https://cn.nytimes.com/asia-pacific/20251121/japan-bears-attacks/?utm_source=RSS",
@@ -170,39 +198,11 @@
       "published": 1763697364
     },
     {
-      "id": "baca15d76770",
-      "title": "三星電子重回雙箭頭體制　盧泰文升任代表理事",
-      "url": "https://money.udn.com/money/story/5599/9154183",
-      "source": "money.udn.com",
-      "published": 1763697272
-    },
-    {
-      "id": "6c35d65676d5",
-      "title": "AI泡沫陰影壟罩 投資人亮出「避雷針」：押甲骨文債務違約",
-      "url": "https://money.udn.com/money/story/5599/9154160",
-      "source": "money.udn.com",
-      "published": 1763696834
-    },
-    {
       "id": "6e39d4864a58",
       "title": "藍委提修總統副總統選罷法付委 拚周典論涉收購連署案解套",
       "url": "https://udn.com/news/story/6656/9154152",
       "source": "udn.com",
       "published": 1763696494
-    },
-    {
-      "id": "7e63d4d5ee73",
-      "title": "美國指控四人向中國走私輝達先進晶片",
-      "url": "https://money.udn.com/money/story/5599/9154125",
-      "source": "money.udn.com",
-      "published": 1763696451
-    },
-    {
-      "id": "25dd196e0313",
-      "title": "日本華裔議員稱東京應與美國聯手反制中國 北京不太可能打出稀土牌",
-      "url": "https://money.udn.com/money/story/5599/9154126",
-      "source": "money.udn.com",
-      "published": 1763696431
     },
     {
       "id": "e4bfca3d39b1",
@@ -401,6 +401,13 @@
       "published": 1763659610
     },
     {
+      "id": "fb3fe6c93fe1",
+      "title": "中国学生走私真菌案背后：中美之间的学术合作与政治偏见",
+      "url": "https://cn.nytimes.com/usa/20251121/chinese-students-us/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1763658595
+    },
+    {
       "id": "fa17d786c699",
       "title": "美国9月就业报告释放矛盾信号：失业率上升 新增就业却好于预期",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251120-%E7%BE%8E%E5%9B%BD9%E6%9C%88%E5%B0%B1%E4%B8%9A%E6%8A%A5%E5%91%8A%E9%87%8A%E6%94%BE%E7%9F%9B%E7%9B%BE%E4%BF%A1%E5%8F%B7-%E5%A4%B1%E4%B8%9A%E7%8E%87%E4%B8%8A%E5%8D%87-%E6%96%B0%E5%A2%9E%E5%B0%B1%E4%B8%9A%E5%8D%B4%E5%A5%BD%E4%BA%8E%E9%A2%84%E6%9C%9F",
@@ -413,6 +420,27 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251120-%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81%E5%8D%8A%E5%B9%B4%E5%90%8E-%E7%BE%8E%E5%9B%BD%E6%8A%A5%E5%91%8A%E6%8F%AD%E5%BC%80%E4%B8%AD%E5%9B%BD%E9%92%88%E5%AF%B9%E6%B3%95%E5%9B%BD%E9%98%B5%E9%A3%8E%E6%88%98%E6%9C%BA-%E4%BF%A1%E6%81%AF%E6%88%98-%E7%9A%84%E5%B9%95%E5%90%8E",
       "source": "rfi.fr",
       "published": 1763657137
+    },
+    {
+      "id": "61a9d6cf4758",
+      "title": "气候适应成为焦点，中国如何应对融资挑战",
+      "url": "https://www.ftchinese.com/story/001108269",
+      "source": "ftchinese.com",
+      "published": 1763654400
+    },
+    {
+      "id": "5763a05dbfc4",
+      "title": "Lex专栏：当中国游客避开日本，投资者也会避开日本",
+      "url": "https://www.ftchinese.com/story/001108268",
+      "source": "ftchinese.com",
+      "published": 1763654400
+    },
+    {
+      "id": "d167858ff06a",
+      "title": "美国在日中争端中力挺高市",
+      "url": "https://www.ftchinese.com/story/001108267",
+      "source": "ftchinese.com",
+      "published": 1763654400
     },
     {
       "id": "95a42cbc3c4d",
@@ -800,27 +828,6 @@
       "published": 1763568000
     },
     {
-      "id": "bd63434147cf",
-      "title": "每周时事分析：美国离间中日、中韩关系",
-      "url": "https://www.ftchinese.com/story/001108250",
-      "source": "ftchinese.com",
-      "published": 1763568000
-    },
-    {
-      "id": "4e55dc235f1f",
-      "title": "欧盟拟统筹关键矿产储备以防美国买断供应",
-      "url": "https://www.ftchinese.com/story/001108248",
-      "source": "ftchinese.com",
-      "published": 1763568000
-    },
-    {
-      "id": "6ff2332daa7b",
-      "title": "诺基亚获英伟达投资后加码进军人工智能",
-      "url": "https://www.ftchinese.com/story/001108249",
-      "source": "ftchinese.com",
-      "published": 1763568000
-    },
-    {
       "id": "46148ac9d566",
       "title": "看不上气候峰会主办地？ 德国总理惹怒巴西",
       "url": "https://www.dw.com/zh/看不上气候峰会主办地？-德国总理惹怒巴西/a-74809818?maca=chi-rss-chi-all-1127-rdf",
@@ -1099,13 +1106,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cp97gl7pxklo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1763371135
-    },
-    {
-      "id": "29b36b9f7f2c",
-      "title": "英国“最猖獗性犯罪者之一”：中国移民被判终身监禁",
-      "url": "https://cn.nytimes.com/world/20251117/uk-xu-chao-rape-sentence/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1763346325
     },
     {
       "id": "255e0ae7eb3b",
@@ -1402,5 +1402,5 @@
       "published": 1761922740
     }
   ],
-  "build_id": 1763701874
+  "build_id": 1763703626
 }
