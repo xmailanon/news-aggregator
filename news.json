@@ -1,10 +1,38 @@
 {
-  "updated": 1763734225,
+  "updated": 1763735999,
   "items": [
+    {
+      "id": "5d7a08c53fab",
+      "title": "英国首相预计批准中国在伦敦市中心建造巨型使馆计划",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251121-%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E9%A2%84%E8%AE%A1%E6%89%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%BC%A6%E6%95%A6%E5%B8%82%E4%B8%AD%E5%BF%83%E5%BB%BA%E9%80%A0%E5%B7%A8%E5%9E%8B%E4%BD%BF%E9%A6%86%E8%AE%A1%E5%88%92",
+      "source": "rfi.fr",
+      "published": 1763735613
+    },
+    {
+      "id": "fdd4e0d51cdb",
+      "title": "無懼過熱　美銀估今年全球科技股吸金規模仍將創新高",
+      "url": "https://money.udn.com/money/story/10511/9155491",
+      "source": "money.udn.com",
+      "published": 1763735138
+    },
+    {
+      "id": "95c55f675e3b",
+      "title": "科技巨頭耍花招籌措 AI 基建經費 逃不過投資人法眼",
+      "url": "https://money.udn.com/money/story/122381/9155484",
+      "source": "money.udn.com",
+      "published": 1763734640
+    },
     {
       "id": "f5920ea76626",
       "title": "印度国产战斗机飞行表演时坠毁",
       "url": "https://www.dw.com/zh/印度国产战斗机飞行表演时坠毁/a-74839342?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1763733720
+    },
+    {
+      "id": "0141da260e8f",
+      "title": "印度国产战斗机飞行表演时坠毁",
+      "url": "https://www.dw.com/zh/印度国产战斗机飞行表演时坠毁/a-74839342?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763733720
     },
@@ -21,6 +49,13 @@
       "url": "https://money.udn.com/money/story/123398/9153685",
       "source": "money.udn.com",
       "published": 1763733417
+    },
+    {
+      "id": "4a4755eb392f",
+      "title": "民眾黨揚言退回政院版財劃法 政院嗆：立院多次沒達到修法目標",
+      "url": "https://udn.com/news/story/124401/9155458",
+      "source": "udn.com",
+      "published": 1763733386
     },
     {
       "id": "c3fddc8af682",
@@ -184,20 +219,6 @@
       "published": 1763726638
     },
     {
-      "id": "25d2ade03864",
-      "title": "泰學界關注日中與台海　學者：強化韌性可防中國入侵",
-      "url": "https://money.udn.com/money/story/5599/9155298",
-      "source": "money.udn.com",
-      "published": 1763726084
-    },
-    {
-      "id": "f26c7f557d7d",
-      "title": "新宿京王百貨「台灣夜市」回歸  道地美食吸引饕客",
-      "url": "https://money.udn.com/money/story/5599/9155296",
-      "source": "money.udn.com",
-      "published": 1763726047
-    },
-    {
       "id": "4499f6141c5e",
       "title": "CPTPP未通過成立台灣入會小組 外交部：續爭取支持",
       "url": "https://udn.com/news/story/6656/9155287",
@@ -336,13 +357,6 @@
       "url": "https://udn.com/news/story/6656/9154935",
       "source": "udn.com",
       "published": 1763715616
-    },
-    {
-      "id": "cb10817f268f",
-      "title": "地制法「李四川條款」三讀闖關 直轄市不受人口限制均設3位副市長",
-      "url": "https://udn.com/news/story/6656/9154971",
-      "source": "udn.com",
-      "published": 1763715606
     },
     {
       "id": "e656675b6046",
@@ -749,13 +763,6 @@
       "url": "https://www.dw.com/zh/shein在法国面临-不正当竞争-起诉/a-74822165?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763646180
-    },
-    {
-      "id": "d0603c8e5250",
-      "title": "台湾总统吃寿司，以示支持东京对抗北京",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251120-%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E5%90%83%E5%AF%BF%E5%8F%B8%EF%BC%8C%E4%BB%A5%E7%A4%BA%E6%94%AF%E6%8C%81%E4%B8%9C%E4%BA%AC%E5%AF%B9%E6%8A%97%E5%8C%97%E4%BA%AC",
-      "source": "rfi.fr",
-      "published": 1763645266
     },
     {
       "id": "236444048689",
@@ -1393,14 +1400,7 @@
       "url": "https://www.bbc.com/zhongwen/articles/cy9pyqr3j8eo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1762246550
-    },
-    {
-      "id": "5bb09a02b451",
-      "title": "中国崛起为全球科研强国：这对欧洲意味着什么？",
-      "url": "https://www.dw.com/zh/中国崛起为全球科研强国：这对欧洲意味着什么？/a-74559428?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762070520
     }
   ],
-  "build_id": 1763734225
+  "build_id": 1763735999
 }
