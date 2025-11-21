@@ -1,6 +1,27 @@
 {
-  "updated": 1763744944,
+  "updated": 1763746655,
   "items": [
+    {
+      "id": "815ba7743a75",
+      "title": "新聞眼／公投出鳥籠 朝野都有了「新武器」",
+      "url": "https://udn.com/news/story/10657/9155712",
+      "source": "udn.com",
+      "published": 1763746491
+    },
+    {
+      "id": "b82ddb79f610",
+      "title": "「輝達救全村」一日行情 日韓股全倒 比特幣重摔",
+      "url": "https://money.udn.com/money/story/5599/9155620",
+      "source": "money.udn.com",
+      "published": 1763745813
+    },
+    {
+      "id": "01e1604f0d74",
+      "title": "Fed降息機率剩不到40% 官員再放鷹 暗示不會支持12月下調利率",
+      "url": "https://money.udn.com/money/story/5599/9155617",
+      "source": "money.udn.com",
+      "published": 1763745610
+    },
     {
       "id": "a26d315829a2",
       "title": "和平計畫迫烏讓步　澤倫斯基：烏克蘭史上最艱難抉擇",
@@ -86,16 +107,16 @@
       "published": 1763741195
     },
     {
-      "id": "37b9fe08946e",
-      "title": "歷史上的今天／1959年美軍步槍定向射擊賽 優勝得火雞",
-      "url": "https://udn.com/news/story/7314/9154018",
+      "id": "7e33a32dbe4c",
+      "title": "公投恢復綁大選 有機會明年選舉適用",
+      "url": "https://udn.com/news/story/10657/9155638",
       "source": "udn.com",
       "published": 1763740800
     },
     {
-      "id": "5a41b343d3fa",
-      "title": "公投恢復綁大選 有機會明年選舉適用",
-      "url": "https://udn.com/news/story/6656/9155638",
+      "id": "37b9fe08946e",
+      "title": "歷史上的今天／1959年美軍步槍定向射擊賽 優勝得火雞",
+      "url": "https://udn.com/news/story/7314/9154018",
       "source": "udn.com",
       "published": 1763740800
     },
@@ -310,23 +331,9 @@
       "published": 1763733247
     },
     {
-      "id": "0227bedad548",
-      "title": "日本財務大臣：如果日圓過度波動 外匯干預將是一個選項",
-      "url": "https://money.udn.com/money/story/5599/9153787",
-      "source": "money.udn.com",
-      "published": 1763733074
-    },
-    {
-      "id": "a5134e051458",
-      "title": "金融圈多位大老不約而同示警 私人信貸市場風險升高",
-      "url": "https://money.udn.com/money/story/5599/9153788",
-      "source": "money.udn.com",
-      "published": 1763732837
-    },
-    {
-      "id": "d624b782e03d",
+      "id": "b1f8e687004c",
       "title": "恢復公投綁大選遭綠譴責 藍白：教訓民進黨背叛民主無能卸責",
-      "url": "https://udn.com/news/story/6656/9155422",
+      "url": "https://udn.com/news/story/10657/9155422",
       "source": "udn.com",
       "published": 1763732185
     },
@@ -352,9 +359,9 @@
       "published": 1763731331
     },
     {
-      "id": "5af44c624bf5",
+      "id": "ed6d146d485b",
       "title": "公投綁大選三讀過關 政院官員憂「邊投票邊開票」亂象恐再上演",
-      "url": "https://udn.com/news/story/6656/9155357",
+      "url": "https://udn.com/news/story/10657/9155357",
       "source": "udn.com",
       "published": 1763728404
     },
@@ -399,13 +406,6 @@
       "url": "https://udn.com/news/story/6656/9155221",
       "source": "udn.com",
       "published": 1763722588
-    },
-    {
-      "id": "8b3db58ac2ad",
-      "title": "台股重挫賴總統稱馬英九轉移政權時不足萬點 王鴻薇：無能",
-      "url": "https://udn.com/news/story/6656/9155222",
-      "source": "udn.com",
-      "published": 1763722587
     },
     {
       "id": "dffd10bbdf24",
@@ -1402,5 +1402,5 @@
       "published": 1761922740
     }
   ],
-  "build_id": 1763744944
+  "build_id": 1763746655
 }
