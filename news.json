@@ -1,6 +1,34 @@
 {
-  "updated": 1763800887,
+  "updated": 1763802584,
   "items": [
+    {
+      "id": "705bd15a9496",
+      "title": "G20將討論俄烏和平　烏克蘭盟友盼強化美國所提計畫",
+      "url": "https://money.udn.com/money/story/10511/9156654",
+      "source": "money.udn.com",
+      "published": 1763802744
+    },
+    {
+      "id": "15da7a1a795d",
+      "title": "輝達救不了全村 投資人臨感恩節轉而指望 Fed 下月決策",
+      "url": "https://money.udn.com/money/story/123398/9156650",
+      "source": "money.udn.com",
+      "published": 1763802514
+    },
+    {
+      "id": "12d3ad370e39",
+      "title": "96台海危機解密 學者：美方曾批李登輝康乃爾演說「出賣了我們」",
+      "url": "https://money.udn.com/money/story/5599/9156540",
+      "source": "money.udn.com",
+      "published": 1763802006
+    },
+    {
+      "id": "79ded6974e31",
+      "title": "日本政府发资料反驳中国以日本治安恶化为由阻止中国人访日",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251122-%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%8F%91%E8%B5%84%E6%96%99%E5%8F%8D%E9%A9%B3%E4%B8%AD%E5%9B%BD%E4%BB%A5%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E6%81%B6%E5%8C%96%E4%B8%BA%E7%94%B1%E9%98%BB%E6%AD%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%AE%BF%E6%97%A5",
+      "source": "rfi.fr",
+      "published": 1763800856
+    },
     {
       "id": "9aeed032e015",
       "title": "台灣金馬獎：中國明星范冰冰的福地還是禁地？大熱《地母》能助「范爺」回歸嗎？",
@@ -275,32 +303,11 @@
       "published": 1763780491
     },
     {
-      "id": "1a6c04cb3442",
-      "title": "曾批川普偏離美國優先 MAGA 大將格林突宣布辭去眾議員",
-      "url": "https://money.udn.com/money/story/5599/9156069",
-      "source": "money.udn.com",
-      "published": 1763779779
-    },
-    {
-      "id": "bb6305f5d8cd",
-      "title": "川普現在就要和平！FT：美特使向烏克蘭與歐洲發最後通牒 幾乎沒得談",
-      "url": "https://money.udn.com/money/story/5599/9156064",
-      "source": "money.udn.com",
-      "published": 1763779592
-    },
-    {
       "id": "bb7829cbabf4",
       "title": "COP30 : 最终文本充满悬念 中国立场备受瞩目",
       "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20251122-cop30-%E6%9C%80%E7%BB%88%E6%96%87%E6%9C%AC%E5%85%85%E6%BB%A1%E6%82%AC%E5%BF%B5-%E4%B8%AD%E5%9B%BD%E7%AB%8B%E5%9C%BA%E5%8F%97%E5%85%B3%E6%B3%A8",
       "source": "rfi.fr",
       "published": 1763779245
-    },
-    {
-      "id": "b3b22cdb1475",
-      "title": "印度戰機在杜拜航展墜機 飛行員未能逃生身亡",
-      "url": "https://money.udn.com/money/story/5599/9156040",
-      "source": "money.udn.com",
-      "published": 1763778991
     },
     {
       "id": "7d01887d72eb",
@@ -609,13 +616,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cdegez17g14o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1763684826
-    },
-    {
-      "id": "a82dfa4a93d0",
-      "title": "割土求和 这是美国方案还是俄罗斯方案？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251120-%E5%89%B2%E5%9C%9F%E6%B1%82%E5%92%8C-%E8%BF%99%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%96%B9%E6%A1%88%E8%BF%98%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E6%A1%88",
-      "source": "rfi.fr",
-      "published": 1763675697
     },
     {
       "id": "8007b9854d26",
@@ -1402,5 +1402,5 @@
       "published": 1761922740
     }
   ],
-  "build_id": 1763800887
+  "build_id": 1763802584
 }
