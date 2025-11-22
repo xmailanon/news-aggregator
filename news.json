@@ -1,9 +1,30 @@
 {
-  "updated": 1763825612,
+  "updated": 1763827861,
   "items": [
     {
+      "id": "cefb0c96d1b9",
+      "title": "COP30直擊／峰會協定近定案仍未提「化石燃料」 歐盟被迫讓步很失望",
+      "url": "https://money.udn.com/money/story/5599/9157142",
+      "source": "money.udn.com",
+      "published": 1763827952
+    },
+    {
+      "id": "154896adad57",
+      "title": "歷史上的今天／1961年西德學者訪台 在台大談論自由",
+      "url": "https://udn.com/news/story/7314/9156018",
+      "source": "udn.com",
+      "published": 1763827200
+    },
+    {
+      "id": "cf832a07e413",
+      "title": "高市長初選綠戰火升溫！闖旗山造勢 林岱樺：非搶攻 是使命",
+      "url": "https://udn.com/news/story/124652/9156978",
+      "source": "udn.com",
+      "published": 1763827200
+    },
+    {
       "id": "6dc9a3690636",
-      "title": "AI是「理性泡沫」 但可能被3根針刺破",
+      "title": "AI 是「理性泡沫」 但可能被3根針刺破",
       "url": "https://money.udn.com/money/story/5599/9157083",
       "source": "money.udn.com",
       "published": 1763825489
@@ -289,13 +310,6 @@
       "published": 1763805611
     },
     {
-      "id": "3a7480b8ff39",
-      "title": "戰爭經濟學1／以哈戰爭人民受難 美企發大財",
-      "url": "https://money.udn.com/money/story/122381/9156486",
-      "source": "money.udn.com",
-      "published": 1763805370
-    },
-    {
       "id": "d95f820afdb6",
       "title": "【重磅快評】忙著幫日本促銷觀光旅遊的賴政府 看不到國旅的蕭條",
       "url": "https://udn.com/news/story/6656/9156671",
@@ -357,20 +371,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cg7v90v97nmo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1763795278
-    },
-    {
-      "id": "d29e2dd1880b",
-      "title": "郵局24日開放領普發一萬 首周有分流、動線管控",
-      "url": "https://udn.com/news/story/7314/9156509",
-      "source": "udn.com",
-      "published": 1763794590
-    },
-    {
-      "id": "e51ac482c2b0",
-      "title": "籲支持政院版財劃法 卓榮泰：新北增幅最大 盼「均衡台灣」",
-      "url": "https://udn.com/news/story/124401/9156487",
-      "source": "udn.com",
-      "published": 1763793229
     },
     {
       "id": "bb7829cbabf4",
@@ -1318,13 +1318,6 @@
       "published": 1762676700
     },
     {
-      "id": "8754b5698517",
-      "title": "德语媒体：德企为何难摆脱对中国原材料的依赖？",
-      "url": "https://www.dw.com/zh/德语媒体：德企为何难摆脱对中国原材料的依赖？/a-74673902?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1762613820
-    },
-    {
       "id": "e19ad7f6fe1e",
       "title": "情趣玩偶丑闻与违禁品风波：中国电商Shein暂避法国封禁",
       "url": "https://www.dw.com/zh/情趣玩偶丑闻与违禁品风波：中国电商shein暂避法国封禁/a-74672575?maca=chi-rss-chi-news-3224-rdf",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/dw事实核查：如何识破假账号、机器人和喷子？/a-74009408?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1761467640
+    },
+    {
+      "id": "66c0807d78ec",
+      "title": "真假图片大挑战：你能分得清吗？",
+      "url": "https://www.dw.com/zh/真假图片大挑战：你能分得清吗？/a-74495227?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1761390600
     }
   ],
-  "build_id": 1763825612
+  "build_id": 1763827861
 }
