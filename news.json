@@ -1,6 +1,34 @@
 {
-  "updated": 1763811119,
+  "updated": 1763813791,
   "items": [
+    {
+      "id": "a8a5ab074251",
+      "title": "美國政府縮減氣候科學服務　民間地球情報分析業壯大",
+      "url": "https://money.udn.com/money/story/10511/9156811",
+      "source": "money.udn.com",
+      "published": 1763812454
+    },
+    {
+      "id": "03e1cd3024c4",
+      "title": "越南中南部地區遭洪災侵襲　增至55死13失蹤",
+      "url": "https://money.udn.com/money/story/5599/9156810",
+      "source": "money.udn.com",
+      "published": 1763812452
+    },
+    {
+      "id": "d03446756137",
+      "title": "影／直攻旗山邱議瑩大本營湧2萬人 林岱樺：高雄不是派系說了算",
+      "url": "https://udn.com/news/story/124652/9156809",
+      "source": "udn.com",
+      "published": 1763812296
+    },
+    {
+      "id": "dbb4534d8ec1",
+      "title": "路透：川普特使會普丁密友催生俄烏和平計畫　美政界浮現質疑",
+      "url": "https://money.udn.com/money/story/5599/9156799",
+      "source": "money.udn.com",
+      "published": 1763811370
+    },
     {
       "id": "ad2350de975d",
       "title": "德国外长警告：俄乌协议不可操之过急",
@@ -23,9 +51,9 @@
       "published": 1763807823
     },
     {
-      "id": "4ca6891cea88",
+      "id": "f6627b4b42b7",
       "title": "G20峰會約翰尼斯堡登場　南非總統強調多邊主義",
-      "url": "https://money.udn.com/money/story/10511/9156740",
+      "url": "https://money.udn.com/money/story/5599/9156740",
       "source": "money.udn.com",
       "published": 1763807436
     },
@@ -240,20 +268,6 @@
       "published": 1763793049
     },
     {
-      "id": "20ede6262eb1",
-      "title": "美國政府停擺致 CPI 缺失 7萬億美元通膨掛鉤市場將首次啟動後備機制",
-      "url": "https://money.udn.com/money/story/5599/9155820",
-      "source": "money.udn.com",
-      "published": 1763793034
-    },
-    {
-      "id": "71fac5db4829",
-      "title": "歐洲股市遭遇8月以來最差單周表現 艾司摩爾股價下跌",
-      "url": "https://money.udn.com/money/story/5599/9155803",
-      "source": "money.udn.com",
-      "published": 1763792632
-    },
-    {
       "id": "b964b20cdeb7",
       "title": "【即時短評】熱議「台人在日遇襲」 陸方的多重考量",
       "url": "https://udn.com/news/story/6656/9156477",
@@ -289,13 +303,6 @@
       "published": 1763789968
     },
     {
-      "id": "90d7ca7f0e64",
-      "title": "分析：川普和平方案讓俄多拿領土面積等同雙北市",
-      "url": "https://money.udn.com/money/story/5599/9156377",
-      "source": "money.udn.com",
-      "published": 1763789774
-    },
-    {
       "id": "d1c794ee31e4",
       "title": "林岱樺闖邱議瑩地盤辦造勢 檢方警告 ：發言後果自負",
       "url": "https://udn.com/news/story/124652/9156374",
@@ -308,13 +315,6 @@
       "url": "https://udn.com/news/story/124401/9156375",
       "source": "udn.com",
       "published": 1763789746
-    },
-    {
-      "id": "a266f8850709",
-      "title": "雄中智庫後援會今成軍 許智傑籲「雄中人挺雄中人」",
-      "url": "https://udn.com/news/story/124652/9156372",
-      "source": "udn.com",
-      "published": 1763789704
     },
     {
       "id": "bb7829cbabf4",
@@ -833,13 +833,6 @@
       "url": "https://www.dw.com/zh/特朗普将会见候任纽约市长、-共产主义分子-马姆达尼/a-74819483?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763641200
-    },
-    {
-      "id": "d1983de3db15",
-      "title": "缅甸政府再次突袭诈骗园区 拘捕数百人",
-      "url": "https://www.dw.com/zh/缅甸政府再次突袭诈骗园区-拘捕数百人/a-74819197?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763638020
     },
     {
       "id": "29b963d2d027",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/英国安德鲁王子：失掉王室头衔、逐出温莎庄园/a-74571720?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1761922740
+    },
+    {
+      "id": "d0ca3bbfeda6",
+      "title": "英伟达将向韩国供应26万枚尖端芯片",
+      "url": "https://www.dw.com/zh/英伟达将向韩国供应26万枚尖端芯片/a-74570158?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1761911520
     }
   ],
-  "build_id": 1763811119
+  "build_id": 1763813791
 }
