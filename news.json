@@ -1,6 +1,13 @@
 {
-  "updated": 1763837023,
+  "updated": 1763838437,
   "items": [
+    {
+      "id": "e3252ec3f9e9",
+      "title": "美提俄烏和平計畫逼基輔讓步　川普：非最終方案",
+      "url": "https://money.udn.com/money/story/10511/9157199",
+      "source": "money.udn.com",
+      "published": 1763837650
+    },
     {
       "id": "382439c9dcc9",
       "title": "美股周線收黑繫好安全帶 投資人寄望黑色星期五、Fed 利率決策",
@@ -115,7 +122,7 @@
     },
     {
       "id": "1dfac5899509",
-      "title": "政院版財劃法出爐 藍陷兩難 擬採拖字訣",
+      "title": "政院版財劃法出爐 藍營陷兩難 擬採拖字訣",
       "url": "https://udn.com/news/story/124401/9157157",
       "source": "udn.com",
       "published": 1763833205
@@ -163,9 +170,9 @@
       "published": 1763828461
     },
     {
-      "id": "df59ae055c75",
+      "id": "90966872bdba",
       "title": "賴總統：緬懷為國官兵 而非共諜",
-      "url": "https://udn.com/news/story/6656/9157090",
+      "url": "https://udn.com/news/story/10930/9157090",
       "source": "udn.com",
       "published": 1763828376
     },
@@ -287,13 +294,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251122-20%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%8D%97%E9%9D%9E%E5%B3%B0%E4%BC%9A%E5%BC%80%E5%B9%95%EF%BC%8C%E7%BE%8E%E5%9B%BD%E4%B8%8E%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C",
       "source": "rfi.fr",
       "published": 1763821844
-    },
-    {
-      "id": "f044cbfb807e",
-      "title": "OpenAI 是敵非友！美銀提醒科技大咖小心",
-      "url": "https://money.udn.com/money/story/123398/9156939",
-      "source": "money.udn.com",
-      "published": 1763820415
     },
     {
       "id": "fc215ce45317",
@@ -1402,5 +1402,5 @@
       "published": 1761489480
     }
   ],
-  "build_id": 1763837023
+  "build_id": 1763838437
 }
