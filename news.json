@@ -1,9 +1,37 @@
 {
-  "updated": 1763818622,
+  "updated": 1763820498,
   "items": [
     {
+      "id": "4f5cb29cbeb2",
+      "title": "中華民國童軍總會遠赴阿布達比宣傳台灣舉辦2029年世界羅浮大會",
+      "url": "https://udn.com/news/story/6656/9156925",
+      "source": "udn.com",
+      "published": 1763819665
+    },
+    {
+      "id": "2502d5ce5cb8",
+      "title": "白俄羅斯與川普達成協議　釋放31名烏克蘭公民",
+      "url": "https://money.udn.com/money/story/5599/9156926",
+      "source": "money.udn.com",
+      "published": 1763819652
+    },
+    {
+      "id": "ad5f5c4373cc",
+      "title": "賴總統致敬黃百韜 國民黨：只提反共不談抗日 不愧是賴桑",
+      "url": "https://udn.com/news/story/6656/9156924",
+      "source": "udn.com",
+      "published": 1763819625
+    },
+    {
+      "id": "e84e5fd43598",
+      "title": "低調赴陸？ 王世堅駁「AI假影片」一直在台：不用抖音及YouTube",
+      "url": "https://udn.com/news/story/6656/9156910",
+      "source": "udn.com",
+      "published": 1763819024
+    },
+    {
       "id": "59352ad71964",
-      "title": "出席宜蘭同鄉會大會 賴清德喊話成員：支持林國漳、蘇巧慧當縣市首長",
+      "title": "出席宜蘭同鄉會大會 賴總統喊話：支持林國漳、蘇巧慧當縣市首長",
       "url": "https://udn.com/news/story/124652/9156908",
       "source": "udn.com",
       "published": 1763818504
@@ -58,9 +86,9 @@
       "published": 1763816789
     },
     {
-      "id": "71b837cfb7b6",
+      "id": "daa9cd8fc6d1",
       "title": "美國烏克蘭官員將在瑞士召開會談　商討終戰方式",
-      "url": "https://money.udn.com/money/story/10511/9156883",
+      "url": "https://money.udn.com/money/story/5599/9156883",
       "source": "money.udn.com",
       "published": 1763816452
     },
@@ -254,13 +282,6 @@
       "published": 1763802744
     },
     {
-      "id": "15da7a1a795d",
-      "title": "輝達救不了全村 投資人臨感恩節轉而指望 Fed 下月決策",
-      "url": "https://money.udn.com/money/story/123398/9156650",
-      "source": "money.udn.com",
-      "published": 1763802514
-    },
-    {
       "id": "79ded6974e31",
       "title": "日本政府发资料反驳中国以日本治安恶化为由阻止中国人访日",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251122-%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%8F%91%E8%B5%84%E6%96%99%E5%8F%8D%E9%A9%B3%E4%B8%AD%E5%9B%BD%E4%BB%A5%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E6%81%B6%E5%8C%96%E4%B8%BA%E7%94%B1%E9%98%BB%E6%AD%A2%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%AE%BF%E6%97%A5",
@@ -329,27 +350,6 @@
       "url": "https://udn.com/news/story/124652/9156482",
       "source": "udn.com",
       "published": 1763793049
-    },
-    {
-      "id": "b964b20cdeb7",
-      "title": "【即時短評】熱議「台人在日遇襲」 陸方的多重考量",
-      "url": "https://udn.com/news/story/6656/9156477",
-      "source": "udn.com",
-      "published": 1763792606
-    },
-    {
-      "id": "f058c34e97b2",
-      "title": "影／再推院版財劃法 卓榮泰：新北市分配款為六都增加最多",
-      "url": "https://udn.com/news/story/124401/9156437",
-      "source": "udn.com",
-      "published": 1763791255
-    },
-    {
-      "id": "9598e9b8b9b5",
-      "title": "政院版財劃法擋不擋陷兩難 藍營採拖字訣防綠營離間",
-      "url": "https://udn.com/news/story/124401/9156426",
-      "source": "udn.com",
-      "published": 1763791065
     },
     {
       "id": "bb7829cbabf4",
@@ -623,13 +623,6 @@
       "url": "https://cn.nytimes.com/asia-pacific/20251121/japan-bears-attacks/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1763697863
-    },
-    {
-      "id": "020413720432",
-      "title": "留下來的人：兩名香港青年的獄後心聲",
-      "url": "https://www.dw.com/zh/留下來的人：兩名香港青年的獄後心聲/a-74814435?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763690280
     },
     {
       "id": "7e89ccddb7c6",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/英伟达将向韩国供应26万枚尖端芯片/a-74570158?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1761911520
+    },
+    {
+      "id": "1bdb29c21156",
+      "title": "持續投入、租賃金器、購買者年輕化……2025大行情下的「買金潮」有何不同？",
+      "url": "https://www.bbc.com/zhongwen/articles/cjw974qqn1vo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1761902964
     }
   ],
-  "build_id": 1763818622
+  "build_id": 1763820498
 }
