@@ -1,6 +1,34 @@
 {
-  "updated": 1763784692,
+  "updated": 1763786399,
   "items": [
+    {
+      "id": "7b41cc5e462a",
+      "title": "影／別把禮儀忘在登機門！感恩節將至 美政府推廣告籲搭機文明",
+      "url": "https://money.udn.com/money/story/5599/9156264",
+      "source": "money.udn.com",
+      "published": 1763786089
+    },
+    {
+      "id": "ab84ceba04ca",
+      "title": "柯文哲有望參加民眾黨活動？黃國昌曝這件事的重要性",
+      "url": "https://udn.com/news/story/6656/9156252",
+      "source": "udn.com",
+      "published": 1763785484
+    },
+    {
+      "id": "b99bee24a2b9",
+      "title": "被爆有意代表民進黨回鍋？議員求證鄭文燦：我心如止水",
+      "url": "https://udn.com/news/story/6656/9156245",
+      "source": "udn.com",
+      "published": 1763785323
+    },
+    {
+      "id": "edffc621f8a1",
+      "title": "影／黃國昌讚黃瀞瑩表現有目共睹 有信心雙北4+2全壘打",
+      "url": "https://udn.com/news/story/6656/9156240",
+      "source": "udn.com",
+      "published": 1763785194
+    },
     {
       "id": "f6917990c934",
       "title": "加強防制駕駛人行駛時吸菸 藍委擬修法提高罰鍰",
@@ -177,32 +205,11 @@
       "published": 1763779293
     },
     {
-      "id": "ee356fd3c30d",
-      "title": "華爾街日報社論：川普2.0首對台軍售 有助台海嚇阻",
-      "url": "https://udn.com/news/story/10930/9155919",
-      "source": "udn.com",
-      "published": 1763779252
-    },
-    {
       "id": "bb7829cbabf4",
       "title": "COP30 : 最终文本充满悬念 中国立场备受瞩目",
       "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20251122-cop30-%E6%9C%80%E7%BB%88%E6%96%87%E6%9C%AC%E5%85%85%E6%BB%A1%E6%82%AC%E5%BF%B5-%E4%B8%AD%E5%9B%BD%E7%AB%8B%E5%9C%BA%E5%8F%97%E5%85%B3%E6%B3%A8",
       "source": "rfi.fr",
       "published": 1763779245
-    },
-    {
-      "id": "be7e79fcdcde",
-      "title": "南海專家：中國海軍非獨霸 若多線開戰將分身乏術",
-      "url": "https://udn.com/news/story/10930/9155928",
-      "source": "udn.com",
-      "published": 1763779205
-    },
-    {
-      "id": "a97aaeaae56d",
-      "title": "中共26機艦船台海周邊活動 國軍嚴密監控應處",
-      "url": "https://udn.com/news/story/10930/9155968",
-      "source": "udn.com",
-      "published": 1763779164
     },
     {
       "id": "b3b22cdb1475",
@@ -280,13 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/9155928",
       "source": "money.udn.com",
       "published": 1763773240
-    },
-    {
-      "id": "19a395228473",
-      "title": "沒有火花只有笑容　曼達尼會川普白宮一片祥和",
-      "url": "https://money.udn.com/money/story/10511/9155920",
-      "source": "money.udn.com",
-      "published": 1763772872
     },
     {
       "id": "7d01887d72eb",
@@ -877,13 +877,6 @@
       "published": 1763609663
     },
     {
-      "id": "a31a9d33fd1a",
-      "title": "川普簽署法案 愛潑斯坦檔案將強制公開",
-      "url": "https://www.dw.com/zh/川普簽署法案-愛潑斯坦檔案將強制公開/a-74799699?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763607780
-    },
-    {
       "id": "b8927fdc111d",
       "title": "荷兰将芯片制造商安世控制权交还其中国母公司",
       "url": "https://cn.nytimes.com/business/20251120/nexperia-netherlands-china-chips/?utm_source=RSS",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/英国安德鲁王子：失掉王室头衔、逐出温莎庄园/a-74571720?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1761922740
+    },
+    {
+      "id": "d0ca3bbfeda6",
+      "title": "英伟达将向韩国供应26万枚尖端芯片",
+      "url": "https://www.dw.com/zh/英伟达将向韩国供应26万枚尖端芯片/a-74570158?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1761911520
     }
   ],
-  "build_id": 1763784692
+  "build_id": 1763786399
 }
