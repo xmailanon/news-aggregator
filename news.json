@@ -1,5 +1,5 @@
 {
-  "updated": 1763939348,
+  "updated": 1763940847,
   "items": [
     {
       "id": "f19577cd3599",
@@ -28,6 +28,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251123-%E4%BA%8C%E5%8D%81%E5%9B%BD%E9%9B%86%E5%9B%A2%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%9C%A8%E5%8D%97%E9%9D%9E%E9%97%AD%E5%B9%95%E5%B3%B0%E4%BC%9A%E4%B8%8A%E5%A4%A7%E5%8A%9B%E8%B5%9E%E6%89%AC%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89",
       "source": "rfi.fr",
       "published": 1763937312
+    },
+    {
+      "id": "c54e7edef027",
+      "title": "政府籌建反無人機系統指定破解大疆通訊協定 文件曝光",
+      "url": "https://udn.com/news/story/10930/9158518",
+      "source": "udn.com",
+      "published": 1763937300
     },
     {
       "id": "6c6e5432eedb",
@@ -105,13 +112,6 @@
       "url": "https://money.udn.com/money/story/5599/9158520",
       "source": "money.udn.com",
       "published": 1763925158
-    },
-    {
-      "id": "c54e7edef027",
-      "title": "政府籌建反無人機系統指定破解大疆通訊協定 文件曝光",
-      "url": "https://udn.com/news/story/10930/9158518",
-      "source": "udn.com",
-      "published": 1763922943
     },
     {
       "id": "9054c7cbfd6b",
@@ -1402,5 +1402,5 @@
       "published": 1761467640
     }
   ],
-  "build_id": 1763939348
+  "build_id": 1763940847
 }
