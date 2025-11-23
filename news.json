@@ -1,6 +1,20 @@
 {
-  "updated": 1763880373,
+  "updated": 1763881787,
   "items": [
+    {
+      "id": "19a59d4d92d5",
+      "title": "紐時：技術供應商遭駭　摩根大通等客戶資料疑外洩",
+      "url": "https://money.udn.com/money/story/10511/9157807",
+      "source": "money.udn.com",
+      "published": 1763880846
+    },
+    {
+      "id": "70d7dc67a01f",
+      "title": "英國預料將批准中國「超級使館」計劃",
+      "url": "https://www.bbc.com/zhongwen/articles/c23ekvxllp2o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1763880778
+    },
     {
       "id": "9fc8f0cc7c5d",
       "title": "越南洪災增至90死12人失蹤　近13萬戶仍停電",
@@ -287,13 +301,6 @@
       "url": "https://money.udn.com/money/story/10511/9157321",
       "source": "money.udn.com",
       "published": 1763860352
-    },
-    {
-      "id": "0d3eba6d236f",
-      "title": "台灣青年參與聯合國周邊會議　期許為台發聲",
-      "url": "https://money.udn.com/money/story/5599/9157320",
-      "source": "money.udn.com",
-      "published": 1763860350
     },
     {
       "id": "b92bffd58f58",
@@ -891,13 +898,6 @@
       "published": 1763607674
     },
     {
-      "id": "f5ac7e512125",
-      "title": "從海豹到海龜：塑料造成的致命代價有哪些",
-      "url": "https://www.bbc.com/zhongwen/articles/c4g7nrnq7ygo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1763598192
-    },
-    {
       "id": "7e8a4b312198",
       "title": "特朗普让北京知道，中国已可以与美国平起平坐",
       "url": "https://cn.nytimes.com/opinion/20251120/trump-china-xi-trade/?utm_source=RSS",
@@ -1402,5 +1402,5 @@
       "published": 1761489480
     }
   ],
-  "build_id": 1763880373
+  "build_id": 1763881787
 }
