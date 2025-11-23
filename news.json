@@ -1,6 +1,13 @@
 {
-  "updated": 1763896060,
+  "updated": 1763897518,
   "items": [
+    {
+      "id": "e4e92427854b",
+      "title": "李敏勇書寫柯旗化 盼台灣人記住被極權窒息的名字",
+      "url": "https://udn.com/news/story/7314/9158038",
+      "source": "udn.com",
+      "published": 1763897146
+    },
     {
       "id": "c9d8f211895b",
       "title": "鄭麗文指勿消費國家英雄 綠：祭悼共諜心虛不認錯",
@@ -380,13 +387,6 @@
       "published": 1763873684
     },
     {
-      "id": "0bdef708b7bc",
-      "title": "黨主席選舉影響雲林張嘉郡提名？ 鄭麗文強調「不會」…都是一家人",
-      "url": "https://udn.com/news/story/124652/9157638",
-      "source": "udn.com",
-      "published": 1763873245
-    },
-    {
       "id": "a4b73c9ecbc4",
       "title": "特朗普稱美國結束俄烏戰爭計劃並非「最終方案」",
       "url": "https://www.bbc.com/zhongwen/articles/cx2dlndeg84o/trad?at_medium=RSS&at_campaign=rss",
@@ -490,6 +490,20 @@
       "url": "https://www.dw.com/zh/乌克兰与美国将在瑞士商谈替代和平方案/a-74848903?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763827920
+    },
+    {
+      "id": "a32feda027e0",
+      "title": "2026年全球经济展望：在混沌中构建秩序",
+      "url": "https://www.ftchinese.com/story/001108263",
+      "source": "ftchinese.com",
+      "published": 1763827200
+    },
+    {
+      "id": "4c56bf06cedc",
+      "title": "东南亚的投资机会初探(下)",
+      "url": "https://www.ftchinese.com/story/001108144",
+      "source": "ftchinese.com",
+      "published": 1763827200
     },
     {
       "id": "6b1a6076a082",
@@ -863,13 +877,6 @@
       "published": 1763654400
     },
     {
-      "id": "b66447b70e6e",
-      "title": "“大企业病”的诊断与治疗",
-      "url": "https://www.ftchinese.com/story/001108260",
-      "source": "ftchinese.com",
-      "published": 1763654400
-    },
-    {
       "id": "21c6c9de815e",
       "title": "高市早苗「台灣有事論」引發中國全力反制  國際社會有何反應",
       "url": "https://www.bbc.com/zhongwen/articles/c20e0z9ej08o/trad?at_medium=RSS&at_campaign=rss",
@@ -966,13 +973,6 @@
       "url": "https://cn.nytimes.com/usa/20251120/larry-summers-harvard-epstein/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1763574525
-    },
-    {
-      "id": "594de798b917",
-      "title": "深势科技孙伟杰：让科学发现像使用搜索引擎一样简单",
-      "url": "https://www.ftchinese.com/story/001108244",
-      "source": "ftchinese.com",
-      "published": 1763568000
     },
     {
       "id": "1e693650d3c2",
@@ -1402,5 +1402,5 @@
       "published": 1761489480
     }
   ],
-  "build_id": 1763896060
+  "build_id": 1763897518
 }
