@@ -1,6 +1,13 @@
 {
-  "updated": 1763921616,
+  "updated": 1763923452,
   "items": [
+    {
+      "id": "c54e7edef027",
+      "title": "政府籌建反無人機系統指定破解大疆通訊協定 文件曝光",
+      "url": "https://udn.com/news/story/10930/9158518",
+      "source": "udn.com",
+      "published": 1763922943
+    },
     {
       "id": "9054c7cbfd6b",
       "title": "以色列空襲黎巴嫩首都南郊　擊斃真主黨軍事領袖",
@@ -156,6 +163,20 @@
       "published": 1763913600
     },
     {
+      "id": "e21028e5d5fe",
+      "title": "賴總統「國軍非共諜說」 鄭麗文回應：勿政治消費國家英雄",
+      "url": "https://udn.com/news/story/6656/9158402",
+      "source": "udn.com",
+      "published": 1763913600
+    },
+    {
+      "id": "3c534153277f",
+      "title": "鄭麗文擁抱張嘉郡 喊雲林世代接棒",
+      "url": "https://udn.com/news/story/124652/9158404",
+      "source": "udn.com",
+      "published": 1763913600
+    },
+    {
       "id": "f9772934c37a",
       "title": "歷史上的今天／1960年中國民主黨籌備委員會 貼出招牌",
       "url": "https://udn.com/news/story/7314/9157373",
@@ -187,20 +208,6 @@
       "id": "18e09aa0ad86",
       "title": "財劃法爭議延燒！藍委：地方成長紅利 中央攔胡",
       "url": "https://udn.com/news/story/124401/9158397",
-      "source": "udn.com",
-      "published": 1763913600
-    },
-    {
-      "id": "e21028e5d5fe",
-      "title": "賴總統「國軍非共諜說」 鄭麗文回應：勿政治消費國家英雄",
-      "url": "https://udn.com/news/story/6656/9158402",
-      "source": "udn.com",
-      "published": 1763913600
-    },
-    {
-      "id": "3c534153277f",
-      "title": "鄭麗文擁抱張嘉郡 喊雲林世代接棒",
-      "url": "https://udn.com/news/story/124652/9158404",
       "source": "udn.com",
       "published": 1763913600
     },
@@ -343,13 +350,6 @@
       "url": "https://udn.com/news/story/7314/9158038",
       "source": "udn.com",
       "published": 1763897146
-    },
-    {
-      "id": "c9d8f211895b",
-      "title": "鄭麗文指勿消費國家英雄 綠：祭悼共諜心虛不認錯",
-      "url": "https://udn.com/news/story/6656/9157989",
-      "source": "udn.com",
-      "published": 1763895352
     },
     {
       "id": "40b72fdb095c",
@@ -1402,5 +1402,5 @@
       "published": 1761467640
     }
   ],
-  "build_id": 1763921616
+  "build_id": 1763923452
 }
