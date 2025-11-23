@@ -1,6 +1,27 @@
 {
-  "updated": 1763903884,
+  "updated": 1763905016,
   "items": [
+    {
+      "id": "401b342300ad",
+      "title": "港府跟進中國對日反制  暫停與日本總領事館交流",
+      "url": "https://money.udn.com/money/story/5599/9158218",
+      "source": "money.udn.com",
+      "published": 1763904968
+    },
+    {
+      "id": "cfe9e3c64444",
+      "title": "「台灣有事」答詢引日中緊張  日防相視察與那國島",
+      "url": "https://money.udn.com/money/story/5599/9158214",
+      "source": "money.udn.com",
+      "published": 1763904647
+    },
+    {
+      "id": "c3730a14c60d",
+      "title": "缅甸军政府称在电诈中心5天逮捕1600外国人",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251123-%E7%BC%85%E7%94%B8%E5%86%9B%E6%94%BF%E5%BA%9C%E7%A7%B0%E5%9C%A8%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%835%E5%A4%A9%E9%80%AE%E6%8D%951600%E5%A4%96%E5%9B%BD%E4%BA%BA",
+      "source": "rfi.fr",
+      "published": 1763904141
+    },
     {
       "id": "8203b62422f5",
       "title": "歐盟領袖關注俄烏和平計畫　強調不能以武力改變邊界",
@@ -345,20 +366,6 @@
       "published": 1763883352
     },
     {
-      "id": "8f63509a21fd",
-      "title": "影/中日G20零互動？產經：日相高市早苗與陸總理李強疑似「眼神交會」",
-      "url": "https://money.udn.com/money/story/5599/9157844",
-      "source": "money.udn.com",
-      "published": 1763882630
-    },
-    {
-      "id": "5276918c6e93",
-      "title": "沙國以文化遺產拚觀光  迪里耶門成永續轉型地標",
-      "url": "https://money.udn.com/money/story/5599/9157827",
-      "source": "money.udn.com",
-      "published": 1763882008
-    },
-    {
       "id": "d4e92d5e4898",
       "title": "學者：黨政職務破格拔擢 蔣經國刻意安排李登輝接班",
       "url": "https://udn.com/news/story/6656/9157814",
@@ -527,6 +534,13 @@
       "published": 1763827920
     },
     {
+      "id": "0e6b805a4c97",
+      "title": "日本经济的尴尬",
+      "url": "https://www.ftchinese.com/story/001108278",
+      "source": "ftchinese.com",
+      "published": 1763827200
+    },
+    {
       "id": "a32feda027e0",
       "title": "2026年全球经济展望：在混沌中构建秩序",
       "url": "https://www.ftchinese.com/story/001108263",
@@ -616,13 +630,6 @@
       "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20251122-cop30-%E6%9C%80%E7%BB%88%E6%96%87%E6%9C%AC%E5%85%85%E6%BB%A1%E6%82%AC%E5%BF%B5-%E4%B8%AD%E5%9B%BD%E7%AB%8B%E5%9C%BA%E5%8F%97%E5%85%B3%E6%B3%A8",
       "source": "rfi.fr",
       "published": 1763779245
-    },
-    {
-      "id": "7d01887d72eb",
-      "title": "日本右翼为扩军和强化防卫能力寻找正当性，中日危机恐难轻易化解",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251122-%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E4%B8%BA%E6%89%A9%E5%86%9B%E5%92%8C%E5%BC%BA%E5%8C%96%E9%98%B2%E5%8D%AB%E8%83%BD%E5%8A%9B%E5%AF%BB%E6%89%BE%E6%AD%A3%E5%BD%93%E6%80%A7%EF%BC%8C%E4%B8%AD%E6%97%A5%E5%8D%B1%E6%9C%BA%E6%81%90%E9%9A%BE%E8%BD%BB%E6%98%93%E5%8C%96%E8%A7%A3",
-      "source": "rfi.fr",
-      "published": 1763772220
     },
     {
       "id": "6a4e1bd2b9e7",
@@ -873,13 +880,6 @@
       "id": "2bcd93f84bb9",
       "title": "《肉体》：在世界的缝隙寻找立足之地",
       "url": "https://www.ftchinese.com/story/001108258",
-      "source": "ftchinese.com",
-      "published": 1763654400
-    },
-    {
-      "id": "02597e006567",
-      "title": "上海艺术季：洗去铅华的多元艺术生态",
-      "url": "https://www.ftchinese.com/story/001108259",
       "source": "ftchinese.com",
       "published": 1763654400
     },
@@ -1402,5 +1402,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1763903884
+  "build_id": 1763905016
 }
