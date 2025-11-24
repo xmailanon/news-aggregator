@@ -1,9 +1,37 @@
 {
-  "updated": 1763995332,
+  "updated": 1763997097,
   "items": [
     {
+      "id": "c0985d9173e4",
+      "title": "醫美診所納入評鑑惹議 衛福部周三邀30多個醫界團體說明政策",
+      "url": "https://udn.com/news/story/7314/9160508",
+      "source": "udn.com",
+      "published": 1763997014
+    },
+    {
+      "id": "2ba8aaf9decb",
+      "title": "中國大陸國家主席習近平與美國總統川普通話！ 談兩岸與俄烏等議題",
+      "url": "https://money.udn.com/money/story/5599/9160464",
+      "source": "money.udn.com",
+      "published": 1763996524
+    },
+    {
+      "id": "09595b12e4bb",
+      "title": "美股早盤／最新 AI 模型獲青睞 字母漲逾5%率大盤攻高 台積電ADR漲1%",
+      "url": "https://money.udn.com/money/story/123398/9160430",
+      "source": "money.udn.com",
+      "published": 1763996119
+    },
+    {
+      "id": "ebe5db60a2b7",
+      "title": "捷克波蘭總統共同聲明  俄羅斯為歐洲安全重大威脅",
+      "url": "https://money.udn.com/money/story/5599/9160424",
+      "source": "money.udn.com",
+      "published": 1763996069
+    },
+    {
       "id": "a4464486236a",
-      "title": "美商務部長：輝達先進AI晶片輸陸 川普正在權衡",
+      "title": "美商務部長：輝達先進 AI 晶片輸陸 川普正在權衡",
       "url": "https://money.udn.com/money/story/5599/9160409",
       "source": "money.udn.com",
       "published": 1763995307
@@ -275,13 +303,6 @@
       "published": 1763983324
     },
     {
-      "id": "b1c1d609946c",
-      "title": "美國農民憂心忡忡！中美會談後 為何大豆對中國大陸出口仍停滯不前？",
-      "url": "https://money.udn.com/money/story/120769/9159536",
-      "source": "money.udn.com",
-      "published": 1763982570
-    },
-    {
       "id": "453c587c80fb",
       "title": "德国总理：中国可以在乌克兰战争问题上加大施压",
       "url": "https://www.dw.com/zh/德国总理：中国可以在乌克兰战争问题上加大施压/a-74862727?maca=chi-rss-chi-all-1127-rdf",
@@ -301,20 +322,6 @@
       "url": "https://www.dw.com/zh/客座评论：习近平的-千秋功业-收复台湾-还是-解放思想-？/a-74860117?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763982180
-    },
-    {
-      "id": "ffe3308167e2",
-      "title": "印尼國營基金擬投資海外AI基礎設施廠　瞄準台美日韓",
-      "url": "https://money.udn.com/money/story/5599/9160121",
-      "source": "money.udn.com",
-      "published": 1763981657
-    },
-    {
-      "id": "3b83b8629528",
-      "title": "中美元首缺席 G20 峰會之際 印度、巴西和南非三國領導人加強抱團",
-      "url": "https://money.udn.com/money/story/5599/9159818",
-      "source": "money.udn.com",
-      "published": 1763981460
     },
     {
       "id": "1738573110c7",
@@ -364,13 +371,6 @@
       "url": "https://udn.com/news/story/7314/9159990",
       "source": "udn.com",
       "published": 1763977382
-    },
-    {
-      "id": "b045030bbd21",
-      "title": "民調：近9成民眾對陸沒好感、不願統一 這年齡層對政府最不滿",
-      "url": "https://udn.com/news/story/6656/9159705",
-      "source": "udn.com",
-      "published": 1763976847
     },
     {
       "id": "c52ef08fd5b1",
@@ -1402,5 +1402,5 @@
       "published": 1761489480
     }
   ],
-  "build_id": 1763995332
+  "build_id": 1763997097
 }
