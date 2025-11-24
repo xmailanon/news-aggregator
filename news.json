@@ -1,6 +1,20 @@
 {
-  "updated": 1764002508,
+  "updated": 1764004193,
   "items": [
+    {
+      "id": "ffc271deb3a7",
+      "title": "法国迎接博若莱新酒上市 在英美备受期待 日本荣登进口最大国",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20251124-%E6%B3%95%E5%9B%BD%E8%BF%8E%E6%8E%A5%E5%8D%9A%E8%8B%A5%E8%8E%B1%E6%96%B0%E9%85%92%E4%B8%8A%E5%B8%82-%E5%9C%A8%E8%8B%B1%E7%BE%8E%E5%A4%87%E5%8F%97%E6%9C%9F%E5%BE%85-%E6%97%A5%E6%9C%AC%E8%8D%A3%E7%99%BB%E8%BF%9B%E5%8F%A3%E6%9C%80%E5%A4%A7%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1764003048
+    },
+    {
+      "id": "f6bf98a9ee3f",
+      "title": "美學者：未來數月是台美關鍵期",
+      "url": "https://udn.com/news/story/6656/9160612",
+      "source": "udn.com",
+      "published": 1764001576
+    },
     {
       "id": "c54e0699111e",
       "title": "陽光行動／雙北市府帶頭減廢 為何都破功",
@@ -322,13 +336,6 @@
       "url": "https://udn.com/news/story/6656/9160296",
       "source": "udn.com",
       "published": 1763988487
-    },
-    {
-      "id": "97f3f04ef24a",
-      "title": "「將官盃」體能戰技賽桃園登場 陸軍司令帶頭跑3公里",
-      "url": "https://udn.com/news/story/10930/9160215",
-      "source": "udn.com",
-      "published": 1763988353
     },
     {
       "id": "167bdb3f62d2",
@@ -653,13 +660,6 @@
       "published": 1763909100
     },
     {
-      "id": "c3730a14c60d",
-      "title": "缅甸军政府称在电诈中心5天逮捕1600外国人",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251123-%E7%BC%85%E7%94%B8%E5%86%9B%E6%94%BF%E5%BA%9C%E7%A7%B0%E5%9C%A8%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%835%E5%A4%A9%E9%80%AE%E6%8D%951600%E5%A4%96%E5%9B%BD%E4%BA%BA",
-      "source": "rfi.fr",
-      "published": 1763904141
-    },
-    {
       "id": "b2fe810d1fd6",
       "title": "王毅称日本发出“令人震惊的”错误信号",
       "url": "https://www.dw.com/zh/王毅称日本发出-令人震惊的-错误信号/a-74853234?maca=chi-rss-chi-all-1127-rdf",
@@ -777,13 +777,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn090k5445ro/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1763828314
-    },
-    {
-      "id": "62c50d198665",
-      "title": "乌克兰与美国将在瑞士商谈替代和平方案",
-      "url": "https://www.dw.com/zh/乌克兰与美国将在瑞士商谈替代和平方案/a-74848903?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763827920
     },
     {
       "id": "0e6b805a4c97",
@@ -1400,7 +1393,14 @@
       "url": "https://www.bbc.com/zhongwen/articles/cjw974qqn1vo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1761902964
+    },
+    {
+      "id": "e347fa9648bf",
+      "title": "法国：卢浮宫珠宝盗窃案嫌疑人被捕",
+      "url": "https://www.dw.com/zh/法国：卢浮宫珠宝盗窃案嫌疑人被捕/a-74502807?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1761489480
     }
   ],
-  "build_id": 1764002508
+  "build_id": 1764004193
 }
