@@ -1,6 +1,27 @@
 {
-  "updated": 1763966959,
+  "updated": 1763968290,
   "items": [
+    {
+      "id": "ddbc6a06eed3",
+      "title": "不滿勞動改革　比利時將全國罷工3天恐釀交通癱瘓",
+      "url": "https://money.udn.com/money/story/5599/9159599",
+      "source": "money.udn.com",
+      "published": 1763967266
+    },
+    {
+      "id": "5cff81bdcfdc",
+      "title": "卓揆邀綠委研商財劃法攻防 共識持續溝通盼縣市長發揮影響力",
+      "url": "https://udn.com/news/story/6656/9159595",
+      "source": "udn.com",
+      "published": 1763967183
+    },
+    {
+      "id": "96cc7e945c3c",
+      "title": "影／政院版財劃法 鍾佳濱：已是最佳版本",
+      "url": "https://udn.com/news/story/124401/9159566",
+      "source": "udn.com",
+      "published": 1763966224
+    },
     {
       "id": "1edde31db3b7",
       "title": "斯洛維尼亞公投 暫緩讓協助死亡法上路",
@@ -219,20 +240,6 @@
       "published": 1763960069
     },
     {
-      "id": "eedb0f551c14",
-      "title": "影／尋求跟日本簽定軍事同盟？外交部：不一定是最好方法",
-      "url": "https://udn.com/news/story/10930/9159277",
-      "source": "udn.com",
-      "published": 1763959804
-    },
-    {
-      "id": "26e82e5d15ac",
-      "title": "獨／《軍情站》直擊國軍將採購的無人機接管技術 是什麼黑科技？",
-      "url": "https://udn.com/news/story/10930/9159247",
-      "source": "udn.com",
-      "published": 1763958784
-    },
-    {
       "id": "d148e96a3e4f",
       "title": "美民眾對通膨無感？年終購物季消費額有望創新高",
       "url": "https://money.udn.com/money/story/10511/9159239",
@@ -310,13 +317,6 @@
       "published": 1763955126
     },
     {
-      "id": "50a2c3e318c0",
-      "title": "日本反駁中國致聯合國信件內容 稱涉台指控「毫無依據」",
-      "url": "https://money.udn.com/money/story/5599/9157185",
-      "source": "money.udn.com",
-      "published": 1763954746
-    },
-    {
       "id": "bc68c720fc63",
       "title": "卢比奥急在日内瓦为”起草者“争议灭火 欧洲：领土谈判应从当下前线情势出发",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251124-%E5%8D%A2%E6%AF%94%E5%A5%A5%E6%80%A5%E5%9C%A8%E6%97%A5%E5%86%85%E7%93%A6%E4%B8%BA-%E8%B5%B7%E8%8D%89%E8%80%85-%E4%BA%89%E8%AE%AE%E7%81%AD%E7%81%AB-%E6%AC%A7%E6%B4%B2-%E9%A2%86%E5%9C%9F%E8%B0%88%E5%88%A4%E5%BA%94%E4%BB%8E%E5%BD%93%E4%B8%8B%E5%89%8D%E7%BA%BF%E6%83%85%E5%8A%BF%E5%87%BA%E5%8F%91",
@@ -392,6 +392,13 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251123-%E8%B5%B0%E5%90%91%E8%87%AA%E6%84%BF%E5%85%B5%E5%BD%B9%E5%88%B6-%E9%97%A8%E5%89%8D%E6%88%98%E7%81%AB%E7%BA%B7%E9%A3%9E-%E6%B3%95%E5%9B%BD%E6%9C%AA%E9%9B%A8%E7%BB%B8%E7%BC%AA",
       "source": "rfi.fr",
       "published": 1763916120
+    },
+    {
+      "id": "130478963cbf",
+      "title": "COP30特稿: “1.3万亿美元”路线图，中国在其中的角色是什么？",
+      "url": "https://www.ftchinese.com/story/001108281",
+      "source": "ftchinese.com",
+      "published": 1763913600
     },
     {
       "id": "fc6a2c6abd62",
@@ -912,13 +919,6 @@
       "published": 1763654400
     },
     {
-      "id": "3b898169393f",
-      "title": "中金公司将并购两家国内同行",
-      "url": "https://www.ftchinese.com/story/001108262",
-      "source": "ftchinese.com",
-      "published": 1763654400
-    },
-    {
       "id": "21c6c9de815e",
       "title": "高市早苗「台灣有事論」引發中國全力反制  國際社會有何反應",
       "url": "https://www.bbc.com/zhongwen/articles/c20e0z9ej08o/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1761390600
     }
   ],
-  "build_id": 1763966959
+  "build_id": 1763968290
 }
