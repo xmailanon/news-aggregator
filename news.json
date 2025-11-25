@@ -1,6 +1,69 @@
 {
-  "updated": 1764083498,
+  "updated": 1764085301,
   "items": [
+    {
+      "id": "ecc6c4c04833",
+      "title": "Meta傳擬採用谷歌TPU AI晶片　輝達早盤股價挫跌5%",
+      "url": "https://money.udn.com/money/story/123398/9163070",
+      "source": "money.udn.com",
+      "published": 1764084998
+    },
+    {
+      "id": "b50103f2de4d",
+      "title": "【视频】卓荣泰：2300万台湾人没有“回归”选项",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251125-%E8%A7%86%E9%A2%91-%E5%8D%93%E8%8D%A3%E6%B3%B0-2300%E4%B8%87%E5%8F%B0%E6%B9%BE%E4%BA%BA%E6%B2%A1%E6%9C%89-%E5%9B%9E%E5%BD%92-%E9%80%89%E9%A1%B9",
+      "source": "rfi.fr",
+      "published": 1764084669
+    },
+    {
+      "id": "3fb8e8a8e28f",
+      "title": "媒体：美俄代表在阿布扎比会谈",
+      "url": "https://www.dw.com/zh/媒体：美俄代表在阿布扎比会谈/a-74894812?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1764084660
+    },
+    {
+      "id": "baff5d6c8292",
+      "title": "电动汽车：大众汽车称已掌握在中国的整条生产链",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251125-%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6-%E5%A4%A7%E4%BC%97%E6%B1%BD%E8%BD%A6%E7%A7%B0%E5%B7%B2%E6%8E%8C%E6%8F%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%95%B4%E6%9D%A1%E7%94%9F%E4%BA%A7%E9%93%BE",
+      "source": "rfi.fr",
+      "published": 1764084390
+    },
+    {
+      "id": "a87915a9f3c7",
+      "title": "CNN：美官員稱烏克蘭同意和平協議　僅剩細節待敲定",
+      "url": "https://money.udn.com/money/story/5599/9162975",
+      "source": "money.udn.com",
+      "published": 1764083552
+    },
+    {
+      "id": "ceab1e8ae2e6",
+      "title": "整治德里嚴重空污　印度總理府推廣電動車",
+      "url": "https://money.udn.com/money/story/5599/9162974",
+      "source": "money.udn.com",
+      "published": 1764083550
+    },
+    {
+      "id": "874570270914",
+      "title": "德语媒体：中国新航母的致命瑕疵",
+      "url": "https://www.dw.com/zh/德语媒体：中国新航母的致命瑕疵/a-74894216?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1764083280
+    },
+    {
+      "id": "a81bcaa98441",
+      "title": "大众实现在中国自主研发生产新车型",
+      "url": "https://www.dw.com/zh/大众实现在中国自主研发生产新车型/a-74894379?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1764083040
+    },
+    {
+      "id": "e09f861d9c3f",
+      "title": "德国外长：预计年内访华",
+      "url": "https://www.dw.com/zh/德国外长：预计年内访华/a-74889769?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1764082920
+    },
     {
       "id": "ad140c140a0e",
       "title": "美股早盤／輝達摔6% 拖累那指、費半 科技股反彈暫歇",
@@ -217,27 +280,6 @@
       "url": "https://udn.com/news/story/10930/9162699",
       "source": "udn.com",
       "published": 1764074834
-    },
-    {
-      "id": "3da851a08564",
-      "title": "全球最幸福國家8連霸　芬蘭力抗經濟衰退失業率飆高",
-      "url": "https://money.udn.com/money/story/5599/9162698",
-      "source": "money.udn.com",
-      "published": 1764074811
-    },
-    {
-      "id": "fcdc897a0ea7",
-      "title": "日本首相稱應約與美國總統通話 川普向其說明美中關係最新情況",
-      "url": "https://money.udn.com/money/story/5599/9161845",
-      "source": "money.udn.com",
-      "published": 1764074299
-    },
-    {
-      "id": "dac4991d2aa9",
-      "title": "疑似中國無人機現蹤與那國島外海　日軍機緊急升空因應",
-      "url": "https://money.udn.com/money/story/5599/9162679",
-      "source": "money.udn.com",
-      "published": 1764074249
     },
     {
       "id": "973c3e876a8a",
@@ -611,13 +653,6 @@
       "published": 1763999675
     },
     {
-      "id": "4503444bab43",
-      "title": "抵制赴日旅游之际 环时报道：印度全面恢复中国观光客签证",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251124-%E6%8A%B5%E5%88%B6%E8%B5%B4%E6%97%A5%E6%97%85%E6%B8%B8%E4%B9%8B%E9%99%85-%E7%8E%AF%E6%97%B6%E6%8A%A5%E9%81%93-%E5%8D%B0%E5%BA%A6%E5%85%A8%E9%9D%A2%E6%81%A2%E5%A4%8D%E4%B8%AD%E5%9B%BD%E8%A7%82%E5%85%89%E5%AE%A2%E7%AD%BE%E8%AF%81",
-      "source": "rfi.fr",
-      "published": 1763998398
-    },
-    {
       "id": "57f01d218fb9",
       "title": "德语媒体：频繁清洗暴露了习近平的不安全感",
       "url": "https://www.dw.com/zh/德语媒体：频繁清洗暴露了习近平的不安全感/a-74869780?maca=chi-rss-chi-all-1127-rdf",
@@ -665,13 +700,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251124-%E6%97%A5%E6%9C%AC%E7%B2%89%E4%B8%9D%E6%8B%85%E5%BF%83%E6%97%A5%E4%B8%AD%E5%85%B3%E7%B3%BB%E6%81%B6%E5%8C%96%E5%BD%B1%E5%93%8D%E6%96%B0%E7%86%8A%E7%8C%AB%E7%9A%84%E5%88%B0%E6%9D%A5-%E9%AB%98%E5%B8%82%E6%94%AF%E6%8C%81%E7%8E%87%E7%BB%A7%E7%BB%AD%E4%BF%9D%E6%8C%81%E4%B8%83%E6%88%90%E4%BB%A5%E4%B8%8A",
       "source": "rfi.fr",
       "published": 1763986195
-    },
-    {
-      "id": "485b5f864010",
-      "title": "中国人形机器人连续行走3天，创吉尼斯世界纪录",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251124-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9E%E7%BB%AD%E8%A1%8C%E8%B5%B03%E5%A4%A9%EF%BC%8C%E5%88%9B%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
-      "source": "rfi.fr",
-      "published": 1763984286
     },
     {
       "id": "453c587c80fb",
@@ -849,13 +877,6 @@
       "published": 1763903280
     },
     {
-      "id": "40b72fdb095c",
-      "title": "日内瓦会谈周日上演：“28点”是俄方的“愿望清单”？",
-      "url": "https://www.dw.com/zh/日内瓦会谈周日上演：-28点-是俄方的-愿望清单-？/a-74851853?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763893560
-    },
-    {
       "id": "0686fce31752",
       "title": "因应中俄空间能力 德国政府通过太空安全战略",
       "url": "https://www.dw.com/zh/因应中俄空间能力-德国政府通过太空安全战略/a-74824112?maca=chi-rss-chi-all-1127-rdf",
@@ -877,16 +898,16 @@
       "published": 1763889720
     },
     {
-      "id": "5755b8f9f122",
-      "title": "制定法律禁令淘汰华为？欧洲在考虑中",
-      "url": "https://www.dw.com/zh/制定法律禁令淘汰华为？欧洲在考虑中/a-74823684?maca=chi-rss-chi-all-1127-rdf",
+      "id": "33ce32d0e42d",
+      "title": "梅尔茨为何此时呼吁乌克兰男青年“报效祖国，而不是涌入德国”？",
+      "url": "https://www.dw.com/zh/梅尔茨为何此时呼吁乌克兰男青年-报效祖国，而不是涌入德国-？/a-74800632?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763885580
     },
     {
-      "id": "33ce32d0e42d",
-      "title": "梅尔茨为何此时呼吁乌克兰男青年“报效祖国，而不是涌入德国”？",
-      "url": "https://www.dw.com/zh/梅尔茨为何此时呼吁乌克兰男青年-报效祖国，而不是涌入德国-？/a-74800632?maca=chi-rss-chi-all-1127-rdf",
+      "id": "5755b8f9f122",
+      "title": "制定法律禁令淘汰华为？欧洲在考虑中",
+      "url": "https://www.dw.com/zh/制定法律禁令淘汰华为？欧洲在考虑中/a-74823684?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763885580
     },
@@ -952,13 +973,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cg7v90v97nmo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1763795278
-    },
-    {
-      "id": "982ca29eede9",
-      "title": "长平观察：上海人为什么关心起政治来了？",
-      "url": "https://www.dw.com/zh/长平观察：上海人为什么关心起政治来了？/a-74840966?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763741400
     },
     {
       "id": "c6fd16e64f2a",
@@ -1220,13 +1234,6 @@
       "published": 1763428961
     },
     {
-      "id": "0ef831dba10d",
-      "title": "德语媒体：克林拜尔中国行是对执政联盟的考验",
-      "url": "https://www.dw.com/zh/德语媒体：克林拜尔中国行是对执政联盟的考验/a-74779093?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763390580
-    },
-    {
       "id": "183491012232",
       "title": "泽连斯基访法 乌克兰将购一百架阵风战机",
       "url": "https://www.dw.com/zh/泽连斯基访法-乌克兰将购一百架阵风战机/a-74778231?maca=chi-rss-chi-all-1127-rdf",
@@ -1395,5 +1402,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1764083498
+  "build_id": 1764085301
 }
