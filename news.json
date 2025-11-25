@@ -1,12 +1,33 @@
 {
-  "updated": 1764112182,
+  "updated": 1764113739,
   "items": [
     {
+      "id": "35abe664c21e",
+      "title": "台積電ADR跌深拉回至平盤 較台北交易溢價26.5%",
+      "url": "https://money.udn.com/money/story/5599/9163249",
+      "source": "money.udn.com",
+      "published": 1764113549
+    },
+    {
+      "id": "7e2abdbc3a6a",
+      "title": "蘋果王者歸來！研調：iPhone成長狠甩三星 2029前穩居全球霸主",
+      "url": "https://money.udn.com/money/story/5599/9163239",
+      "source": "money.udn.com",
+      "published": 1764112858
+    },
+    {
       "id": "7f7229462103",
-      "title": "美股續漲 市場重新加碼對Fed下月降息的押注 AI股出現兩樣情",
+      "title": "美股收盤／三大指數續漲 市場重新加碼對 Fed 下月降息的押注 AI 股出現兩樣情",
       "url": "https://money.udn.com/money/story/5599/9163235",
       "source": "money.udn.com",
       "published": 1764111927
+    },
+    {
+      "id": "cc806a2c66a5",
+      "title": "賴總統投書華郵：感謝川普、承諾大幅增國防預算",
+      "url": "https://udn.com/news/story/10930/9163160",
+      "source": "udn.com",
+      "published": 1764111240
     },
     {
       "id": "703279a6fdc3",
@@ -184,13 +205,6 @@
       "published": 1764097283
     },
     {
-      "id": "cc806a2c66a5",
-      "title": "賴總統投書華郵：感謝川普、承諾大幅增國防預算",
-      "url": "https://udn.com/news/story/10930/9163160",
-      "source": "udn.com",
-      "published": 1764096861
-    },
-    {
       "id": "d7a57c3918b5",
       "title": "聯準會釋鴿派訊號重燃降息預期　歐股收高",
       "url": "https://money.udn.com/money/story/5599/9163159",
@@ -217,20 +231,6 @@
       "url": "https://money.udn.com/money/story/5599/9162933",
       "source": "money.udn.com",
       "published": 1764095346
-    },
-    {
-      "id": "cb21d554d657",
-      "title": "美衝刺 AI 「創世紀任務」上陣 攜手輝達、超微等大廠",
-      "url": "https://money.udn.com/money/story/5599/9162948",
-      "source": "money.udn.com",
-      "published": 1764095247
-    },
-    {
-      "id": "51e7c10f0d30",
-      "title": "加密幣市值 六周蒸發1兆美元 市場是否觸底仍未知",
-      "url": "https://money.udn.com/money/story/5599/9162959",
-      "source": "money.udn.com",
-      "published": 1764095062
     },
     {
       "id": "653c436c858b",
@@ -632,48 +632,6 @@
       "published": 1764013702
     },
     {
-      "id": "48b0984925e4",
-      "title": "探索新市场前沿: 电子交易、加密创新与全球金融领导力",
-      "url": "https://www.ftchinese.com/story/001108289",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
-      "id": "e4e7469b1e77",
-      "title": "从钣金厂到PCB巨头 东山精密扩张之路与债同行",
-      "url": "https://www.ftchinese.com/story/001108291",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
-      "id": "e188fd6c2354",
-      "title": "科技战胜关税：为什么美国例外论仍将经久不衰？",
-      "url": "https://www.ftchinese.com/story/001108290",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
-      "id": "c21fada43cf4",
-      "title": "高市早苗称特朗普在美中通话后向其致电",
-      "url": "https://www.ftchinese.com/story/001108288",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
-      "id": "ac53bf009719",
-      "title": "德国大幅上调最低工资释放了什么信号？",
-      "url": "https://www.ftchinese.com/story/001108287",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
-      "id": "2525b54b5af3",
-      "title": "中美领导人在贸易休战后首次通电话",
-      "url": "https://www.ftchinese.com/story/001108286",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
       "id": "57f01d218fb9",
       "title": "德语媒体：频繁清洗暴露了习近平的不安全感",
       "url": "https://www.dw.com/zh/德语媒体：频繁清洗暴露了习近平的不安全感/a-74869780?maca=chi-rss-chi-all-1127-rdf",
@@ -814,55 +772,6 @@
       "published": 1763925766
     },
     {
-      "id": "59bea7d45e9f",
-      "title": "量子计算需要来场工业革命",
-      "url": "https://www.ftchinese.com/story/001108285",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "84d7dd8cd820",
-      "title": "当欧洲发现自己在人工智能竞赛中选错赛道时",
-      "url": "https://www.ftchinese.com/story/001108283",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "4095d7631be3",
-      "title": "90亿全售股权，龙腾半导体借殻中联发展上市",
-      "url": "https://www.ftchinese.com/story/001108284",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "ded4ee361630",
-      "title": "乌克兰别无选择，只能就美国的和平计划进行周旋",
-      "url": "https://www.ftchinese.com/story/001108282",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "130478963cbf",
-      "title": "COP30特稿: “1.3万亿美元”路线图，中国在其中的角色是什么？",
-      "url": "https://www.ftchinese.com/story/001108281",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "fc6a2c6abd62",
-      "title": "一周世界舆论聚焦：中日关系的新动向",
-      "url": "https://www.ftchinese.com/story/001108280",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "e1e355f5d1c3",
-      "title": "比特币的未来",
-      "url": "https://www.ftchinese.com/story/001108279",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
       "id": "6953902970cb",
       "title": "墙外文摘：日本在台海战事的四大可能剧本",
       "url": "https://www.dw.com/zh/墙外文摘：日本在台海战事的四大可能剧本/a-74853931?maca=chi-rss-chi-all-1127-rdf",
@@ -940,34 +849,6 @@
       "published": 1763828314
     },
     {
-      "id": "0e6b805a4c97",
-      "title": "日本经济的尴尬",
-      "url": "https://www.ftchinese.com/story/001108278",
-      "source": "ftchinese.com",
-      "published": 1763827200
-    },
-    {
-      "id": "a32feda027e0",
-      "title": "2026年全球经济展望：在混沌中构建秩序",
-      "url": "https://www.ftchinese.com/story/001108263",
-      "source": "ftchinese.com",
-      "published": 1763827200
-    },
-    {
-      "id": "4c56bf06cedc",
-      "title": "东南亚的投资机会初探(下)",
-      "url": "https://www.ftchinese.com/story/001108144",
-      "source": "ftchinese.com",
-      "published": 1763827200
-    },
-    {
-      "id": "6b1a6076a082",
-      "title": "专访袁瑛：气候大会上的化石能源巨额账单，谁来为失控的气候买单？",
-      "url": "https://www.ftchinese.com/story/001108277",
-      "source": "ftchinese.com",
-      "published": 1763827200
-    },
-    {
       "id": "c44aac1b9334",
       "title": "高市早苗「台灣有事」言論會讓中日關係「政冷經也冷」嗎？",
       "url": "https://www.bbc.com/zhongwen/articles/cg7v90v97nmo/trad?at_medium=RSS&at_campaign=rss",
@@ -1043,27 +924,6 @@
       "url": "https://cn.nytimes.com/usa/20251121/chinese-students-us/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1763658595
-    },
-    {
-      "id": "25b3549ae891",
-      "title": "芯片行业拼薪酬，但解不了人才短缺之困",
-      "url": "https://www.ftchinese.com/story/001108276",
-      "source": "ftchinese.com",
-      "published": 1763654400
-    },
-    {
-      "id": "647ec0214382",
-      "title": "西方国家寻求协同应对中国过剩钢铁产能",
-      "url": "https://www.ftchinese.com/story/001108275",
-      "source": "ftchinese.com",
-      "published": 1763654400
-    },
-    {
-      "id": "240265bcb483",
-      "title": "台湾高官称美国不会对芯片行业实施“惩罚性”关税",
-      "url": "https://www.ftchinese.com/story/001108274",
-      "source": "ftchinese.com",
-      "published": 1763654400
     },
     {
       "id": "21c6c9de815e",
@@ -1402,5 +1262,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1764112182
+  "build_id": 1764113739
 }
