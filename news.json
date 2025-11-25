@@ -1,6 +1,27 @@
 {
-  "updated": 1764108613,
+  "updated": 1764110374,
   "items": [
+    {
+      "id": "703279a6fdc3",
+      "title": "川普派特使魏科夫赴俄會普丁　盼敲定烏克蘭和平協議",
+      "url": "https://money.udn.com/money/story/5599/9163221",
+      "source": "money.udn.com",
+      "published": 1764109889
+    },
+    {
+      "id": "989d2a819101",
+      "title": "川普執政近一年 美前官員：中國各方面都比一年前更好",
+      "url": "https://money.udn.com/money/story/5599/9163220",
+      "source": "money.udn.com",
+      "published": 1764109718
+    },
+    {
+      "id": "f590a7e13c71",
+      "title": "聯準會降息希望再度升高　華爾街股市收紅",
+      "url": "https://money.udn.com/money/story/123398/9163217",
+      "source": "money.udn.com",
+      "published": 1764109282
+    },
     {
       "id": "f5f5c57771ab",
       "title": "市場憂俄烏和平計畫引發供應疑慮　國際油價收黑",
@@ -23,16 +44,16 @@
       "published": 1764107249
     },
     {
-      "id": "4f3c3d7135f6",
-      "title": "巴西前總統波索納洛政變定罪　最高法院令服27年徒刑",
-      "url": "https://money.udn.com/money/story/10511/9163187",
+      "id": "9e288b7d0ce0",
+      "title": "澤倫斯基願與川普討論和談　促西方簽署駐軍備忘錄",
+      "url": "https://money.udn.com/money/story/5599/9163188",
       "source": "money.udn.com",
       "published": 1764106578
     },
     {
-      "id": "a06ab104e4b8",
-      "title": "澤倫斯基願與川普討論和談　促西方簽署駐軍備忘錄",
-      "url": "https://money.udn.com/money/story/10511/9163188",
+      "id": "065e9377ffb5",
+      "title": "巴西前總統波索納洛政變定罪　最高法院令服27年徒刑",
+      "url": "https://money.udn.com/money/story/5599/9163187",
       "source": "money.udn.com",
       "published": 1764106578
     },
@@ -128,6 +149,13 @@
       "published": 1764097825
     },
     {
+      "id": "36301ddbb6e2",
+      "title": "總統府：將和理念相近友盟合作",
+      "url": "https://udn.com/news/story/6656/9162987",
+      "source": "udn.com",
+      "published": 1764097535
+    },
+    {
       "id": "4f5d7e8254d2",
       "title": "川普熱線高市 未提台灣",
       "url": "https://money.udn.com/money/story/5599/9163001",
@@ -196,27 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/9162955",
       "source": "money.udn.com",
       "published": 1764095001
-    },
-    {
-      "id": "3647258550df",
-      "title": "日砸重金挺晶片國家隊",
-      "url": "https://money.udn.com/money/story/5599/9162961",
-      "source": "money.udn.com",
-      "published": 1764095000
-    },
-    {
-      "id": "ab431e316584",
-      "title": "1分鐘看世界／印度響應制裁俄油 下月進口量驟降",
-      "url": "https://money.udn.com/money/story/5599/9162944",
-      "source": "money.udn.com",
-      "published": 1764094894
-    },
-    {
-      "id": "df3db4c270d2",
-      "title": "歐盟稱北京管制稀土出口如勒索　將加倍努力擺脫依賴",
-      "url": "https://money.udn.com/money/story/5599/9163155",
-      "source": "money.udn.com",
-      "published": 1764093610
     },
     {
       "id": "653c436c858b",
@@ -413,13 +420,6 @@
       "url": "https://udn.com/news/story/6656/9162766",
       "source": "udn.com",
       "published": 1764076282
-    },
-    {
-      "id": "a2602cafd6ee",
-      "title": "鄭麗文會以色列駐台代表 邀訪體驗猶太文化",
-      "url": "https://udn.com/news/story/6656/9162761",
-      "source": "udn.com",
-      "published": 1764076144
     },
     {
       "id": "7e1a2331ea33",
@@ -1262,5 +1262,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1764108613
+  "build_id": 1764110374
 }
