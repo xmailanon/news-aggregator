@@ -1,6 +1,20 @@
 {
-  "updated": 1764097734,
+  "updated": 1764099250,
   "items": [
+    {
+      "id": "5e9aaa1fc8dc",
+      "title": "俄乌停战：在阿布扎比谈判桌上球又回到普京手中",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251125-%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98-%E5%9C%A8%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E8%B0%88%E5%88%A4%E6%A1%8C%E4%B8%8A%E7%90%83%E5%8F%88%E5%9B%9E%E5%88%B0%E6%99%AE%E4%BA%AC%E6%89%8B%E4%B8%AD",
+      "source": "rfi.fr",
+      "published": 1764098975
+    },
+    {
+      "id": "971cccea17bf",
+      "title": "Fed 內部出現分歧 鮑爾盟友挺降息 鋪路利率連三降",
+      "url": "https://money.udn.com/money/story/5599/9162981",
+      "source": "money.udn.com",
+      "published": 1764098298
+    },
     {
       "id": "9707284dbb25",
       "title": "川習通話 台灣議題「各自表述」 外媒指習近平罕見致電川普",
@@ -28,13 +42,6 @@
       "url": "https://udn.com/news/story/10930/9163160",
       "source": "udn.com",
       "published": 1764096861
-    },
-    {
-      "id": "c64d7b0cb3b0",
-      "title": "Google AI 晶片傳 Meta 大採購 狂踩輝達地盤",
-      "url": "https://money.udn.com/money/story/5599/9162963",
-      "source": "money.udn.com",
-      "published": 1764096302
     },
     {
       "id": "d7a57c3918b5",
@@ -609,13 +616,6 @@
       "url": "https://cn.nytimes.com/business/20251125/automakers-rare-earth-minerals-magnets/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1764013702
-    },
-    {
-      "id": "65f7ec5d05d4",
-      "title": "法国总统马克龙继续非洲行程",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251124-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E7%BB%A7%E7%BB%AD%E9%9D%9E%E6%B4%B2%E8%A1%8C%E7%A8%8B",
-      "source": "rfi.fr",
-      "published": 1764013074
     },
     {
       "id": "48b0984925e4",
@@ -1402,5 +1402,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1764097734
+  "build_id": 1764099250
 }
