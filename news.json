@@ -1,6 +1,20 @@
 {
-  "updated": 1764067529,
+  "updated": 1764068964,
   "items": [
+    {
+      "id": "1a28f3bcf27c",
+      "title": "日本熊本縣5.7地震最大震度5弱 台積電熊本廠未達疏散標準",
+      "url": "https://money.udn.com/money/story/5599/9162505",
+      "source": "money.udn.com",
+      "published": 1764068751
+    },
+    {
+      "id": "528788d2d01d",
+      "title": "围绕中美元首罕见通话的几点解读",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251125-%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E7%BD%95%E8%A7%81%E9%80%9A%E8%AF%9D-%E5%85%B3%E4%BA%8E%E5%8F%8C%E6%96%B9%E8%B0%88%E8%AF%9D%E4%B8%AD%E5%8F%B0%E6%B9%BE%E8%AE%AE%E9%A2%98%E7%9A%84%E5%87%A0%E7%82%B9%E8%A7%A3%E8%AF%BB",
+      "source": "rfi.fr",
+      "published": 1764068225
+    },
     {
       "id": "a601e700e34b",
       "title": "聯準會官員放鴿重燃降息預期　亞股多收漲",
@@ -259,13 +273,6 @@
       "url": "https://money.udn.com/money/story/5599/9162229",
       "source": "money.udn.com",
       "published": 1764061236
-    },
-    {
-      "id": "4073108db56c",
-      "title": "美建議台灣資助軍事基地升級　菲律賓：未獲知會",
-      "url": "https://money.udn.com/money/story/5599/9162181",
-      "source": "money.udn.com",
-      "published": 1764059823
     },
     {
       "id": "5b602021e81d",
@@ -644,13 +651,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251124-%E9%94%A1%E5%85%8B%E6%95%99%E9%A2%86%E8%A2%96%E6%9A%97%E6%9D%80%E9%98%B4%E9%9C%BE%E6%95%A3%E5%8E%BB-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%86%E9%87%8D%E5%90%AF%E5%85%A8%E9%9D%A2%E7%BB%8F%E6%B5%8E%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%E5%8D%8F%E5%AE%9A%E8%B0%88%E5%88%A4",
       "source": "rfi.fr",
       "published": 1763981270
-    },
-    {
-      "id": "5c2523fee4ce",
-      "title": "俄罗斯驻法国大使访苏军墓地引发强烈抗议",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251124-%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%BB%E6%B3%95%E5%9B%BD%E5%A4%A7%E4%BD%BF%E8%AE%BF%E8%8B%8F%E5%86%9B%E5%A2%93%E5%9C%B0%E5%BC%95%E5%8F%91%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1763978481
     },
     {
       "id": "aece68845825",
@@ -1395,5 +1395,5 @@
       "published": 1761489480
     }
   ],
-  "build_id": 1764067529
+  "build_id": 1764068964
 }
