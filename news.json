@@ -1,6 +1,27 @@
 {
-  "updated": 1764180795,
+  "updated": 1764182691,
   "items": [
+    {
+      "id": "3220d8fd78f5",
+      "title": "iPhone 17熱賣　蘋果全球手機銷量今年估將超越三星",
+      "url": "https://money.udn.com/money/story/123398/9165705",
+      "source": "money.udn.com",
+      "published": 1764181410
+    },
+    {
+      "id": "74ddef03cd55",
+      "title": "爱尔兰效仿英国大幅收紧移民政策",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251126-%E7%88%B1%E5%B0%94%E5%85%B0%E6%95%88%E4%BB%BF%E8%8B%B1%E5%9B%BD%E5%A4%A7%E5%B9%85%E6%94%B6%E7%B4%A7%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96",
+      "source": "rfi.fr",
+      "published": 1764181346
+    },
+    {
+      "id": "a7c418630ed9",
+      "title": "香港大埔火灾已造成36人死亡，279人失踪",
+      "url": "https://cn.nytimes.com/china/20251127/hong-kong-fire-apartment-buildings/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1764180986
+    },
     {
       "id": "7d3dc594f16d",
       "title": "美債投資人押寶 Fed 降息 10年期殖利率一度跌破4%",
@@ -189,13 +210,6 @@
       "url": "https://udn.com/news/story/124662/9165659",
       "source": "udn.com",
       "published": 1764174133
-    },
-    {
-      "id": "897971c28600",
-      "title": "幾內亞比索軍官宣布掌控國家　暫停選舉程序、關邊界",
-      "url": "https://money.udn.com/money/story/5599/9165669",
-      "source": "money.udn.com",
-      "published": 1764174041
     },
     {
       "id": "c0b8284ed514",
@@ -567,13 +581,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251125-%E5%9C%9F%E8%80%B3%E5%85%B6%E6%8F%90%E8%AE%AE%E4%BF%84%E4%B9%8C%E5%9C%A8%E4%BC%8A%E6%96%AF%E5%9D%A6%E5%B8%83%E5%B0%94%E8%BF%9B%E8%A1%8C-%E7%9B%B4%E6%8E%A5%E6%8E%A5%E8%A7%A6",
       "source": "rfi.fr",
       "published": 1764104663
-    },
-    {
-      "id": "64eb019500b2",
-      "title": "伊朗宣布上调油价",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251125-%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E4%B8%8A%E8%B0%83%E6%B2%B9%E4%BB%B7",
-      "source": "rfi.fr",
-      "published": 1764104468
     },
     {
       "id": "afe0878a6f8b",
@@ -1157,13 +1164,6 @@
       "published": 1763575271
     },
     {
-      "id": "2fbe6f217eac",
-      "title": "哈佛前校长萨默斯因爱泼斯坦案接受调查，暂停授课",
-      "url": "https://cn.nytimes.com/usa/20251120/larry-summers-harvard-epstein/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1763574525
-    },
-    {
       "id": "1e693650d3c2",
       "title": "德语媒体：当价值观遭遇经济利益",
       "url": "https://www.dw.com/zh/德语媒体：当价值观遭遇经济利益/a-74809815?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1764180795
+  "build_id": 1764182691
 }
