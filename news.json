@@ -1,6 +1,20 @@
 {
-  "updated": 1764175632,
+  "updated": 1764176986,
   "items": [
+    {
+      "id": "4bd3b2722c93",
+      "title": "美國躉售通膨重新抬頭 受能源和食品成本上升帶動",
+      "url": "https://money.udn.com/money/story/5599/9163310",
+      "source": "money.udn.com",
+      "published": 1764175914
+    },
+    {
+      "id": "28fb24969889",
+      "title": "研究顯示中美科研合作降至20年低點 全球創新格局或面臨重塑",
+      "url": "https://money.udn.com/money/story/5599/9163366",
+      "source": "money.udn.com",
+      "published": 1764175745
+    },
     {
       "id": "48671b53a41f",
       "title": "惠普盈利展望不及市場預期 宣布將裁員4,000至6,000人",
@@ -14,6 +28,13 @@
       "url": "https://money.udn.com/money/story/5599/9163489",
       "source": "money.udn.com",
       "published": 1764175060
+    },
+    {
+      "id": "37edacc2fc07",
+      "title": "新聞幕後／1.25兆國防預算 府院精選時間點公布",
+      "url": "https://udn.com/news/story/124662/9165655",
+      "source": "udn.com",
+      "published": 1764174984
     },
     {
       "id": "80970f648873",
@@ -296,25 +317,11 @@
       "published": 1764167036
     },
     {
-      "id": "34c7071af019",
-      "title": "歐洲議會通過決議　建議制定使用社群媒體年齡限制",
-      "url": "https://money.udn.com/money/story/5599/9165397",
-      "source": "money.udn.com",
-      "published": 1764167014
-    },
-    {
       "id": "dbf7169a28af",
       "title": "總統府指媒體錯誤解讀中國大陸2027攻台 民眾黨批賴總統「失言硬推責任」",
       "url": "https://udn.com/news/story/6656/9165389",
       "source": "udn.com",
       "published": 1764166729
-    },
-    {
-      "id": "f6d972048f42",
-      "title": "別再稱加密幣為「貨幣」了！比特幣狂跌暴露致命缺陷",
-      "url": "https://money.udn.com/money/story/122381/9165355",
-      "source": "money.udn.com",
-      "published": 1764165523
     },
     {
       "id": "acdf5634d3d9",
@@ -336,13 +343,6 @@
       "url": "https://udn.com/news/story/6656/9165267",
       "source": "udn.com",
       "published": 1764161311
-    },
-    {
-      "id": "381a8079cab5",
-      "title": "賴總統宣示1.25兆特別預算 學者：中日緊張時機 展現自我防衛決心",
-      "url": "https://udn.com/news/story/124662/9165265",
-      "source": "udn.com",
-      "published": 1764161267
     },
     {
       "id": "2410f5ab161e",
@@ -1402,5 +1402,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1764175632
+  "build_id": 1764176986
 }
