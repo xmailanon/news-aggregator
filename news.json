@@ -1,10 +1,17 @@
 {
-  "updated": 1764153838,
+  "updated": 1764155357,
   "items": [
     {
-      "id": "fd755750be8f",
+      "id": "521670005fb5",
+      "title": "談特別預算1.25兆元…喬治亞前防長：民主價值台灣最大籌碼 沒人會挺威權",
+      "url": "https://udn.com/news/story/6656/9165043",
+      "source": "udn.com",
+      "published": 1764154564
+    },
+    {
+      "id": "537e98ae5b89",
       "title": "俄烏和平計畫續磋商　川普特使魏科夫將赴莫斯科",
-      "url": "https://money.udn.com/money/story/10511/9165038",
+      "url": "https://money.udn.com/money/story/5599/9165038",
       "source": "money.udn.com",
       "published": 1764153932
     },
@@ -12,13 +19,6 @@
       "id": "50ea69158878",
       "title": "俄肯定美最新和平計畫部分內容　但許多議題待磋商",
       "url": "https://money.udn.com/money/story/5599/9165037",
-      "source": "money.udn.com",
-      "published": 1764153930
-    },
-    {
-      "id": "ca5383bdc72b",
-      "title": "駐泰代表投書媒體　籲挺台實質參與國際刑警組織",
-      "url": "https://money.udn.com/money/story/5599/9165042",
       "source": "money.udn.com",
       "published": 1764153930
     },
@@ -52,7 +52,7 @@
     },
     {
       "id": "662a2b7ae1ec",
-      "title": "退撫基金績效差？ 施能傑直呼誤解：30年平均5.27%",
+      "title": "退撫基金績效差？施能傑直呼誤解：30年平均5.27%",
       "url": "https://udn.com/news/story/6656/9165015",
       "source": "udn.com",
       "published": 1764152886
@@ -289,13 +289,6 @@
       "published": 1764147132
     },
     {
-      "id": "50b78c7ecc2c",
-      "title": "國人阿布達比機場遭警登機拘捕 外交部：正釐清案情並提供後續協助",
-      "url": "https://udn.com/news/story/7314/9164738",
-      "source": "udn.com",
-      "published": 1764146885
-    },
-    {
       "id": "919ecaa0656d",
       "title": "台湾：政府提议追加400亿美元国防支出",
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251126-%E5%8F%B0%E6%B9%BE-%E6%94%BF%E5%BA%9C%E6%8F%90%E8%AE%AE%E8%BF%BD%E5%8A%A0400%E4%BA%BF%E7%BE%8E%E5%85%83%E5%9B%BD%E9%98%B2%E6%94%AF%E5%87%BA",
@@ -364,6 +357,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%A7%91%E6%8A%80%E6%97%B6%E7%A9%BA/20251126-%E6%B3%95%E5%9B%BD25%E5%B2%81%E7%94%B7%E5%AD%90%E5%8F%91%E6%98%8E1%E5%B0%8F%E4%BA%A7%E5%93%81%E5%8F%AF%E4%BD%BF%E8%94%AC%E6%9E%9C%E4%BF%9D%E8%B4%A8%E6%9C%9F%E5%BB%B6%E9%95%BF%E4%B8%80%E5%80%8D-%E9%A6%96%E5%8F%91%E5%94%AE%E4%BB%B7109%E6%AC%A7",
       "source": "rfi.fr",
       "published": 1764144180
+    },
+    {
+      "id": "1e3d67e63506",
+      "title": "泰國南部洪災增至33死　失聯5台人確認安全無虞",
+      "url": "https://money.udn.com/money/story/5599/9164543",
+      "source": "money.udn.com",
+      "published": 1764143113
     },
     {
       "id": "8da285c82868",
@@ -1395,5 +1395,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1764153838
+  "build_id": 1764155357
 }
