@@ -1,6 +1,13 @@
 {
-  "updated": 1764191335,
+  "updated": 1764192851,
   "items": [
+    {
+      "id": "b21983f27ddd",
+      "title": "美国会要求 Anthropic 执行长就中国AI 网络攻击作证",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251126-%E7%BE%8E%E5%9B%BD%E4%BC%9A%E8%A6%81%E6%B1%82-anthropic-%E6%89%A7%E8%A1%8C%E9%95%BF%E5%B0%B1%E4%B8%AD%E5%9B%BDai-%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E4%BD%9C%E8%AF%81",
+      "source": "rfi.fr",
+      "published": 1764192242
+    },
     {
       "id": "1ccd87a3f743",
       "title": "2名美國國民兵白宮附近遭槍擊 川普：傷勢嚴重",
@@ -548,13 +555,6 @@
       "published": 1764145011
     },
     {
-      "id": "a501c845f904",
-      "title": "港府首引国安例禁「香港议会」等组织运作 黄店东主疑因聘反恐脱罪者被捕",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251126-%E6%B8%AF%E5%BA%9C%E9%A6%96%E5%BC%95%E5%9B%BD%E5%AE%89%E4%BE%8B%E7%A6%81-%E9%A6%99%E6%B8%AF%E8%AE%AE%E4%BC%9A-%E7%AD%89%E7%BB%84%E7%BB%87%E8%BF%90%E4%BD%9C-%E9%BB%84%E5%BA%97%E4%B8%9C%E4%B8%BB%E7%96%91%E5%9B%A0%E8%81%98%E5%8F%8D%E6%81%90%E8%84%B1%E7%BD%AA%E8%80%85%E8%A2%AB%E6%8D%95",
-      "source": "rfi.fr",
-      "published": 1764144806
-    },
-    {
       "id": "35e83dbd7042",
       "title": "日本研議放棄非核三原則　掀國內外安全疑慮",
       "url": "https://www.dw.com/zh/日本研議放棄非核三原則　掀國內外安全疑慮/a-74899758?maca=chi-rss-chi-all-1127-rdf",
@@ -630,41 +630,6 @@
       "url": "https://cn.nytimes.com/asia-pacific/20251126/vietnam-flooding-typhoon-emergency/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1764092400
-    },
-    {
-      "id": "f560606abba2",
-      "title": "新措施收紧规管 奇富科技业绩难复旧观",
-      "url": "https://www.ftchinese.com/story/001108297",
-      "source": "ftchinese.com",
-      "published": 1764086400
-    },
-    {
-      "id": "89a25e52dd7a",
-      "title": "中国投资下滑凸显“反内卷”的抑制作用",
-      "url": "https://www.ftchinese.com/story/001108296",
-      "source": "ftchinese.com",
-      "published": 1764086400
-    },
-    {
-      "id": "a0ce44441849",
-      "title": "每周时事分析：中国将中日矛盾直接向美国摊牌",
-      "url": "https://www.ftchinese.com/story/001108294",
-      "source": "ftchinese.com",
-      "published": 1764086400
-    },
-    {
-      "id": "22cb3a48a502",
-      "title": "秩序的自发生成：AI战略的范式迁徙与组织实验",
-      "url": "https://www.ftchinese.com/story/001108295",
-      "source": "ftchinese.com",
-      "published": 1764086400
-    },
-    {
-      "id": "da0a22785157",
-      "title": "逆市增长之后，中国绿色金融怎么走？高碳转型、韧性融资、标准互联",
-      "url": "https://www.ftchinese.com/story/001108293",
-      "source": "ftchinese.com",
-      "published": 1764086400
     },
     {
       "id": "3fb8e8a8e28f",
@@ -800,48 +765,6 @@
       "published": 1764013702
     },
     {
-      "id": "e4e7469b1e77",
-      "title": "从钣金厂到PCB巨头 东山精密扩张之路与债同行",
-      "url": "https://www.ftchinese.com/story/001108291",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
-      "id": "48b0984925e4",
-      "title": "探索新市场前沿: 电子交易、加密创新与全球金融领导力",
-      "url": "https://www.ftchinese.com/story/001108289",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
-      "id": "e188fd6c2354",
-      "title": "科技战胜关税：为什么美国例外论仍将经久不衰？",
-      "url": "https://www.ftchinese.com/story/001108290",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
-      "id": "c21fada43cf4",
-      "title": "高市早苗称特朗普在美中通话后向其致电",
-      "url": "https://www.ftchinese.com/story/001108288",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
-      "id": "ac53bf009719",
-      "title": "德国大幅上调最低工资释放了什么信号？",
-      "url": "https://www.ftchinese.com/story/001108287",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
-      "id": "2525b54b5af3",
-      "title": "中美领导人在贸易休战后首次通电话",
-      "url": "https://www.ftchinese.com/story/001108286",
-      "source": "ftchinese.com",
-      "published": 1764000000
-    },
-    {
       "id": "57f01d218fb9",
       "title": "德语媒体：频繁清洗暴露了习近平的不安全感",
       "url": "https://www.dw.com/zh/德语媒体：频繁清洗暴露了习近平的不安全感/a-74869780?maca=chi-rss-chi-all-1127-rdf",
@@ -926,55 +849,6 @@
       "published": 1763925766
     },
     {
-      "id": "59bea7d45e9f",
-      "title": "量子计算需要来场工业革命",
-      "url": "https://www.ftchinese.com/story/001108285",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "84d7dd8cd820",
-      "title": "当欧洲发现自己在人工智能竞赛中选错赛道时",
-      "url": "https://www.ftchinese.com/story/001108283",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "4095d7631be3",
-      "title": "90亿全售股权，龙腾半导体借殻中联发展上市",
-      "url": "https://www.ftchinese.com/story/001108284",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "ded4ee361630",
-      "title": "乌克兰别无选择，只能就美国的和平计划进行周旋",
-      "url": "https://www.ftchinese.com/story/001108282",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "130478963cbf",
-      "title": "COP30特稿: “1.3万亿美元”路线图，中国在其中的角色是什么？",
-      "url": "https://www.ftchinese.com/story/001108281",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "fc6a2c6abd62",
-      "title": "一周世界舆论聚焦：中日关系的新动向",
-      "url": "https://www.ftchinese.com/story/001108280",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
-      "id": "e1e355f5d1c3",
-      "title": "比特币的未来",
-      "url": "https://www.ftchinese.com/story/001108279",
-      "source": "ftchinese.com",
-      "published": 1763913600
-    },
-    {
       "id": "6953902970cb",
       "title": "墙外文摘：日本在台海战事的四大可能剧本",
       "url": "https://www.dw.com/zh/墙外文摘：日本在台海战事的四大可能剧本/a-74853931?maca=chi-rss-chi-all-1127-rdf",
@@ -1029,20 +903,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn090k5445ro/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1763828314
-    },
-    {
-      "id": "0e6b805a4c97",
-      "title": "日本经济的尴尬",
-      "url": "https://www.ftchinese.com/story/001108278",
-      "source": "ftchinese.com",
-      "published": 1763827200
-    },
-    {
-      "id": "a32feda027e0",
-      "title": "2026年全球经济展望：在混沌中构建秩序",
-      "url": "https://www.ftchinese.com/story/001108263",
-      "source": "ftchinese.com",
-      "published": 1763827200
     },
     {
       "id": "c44aac1b9334",
@@ -1402,5 +1262,5 @@
       "published": 1761902964
     }
   ],
-  "build_id": 1764191335
+  "build_id": 1764192851
 }
