@@ -1,6 +1,34 @@
 {
-  "updated": 1764271899,
+  "updated": 1764274170,
   "items": [
+    {
+      "id": "ed1457b0d192",
+      "title": "香港宏福苑夺命大火引发的争论",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251127-%E9%A6%99%E6%B8%AF%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E5%BC%95%E5%8F%91%E7%9A%84%E4%BA%89%E8%AE%BA",
+      "source": "rfi.fr",
+      "published": 1764272942
+    },
+    {
+      "id": "53d03f29385b",
+      "title": "美媒：槍擊國民兵犯嫌　曾與美軍在阿富汗並肩作戰",
+      "url": "https://money.udn.com/money/story/10511/9168243",
+      "source": "money.udn.com",
+      "published": 1764272736
+    },
+    {
+      "id": "be12968bf629",
+      "title": "普亭：俄烏停戰協議尚未敲定最終版本 對談判持開放態度",
+      "url": "https://money.udn.com/money/story/5599/9168242",
+      "source": "money.udn.com",
+      "published": 1764272440
+    },
+    {
+      "id": "6986642583eb",
+      "title": "阿拉斯加規模6地震撼動安克拉治　2021年以來最大震",
+      "url": "https://money.udn.com/money/story/5599/9168240",
+      "source": "money.udn.com",
+      "published": 1764272171
+    },
     {
       "id": "3c71ce1671fd",
       "title": "星國人才競爭力 首度摘金",
@@ -287,27 +315,6 @@
       "url": "https://www.dw.com/zh/六四-抗命将军-徐勤先受审视频曝光/a-74927535?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1764257040
-    },
-    {
-      "id": "b4367554e506",
-      "title": "才宣誓入伍就被槍擊！2名受害國民兵身分曝 美司法部長擬求處槍手死刑",
-      "url": "https://money.udn.com/money/story/5599/9168050",
-      "source": "money.udn.com",
-      "published": 1764256516
-    },
-    {
-      "id": "7972df21cdbb",
-      "title": "華盛頓發生「有針對性」的槍擊事件 兩名國民警衛隊成員傷勢危重",
-      "url": "https://money.udn.com/money/story/10511/9165897",
-      "source": "money.udn.com",
-      "published": 1764256367
-    },
-    {
-      "id": "3646ba0371f9",
-      "title": "英國考慮擴大短期國庫券市場 以滿足穩定幣發行方等潛在新需求",
-      "url": "https://money.udn.com/money/story/5599/9165900",
-      "source": "money.udn.com",
-      "published": 1764256084
     },
     {
       "id": "edc8df88b040",
@@ -637,13 +644,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251126-%E6%96%B0%E6%97%A7%E5%92%8C%E5%B9%B3%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94-%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%BB%E8%A6%81%E5%9C%A85%E7%82%B9%E5%86%85%E5%AE%B9%E4%B8%8A%E5%8F%96%E5%BE%97%E8%BF%9B%E5%B1%95",
       "source": "rfi.fr",
       "published": 1764184305
-    },
-    {
-      "id": "c2615c5500d5",
-      "title": "感恩节：不断上涨的物价逐步压垮美国家庭  特朗普却称物价大幅下降",
-      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251126-%E6%84%9F%E6%81%A9%E8%8A%82-%E4%B8%8D%E6%96%AD%E4%B8%8A%E6%B6%A8%E7%9A%84%E7%89%A9%E4%BB%B7%E9%80%90%E6%AD%A5%E5%8E%8B%E5%9E%AE%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%B4%E7%A7%B0%E7%89%A9%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E9%99%8D",
-      "source": "rfi.fr",
-      "published": 1764182958
     },
     {
       "id": "120baefa4a32",
@@ -1402,5 +1402,5 @@
       "published": 1761922740
     }
   ],
-  "build_id": 1764271899
+  "build_id": 1764274170
 }
