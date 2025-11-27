@@ -1,6 +1,13 @@
 {
-  "updated": 1764274170,
+  "updated": 1764275814,
   "items": [
+    {
+      "id": "1a48d6031124",
+      "title": "美政府要求先达成协议再谈乌克兰安全保障　和平计划缩减至20项",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251127-%E7%BE%8E%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E5%85%88%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%86%8D%E8%B0%88%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C-%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92%E7%BC%A9%E5%87%8F%E8%87%B320%E9%A1%B9",
+      "source": "rfi.fr",
+      "published": 1764274271
+    },
     {
       "id": "ed1457b0d192",
       "title": "香港宏福苑夺命大火引发的争论",
@@ -637,13 +644,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251126-%E4%BF%84%E7%BD%97%E6%96%AF-%E5%88%A4%E6%96%AD%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89%E6%98%AF%E5%90%A6%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F%E4%B8%BA%E6%97%B6%E8%BF%87%E6%97%A9-%E6%AC%A7%E6%B4%B2%E7%9A%84%E6%96%A1%E6%97%8B-%E6%AF%AB%E6%97%A0%E6%84%8F%E4%B9%89",
       "source": "rfi.fr",
       "published": 1764185285
-    },
-    {
-      "id": "e8552e15ff6d",
-      "title": "新旧和平方案对比：乌克兰主要在5点内容上取得进展",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251126-%E6%96%B0%E6%97%A7%E5%92%8C%E5%B9%B3%E6%96%B9%E6%A1%88%E5%AF%B9%E6%AF%94-%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%BB%E8%A6%81%E5%9C%A85%E7%82%B9%E5%86%85%E5%AE%B9%E4%B8%8A%E5%8F%96%E5%BE%97%E8%BF%9B%E5%B1%95",
-      "source": "rfi.fr",
-      "published": 1764184305
     },
     {
       "id": "120baefa4a32",
@@ -1402,5 +1402,5 @@
       "published": 1761922740
     }
   ],
-  "build_id": 1764274170
+  "build_id": 1764275814
 }
