@@ -1,6 +1,20 @@
 {
-  "updated": 1764344273,
+  "updated": 1764346336,
   "items": [
+    {
+      "id": "0866c600589b",
+      "title": "专家解读：无人机技术如何改变了当今战争？",
+      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20251128-%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB-%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E4%BA%86%E5%BD%93%E4%BB%8A%E6%88%98%E4%BA%89",
+      "source": "rfi.fr",
+      "published": 1764345248
+    },
+    {
+      "id": "1de23346f5f7",
+      "title": "法國興業銀行：美股明年迎「這項利多」 五大領域聚光",
+      "url": "https://money.udn.com/money/story/123398/9170352",
+      "source": "money.udn.com",
+      "published": 1764344082
+    },
     {
       "id": "bc9283696ff0",
       "title": "德语媒体：从污染大国到绿色革命的引领者",
@@ -259,13 +273,6 @@
       "url": "https://money.udn.com/money/story/5599/9170112",
       "source": "money.udn.com",
       "published": 1764335552
-    },
-    {
-      "id": "8447e3e5fa37",
-      "title": "加強保護逾70種鯊魚和魟魚　華盛頓公約大會通過",
-      "url": "https://money.udn.com/money/story/5599/9170104",
-      "source": "money.udn.com",
-      "published": 1764334825
     },
     {
       "id": "6739468a503a",
@@ -756,13 +763,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c5yq47pq381o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1764247437
-    },
-    {
-      "id": "63d7c5e3ac09",
-      "title": "欧洲兵役制度回潮：从义务到志愿，看各国安全博弈的新选择",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251127-%E6%AC%A7%E6%B4%B2%E5%85%B5%E5%BD%B9%E5%88%B6%E5%BA%A6%E5%9B%9E%E6%BD%AE-%E4%BB%8E%E4%B9%89%E5%8A%A1%E5%88%B0%E5%BF%97%E6%84%BF%EF%BC%8C%E7%9C%8B%E5%90%84%E5%9B%BD%E5%AE%89%E5%85%A8%E5%8D%9A%E5%BC%88%E7%9A%84%E6%96%B0%E9%80%89%E6%8B%A9",
-      "source": "rfi.fr",
-      "published": 1764245085
     },
     {
       "id": "a2d8d01fb67b",
@@ -1402,5 +1402,5 @@
       "published": 1762676700
     }
   ],
-  "build_id": 1764344273
+  "build_id": 1764346336
 }
