@@ -1,6 +1,48 @@
 {
-  "updated": 1764351426,
+  "updated": 1764353658,
   "items": [
+    {
+      "id": "244502c2c8a0",
+      "title": "1分鐘看世界／東京核心通膨率超預期 支持日銀升息路徑",
+      "url": "https://money.udn.com/money/story/5599/9170217",
+      "source": "money.udn.com",
+      "published": 1764353773
+    },
+    {
+      "id": "787fac65df6c",
+      "title": "國防新創 Anduril 攻擊無人機漏氣 外界質疑",
+      "url": "https://money.udn.com/money/story/5599/9170270",
+      "source": "money.udn.com",
+      "published": 1764353573
+    },
+    {
+      "id": "7329abdbfcf0",
+      "title": "感恩節網路銷售額估年增6%",
+      "url": "https://money.udn.com/money/story/5599/9170274",
+      "source": "money.udn.com",
+      "published": 1764353476
+    },
+    {
+      "id": "6950a9fb376d",
+      "title": "芝商所暫停交易數小時 數兆美元合約受影響",
+      "url": "https://money.udn.com/money/story/5599/9170290",
+      "source": "money.udn.com",
+      "published": 1764353449
+    },
+    {
+      "id": "7520cf6e0991",
+      "title": "反腐机构搜查后，泽连斯基得力助手去职",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251128-%E5%8F%8D%E8%85%90%E6%9C%BA%E6%9E%84%E6%90%9C%E6%9F%A5%E5%90%8E%EF%BC%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BE%97%E5%8A%9B%E5%8A%A9%E6%89%8B%E5%8E%BB%E8%81%8C",
+      "source": "rfi.fr",
+      "published": 1764351866
+    },
+    {
+      "id": "d7e07ef39c18",
+      "title": "市場焦點轉向即將出爐經濟指標　歐股收紅",
+      "url": "https://money.udn.com/money/story/5599/9170456",
+      "source": "money.udn.com",
+      "published": 1764351455
+    },
     {
       "id": "2302c3578350",
       "title": "[法广俱乐部]30周年精彩见证",
@@ -63,6 +105,13 @@
       "url": "https://udn.com/news/story/123808/9170380",
       "source": "udn.com",
       "published": 1764346426
+    },
+    {
+      "id": "ecaa8aee51c1",
+      "title": "國民兵遭殺害 引發川普震怒 美暫停第三世界國家移民",
+      "url": "https://money.udn.com/money/story/5599/9170263",
+      "source": "money.udn.com",
+      "published": 1764346242
     },
     {
       "id": "cdc427fba431",
@@ -310,20 +359,6 @@
       "published": 1764339302
     },
     {
-      "id": "0344f1f26914",
-      "title": "台積電年薪500萬元只等同美 FAANG 剛入行菜鳥價？他揭密是「這個因素」",
-      "url": "https://money.udn.com/money/story/5599/9170182",
-      "source": "money.udn.com",
-      "published": 1764339292
-    },
-    {
-      "id": "3c03902b579d",
-      "title": "東南亞洪災逾300人罹難　太平間爆滿出動冷藏貨車暫存",
-      "url": "https://money.udn.com/money/story/5599/9170177",
-      "source": "money.udn.com",
-      "published": 1764339210
-    },
-    {
       "id": "8a9fe593ee12",
       "title": "海鯤艦完成浮航測試 台船：後續依計畫實施潛航測試",
       "url": "https://udn.com/news/story/10930/9170167",
@@ -331,39 +366,11 @@
       "published": 1764339137
     },
     {
-      "id": "74d6504947af",
-      "title": "美國關稅收入可觀　川普：未來數年可能免徵所得稅",
-      "url": "https://money.udn.com/money/story/5599/9170173",
-      "source": "money.udn.com",
-      "published": 1764338770
-    },
-    {
-      "id": "b5f7970cf418",
-      "title": "華爾街維持對2026年新興市場前景的樂觀展望",
-      "url": "https://money.udn.com/money/story/5599/9168355",
-      "source": "money.udn.com",
-      "published": 1764338610
-    },
-    {
-      "id": "f83d1d71cf53",
-      "title": "百年資生堂戰略迷航，痛失美妝王座！併購美廠失算又遭中企低價搶市",
-      "url": "https://money.udn.com/money/story/5599/9170170",
-      "source": "money.udn.com",
-      "published": 1764338560
-    },
-    {
       "id": "0b6edeebf3c5",
       "title": "法国第戎监狱用锯条越狱的两逃犯之一落网",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251128-%E6%B3%95%E5%9B%BD%E7%AC%AC%E6%88%8E%E7%9B%91%E7%8B%B1%E7%94%A8%E9%94%AF%E6%9D%A1%E8%B6%8A%E7%8B%B1%E7%9A%84%E4%B8%A4%E9%80%83%E7%8A%AF%E4%B9%8B%E4%B8%80%E8%90%BD%E7%BD%91",
       "source": "rfi.fr",
       "published": 1764338182
-    },
-    {
-      "id": "eee6837db75e",
-      "title": "金價邁向連續第四個月上漲 受聯準會降息預期提振",
-      "url": "https://money.udn.com/money/story/5599/9168400",
-      "source": "money.udn.com",
-      "published": 1764337975
     },
     {
       "id": "c233ceb00dbb",
@@ -560,13 +567,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251127-%E6%B3%95%E7%AC%AC%E6%88%8E%E5%B8%82%E4%B8%A4%E5%90%8D%E5%AB%8C%E7%8A%AF%E8%B6%8A%E7%8B%B1%E8%80%8C%E9%80%83-%E9%93%81%E6%A0%8F%E6%9D%86%E8%A2%AB%E9%94%AF%E6%96%AD",
       "source": "rfi.fr",
       "published": 1764278353
-    },
-    {
-      "id": "a896880bd4f1",
-      "title": "Shein集团第三次要求推迟听证会",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251127-shein%E9%9B%86%E5%9B%A2%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%A6%81%E6%B1%82%E6%8E%A8%E8%BF%9F%E5%90%AC%E8%AF%81%E4%BC%9A",
-      "source": "rfi.fr",
-      "published": 1764278086
     },
     {
       "id": "37f4da52439b",
@@ -1402,5 +1402,5 @@
       "published": 1762676700
     }
   ],
-  "build_id": 1764351426
+  "build_id": 1764353658
 }
