@@ -1,6 +1,20 @@
 {
-  "updated": 1764349726,
+  "updated": 1764351426,
   "items": [
+    {
+      "id": "2302c3578350",
+      "title": "[法广俱乐部]30周年精彩见证",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251128-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%B3%95%E5%B9%BF%E4%BF%B1%E4%B9%90%E9%83%A8-30%E5%91%A8%E5%B9%B4%E7%B2%BE%E5%BD%A9%E8%A7%81%E8%AF%81",
+      "source": "rfi.fr",
+      "published": 1764349658
+    },
+    {
+      "id": "cc603eca2280",
+      "title": "貪腐風暴衝擊政壇　澤倫斯基核心幕僚葉爾馬克去職",
+      "url": "https://money.udn.com/money/story/5599/9170438",
+      "source": "money.udn.com",
+      "published": 1764349567
+    },
     {
       "id": "c05666e9ff20",
       "title": "缅甸大选：联合国担忧大规模使用电子监控",
@@ -23,6 +37,13 @@
       "published": 1764346816
     },
     {
+      "id": "f290ec24c9ae",
+      "title": "核電有望2027年重啟 核綠共存 企業大咖力挺",
+      "url": "https://udn.com/news/story/123808/9170379",
+      "source": "udn.com",
+      "published": 1764346690
+    },
+    {
       "id": "2264232773c6",
       "title": "綠營誰攻彰化縣長 12月中旬民調決定",
       "url": "https://udn.com/news/story/124652/9170223",
@@ -35,6 +56,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251128-%E7%BD%97%E9%A9%AC%E6%95%99%E7%9A%87%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E5%90%81%E4%B8%8D%E5%90%8C%E6%95%99%E6%B4%BE%E5%9F%BA%E7%9D%A3%E5%BE%92%E5%9B%A2%E7%BB%93%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%94%AF%E6%8C%81%E6%99%AE%E4%BA%AC-%E5%9C%A3%E6%88%98-%E7%9A%84%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%A7%E7%89%A7%E9%A6%96%E6%9C%AA%E7%8E%B0%E8%BA%AB",
       "source": "rfi.fr",
       "published": 1764346603
+    },
+    {
+      "id": "4bb4b25ded78",
+      "title": "核綠共存 太陽能業者喊要有配套",
+      "url": "https://udn.com/news/story/123808/9170380",
+      "source": "udn.com",
+      "published": 1764346426
     },
     {
       "id": "cdc427fba431",
@@ -338,32 +366,11 @@
       "published": 1764337975
     },
     {
-      "id": "fce305dd3c70",
-      "title": "美國銀行和中國工商銀行面臨更高附加資本要求 系統重要性被上調",
-      "url": "https://money.udn.com/money/story/5599/9168444",
-      "source": "money.udn.com",
-      "published": 1764337756
-    },
-    {
-      "id": "db821f6d6d84",
-      "title": "賴總統1.25兆軍費…藍委拋國情報告 府提1條件：將研議可行方式",
-      "url": "https://udn.com/news/story/124662/9170145",
-      "source": "udn.com",
-      "published": 1764337743
-    },
-    {
       "id": "c233ceb00dbb",
       "title": "华盛顿枪击引发非法部署与移民议题激辩，谁应为国民警卫队伤亡负责？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20251128-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%9E%AA%E5%87%BB%E5%BC%95%E5%8F%91%E9%9D%9E%E6%B3%95%E9%83%A8%E7%BD%B2%E4%B8%8E%E7%A7%BB%E6%B0%91%E8%AE%AE%E9%A2%98%E6%BF%80%E8%BE%A9%EF%BC%8C%E8%B0%81%E5%BA%94%E4%B8%BA%E5%9B%BD%E6%B0%91%E8%AD%A6%E5%8D%AB%E9%98%9F%E4%BC%A4%E4%BA%A1%E8%B4%9F%E8%B4%A3",
       "source": "rfi.fr",
       "published": 1764337335
-    },
-    {
-      "id": "8a10e3f77f61",
-      "title": "台德農業交流簽合作意向宣言 深化農村永續發展",
-      "url": "https://udn.com/news/story/7314/9170137",
-      "source": "udn.com",
-      "published": 1764337241
     },
     {
       "id": "d24add226fe7",
@@ -567,13 +574,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251127-%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%97%A8%E7%A5%A8%E5%86%85%E5%A4%96%E6%9C%89%E5%88%AB-%E9%9D%9E%E6%AC%A7%E6%B4%B2%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%A4%9A%E4%BB%9810%E6%AC%A7%E5%85%83",
       "source": "rfi.fr",
       "published": 1764277895
-    },
-    {
-      "id": "7ebba8dfa66b",
-      "title": "日中紧张局势：寿司如何成为外交工具？",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251127-%E6%97%A5%E4%B8%AD%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF-%E5%AF%BF%E5%8F%B8%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%A4%96%E4%BA%A4%E5%B7%A5%E5%85%B7",
-      "source": "rfi.fr",
-      "published": 1764277727
     },
     {
       "id": "2dcb4ec8d7c9",
@@ -1402,5 +1402,5 @@
       "published": 1762676700
     }
   ],
-  "build_id": 1764349726
+  "build_id": 1764351426
 }
