@@ -1,6 +1,20 @@
 {
-  "updated": 1764425330,
+  "updated": 1764427056,
   "items": [
+    {
+      "id": "4fcd66a89294",
+      "title": "川普發文示警　委內瑞拉領空應被視為完全關閉",
+      "url": "https://money.udn.com/money/story/5599/9171637",
+      "source": "money.udn.com",
+      "published": 1764426090
+    },
+    {
+      "id": "93f9c630a4bc",
+      "title": "香港火灾与近年来世界其他重大建筑火灾的对比",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251129-%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E4%B8%8E%E8%BF%91%E5%B9%B4%E6%9D%A5%E4%B8%96%E7%95%8C%E5%85%B6%E4%BB%96%E9%87%8D%E5%A4%A7%E5%BB%BA%E7%AD%91%E7%81%AB%E7%81%BE%E7%9A%84%E5%AF%B9%E6%AF%94",
+      "source": "rfi.fr",
+      "published": 1764425301
+    },
     {
       "id": "73da568c621f",
       "title": "川普進軍手機市場雄心遇阻？本應在8月發售的川普手機 迄今仍不見蹤影",
@@ -252,13 +266,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cx2epxl95v3o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1764409626
-    },
-    {
-      "id": "568e788658f2",
-      "title": "郭明錤：英特爾最快2027年 供應蘋果最低階 M 系列晶片",
-      "url": "https://money.udn.com/money/story/5599/9171396",
-      "source": "money.udn.com",
-      "published": 1764409509
     },
     {
       "id": "e3c81b0b7d00",
@@ -525,13 +532,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251128-%E7%BD%97%E9%A9%AC%E6%95%99%E7%9A%87%E5%9C%A8%E5%9C%9F%E8%80%B3%E5%85%B6%E5%90%81%E4%B8%8D%E5%90%8C%E6%95%99%E6%B4%BE%E5%9F%BA%E7%9D%A3%E5%BE%92%E5%9B%A2%E7%BB%93%E8%B5%B7%E6%9D%A5%EF%BC%8C%E6%94%AF%E6%8C%81%E6%99%AE%E4%BA%AC-%E5%9C%A3%E6%88%98-%E7%9A%84%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%A7%E7%89%A7%E9%A6%96%E6%9C%AA%E7%8E%B0%E8%BA%AB",
       "source": "rfi.fr",
       "published": 1764346603
-    },
-    {
-      "id": "0866c600589b",
-      "title": "专家解读：无人机技术如何改变了当今战争？",
-      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20251128-%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB-%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8A%80%E6%9C%AF%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E4%BA%86%E5%BD%93%E4%BB%8A%E6%88%98%E4%BA%89",
-      "source": "rfi.fr",
-      "published": 1764345248
     },
     {
       "id": "bc9283696ff0",
@@ -1402,5 +1402,5 @@
       "published": 1762676700
     }
   ],
-  "build_id": 1764425330
+  "build_id": 1764427056
 }
