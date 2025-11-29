@@ -1,6 +1,13 @@
 {
-  "updated": 1764454143,
+  "updated": 1764455879,
   "items": [
+    {
+      "id": "7fefb9fe1018",
+      "title": "北京不容质疑港府 称以灾乱港要严惩",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251129-%E5%8C%97%E4%BA%AC%E4%B8%8D%E5%AE%B9%E8%B4%A8%E7%96%91%E6%B8%AF%E5%BA%9C-%E7%A7%B0%E4%BB%A5%E7%81%BE%E4%B9%B1%E6%B8%AF%E8%A6%81%E4%B8%A5%E6%83%A9",
+      "source": "rfi.fr",
+      "published": 1764455556
+    },
     {
       "id": "8009d66cf032",
       "title": "特朗普宣布委内瑞拉上空“全面关闭” 紧张局势再升温",
@@ -581,13 +588,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251128-%E5%8F%8D%E8%85%90%E6%9C%BA%E6%9E%84%E6%90%9C%E6%9F%A5%E5%90%8E%EF%BC%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BE%97%E5%8A%9B%E5%8A%A9%E6%89%8B%E5%8E%BB%E8%81%8C",
       "source": "rfi.fr",
       "published": 1764351866
-    },
-    {
-      "id": "2302c3578350",
-      "title": "[法广俱乐部]30周年精彩见证",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251128-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%B3%95%E5%B9%BF%E4%BF%B1%E4%B9%90%E9%83%A8-30%E5%91%A8%E5%B9%B4%E7%B2%BE%E5%BD%A9%E8%A7%81%E8%AF%81",
-      "source": "rfi.fr",
-      "published": 1764349658
     },
     {
       "id": "bc9283696ff0",
@@ -1402,5 +1402,5 @@
       "published": 1762676700
     }
   ],
-  "build_id": 1764454143
+  "build_id": 1764455879
 }
