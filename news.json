@@ -1,6 +1,13 @@
 {
-  "updated": 1764421212,
+  "updated": 1764423609,
   "items": [
+    {
+      "id": "a624a8da6f76",
+      "title": "藍白要求賴總統國情報告即問即答 吳思瑤直言：已被宣告違憲",
+      "url": "https://udn.com/news/story/124662/9171591",
+      "source": "udn.com",
+      "published": 1764422309
+    },
     {
       "id": "7f97fea43250",
       "title": "俄羅斯夜襲烏克蘭3死近30傷　逾60萬戶停電",
@@ -385,13 +392,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251129-%E7%A9%BA%E5%AE%A2%E7%B4%A7%E6%80%A5%E5%8F%AC%E5%9B%9E%E7%BA%A66000%E6%9E%B6a320%E5%AE%A2%E6%9C%BA",
       "source": "rfi.fr",
       "published": 1764403413
-    },
-    {
-      "id": "61bc9a319356",
-      "title": "高層知情仍下令玩命測試？海鯤艦遭爆5次出海缺船錨 海軍：無安全顧慮",
-      "url": "https://udn.com/news/story/10930/9171266",
-      "source": "udn.com",
-      "published": 1764403264
     },
     {
       "id": "fdad815ac851",
@@ -1402,5 +1402,5 @@
       "published": 1762828261
     }
   ],
-  "build_id": 1764421212
+  "build_id": 1764423609
 }
