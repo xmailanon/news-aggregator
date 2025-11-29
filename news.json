@@ -1,6 +1,20 @@
 {
-  "updated": 1764455879,
+  "updated": 1764457772,
   "items": [
+    {
+      "id": "7215cb9305a1",
+      "title": "幾內亞比索政變總統出逃　自塞內加爾抵剛果共和國",
+      "url": "https://money.udn.com/money/story/5599/9171896",
+      "source": "money.udn.com",
+      "published": 1764457239
+    },
+    {
+      "id": "17bb322b3517",
+      "title": "乌克兰遭遇政治地震",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251129-%E4%B9%8C%E5%85%8B%E5%85%B0%E9%81%AD%E9%81%87%E6%94%BF%E6%B2%BB%E5%9C%B0%E9%9C%87",
+      "source": "rfi.fr",
+      "published": 1764456697
+    },
     {
       "id": "7fefb9fe1018",
       "title": "北京不容质疑港府 称以灾乱港要严惩",
@@ -17,7 +31,7 @@
     },
     {
       "id": "c0e8ae4c7e0f",
-      "title": "修國籍法護陸配參政權，拿香跟拜的國民黨沒出息",
+      "title": "【總編開箱】修國籍法護陸配參政權，拿香跟拜的國民黨沒出息",
       "url": "https://udn.com/news/story/6656/9171852",
       "source": "udn.com",
       "published": 1764453000
@@ -373,13 +387,6 @@
       "published": 1764419975
     },
     {
-      "id": "b1d6011a94f2",
-      "title": "氣旋侵襲增至132死176失蹤　斯里蘭卡宣布緊急狀態",
-      "url": "https://money.udn.com/money/story/5599/9171580",
-      "source": "money.udn.com",
-      "published": 1764419767
-    },
-    {
       "id": "427ab9daacfe",
       "title": "空客全球召回数千架A320 亚洲多地停飞修复",
       "url": "https://www.dw.com/zh/空客全球召回数千架a320-亚洲多地停飞修复/a-74949972?maca=chi-rss-chi-all-1127-rdf",
@@ -574,13 +581,6 @@
       "url": "https://cn.nytimes.com/china/20251129/hong-kong-fire-survivor-escape-story/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1764355841
-    },
-    {
-      "id": "9adff1a5f8e5",
-      "title": "假香水：法国海关突击行动查获82,000瓶",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251128-%E5%81%87%E9%A6%99%E6%B0%B4-%E6%B3%95%E5%9B%BD%E6%B5%B7%E5%85%B3%E7%AA%81%E5%87%BB%E8%A1%8C%E5%8A%A8%E6%9F%A5%E8%8E%B782-000%E7%93%B6",
-      "source": "rfi.fr",
-      "published": 1764353961
     },
     {
       "id": "7520cf6e0991",
@@ -1402,5 +1402,5 @@
       "published": 1762676700
     }
   ],
-  "build_id": 1764455879
+  "build_id": 1764457772
 }
