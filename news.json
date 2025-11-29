@@ -1,6 +1,13 @@
 {
-  "updated": 1764428950,
+  "updated": 1764430493,
   "items": [
+    {
+      "id": "268e2cbf114e",
+      "title": "瓦礫中搭教室　加薩學童面臨書本與覓食之戰",
+      "url": "https://money.udn.com/money/story/5599/9171728",
+      "source": "money.udn.com",
+      "published": 1764429144
+    },
     {
       "id": "9edd056959f8",
       "title": "黑海发生无人机袭击 俄罗斯一处重要石油终端遭严重破坏",
@@ -231,13 +238,6 @@
       "url": "https://money.udn.com/money/story/5599/9171442",
       "source": "money.udn.com",
       "published": 1764411828
-    },
-    {
-      "id": "3815fd93789b",
-      "title": "氣旋迪特瓦襲擊斯里蘭卡　釀123死130失蹤",
-      "url": "https://money.udn.com/money/story/5599/9171447",
-      "source": "money.udn.com",
-      "published": 1764411820
     },
     {
       "id": "d79241ae3c3c",
@@ -1402,5 +1402,5 @@
       "published": 1762828261
     }
   ],
-  "build_id": 1764428950
+  "build_id": 1764430493
 }
