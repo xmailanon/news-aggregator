@@ -1,6 +1,13 @@
 {
-  "updated": 1764441885,
+  "updated": 1764443243,
   "items": [
+    {
+      "id": "e3effa344f95",
+      "title": "西班牙爆非洲豬瘟　1/3豬肉出口證書遭凍結",
+      "url": "https://money.udn.com/money/story/5599/9171861",
+      "source": "money.udn.com",
+      "published": 1764442451
+    },
     {
       "id": "2fe1a38c38cb",
       "title": "美股收復失地拚反攻行情 市場押寶 Fed 降息 寄望下月衝出佳績",
@@ -93,6 +100,13 @@
       "published": 1764433498
     },
     {
+      "id": "b1d1d40d7635",
+      "title": "楊瓊瓔表態參選台中市長 盧秀燕：加油",
+      "url": "https://udn.com/news/story/124652/9171619",
+      "source": "udn.com",
+      "published": 1764433215
+    },
+    {
       "id": "f4791e939eda",
       "title": "觀察站／核電廠重啟政策環評 以拖待變煙幕彈？",
       "url": "https://udn.com/news/story/123808/9171809",
@@ -119,6 +133,13 @@
       "url": "https://udn.com/news/story/124664/9171803",
       "source": "udn.com",
       "published": 1764433149
+    },
+    {
+      "id": "9e800662bc58",
+      "title": "觀察站／藍營「姐弟之爭」誰出線 盧市長成 關鍵",
+      "url": "https://udn.com/news/story/124652/9171624",
+      "source": "udn.com",
+      "published": 1764433127
     },
     {
       "id": "1dfcf16401d5",
@@ -175,20 +196,6 @@
       "url": "https://udn.com/news/story/124662/9171763",
       "source": "udn.com",
       "published": 1764432719
-    },
-    {
-      "id": "c65aef69f816",
-      "title": "歷史上的今天／1962年在非洲沙漠種出水稻 他們獲勛章",
-      "url": "https://udn.com/news/story/7314/9171156",
-      "source": "udn.com",
-      "published": 1764432000
-    },
-    {
-      "id": "582696b46273",
-      "title": "冷眼集／藍人選遲未定 接棒黃敏惠失先機",
-      "url": "https://udn.com/news/story/124652/9171641",
-      "source": "udn.com",
-      "published": 1764432000
     },
     {
       "id": "c3a0a0031d65",
@@ -322,13 +329,6 @@
       "url": "https://money.udn.com/money/story/122381/9171575",
       "source": "money.udn.com",
       "published": 1764419515
-    },
-    {
-      "id": "0f597b28c6ff",
-      "title": "日媒：中國航空公司12月削減逾900中日航班",
-      "url": "https://money.udn.com/money/story/5599/9171574",
-      "source": "money.udn.com",
-      "published": 1764419440
     },
     {
       "id": "427ab9daacfe",
@@ -1402,5 +1402,5 @@
       "published": 1762676700
     }
   ],
-  "build_id": 1764441885
+  "build_id": 1764443243
 }
