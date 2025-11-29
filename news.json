@@ -1,9 +1,16 @@
 {
-  "updated": 1764396873,
+  "updated": 1764398836,
   "items": [
     {
+      "id": "6745796970ad",
+      "title": "韓國42架A320客機被召回　不會造成延誤或停飛",
+      "url": "https://money.udn.com/money/story/5599/9171171",
+      "source": "money.udn.com",
+      "published": 1764397841
+    },
+    {
       "id": "8de4b7ee5f21",
-      "title": "空巴召修衝擊日本國內線　全日空取消95個航班",
+      "title": "空巴召修衝擊日本國內線 全日空取消95個航班",
       "url": "https://money.udn.com/money/story/5599/9171133",
       "source": "money.udn.com",
       "published": 1764396751
@@ -178,7 +185,7 @@
     },
     {
       "id": "56215b6b1582",
-      "title": "齊柏林衛星順利進入軌道 卓揆：10點43分首度通過台灣上空",
+      "title": "齊柏林衛星順利進入軌道 卓揆：10點42分首度通過台灣上空",
       "url": "https://udn.com/news/story/124664/9170958",
       "source": "udn.com",
       "published": 1764390965
@@ -289,13 +296,6 @@
       "published": 1764387391
     },
     {
-      "id": "2bc86f35e98f",
-      "title": "友邦聖文森變天佛萊代就職　結束龔薩福24年執政",
-      "url": "https://money.udn.com/money/story/5599/9170745",
-      "source": "money.udn.com",
-      "published": 1764384341
-    },
-    {
       "id": "3dd33c6a9f74",
       "title": "美国与中国在希腊的土地上对抗",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251128-%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%B8%8C%E8%85%8A%E7%9A%84%E5%9C%9F%E5%9C%B0%E4%B8%8A%E5%AF%B9%E6%8A%97",
@@ -370,7 +370,7 @@
       "title": "香港政府在火灾发生一年前已收到居民对建筑材料投诉",
       "url": "https://cn.nytimes.com/china/20251129/hong-kong-fire-officials-warned/?utm_source=RSS",
       "source": "cn.nytimes.com",
-      "published": 1764352472
+      "published": 1764353174
     },
     {
       "id": "7520cf6e0991",
@@ -1402,5 +1402,5 @@
       "published": 1762676700
     }
   ],
-  "build_id": 1764396873
+  "build_id": 1764398836
 }
