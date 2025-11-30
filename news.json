@@ -1,6 +1,13 @@
 {
-  "updated": 1764544144,
+  "updated": 1764545693,
   "items": [
+    {
+      "id": "78ebf5753b7b",
+      "title": "德国国家银行：默茨政府应调整政策 部分因为中国",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251130-%E5%BE%B7%E5%9B%BD%E5%9B%BD%E5%AE%B6%E9%93%B6%E8%A1%8C-%E9%BB%98%E8%8C%A8%E6%94%BF%E5%BA%9C%E5%BA%94%E8%B0%83%E6%95%B4%E6%94%BF%E7%AD%96-%E9%83%A8%E5%88%86%E5%9B%A0%E4%B8%BA%E4%B8%AD%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1764544865
+    },
     {
       "id": "317df2fa9cfe",
       "title": "本周開盤前 五件國際事不可不知",
@@ -23,6 +30,13 @@
       "published": 1764543274
     },
     {
+      "id": "ccf0fcee7814",
+      "title": "范雲紀念彭婉如逝世29周年：推地方制度法三讀用制度延續意志",
+      "url": "https://udn.com/news/story/6656/9173313",
+      "source": "udn.com",
+      "published": 1764542340
+    },
+    {
       "id": "e7dac7207e0c",
       "title": "中共政治局委员马兴瑞缺席政治局学习引发疑问",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251130-%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%91%98%E9%A9%AC%E5%85%B4%E7%91%9E%E7%BC%BA%E5%B8%AD%E6%94%BF%E6%B2%BB%E5%B1%80%E5%AD%A6%E4%B9%A0%E5%BC%95%E5%8F%91%E7%96%91%E9%97%AE",
@@ -35,6 +49,13 @@
       "url": "https://udn.com/news/story/124662/9173371",
       "source": "udn.com",
       "published": 1764540304
+    },
+    {
+      "id": "77170340ad7e",
+      "title": "美商IBCS整合美製國造防空飛彈指管 中科院：配合國軍需求技術評估中",
+      "url": "https://udn.com/news/story/10930/9173178",
+      "source": "udn.com",
+      "published": 1764540240
     },
     {
       "id": "6c4200c7aa89",
@@ -226,13 +247,6 @@
       "published": 1764523848
     },
     {
-      "id": "ccf0fcee7814",
-      "title": "范雲紀念彭婉如逝世29周年：推地方制度法三讀用制度延續意志",
-      "url": "https://udn.com/news/story/6656/9173313",
-      "source": "udn.com",
-      "published": 1764520748
-    },
-    {
       "id": "c232182c7690",
       "title": "葉竹林再戰2026 澎湖恐重演三腳督",
       "url": "https://udn.com/news/story/124652/9173238",
@@ -343,13 +357,6 @@
       "url": "https://udn.com/news/story/124662/9173246",
       "source": "udn.com",
       "published": 1764517243
-    },
-    {
-      "id": "e4f30a28eba3",
-      "title": "綠營彰縣長提名之爭 邱建富布條遭覆蓋 林世賢喊冤請提供線索",
-      "url": "https://udn.com/news/story/124652/9173245",
-      "source": "udn.com",
-      "published": 1764516275
     },
     {
       "id": "0d338d99e637",
@@ -679,13 +686,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn8ex03l98yo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1764408493
-    },
-    {
-      "id": "73750fe48959",
-      "title": "视频：香港大火128人遇难 自周六起全港哀悼三天",
-      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251129-%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%81%AB128%E4%BA%BA%E9%81%87%E9%9A%BE-%E8%87%AA%E5%91%A8%E5%85%AD%E8%B5%B7%E5%85%A8%E6%B8%AF%E5%93%80%E6%82%BC%E4%B8%89%E5%A4%A9",
-      "source": "rfi.fr",
-      "published": 1764404360
     },
     {
       "id": "fdad815ac851",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1764544144
+  "build_id": 1764545693
 }
