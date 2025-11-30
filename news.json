@@ -1,6 +1,27 @@
 {
-  "updated": 1764542296,
+  "updated": 1764544144,
   "items": [
+    {
+      "id": "317df2fa9cfe",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/9173389",
+      "source": "money.udn.com",
+      "published": 1764543639
+    },
+    {
+      "id": "70c054c529df",
+      "title": "乌克兰与美国会谈“富有成效”抑或“不容乐观”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251130-%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8E%E7%BE%8E%E5%9B%BD%E4%BC%9A%E8%B0%88-%E5%AF%8C%E6%9C%89%E6%88%90%E6%95%88-%E6%8A%91%E6%88%96-%E4%B8%8D%E5%AE%B9%E4%B9%90%E8%A7%82",
+      "source": "rfi.fr",
+      "published": 1764543311
+    },
+    {
+      "id": "5489fed5d871",
+      "title": "美國參議員：華府提出讓馬杜洛有機會離開委內瑞拉",
+      "url": "https://money.udn.com/money/story/10511/9173388",
+      "source": "money.udn.com",
+      "published": 1764543274
+    },
     {
       "id": "e7dac7207e0c",
       "title": "中共政治局委员马兴瑞缺席政治局学习引发疑问",
@@ -212,13 +233,6 @@
       "published": 1764520748
     },
     {
-      "id": "f70ed8c14a59",
-      "title": "威爾斯親王號航艦打擊群返抵英國　數千民眾盛大歡迎",
-      "url": "https://money.udn.com/money/story/5599/9173307",
-      "source": "money.udn.com",
-      "published": 1764519889
-    },
-    {
       "id": "c232182c7690",
       "title": "葉竹林再戰2026 澎湖恐重演三腳督",
       "url": "https://udn.com/news/story/124652/9173238",
@@ -329,13 +343,6 @@
       "url": "https://udn.com/news/story/124662/9173246",
       "source": "udn.com",
       "published": 1764517243
-    },
-    {
-      "id": "ecf8608ef061",
-      "title": "烏克蘭無人機 烽火中鍊金",
-      "url": "https://money.udn.com/money/story/122381/9172891",
-      "source": "money.udn.com",
-      "published": 1764516949
     },
     {
       "id": "e4f30a28eba3",
@@ -630,13 +637,6 @@
       "url": "https://www.dw.com/zh/高市引爆中日新冷战？僵局恐难破/a-74951192?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1764426960
-    },
-    {
-      "id": "93f9c630a4bc",
-      "title": "香港火灾与近年来世界其他重大建筑火灾的对比",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251129-%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E4%B8%8E%E8%BF%91%E5%B9%B4%E6%9D%A5%E4%B8%96%E7%95%8C%E5%85%B6%E4%BB%96%E9%87%8D%E5%A4%A7%E5%BB%BA%E7%AD%91%E7%81%AB%E7%81%BE%E7%9A%84%E5%AF%B9%E6%AF%94",
-      "source": "rfi.fr",
-      "published": 1764425301
     },
     {
       "id": "cf02ec063a07",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1764542296
+  "build_id": 1764544144
 }
