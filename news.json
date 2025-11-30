@@ -1,6 +1,20 @@
 {
-  "updated": 1764529653,
+  "updated": 1764531101,
   "items": [
+    {
+      "id": "7b1e486ab44d",
+      "title": "Fed 降息1碼 預期升溫",
+      "url": "https://money.udn.com/money/story/5599/9173212",
+      "source": "money.udn.com",
+      "published": 1764530424
+    },
+    {
+      "id": "24f43642fcb8",
+      "title": "美股有望迎耶誕行情 為年底及2026多頭走勢添柴火",
+      "url": "https://money.udn.com/money/story/123398/9173207",
+      "source": "money.udn.com",
+      "published": 1764530383
+    },
     {
       "id": "a55899d249f2",
       "title": "教宗良十四世：兩國方案是以巴衝突唯一解方",
@@ -259,20 +273,6 @@
       "url": "https://udn.com/news/story/10930/9173178",
       "source": "udn.com",
       "published": 1764515064
-    },
-    {
-      "id": "b9f13ab52ac0",
-      "title": "中國赴日喊卡半月影響有限 日本旅遊業照樣忙",
-      "url": "https://money.udn.com/money/story/5599/9173111",
-      "source": "money.udn.com",
-      "published": 1764513935
-    },
-    {
-      "id": "9bd76b170f52",
-      "title": "川普威脅言論籠罩下　宏都拉斯總統大選登場",
-      "url": "https://money.udn.com/money/story/5599/9173078",
-      "source": "money.udn.com",
-      "published": 1764513007
     },
     {
       "id": "a3be68c81102",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1764529653
+  "build_id": 1764531101
 }
