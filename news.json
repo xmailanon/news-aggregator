@@ -1,6 +1,41 @@
 {
-  "updated": 1764474749,
+  "updated": 1764476724,
   "items": [
+    {
+      "id": "8dc00d62872c",
+      "title": "西班牙時隔31年再爆非洲豬瘟 專家：國內廚餘餵豬應成歷史名詞",
+      "url": "https://money.udn.com/money/story/5599/9172092",
+      "source": "money.udn.com",
+      "published": 1764476717
+    },
+    {
+      "id": "61cf8ba26bd2",
+      "title": "白宮設新專區公開點名　抨擊媒體報導「不實偏頗」",
+      "url": "https://money.udn.com/money/story/10511/9172270",
+      "source": "money.udn.com",
+      "published": 1764475592
+    },
+    {
+      "id": "36cfafe1fbbc",
+      "title": "防大陸武統台灣！侯漢廷主張男女當2年兵 諷不敢做就是中共同路人",
+      "url": "https://udn.com/news/story/6656/9172256",
+      "source": "udn.com",
+      "published": 1764475274
+    },
+    {
+      "id": "105416380af8",
+      "title": "短評／三場硬仗從危機到壓力測試 盧秀燕未來一年考驗",
+      "url": "https://udn.com/news/story/6656/9172241",
+      "source": "udn.com",
+      "published": 1764474929
+    },
+    {
+      "id": "a075b10e1c4b",
+      "title": "中研院院長遴選 重量級人士：沒意外的話「是他」出線",
+      "url": "https://udn.com/news/story/6656/9172242",
+      "source": "udn.com",
+      "published": 1764474926
+    },
     {
       "id": "60dc4cbacde9",
       "title": "麥玉珍爭取參選台中市長 民眾黨中市黨部：早提報沒合適人選",
@@ -136,7 +171,7 @@
     },
     {
       "id": "efe0d6c288a5",
-      "title": "香港大浦宏福苑大火倖存者：第一次覺得死亡和我有關",
+      "title": "香港大埔宏福苑大火倖存者：第一次覺得死亡和我有關",
       "url": "https://www.bbc.com/zhongwen/articles/cwyv1yz8yrno/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1764470118
@@ -275,25 +310,11 @@
       "published": 1764460771
     },
     {
-      "id": "aa8c501c11ca",
-      "title": "美前官員：台軍費朝5%邁進合理 採購訓練同樣關鍵",
-      "url": "https://udn.com/news/story/124662/9171906",
-      "source": "udn.com",
-      "published": 1764460063
-    },
-    {
       "id": "db9852c67f88",
       "title": "来自中国的汽车零部件日益加重德国供应商负担",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251129-%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B1%BD%E8%BD%A6%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%97%A5%E7%9B%8A%E5%8A%A0%E9%87%8D%E5%BE%B7%E5%9B%BD%E4%BE%9B%E5%BA%94%E5%95%86%E8%B4%9F%E6%8B%85",
       "source": "rfi.fr",
       "published": 1764459398
-    },
-    {
-      "id": "641ff3136cf2",
-      "title": "首爾航太展／韓自製戰機KF-21驚艷 科目流暢非吳下阿蒙",
-      "url": "https://udn.com/news/story/10930/9167374",
-      "source": "udn.com",
-      "published": 1764459000
     },
     {
       "id": "7215cb9305a1",
@@ -331,13 +352,6 @@
       "published": 1764453272
     },
     {
-      "id": "c0e8ae4c7e0f",
-      "title": "【總編開箱】修國籍法護陸配參政權，拿香跟拜的國民黨沒出息",
-      "url": "https://udn.com/news/story/6656/9171852",
-      "source": "udn.com",
-      "published": 1764453000
-    },
-    {
       "id": "a1264418405c",
       "title": "纽时：中日外交争端反使高市早苗取得政治优势",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251129-%E7%BA%BD%E6%97%B6-%E4%B8%AD%E6%97%A5%E5%A4%96%E4%BA%A4%E4%BA%89%E7%AB%AF%E5%8F%8D%E4%BD%BF%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%96%E5%BE%97%E6%94%BF%E6%B2%BB%E4%BC%98%E5%8A%BF",
@@ -371,20 +385,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251129-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A2%86%E7%A9%BA-%E5%85%A8%E9%9D%A2%E5%85%B3%E9%97%AD-%E5%8A%A0%E6%8B%89%E5%8A%A0%E6%96%AF%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3-%E6%AE%96%E6%B0%91%E5%BC%8F%E5%A8%81%E8%83%81",
       "source": "rfi.fr",
       "published": 1764451671
-    },
-    {
-      "id": "19cf7dfe1830",
-      "title": "烏官員赴美磋商和平計畫　澤倫斯基：有望11/30敲定成果",
-      "url": "https://money.udn.com/money/story/5599/9171872",
-      "source": "money.udn.com",
-      "published": 1764450372
-    },
-    {
-      "id": "e3effa344f95",
-      "title": "西班牙爆非洲豬瘟　1/3豬肉出口證書遭凍結",
-      "url": "https://money.udn.com/money/story/5599/9171861",
-      "source": "money.udn.com",
-      "published": 1764442451
     },
     {
       "id": "fff399e7bff5",
@@ -1402,5 +1402,5 @@
       "published": 1762599780
     }
   ],
-  "build_id": 1764474749
+  "build_id": 1764476724
 }
