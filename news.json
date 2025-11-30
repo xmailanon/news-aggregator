@@ -1,6 +1,13 @@
 {
-  "updated": 1764531101,
+  "updated": 1764533466,
   "items": [
+    {
+      "id": "9a8df07bb2a6",
+      "title": "美國土安全部長：華府槍擊案阿富汗嫌犯可能在美激進化",
+      "url": "https://money.udn.com/money/story/10511/9173336",
+      "source": "money.udn.com",
+      "published": 1764533148
+    },
     {
       "id": "7b1e486ab44d",
       "title": "Fed 降息1碼 預期升溫",
@@ -252,13 +259,6 @@
       "url": "https://udn.com/news/story/124652/9173245",
       "source": "udn.com",
       "published": 1764516275
-    },
-    {
-      "id": "d7e0212e2739",
-      "title": "是否與極右政黨對話？  德中小企業陷難題摸石過河",
-      "url": "https://money.udn.com/money/story/5599/9173217",
-      "source": "money.udn.com",
-      "published": 1764515548
     },
     {
       "id": "0d338d99e637",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1764531101
+  "build_id": 1764533466
 }
