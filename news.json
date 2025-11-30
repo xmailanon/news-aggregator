@@ -1,6 +1,13 @@
 {
-  "updated": 1764509201,
+  "updated": 1764510059,
   "items": [
+    {
+      "id": "1bc1a0aadc25",
+      "title": "瑞士举行公投决定是否强制女性服兵役 反对率高达84%",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251130-%E7%91%9E%E5%A3%AB%E4%B8%BE%E8%A1%8C%E5%85%AC%E6%8A%95%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E8%A6%81%E6%B1%82%E5%A5%B3%E6%80%A7%E6%9C%8D%E5%85%B5%E5%BD%B9",
+      "source": "rfi.fr",
+      "published": 1764508902
+    },
     {
       "id": "c467223cb88c",
       "title": "以軍：4名武裝分子離開加薩地道遭擊斃",
@@ -602,13 +609,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn81yn3q0vzo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1764411375
-    },
-    {
-      "id": "fa58a178f87f",
-      "title": "日本大阪府议会通过要求中国驻大阪总领事薛剑道歉决议",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251129-%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E5%BA%9C%E8%AE%AE%E4%BC%9A%E9%80%9A%E8%BF%87%E8%A6%81%E6%B1%82%E4%B8%AD%E5%9B%BD%E9%A9%BB%E5%A4%A7%E9%98%AA%E6%80%BB%E9%A2%86%E4%BA%8B%E8%96%9B%E5%89%91%E9%81%93%E6%AD%89%E5%86%B3%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1764411267
     },
     {
       "id": "263664ff5375",
@@ -1402,5 +1402,5 @@
       "published": 1762828261
     }
   ],
-  "build_id": 1764509201
+  "build_id": 1764510059
 }
