@@ -1,6 +1,13 @@
 {
-  "updated": 1764528306,
+  "updated": 1764529653,
   "items": [
+    {
+      "id": "a55899d249f2",
+      "title": "教宗良十四世：兩國方案是以巴衝突唯一解方",
+      "url": "https://money.udn.com/money/story/5599/9173330",
+      "source": "money.udn.com",
+      "published": 1764529589
+    },
     {
       "id": "78bb68a57d8b",
       "title": "酷澎爆雷大規模個資外洩 CEO 公開道歉 傳陸籍前員工涉案",
@@ -294,13 +301,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251130-%E7%91%9E%E5%A3%AB%E4%B8%BE%E8%A1%8C%E5%85%AC%E6%8A%95%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E8%A6%81%E6%B1%82%E5%A5%B3%E6%80%A7%E6%9C%8D%E5%85%B5%E5%BD%B9",
       "source": "rfi.fr",
       "published": 1764508902
-    },
-    {
-      "id": "950e1c58c7d7",
-      "title": "西班牙爆發非洲豬瘟　再添8起疑似病例",
-      "url": "https://money.udn.com/money/story/5599/9173016",
-      "source": "money.udn.com",
-      "published": 1764508895
     },
     {
       "id": "59ed6665a7e2",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1764528306
+  "build_id": 1764529653
 }
