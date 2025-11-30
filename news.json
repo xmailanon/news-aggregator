@@ -1,12 +1,54 @@
 {
-  "updated": 1764476724,
+  "updated": 1764478196,
   "items": [
+    {
+      "id": "149087779a0c",
+      "title": "韓國酷澎逾3000萬帳戶個資外洩  疑中籍員工涉案",
+      "url": "https://money.udn.com/money/story/5599/9172343",
+      "source": "money.udn.com",
+      "published": 1764477947
+    },
+    {
+      "id": "a1738fae45e4",
+      "title": "加薩未來警力　埃及培訓數百名名巴勒斯坦人",
+      "url": "https://money.udn.com/money/story/5599/9172325",
+      "source": "money.udn.com",
+      "published": 1764477390
+    },
+    {
+      "id": "0bb2757def15",
+      "title": "美軍若攻委內瑞拉：戰力現況與游擊戰可能戰略解析",
+      "url": "https://money.udn.com/money/story/5599/9172326",
+      "source": "money.udn.com",
+      "published": 1764477390
+    },
+    {
+      "id": "9de6aa04653c",
+      "title": "OPEC+部長會議料維持原油產量　觀察俄烏和平談判",
+      "url": "https://money.udn.com/money/story/5599/9172313",
+      "source": "money.udn.com",
+      "published": 1764477037
+    },
+    {
+      "id": "c640b9952d75",
+      "title": "藍擬邀總統國情報告思考「多問多答」 綠營：依法合憲是底線",
+      "url": "https://udn.com/news/story/6656/9172302",
+      "source": "udn.com",
+      "published": 1764476814
+    },
     {
       "id": "8dc00d62872c",
       "title": "西班牙時隔31年再爆非洲豬瘟 專家：國內廚餘餵豬應成歷史名詞",
       "url": "https://money.udn.com/money/story/5599/9172092",
       "source": "money.udn.com",
       "published": 1764476717
+    },
+    {
+      "id": "5db621e99d76",
+      "title": "國民黨團邀賴總統國情報告也思考「多問多答」 12月2日討論",
+      "url": "https://udn.com/news/story/6656/9172289",
+      "source": "udn.com",
+      "published": 1764476104
     },
     {
       "id": "61cf8ba26bd2",
@@ -226,25 +268,11 @@
       "published": 1764466593
     },
     {
-      "id": "ec555658e5b2",
-      "title": "25架次共機越台海中線擾周邊空域 國軍嚴密監控",
-      "url": "https://udn.com/news/story/10930/9171985",
-      "source": "udn.com",
-      "published": 1764466274
-    },
-    {
       "id": "5a6f111d5dac",
       "title": "全日空宣布完成A320客機檢修 全面恢復運航",
       "url": "https://money.udn.com/money/story/5599/9171979",
       "source": "money.udn.com",
       "published": 1764465973
-    },
-    {
-      "id": "1fdac359e7c4",
-      "title": "陸戰隊中尉以檢查槍枝名義取得械彈 哨亭內擊發身亡",
-      "url": "https://udn.com/news/story/10930/9171967",
-      "source": "udn.com",
-      "published": 1764464469
     },
     {
       "id": "c24022cfcd9a",
@@ -289,39 +317,11 @@
       "published": 1764462527
     },
     {
-      "id": "6f9852f400e3",
-      "title": "荷蘭發送全民防災手冊　籲民眾做好準備面對潛在災害",
-      "url": "https://money.udn.com/money/story/5599/9171928",
-      "source": "money.udn.com",
-      "published": 1764462218
-    },
-    {
-      "id": "24efa747cf99",
-      "title": "越南當紅偶像訪台愛上美食人情  化身台灣觀光大使",
-      "url": "https://money.udn.com/money/story/5599/9171920",
-      "source": "money.udn.com",
-      "published": 1764460813
-    },
-    {
-      "id": "913764d0830e",
-      "title": "川普警告委內瑞拉空域關閉 馬杜洛政府回應了",
-      "url": "https://money.udn.com/money/story/5599/9171918",
-      "source": "money.udn.com",
-      "published": 1764460771
-    },
-    {
       "id": "db9852c67f88",
       "title": "来自中国的汽车零部件日益加重德国供应商负担",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251129-%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%B1%BD%E8%BD%A6%E9%9B%B6%E9%83%A8%E4%BB%B6%E6%97%A5%E7%9B%8A%E5%8A%A0%E9%87%8D%E5%BE%B7%E5%9B%BD%E4%BE%9B%E5%BA%94%E5%95%86%E8%B4%9F%E6%8B%85",
       "source": "rfi.fr",
       "published": 1764459398
-    },
-    {
-      "id": "7215cb9305a1",
-      "title": "幾內亞比索政變總統出逃　自塞內加爾抵剛果共和國",
-      "url": "https://money.udn.com/money/story/5599/9171896",
-      "source": "money.udn.com",
-      "published": 1764457239
     },
     {
       "id": "2ecb5968fc1f",
@@ -1402,5 +1402,5 @@
       "published": 1762599780
     }
   ],
-  "build_id": 1764476724
+  "build_id": 1764478196
 }
