@@ -1,6 +1,20 @@
 {
-  "updated": 1764621426,
+  "updated": 1764623322,
   "items": [
+    {
+      "id": "4239c68fd71a",
+      "title": "宏都拉斯大選開票陷膠著　兩親台候選人僅差515票",
+      "url": "https://money.udn.com/money/story/10511/9175674",
+      "source": "money.udn.com",
+      "published": 1764622841
+    },
+    {
+      "id": "c70bc3b4ac0e",
+      "title": "川普將與國安官員開會　商討委內瑞拉議題",
+      "url": "https://money.udn.com/money/story/10511/9175675",
+      "source": "money.udn.com",
+      "published": 1764622839
+    },
     {
       "id": "3b74db81118b",
       "title": "立院的拳頭其實很有用？中研院外籍研究員鮑彤研究台灣國會暴力獲獎",
@@ -177,13 +191,6 @@
       "published": 1764606442
     },
     {
-      "id": "2602d11710fb",
-      "title": "銀價再創新高 受供應緊張和降息預期影響",
-      "url": "https://money.udn.com/money/story/5599/9173439",
-      "source": "money.udn.com",
-      "published": 1764606100
-    },
-    {
       "id": "707f411da223",
       "title": "顧立雄：全面檢討「戰鬥部隊」定義",
       "url": "https://udn.com/news/story/10930/9175591",
@@ -231,13 +238,6 @@
       "url": "https://udn.com/news/story/124652/9175571",
       "source": "udn.com",
       "published": 1764604743
-    },
-    {
-      "id": "b0060ce354b0",
-      "title": "CNN：川普將召開會議　討論對委內瑞拉下一步行動",
-      "url": "https://money.udn.com/money/story/5599/9175590",
-      "source": "money.udn.com",
-      "published": 1764604447
     },
     {
       "id": "af59445b9566",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1764621426
+  "build_id": 1764623322
 }
