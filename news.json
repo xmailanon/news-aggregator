@@ -1,6 +1,13 @@
 {
-  "updated": 1764616398,
+  "updated": 1764617888,
   "items": [
+    {
+      "id": "5e80c66f64dd",
+      "title": "以色列發動軍事打擊　川普：不應妨礙敘利亞發展",
+      "url": "https://money.udn.com/money/story/10511/9175654",
+      "source": "money.udn.com",
+      "published": 1764616936
+    },
     {
       "id": "86a56cbeebd7",
       "title": "日銀暗示本月升息 日圓漲 2年期公債殖利率升破1% 17年來首見",
@@ -231,13 +238,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251201-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%AB%98%E5%B8%82%E4%B8%8E%E5%8C%97%E7%BA%A6%E7%A7%98%E4%B9%A6%E9%95%BF%E5%90%95%E7%89%B9%E4%B8%BE%E8%A1%8C%E7%94%B5%E8%AF%9D%E4%BC%9A%E8%B0%88-%E5%90%8C%E6%84%8F%E6%8E%A8%E5%8A%A8%E5%90%88%E4%BD%9C",
       "source": "rfi.fr",
       "published": 1764603995
-    },
-    {
-      "id": "4e5f4e890e87",
-      "title": "川普稱他已決定聯準會主席人選",
-      "url": "https://money.udn.com/money/story/5599/9173529",
-      "source": "money.udn.com",
-      "published": 1764603215
     },
     {
       "id": "d29d103f2053",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1764616398
+  "build_id": 1764617888
 }
