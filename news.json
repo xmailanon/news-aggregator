@@ -1,6 +1,27 @@
 {
-  "updated": 1764601884,
+  "updated": 1764603703,
   "items": [
+    {
+      "id": "4e5f4e890e87",
+      "title": "川普稱他已決定聯準會主席人選",
+      "url": "https://money.udn.com/money/story/5599/9173529",
+      "source": "money.udn.com",
+      "published": 1764603215
+    },
+    {
+      "id": "148b8b73e37b",
+      "title": "中國人在塔吉克邊境遭來自阿富汗攻擊　過去1週已5死",
+      "url": "https://money.udn.com/money/story/5599/9175546",
+      "source": "money.udn.com",
+      "published": 1764603009
+    },
+    {
+      "id": "b71f493ab640",
+      "title": "不同於黃金白銀 白金價格今年大漲近80% 可能是因為這原因",
+      "url": "https://money.udn.com/money/story/5599/9175518",
+      "source": "money.udn.com",
+      "published": 1764602542
+    },
     {
       "id": "b51064db4ab5",
       "title": "高市早苗引用「進擊的巨人」台詞  喊話外資投資日本",
@@ -163,32 +184,11 @@
       "published": 1764595843
     },
     {
-      "id": "d8fa9dfe8b1e",
-      "title": "菲籍女傭香港大火中保護嬰兒　菲律賓譽為英雄",
-      "url": "https://money.udn.com/money/story/5599/9175285",
-      "source": "money.udn.com",
-      "published": 1764595434
-    },
-    {
       "id": "3565fc6095b1",
       "title": "新加坡将加强学校手机使用禁令",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251201-%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%B0%86%E5%8A%A0%E5%BC%BA%E5%AD%A6%E6%A0%A1%E6%89%8B%E6%9C%BA%E4%BD%BF%E7%94%A8%E7%A6%81%E4%BB%A4",
       "source": "rfi.fr",
       "published": 1764594483
-    },
-    {
-      "id": "9cc29e73df4d",
-      "title": "衛報評論：川普無知有致命殺傷力 對陸軟弱 台灣更危險",
-      "url": "https://money.udn.com/money/story/5599/9175274",
-      "source": "money.udn.com",
-      "published": 1764594286
-    },
-    {
-      "id": "1bfffa22b4a3",
-      "title": "越南民運人士易瓊布達遭泰國引渡回國　面臨10年徒刑",
-      "url": "https://money.udn.com/money/story/5599/9175269",
-      "source": "money.udn.com",
-      "published": 1764594035
     },
     {
       "id": "5727249380dc",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1764601884
+  "build_id": 1764603703
 }
