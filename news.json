@@ -1,6 +1,13 @@
 {
-  "updated": 1764607753,
+  "updated": 1764609151,
   "items": [
+    {
+      "id": "9533e68eb1f1",
+      "title": "泽连斯基访问巴黎：领土是谈判最棘手问题 普京吞乌克兰领土不停歇",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251201-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%AE%BF%E9%97%AE%E5%B7%B4%E9%BB%8E-%E9%A2%86%E5%9C%9F%E6%98%AF%E8%B0%88%E5%88%A4%E6%9C%80%E6%A3%98%E6%89%8B%E9%97%AE%E9%A2%98-%E6%99%AE%E4%BA%AC%E5%90%9E%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A2%86%E5%9C%9F%E4%B8%8D%E5%81%9C%E6%AD%87",
+      "source": "rfi.fr",
+      "published": 1764609099
+    },
     {
       "id": "1135eaf86f42",
       "title": "海鯤號無錨出海 藍批政治海測",
@@ -730,13 +737,6 @@
       "published": 1764492521
     },
     {
-      "id": "a9f302767606",
-      "title": "中国飞行汽车产业迎来蓬勃发展 但盈利依然困难",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251130-%E4%B8%AD%E5%9B%BD%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E8%BF%8E%E6%9D%A5%E8%93%AC%E5%8B%83%E5%8F%91%E5%B1%95-%E4%BD%86%E7%9B%88%E5%88%A9%E4%BE%9D%E7%84%B6%E5%9B%B0%E9%9A%BE",
-      "source": "rfi.fr",
-      "published": 1764491561
-    },
-    {
       "id": "736fd592558f",
       "title": "半世纪后再登月 德国宇航员将飞往月球",
       "url": "https://www.dw.com/zh/半世纪后再登月-德国宇航员将飞往月球/a-74944653?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1764607753
+  "build_id": 1764609151
 }
