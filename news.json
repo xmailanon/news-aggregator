@@ -1,6 +1,13 @@
 {
-  "updated": 1764615230,
+  "updated": 1764616398,
   "items": [
+    {
+      "id": "86a56cbeebd7",
+      "title": "日銀暗示本月升息 日圓漲 2年期公債殖利率升破1% 17年來首見",
+      "url": "https://money.udn.com/money/story/5599/9175502",
+      "source": "money.udn.com",
+      "published": 1764615842
+    },
     {
       "id": "183aa22f570f",
       "title": "亞馬遜 與 Google 攜手雲端直連 跨雲架構成為新趨勢",
@@ -16,11 +23,18 @@
       "published": 1764614096
     },
     {
-      "id": "4351000283b5",
+      "id": "5098c7422d24",
       "title": "澤倫斯基盼與川普談關鍵議題　美特使將赴俄會普丁",
-      "url": "https://money.udn.com/money/story/10511/9175650",
+      "url": "https://money.udn.com/money/story/5599/9175650",
       "source": "money.udn.com",
       "published": 1764613808
+    },
+    {
+      "id": "f1b95d06cc9e",
+      "title": "中非共和国庆祝创立67周年",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251201-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E4%B8%AD%E9%9D%9E%E5%85%B1%E5%92%8C%E5%9B%BD%E5%BA%86%E7%A5%9D%E5%88%9B%E7%AB%8B67%E5%91%A8%E5%B9%B4",
+      "source": "rfi.fr",
+      "published": 1764613613
     },
     {
       "id": "4250ccc79350",
@@ -224,13 +238,6 @@
       "url": "https://money.udn.com/money/story/5599/9173529",
       "source": "money.udn.com",
       "published": 1764603215
-    },
-    {
-      "id": "148b8b73e37b",
-      "title": "中國人在塔吉克邊境遭來自阿富汗攻擊　過去1週已5死",
-      "url": "https://money.udn.com/money/story/5599/9175546",
-      "source": "money.udn.com",
-      "published": 1764603009
     },
     {
       "id": "d29d103f2053",
@@ -735,13 +742,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251130-%E5%8F%B0%E6%B9%BE%E5%A2%9E%E5%8A%A0400%E4%BA%BF%E7%BE%8E%E5%85%83%E5%9B%BD%E9%98%B2%E5%BC%80%E6%94%AF-%E5%8A%A0%E9%80%9F%E9%83%A8%E7%BD%B2t-dome%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F",
       "source": "rfi.fr",
       "published": 1764494027
-    },
-    {
-      "id": "2f5f7b39fb2f",
-      "title": "乌克兰代表团周日赴美谈判 泽连斯基周一与马克龙会晤",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251130-%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%91%A8%E6%97%A5%E8%B5%B4%E7%BE%8E%E8%B0%88%E5%88%A4-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%A8%E4%B8%80%E4%B8%8E%E9%A9%AC%E5%85%8B%E9%BE%99%E4%BC%9A%E6%99%A4",
-      "source": "rfi.fr",
-      "published": 1764493407
     },
     {
       "id": "3e7dd734d00d",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1764615230
+  "build_id": 1764616398
 }
