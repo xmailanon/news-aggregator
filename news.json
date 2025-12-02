@@ -1,6 +1,20 @@
 {
-  "updated": 1764709802,
+  "updated": 1764711294,
   "items": [
+    {
+      "id": "d8d7337ed477",
+      "title": "川普政府恐擴大旅遊禁令 從19國增至約30國",
+      "url": "https://money.udn.com/money/story/5599/9178237",
+      "source": "money.udn.com",
+      "published": 1764711007
+    },
+    {
+      "id": "82d4371e99d8",
+      "title": "戰雲密布　教宗籲美勿以武力推翻委內瑞拉總統馬杜洛",
+      "url": "https://money.udn.com/money/story/10511/9178230",
+      "source": "money.udn.com",
+      "published": 1764710033
+    },
     {
       "id": "c127b62ae2db",
       "title": "台湾数字大使：人工智能若能革新应用亦可强化民主",
@@ -224,20 +238,6 @@
       "url": "https://udn.com/news/story/6656/9177920",
       "source": "udn.com",
       "published": 1764689406
-    },
-    {
-      "id": "ad40874ef583",
-      "title": "大馬獲英特爾加碼投資65億打造封測中心　供應鏈地位提升",
-      "url": "https://money.udn.com/money/story/5599/9177951",
-      "source": "money.udn.com",
-      "published": 1764688351
-    },
-    {
-      "id": "50bbdaeb4b95",
-      "title": "川普警告空域關閉後 委政府：美請求重啟赴委移民遣返航班",
-      "url": "https://money.udn.com/money/story/5599/9177916",
-      "source": "money.udn.com",
-      "published": 1764687929
     },
     {
       "id": "32275771e908",
@@ -1402,5 +1402,5 @@
       "published": 1762828261
     }
   ],
-  "build_id": 1764709802
+  "build_id": 1764711294
 }
