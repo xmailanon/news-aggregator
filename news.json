@@ -1,6 +1,13 @@
 {
-  "updated": 1764692077,
+  "updated": 1764694229,
   "items": [
+    {
+      "id": "dded502d5e04",
+      "title": "教皇良十四世在贝鲁特举行露天弥撒 约15万黎巴嫩人聆听",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251202-%E6%95%99%E7%9A%87%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%9C%A8%E8%B4%9D%E9%B2%81%E7%89%B9%E4%B8%BE%E8%A1%8C%E9%9C%B2%E5%A4%A9%E5%BC%A5%E6%92%92-%E7%BA%A615%E4%B8%87%E9%BB%8E%E5%B7%B4%E5%AB%A9%E4%BA%BA%E8%81%86%E5%90%AC",
+      "source": "rfi.fr",
+      "published": 1764693885
+    },
     {
       "id": "285b77c4c648",
       "title": "歐盟將在2026年承諾至少30億歐元投資 以降低對中國大陸原物料的依賴",
@@ -10,7 +17,7 @@
     },
     {
       "id": "fa81e4584e63",
-      "title": "AI工作術 7／讓AI當調查員！加拿大業者搶灘日本電商，大家從SEO轉向AIO、GEO",
+      "title": "AI工作術 7／加拿大業者靠AI攻日本電商，二個新工具讓海外銷售額成長三倍",
       "url": "https://money.udn.com/money/story/122979/9072063",
       "source": "money.udn.com",
       "published": 1764691750
@@ -686,13 +693,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251201-%E6%B8%AF%E5%BA%9C%E9%98%B2%E7%81%BE%E7%94%9F%E4%B9%B1%E8%A1%8C%E5%8A%A8%E5%8A%A0%E5%BC%BA-%E5%9B%BD%E5%AE%89%E8%AD%A6%E5%86%8D%E6%8B%98%E4%BA%8C%E4%BA%BA-%E6%8C%87%E6%B6%89%E8%97%89%E7%81%AB%E7%81%BE%E7%85%BD%E5%8A%A8",
       "source": "rfi.fr",
       "published": 1764579508
-    },
-    {
-      "id": "1fd0b040888a",
-      "title": "前高官建议设独立委员会调查夺146人命大火 港区枢机称要检讨以拎出错误",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251201-%E5%89%8D%E9%AB%98%E5%AE%98%E5%BB%BA%E8%AE%AE%E8%AE%BE%E7%8B%AC%E7%AB%8B%E5%A7%94%E5%91%98%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%A4%BA146%E4%BA%BA%E5%91%BD%E5%A4%A7%E7%81%AB-%E6%B8%AF%E5%8C%BA%E6%9E%A2%E6%9C%BA%E7%A7%B0%E8%A6%81%E6%A3%80%E8%AE%A8%E4%BB%A5%E6%8B%8E%E5%87%BA%E9%94%99%E8%AF%AF",
-      "source": "rfi.fr",
-      "published": 1764579432
     },
     {
       "id": "a3abb89e031e",
@@ -1402,5 +1402,5 @@
       "published": 1762828261
     }
   ],
-  "build_id": 1764692077
+  "build_id": 1764694229
 }
