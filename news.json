@@ -1,6 +1,34 @@
 {
-  "updated": 1764683488,
+  "updated": 1764684744,
   "items": [
+    {
+      "id": "66eec711ff52",
+      "title": "10月歐盟失業率6%　年增0.2個百分點",
+      "url": "https://money.udn.com/money/story/5599/9177839",
+      "source": "money.udn.com",
+      "published": 1764684738
+    },
+    {
+      "id": "c67d69fdee84",
+      "title": "三星發布首款三折疊手機 搶在折疊螢幕 iPhone 登場前數月亮相",
+      "url": "https://money.udn.com/money/story/5599/9176168",
+      "source": "money.udn.com",
+      "published": 1764684533
+    },
+    {
+      "id": "425f56b79eaf",
+      "title": "教宗結束黎巴嫩3天行程 返國前籲停止「攻擊與敵對」",
+      "url": "https://money.udn.com/money/story/5599/9177832",
+      "source": "money.udn.com",
+      "published": 1764684378
+    },
+    {
+      "id": "dbae0c658594",
+      "title": "美國將與日韓等八國加強礦物供應鏈 致力於和中國大陸展開 AI 競賽",
+      "url": "https://money.udn.com/money/story/5599/9176169",
+      "source": "money.udn.com",
+      "published": 1764683861
+    },
     {
       "id": "993b15860b62",
       "title": "香港当局禁止两个民主派团体活动",
@@ -16,6 +44,13 @@
       "published": 1764683329
     },
     {
+      "id": "fc28d620acef",
+      "title": "11月歐元區通膨率略增至2.2%　央行按兵不動機率增",
+      "url": "https://money.udn.com/money/story/5599/9177807",
+      "source": "money.udn.com",
+      "published": 1764683110
+    },
+    {
       "id": "629b1c38586c",
       "title": "高市挺台掀中日緊張　紐時投書：日本讓世界正視台灣",
       "url": "https://money.udn.com/money/story/5599/9177806",
@@ -23,11 +58,11 @@
       "published": 1764683110
     },
     {
-      "id": "fc28d620acef",
-      "title": "11月歐元區通膨率略增至2.2%　央行按兵不動機率增",
-      "url": "https://money.udn.com/money/story/5599/9177807",
-      "source": "money.udn.com",
-      "published": 1764683110
+      "id": "0df2026ddd8e",
+      "title": "独立记者杜斌第三次遭拘押",
+      "url": "https://www.dw.com/zh/独立记者杜斌第三次遭拘押/a-74986153?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1764683040
     },
     {
       "id": "e16e18719416",
@@ -45,7 +80,7 @@
     },
     {
       "id": "c3b98d49d0a1",
-      "title": "政院版財畫法修法 新北最吃虧？劉和然三問蘇巧慧：停止當黨意立委",
+      "title": "政院版財劃法修法 新北最吃虧？劉和然三問蘇巧慧：停止當黨意立委",
       "url": "https://udn.com/news/story/6656/9177795",
       "source": "udn.com",
       "published": 1764682254
@@ -219,13 +254,6 @@
       "published": 1764676837
     },
     {
-      "id": "01e03feb3bc3",
-      "title": "聯合國秘書長提案削減明年預算15%　裁汰18%職位",
-      "url": "https://money.udn.com/money/story/5599/9177650",
-      "source": "money.udn.com",
-      "published": 1764676473
-    },
-    {
       "id": "7f89c48092c1",
       "title": "川習通話後…國安局：美中角力暫緩 中共持續對日施壓但避免情勢失控",
       "url": "https://udn.com/news/story/6656/9177636",
@@ -247,32 +275,11 @@
       "published": 1764675240
     },
     {
-      "id": "dfe5549e2d14",
-      "title": "菲律賓海軍新艦服役　加強南海巡邏能力",
-      "url": "https://money.udn.com/money/story/5599/9177610",
-      "source": "money.udn.com",
-      "published": 1764675036
-    },
-    {
       "id": "dd9a465287f9",
       "title": "批大罷免操盤惹議 吳怡農還原始末：不想再經歷失望開票過程",
       "url": "https://udn.com/news/story/6656/9177581",
       "source": "udn.com",
       "published": 1764673630
-    },
-    {
-      "id": "7cb47b6454bb",
-      "title": "宏都拉斯總統大選快速計票打成平局 選舉機構將逐張計票",
-      "url": "https://money.udn.com/money/story/5599/9177016",
-      "source": "money.udn.com",
-      "published": 1764673336
-    },
-    {
-      "id": "b6f646666cf2",
-      "title": "菲律賓推遲馬尼拉灣跨海大橋關鍵項目授標 因中國大陸企業參與引發爭議",
-      "url": "https://money.udn.com/money/story/5599/9177189",
-      "source": "money.udn.com",
-      "published": 1764673311
     },
     {
       "id": "cfe75e286c44",
@@ -1393,14 +1400,7 @@
       "url": "https://www.dw.com/zh/中國收緊控制-海內外獨立影展屢遭停辦/a-74721268?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763030700
-    },
-    {
-      "id": "2af93ab96712",
-      "title": "再有愛潑斯坦電郵涉及特朗普，我們又知道些什麼",
-      "url": "https://www.bbc.com/zhongwen/articles/crex49l579yo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1763018743
     }
   ],
-  "build_id": 1764683488
+  "build_id": 1764684744
 }
