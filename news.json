@@ -1,6 +1,20 @@
 {
-  "updated": 1764701552,
+  "updated": 1764702693,
   "items": [
+    {
+      "id": "21bcd70878ed",
+      "title": "南韓輸美關稅調降至15% 稅率不疊加 溯及11月1日生效",
+      "url": "https://money.udn.com/money/story/5599/9178016",
+      "source": "money.udn.com",
+      "published": 1764702405
+    },
+    {
+      "id": "dec1e1de643c",
+      "title": "OECD 上修美、歐、日 GDP 成長",
+      "url": "https://money.udn.com/money/story/5599/9178040",
+      "source": "money.udn.com",
+      "published": 1764701903
+    },
     {
       "id": "7298bac9b3b0",
       "title": "日本外相就日中关系恶化称正向各国说明日方立场",
@@ -238,20 +252,6 @@
       "url": "https://udn.com/news/story/124662/9177850",
       "source": "udn.com",
       "published": 1764685303
-    },
-    {
-      "id": "ea4241b41efa",
-      "title": "獲川普特赦　宏都拉斯前總統葉南德茲自美國監獄獲釋",
-      "url": "https://money.udn.com/money/story/5599/9177851",
-      "source": "money.udn.com",
-      "published": 1764685290
-    },
-    {
-      "id": "66eec711ff52",
-      "title": "10月歐盟失業率6%　年增0.2個百分點",
-      "url": "https://money.udn.com/money/story/5599/9177839",
-      "source": "money.udn.com",
-      "published": 1764684738
     },
     {
       "id": "993b15860b62",
@@ -1402,5 +1402,5 @@
       "published": 1762828261
     }
   ],
-  "build_id": 1764701552
+  "build_id": 1764702693
 }
