@@ -1,6 +1,20 @@
 {
-  "updated": 1764684744,
+  "updated": 1764686724,
   "items": [
+    {
+      "id": "58d78f7c0bad",
+      "title": "賴總統批「沒看到兩岸和平紅利」 馬辦反擊：怎還說得出口？",
+      "url": "https://udn.com/news/story/124662/9177850",
+      "source": "udn.com",
+      "published": 1764685303
+    },
+    {
+      "id": "ea4241b41efa",
+      "title": "獲川普特赦　宏都拉斯前總統葉南德茲自美國監獄獲釋",
+      "url": "https://money.udn.com/money/story/5599/9177851",
+      "source": "money.udn.com",
+      "published": 1764685290
+    },
     {
       "id": "66eec711ff52",
       "title": "10月歐盟失業率6%　年增0.2個百分點",
@@ -247,13 +261,6 @@
       "published": 1764676920
     },
     {
-      "id": "ba41206ef6f3",
-      "title": "貝魯特海濱彌撒湧15萬人　教宗乞求為苦難之地賜下和平",
-      "url": "https://money.udn.com/money/story/5599/9177669",
-      "source": "money.udn.com",
-      "published": 1764676837
-    },
-    {
       "id": "7f89c48092c1",
       "title": "川習通話後…國安局：美中角力暫緩 中共持續對日施壓但避免情勢失控",
       "url": "https://udn.com/news/story/6656/9177636",
@@ -266,6 +273,13 @@
       "url": "https://udn.com/news/story/124652/9177619",
       "source": "udn.com",
       "published": 1764676002
+    },
+    {
+      "id": "5c238d8e029b",
+      "title": "美国特使将与俄罗斯总统普京会晤，商讨俄乌协议",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251202-%E7%BE%8E%E5%9B%BD%E7%89%B9%E4%BD%BF%E5%B0%86%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E6%80%BB%E7%BB%9F%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4%EF%BC%8C%E5%95%86%E8%AE%A8%E4%BF%84%E4%B9%8C%E5%8D%8F%E8%AE%AE",
+      "source": "rfi.fr",
+      "published": 1764675467
     },
     {
       "id": "098013210826",
@@ -336,13 +350,6 @@
       "url": "https://udn.com/news/story/124662/9177321",
       "source": "udn.com",
       "published": 1764666905
-    },
-    {
-      "id": "e77001922a15",
-      "title": "藍白要賴總統赴立院「即問即答」 政院：此舉已違憲",
-      "url": "https://udn.com/news/story/124662/9177297",
-      "source": "udn.com",
-      "published": 1764666314
     },
     {
       "id": "abf008ef28ad",
@@ -728,13 +735,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cly5kxjgl3lo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1764548666
-    },
-    {
-      "id": "e7dac7207e0c",
-      "title": "中共政治局委员马兴瑞缺席政治局学习引发疑问",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251130-%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%91%98%E9%A9%AC%E5%85%B4%E7%91%9E%E7%BC%BA%E5%B8%AD%E6%94%BF%E6%B2%BB%E5%B1%80%E5%AD%A6%E4%B9%A0%E5%BC%95%E5%8F%91%E7%96%91%E9%97%AE",
-      "source": "rfi.fr",
-      "published": 1764542212
     },
     {
       "id": "13c6dfa48624",
@@ -1402,5 +1402,5 @@
       "published": 1763030700
     }
   ],
-  "build_id": 1764684744
+  "build_id": 1764686724
 }
