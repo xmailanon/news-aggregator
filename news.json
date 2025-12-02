@@ -1,6 +1,62 @@
 {
-  "updated": 1764697425,
+  "updated": 1764699419,
   "items": [
+    {
+      "id": "4258b74e9601",
+      "title": "美經濟數據強化降息預期　歐股收盤互有漲跌",
+      "url": "https://money.udn.com/money/story/5599/9178181",
+      "source": "money.udn.com",
+      "published": 1764698769
+    },
+    {
+      "id": "d98b7289b146",
+      "title": "好市多提告美國政府　力保若川普敗訴仍可退還關稅",
+      "url": "https://money.udn.com/money/story/10511/9178179",
+      "source": "money.udn.com",
+      "published": 1764698605
+    },
+    {
+      "id": "38f582ce4a5c",
+      "title": "南韓政府祭兩重拳 阻貶韓元 大摩：最糟時期已過",
+      "url": "https://money.udn.com/money/story/5599/9177960",
+      "source": "money.udn.com",
+      "published": 1764697632
+    },
+    {
+      "id": "7483c7a71fa0",
+      "title": "美「網路星期一」買氣噴發",
+      "url": "https://money.udn.com/money/story/10511/9177966",
+      "source": "money.udn.com",
+      "published": 1764697582
+    },
+    {
+      "id": "7d5a681d4f54",
+      "title": "好市多告川普 聲討關稅",
+      "url": "https://money.udn.com/money/story/10511/9177963",
+      "source": "money.udn.com",
+      "published": 1764697582
+    },
+    {
+      "id": "cd8cbc12a527",
+      "title": "Fed 示警商用不動產風險 點出資產價值下降、利率高掛等隱憂",
+      "url": "https://money.udn.com/money/story/10511/9177962",
+      "source": "money.udn.com",
+      "published": 1764697470
+    },
+    {
+      "id": "3a1ceb9cb07a",
+      "title": "英特爾加碼投資大馬 打造封裝與測試業務中心",
+      "url": "https://money.udn.com/money/story/5599/9177949",
+      "source": "money.udn.com",
+      "published": 1764697029
+    },
+    {
+      "id": "bc04190532f7",
+      "title": "OpenAI 要改善聊天機器人 可能延後進軍廣告市場、AI 代理等計畫",
+      "url": "https://money.udn.com/money/story/5599/9177953",
+      "source": "money.udn.com",
+      "published": 1764696977
+    },
     {
       "id": "88ed70757f19",
       "title": "韩国“阿里郎7”号卫星在法属圭亚那发射成功",
@@ -191,53 +247,11 @@
       "published": 1764684738
     },
     {
-      "id": "c67d69fdee84",
-      "title": "三星發布首款三折疊手機 搶在折疊螢幕 iPhone 登場前數月亮相",
-      "url": "https://money.udn.com/money/story/5599/9176168",
-      "source": "money.udn.com",
-      "published": 1764684533
-    },
-    {
-      "id": "425f56b79eaf",
-      "title": "教宗結束黎巴嫩3天行程 返國前籲停止「攻擊與敵對」",
-      "url": "https://money.udn.com/money/story/5599/9177832",
-      "source": "money.udn.com",
-      "published": 1764684378
-    },
-    {
-      "id": "dbae0c658594",
-      "title": "美國將與日韓等八國加強礦物供應鏈 致力於和中國大陸展開 AI 競賽",
-      "url": "https://money.udn.com/money/story/5599/9176169",
-      "source": "money.udn.com",
-      "published": 1764683861
-    },
-    {
       "id": "993b15860b62",
       "title": "香港当局禁止两个民主派团体活动",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251202-%E9%A6%99%E6%B8%AF%E5%BD%93%E5%B1%80%E7%A6%81%E6%AD%A2%E4%B8%A4%E4%B8%AA%E6%B0%91%E4%B8%BB%E6%B4%BE%E5%9B%A2%E4%BD%93%E6%B4%BB%E5%8A%A8",
       "source": "rfi.fr",
       "published": 1764683439
-    },
-    {
-      "id": "6c77f680872d",
-      "title": "宏國前總統葉南德茲在美獲釋 妻子感謝川普特赦",
-      "url": "https://money.udn.com/money/story/5599/9177811",
-      "source": "money.udn.com",
-      "published": 1764683329
-    },
-    {
-      "id": "fc28d620acef",
-      "title": "11月歐元區通膨率略增至2.2%　央行按兵不動機率增",
-      "url": "https://money.udn.com/money/story/5599/9177807",
-      "source": "money.udn.com",
-      "published": 1764683110
-    },
-    {
-      "id": "629b1c38586c",
-      "title": "高市挺台掀中日緊張　紐時投書：日本讓世界正視台灣",
-      "url": "https://money.udn.com/money/story/5599/9177806",
-      "source": "money.udn.com",
-      "published": 1764683110
     },
     {
       "id": "0df2026ddd8e",
@@ -280,20 +294,6 @@
       "url": "https://udn.com/news/story/124652/9177783",
       "source": "udn.com",
       "published": 1764681168
-    },
-    {
-      "id": "2fb9034683d8",
-      "title": "美特使會普丁談俄烏終戰　川普女婿庫許納將同行",
-      "url": "https://money.udn.com/money/story/5599/9177778",
-      "source": "money.udn.com",
-      "published": 1764680791
-    },
-    {
-      "id": "67bc3b1b39a7",
-      "title": "「冒險投資家」羅傑斯說投資中國沒問題 為什麼美股適合做空？",
-      "url": "https://money.udn.com/money/story/120769/9177059",
-      "source": "money.udn.com",
-      "published": 1764680625
     },
     {
       "id": "6ad5f3536635",
@@ -1402,5 +1402,5 @@
       "published": 1762828261
     }
   ],
-  "build_id": 1764697425
+  "build_id": 1764699419
 }
