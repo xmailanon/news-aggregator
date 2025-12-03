@@ -1,6 +1,34 @@
 {
-  "updated": 1764744660,
+  "updated": 1764745989,
   "items": [
+    {
+      "id": "b8ac39c5d7f7",
+      "title": "半導體類股領漲　日經指數上揚",
+      "url": "https://money.udn.com/money/story/5599/9179570",
+      "source": "money.udn.com",
+      "published": 1764746022
+    },
+    {
+      "id": "f208f18997bb",
+      "title": "中國電商平台販售酷澎帳號　韓國用戶不安掀退會潮",
+      "url": "https://money.udn.com/money/story/5599/9179573",
+      "source": "money.udn.com",
+      "published": 1764746022
+    },
+    {
+      "id": "5da68bb187e5",
+      "title": "聯合國：緬甸罌粟種植10年新高　戰亂助長非法經濟",
+      "url": "https://money.udn.com/money/story/5599/9179548",
+      "source": "money.udn.com",
+      "published": 1764745299
+    },
+    {
+      "id": "19515faf39b3",
+      "title": "在野擋財劃法、國防特別條例 卓榮泰：通過後才能執行政策",
+      "url": "https://udn.com/news/story/6656/9179534",
+      "source": "udn.com",
+      "published": 1764745123
+    },
     {
       "id": "0464117c94d1",
       "title": "巴西總統魯拉與川普通話　同意聯手打擊組織犯罪",
@@ -254,13 +282,6 @@
       "published": 1764737731
     },
     {
-      "id": "ebcf1cbecc24",
-      "title": "民眾黨徵召陳琬惠選宜蘭縣長 藍黨部主委：不影響雙方談合作",
-      "url": "https://udn.com/news/story/124652/9179105",
-      "source": "udn.com",
-      "published": 1764737007
-    },
-    {
       "id": "58a92f3ef636",
       "title": "烏克蘭和平談判：哪些關鍵人物正努力促成協議？",
       "url": "https://www.bbc.com/zhongwen/articles/cp9k198jx53o/trad?at_medium=RSS&at_campaign=rss",
@@ -282,39 +303,11 @@
       "published": 1764736580
     },
     {
-      "id": "5c5810721b8b",
-      "title": "YouTube遵法卻喊不安全　澳洲青少年社媒禁令引爭議",
-      "url": "https://money.udn.com/money/story/5599/9179023",
-      "source": "money.udn.com",
-      "published": 1764735839
-    },
-    {
-      "id": "1cdaee0c7e12",
-      "title": "白銀供應緊俏、Fed 降息預期聯手推一把 價格創新高！",
-      "url": "https://money.udn.com/money/story/5599/9179004",
-      "source": "money.udn.com",
-      "published": 1764735257
-    },
-    {
-      "id": "5c54788035c5",
-      "title": "中日衝突升溫是否挺日？南韓總統李在明：打架要攔著、生意要撮合",
-      "url": "https://money.udn.com/money/story/5599/9178989",
-      "source": "money.udn.com",
-      "published": 1764734970
-    },
-    {
       "id": "2a3957ce7774",
       "title": "SUV汽車在歐洲越來越多，但並非所有人都樂見其成",
       "url": "https://www.bbc.com/zhongwen/articles/cp3413n6dwvo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1764734665
-    },
-    {
-      "id": "915a34563dac",
-      "title": "高市早苗戳破了习近平的台湾战略幻象",
-      "url": "https://cn.nytimes.com/opinion/20251203/china-us-japan-security-taiwan/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1764731941
     },
     {
       "id": "393f80fa56a4",
@@ -413,6 +406,13 @@
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251202-%E5%8F%B0%E6%B9%BE%E6%95%B0%E5%AD%97%E5%A4%A7%E4%BD%BF-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8B%A5%E8%83%BD%E9%9D%A9%E6%96%B0%E5%BA%94%E7%94%A8%E4%BA%A6%E5%8F%AF%E5%BC%BA%E5%8C%96%E6%B0%91%E4%B8%BB",
       "source": "rfi.fr",
       "published": 1764706391
+    },
+    {
+      "id": "915a34563dac",
+      "title": "高市早苗戳破了习近平的台湾战略幻象",
+      "url": "https://cn.nytimes.com/opinion/20251203/china-us-japan-security-taiwan/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1764700948
     },
     {
       "id": "7298bac9b3b0",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1764744660
+  "build_id": 1764745989
 }
