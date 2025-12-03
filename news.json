@@ -1,6 +1,20 @@
 {
-  "updated": 1764796191,
+  "updated": 1764797569,
   "items": [
+    {
+      "id": "93953a2dc615",
+      "title": "市場評估俄烏戰爭走向　國際油價小幅走高",
+      "url": "https://money.udn.com/money/story/5599/9180859",
+      "source": "money.udn.com",
+      "published": 1764797449
+    },
+    {
+      "id": "8ae415c66706",
+      "title": "蘋果設計部門大將戴伊出走　改為Meta效力",
+      "url": "https://money.udn.com/money/story/123398/9180855",
+      "source": "money.udn.com",
+      "published": 1764796350
+    },
     {
       "id": "4e12d32abd2a",
       "title": "东京法院称同性婚姻禁令不违宪，平权运动人士向最高法院诉愿",
@@ -317,13 +331,6 @@
       "published": 1764775080
     },
     {
-      "id": "43e12329f3e9",
-      "title": "克宮：美俄會談受俄戰績影響　烏國入北約是關鍵問題",
-      "url": "https://money.udn.com/money/story/5599/9180611",
-      "source": "money.udn.com",
-      "published": 1764774739
-    },
-    {
       "id": "e4cf8d93d972",
       "title": "欧盟推出行动计划 降低对中国稀土依赖",
       "url": "https://www.dw.com/zh/欧盟推出行动计划-降低对中国稀土依赖/a-75002373?maca=chi-rss-chi-all-1127-rdf",
@@ -343,13 +350,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251203-%E6%AC%A7%E7%9B%9F%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE-2027%E5%B9%B4%E7%A7%8B%E5%AD%A3%E5%89%8D%E7%A6%81%E6%AD%A2%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%A9%E7%84%B6%E6%B0%94%E5%85%A5%E5%A2%83",
       "source": "rfi.fr",
       "published": 1764774197
-    },
-    {
-      "id": "ee10e508fe20",
-      "title": "英國華裔男子教保員性侵幼兒園學童　當庭認26起罪行",
-      "url": "https://money.udn.com/money/story/5599/9180566",
-      "source": "money.udn.com",
-      "published": 1764774033
     },
     {
       "id": "ee2fb6ca9156",
@@ -1402,5 +1402,5 @@
       "published": 1763030700
     }
   ],
-  "build_id": 1764796191
+  "build_id": 1764797569
 }
