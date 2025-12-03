@@ -1,6 +1,34 @@
 {
-  "updated": 1764771120,
+  "updated": 1764773072,
   "items": [
+    {
+      "id": "d9d57cb93af9",
+      "title": "美股早盤／傳微軟AI軟體需求弱 指數漲跌互見 機器人類股逆漲",
+      "url": "https://money.udn.com/money/story/123398/9180531",
+      "source": "money.udn.com",
+      "published": 1764773055
+    },
+    {
+      "id": "806fb126e64c",
+      "title": "台旅客轉機遭拘捕滯留杜拜 當地檢方仍未發離境許可",
+      "url": "https://udn.com/news/story/7314/9180511",
+      "source": "udn.com",
+      "published": 1764772704
+    },
+    {
+      "id": "16427a6dc9bb",
+      "title": "請辭去選新北與蔣萬安有共識 李四川曝板橋阿嬤1句話",
+      "url": "https://udn.com/news/story/124652/9180514",
+      "source": "udn.com",
+      "published": 1764772400
+    },
+    {
+      "id": "bdbb33e6b826",
+      "title": "宏都拉斯前總統葉南德茲獲川普特赦　妻稱他無意返政壇",
+      "url": "https://money.udn.com/money/story/5599/9180512",
+      "source": "money.udn.com",
+      "published": 1764772234
+    },
     {
       "id": "2d9f2b264a29",
       "title": "泰國打詐查扣近百億資產　鎖定太子集團創辦人等大咖",
@@ -154,20 +182,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20251203-%E5%AF%BC%E8%87%B4%E4%B8%9C%E5%8D%97%E4%BA%9A%E8%87%B4%E5%91%BD%E6%B4%AA%E7%81%BE%E7%9A%84%E4%B8%89%E5%A4%A7%E5%9B%A0%E7%B4%A0",
       "source": "rfi.fr",
       "published": 1764767241
-    },
-    {
-      "id": "3ad1a74bffa9",
-      "title": "麻生太郎支持高市早苗台灣有事說：被中國說幾句還好",
-      "url": "https://money.udn.com/money/story/5599/9180411",
-      "source": "money.udn.com",
-      "published": 1764766851
-    },
-    {
-      "id": "20fd390eceed",
-      "title": "印度盧比兌美元跌破90關口 印美貿易談判停滯打擊市場情緒",
-      "url": "https://money.udn.com/money/story/5599/9179136",
-      "source": "money.udn.com",
-      "published": 1764766829
     },
     {
       "id": "fd2bf7b6813c",
@@ -331,25 +345,11 @@
       "published": 1764757136
     },
     {
-      "id": "78e0543e8bb3",
-      "title": "說唱藝術保存者陳寶貴辭世 文化部頒贈旌揚狀",
-      "url": "https://udn.com/news/story/7314/9180032",
-      "source": "udn.com",
-      "published": 1764757090
-    },
-    {
       "id": "f8add4c707a8",
       "title": "法中分歧重重之下，马克龙开始访华寻求突破",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251203-%E6%B3%95%E4%B8%AD%E5%88%86%E6%AD%A7%E9%87%8D%E9%87%8D%E4%B9%8B%E4%B8%8B%EF%BC%8C%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E5%BC%80%E5%A7%8B%E8%AE%BF%E5%8D%8E%E5%AF%BB%E6%B1%82%E7%AA%81%E7%A0%B4",
       "source": "rfi.fr",
       "published": 1764757043
-    },
-    {
-      "id": "825f5f90246a",
-      "title": "綠嗆藍白宜蘭縣長提名權力分贓 陳琬惠：民進黨把所有人都當自己",
-      "url": "https://udn.com/news/story/124652/9180046",
-      "source": "udn.com",
-      "published": 1764756706
     },
     {
       "id": "2392a138b8ae",
@@ -1402,5 +1402,5 @@
       "published": 1763087640
     }
   ],
-  "build_id": 1764771120
+  "build_id": 1764773072
 }
