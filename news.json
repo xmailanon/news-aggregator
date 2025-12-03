@@ -1,10 +1,24 @@
 {
-  "updated": 1764758780,
+  "updated": 1764760207,
   "items": [
     {
-      "id": "31b1dacd97d3",
+      "id": "9a80f2c017ee",
+      "title": "英國和日本領銜全球政府舉債新風向：倚重短債融資、壓減長債發行",
+      "url": "https://money.udn.com/money/story/5599/9180001",
+      "source": "money.udn.com",
+      "published": 1764759469
+    },
+    {
+      "id": "b5cbbc906aec",
+      "title": "陸配宣誓效忠取代放棄國籍？梁文傑：若定義清楚可討論",
+      "url": "https://udn.com/news/story/6656/9180130",
+      "source": "udn.com",
+      "published": 1764758933
+    },
+    {
+      "id": "329266ba50ab",
       "title": "以色列：將開放拉法關卡　讓加薩居民得以離境赴埃及",
-      "url": "https://money.udn.com/money/story/10511/9180132",
+      "url": "https://money.udn.com/money/story/5599/9180132",
       "source": "money.udn.com",
       "published": 1764758742
     },
@@ -317,13 +331,6 @@
       "published": 1764751373
     },
     {
-      "id": "b6e84db11526",
-      "title": "賴總統Ｘ上標籤川普 感謝簽署台灣保證實施法案",
-      "url": "https://udn.com/news/story/6656/9179796",
-      "source": "udn.com",
-      "published": 1764751264
-    },
-    {
       "id": "057a11e4e9c8",
       "title": "剛捐助香港大火 蘋果庫克再承諾捐助東南亞水患",
       "url": "https://money.udn.com/money/story/5599/9179795",
@@ -336,13 +343,6 @@
       "url": "https://money.udn.com/money/story/5599/9179787",
       "source": "money.udn.com",
       "published": 1764751001
-    },
-    {
-      "id": "f7841d354d81",
-      "title": "消費者今年年終假期購物季的秘密武器：AI",
-      "url": "https://money.udn.com/money/story/5599/9179766",
-      "source": "money.udn.com",
-      "published": 1764750599
     },
     {
       "id": "ca36b92444de",
@@ -525,6 +525,20 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251202-%E6%95%99%E7%9A%87%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%9C%A8%E8%B4%9D%E9%B2%81%E7%89%B9%E4%B8%BE%E8%A1%8C%E9%9C%B2%E5%A4%A9%E5%BC%A5%E6%92%92-%E7%BA%A615%E4%B8%87%E9%BB%8E%E5%B7%B4%E5%AB%A9%E4%BA%BA%E8%81%86%E5%90%AC",
       "source": "rfi.fr",
       "published": 1764693885
+    },
+    {
+      "id": "75911a8dbb7f",
+      "title": "Soul App递交上市申请：AI驱动情绪社交，抢占先发优势",
+      "url": "https://www.ftchinese.com/story/001108338",
+      "source": "ftchinese.com",
+      "published": 1764691200
+    },
+    {
+      "id": "eb1fd1c900eb",
+      "title": "牧原冲刺港股第二上市 加速进军全球养殖市场",
+      "url": "https://www.ftchinese.com/story/001108337",
+      "source": "ftchinese.com",
+      "published": 1764691200
     },
     {
       "id": "3f6e79f08a35",
@@ -908,20 +922,6 @@
       "id": "97f44bd19555",
       "title": "写在HashKey IPO前：合规化路径的机会与限制",
       "url": "https://www.ftchinese.com/story/001108321",
-      "source": "ftchinese.com",
-      "published": 1764518400
-    },
-    {
-      "id": "f3f07ef7e2c4",
-      "title": "忽视了数学这一环，AI将无法尽其用",
-      "url": "https://www.ftchinese.com/story/001108319",
-      "source": "ftchinese.com",
-      "published": 1764518400
-    },
-    {
-      "id": "3c8c49fb4c13",
-      "title": "解读阿里财报：利润骤减之下，当下和未来该如何平衡？",
-      "url": "https://www.ftchinese.com/story/001108316",
       "source": "ftchinese.com",
       "published": 1764518400
     },
@@ -1402,5 +1402,5 @@
       "published": 1763087640
     }
   ],
-  "build_id": 1764758780
+  "build_id": 1764760207
 }
