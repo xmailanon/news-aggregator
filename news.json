@@ -1,6 +1,27 @@
 {
-  "updated": 1764801639,
+  "updated": 1764803302,
   "items": [
+    {
+      "id": "98437867b377",
+      "title": "美股收高 晶片股撑起科技股漲勢 就業疲弱更強化Fed降息預期",
+      "url": "https://money.udn.com/money/story/5599/9180903",
+      "source": "money.udn.com",
+      "published": 1764803483
+    },
+    {
+      "id": "736478825fa5",
+      "title": "欧洲五大最适合乘火车游览的圣诞集市",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251203-%E6%AC%A7%E6%B4%B2%E4%BA%94%E5%A4%A7%E6%9C%80%E9%80%82%E5%90%88%E4%B9%98%E7%81%AB%E8%BD%A6%E6%B8%B8%E8%A7%88%E7%9A%84%E5%9C%A3%E8%AF%9E%E5%B8%82%E5%9C%BA",
+      "source": "rfi.fr",
+      "published": 1764802617
+    },
+    {
+      "id": "6f435d058278",
+      "title": "若中國入侵台灣美國有多大機會協防？賴總統接受紐時專訪這樣回答",
+      "url": "https://udn.com/news/story/10930/9180793",
+      "source": "udn.com",
+      "published": 1764802200
+    },
     {
       "id": "b33e11f874b0",
       "title": "像戰爭現場！台東6輛M60戰車開火 震波強到胸口發麻",
@@ -219,13 +240,6 @@
       "published": 1764782249
     },
     {
-      "id": "6f435d058278",
-      "title": "若中國入侵台灣美國有多大機會協防？賴總統接受紐時專訪這樣回答",
-      "url": "https://udn.com/news/story/10930/9180793",
-      "source": "udn.com",
-      "published": 1764781956
-    },
-    {
       "id": "e4617de1c3ee",
       "title": "總統府公告公投綁大選 賴總統批示：選務機關審慎因應",
       "url": "https://udn.com/news/story/6656/9180720",
@@ -329,13 +343,6 @@
       "url": "https://money.udn.com/money/story/5599/9180723",
       "source": "money.udn.com",
       "published": 1764776733
-    },
-    {
-      "id": "1351fb3bd40f",
-      "title": "亞馬遜火速推出最新自研人工智慧晶片 挑戰輝達和 Google",
-      "url": "https://money.udn.com/money/story/5599/9178294",
-      "source": "money.udn.com",
-      "published": 1764775849
     },
     {
       "id": "3c5b4d391797",
@@ -595,13 +602,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251202-%E7%BE%8E%E6%89%A9%E5%A4%A7ai%E4%BE%9B%E5%BA%94%E9%93%BE%E5%90%8C%E7%9B%9F-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0-%E4%B8%AD%E5%9B%BD%E8%BF%BD%E4%B8%8D%E4%B8%8A%E7%BE%8E%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1764714267
-    },
-    {
-      "id": "88d519f84a92",
-      "title": "稀土出口趋于松动：北京向海外发放首批精简许可",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251202-%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E8%B6%8B%E4%BA%8E%E6%9D%BE%E5%8A%A8-%E5%8C%97%E4%BA%AC%E5%90%91%E6%B5%B7%E5%A4%96%E5%8F%91%E6%94%BE%E9%A6%96%E6%89%B9%E7%B2%BE%E7%AE%80%E8%AE%B8%E5%8F%AF",
-      "source": "rfi.fr",
-      "published": 1764711976
     },
     {
       "id": "a46e36fdc87a",
@@ -1402,5 +1402,5 @@
       "published": 1763030700
     }
   ],
-  "build_id": 1764801639
+  "build_id": 1764803302
 }
