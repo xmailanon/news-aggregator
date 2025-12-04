@@ -1,6 +1,20 @@
 {
-  "updated": 1764864878,
+  "updated": 1764867007,
   "items": [
+    {
+      "id": "32bf01c200d7",
+      "title": "小紅書遭封鎖1年 網友：台灣也走向要翻牆的一天",
+      "url": "https://udn.com/news/story/124671/9183233",
+      "source": "udn.com",
+      "published": 1764864700
+    },
+    {
+      "id": "fa81e4584e63",
+      "title": "AI工作術 7／加拿大業者靠AI攻日本電商，二個新工具讓海外銷售額成長三倍",
+      "url": "https://money.udn.com/money/story/122979/9072063",
+      "source": "money.udn.com",
+      "published": 1764864550
+    },
     {
       "id": "a77bd8dc61b8",
       "title": "The computer crashed.和The computer has crashed.這兩句哪裡不一樣？",
@@ -9,18 +23,18 @@
       "published": 1764864520
     },
     {
+      "id": "a1533c76ac1a",
+      "title": "AI工作術 6／「敦促部屬用AI的主管才合格」日清戰鬥營揭AI時代管理職三心法",
+      "url": "https://money.udn.com/money/story/122979/9072061",
+      "source": "money.udn.com",
+      "published": 1764864370
+    },
+    {
       "id": "e78969dceb4f",
       "title": "AI工作術 5／全公司已有70%員工用AI， 日清食品資訊長卻對這件事極憂心",
       "url": "https://money.udn.com/money/story/122979/9072058",
       "source": "money.udn.com",
       "published": 1764864190
-    },
-    {
-      "id": "f28883fc2f73",
-      "title": "賴總統指樂意幫中國解決經濟問題 柯文哲笑「通匪」黃國昌嗆「資匪」",
-      "url": "https://udn.com/news/story/6656/9183244",
-      "source": "udn.com",
-      "published": 1764864046
     },
     {
       "id": "fd562bfd7f5b",
@@ -84,6 +98,13 @@
       "url": "https://udn.com/news/story/7314/9183087",
       "source": "udn.com",
       "published": 1764864000
+    },
+    {
+      "id": "f28883fc2f73",
+      "title": "賴總統指樂意幫中國解決經濟問題 柯文哲笑「通匪」、黃國昌嗆「資匪」",
+      "url": "https://udn.com/news/story/6656/9183244",
+      "source": "udn.com",
+      "published": 1764863820
     },
     {
       "id": "ec133cb663a5",
@@ -289,13 +310,6 @@
       "published": 1764856467
     },
     {
-      "id": "f69acc695a04",
-      "title": "瑞典駐台代表盼與台深化能源合作 共同邁向淨零未來",
-      "url": "https://udn.com/news/story/7314/9182961",
-      "source": "udn.com",
-      "published": 1764856269
-    },
-    {
       "id": "caf753b2e7d5",
       "title": "摩根士丹利據悉擬借助信用風險轉移市場 降低對 AI 數據中心的風險敞口",
       "url": "https://money.udn.com/money/story/5599/9181061",
@@ -308,20 +322,6 @@
       "url": "https://money.udn.com/money/story/5599/9182956",
       "source": "money.udn.com",
       "published": 1764855674
-    },
-    {
-      "id": "bba9b00f0921",
-      "title": "宏都拉斯大選計票第5天　挺台候選人阿斯夫拉再超前",
-      "url": "https://money.udn.com/money/story/5599/9182934",
-      "source": "money.udn.com",
-      "published": 1764854542
-    },
-    {
-      "id": "a45472060195",
-      "title": "美兩大戰略報告發布延宕　傳貝森特要求調整涉中措辭",
-      "url": "https://money.udn.com/money/story/5599/9182917",
-      "source": "money.udn.com",
-      "published": 1764854039
     },
     {
       "id": "fbec43e3c54f",
@@ -1402,5 +1402,5 @@
       "published": 1763030700
     }
   ],
-  "build_id": 1764864878
+  "build_id": 1764867007
 }
