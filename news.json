@@ -1,6 +1,34 @@
 {
-  "updated": 1764838085,
+  "updated": 1764839688,
   "items": [
+    {
+      "id": "02125acf4a86",
+      "title": "穿襪子就能測出足壓異常 國泰智慧醫療助患者復健、高齡族防跌",
+      "url": "https://udn.com/news/story/7314/9182374",
+      "source": "udn.com",
+      "published": 1764838978
+    },
+    {
+      "id": "9a66d530e220",
+      "title": "比血氧機更快 北醫附醫打造「多數據生理監測設備」 偵測呼吸及早示警",
+      "url": "https://udn.com/news/story/7314/9182375",
+      "source": "udn.com",
+      "published": 1764838975
+    },
+    {
+      "id": "e970aa74b6a0",
+      "title": "嚴防缺藥！藥事法大修⋯放寬專案輸入條件、中央統籌調度確保公平",
+      "url": "https://udn.com/news/story/6656/9182373",
+      "source": "udn.com",
+      "published": 1764838971
+    },
+    {
+      "id": "ba629ca70b19",
+      "title": "柏瑞投信報告：AI 有助減碳 將成為能源轉型新推力",
+      "url": "https://money.udn.com/money/story/5599/9182335",
+      "source": "money.udn.com",
+      "published": 1764838094
+    },
     {
       "id": "0c1487e4a509",
       "title": "路透：最大規模「秀肌肉」 陸東海集結逾百海軍與海警船艦",
@@ -247,32 +275,11 @@
       "published": 1764830747
     },
     {
-      "id": "cde09e3472a4",
-      "title": "綠議員拷問李四川何時請辭選新北市長？蔣萬安不忍了搶答曝心情",
-      "url": "https://udn.com/news/story/124652/9181977",
-      "source": "udn.com",
-      "published": 1764830503
-    },
-    {
       "id": "57c7dd8d42ef",
       "title": "日債殖利率飆高 重返金融危機前水準 央行決策左右為難",
       "url": "https://money.udn.com/money/story/5599/9181972",
       "source": "money.udn.com",
       "published": 1764830444
-    },
-    {
-      "id": "68613c5a8f43",
-      "title": "台訓練美勞工生產先進半導體 白委憂核心技術恐被迫傳授",
-      "url": "https://udn.com/news/story/6656/9181958",
-      "source": "udn.com",
-      "published": 1764830087
-    },
-    {
-      "id": "ea785ec7bf7e",
-      "title": "捲聖石金業詐騙案被指要求警方道歉 林思銘駁：毫無所悉",
-      "url": "https://udn.com/news/story/6656/9181950",
-      "source": "udn.com",
-      "published": 1764829919
     },
     {
       "id": "93e072b63bfb",
@@ -315,13 +322,6 @@
       "url": "https://money.udn.com/money/story/5599/9181862",
       "source": "money.udn.com",
       "published": 1764828398
-    },
-    {
-      "id": "efca3fe9208e",
-      "title": "川普特赦葉南德茲引發政壇震盪　影響宏都拉斯大選",
-      "url": "https://money.udn.com/money/story/10511/9181839",
-      "source": "money.udn.com",
-      "published": 1764828041
     },
     {
       "id": "433f2cbdeed4",
@@ -413,6 +413,13 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251203-%E4%B8%9C%E4%BA%AC%E6%B3%95%E9%99%A2%E7%A7%B0%E5%90%8C%E6%80%A7%E5%A9%9A%E5%A7%BB%E7%A6%81%E4%BB%A4%E4%B8%8D%E8%BF%9D%E5%AE%AA%EF%BC%8C%E5%B9%B3%E6%9D%83%E8%BF%90%E5%8A%A8%E4%BA%BA%E5%A3%AB%E5%90%91%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E6%8F%90%E8%AF%B7%E6%84%BF",
       "source": "rfi.fr",
       "published": 1764794863
+    },
+    {
+      "id": "3ca2e2367b22",
+      "title": "《纽约时报》2025年度十大好书",
+      "url": "https://cn.nytimes.com/culture/20251204/best-books-2025/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1764794743
     },
     {
       "id": "058d98180ffa",
@@ -1136,13 +1143,6 @@
       "published": 1764309593
     },
     {
-      "id": "a7c418630ed9",
-      "title": "香港大埔火灾已致至少128人死亡，工程公司三人被捕",
-      "url": "https://cn.nytimes.com/china/20251127/hong-kong-fire-apartment-buildings/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1764272984
-    },
-    {
       "id": "cf3b3b0bc429",
       "title": "香港大埔宏福苑五級火警：為何發生連環大火？同類火災會否重現？",
       "url": "https://www.bbc.com/zhongwen/articles/c058pvn2d02o/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1763030700
     }
   ],
-  "build_id": 1764838085
+  "build_id": 1764839688
 }
