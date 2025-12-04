@@ -1,6 +1,13 @@
 {
-  "updated": 1764887934,
+  "updated": 1764889801,
   "items": [
+    {
+      "id": "b5a921432fa6",
+      "title": "英國挪威防衛合作協議　強化反制俄艦在北大西洋活動",
+      "url": "https://money.udn.com/money/story/5599/9183412",
+      "source": "money.udn.com",
+      "published": 1764888409
+    },
     {
       "id": "ef00628737a3",
       "title": "加薩反哈瑪斯部族領袖沙巴布身亡　以色列政策受挫",
@@ -282,11 +289,25 @@
       "published": 1764864700
     },
     {
-      "id": "8aed6785b105",
-      "title": "日債殖利率飆 升息陷兩難 10年期升至1.91% 寫18年高點",
-      "url": "https://money.udn.com/money/story/5599/9183111",
-      "source": "money.udn.com",
-      "published": 1764864645
+      "id": "35f6edd355f4",
+      "title": "从BBC“剪辑门”事件看企业管治和领导力问题",
+      "url": "https://www.ftchinese.com/story/001108354",
+      "source": "ftchinese.com",
+      "published": 1764864000
+    },
+    {
+      "id": "21010d9525fc",
+      "title": "进击的AI手机，撞上隐私墙",
+      "url": "https://www.ftchinese.com/story/001108356",
+      "source": "ftchinese.com",
+      "published": 1764864000
+    },
+    {
+      "id": "e6e388e9c2f3",
+      "title": "人工智能浪潮中的真实与泡影",
+      "url": "https://www.ftchinese.com/story/001108352",
+      "source": "ftchinese.com",
+      "published": 1764864000
     },
     {
       "id": "ef19e674aadb",
@@ -884,27 +905,6 @@
       "published": 1764691200
     },
     {
-      "id": "67be74027e5c",
-      "title": "外资曾经“收割”日本房地产了吗？",
-      "url": "https://www.ftchinese.com/story/001108219",
-      "source": "ftchinese.com",
-      "published": 1764691200
-    },
-    {
-      "id": "f71753725dfa",
-      "title": "从香港大火看A股注册制的前景",
-      "url": "https://www.ftchinese.com/story/001108318",
-      "source": "ftchinese.com",
-      "published": 1764691200
-    },
-    {
-      "id": "fde8a4e57c9c",
-      "title": "德国人：美国有了特朗普，中国不再显得那么具威胁性了",
-      "url": "https://www.ftchinese.com/story/001108326",
-      "source": "ftchinese.com",
-      "published": 1764691200
-    },
-    {
       "id": "32275771e908",
       "title": "德工业联合会：德国经济正经历二战后最严重危机",
       "url": "https://www.dw.com/zh/德工业联合会：德国经济正经历二战后最严重危机/a-74988487?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1763030700
     }
   ],
-  "build_id": 1764887934
+  "build_id": 1764889801
 }
