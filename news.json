@@ -1,5 +1,5 @@
 {
-  "updated": 1764960408,
+  "updated": 1764961735,
   "items": [
     {
       "id": "943a40203e8c",
@@ -303,13 +303,6 @@
       "published": 1764945945
     },
     {
-      "id": "1f6cfceecc12",
-      "title": "韓國茶山學術獎  台大教授蔡振豐獲頒大獎",
-      "url": "https://money.udn.com/money/story/5599/9185324",
-      "source": "money.udn.com",
-      "published": 1764945447
-    },
-    {
       "id": "b6c3200aaaba",
       "title": "签证争议延烧世足，美国同步推动史上最大规模移民收紧",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20251205-%E7%AD%BE%E8%AF%81%E4%BA%89%E8%AE%AE%E5%BB%B6%E7%83%A7%E4%B8%96%E8%B6%B3%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%90%8C%E6%AD%A5%E6%8E%A8%E5%8A%A8%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A7%BB%E6%B0%91%E6%94%B6%E7%B4%A7",
@@ -350,6 +343,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20251205-%E5%B7%B4%E8%A5%BF%E6%AF%81%E6%9E%97%E7%A7%8D%E6%A4%8D%E5%A4%A7%E8%B1%86%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E4%BD%95%E5%B9%B2",
       "source": "rfi.fr",
       "published": 1764942328
+    },
+    {
+      "id": "34f1c74d100b",
+      "title": "歐盟首次援引數位服務法　對社群媒體X開罰1.2億歐元",
+      "url": "https://money.udn.com/money/story/5599/9185274",
+      "source": "money.udn.com",
+      "published": 1764942307
     },
     {
       "id": "045a54e99cfc",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1764960408
+  "build_id": 1764961735
 }
