@@ -1,6 +1,34 @@
 {
-  "updated": 1765019254,
+  "updated": 1765020702,
   "items": [
+    {
+      "id": "533252c7acd9",
+      "title": "2警執行交管勤務受傷 副總統不捨發聲：已與卓榮泰探視慰問",
+      "url": "https://udn.com/news/story/6656/9186601",
+      "source": "udn.com",
+      "published": 1765020424
+    },
+    {
+      "id": "ec421de2c805",
+      "title": "亞洲實力指數台灣排名14得分略降 東協中等強權崛起",
+      "url": "https://money.udn.com/money/story/5599/9186602",
+      "source": "money.udn.com",
+      "published": 1765020203
+    },
+    {
+      "id": "a8ab646edc5a",
+      "title": "花蓮馬太鞍溪中繼屋進度50% 劉世芳：明年1月可入住",
+      "url": "https://udn.com/news/story/6656/9186575",
+      "source": "udn.com",
+      "published": 1765018924
+    },
+    {
+      "id": "915b0d0f03c0",
+      "title": "何志偉桃園辦親子活動 展現跨齡吸引力",
+      "url": "https://udn.com/news/story/6656/9186574",
+      "source": "udn.com",
+      "published": 1765018831
+    },
     {
       "id": "3bcce3b3186b",
       "title": "助理費除罪化 牛煦庭喊話國民黨團集思廣益：公費助理有存在必要",
@@ -23,16 +51,16 @@
       "published": 1765017726
     },
     {
-      "id": "a1784bd96262",
-      "title": "南非爆發大規模槍擊案　警方：造成11人喪命",
-      "url": "https://money.udn.com/money/story/5599/9186553",
+      "id": "6332e3bec2a8",
+      "title": "人權惡化打壓女性　澳洲制裁阿富汗塔利班官員",
+      "url": "https://money.udn.com/money/story/5599/9186555",
       "source": "money.udn.com",
       "published": 1765017381
     },
     {
-      "id": "6332e3bec2a8",
-      "title": "人權惡化打壓女性　澳洲制裁阿富汗塔利班官員",
-      "url": "https://money.udn.com/money/story/5599/9186555",
+      "id": "a1784bd96262",
+      "title": "南非爆發大規模槍擊案　警方：造成11人喪命",
+      "url": "https://money.udn.com/money/story/5599/9186553",
       "source": "money.udn.com",
       "published": 1765017381
     },
@@ -45,7 +73,7 @@
     },
     {
       "id": "13ffe4616478",
-      "title": "華納改嫁Netflix！市場老手細數往例：恐又是美股「泡沫化」前兆",
+      "title": "華納改嫁 Netflix！市場老手細數往例：恐又是美股「泡沫化」前兆",
       "url": "https://money.udn.com/money/story/123398/9186547",
       "source": "money.udn.com",
       "published": 1765016818
@@ -247,32 +275,11 @@
       "published": 1765009810
     },
     {
-      "id": "fd74ac4694b5",
-      "title": "出席世界人權日典禮 賴總統：民主是台灣唯一的方向",
-      "url": "https://udn.com/news/story/6656/9186387",
-      "source": "udn.com",
-      "published": 1765009287
-    },
-    {
-      "id": "a3658437f399",
-      "title": "【即時短評】封小紅書政治後座力比賴十七條更大",
-      "url": "https://udn.com/news/story/124671/9186380",
-      "source": "udn.com",
-      "published": 1765009135
-    },
-    {
       "id": "d90261704f9b",
       "title": "特朗普国安战略文件重提“门罗主义”，抨击欧洲毫不留情",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251206-%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E5%AE%89%E6%88%98%E7%95%A5%E6%96%87%E4%BB%B6%E9%87%8D%E6%8F%90-%E9%97%A8%E7%BD%97%E4%B8%BB%E4%B9%89-%EF%BC%8C%E6%8A%A8%E5%87%BB%E6%AC%A7%E6%B4%B2%E6%AF%AB%E4%B8%8D%E7%95%99%E6%83%85",
       "source": "rfi.fr",
       "published": 1765008950
-    },
-    {
-      "id": "d25e66b3d1d0",
-      "title": "警執勤交管遭撞重傷…副總統「幫輔選釀悲劇」？同行綠委還原當天情況",
-      "url": "https://udn.com/news/story/6656/9186371",
-      "source": "udn.com",
-      "published": 1765008558
     },
     {
       "id": "a63606db3a7e",
@@ -329,13 +336,6 @@
       "url": "https://money.udn.com/money/story/5599/9185259",
       "source": "money.udn.com",
       "published": 1765005712
-    },
-    {
-      "id": "488bfba5177e",
-      "title": "歐洲央行管委 Villeroy 稱通膨下行風險至少與上行風險相當",
-      "url": "https://money.udn.com/money/story/5599/9185578",
-      "source": "money.udn.com",
-      "published": 1765005700
     },
     {
       "id": "3da1e8bf932e",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765019254
+  "build_id": 1765020702
 }
