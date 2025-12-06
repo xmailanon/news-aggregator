@@ -1,10 +1,31 @@
 {
-  "updated": 1765001681,
+  "updated": 1765003585,
   "items": [
     {
-      "id": "28dd9fb468de",
+      "id": "282002e64906",
+      "title": "車諾比核電廠防護罩遭無人機損壞　失去主要安全功能",
+      "url": "https://money.udn.com/money/story/5599/9186249",
+      "source": "money.udn.com",
+      "published": 1765003067
+    },
+    {
+      "id": "2a3b9353b6c2",
+      "title": "柯文哲提藍白合不讓3%或6% 鄭麗文：公平提名人選",
+      "url": "https://udn.com/news/story/124652/9186212",
+      "source": "udn.com",
+      "published": 1765002724
+    },
+    {
+      "id": "3da1e8bf932e",
+      "title": "特朗普明立防止美中因台湾冲突的战略，更鹰还是鸽？",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251206-%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E7%AB%8B%E9%98%B2%E6%AD%A2%E7%BE%8E%E4%B8%AD%E5%9B%A0%E5%8F%B0%E6%B9%BE%E5%86%B2%E7%AA%81%E7%9A%84%E6%88%98%E7%95%A5%EF%BC%8C%E6%9B%B4%E9%B9%B0%E8%BF%98%E6%98%AF%E9%B8%BD",
+      "source": "rfi.fr",
+      "published": 1765001811
+    },
+    {
+      "id": "7c2e349c7268",
       "title": "二度同台...獲賴總統助攻？蘇巧慧：一起在地方加油是好事",
-      "url": "https://udn.com/news/story/6656/9186226",
+      "url": "https://udn.com/news/story/124652/9186226",
       "source": "udn.com",
       "published": 1765001642
     },
@@ -184,13 +205,6 @@
       "published": 1764994209
     },
     {
-      "id": "09e975fe87dc",
-      "title": "監視影像保存傳雲端爭議露曙光 兒托專法拚立院本會期三讀",
-      "url": "https://udn.com/news/story/7314/9186039",
-      "source": "udn.com",
-      "published": 1764994162
-    },
-    {
       "id": "301208b9d393",
       "title": "不能上高速公路？川普批准生產日式迷你車 難打入美市場原因曝",
       "url": "https://money.udn.com/money/story/5599/9186030",
@@ -273,13 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/9185726",
       "source": "money.udn.com",
       "published": 1764982986
-    },
-    {
-      "id": "7d4e0be21a46",
-      "title": "川普批准美國生產迷你車 強調價格低廉且省油",
-      "url": "https://money.udn.com/money/story/5599/9185723",
-      "source": "money.udn.com",
-      "published": 1764982810
     },
     {
       "id": "918cd32c748f",
@@ -616,13 +623,6 @@
       "url": "https://cn.nytimes.com/business/20251205/tsmc-phoenix-fab/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1764883176
-    },
-    {
-      "id": "4238ed3a97fa",
-      "title": "日本启动南鸟岛稀土开发前 国会讨论如何严密监视 防中国干扰",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251204-%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E5%8D%97%E9%B8%9F%E5%B2%9B%E7%A8%80%E5%9C%9F%E5%BC%80%E5%8F%91%E5%89%8D-%E5%9B%BD%E4%BC%9A%E8%AE%A8%E8%AE%BA%E5%A6%82%E4%BD%95%E4%B8%A5%E5%AF%86%E7%9B%91%E8%A7%86-%E9%98%B2%E4%B8%AD%E5%9B%BD%E5%B9%B2%E6%89%B0",
-      "source": "rfi.fr",
-      "published": 1764882227
     },
     {
       "id": "058d98180ffa",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765001681
+  "build_id": 1765003585
 }
