@@ -1,6 +1,27 @@
 {
-  "updated": 1765056789,
+  "updated": 1765058953,
   "items": [
+    {
+      "id": "04b9c7f2e939",
+      "title": "醫療機器人成全球趨勢 圖解台灣護理師3類新助手",
+      "url": "https://udn.com/news/story/7314/9186957",
+      "source": "udn.com",
+      "published": 1765057800
+    },
+    {
+      "id": "024de5d9ebbe",
+      "title": "【總編開箱】南二都兩把治理失能的惡火 考驗2026「西瓜效應」",
+      "url": "https://udn.com/news/story/6656/9186961",
+      "source": "udn.com",
+      "published": 1765057800
+    },
+    {
+      "id": "387f7b97eb7c",
+      "title": "阿拉斯加亞庫塔特規模7地震　深度10公里",
+      "url": "https://money.udn.com/money/story/5599/9187013",
+      "source": "money.udn.com",
+      "published": 1765057529
+    },
     {
       "id": "5f57a9cca70a",
       "title": "萨科齐《囚徒日记》 ：我怎会沦落到这步田地？",
@@ -324,32 +345,11 @@
       "published": 1765033236
     },
     {
-      "id": "cfbab90eb142",
-      "title": "美國國會裡 誰是股神？新近研究發現這群人是投資導師",
-      "url": "https://money.udn.com/money/story/123398/9186806",
-      "source": "money.udn.com",
-      "published": 1765032941
-    },
-    {
       "id": "a8ac30858b6b",
       "title": "西班牙：非洲猪瘟疫情 不排除为实验室外泄",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251206-%E8%A5%BF%E7%8F%AD%E7%89%99-%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F%E7%96%AB%E6%83%85-%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A4%96%E6%B3%84",
       "source": "rfi.fr",
       "published": 1765031648
-    },
-    {
-      "id": "97354ba88692",
-      "title": "「缺三落四也要出海」…海鯤艦6部主機僅4部能動？台船澄清回應了",
-      "url": "https://udn.com/news/story/10930/9186752",
-      "source": "udn.com",
-      "published": 1765030831
-    },
-    {
-      "id": "6641d58e6c43",
-      "title": "陸委會副主委沈有忠訪問柏林 德議員肯定台灣守護民主",
-      "url": "https://udn.com/news/story/6656/9186734",
-      "source": "udn.com",
-      "published": 1765030505
     },
     {
       "id": "63dcc0a1d9bd",
@@ -1402,5 +1402,5 @@
       "published": 1763280720
     }
   ],
-  "build_id": 1765056789
+  "build_id": 1765058953
 }
