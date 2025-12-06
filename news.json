@@ -1,6 +1,13 @@
 {
-  "updated": 1764996027,
+  "updated": 1764997814,
   "items": [
+    {
+      "id": "daea9fbc2008",
+      "title": "「Meta才是詐騙最大溫床」 游淑慧分析小紅書連車尾燈都看不到",
+      "url": "https://udn.com/news/story/124671/9186097",
+      "source": "udn.com",
+      "published": 1764996934
+    },
     {
       "id": "ec23b60488cd",
       "title": "空軍MQ-9B無人機明年接裝 美未開放軍規衛星傳輸",
@@ -350,13 +357,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251205-%E7%BE%8E%E6%94%BF%E5%BA%9C%E8%AD%A6%E5%91%8A%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5%E7%BE%8E%E5%9B%BD%E5%AE%9E%E4%BD%93-%E6%B8%97%E9%80%8F%E5%85%B3%E9%94%AE%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD",
       "source": "rfi.fr",
       "published": 1764958446
-    },
-    {
-      "id": "75b645f027c6",
-      "title": "小紅書遭封鎖 TikTok也被點名",
-      "url": "https://udn.com/news/story/124671/9185496",
-      "source": "udn.com",
-      "published": 1764953325
     },
     {
       "id": "89b9d1649411",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1764996027
+  "build_id": 1764997814
 }
