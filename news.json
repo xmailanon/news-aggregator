@@ -1,12 +1,19 @@
 {
-  "updated": 1765058953,
+  "updated": 1765060696,
   "items": [
     {
-      "id": "04b9c7f2e939",
-      "title": "醫療機器人成全球趨勢 圖解台灣護理師3類新助手",
-      "url": "https://udn.com/news/story/7314/9186957",
-      "source": "udn.com",
-      "published": 1765057800
+      "id": "062c29ce16fb",
+      "title": "美乌3天会谈无明显突破 泽连斯基承诺持续追求和平",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251206-%E7%BE%8E%E4%B9%8C3%E5%A4%A9%E4%BC%9A%E8%B0%88%E6%97%A0%E6%98%8E%E6%98%BE%E7%AA%81%E7%A0%B4-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%BF%E8%AF%BA%E6%8C%81%E7%BB%AD%E8%BF%BD%E6%B1%82%E5%92%8C%E5%B9%B3",
+      "source": "rfi.fr",
+      "published": 1765059314
+    },
+    {
+      "id": "b2b3d8e0fc64",
+      "title": "阿拉斯加與育空交界地區規模7強震　未發布海嘯警報",
+      "url": "https://money.udn.com/money/story/5599/9187028",
+      "source": "money.udn.com",
+      "published": 1765059126
     },
     {
       "id": "024de5d9ebbe",
@@ -338,18 +345,18 @@
       "published": 1765033567
     },
     {
-      "id": "d7b275d97109",
-      "title": "黃仁勳坦言倒閉恐懼未消失　至今仍一週工作7天",
-      "url": "https://money.udn.com/money/story/5599/9186815",
-      "source": "money.udn.com",
-      "published": 1765033236
-    },
-    {
       "id": "a8ac30858b6b",
       "title": "西班牙：非洲猪瘟疫情 不排除为实验室外泄",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251206-%E8%A5%BF%E7%8F%AD%E7%89%99-%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F%E7%96%AB%E6%83%85-%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A4%96%E6%B3%84",
       "source": "rfi.fr",
       "published": 1765031648
+    },
+    {
+      "id": "97354ba88692",
+      "title": "「缺三落四也要出海」…海鯤艦6部主機僅4部能動？台船澄清回應了",
+      "url": "https://udn.com/news/story/10930/9186752",
+      "source": "udn.com",
+      "published": 1765030831
     },
     {
       "id": "63dcc0a1d9bd",
@@ -525,13 +532,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251205-%E8%8B%A5%E6%B2%A1%E6%94%B6%E4%BF%84%E8%B5%84%E4%BA%A7-%E5%B0%86%E5%AF%B9%E6%AC%A7%E7%9B%9F%E4%BA%A7%E7%94%9F%E9%87%8D%E5%A4%A7%E5%BD%B1%E5%93%8D",
       "source": "rfi.fr",
       "published": 1764968176
-    },
-    {
-      "id": "46b53557a750",
-      "title": "简-柏金（Jane Birkin）爱马仕手袋拍卖250万欧元",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251205-%E7%AE%80-%E6%9F%8F%E9%87%91-jane-birkin-%E7%88%B1%E9%A9%AC%E4%BB%95%E6%89%8B%E8%A2%8B%E6%8B%8D%E5%8D%96250%E4%B8%87%E6%AC%A7%E5%85%83",
-      "source": "rfi.fr",
-      "published": 1764968027
     },
     {
       "id": "09a2353b9253",
@@ -1402,5 +1402,5 @@
       "published": 1763280720
     }
   ],
-  "build_id": 1765058953
+  "build_id": 1765060696
 }
