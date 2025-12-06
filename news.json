@@ -1,6 +1,41 @@
 {
-  "updated": 1765023464,
+  "updated": 1765026020,
   "items": [
+    {
+      "id": "2425f32b0e6e",
+      "title": "印尼蘇門答臘洪災山崩逾900死　災民冒險求助",
+      "url": "https://money.udn.com/money/story/5599/9186683",
+      "source": "money.udn.com",
+      "published": 1765026044
+    },
+    {
+      "id": "96c2cc094905",
+      "title": "斯里蘭卡氣旋洪災增至607死　官方公布重建補助計畫",
+      "url": "https://money.udn.com/money/story/5599/9186675",
+      "source": "money.udn.com",
+      "published": 1765025106
+    },
+    {
+      "id": "60b11e72846d",
+      "title": "助理費除罪化掀議論 傅崐萁指修法是保障助理：付委後仍可討論調整",
+      "url": "https://udn.com/news/story/6656/9186670",
+      "source": "udn.com",
+      "published": 1765024603
+    },
+    {
+      "id": "361bd539bf5e",
+      "title": "影／地鐵乘客打爆網紅AI眼鏡 網友出於「這原因」大聲叫好",
+      "url": "https://money.udn.com/money/story/5599/9186666",
+      "source": "money.udn.com",
+      "published": 1765024509
+    },
+    {
+      "id": "0e66c538ab08",
+      "title": "2員警執行副總統交通勤務受傷 蕭美琴：十分不捨 已與卓揆前往探視",
+      "url": "https://udn.com/news/story/6656/9186667",
+      "source": "udn.com",
+      "published": 1765024481
+    },
     {
       "id": "59427b900773",
       "title": "涉逾千件詐欺案…小紅書遭封鎖 學者：媒體若無法自律 由他律介入",
@@ -14,6 +49,13 @@
       "url": "https://udn.com/news/story/124652/9186655",
       "source": "udn.com",
       "published": 1765023327
+    },
+    {
+      "id": "094b3015cf36",
+      "title": "美最新国安战略文件 8次提及台湾 批欧洲“文明消亡”",
+      "url": "https://www.dw.com/zh/美最新国安战略文件-8次提及台湾-批欧洲-文明消亡/a-75046115?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1765023240
     },
     {
       "id": "a4d9dd6daf81",
@@ -268,20 +310,6 @@
       "published": 1765010910
     },
     {
-      "id": "357e07fdd9b1",
-      "title": "影／踏上「藍營鐵板」…苗栗媳婦鄭麗文回婆家 點出藍綠最大差異",
-      "url": "https://udn.com/news/story/6656/9186420",
-      "source": "udn.com",
-      "published": 1765010755
-    },
-    {
-      "id": "db4cd58898b4",
-      "title": "新人天價月薪「比部長多」！藍委揭住都中心薪資亂象 花敬群：算法不正確",
-      "url": "https://udn.com/news/story/6656/9186419",
-      "source": "udn.com",
-      "published": 1765010708
-    },
-    {
       "id": "9f2f5e171fe5",
       "title": "2026年世界杯：法国分入强脚如云的小组，对手包括塞内加尔和挪威",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251206-2026%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF-%E6%B3%95%E5%9B%BD%E5%88%86%E5%85%A5%E5%BC%BA%E8%84%9A%E5%A6%82%E4%BA%91%E7%9A%84%E5%B0%8F%E7%BB%84%EF%BC%8C%E5%AF%B9%E6%89%8B%E5%8C%85%E6%8B%AC%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E5%92%8C%E6%8C%AA%E5%A8%81",
@@ -315,27 +343,6 @@
       "url": "https://money.udn.com/money/story/10511/9186356",
       "source": "money.udn.com",
       "published": 1765008036
-    },
-    {
-      "id": "930a12aa0d4e",
-      "title": "美力攻防戰1／Dyson 跨界高端美妝 來場科技豪賭",
-      "url": "https://money.udn.com/money/story/122381/9186311",
-      "source": "money.udn.com",
-      "published": 1765006382
-    },
-    {
-      "id": "03baa97a5c11",
-      "title": "西班牙爆非洲豬瘟疫情 農業部不排除為實驗室外洩",
-      "url": "https://money.udn.com/money/story/5599/9186317",
-      "source": "money.udn.com",
-      "published": 1765006230
-    },
-    {
-      "id": "40b85a592709",
-      "title": "美力攻防戰2／肉毒王者保妥適 吹起市場保衛號角",
-      "url": "https://money.udn.com/money/story/122381/9186308",
-      "source": "money.udn.com",
-      "published": 1765006184
     },
     {
       "id": "de009c55d316",
@@ -1393,14 +1400,7 @@
       "url": "https://www.dw.com/zh/生成式ai打擊民主？唐鳳：公民參與強化民主韌性/a-74700245?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763280120
-    },
-    {
-      "id": "bcaba386003d",
-      "title": "專訪香港導演周冠威：抗爭很痛苦 服從也很痛苦",
-      "url": "https://www.dw.com/zh/專訪香港導演周冠威：抗爭很痛苦-服從也很痛苦/a-74728666?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763087640
     }
   ],
-  "build_id": 1765023464
+  "build_id": 1765026020
 }
