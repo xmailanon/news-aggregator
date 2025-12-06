@@ -1,6 +1,27 @@
 {
-  "updated": 1765044809,
+  "updated": 1765046650,
   "items": [
+    {
+      "id": "4eefcb07f4f2",
+      "title": "美國9月 PCE 年增2.8% 低於預期 Fed 本周降息亮綠燈",
+      "url": "https://money.udn.com/money/story/5599/9186877",
+      "source": "money.udn.com",
+      "published": 1765046709
+    },
+    {
+      "id": "4eda42b420d8",
+      "title": "彭博調查 學者：聯準會明年可能再降兩次",
+      "url": "https://money.udn.com/money/story/5599/9186885",
+      "source": "money.udn.com",
+      "published": 1765046511
+    },
+    {
+      "id": "5324606d09c1",
+      "title": "記憶體瘋漲效應 戴爾、聯想 PC 醞釀漲價",
+      "url": "https://money.udn.com/money/story/5599/9186821",
+      "source": "money.udn.com",
+      "published": 1765045834
+    },
     {
       "id": "09761999098b",
       "title": "OpenAI 反擊傳提前推新模型 CEO 奧特曼聲稱在內部評估中領先對手",
@@ -275,13 +296,6 @@
       "published": 1765030002
     },
     {
-      "id": "66046cfb827a",
-      "title": "土耳其南部巴士撞上爆胎聯結車　乘客7死11傷",
-      "url": "https://money.udn.com/money/story/5599/9186733",
-      "source": "money.udn.com",
-      "published": 1765029635
-    },
-    {
       "id": "48cf7488ff79",
       "title": "德国总理梅尔茨访问以色列：友谊依旧？",
       "url": "https://www.dw.com/zh/德国总理梅尔茨访问以色列：友谊依旧？/a-75046943?maca=chi-rss-chi-all-1127-rdf",
@@ -315,20 +329,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cx23e7k4exjo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765027350
-    },
-    {
-      "id": "a77d7e4f812f",
-      "title": "泰國南部嚴重洪災　駐泰代表藍夏禮赴災區慰問台商",
-      "url": "https://money.udn.com/money/story/5599/9186698",
-      "source": "money.udn.com",
-      "published": 1765027324
-    },
-    {
-      "id": "fdbd4a1e474e",
-      "title": "印度航班大亂機位難求　民航部制訂票價上限",
-      "url": "https://money.udn.com/money/story/5599/9186695",
-      "source": "money.udn.com",
-      "published": 1765027324
     },
     {
       "id": "c358ef676a4a",
@@ -1402,5 +1402,5 @@
       "published": 1763280720
     }
   ],
-  "build_id": 1765044809
+  "build_id": 1765046650
 }
