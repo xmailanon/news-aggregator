@@ -1,6 +1,13 @@
 {
-  "updated": 1765048029,
+  "updated": 1765049502,
   "items": [
+    {
+      "id": "b3cfe2939397",
+      "title": "中國戰機兩度雷達照射日本F-15　日方深夜緊急抗議",
+      "url": "https://money.udn.com/money/story/5599/9186990",
+      "source": "money.udn.com",
+      "published": 1765049456
+    },
     {
       "id": "6460f7b6f67d",
       "title": "降息預期激勵美股紅通通 本周鮑爾談話 市場關注明年利率路徑",
@@ -84,6 +91,20 @@
       "url": "https://money.udn.com/money/story/5599/9186970",
       "source": "money.udn.com",
       "published": 1765041892
+    },
+    {
+      "id": "e6beeb20850a",
+      "title": "角逐台中市長 江啟臣、楊瓊瓔、何欣純三人同台",
+      "url": "https://udn.com/news/story/124652/9186779",
+      "source": "udn.com",
+      "published": 1765038752
+    },
+    {
+      "id": "6b588609d233",
+      "title": "綠營選桃園市長 傳春節後提名人選",
+      "url": "https://udn.com/news/story/124652/9186780",
+      "source": "udn.com",
+      "published": 1765038705
     },
     {
       "id": "1973754780ca",
@@ -261,13 +282,6 @@
       "published": 1765032883
     },
     {
-      "id": "fae7990745a4",
-      "title": "英國想重回核能黃金年代 但面臨諸多關鍵挑戰 最棘手的是這個",
-      "url": "https://money.udn.com/money/story/5599/9186796",
-      "source": "money.udn.com",
-      "published": 1765032805
-    },
-    {
       "id": "a8ac30858b6b",
       "title": "西班牙：非洲猪瘟疫情 不排除为实验室外泄",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251206-%E8%A5%BF%E7%8F%AD%E7%89%99-%E9%9D%9E%E6%B4%B2%E7%8C%AA%E7%98%9F%E7%96%AB%E6%83%85-%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%BA%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%A4%96%E6%B3%84",
@@ -303,25 +317,11 @@
       "published": 1765028700
     },
     {
-      "id": "0deaa9c33ed2",
-      "title": "總統電賀亞太自由婦女協會 盼繼續激發婦女成長潛力",
-      "url": "https://udn.com/news/story/6656/9186715",
-      "source": "udn.com",
-      "published": 1765028426
-    },
-    {
       "id": "850656615ccd",
       "title": "最高法院受理：特朗普“出生公民权”限制令将迎终极裁决",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251206-%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%8F%97%E7%90%86-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%87%BA%E7%94%9F%E5%85%AC%E6%B0%91%E6%9D%83-%E9%99%90%E5%88%B6%E4%BB%A4%E5%B0%86%E8%BF%8E%E7%BB%88%E6%9E%81%E8%A3%81%E5%86%B3",
       "source": "rfi.fr",
       "published": 1765028206
-    },
-    {
-      "id": "ad320b964589",
-      "title": "台船：海鯤艦主機均已裝艦運轉 正調校自動充電功能",
-      "url": "https://udn.com/news/story/10930/9186697",
-      "source": "udn.com",
-      "published": 1765027558
     },
     {
       "id": "89437b202b83",
@@ -1402,5 +1402,5 @@
       "published": 1763280720
     }
   ],
-  "build_id": 1765048029
+  "build_id": 1765049502
 }
