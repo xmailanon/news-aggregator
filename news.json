@@ -1,6 +1,20 @@
 {
-  "updated": 1765062575,
+  "updated": 1765064074,
   "items": [
+    {
+      "id": "3a1d9e3e89e2",
+      "title": "美国普渡大学被指口头施压院系拒收中国等国研究生",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251206-%E7%BE%8E%E5%9B%BD%E6%99%AE%E6%B8%A1%E5%A4%A7%E5%AD%A6%E8%A2%AB%E6%8C%87%E5%8F%A3%E5%A4%B4%E6%96%BD%E5%8E%8B%E9%99%A2%E7%B3%BB%E6%8B%92%E6%94%B6%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%9B%BD%E7%A0%94%E7%A9%B6%E7%94%9F",
+      "source": "rfi.fr",
+      "published": 1765062844
+    },
+    {
+      "id": "f43931148430",
+      "title": "《法兰克福汇报》：马克龙访华：姿态宏大，内容贫乏",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251206-%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E6%B1%87%E6%8A%A5-%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E5%8D%8E-%E5%A7%BF%E6%80%81%E5%AE%8F%E5%A4%A7%EF%BC%8C%E5%86%85%E5%AE%B9%E8%B4%AB%E4%B9%8F",
+      "source": "rfi.fr",
+      "published": 1765062203
+    },
     {
       "id": "062c29ce16fb",
       "title": "美乌3天会谈无明显突破 泽连斯基承诺持续追求和平",
@@ -478,13 +492,6 @@
       "published": 1764982073
     },
     {
-      "id": "cf4b6dc1c079",
-      "title": "法国“圆梦”：新一对大熊猫计划于2027年来到法国",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251206-%E6%B3%95%E5%9B%BD-%E5%9C%86%E6%A2%A6-%EF%BC%8C%E6%96%B0%E4%B8%80%E5%AF%B9%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%AE%A1%E5%88%92%E4%BA%8E2027%E5%B9%B4%E6%9D%A5%E5%88%B0%E6%B3%95%E5%9B%BD",
-      "source": "rfi.fr",
-      "published": 1764979808
-    },
-    {
       "id": "6647927b2652",
       "title": "乌克兰问题：对马克龙，习近平没做任何让步",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251206-%E4%B9%8C%E5%85%8B%E5%85%B0%E9%97%AE%E9%A2%98-%E5%AF%B9%E9%A9%AC%E5%85%8B%E9%BE%99%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%B2%A1%E5%81%9A%E4%BB%BB%E4%BD%95%E8%AE%A9%E6%AD%A5",
@@ -511,13 +518,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251205-%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6-%E4%B8%8D%E8%A6%81%E5%90%91%E5%88%86%E8%A3%82%E8%AE%A9%E6%AD%A5",
       "source": "rfi.fr",
       "published": 1764968835
-    },
-    {
-      "id": "8b0726c47b79",
-      "title": "特朗普获\"国际足联和平奖(FIFA Peace Prize)\"",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251205-%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7-%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96-fifa-peace-prize",
-      "source": "rfi.fr",
-      "published": 1764968704
     },
     {
       "id": "541f7d1f055e",
@@ -1402,5 +1402,5 @@
       "published": 1763280720
     }
   ],
-  "build_id": 1765062575
+  "build_id": 1765064074
 }
