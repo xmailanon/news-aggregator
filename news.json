@@ -1,9 +1,9 @@
 {
-  "updated": 1765039343,
+  "updated": 1765040904,
   "items": [
     {
       "id": "1973754780ca",
-      "title": "陳玉珍提助理費修法 國民黨內釀茶壺風暴",
+      "title": "陳玉珍提助理費修法 國民黨內釀「茶壺風暴」",
       "url": "https://udn.com/news/story/6656/9186921",
       "source": "udn.com",
       "published": 1765037034
@@ -37,9 +37,16 @@
       "published": 1765036889
     },
     {
-      "id": "10c6f94f4269",
-      "title": "歷史上的今天／1954年台中青年從軍代表團 晉謁軍政首長",
-      "url": "https://udn.com/news/story/7314/9186087",
+      "id": "b3ecfa9205d3",
+      "title": "賴總統：留「中華民國」有助團結台灣社會",
+      "url": "https://udn.com/news/story/6656/9186899",
+      "source": "udn.com",
+      "published": 1765036800
+    },
+    {
+      "id": "567ae66323e7",
+      "title": "為副總統執行交管 2警車禍輕重傷",
+      "url": "https://udn.com/news/story/6656/9186893",
       "source": "udn.com",
       "published": 1765036800
     },
@@ -51,16 +58,16 @@
       "published": 1765036800
     },
     {
-      "id": "2d6a071fa85b",
-      "title": "府遺憾 在野黨批假視察、真輔選",
-      "url": "https://udn.com/news/story/6656/9186898",
+      "id": "10c6f94f4269",
+      "title": "歷史上的今天／1954年台中青年從軍代表團 晉謁軍政首長",
+      "url": "https://udn.com/news/story/7314/9186087",
       "source": "udn.com",
       "published": 1765036800
     },
     {
-      "id": "567ae66323e7",
-      "title": "為副總統執行交管 2警車禍輕重傷",
-      "url": "https://udn.com/news/story/6656/9186893",
+      "id": "2d6a071fa85b",
+      "title": "府遺憾 在野黨批假視察、真輔選",
+      "url": "https://udn.com/news/story/6656/9186898",
       "source": "udn.com",
       "published": 1765036800
     },
@@ -79,32 +86,11 @@
       "published": 1765036800
     },
     {
-      "id": "f2aff87d1b43",
-      "title": "陸首在台灣淺灘搜救演練",
-      "url": "https://udn.com/news/story/10930/9186902",
-      "source": "udn.com",
-      "published": 1765036800
-    },
-    {
       "id": "a15affcf8cde",
       "title": "聯合報一周大事11/30~12/06",
       "url": "https://udn.com/news/story/7314/9186789",
       "source": "udn.com",
       "published": 1765036800
-    },
-    {
-      "id": "b3ecfa9205d3",
-      "title": "賴清德：留「中華民國」有助團結",
-      "url": "https://udn.com/news/story/6656/9186899",
-      "source": "udn.com",
-      "published": 1765036800
-    },
-    {
-      "id": "5cee564adecb",
-      "title": "陸首次「台灣淺灘海域搜救演練」 海巡署全程監控",
-      "url": "https://udn.com/news/story/10930/9186890",
-      "source": "udn.com",
-      "published": 1765036359
     },
     {
       "id": "7bf22aee0e9a",
@@ -317,11 +303,25 @@
       "published": 1765025106
     },
     {
+      "id": "60b11e72846d",
+      "title": "助理費除罪化掀議論 傅崐萁指修法是保障助理：付委後仍可討論調整",
+      "url": "https://udn.com/news/story/6656/9186670",
+      "source": "udn.com",
+      "published": 1765024603
+    },
+    {
       "id": "361bd539bf5e",
       "title": "影／地鐵乘客打爆網紅 AI 眼鏡 網友出於「這原因」大聲叫好",
       "url": "https://money.udn.com/money/story/5599/9186666",
       "source": "money.udn.com",
       "published": 1765024509
+    },
+    {
+      "id": "0e66c538ab08",
+      "title": "2員警執行副總統交通勤務受傷 蕭美琴：十分不捨 已與卓揆前往探視",
+      "url": "https://udn.com/news/story/6656/9186667",
+      "source": "udn.com",
+      "published": 1765024481
     },
     {
       "id": "094b3015cf36",
@@ -1402,5 +1402,5 @@
       "published": 1763280720
     }
   ],
-  "build_id": 1765039343
+  "build_id": 1765040904
 }
