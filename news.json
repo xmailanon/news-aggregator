@@ -1,6 +1,20 @@
 {
-  "updated": 1765131241,
+  "updated": 1765133029,
   "items": [
+    {
+      "id": "ced57b11e8bc",
+      "title": "德国N-TV电视台：白宫最新安全战略 – 向欧洲下战书",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251207-%E5%BE%B7%E5%9B%BDn-tv%E7%94%B5%E8%A7%86%E5%8F%B0-%E7%99%BD%E5%AE%AB%E6%9C%80%E6%96%B0%E5%AE%89%E5%85%A8%E6%88%98%E7%95%A5-%E2%80%93-%E5%90%91%E6%AC%A7%E6%B4%B2%E4%B8%8B%E6%88%98%E4%B9%A6",
+      "source": "rfi.fr",
+      "published": 1765132847
+    },
+    {
+      "id": "fb90d520f763",
+      "title": "民主党人士批评特朗普国安战略：削弱美国影响力，助长中国和俄罗斯",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251207-%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E5%A3%AB%E6%89%B9%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%BD%E5%AE%89%E6%88%98%E7%95%A5-%E5%89%8A%E5%BC%B1%E7%BE%8E%E5%9B%BD%E5%BD%B1%E5%93%8D%E5%8A%9B%EF%BC%8C%E5%8A%A9%E9%95%BF%E4%B8%AD%E5%9B%BD%E5%92%8C%E4%BF%84%E7%BD%97%E6%96%AF",
+      "source": "rfi.fr",
+      "published": 1765131859
+    },
     {
       "id": "540d761dba2d",
       "title": "Fed 本周將降息1碼 市場關注提出異議官員人數、政策展望及鮑爾談話",
@@ -135,9 +149,30 @@
       "published": 1765123579
     },
     {
+      "id": "874f487991ed",
+      "title": "賴清德稱沒台獨必要 鄭麗文：請賴主席廢除台獨黨綱",
+      "url": "https://udn.com/news/story/6656/9188137",
+      "source": "udn.com",
+      "published": 1765123200
+    },
+    {
+      "id": "280c2f26ea98",
+      "title": "封鎖小紅書 綠營憂年輕人反感",
+      "url": "https://udn.com/news/story/124671/9188147",
+      "source": "udn.com",
+      "published": 1765123200
+    },
+    {
       "id": "b9825d26565e",
       "title": "李翔宙：川普新版國安戰略 弱化對台承諾",
       "url": "https://udn.com/news/story/10930/9188270",
+      "source": "udn.com",
+      "published": 1765123200
+    },
+    {
+      "id": "77ce5194ee10",
+      "title": "新聞眼／角逐高市長提名 賴瑞隆危機處理失分",
+      "url": "https://udn.com/news/story/124652/9188216",
       "source": "udn.com",
       "published": 1765123200
     },
@@ -163,13 +198,6 @@
       "published": 1765123200
     },
     {
-      "id": "280c2f26ea98",
-      "title": "封鎖小紅書 綠營憂年輕人反感",
-      "url": "https://udn.com/news/story/124671/9188147",
-      "source": "udn.com",
-      "published": 1765123200
-    },
-    {
       "id": "9bef84020351",
       "title": "封鎖小紅書 藍委諷：打詐不彰就禁App",
       "url": "https://udn.com/news/story/124671/9188148",
@@ -184,15 +212,8 @@
       "published": 1765123200
     },
     {
-      "id": "874f487991ed",
-      "title": "賴清德稱沒台獨必要 鄭麗文：請賴主席廢除台獨黨綱",
-      "url": "https://udn.com/news/story/6656/9188137",
-      "source": "udn.com",
-      "published": 1765123200
-    },
-    {
       "id": "3ccc9a290687",
-      "title": "鄭習會「3前提」說藍駁報導純屬捏造",
+      "title": "鄭習會「3前提」說 藍駁報導純屬捏造",
       "url": "https://udn.com/news/story/6656/9188143",
       "source": "udn.com",
       "published": 1765123200
@@ -208,13 +229,6 @@
       "id": "adf653c3fbe1",
       "title": "1.25兆軍購？特別條例草案未提品項 8年恐難達標",
       "url": "https://udn.com/news/story/10930/9188275",
-      "source": "udn.com",
-      "published": 1765123200
-    },
-    {
-      "id": "77ce5194ee10",
-      "title": "新聞眼／角逐高市長提名 危機處理失分",
-      "url": "https://udn.com/news/story/124652/9188216",
       "source": "udn.com",
       "published": 1765123200
     },
@@ -632,25 +646,11 @@
       "published": 1765012536
     },
     {
-      "id": "9d15f3f3d066",
-      "title": "特朗普政权《国家安全保障战略》要求日韩大幅增加军费与美国一起协防台湾",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251206-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E6%9D%83-%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E6%88%98%E7%95%A5-%E8%A6%81%E6%B1%82%E6%97%A5%E9%9F%A9%E5%A4%A7%E5%B9%85%E5%A2%9E%E5%8A%A0%E5%86%9B%E8%B4%B9%E4%B8%8E%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%B5%B7%E5%8D%8F%E9%98%B2%E5%8F%B0%E6%B9%BE",
-      "source": "rfi.fr",
-      "published": 1765011627
-    },
-    {
       "id": "3da1e8bf932e",
       "title": "特朗普明立防止美中因台湾冲突的战略，更鹰还是鸽？",
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251206-%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E7%AB%8B%E9%98%B2%E6%AD%A2%E7%BE%8E%E4%B8%AD%E5%9B%A0%E5%8F%B0%E6%B9%BE%E5%86%B2%E7%AA%81%E7%9A%84%E6%88%98%E7%95%A5%EF%BC%8C%E6%9B%B4%E9%B9%B0%E8%BF%98%E6%98%AF%E9%B8%BD",
       "source": "rfi.fr",
       "published": 1765001811
-    },
-    {
-      "id": "918cd32c748f",
-      "title": "彭博专栏：中国削弱日本软实力的努力将适得其反",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251206-%E5%BD%AD%E5%8D%9A%E4%B8%93%E6%A0%8F-%E4%B8%AD%E5%9B%BD%E5%89%8A%E5%BC%B1%E6%97%A5%E6%9C%AC%E8%BD%AF%E5%AE%9E%E5%8A%9B%E7%9A%84%E5%8A%AA%E5%8A%9B%E5%B0%86%E9%80%82%E5%BE%97%E5%85%B6%E5%8F%8D",
-      "source": "rfi.fr",
-      "published": 1764982073
     },
     {
       "id": "9dd720a134d4",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765131241
+  "build_id": 1765133029
 }
