@@ -1,6 +1,13 @@
 {
-  "updated": 1765147076,
+  "updated": 1765148946,
   "items": [
+    {
+      "id": "b757209783ce",
+      "title": "奈及利亞最大集體綁架案傳百童獲釋　估仍265人遭挾持",
+      "url": "https://money.udn.com/money/story/5599/9188423",
+      "source": "money.udn.com",
+      "published": 1765148448
+    },
     {
       "id": "91640d891c4d",
       "title": "宏都拉斯大選懸而未決　計票48小時未更新民眾不耐升高",
@@ -247,6 +254,13 @@
       "published": 1765123579
     },
     {
+      "id": "ae8c36ffc3b0",
+      "title": "欧盟拟扩大碳边境税征收范围",
+      "url": "https://www.ftchinese.com/story/001108376",
+      "source": "ftchinese.com",
+      "published": 1765123200
+    },
+    {
       "id": "874f487991ed",
       "title": "賴清德稱沒台獨必要 鄭麗文：請賴主席廢除台獨黨綱",
       "url": "https://udn.com/news/story/6656/9188137",
@@ -357,13 +371,6 @@
       "url": "https://money.udn.com/money/story/122381/9187937",
       "source": "money.udn.com",
       "published": 1765120092
-    },
-    {
-      "id": "b50a83e94e1e",
-      "title": "FT 訪調：85%經濟學者認為本周三 Fed 將降息1碼",
-      "url": "https://money.udn.com/money/story/5599/9188172",
-      "source": "money.udn.com",
-      "published": 1765119389
     },
     {
       "id": "5ea7870b0a28",
@@ -873,13 +880,6 @@
       "id": "6b102f65d293",
       "title": "艺术家赵刚：关于“身份”的密室逃脱",
       "url": "https://www.ftchinese.com/story/001108340",
-      "source": "ftchinese.com",
-      "published": 1764864000
-    },
-    {
-      "id": "a9648b4141ce",
-      "title": "中国表示正在“积极”发放稀土通用许可",
-      "url": "https://www.ftchinese.com/story/001108358",
       "source": "ftchinese.com",
       "published": 1764864000
     },
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765147076
+  "build_id": 1765148946
 }
