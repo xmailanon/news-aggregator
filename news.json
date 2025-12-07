@@ -1,40 +1,33 @@
 {
-  "updated": 1765120104,
+  "updated": 1765121621,
   "items": [
+    {
+      "id": "cd8cccb1be89",
+      "title": "尼坦雅胡將會川普　稱加薩和平計畫快進入第二階段",
+      "url": "https://money.udn.com/money/story/10511/9188294",
+      "source": "money.udn.com",
+      "published": 1765121412
+    },
+    {
+      "id": "ae0b828437b5",
+      "title": "烏克蘭媒體：中國秘密購買俄羅斯軍備 為入侵台灣做準備",
+      "url": "https://udn.com/news/story/10930/9188184",
+      "source": "udn.com",
+      "published": 1765121039
+    },
+    {
+      "id": "ee70efcd84d3",
+      "title": "美國防部長赫塞斯：無意改變台灣現狀",
+      "url": "https://udn.com/news/story/6656/9188237",
+      "source": "udn.com",
+      "published": 1765121036
+    },
     {
       "id": "c819eea8666a",
       "title": "美中角力 台灣正走在臨界點",
       "url": "https://money.udn.com/money/story/122381/9187937",
       "source": "money.udn.com",
       "published": 1765120092
-    },
-    {
-      "id": "98806dc0279b",
-      "title": "UCC上路滿月3／明年春節9天假 不讓患者睡急診過年 衛福部全面備戰",
-      "url": "https://udn.com/news/story/7314/9188193",
-      "source": "udn.com",
-      "published": 1765119930
-    },
-    {
-      "id": "28c62fca1a2c",
-      "title": "UCC上路滿月4／UCC值班醫護盼替急診分流 患者真誠回饋：還好有這裡",
-      "url": "https://udn.com/news/story/7314/9188197",
-      "source": "udn.com",
-      "published": 1765119927
-    },
-    {
-      "id": "1ddb7ade03ee",
-      "title": "UCC上路滿月1／每收治一名患者成本近1.5萬元 專家：這是為未來準備",
-      "url": "https://udn.com/news/story/7314/9188188",
-      "source": "udn.com",
-      "published": 1765119884
-    },
-    {
-      "id": "fdbb10740539",
-      "title": "UCC上路滿月2／耶誕節、跨年、春節將至 專家：UCC部署與宣導不能再拖",
-      "url": "https://udn.com/news/story/7314/9188190",
-      "source": "udn.com",
-      "published": 1765119883
     },
     {
       "id": "b50a83e94e1e",
@@ -296,13 +289,6 @@
       "published": 1765106907
     },
     {
-      "id": "ce9b58683ceb",
-      "title": "蘋果接連遭遇高管離職 自研晶片戰略關鍵人物可能成為下一位離任者",
-      "url": "https://money.udn.com/money/story/5599/9186981",
-      "source": "money.udn.com",
-      "published": 1765106889
-    },
-    {
       "id": "8a5c4e70ae0f",
       "title": "墙外文摘：高市早苗戳破了习近平的台湾泡泡",
       "url": "https://www.dw.com/zh/墙外文摘：高市早苗戳破了习近平的台湾泡泡/a-75050703?maca=chi-rss-chi-all-1127-rdf",
@@ -399,6 +385,20 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251207-%E6%B8%AF%E5%BA%9C%E4%BB%8A%E5%86%8D%E6%8B%984%E7%94%B7-%E6%8C%87%E6%B6%89%E7%85%BD%E6%83%91%E4%BB%96%E4%BA%BA%E4%B8%8D%E6%8A%95%E7%A5%A8-%E9%80%89%E4%B8%BE%E6%9C%9F%E9%97%B4%E5%85%B1%E6%8B%9811%E4%BA%BA",
       "source": "rfi.fr",
       "published": 1765097246
+    },
+    {
+      "id": "5511b9396ce4",
+      "title": "行政院不願執行財劃法 學者難以認同",
+      "url": "https://udn.com/news/story/124401/9187747",
+      "source": "udn.com",
+      "published": 1765096936
+    },
+    {
+      "id": "65f80605e50b",
+      "title": "內委會10日審宗教基本法 立院法制局：促進多元和諧",
+      "url": "https://udn.com/news/story/6656/9187752",
+      "source": "udn.com",
+      "published": 1765096780
     },
     {
       "id": "4fa440e0f1c8",
@@ -1395,12 +1395,12 @@
       "published": 1763281320
     },
     {
-      "id": "1725f5d72fdd",
-      "title": "谷歌扩建德国数据中心：让人欢喜让人忧？",
-      "url": "https://www.dw.com/zh/谷歌扩建德国数据中心：让人欢喜让人忧？/a-74752676?maca=chi-rss-chi-all-1127-rdf",
+      "id": "2221cae968a3",
+      "title": "生成式AI打擊民主？唐鳳：公民參與強化民主韌性",
+      "url": "https://www.dw.com/zh/生成式ai打擊民主？唐鳳：公民參與強化民主韌性/a-74700245?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
-      "published": 1763280720
+      "published": 1763280120
     }
   ],
-  "build_id": 1765120104
+  "build_id": 1765121621
 }
