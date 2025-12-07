@@ -1,6 +1,13 @@
 {
-  "updated": 1765133029,
+  "updated": 1765134438,
   "items": [
+    {
+      "id": "a329cc1dce51",
+      "title": "乌克兰：普京、特朗普与中国之间那笔不可能的交易",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251207-%E4%B9%8C%E5%85%8B%E5%85%B0-%E6%99%AE%E4%BA%AC-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B8%AD%E5%9B%BD%E4%B9%8B%E9%97%B4%E9%82%A3%E7%AC%94%E4%B8%8D%E5%8F%AF%E8%83%BD%E7%9A%84%E4%BA%A4%E6%98%93",
+      "source": "rfi.fr",
+      "published": 1765133952
+    },
     {
       "id": "ced57b11e8bc",
       "title": "德国N-TV电视台：白宫最新安全战略 – 向欧洲下战书",
@@ -283,7 +290,7 @@
     },
     {
       "id": "5ea7870b0a28",
-      "title": "不再被称“直接威胁”！克里姆林宫欢迎美新安全战略：“总体符合”俄视角",
+      "title": "不再被称为“直接威胁”！克里姆林宫欢迎美新安全战略：“总体符合”俄视角",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251207-%E4%B8%8D%E5%86%8D%E8%A2%AB%E7%A7%B0-%E7%9B%B4%E6%8E%A5%E5%A8%81%E8%83%81-%E5%85%8B%E9%87%8C%E5%A7%86%E6%9E%97%E5%AE%AB%E6%AC%A2%E8%BF%8E%E7%BE%8E%E6%96%B0%E5%AE%89%E5%85%A8%E6%88%98%E7%95%A5-%E6%80%BB%E4%BD%93%E7%AC%A6%E5%90%88-%E4%BF%84%E8%A7%86%E8%A7%92",
       "source": "rfi.fr",
       "published": 1765118423
@@ -630,13 +637,6 @@
       "url": "https://www.dw.com/zh/美最新国安战略文件-8次提及台湾-批欧洲-文明消亡/a-75046115?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765023240
-    },
-    {
-      "id": "a4d9dd6daf81",
-      "title": "香港致命火灾的背后，承包商安全违规与居民的抗议",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251206-%E9%A6%99%E6%B8%AF%E8%87%B4%E5%91%BD%E7%81%AB%E7%81%BE%E5%8F%91%E7%94%9F%E5%9C%A8%E6%89%BF%E5%8C%85%E5%95%86%E8%BF%9D%E5%8F%8D%E5%AE%89%E5%85%A8%E8%A7%84%E5%AE%9A%E5%92%8C%E5%B1%85%E6%B0%91%E6%8A%97%E8%AE%AE%E4%B9%8B%E5%90%8E",
-      "source": "rfi.fr",
-      "published": 1765022446
     },
     {
       "id": "fe994935dd5d",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765133029
+  "build_id": 1765134438
 }
