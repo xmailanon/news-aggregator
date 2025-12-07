@@ -1,5 +1,5 @@
 {
-  "updated": 1765135917,
+  "updated": 1765138229,
   "items": [
     {
       "id": "31372b6eb50d",
@@ -247,6 +247,13 @@
       "published": 1765123200
     },
     {
+      "id": "007e8f9b8641",
+      "title": "兒涉霸凌將轉學 賴瑞隆哽咽致歉",
+      "url": "https://udn.com/news/story/124652/9188212",
+      "source": "udn.com",
+      "published": 1765123200
+    },
+    {
       "id": "1e418d528718",
       "title": "新聞眼／巨額軍事預算不透明 如何把關",
       "url": "https://udn.com/news/story/10930/9188277",
@@ -287,13 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9188172",
       "source": "money.udn.com",
       "published": 1765119389
-    },
-    {
-      "id": "ce1d3ef55b97",
-      "title": "前總統蔡英文：確保台灣能源安全 光電政策需邁向2.0",
-      "url": "https://udn.com/news/story/6656/9188162",
-      "source": "udn.com",
-      "published": 1765118924
     },
     {
       "id": "5ea7870b0a28",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765135917
+  "build_id": 1765138229
 }
