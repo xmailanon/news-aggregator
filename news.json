@@ -1,6 +1,13 @@
 {
-  "updated": 1765089962,
+  "updated": 1765091400,
   "items": [
+    {
+      "id": "44985e73cc2c",
+      "title": "金融時報：日中關係緊張  東京盼美國公開表態支持",
+      "url": "https://money.udn.com/money/story/10511/9187633",
+      "source": "money.udn.com",
+      "published": 1765090453
+    },
     {
       "id": "664283f721ea",
       "title": "丹麥出售F-16交付阿根廷　首批6架戰機低空飛越首都",
@@ -280,13 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/9187225",
       "source": "money.udn.com",
       "published": 1765075530
-    },
-    {
-      "id": "115c48492ae1",
-      "title": "公民團體闖倫敦塔　朝王室珠寶展示櫃丟甜點4人被捕",
-      "url": "https://money.udn.com/money/story/5599/9187165",
-      "source": "money.udn.com",
-      "published": 1765073547
     },
     {
       "id": "f6b5170d09b4",
@@ -1402,5 +1402,5 @@
       "published": 1763280720
     }
   ],
-  "build_id": 1765089962
+  "build_id": 1765091400
 }
