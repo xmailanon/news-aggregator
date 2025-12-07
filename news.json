@@ -1,6 +1,20 @@
 {
-  "updated": 1765139886,
+  "updated": 1765141694,
   "items": [
+    {
+      "id": "cf190a5f6801",
+      "title": "貝南爆未遂政變　總統宣示穩定西非部隊展開部署",
+      "url": "https://money.udn.com/money/story/5599/9188387",
+      "source": "money.udn.com",
+      "published": 1765141239
+    },
+    {
+      "id": "f01b398e26e8",
+      "title": "中国秘密购买俄罗斯军备以提高入侵台湾战力",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251207-%E4%B8%AD%E5%9B%BD%E7%A7%98%E5%AF%86%E8%B4%AD%E4%B9%B0%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%9B%E5%A4%87%E4%BB%A5%E6%8F%90%E9%AB%98%E5%85%A5%E4%BE%B5%E5%8F%B0%E6%B9%BE%E6%88%98%E5%8A%9B",
+      "source": "rfi.fr",
+      "published": 1765141004
+    },
     {
       "id": "92a3319178d1",
       "title": "宏都拉斯總統選情仍膠著　小鎮延後投票成舉國焦點",
@@ -345,13 +359,6 @@
       "published": 1765116374
     },
     {
-      "id": "27fb97bbc333",
-      "title": "日方召見中國大使抗議雷達照射  高市早苗：將冷靜應對",
-      "url": "https://money.udn.com/money/story/5599/9188113",
-      "source": "money.udn.com",
-      "published": 1765116373
-    },
-    {
       "id": "179764d48f7d",
       "title": "比网上更贵，选择更少：希音实体门店转型之路艰难",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251207-%E6%AF%94%E7%BD%91%E4%B8%8A%E6%9B%B4%E8%B4%B5%EF%BC%8C%E9%80%89%E6%8B%A9%E6%9B%B4%E5%B0%91-%E5%B8%8C%E9%9F%B3%E5%AE%9E%E4%BD%93%E9%97%A8%E5%BA%97%E8%BD%AC%E5%9E%8B%E4%B9%8B%E8%B7%AF%E8%89%B0%E9%9A%BE",
@@ -644,13 +651,6 @@
       "url": "https://www.dw.com/zh/美最新国安战略文件-8次提及台湾-批欧洲-文明消亡/a-75046115?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765023240
-    },
-    {
-      "id": "3da1e8bf932e",
-      "title": "特朗普明立防止美中因台湾冲突的战略，更鹰还是鸽？",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251206-%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%8E%E7%AB%8B%E9%98%B2%E6%AD%A2%E7%BE%8E%E4%B8%AD%E5%9B%A0%E5%8F%B0%E6%B9%BE%E5%86%B2%E7%AA%81%E7%9A%84%E6%88%98%E7%95%A5%EF%BC%8C%E6%9B%B4%E9%B9%B0%E8%BF%98%E6%98%AF%E9%B8%BD",
-      "source": "rfi.fr",
-      "published": 1765001811
     },
     {
       "id": "9dd720a134d4",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765139886
+  "build_id": 1765141694
 }
