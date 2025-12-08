@@ -1,6 +1,41 @@
 {
-  "updated": 1765205055,
+  "updated": 1765206720,
   "items": [
+    {
+      "id": "245029303094",
+      "title": "退輔會頒發清寒榮民子女獎助學金 嚴德發勉學子未來回饋社會",
+      "url": "https://udn.com/news/story/6656/9190476",
+      "source": "udn.com",
+      "published": 1765206170
+    },
+    {
+      "id": "9c85c4767d91",
+      "title": "川普喊買格陵蘭惹議　美駐丹麥大使霍爾里首訪當地",
+      "url": "https://money.udn.com/money/story/10511/9190428",
+      "source": "money.udn.com",
+      "published": 1765205712
+    },
+    {
+      "id": "d1457c696679",
+      "title": "日本青森縣外海7.6地震 發布海嘯警報",
+      "url": "https://money.udn.com/money/story/5599/9190427",
+      "source": "money.udn.com",
+      "published": 1765205709
+    },
+    {
+      "id": "f9bacd42998a",
+      "title": "德语媒体：欧洲正在为对华依赖付出高昂代价",
+      "url": "https://www.dw.com/zh/德语媒体：欧洲正在为对华依赖付出高昂代价/a-75065771?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1765205580
+    },
+    {
+      "id": "c09d8ce5b2ad",
+      "title": "美股早盤／川普將簽署命令 限制各州監管 AI 科技股飆",
+      "url": "https://money.udn.com/money/story/123398/9190410",
+      "source": "money.udn.com",
+      "published": 1765205362
+    },
     {
       "id": "faca712e080f",
       "title": "日本氣象廳：青森縣外海發生規模7.6地震",
@@ -170,13 +205,6 @@
       "published": 1765197957
     },
     {
-      "id": "9d470f885681",
-      "title": "烏東領土讓渡問題未解　澤倫斯基：和平方案磋商仍分歧",
-      "url": "https://money.udn.com/money/story/5599/9190270",
-      "source": "money.udn.com",
-      "published": 1765197955
-    },
-    {
       "id": "2a86f70f5917",
       "title": "【重磅快評】護航綠電2.0 蔡英文喊話「賴想想」？",
       "url": "https://udn.com/news/story/6656/9190268",
@@ -198,25 +226,11 @@
       "published": 1765197600
     },
     {
-      "id": "063c1174ce81",
-      "title": "韓國將把總統府遷回青瓦台 藉以抹去尹錫悅的遺產",
-      "url": "https://money.udn.com/money/story/5599/9189487",
-      "source": "money.udn.com",
-      "published": 1765197552
-    },
-    {
       "id": "6fbfa7c68ad6",
       "title": "防詐超前部署！小紅書暫限一年 馬士元提「1特別詐騙型態」",
       "url": "https://udn.com/news/story/124671/9190090",
       "source": "udn.com",
       "published": 1765197395
-    },
-    {
-      "id": "62695690c983",
-      "title": "奈及利亞警方發現多具腐屍　疑涉及非法摘除器官",
-      "url": "https://money.udn.com/money/story/5599/9190250",
-      "source": "money.udn.com",
-      "published": 1765197009
     },
     {
       "id": "d2a16184e14b",
@@ -427,13 +441,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cvgj3g7z08po/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765179291
-    },
-    {
-      "id": "f8cf45f8535f",
-      "title": "石崇良高喊改革醫美 鐵腕整頓遇反彈就變花拳繡腿",
-      "url": "https://udn.com/news/story/6656/9189503",
-      "source": "udn.com",
-      "published": 1765177491
     },
     {
       "id": "68804f399900",
@@ -737,13 +744,6 @@
       "published": 1765098444
     },
     {
-      "id": "8633705ee7bb",
-      "title": "阿伦特在中国：思考作为精神的家园",
-      "url": "https://www.dw.com/zh/阿伦特在中国：思考作为精神的家园/a-75033730?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765095900
-    },
-    {
       "id": "bad66d7e05f5",
       "title": "从波罗的海到太平洋：海底电缆安全受威胁",
       "url": "https://www.dw.com/zh/从波罗的海到太平洋：海底电缆安全受威胁/a-74989171?maca=chi-rss-chi-all-1127-rdf",
@@ -751,16 +751,23 @@
       "published": 1765095900
     },
     {
-      "id": "9fadb63c40b6",
-      "title": "为什么基辅的学生仍然说俄语？",
-      "url": "https://www.dw.com/zh/为什么基辅的学生仍然说俄语？/a-74972352?maca=chi-rss-chi-all-1127-rdf",
+      "id": "8633705ee7bb",
+      "title": "阿伦特在中国：思考作为精神的家园",
+      "url": "https://www.dw.com/zh/阿伦特在中国：思考作为精神的家园/a-75033730?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
-      "published": 1765095840
+      "published": 1765095900
     },
     {
       "id": "ababaeec77cf",
       "title": "伊朗上调油价 涨幅高达“两美分”",
       "url": "https://www.dw.com/zh/伊朗上调油价-涨幅高达-两美分/a-74997897?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1765095840
+    },
+    {
+      "id": "9fadb63c40b6",
+      "title": "为什么基辅的学生仍然说俄语？",
+      "url": "https://www.dw.com/zh/为什么基辅的学生仍然说俄语？/a-74972352?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095840
     },
@@ -1262,13 +1269,6 @@
       "published": 1764401640
     },
     {
-      "id": "bc9283696ff0",
-      "title": "德语媒体：从污染大国到绿色革命的引领者",
-      "url": "https://www.dw.com/zh/德语媒体：从污染大国到绿色革命的引领者/a-74944530?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1764343560
-    },
-    {
       "id": "74b8ee2009e2",
       "title": "香港宏福苑大火 竹制棚架惹的祸？",
       "url": "https://www.dw.com/zh/香港宏福苑大火-竹制棚架惹的祸？/a-74924017?maca=chi-rss-chi-news-3224-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1763546602
     }
   ],
-  "build_id": 1765205055
+  "build_id": 1765206720
 }
