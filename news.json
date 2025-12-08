@@ -1,6 +1,13 @@
 {
-  "updated": 1765219768,
+  "updated": 1765220937,
   "items": [
+    {
+      "id": "1e7d82ac625f",
+      "title": "派拉蒙高價現金出手　Netflix併購華納未定",
+      "url": "https://money.udn.com/money/story/5599/9190714",
+      "source": "money.udn.com",
+      "published": 1765220789
+    },
     {
       "id": "dd17dce7ab4e",
       "title": "法国将一副7000万年近乎完整的暴龙近亲骨架归还蒙古",
@@ -315,13 +322,6 @@
       "url": "https://money.udn.com/money/story/5599/9190428",
       "source": "money.udn.com",
       "published": 1765205712
-    },
-    {
-      "id": "d1457c696679",
-      "title": "日本青森縣外海7.6地震 發布海嘯警報",
-      "url": "https://money.udn.com/money/story/5599/9190427",
-      "source": "money.udn.com",
-      "published": 1765205709
     },
     {
       "id": "f9bacd42998a",
@@ -1402,5 +1402,5 @@
       "published": 1763281320
     }
   ],
-  "build_id": 1765219768
+  "build_id": 1765220937
 }
