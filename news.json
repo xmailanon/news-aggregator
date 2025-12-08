@@ -1,6 +1,20 @@
 {
-  "updated": 1765233600,
+  "updated": 1765235398,
   "items": [
+    {
+      "id": "5f83fbc8c742",
+      "title": "川普：符合國安條件下 允許輝達對中出口H200晶片",
+      "url": "https://money.udn.com/money/story/10511/9190784",
+      "source": "money.udn.com",
+      "published": 1765234849
+    },
+    {
+      "id": "6e676c54de33",
+      "title": "美国国安新战略为何把矛头对准欧洲放过中俄？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251208-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%89%E6%96%B0%E6%88%98%E7%95%A5%E4%B8%BA%E4%BD%95%E6%8A%8A%E7%9F%9B%E5%A4%B4%E5%AF%B9%E5%87%86%E6%AC%A7%E6%B4%B2%E6%94%BE%E8%BF%87%E4%B8%AD%E4%BF%84",
+      "source": "rfi.fr",
+      "published": 1765234118
+    },
     {
       "id": "77a357f20721",
       "title": "泰柬边境冲突升级：中国制火箭炮被指引爆新一轮紧张",
@@ -219,13 +233,6 @@
       "published": 1765217136
     },
     {
-      "id": "71376d1f4e9c",
-      "title": "股市泡沫論 沒嚇跑投資人",
-      "url": "https://money.udn.com/money/story/123398/9190551",
-      "source": "money.udn.com",
-      "published": 1765216995
-    },
-    {
       "id": "c847844d8408",
       "title": "氣候變遷委員會 「核電復興」大論戰",
       "url": "https://udn.com/news/story/124674/9190649",
@@ -343,6 +350,27 @@
       "url": "https://udn.com/news/story/10930/9190565",
       "source": "udn.com",
       "published": 1765209607
+    },
+    {
+      "id": "4462e0d32ee1",
+      "title": "如何看待黄金投资逻辑？",
+      "url": "https://www.ftchinese.com/story/001108373",
+      "source": "ftchinese.com",
+      "published": 1765209600
+    },
+    {
+      "id": "075980e8d6f4",
+      "title": "在新闻发布会都几近绝迹的今天，为啥公司还要去展会？",
+      "url": "https://www.ftchinese.com/story/001108372",
+      "source": "ftchinese.com",
+      "published": 1765209600
+    },
+    {
+      "id": "f1be8c595e63",
+      "title": "被低估的以太坊Fusaka升级：扩容、降费、从通胀到通缩",
+      "url": "https://www.ftchinese.com/story/001108386",
+      "source": "ftchinese.com",
+      "published": 1765209600
     },
     {
       "id": "f523707d01da",
@@ -595,13 +623,6 @@
       "url": "https://cn.nytimes.com/china/20251208/hong-kong-fire-media-national-security/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1765155219
-    },
-    {
-      "id": "3699ca31456a",
-      "title": "希思罗机场（Heathrow）停车场发生抢劫案   21人需救治",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251207-%E5%B8%8C%E6%80%9D%E7%BD%97%E6%9C%BA%E5%9C%BA-heathrow-%E5%81%9C%E8%BD%A6%E5%9C%BA%E5%8F%91%E7%94%9F%E6%8A%A2%E5%8A%AB%E6%A1%88-21%E4%BA%BA%E9%9C%80%E6%95%91%E6%B2%BB",
-      "source": "rfi.fr",
-      "published": 1765141891
     },
     {
       "id": "115dbff72959",
@@ -971,27 +992,6 @@
       "id": "87ec6d04a2a0",
       "title": "天文数字般的CEO薪酬意义何在？",
       "url": "https://www.ftchinese.com/story/001108365",
-      "source": "ftchinese.com",
-      "published": 1764864000
-    },
-    {
-      "id": "e3bcb4efb2f0",
-      "title": "摩尔线程上市首日暴涨4倍",
-      "url": "https://www.ftchinese.com/story/001108364",
-      "source": "ftchinese.com",
-      "published": 1764864000
-    },
-    {
-      "id": "c61063cf0df1",
-      "title": "特朗普2.0：美国衰退叙事为何与制度现实不一致",
-      "url": "https://www.ftchinese.com/story/001108361",
-      "source": "ftchinese.com",
-      "published": 1764864000
-    },
-    {
-      "id": "6ea8c50c6e87",
-      "title": "美国在AI竞赛中是否存在战略失误？",
-      "url": "https://www.ftchinese.com/story/001108363",
       "source": "ftchinese.com",
       "published": 1764864000
     },
@@ -1402,5 +1402,5 @@
       "published": 1763281320
     }
   ],
-  "build_id": 1765233600
+  "build_id": 1765235398
 }
