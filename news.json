@@ -1,6 +1,27 @@
 {
-  "updated": 1765208435,
+  "updated": 1765210438,
   "items": [
+    {
+      "id": "42638ce90a50",
+      "title": "前加拿大情報局長：西方大學遭間諜鎖定　中國以產業規模竊新科技",
+      "url": "https://money.udn.com/money/story/5599/9190615",
+      "source": "money.udn.com",
+      "published": 1765209273
+    },
+    {
+      "id": "d4e910c974e3",
+      "title": "日本青森縣發生強震 周邊核電廠與核設施未受影響",
+      "url": "https://money.udn.com/money/story/5599/9190613",
+      "source": "money.udn.com",
+      "published": 1765209273
+    },
+    {
+      "id": "a8699f3bb12d",
+      "title": "特朗普强推乌战和平方案，欧洲领导人与泽连斯基伦敦商讨对策",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251208-%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E6%8E%A8%E4%B9%8C%E6%88%98%E5%92%8C%E5%B9%B3%E6%96%B9%E6%A1%88%EF%BC%8C%E6%AC%A7%E6%B4%B2%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BC%A6%E6%95%A6%E5%95%86%E8%AE%A8%E5%AF%B9%E7%AD%96",
+      "source": "rfi.fr",
+      "published": 1765209245
+    },
     {
       "id": "c397de93b7bc",
       "title": "贝宁政变未遂后：西非国家经济共同体宣布部署部队",
@@ -189,20 +210,6 @@
       "url": "https://money.udn.com/money/story/123398/9189007",
       "source": "money.udn.com",
       "published": 1765199565
-    },
-    {
-      "id": "4e86bde883d4",
-      "title": "美新國安戰略報告痛批歐洲政策　歐盟理事會主席反對干涉",
-      "url": "https://money.udn.com/money/story/5599/9190287",
-      "source": "money.udn.com",
-      "published": 1765198833
-    },
-    {
-      "id": "a18c371852d1",
-      "title": "被指責因海外炒股拖累韓元貶值 韓國散戶憤怒不已",
-      "url": "https://money.udn.com/money/story/5599/9189166",
-      "source": "money.udn.com",
-      "published": 1765198786
     },
     {
       "id": "d21574748110",
@@ -723,13 +730,6 @@
       "published": 1765109117
     },
     {
-      "id": "6ecfd163ed83",
-      "title": "德国外长瓦德富尔明天访华",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251207-%E5%BE%B7%E5%9B%BD%E5%A4%96%E9%95%BF%E7%93%A6%E5%BE%B7%E5%AF%8C%E5%B0%94%E6%98%8E%E5%A4%A9%E8%AE%BF%E5%8D%8E",
-      "source": "rfi.fr",
-      "published": 1765109105
-    },
-    {
       "id": "8a5c4e70ae0f",
       "title": "墙外文摘：高市早苗戳破了习近平的台湾泡泡",
       "url": "https://www.dw.com/zh/墙外文摘：高市早苗戳破了习近平的台湾泡泡/a-75050703?maca=chi-rss-chi-all-1127-rdf",
@@ -805,13 +805,6 @@
       "url": "https://www.ftchinese.com/story/001108370",
       "source": "ftchinese.com",
       "published": 1765036800
-    },
-    {
-      "id": "a74f615e13f6",
-      "title": "驻港国安公署约谈境外媒体：“以灾乱港”，绝不姑息",
-      "url": "https://www.dw.com/zh/驻港国安公署约谈境外媒体：-以灾乱港-，绝不姑息/a-75047105?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765033740
     },
     {
       "id": "89437b202b83",
@@ -1400,7 +1393,14 @@
       "url": "https://www.bbc.com/zhongwen/articles/c9wv954kv2po/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1763511694
+    },
+    {
+      "id": "fee20aedafad",
+      "title": "少林寺原住持释永信被正式批捕",
+      "url": "https://www.dw.com/zh/少林寺原住持释永信被正式批捕/a-74763863?maca=chi-rss-chi-news-3224-rdf",
+      "source": "dw.com",
+      "published": 1763294340
     }
   ],
-  "build_id": 1765208435
+  "build_id": 1765210438
 }
