@@ -1,6 +1,27 @@
 {
-  "updated": 1765235398,
+  "updated": 1765237004,
   "items": [
+    {
+      "id": "70a13d3e6681",
+      "title": "台積電ADR勁揚逾2% 日月光大漲超過3%",
+      "url": "https://money.udn.com/money/story/123398/9190797",
+      "source": "money.udn.com",
+      "published": 1765236729
+    },
+    {
+      "id": "badeaf569ab1",
+      "title": "輝達 H200 可銷中！美政府分潤25% 相關規定也適用於 AMD 與英特爾",
+      "url": "https://money.udn.com/money/story/5599/9190790",
+      "source": "money.udn.com",
+      "published": 1765236080
+    },
+    {
+      "id": "344289e4f07e",
+      "title": "美股收盤／標普500小跌 科技股撐盤 輝達盤後大漲2%迎 H200 解禁利多",
+      "url": "https://money.udn.com/money/story/123398/9190792",
+      "source": "money.udn.com",
+      "published": 1765236077
+    },
     {
       "id": "5f83fbc8c742",
       "title": "川普：符合國安條件下 允許輝達對中出口H200晶片",
@@ -210,27 +231,6 @@
       "url": "https://money.udn.com/money/story/5599/9190489",
       "source": "money.udn.com",
       "published": 1765217556
-    },
-    {
-      "id": "7c1673db32cd",
-      "title": "韓散戶買美股 波及匯價",
-      "url": "https://money.udn.com/money/story/5599/9190490",
-      "source": "money.udn.com",
-      "published": 1765217499
-    },
-    {
-      "id": "95088870da28",
-      "title": "美網路券商併印尼同業",
-      "url": "https://money.udn.com/money/story/5599/9190492",
-      "source": "money.udn.com",
-      "published": 1765217476
-    },
-    {
-      "id": "9ac4222996d3",
-      "title": "Fed 決策、美債殖利率脫鉤 專家：債市對川普看法不買帳",
-      "url": "https://money.udn.com/money/story/5599/9190535",
-      "source": "money.udn.com",
-      "published": 1765217136
     },
     {
       "id": "c847844d8408",
@@ -1402,5 +1402,5 @@
       "published": 1763281320
     }
   ],
-  "build_id": 1765235398
+  "build_id": 1765237004
 }
