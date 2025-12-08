@@ -1,6 +1,20 @@
 {
-  "updated": 1765228176,
+  "updated": 1765229664,
   "items": [
+    {
+      "id": "c053cd9d2a2a",
+      "title": "宏都拉斯有望政黨輪替 會與台恢復邦交？謝金河看大選：川普重塑世界新秩序",
+      "url": "https://udn.com/news/story/6656/9189520",
+      "source": "udn.com",
+      "published": 1765228245
+    },
+    {
+      "id": "f28dcee08dff",
+      "title": "傳美國準備放行H200出口中國　輝達股價聞訊漲逾2%",
+      "url": "https://money.udn.com/money/story/10511/9190742",
+      "source": "money.udn.com",
+      "published": 1765227277
+    },
     {
       "id": "2396e2e2538c",
       "title": "日本青森外海7.5強震深夜來襲　民眾寒冬中驚恐避難",
@@ -56,6 +70,13 @@
       "url": "https://money.udn.com/money/story/5599/9190537",
       "source": "money.udn.com",
       "published": 1765217747
+    },
+    {
+      "id": "424d95a83814",
+      "title": "川普發動貿易戰效應…陸、韓供應商占比減至五成",
+      "url": "https://money.udn.com/money/story/5599/9190545",
+      "source": "money.udn.com",
+      "published": 1765217717
     },
     {
       "id": "a5d661f99360",
@@ -275,13 +296,6 @@
       "published": 1765209600
     },
     {
-      "id": "14788d033711",
-      "title": "美國防授權法「台灣安全合作倡議」 調高至10億美元",
-      "url": "https://udn.com/news/story/10930/9190562",
-      "source": "udn.com",
-      "published": 1765209585
-    },
-    {
       "id": "d4e910c974e3",
       "title": "日本青森縣發生強震 周邊核電廠與核設施未受影響",
       "url": "https://money.udn.com/money/story/5599/9190613",
@@ -308,20 +322,6 @@
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251208-%E8%B4%9D%E5%AE%81%E6%94%BF%E5%8F%98%E6%9C%AA%E9%81%82%E5%90%8E-%E8%A5%BF%E9%9D%9E%E5%9B%BD%E5%AE%B6%E7%BB%8F%E6%B5%8E%E5%85%B1%E5%90%8C%E4%BD%93%E5%AE%A3%E5%B8%83%E9%83%A8%E7%BD%B2%E9%83%A8%E9%98%9F",
       "source": "rfi.fr",
       "published": 1765208042
-    },
-    {
-      "id": "d8f1330cb435",
-      "title": "日本青森縣外海7.6地震　第一波海嘯抵達",
-      "url": "https://money.udn.com/money/story/5599/9190587",
-      "source": "money.udn.com",
-      "published": 1765207812
-    },
-    {
-      "id": "8f6a4352bae1",
-      "title": "日本青森縣外海地震 首相高市早苗坐鎮官邸",
-      "url": "https://money.udn.com/money/story/5599/9190575",
-      "source": "money.udn.com",
-      "published": 1765207612
     },
     {
       "id": "f9bacd42998a",
@@ -1402,5 +1402,5 @@
       "published": 1763281320
     }
   ],
-  "build_id": 1765228176
+  "build_id": 1765229664
 }
