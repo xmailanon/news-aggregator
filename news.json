@@ -1,6 +1,34 @@
 {
-  "updated": 1765264411,
+  "updated": 1765265975,
   "items": [
+    {
+      "id": "244d9481337b",
+      "title": "荷蘭節目：ASML至少1客戶與中國軍方有關聯",
+      "url": "https://money.udn.com/money/story/5599/9192007",
+      "source": "money.udn.com",
+      "published": 1765265503
+    },
+    {
+      "id": "46796e4213f3",
+      "title": "川普放行H200重點一次看！黃仁勳提前過耶誕 但大陸市場未必復活？",
+      "url": "https://money.udn.com/money/story/5599/9191994",
+      "source": "money.udn.com",
+      "published": 1765265402
+    },
+    {
+      "id": "ed428d30c7c3",
+      "title": "中國人在日本暴力案件頻傳  少年偷啤酒刺傷店員",
+      "url": "https://money.udn.com/money/story/5599/9191978",
+      "source": "money.udn.com",
+      "published": 1765264982
+    },
+    {
+      "id": "39982e33ee72",
+      "title": "台灣援贈急救設備　強化斐濟到院前緊急救護",
+      "url": "https://money.udn.com/money/story/5599/9191980",
+      "source": "money.udn.com",
+      "published": 1765264981
+    },
     {
       "id": "43fc8000c01d",
       "title": "澳洲16歲社群禁令將上路　Reddit：不合理但會遵守",
@@ -112,34 +140,6 @@
       "url": "https://money.udn.com/money/story/5599/9191785",
       "source": "money.udn.com",
       "published": 1765260731
-    },
-    {
-      "id": "60cb0aa4aec1",
-      "title": "AI 投資新趨勢：貝萊德看好「鋤鏟」供應商 花旗青睞輝達",
-      "url": "https://money.udn.com/money/story/123398/9191746",
-      "source": "money.udn.com",
-      "published": 1765260073
-    },
-    {
-      "id": "d2fc75bb30a0",
-      "title": "川普政府抽輝達H200晶片25%分潤 路透曝「以進口稅方式跟台灣收取」",
-      "url": "https://money.udn.com/money/story/5599/9191680",
-      "source": "money.udn.com",
-      "published": 1765258647
-    },
-    {
-      "id": "daf78507ac21",
-      "title": "大選前緬軍轟炸實皆省茶館　18平民慘死",
-      "url": "https://money.udn.com/money/story/5599/9191671",
-      "source": "money.udn.com",
-      "published": 1765258608
-    },
-    {
-      "id": "87ecd890d13c",
-      "title": "李開復：大陸的開源 AI 具有國家優勢",
-      "url": "https://money.udn.com/money/story/122381/9191629",
-      "source": "money.udn.com",
-      "published": 1765258198
     },
     {
       "id": "db9abdb6d7f2",
@@ -371,6 +371,13 @@
       "url": "https://www.dw.com/zh/德国外长：我们需要同中国对话，因而我来到了北京/a-75067545?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765209960
+    },
+    {
+      "id": "f63fb22e12fc",
+      "title": "特朗普允许英伟达向中国出口H200芯片",
+      "url": "https://www.ftchinese.com/story/001108391",
+      "source": "ftchinese.com",
+      "published": 1765209600
     },
     {
       "id": "8d0f0b65aadb",
@@ -954,13 +961,6 @@
       "published": 1764864000
     },
     {
-      "id": "275a08109506",
-      "title": "战略部署AI无人机 塑造香港低空经济未来",
-      "url": "https://www.ftchinese.com/story/001108368",
-      "source": "ftchinese.com",
-      "published": 1764864000
-    },
-    {
       "id": "ba6175605f0b",
       "title": "德语媒体：同中国打交道 日本值得学习",
       "url": "https://www.dw.com/zh/德语媒体：同中国打交道-日本值得学习/a-75021685?maca=chi-rss-chi-all-1127-rdf",
@@ -1374,5 +1374,5 @@
       "published": 1762676700
     }
   ],
-  "build_id": 1765264411
+  "build_id": 1765265975
 }
