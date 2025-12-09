@@ -1,6 +1,20 @@
 {
-  "updated": 1765306074,
+  "updated": 1765307286,
   "items": [
+    {
+      "id": "986db8cd8d23",
+      "title": "諾貝爾和平獎得主馬查多行蹤不明　頒獎前記者會取消",
+      "url": "https://money.udn.com/money/story/5599/9193157",
+      "source": "money.udn.com",
+      "published": 1765306484
+    },
+    {
+      "id": "c021a63fe814",
+      "title": "《中国制》；由女人顶起的半边天 法国科研学者主题",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251209-%E4%B8%AD%E5%9B%BD%E5%88%B6-%E7%94%B1%E5%A5%B3%E4%BA%BA%E9%A1%B6%E8%B5%B7%E7%9A%84%E5%8D%8A%E8%BE%B9%E5%A4%A9-%E6%B3%95%E5%9B%BD%E7%A7%91%E7%A0%94%E5%AD%A6%E8%80%85%E4%B8%BB%E9%A2%98",
+      "source": "rfi.fr",
+      "published": 1765305988
+    },
     {
       "id": "28252bb0ccc8",
       "title": "麥克斯韋爾性販運案大陪審記錄可解封　法官批准司法部申請",
@@ -245,13 +259,6 @@
       "url": "https://www.dw.com/zh/上海之后-滨崎步澳门演唱会也被取消/a-75079306?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765293000
-    },
-    {
-      "id": "29653bb2c956",
-      "title": "印度11人獲台灣獎助金　深入觀察與研究台灣",
-      "url": "https://money.udn.com/money/story/5599/9192913",
-      "source": "money.udn.com",
-      "published": 1765292450
     },
     {
       "id": "8adf3f157969",
@@ -623,13 +630,6 @@
       "url": "https://www.ftchinese.com/story/001108386",
       "source": "ftchinese.com",
       "published": 1765209600
-    },
-    {
-      "id": "a8699f3bb12d",
-      "title": "特朗普强推乌战和平方案，欧洲领导人与泽连斯基伦敦商讨对策",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251208-%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E6%8E%A8%E4%B9%8C%E6%88%98%E5%92%8C%E5%B9%B3%E6%96%B9%E6%A1%88%EF%BC%8C%E6%AC%A7%E6%B4%B2%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%BC%A6%E6%95%A6%E5%95%86%E8%AE%A8%E5%AF%B9%E7%AD%96",
-      "source": "rfi.fr",
-      "published": 1765209245
     },
     {
       "id": "f9bacd42998a",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765306074
+  "build_id": 1765307286
 }
