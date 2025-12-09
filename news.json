@@ -1,6 +1,13 @@
 {
-  "updated": 1765302085,
+  "updated": 1765304025,
   "items": [
+    {
+      "id": "c26890dd5aa6",
+      "title": "POLITICO專訪　川普：歐洲衰弱、基輔須把握止損",
+      "url": "https://money.udn.com/money/story/10511/9193143",
+      "source": "money.udn.com",
+      "published": 1765302859
+    },
     {
       "id": "a082643dab7e",
       "title": "川普風電禁令 法官判違法",
@@ -252,13 +259,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251209-%E8%A7%86%E9%A2%91-%E6%AC%A7%E7%9B%9F%E5%87%BA%E5%8F%B0%E9%A6%96%E4%B8%AA-%E6%AC%A7%E6%B4%B2%E5%9B%BD%E9%98%B2%E5%B7%A5%E4%B8%9A%E8%AE%A1%E5%88%92-%E6%8F%90%E5%8D%87%E5%9B%BD%E9%98%B2%E8%83%BD%E5%8A%9B",
       "source": "rfi.fr",
       "published": 1765292234
-    },
-    {
-      "id": "c051b8d4e776",
-      "title": "微軟亞洲歷來最大投資 將在印度砸175億美元",
-      "url": "https://money.udn.com/money/story/5599/9192883",
-      "source": "money.udn.com",
-      "published": 1765291630
     },
     {
       "id": "23597c472704",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765302085
+  "build_id": 1765304025
 }
