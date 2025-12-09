@@ -1,6 +1,20 @@
 {
-  "updated": 1765271650,
+  "updated": 1765273333,
   "items": [
+    {
+      "id": "2797f4ec9c19",
+      "title": "聯準會決策前市場轉趨緊張　亞股普遍收跌",
+      "url": "https://money.udn.com/money/story/5599/9192327",
+      "source": "money.udn.com",
+      "published": 1765273010
+    },
+    {
+      "id": "121b06ea44fa",
+      "title": "外交僵局未解  立陶宛拒接受中國涉台灣代表處要求",
+      "url": "https://money.udn.com/money/story/5599/9192333",
+      "source": "money.udn.com",
+      "published": 1765273010
+    },
     {
       "id": "9798cc6c20b6",
       "title": "澳大利亞兒童禁用社交媒體，大型科技公司忙於應對",
@@ -38,7 +52,7 @@
     },
     {
       "id": "335181801e4d",
-      "title": "阿里山林鐵與澳洲鐵道締結　盼助蒸汽火車重駛山地",
+      "title": "阿里山林鐵與澳洲鐵道締結 盼助蒸汽火車重駛山地",
       "url": "https://money.udn.com/money/story/5599/9192177",
       "source": "money.udn.com",
       "published": 1765269455
@@ -147,20 +161,6 @@
       "url": "https://money.udn.com/money/story/5599/9191954",
       "source": "money.udn.com",
       "published": 1765264348
-    },
-    {
-      "id": "f13cfdc42622",
-      "title": "日中關係惡化恐衝擊經濟  高市：日本對於對話持開放態度",
-      "url": "https://money.udn.com/money/story/5599/9191948",
-      "source": "money.udn.com",
-      "published": 1765264185
-    },
-    {
-      "id": "cba7b2aac6e7",
-      "title": "AI 用電飢渴 核能股迎淘金熱  Oklo、斗山暴漲後誰是下一波黑馬？",
-      "url": "https://money.udn.com/money/story/122381/9191914",
-      "source": "money.udn.com",
-      "published": 1765263599
     },
     {
       "id": "db9abdb6d7f2",
@@ -357,6 +357,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251208-%E7%BE%8E%E5%9B%BD%E8%AE%A1%E5%88%92%E6%89%B9%E5%87%86%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E9%AB%98%E7%AB%AF%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E4%B8%AD%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1765229989
+    },
+    {
+      "id": "34bf10fcdbac",
+      "title": "特朗普为何不再强调与中俄的“超级大国竞争”",
+      "url": "https://cn.nytimes.com/usa/20251209/trump-security-strategy-superpowers/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1765227985
     },
     {
       "id": "dd17dce7ab4e",
@@ -658,13 +665,6 @@
       "url": "https://cn.nytimes.com/china/20251208/hong-kong-fire-arrest-after-online-speech/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1765162442
-    },
-    {
-      "id": "aba46e31b8ca",
-      "title": "香港立法会选举日：投票率达三成 廉政公署再拘4人",
-      "url": "https://www.dw.com/zh/香港立法会选举日：投票率达三成-廉政公署再拘4人/a-75051350?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765162380
     },
     {
       "id": "ebf49708e6d6",
@@ -1008,13 +1008,6 @@
       "url": "https://cn.nytimes.com/asia-pacific/20251204/taiwan-lai-ching-te-china/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1764816672
-    },
-    {
-      "id": "ed7eb42ee8f3",
-      "title": "港府强硬回应公众愤怒：打击质疑声音、抓捕要求追责人士",
-      "url": "https://cn.nytimes.com/china/20251204/hong-kong-fire-national-security-arrests/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1764809205
     },
     {
       "id": "f9705e7391b5",
@@ -1381,5 +1374,5 @@
       "published": 1762828261
     }
   ],
-  "build_id": 1765271650
+  "build_id": 1765273333
 }
