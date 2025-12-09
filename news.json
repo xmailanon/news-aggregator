@@ -1,12 +1,40 @@
 {
-  "updated": 1765285742,
+  "updated": 1765288231,
   "items": [
+    {
+      "id": "19b3bbcc1f93",
+      "title": "民主剛果叛軍進逼東部重鎮　聯合國稱20萬人逃離家園",
+      "url": "https://money.udn.com/money/story/5599/9192791",
+      "source": "money.udn.com",
+      "published": 1765287400
+    },
+    {
+      "id": "8020734a58ea",
+      "title": "埃及獲歐洲逾30億融資 支持中小微型企業發展",
+      "url": "https://money.udn.com/money/story/5599/9192780",
+      "source": "money.udn.com",
+      "published": 1765287044
+    },
+    {
+      "id": "a7647eb58ac1",
+      "title": "[深度] 群議紛紜聯準會揮別協商一致時代 鮑爾繼任者恐更難凝聚共識",
+      "url": "https://money.udn.com/money/story/5599/9190891",
+      "source": "money.udn.com",
+      "published": 1765286503
+    },
     {
       "id": "e055d9a812ac",
       "title": "盧比歐稱美國將繼續推進 AUKUS 安全夥伴關係",
       "url": "https://money.udn.com/money/story/5599/9191088",
       "source": "money.udn.com",
       "published": 1765285520
+    },
+    {
+      "id": "ae9018f45340",
+      "title": "雷诺和福特联手开发经济型电动汽车",
+      "url": "https://www.dw.com/zh/雷诺和福特联手开发经济型电动汽车/a-75076762?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1765285380
     },
     {
       "id": "77550032a689",
@@ -147,27 +175,6 @@
       "url": "https://money.udn.com/money/story/5599/9191642",
       "source": "money.udn.com",
       "published": 1765278208
-    },
-    {
-      "id": "5a47d97f5562",
-      "title": "教宗接見澤倫斯基　籲持續對話達成公正持久和平",
-      "url": "https://money.udn.com/money/story/5599/9192515",
-      "source": "money.udn.com",
-      "published": 1765278014
-    },
-    {
-      "id": "f5cd6ec81922",
-      "title": "美國司法部拘留兩名涉嫌向中國大陸走私輝達 AI 晶片的男子",
-      "url": "https://money.udn.com/money/story/5599/9191643",
-      "source": "money.udn.com",
-      "published": 1765277820
-    },
-    {
-      "id": "dfcad2875113",
-      "title": "億萬富豪巴比斯再任捷克總理　牽動援烏、與歐盟關係",
-      "url": "https://money.udn.com/money/story/5599/9192502",
-      "source": "money.udn.com",
-      "published": 1765277656
     },
     {
       "id": "6a836f3d2b54",
@@ -828,16 +835,16 @@
       "published": 1765105740
     },
     {
-      "id": "8633705ee7bb",
-      "title": "阿伦特在中国：思考作为精神的家园",
-      "url": "https://www.dw.com/zh/阿伦特在中国：思考作为精神的家园/a-75033730?maca=chi-rss-chi-all-1127-rdf",
+      "id": "bad66d7e05f5",
+      "title": "从波罗的海到太平洋：海底电缆安全受威胁",
+      "url": "https://www.dw.com/zh/从波罗的海到太平洋：海底电缆安全受威胁/a-74989171?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095900
     },
     {
-      "id": "bad66d7e05f5",
-      "title": "从波罗的海到太平洋：海底电缆安全受威胁",
-      "url": "https://www.dw.com/zh/从波罗的海到太平洋：海底电缆安全受威胁/a-74989171?maca=chi-rss-chi-all-1127-rdf",
+      "id": "8633705ee7bb",
+      "title": "阿伦特在中国：思考作为精神的家园",
+      "url": "https://www.dw.com/zh/阿伦特在中国：思考作为精神的家园/a-75033730?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095900
     },
@@ -1395,5 +1402,5 @@
       "published": 1762828261
     }
   ],
-  "build_id": 1765285742
+  "build_id": 1765288231
 }
