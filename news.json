@@ -1,6 +1,48 @@
 {
-  "updated": 1765275174,
+  "updated": 1765277142,
   "items": [
+    {
+      "id": "e2078a0455fc",
+      "title": "中方稱台灣地位遭七重鎖定　李逸洋5點聲明反駁",
+      "url": "https://money.udn.com/money/story/5599/9192486",
+      "source": "money.udn.com",
+      "published": 1765277121
+    },
+    {
+      "id": "85137c25fef0",
+      "title": "七国集团财长会议聚焦中国稀土垄断  中国尚未对日进行稀土制裁",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251209-%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E8%B4%A2%E9%95%BF%E4%BC%9A%E8%AE%AE%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%9E%84%E6%96%AD-%E4%B8%AD%E5%9B%BD%E5%B0%9A%E6%9C%AA%E5%AF%B9%E6%97%A5%E8%BF%9B%E8%A1%8C%E7%A8%80%E5%9C%9F%E5%88%B6%E8%A3%81",
+      "source": "rfi.fr",
+      "published": 1765276963
+    },
+    {
+      "id": "e2258f55f16e",
+      "title": "吉米金摩走過下架風波　傳與ABC合約延長一年",
+      "url": "https://money.udn.com/money/story/10511/9192465",
+      "source": "money.udn.com",
+      "published": 1765276240
+    },
+    {
+      "id": "e129fd3c74c7",
+      "title": "波克夏主要投資經理人康姆斯跳槽摩根大通　任戴蒙顧問",
+      "url": "https://money.udn.com/money/story/5599/9192466",
+      "source": "money.udn.com",
+      "published": 1765276238
+    },
+    {
+      "id": "d4f260f2c8ca",
+      "title": "歐盟質疑谷歌利用網路內容發展AI　展開反壟斷調查",
+      "url": "https://money.udn.com/money/story/5599/9192464",
+      "source": "money.udn.com",
+      "published": 1765276238
+    },
+    {
+      "id": "ed8fcfd645a7",
+      "title": "青森外海又發生規模5.3地震 北海道、青森縣震度3",
+      "url": "https://money.udn.com/money/story/5599/9192430",
+      "source": "money.udn.com",
+      "published": 1765275779
+    },
     {
       "id": "068d02517c76",
       "title": "印尼雅加達7層樓建築物火警釀20死　火勢已撲滅",
@@ -21,6 +63,13 @@
       "url": "https://money.udn.com/money/story/5599/9192411",
       "source": "money.udn.com",
       "published": 1765274850
+    },
+    {
+      "id": "eb32664e24e3",
+      "title": "全球今年共有67名记者因工作丧失",
+      "url": "https://www.dw.com/zh/全球今年共有67名记者因工作丧失/a-75074141?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1765274520
     },
     {
       "id": "3cda702d5ad2",
@@ -140,41 +189,6 @@
       "url": "https://www.dw.com/zh/川普政策轉彎　為輝達高端晶片銷往中國開綠燈/a-75072557?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765268400
-    },
-    {
-      "id": "7dd1882fe198",
-      "title": "NHK揭雷達照射事件中日戰機相距52、148公里 日防相：事前未收到通報",
-      "url": "https://money.udn.com/money/story/5599/9192117",
-      "source": "money.udn.com",
-      "published": 1765267954
-    },
-    {
-      "id": "0f9b4db6effc",
-      "title": "稀土價格高漲成常態 顯現出各國對供應存在哪些隱憂？",
-      "url": "https://money.udn.com/money/story/120769/9191876",
-      "source": "money.udn.com",
-      "published": 1765267546
-    },
-    {
-      "id": "9fd66ed7957e",
-      "title": "中俄9架軍機進入南韓防空識別區　未侵入領空",
-      "url": "https://money.udn.com/money/story/5599/9192064",
-      "source": "money.udn.com",
-      "published": 1765266899
-    },
-    {
-      "id": "c357e325baf7",
-      "title": "冤枉？被控綁架間諜遭美驅逐 索馬利亞網紅疑遭陷害",
-      "url": "https://money.udn.com/money/story/5599/9192063",
-      "source": "money.udn.com",
-      "published": 1765266899
-    },
-    {
-      "id": "a65668f007ee",
-      "title": "青森強震後第一時間給予關懷 日網友感謝台灣暖心",
-      "url": "https://money.udn.com/money/story/5599/9192046",
-      "source": "money.udn.com",
-      "published": 1765266339
     },
     {
       "id": "db9abdb6d7f2",
@@ -632,13 +646,6 @@
       "published": 1765182483
     },
     {
-      "id": "22dbe9c3b533",
-      "title": "十国35市港人为宏福苑火灾死难者悼念 追责港府",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251208-%E5%8D%81%E5%9B%BD35%E5%B8%82%E6%B8%AF%E4%BA%BA%E4%B8%BA%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BE%E6%AD%BB%E9%9A%BE%E8%80%85%E6%82%BC%E5%BF%B5-%E8%BF%BD%E8%B4%A3%E6%B8%AF%E5%BA%9C",
-      "source": "rfi.fr",
-      "published": 1765181783
-    },
-    {
       "id": "cce2ff785ae6",
       "title": "製造北極光的太陽風暴如何同時對地球造成破壞？",
       "url": "https://www.bbc.com/zhongwen/articles/cvgj3g7z08po/trad?at_medium=RSS&at_campaign=rss",
@@ -821,16 +828,16 @@
       "published": 1765095900
     },
     {
-      "id": "9fadb63c40b6",
-      "title": "为什么基辅的学生仍然说俄语？",
-      "url": "https://www.dw.com/zh/为什么基辅的学生仍然说俄语？/a-74972352?maca=chi-rss-chi-all-1127-rdf",
+      "id": "ababaeec77cf",
+      "title": "伊朗上调油价 涨幅高达“两美分”",
+      "url": "https://www.dw.com/zh/伊朗上调油价-涨幅高达-两美分/a-74997897?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095840
     },
     {
-      "id": "ababaeec77cf",
-      "title": "伊朗上调油价 涨幅高达“两美分”",
-      "url": "https://www.dw.com/zh/伊朗上调油价-涨幅高达-两美分/a-74997897?maca=chi-rss-chi-all-1127-rdf",
+      "id": "9fadb63c40b6",
+      "title": "为什么基辅的学生仍然说俄语？",
+      "url": "https://www.dw.com/zh/为什么基辅的学生仍然说俄语？/a-74972352?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095840
     },
@@ -1374,5 +1381,5 @@
       "published": 1762828261
     }
   ],
-  "build_id": 1765275174
+  "build_id": 1765277142
 }
