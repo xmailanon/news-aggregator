@@ -1,6 +1,27 @@
 {
-  "updated": 1765319876,
+  "updated": 1765321831,
   "items": [
+    {
+      "id": "4e24ba579dc3",
+      "title": "美股收盤／Fed 決策前美股轉弱 摩根大通急挫成拖累",
+      "url": "https://money.udn.com/money/story/123398/9193242",
+      "source": "money.udn.com",
+      "published": 1765321171
+    },
+    {
+      "id": "bf3004518fdc",
+      "title": "美智庫：新版安全戰略脫離大國競爭 對中態度不一",
+      "url": "https://money.udn.com/money/story/5599/9193241",
+      "source": "money.udn.com",
+      "published": 1765321124
+    },
+    {
+      "id": "7ab9ac5fd61d",
+      "title": "中国出口顺差破万亿美元为什么让世界害怕？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251209-%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E9%A1%BA%E5%B7%AE%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%96%E7%95%8C%E5%AE%B3%E6%80%95",
+      "source": "rfi.fr",
+      "published": 1765320266
+    },
     {
       "id": "ec7d7a5460f6",
       "title": "诺贝尔和平奖得主马查多能否亲临挪威领奖存疑",
@@ -9,9 +30,9 @@
       "published": 1765318996
     },
     {
-      "id": "45af2e108b21",
+      "id": "4e1d251fabf3",
       "title": "宏國大選計票完成99%　總統指結果遭竄改控川普介選",
-      "url": "https://money.udn.com/money/story/10511/9193230",
+      "url": "https://money.udn.com/money/story/5599/9193230",
       "source": "money.udn.com",
       "published": 1765318335
     },
@@ -252,20 +273,6 @@
       "url": "https://money.udn.com/money/story/5599/9193018",
       "source": "money.udn.com",
       "published": 1765299759
-    },
-    {
-      "id": "e2743c14dd1b",
-      "title": "托克集團：明年油市將超級過剩 油價「在劫難逃」...",
-      "url": "https://money.udn.com/money/story/5599/9193127",
-      "source": "money.udn.com",
-      "published": 1765299206
-    },
-    {
-      "id": "639be86f1a31",
-      "title": "AI 泡沫論滿天飛 微軟共同創辦人比爾‧蓋茲怎麼看？",
-      "url": "https://money.udn.com/money/story/5599/9193124",
-      "source": "money.udn.com",
-      "published": 1765299039
     },
     {
       "id": "3e56d2f330b3",
@@ -525,13 +532,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251208-%E6%AC%A7%E7%9B%9F%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%96%B0%E7%89%88%E5%9B%BD%E5%AE%89%E6%88%98%E7%95%A5%E5%B9%B2%E6%B6%89%E6%AC%A7%E7%9B%9F%E6%94%BF%E7%AD%96",
       "source": "rfi.fr",
       "published": 1765233078
-    },
-    {
-      "id": "0e0a7a3c97e4",
-      "title": "日本青森外海发生规模 7.6 强震 多地出现海啸 数千户停电",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251208-%E6%97%A5%E6%9C%AC%E9%9D%92%E6%A3%AE%E5%A4%96%E6%B5%B7%E5%8F%91%E7%94%9F%E8%A7%84%E6%A8%A1-7-6-%E5%BC%BA%E9%9C%87-%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E6%B5%B7%E5%95%B8-%E6%95%B0%E5%8D%83%E6%88%B7%E5%81%9C%E7%94%B5",
-      "source": "rfi.fr",
-      "published": 1765232673
     },
     {
       "id": "3c5cdaa6db77",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765319876
+  "build_id": 1765321831
 }
