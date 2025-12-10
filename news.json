@@ -1,12 +1,26 @@
 {
-  "updated": 1765399439,
+  "updated": 1765401115,
   "items": [
     {
+      "id": "79097d836cfc",
+      "title": "紐波特教學助理謊稱曾擔任狙擊手禁足校園兩年",
+      "url": "https://www.singtaousa.com/2025/12/10/news/world/teaching-assistant-told-newport-pupils-he-had-killed-250-people-as-a-sniper/",
+      "source": "singtaousa.com",
+      "published": 1765400301
+    },
+    {
       "id": "b978439ce1dd",
-      "title": "Fed決策／9比3通過「鷹派降息」 印鈔機再開每月將購債400億美元",
+      "title": "Fed 決策／9比3通過「鷹派降息」 印鈔機再開每月將購債400億美元",
       "url": "https://money.udn.com/money/story/5599/9195823",
       "source": "money.udn.com",
       "published": 1765399463
+    },
+    {
+      "id": "5960e81db5f9",
+      "title": "美國穆斯林維權團體 被佛州列為「外國恐怖組織」",
+      "url": "https://www.singtaousa.com/2025/12/10/news/usa/news-florida-muslim-group-terror-designation/",
+      "source": "singtaousa.com",
+      "published": 1765399378
     },
     {
       "id": "740fd1764f61",
@@ -14,6 +28,13 @@
       "url": "https://money.udn.com/money/story/5599/9195820",
       "source": "money.udn.com",
       "published": 1765398975
+    },
+    {
+      "id": "755e9b64d1ca",
+      "title": "美環保署刪除官網暖化人為成因，疑雲背後原因？",
+      "url": "https://www.singtaousa.com/2025/12/10/news/usa/epa-removes-information-on-human-drivers-of-warming-from-its-website/",
+      "source": "singtaousa.com",
+      "published": 1765398500
     },
     {
       "id": "a174fce02598",
@@ -196,27 +217,6 @@
       "url": "https://www.singtaousa.com/2025/12/10/news/china/deputy-housing-minister-inspects-transitional-housing/",
       "source": "singtaousa.com",
       "published": 1765386943
-    },
-    {
-      "id": "8f8b54e3209c",
-      "title": "湖南教師當眾踩死校貓 教育局緊急停職調查",
-      "url": "https://www.singtaousa.com/2025/12/10/news/china/teacher-stomps-cat-to-death/",
-      "source": "singtaousa.com",
-      "published": 1765386938
-    },
-    {
-      "id": "7773bdedac22",
-      "title": "【雙城論壇】日期正式敲定！蔣萬安月底赴上海出席兩天一夜交流",
-      "url": "https://www.singtaousa.com/2025/12/10/news/china/shanghai-taipei-city-forum-scheduled/",
-      "source": "singtaousa.com",
-      "published": 1765386932
-    },
-    {
-      "id": "bdd7522a1aae",
-      "title": "警隊痛失英才！31歲高級督察投考飛虎隊測試中昏迷 留醫一周終不治",
-      "url": "https://www.singtaousa.com/2025/12/10/news/china/senior-inspector-dies-flying-tiger-selection/",
-      "source": "singtaousa.com",
-      "published": 1765386928
     },
     {
       "id": "9101f4f5c285",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765399439
+  "build_id": 1765401115
 }
