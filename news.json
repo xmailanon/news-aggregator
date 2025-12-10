@@ -1,6 +1,27 @@
 {
-  "updated": 1765350852,
+  "updated": 1765352443,
   "items": [
+    {
+      "id": "8ecbdd0e230c",
+      "title": "台積電成美國「非官方國家隊」？紐時：川普布局讓台積處境艱難",
+      "url": "https://money.udn.com/money/story/5599/9194470",
+      "source": "money.udn.com",
+      "published": 1765351304
+    },
+    {
+      "id": "32c2c2d68320",
+      "title": "日媒：日商開發新技術 1.4奈米先進製程可省電90%",
+      "url": "https://money.udn.com/money/story/5599/9194480",
+      "source": "money.udn.com",
+      "published": 1765351304
+    },
+    {
+      "id": "b01a928b1294",
+      "title": "聯準會決策前投資人觀望　日經指數收跌",
+      "url": "https://money.udn.com/money/story/5599/9194499",
+      "source": "money.udn.com",
+      "published": 1765351303
+    },
     {
       "id": "c142dd05373b",
       "title": "尼泊爾機場貪腐案　55名官員與中國公司遭起訴",
@@ -163,27 +184,6 @@
       "published": 1765342022
     },
     {
-      "id": "c9132f36f1ff",
-      "title": "亞洲台商總會經貿論壇  謝金河：產業須跟進AI賽道",
-      "url": "https://money.udn.com/money/story/5599/9194010",
-      "source": "money.udn.com",
-      "published": 1765341401
-    },
-    {
-      "id": "5fab894408f5",
-      "title": "Fed 明天凌晨連三度降息幾成定局 但接下來可能暫且收手",
-      "url": "https://money.udn.com/money/story/5599/9193997",
-      "source": "money.udn.com",
-      "published": 1765341307
-    },
-    {
-      "id": "6721cc1498d8",
-      "title": "日本軍機遭雷達照射　美國首度批評中國",
-      "url": "https://money.udn.com/money/story/5599/9193986",
-      "source": "money.udn.com",
-      "published": 1765341047
-    },
-    {
       "id": "34d3a56d72d0",
       "title": "美國十月職位空缺停滯不前，背後隱藏經濟轉折信號",
       "url": "https://www.singtaousa.com/2025/12/09/news/usa/u-s-job-openings-barely-budged-in-october-coming-in-just-below-7-7-million/",
@@ -335,7 +335,7 @@
       "title": "特朗普松动出口管制引抨击：用国家安全利益做交易",
       "url": "https://cn.nytimes.com/usa/20251210/trump-nvidia-ai-chips-china/?utm_source=RSS",
       "source": "cn.nytimes.com",
-      "published": 1765306806
+      "published": 1765307349
     },
     {
       "id": "c021a63fe814",
@@ -357,6 +357,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251209-%E6%B0%91%E4%B8%BB%E5%85%9A%E8%AE%AE%E5%91%98%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E8%A1%8C%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E5%A8%81%E8%83%81%E5%9B%BD%E5%AE%89-%E4%B8%AD%E5%9B%BD%E6%81%90%E4%BB%85%E5%85%81%E8%AE%B8%E6%9C%89%E9%99%90%E8%BF%9B%E5%8F%A3",
       "source": "rfi.fr",
       "published": 1765300019
+    },
+    {
+      "id": "0b8931d94082",
+      "title": "对话杨福东：时间的风造访村庄，吹向人生",
+      "url": "https://www.ftchinese.com/story/001108393",
+      "source": "ftchinese.com",
+      "published": 1765296000
     },
     {
       "id": "bc2c64171d66",
@@ -397,13 +404,6 @@
       "id": "e89de5e4ae1c",
       "title": "特朗普现在更看重硅谷寡头而非MAGA基本盘",
       "url": "https://www.ftchinese.com/story/001108398",
-      "source": "ftchinese.com",
-      "published": 1765296000
-    },
-    {
-      "id": "0b8931d94082",
-      "title": "对话杨福东：时间的风造访村庄，吹向人生",
-      "url": "https://www.ftchinese.com/story/001108393",
       "source": "ftchinese.com",
       "published": 1765296000
     },
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765350852
+  "build_id": 1765352443
 }
