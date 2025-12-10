@@ -1,6 +1,13 @@
 {
-  "updated": 1765395312,
+  "updated": 1765397557,
   "items": [
+    {
+      "id": "a174fce02598",
+      "title": "Fed 決策／點狀圖透露明後兩年仍只各降息1碼 GDP 展望全面上修",
+      "url": "https://money.udn.com/money/story/5599/9195800",
+      "source": "money.udn.com",
+      "published": 1765396123
+    },
     {
       "id": "cadba2eb1c98",
       "title": "美國擬對入境遊客社交媒體展開全面審查，背後意圖",
@@ -14,13 +21,6 @@
       "url": "https://money.udn.com/money/story/5599/9195796",
       "source": "money.udn.com",
       "published": 1765393948
-    },
-    {
-      "id": "a5ca55956a57",
-      "title": "歐盟商會：歐洲企業加快推動供應鏈多元化　降低對中國依賴",
-      "url": "https://money.udn.com/money/story/5599/9195792",
-      "source": "money.udn.com",
-      "published": 1765393651
     },
     {
       "id": "b8f54c88f0aa",
@@ -247,11 +247,11 @@
       "published": 1765380176
     },
     {
-      "id": "0a5ba3be6c26",
-      "title": "美CECC報告關注遭中判刑政治犯案例　楊智淵入列",
-      "url": "https://money.udn.com/money/story/5599/9195582",
+      "id": "106a650f1432",
+      "title": "Fed主席淪為「跛鴨」？未必，鮑爾卸任前可能壞了川普大事",
+      "url": "https://money.udn.com/money/story/5599/9195546",
       "source": "money.udn.com",
-      "published": 1765379559
+      "published": 1765379049
     },
     {
       "id": "87cadf6c0180",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765395312
+  "build_id": 1765397557
 }
