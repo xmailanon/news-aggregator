@@ -1,40 +1,131 @@
 {
-  "updated": 1765386821,
+  "updated": 1765388627,
   "items": [
+    {
+      "id": "55b63a271b55",
+      "title": "Fed 下任主席熱門人選「放鴿」 哈塞特：降息 還有充足空間",
+      "url": "https://money.udn.com/money/story/5599/9195577",
+      "source": "money.udn.com",
+      "published": 1765388579
+    },
+    {
+      "id": "7eaaaa648129",
+      "title": "Fed 明年利率路徑展望 異見多",
+      "url": "https://money.udn.com/money/story/5599/9195584",
+      "source": "money.udn.com",
+      "published": 1765388494
+    },
+    {
+      "id": "7e9080ffdc8c",
+      "title": "甲骨文違約風險 16年高點",
+      "url": "https://money.udn.com/money/story/123398/9195561",
+      "source": "money.udn.com",
+      "published": 1765388311
+    },
+    {
+      "id": "ba3b8124bfad",
+      "title": "印尼、美國貿易協議 出現裂痕 美方對不守承諾感到挫折",
+      "url": "https://money.udn.com/money/story/5599/9195534",
+      "source": "money.udn.com",
+      "published": 1765388166
+    },
+    {
+      "id": "c73f2cbfb6c0",
+      "title": "白銀紅通通 價格漲不停 一度突破61美元大關 改寫新高",
+      "url": "https://money.udn.com/money/story/5599/9195539",
+      "source": "money.udn.com",
+      "published": 1765388076
+    },
+    {
+      "id": "136a45bd39b3",
+      "title": "川普批歐洲衰敗 德總理：美歐同盟不復存在",
+      "url": "https://money.udn.com/money/story/5599/9195540",
+      "source": "money.udn.com",
+      "published": 1765388023
+    },
+    {
+      "id": "35945848e75b",
+      "title": "日利率飆漲 推升償債成本",
+      "url": "https://money.udn.com/money/story/5599/9195542",
+      "source": "money.udn.com",
+      "published": 1765387985
+    },
+    {
+      "id": "240c0059667c",
+      "title": "西雅圖同慶驕傲賽遭埃及反對，FIFA如何應對？",
+      "url": "https://www.singtaousa.com/2025/12/10/news/world/2026-world-cup-seattle-pride-match-set-to-happen-despite-egypt-objections/",
+      "source": "singtaousa.com",
+      "published": 1765387702
+    },
+    {
+      "id": "fdf52e31eb30",
+      "title": "美国首次批评中国雷达瞄准日本军机事件 重申对日承诺坚定不移",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251210-%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%AC%A1%E6%89%B9%E8%AF%84%E4%B8%AD%E5%9B%BD%E9%9B%B7%E8%BE%BE%E7%9E%84%E5%87%86%E6%97%A5%E6%9C%AC%E5%86%9B%E6%9C%BA%E4%BA%8B%E4%BB%B6-%E9%87%8D%E7%94%B3%E5%AF%B9%E6%97%A5%E6%89%BF%E8%AF%BA%E5%9D%9A%E5%AE%9A%E4%B8%8D%E7%A7%BB",
+      "source": "rfi.fr",
+      "published": 1765387409
+    },
+    {
+      "id": "3a26226d80fb",
+      "title": "【宏福苑大火揭黑幕】內地網購平台驚現$300假棚網安全報告 商家：香港火災後查詢激增",
+      "url": "https://www.singtaousa.com/2025/12/10/news/china/fake-safety-reports-china-platforms-hong-kong/",
+      "source": "singtaousa.com",
+      "published": 1765386951
+    },
+    {
+      "id": "1f21ef72e3d4",
+      "title": "宏福苑大火後｜房屋局副局長戴尚誠視察過渡屋 確保單位設備齊全助居民安頓",
+      "url": "https://www.singtaousa.com/2025/12/10/news/china/deputy-housing-minister-inspects-transitional-housing/",
+      "source": "singtaousa.com",
+      "published": 1765386943
+    },
+    {
+      "id": "8f8b54e3209c",
+      "title": "湖南教師當眾踩死校貓 教育局緊急停職調查",
+      "url": "https://www.singtaousa.com/2025/12/10/news/china/teacher-stomps-cat-to-death/",
+      "source": "singtaousa.com",
+      "published": 1765386938
+    },
+    {
+      "id": "7773bdedac22",
+      "title": "【雙城論壇】日期正式敲定！蔣萬安月底赴上海出席兩天一夜交流",
+      "url": "https://www.singtaousa.com/2025/12/10/news/china/shanghai-taipei-city-forum-scheduled/",
+      "source": "singtaousa.com",
+      "published": 1765386932
+    },
+    {
+      "id": "bdd7522a1aae",
+      "title": "警隊痛失英才！31歲高級督察投考飛虎隊測試中昏迷 留醫一周終不治",
+      "url": "https://www.singtaousa.com/2025/12/10/news/china/senior-inspector-dies-flying-tiger-selection/",
+      "source": "singtaousa.com",
+      "published": 1765386928
+    },
+    {
+      "id": "c579d51bd7e6",
+      "title": "汕頭住宅大火奪12命 四代同堂家庭慘遭滅門 廣東省下令徹查",
+      "url": "https://www.singtaousa.com/2025/12/10/news/china/shantou-fire-family-tragedy-lessons/",
+      "source": "singtaousa.com",
+      "published": 1765386921
+    },
+    {
+      "id": "5687578785f2",
+      "title": "中日關係緊張 浙江景區急轉彎 山寨「北海道」一夜變「首爾」",
+      "url": "https://www.singtaousa.com/2025/12/10/news/china/china-japan-tensions-scenic-spot-renamed/",
+      "source": "singtaousa.com",
+      "published": 1765386916
+    },
+    {
+      "id": "00d547f3adc1",
+      "title": "打工仔夢寐以求！浙江老闆豪送千呎單位獎勵員工，條件係……",
+      "url": "https://www.singtaousa.com/2025/12/10/news/china/boss-gifts-apartments-to-employees/",
+      "source": "singtaousa.com",
+      "published": 1765386910
+    },
     {
       "id": "c8e4e912f4e0",
       "title": "肯塔基州立大學宿舍槍響真相 兇嫌如何落網？",
       "url": "https://www.singtaousa.com/2025/12/10/news/usa/suspect-in-custody-after-one-killed-in-kentucky-university-shooting/",
       "source": "singtaousa.com",
       "published": 1765385900
-    },
-    {
-      "id": "16fc7e741761",
-      "title": "亞馬遜Alexa+增能耐 價格合心意即自動購物",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/amazon-alexa-auto-shopping/",
-      "source": "singtaousa.com",
-      "published": 1765384710
-    },
-    {
-      "id": "09791ae33b16",
-      "title": "涉嫌毒駕兼酒駕 曾立功CHP離職",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/chp-officer-dui-arrest/",
-      "source": "singtaousa.com",
-      "published": 1765384702
-    },
-    {
-      "id": "5d8b83de1691",
-      "title": "谷歌蘋果首次合作 設定階段資料轉移",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/google-apple-data-transfer/",
-      "source": "singtaousa.com",
-      "published": 1765384688
-    },
-    {
-      "id": "8e650a9dc054",
-      "title": "美軍最新人工智能判定海上船艇攻擊為何被視為非法？",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/the-militarys-new-ai-says-hypothetical-boat-strike-scenario-unambiguously-illegal/",
-      "source": "singtaousa.com",
-      "published": 1765384101
     },
     {
       "id": "9101f4f5c285",
@@ -63,41 +154,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251210-%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%8E%E9%A3%9F%E8%8E%B7%E8%81%94%E5%90%88%E5%9B%BD%E9%9D%9E%E9%81%97%E8%AE%A4%E5%AE%9A-%E6%88%90%E9%A6%96%E4%B8%AA%E4%BB%A5%E6%95%B4%E4%BD%93%E7%BE%8E%E9%A3%9F%E5%85%A5%E9%80%89%E7%9A%84%E5%9B%BD%E5%AE%B6",
       "source": "rfi.fr",
       "published": 1765382570
-    },
-    {
-      "id": "78908546f39c",
-      "title": "亞洲藝術博物館歸還泰國被盜文物",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/asian-art-museum-thailand/",
-      "source": "singtaousa.com",
-      "published": 1765381432
-    },
-    {
-      "id": "b005fae37683",
-      "title": "既出錢又出力  陪伴孩童選購禮物  溫暖弱勢家庭",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/police-gifts-underprivileged-children/",
-      "source": "singtaousa.com",
-      "published": 1765381409
-    },
-    {
-      "id": "7a952aa695ef",
-      "title": "總醫院社工遇刺案  被告缺席提堂延期",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/hospital-social-worker-murder-delay/",
-      "source": "singtaousa.com",
-      "published": 1765381384
-    },
-    {
-      "id": "c390088a94b8",
-      "title": "三藩市泰裔老翁遇害案續審 多名目擊者出庭作證",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/san-francisco-thai-elderly-trial/",
-      "source": "singtaousa.com",
-      "published": 1765381352
-    },
-    {
-      "id": "9e6ba0613ef3",
-      "title": "士德頓派對槍案 遺下50枚彈殼",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/stockton-party-shooting-shells/",
-      "source": "singtaousa.com",
-      "published": 1765380578
     },
     {
       "id": "73de63921c87",
@@ -198,60 +254,11 @@
       "published": 1765374334
     },
     {
-      "id": "4e8732084c02",
-      "title": "日本央行總裁再次發出升息暗示 稱距離實現通膨目標已更進一步",
-      "url": "https://money.udn.com/money/story/5599/9193306",
-      "source": "money.udn.com",
-      "published": 1765373673
-    },
-    {
-      "id": "a1463c55a557",
-      "title": "丹麥紅色郵筒將走入歷史　德國討論是否跟進郵政改革",
-      "url": "https://money.udn.com/money/story/5599/9195401",
-      "source": "money.udn.com",
-      "published": 1765373452
-    },
-    {
-      "id": "8880c64c2065",
-      "title": "被禁還是買 DeepSeek 傳用輝達 Blackwell 打造新模型、最快農曆年前推出",
-      "url": "https://money.udn.com/money/story/5599/9195402",
-      "source": "money.udn.com",
-      "published": 1765373451
-    },
-    {
-      "id": "1cdcd6de111f",
-      "title": "SpaceX 據悉尋求2026年進行 IPO  融資規模或遠超300億美元",
-      "url": "https://money.udn.com/money/story/5599/9193347",
-      "source": "money.udn.com",
-      "published": 1765373255
-    },
-    {
       "id": "d44bb82ea06a",
       "title": "克里姆林宫称特朗普近期关于乌克兰的言论“符合”莫斯科的观点",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251210-%E5%85%8B%E9%87%8C%E5%A7%86%E6%9E%97%E5%AE%AB%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%91%E6%9C%9F%E5%85%B3%E4%BA%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E7%9A%84%E8%A8%80%E8%AE%BA-%E7%AC%A6%E5%90%88-%E8%8E%AB%E6%96%AF%E7%A7%91%E7%9A%84%E8%A7%82%E7%82%B9",
       "source": "rfi.fr",
       "published": 1765373110
-    },
-    {
-      "id": "7be896ef80f5",
-      "title": "德國總理默茨稱美國和歐洲之間的西方同盟不復存在",
-      "url": "https://money.udn.com/money/story/5599/9193398",
-      "source": "money.udn.com",
-      "published": 1765372967
-    },
-    {
-      "id": "d15e28d16188",
-      "title": "健康捐精者帶致癌基因　精子助孕近200名歐洲童恐罹癌",
-      "url": "https://money.udn.com/money/story/5599/9195389",
-      "source": "money.udn.com",
-      "published": 1765372961
-    },
-    {
-      "id": "164f0da310e2",
-      "title": "「購物狂」系列小說作者 55歲英國作家蘇菲金索拉逝世",
-      "url": "https://money.udn.com/money/story/5599/9195392",
-      "source": "money.udn.com",
-      "published": 1765372960
     },
     {
       "id": "6b5eab66a61b",
@@ -665,13 +672,6 @@
       "url": "https://www.dw.com/zh/雷诺和福特联手开发经济型电动汽车/a-75076762?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765285380
-    },
-    {
-      "id": "585278e24f4b",
-      "title": "中国和俄罗斯战机进入韩防空区 韩国战机紧急升空应对",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251209-%E4%B8%AD%E5%9B%BD%E5%92%8C%E4%BF%84%E7%BD%97%E6%96%AF%E6%88%98%E6%9C%BA%E8%BF%9B%E5%85%A5%E9%9F%A9%E9%98%B2%E7%A9%BA%E5%8C%BA-%E9%9F%A9%E5%9B%BD%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E5%8D%87%E7%A9%BA%E5%BA%94%E5%AF%B9",
-      "source": "rfi.fr",
-      "published": 1765283403
     },
     {
       "id": "a1d624b20b03",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765386821
+  "build_id": 1765388627
 }
