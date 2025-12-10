@@ -1,6 +1,20 @@
 {
-  "updated": 1765397557,
+  "updated": 1765399439,
   "items": [
+    {
+      "id": "b978439ce1dd",
+      "title": "Fed決策／9比3通過「鷹派降息」 印鈔機再開每月將購債400億美元",
+      "url": "https://money.udn.com/money/story/5599/9195823",
+      "source": "money.udn.com",
+      "published": 1765399463
+    },
+    {
+      "id": "740fd1764f61",
+      "title": "聯準會利率連3降　鮑爾：可觀望是否進一步降息",
+      "url": "https://money.udn.com/money/story/5599/9195820",
+      "source": "money.udn.com",
+      "published": 1765398975
+    },
     {
       "id": "a174fce02598",
       "title": "Fed 決策／點狀圖透露明後兩年仍只各降息1碼 GDP 展望全面上修",
@@ -238,20 +252,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251210-%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%8E%E9%A3%9F%E8%8E%B7%E8%81%94%E5%90%88%E5%9B%BD%E9%9D%9E%E9%81%97%E8%AE%A4%E5%AE%9A-%E6%88%90%E9%A6%96%E4%B8%AA%E4%BB%A5%E6%95%B4%E4%BD%93%E7%BE%8E%E9%A3%9F%E5%85%A5%E9%80%89%E7%9A%84%E5%9B%BD%E5%AE%B6",
       "source": "rfi.fr",
       "published": 1765382570
-    },
-    {
-      "id": "73de63921c87",
-      "title": "日本青森外海5.9地震　最大震度4無海嘯之虞",
-      "url": "https://money.udn.com/money/story/5599/9195618",
-      "source": "money.udn.com",
-      "published": 1765380176
-    },
-    {
-      "id": "106a650f1432",
-      "title": "Fed主席淪為「跛鴨」？未必，鮑爾卸任前可能壞了川普大事",
-      "url": "https://money.udn.com/money/story/5599/9195546",
-      "source": "money.udn.com",
-      "published": 1765379049
     },
     {
       "id": "87cadf6c0180",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765397557
+  "build_id": 1765399439
 }
