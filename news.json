@@ -1,6 +1,13 @@
 {
-  "updated": 1765401115,
+  "updated": 1765402860,
   "items": [
+    {
+      "id": "6554df80c0f2",
+      "title": "Fed 決策／12月10日會議聲明全文",
+      "url": "https://money.udn.com/money/story/5599/9195833",
+      "source": "money.udn.com",
+      "published": 1765402234
+    },
     {
       "id": "79097d836cfc",
       "title": "紐波特教學助理謊稱曾擔任狙擊手禁足校園兩年",
@@ -238,13 +245,6 @@
       "url": "https://money.udn.com/money/story/5599/9195737",
       "source": "money.udn.com",
       "published": 1765383075
-    },
-    {
-      "id": "ec273228fc7e",
-      "title": "5,340億美元 南韓喊晶片大投資 要蓋十座晶圓廠 打造全球最大半導體聚落",
-      "url": "https://money.udn.com/money/story/5599/9195555",
-      "source": "money.udn.com",
-      "published": 1765383044
     },
     {
       "id": "48621c7afd12",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765401115
+  "build_id": 1765402860
 }
