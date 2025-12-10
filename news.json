@@ -1,6 +1,20 @@
 {
-  "updated": 1765404659,
+  "updated": 1765406496,
   "items": [
+    {
+      "id": "bf5bca50ec5a",
+      "title": "美國在委內瑞拉外海扣押1油輪　國際油價止跌回升",
+      "url": "https://money.udn.com/money/story/5599/9195862",
+      "source": "money.udn.com",
+      "published": 1765406189
+    },
+    {
+      "id": "2e51e4769756",
+      "title": "特朗普批准对中国出售英伟达尖端芯片是一个“疯狂的决定”？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251210-%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E5%87%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%94%AE%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B0%96%E7%AB%AF%E8%8A%AF%E7%89%87%E6%98%AF%E4%B8%80%E4%B8%AA-%E7%96%AF%E7%8B%82%E7%9A%84%E5%86%B3%E5%AE%9A",
+      "source": "rfi.fr",
+      "published": 1765405474
+    },
     {
       "id": "2b0581a8ecf4",
       "title": "中国植树造林如此之多 以至扰乱全国的水循环 加剧水资源短缺",
@@ -261,13 +275,6 @@
       "published": 1765388076
     },
     {
-      "id": "136a45bd39b3",
-      "title": "川普批歐洲衰敗 德總理：美歐同盟不復存在",
-      "url": "https://money.udn.com/money/story/5599/9195540",
-      "source": "money.udn.com",
-      "published": 1765388023
-    },
-    {
       "id": "240c0059667c",
       "title": "西雅圖同慶驕傲賽遭埃及反對，FIFA如何應對？",
       "url": "https://www.singtaousa.com/2025/12/10/news/world/2026-world-cup-seattle-pride-match-set-to-happen-despite-egypt-objections/",
@@ -525,13 +532,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251209-%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E9%A1%BA%E5%B7%AE%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A9%E4%B8%96%E7%95%8C%E5%AE%B3%E6%80%95",
       "source": "rfi.fr",
       "published": 1765320266
-    },
-    {
-      "id": "ec7d7a5460f6",
-      "title": "诺贝尔和平奖得主马查多能否亲临挪威领奖存疑",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251209-%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96%E5%BE%97%E4%B8%BB%E9%A9%AC%E6%9F%A5%E5%A4%9A%E8%83%BD%E5%90%A6%E4%BA%B2%E4%B8%B4%E6%8C%AA%E5%A8%81%E9%A2%86%E5%A5%96%E5%AD%98%E7%96%91",
-      "source": "rfi.fr",
-      "published": 1765318996
     },
     {
       "id": "70637b80a313",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765404659
+  "build_id": 1765406496
 }
