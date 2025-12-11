@@ -1,6 +1,34 @@
 {
-  "updated": 1765476863,
+  "updated": 1765479068,
   "items": [
+    {
+      "id": "9d50e503d1ce",
+      "title": "宏都拉斯將啟動特別驗票　總統大選僵局延長",
+      "url": "https://money.udn.com/money/story/10511/9198225",
+      "source": "money.udn.com",
+      "published": 1765479281
+    },
+    {
+      "id": "5e3df9b63bb0",
+      "title": "德州佛州狀告FDA，墮胎藥米非司酮的合法地位面臨新挑戰",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/texas-and-florida-sue-fda-in-latest-effort-to-restrict-abortion-pill-access/",
+      "source": "singtaousa.com",
+      "published": 1765477986
+    },
+    {
+      "id": "be257149bd7b",
+      "title": "政治局委員馬興瑞再度缺席中央高層會議 去向成謎",
+      "url": "https://www.singtaousa.com/2025/12/11/news/china/ma-xingrui-absent-high-level-meeting/",
+      "source": "singtaousa.com",
+      "published": 1765477791
+    },
+    {
+      "id": "235f180b6cdd",
+      "title": "特朗普政府廢除SAVE還款計劃 700萬學貸借款人恐面臨更高月付額",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/save-plan-student-loan-borrowers-debt-relief/",
+      "source": "singtaousa.com",
+      "published": 1765476867
+    },
     {
       "id": "a1f4cab258e6",
       "title": "諾獎得主馬查多潛逃挪威謝美軍協助　矢言將返國",
@@ -212,13 +240,6 @@
       "published": 1765469709
     },
     {
-      "id": "3c86a4af8971",
-      "title": "時代風雲人物 黃仁勳上榜  AI「架構師」重塑社會樣貌獲得肯定",
-      "url": "https://money.udn.com/money/story/5599/9198006",
-      "source": "money.udn.com",
-      "published": 1765469427
-    },
-    {
       "id": "7223b3962482",
       "title": "美国扣押委内瑞拉“超大型”油轮原因曝光 可能吓跑中国买家",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251211-%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89-%E8%B6%85%E5%A4%A7%E5%9E%8B-%E6%B2%B9%E8%BD%AE%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-%E5%8F%AF%E8%83%BD%E5%90%93%E8%B7%91%E4%B8%AD%E5%9B%BD%E4%B9%B0%E5%AE%B6",
@@ -357,27 +378,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251211-%E5%8D%97%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%AD%90%E5%85%A5%E5%A2%83%E5%B0%86%E5%8F%B0%E5%88%97%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E5%8D%81%E4%B8%AA%E6%9C%88%E4%BB%8D%E4%B8%8D%E6%94%B9-%E5%8F%B0%E6%B9%BE%E5%A4%96%E4%BA%A4%E9%83%A8-%E5%85%A8%E9%9D%A2%E6%A3%80%E8%A7%86%E5%8F%B0%E9%9F%A9%E5%85%B3%E7%B3%BB-%E8%B4%B8%E6%98%93%E9%80%86%E5%B7%AE",
       "source": "rfi.fr",
       "published": 1765442553
-    },
-    {
-      "id": "07ab49c313c1",
-      "title": "Instagram被揭自動將貼文變「標題黨」",
-      "url": "https://www.singtaousa.com/2025/12/11/news/usa/instagram-creates-ai-titles/",
-      "source": "singtaousa.com",
-      "published": 1765440978
-    },
-    {
-      "id": "61c730a84b6b",
-      "title": "安卓新功能 緊急情況視像求助",
-      "url": "https://www.singtaousa.com/2025/12/11/news/usa/android-emergency-video-assistance/",
-      "source": "singtaousa.com",
-      "published": 1765440924
-    },
-    {
-      "id": "6017531a1e5e",
-      "title": "士德頓新社區基金 支援槍擊案受害人",
-      "url": "https://www.singtaousa.com/2025/12/11/news/usa/stockton-shooting-victims-fund/",
-      "source": "singtaousa.com",
-      "published": 1765440882
     },
     {
       "id": "eacb9b4f1cbf",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765476863
+  "build_id": 1765479068
 }
