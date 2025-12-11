@@ -1,6 +1,13 @@
 {
-  "updated": 1765479068,
+  "updated": 1765480314,
   "items": [
+    {
+      "id": "279f6337d1ce",
+      "title": "港鐵南昌站悲劇｜59歲男乘客列車上暈倒 送院搶救後不治",
+      "url": "https://www.singtaousa.com/2025/12/11/news/china/mtr-nam-cheong-station-passenger-collapse-fatal/",
+      "source": "singtaousa.com",
+      "published": 1765479594
+    },
     {
       "id": "9d50e503d1ce",
       "title": "宏都拉斯將啟動特別驗票　總統大選僵局延長",
@@ -210,13 +217,6 @@
       "url": "https://money.udn.com/money/story/123398/9198069",
       "source": "money.udn.com",
       "published": 1765471594
-    },
-    {
-      "id": "771c8d293bcf",
-      "title": "南卡州麻疹疫情加速擴散 數百人隔離 官員揭背後關鍵",
-      "url": "https://www.singtaousa.com/2025/12/11/news/usa/south-carolina-measles-outbreak-is-accelerating-driving-hundreds-into-quarantine/",
-      "source": "singtaousa.com",
-      "published": 1765471188
     },
     {
       "id": "a99d22e772e7",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765479068
+  "build_id": 1765480314
 }
