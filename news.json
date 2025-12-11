@@ -1,6 +1,27 @@
 {
-  "updated": 1765494642,
+  "updated": 1765496248,
   "items": [
+    {
+      "id": "92faad77d0b7",
+      "title": "伊頓火災期間 洛杉磯縣缺乏其他機構使用的衛星地圖工具",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/eaton-fire-update/",
+      "source": "singtaousa.com",
+      "published": 1765495540
+    },
+    {
+      "id": "592aae21f36c",
+      "title": "不願選邊？被問是否擔心中日爆發軍事衝突 白宮發言人這樣回應",
+      "url": "https://money.udn.com/money/story/5599/9198309",
+      "source": "money.udn.com",
+      "published": 1765495524
+    },
+    {
+      "id": "fcce691e48e4",
+      "title": "美股收盤／逢低買盤推動標普500指數創新高 博通營收展望強勁",
+      "url": "https://money.udn.com/money/story/123398/9198307",
+      "source": "money.udn.com",
+      "published": 1765495348
+    },
     {
       "id": "3084f1858ce6",
       "title": "沙加緬度露宿者庇護站投入逾1.2億元 成效不足兩成｜細說燊語",
@@ -17,7 +38,7 @@
     },
     {
       "id": "cb295da2c01a",
-      "title": "槍殺查理·科克嫌犯泰勒·羅賓遜首次親身出庭 檢方將求處死刑",
+      "title": "槍殺查理·科克嫌犯泰勒·羅賓遜首次親身出庭",
       "url": "https://www.singtaousa.com/2025/12/11/news/usa/tyler-robinson-hearing-charlie-kirk-shooting/",
       "source": "singtaousa.com",
       "published": 1765493513
@@ -42,6 +63,13 @@
       "url": "https://money.udn.com/money/story/123398/9198267",
       "source": "money.udn.com",
       "published": 1765490069
+    },
+    {
+      "id": "c1e9d23fe94d",
+      "title": "新澤西州夫婦誣告警察性侵，隨身錄影機揭開驚人真相",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/malicious-hoax-prosecutors-say-nj-pair-fabricated-wild-rape-accusations-against-troopers/",
+      "source": "singtaousa.com",
+      "published": 1765490064
     },
     {
       "id": "454d93211e5b",
@@ -126,20 +154,6 @@
       "url": "https://money.udn.com/money/story/5599/9198250",
       "source": "money.udn.com",
       "published": 1765485375
-    },
-    {
-      "id": "12b0e8ab6fbf",
-      "title": "87歲書畫大師范曾再添丁！親筆聲明與女兒繼子斷絕關係，財產全交嫩妻",
-      "url": "https://www.singtaousa.com/2025/12/11/news/china/fan-zeng-newborn-son-family-estrangement/",
-      "source": "singtaousa.com",
-      "published": 1765484994
-    },
-    {
-      "id": "6ea6fd094f4a",
-      "title": "華州暴雨成災引發洪水與泥石流　州長宣布全州進入緊急狀態",
-      "url": "https://www.singtaousa.com/2025/12/11/news/usa/news-washington-state-floods/",
-      "source": "singtaousa.com",
-      "published": 1765484589
     },
     {
       "id": "ae332352acc4",
@@ -247,20 +261,6 @@
       "published": 1765474398
     },
     {
-      "id": "68402dbf8a4d",
-      "title": "Fed 如市場預期降息1碼 鮑爾暗示降息告一段落",
-      "url": "https://money.udn.com/money/story/5599/9198086",
-      "source": "money.udn.com",
-      "published": 1765473685
-    },
-    {
-      "id": "d00dd7ac13b9",
-      "title": "Fed鷹鴿對峙 將成新常態 市場解讀下任主席面臨「降息護欄」",
-      "url": "https://money.udn.com/money/story/5599/9198005",
-      "source": "money.udn.com",
-      "published": 1765472759
-    },
-    {
       "id": "a99d22e772e7",
       "title": "乌克兰对莫斯科等地发动重大空袭 影响首都4个机场运营",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251211-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AF%B9%E8%8E%AB%E6%96%AF%E7%A7%91%E5%8F%8A%E5%85%B6%E4%BB%96%E5%9C%B0%E5%8C%BA%E5%8F%91%E5%8A%A8%E9%87%8D%E5%A4%A7%E7%A9%BA%E8%A2%AD-%E5%BD%B1%E5%93%8D%E9%A6%96%E9%83%BD4%E4%B8%AA%E6%9C%BA%E5%9C%BA%E8%BF%90%E8%90%A5",
@@ -280,6 +280,34 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251211-%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89-%E8%B6%85%E5%A4%A7%E5%9E%8B-%E6%B2%B9%E8%BD%AE%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-%E5%8F%AF%E8%83%BD%E5%90%93%E8%B7%91%E4%B8%AD%E5%9B%BD%E4%B9%B0%E5%AE%B6",
       "source": "rfi.fr",
       "published": 1765469374
+    },
+    {
+      "id": "967062363422",
+      "title": "中国如何积累起万亿美元贸易顺差",
+      "url": "https://www.ftchinese.com/story/001108421",
+      "source": "ftchinese.com",
+      "published": 1765468800
+    },
+    {
+      "id": "eeaffd3db8fc",
+      "title": "投资于物和投资于人的时代逻辑：格物致知，成势在人",
+      "url": "https://www.ftchinese.com/story/001108419",
+      "source": "ftchinese.com",
+      "published": 1765468800
+    },
+    {
+      "id": "1e1b0903d3ac",
+      "title": "在变革时代打造具长远视野的投资组合",
+      "url": "https://www.ftchinese.com/story/001108394",
+      "source": "ftchinese.com",
+      "published": 1765468800
+    },
+    {
+      "id": "8d105148719b",
+      "title": "为什么应该警惕稳定币？",
+      "url": "https://www.ftchinese.com/story/001108420",
+      "source": "ftchinese.com",
+      "published": 1765468800
     },
     {
       "id": "a0834a9a6bba",
@@ -810,34 +838,6 @@
       "id": "2615cdd654ae",
       "title": "特朗普为何如此关注欧洲移民问题？",
       "url": "https://www.ftchinese.com/story/001108403",
-      "source": "ftchinese.com",
-      "published": 1765296000
-    },
-    {
-      "id": "cab314bea5ef",
-      "title": "电动自行车安全的边界，应该如何确定？",
-      "url": "https://www.ftchinese.com/story/001108401",
-      "source": "ftchinese.com",
-      "published": 1765296000
-    },
-    {
-      "id": "f83c24e55230",
-      "title": "分析：私募信贷老总的抱怨是否合理",
-      "url": "https://www.ftchinese.com/story/001108400",
-      "source": "ftchinese.com",
-      "published": 1765296000
-    },
-    {
-      "id": "0c7ed197c45b",
-      "title": "托克：石油市场明年将面临“超级过剩”",
-      "url": "https://www.ftchinese.com/story/001108399",
-      "source": "ftchinese.com",
-      "published": 1765296000
-    },
-    {
-      "id": "e89de5e4ae1c",
-      "title": "特朗普现在更看重硅谷寡头而非MAGA基本盘",
-      "url": "https://www.ftchinese.com/story/001108398",
       "source": "ftchinese.com",
       "published": 1765296000
     },
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765494642
+  "build_id": 1765496248
 }
