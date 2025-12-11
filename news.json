@@ -1,12 +1,26 @@
 {
-  "updated": 1765462440,
+  "updated": 1765464116,
   "items": [
     {
-      "id": "00e9c5c02485",
-      "title": "疑接受補貼造成不公平競爭　歐盟調查中國同方威視",
-      "url": "https://money.udn.com/money/story/5599/9197849",
+      "id": "0355b7b64f47",
+      "title": "高盛：金價漲勢還沒結束 因這群人幾乎還沒買",
+      "url": "https://money.udn.com/money/story/5599/9197935",
       "source": "money.udn.com",
-      "published": 1765461331
+      "published": 1765463808
+    },
+    {
+      "id": "553d254e1298",
+      "title": "北約秘書長呂特警告：我們是俄羅斯下個目標",
+      "url": "https://money.udn.com/money/story/5599/9197887",
+      "source": "money.udn.com",
+      "published": 1765462876
+    },
+    {
+      "id": "683c8c0f170a",
+      "title": "美勞動市場疲弱!? KPMG：鮑爾的判斷 可能有損 Fed 公信力",
+      "url": "https://money.udn.com/money/story/5599/9197864",
+      "source": "money.udn.com",
+      "published": 1765461748
     },
     {
       "id": "ecbcf8cebb62",
@@ -163,25 +177,11 @@
       "published": 1765454160
     },
     {
-      "id": "1d8d64096a9b",
-      "title": "景順投信：2026年經濟展望樂觀 看好這兩項資產",
-      "url": "https://money.udn.com/money/story/5599/9197700",
-      "source": "money.udn.com",
-      "published": 1765454013
-    },
-    {
       "id": "09cba4a4306b",
       "title": "东京：美日战机联合飞行 应对中俄军演",
       "url": "https://www.dw.com/zh/东京：美日战机联合飞行-应对中俄军演/a-75107887?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765453860
-    },
-    {
-      "id": "b092a861c64a",
-      "title": "川普抨擊聯準會降息乏力 「另一個凱文」今日接受終極面試",
-      "url": "https://money.udn.com/money/story/5599/9195941",
-      "source": "money.udn.com",
-      "published": 1765453809
     },
     {
       "id": "a4f122f38ba5",
@@ -821,20 +821,6 @@
       "published": 1765291140
     },
     {
-      "id": "0304f2641ea3",
-      "title": "德国外长广州行：看到与中国建设性合作机会",
-      "url": "https://www.dw.com/zh/德国外长广州行：看到与中国建设性合作机会/a-75078240?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765290240
-    },
-    {
-      "id": "7e07f3da782b",
-      "title": "王毅：日本企图借台湾生事，是可忍孰不可忍",
-      "url": "https://www.dw.com/zh/王毅：日本企图借台湾生事，是可忍孰不可忍/a-75078009?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765288380
-    },
-    {
       "id": "ae9018f45340",
       "title": "雷诺和福特联手开发经济型电动汽车",
       "url": "https://www.dw.com/zh/雷诺和福特联手开发经济型电动汽车/a-75076762?maca=chi-rss-chi-all-1127-rdf",
@@ -1017,16 +1003,16 @@
       "published": 1765105740
     },
     {
-      "id": "bad66d7e05f5",
-      "title": "从波罗的海到太平洋：海底电缆安全受威胁",
-      "url": "https://www.dw.com/zh/从波罗的海到太平洋：海底电缆安全受威胁/a-74989171?maca=chi-rss-chi-all-1127-rdf",
+      "id": "8633705ee7bb",
+      "title": "阿伦特在中国：思考作为精神的家园",
+      "url": "https://www.dw.com/zh/阿伦特在中国：思考作为精神的家园/a-75033730?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095900
     },
     {
-      "id": "8633705ee7bb",
-      "title": "阿伦特在中国：思考作为精神的家园",
-      "url": "https://www.dw.com/zh/阿伦特在中国：思考作为精神的家园/a-75033730?maca=chi-rss-chi-all-1127-rdf",
+      "id": "bad66d7e05f5",
+      "title": "从波罗的海到太平洋：海底电缆安全受威胁",
+      "url": "https://www.dw.com/zh/从波罗的海到太平洋：海底电缆安全受威胁/a-74989171?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095900
     },
@@ -1400,7 +1386,21 @@
       "url": "https://www.dw.com/zh/台灣馬術治療的德國血統/a-74743604?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763281320
+    },
+    {
+      "id": "2221cae968a3",
+      "title": "生成式AI打擊民主？唐鳳：公民參與強化民主韌性",
+      "url": "https://www.dw.com/zh/生成式ai打擊民主？唐鳳：公民參與強化民主韌性/a-74700245?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1763280120
+    },
+    {
+      "id": "bcaba386003d",
+      "title": "專訪香港導演周冠威：抗爭很痛苦 服從也很痛苦",
+      "url": "https://www.dw.com/zh/專訪香港導演周冠威：抗爭很痛苦-服從也很痛苦/a-74728666?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1763087640
     }
   ],
-  "build_id": 1765462440
+  "build_id": 1765464116
 }
