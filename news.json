@@ -1,16 +1,79 @@
 {
-  "updated": 1765421233,
+  "updated": 1765425132,
   "items": [
     {
+      "id": "8b0c833f4cba",
+      "title": "台积电员工跳槽英特尔，被台湾检方援引国安法展开调查",
+      "url": "https://cn.nytimes.com/business/20251211/taiwan-tsmc-trade-secrets/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1765424739
+    },
+    {
+      "id": "5d4d21bb72f1",
+      "title": "未來民航機外型長怎樣？空中巴士執行長看好這款轟炸機設計",
+      "url": "https://money.udn.com/money/story/5599/9196351",
+      "source": "money.udn.com",
+      "published": 1765423386
+    },
+    {
+      "id": "295a77f8187b",
+      "title": "中俄軍機聯合飛行 北約秘書長、日防相同表關切",
+      "url": "https://money.udn.com/money/story/5599/9196361",
+      "source": "money.udn.com",
+      "published": 1765423384
+    },
+    {
+      "id": "e60e9ccc24d6",
+      "title": "馬斯克明年躍居史上首位「1兆美元富豪」？就看 SpaceX 能否創 IPO 紀錄",
+      "url": "https://money.udn.com/money/story/123398/9196354",
+      "source": "money.udn.com",
+      "published": 1765423384
+    },
+    {
+      "id": "1f9049676eaa",
+      "title": "魯比歐下令國務院改掉「浪費」的多元化字體 Calibri設計師回應了",
+      "url": "https://money.udn.com/money/story/5599/9196328",
+      "source": "money.udn.com",
+      "published": 1765422802
+    },
+    {
+      "id": "75b7ad2c229b",
+      "title": "墨西哥對亞洲開徵新關稅！稅率最高50% 逾1400項商品受影響",
+      "url": "https://money.udn.com/money/story/5599/9196312",
+      "source": "money.udn.com",
+      "published": 1765422404
+    },
+    {
+      "id": "c1372f333182",
+      "title": "韓國N號房主嫌趙主彬　因未成年性犯罪追加5年徒刑",
+      "url": "https://money.udn.com/money/story/5599/9196296",
+      "source": "money.udn.com",
+      "published": 1765422036
+    },
+    {
+      "id": "4be486596659",
+      "title": "勞資達成協議  韓國鐵道及首爾地鐵撤回罷工",
+      "url": "https://money.udn.com/money/story/5599/9196270",
+      "source": "money.udn.com",
+      "published": 1765421729
+    },
+    {
+      "id": "fce75fad7646",
+      "title": "英特爾、AMD、德儀被控蓄意無視 未阻晶片流入俄羅斯製造武器",
+      "url": "https://money.udn.com/money/story/5599/9196261",
+      "source": "money.udn.com",
+      "published": 1765421551
+    },
+    {
       "id": "132429cf583e",
-      "title": "因應AI儲存需求 鎧俠傳明年量產新一代NAND晶片",
+      "title": "因應 AI 儲存需求 鎧俠傳明年量產新一代 NAND 晶片",
       "url": "https://money.udn.com/money/story/5599/9196230",
       "source": "money.udn.com",
       "published": 1765421014
     },
     {
       "id": "61fa4dabe7d7",
-      "title": "英特爾CEO陳立武 推與個人投資版圖重疊的交易 董事會力挺",
+      "title": "英特爾 CEO 陳立武 推與個人投資版圖重疊的交易 董事會力挺",
       "url": "https://money.udn.com/money/story/5599/9196202",
       "source": "money.udn.com",
       "published": 1765420589
@@ -107,32 +170,11 @@
       "published": 1765416690
     },
     {
-      "id": "10dafcba89cf",
-      "title": "Netflix 與派拉蒙爭購華納兄弟 川普放話：CNN 一定要處理",
-      "url": "https://money.udn.com/money/story/5599/9196025",
-      "source": "money.udn.com",
-      "published": 1765416690
-    },
-    {
       "id": "703bf92dd738",
       "title": "瓦列霍警局驚爆秘密檔案櫃，多年警員不當行為或遭隱瞞",
       "url": "https://www.singtaousa.com/2025/12/10/news/usa/vallejo-confirms-police-had-separate-filing-cabinet-that-hid-officer-complaints-from-courts/",
       "source": "singtaousa.com",
       "published": 1765416501
-    },
-    {
-      "id": "3ea16445e0c0",
-      "title": "川普「金卡」網站開張！並預告白金卡 境外所得免稅、申請費更高",
-      "url": "https://money.udn.com/money/story/5599/9196003",
-      "source": "money.udn.com",
-      "published": 1765415674
-    },
-    {
-      "id": "4ba88e3c5ad0",
-      "title": "美貿易代表：川普重視「建設性」美中關係 非對中鷹或鴿派而是親美派",
-      "url": "https://money.udn.com/money/story/5599/9195993",
-      "source": "money.udn.com",
-      "published": 1765415208
     },
     {
       "id": "0e9c17c3cb64",
@@ -142,44 +184,9 @@
       "published": 1765414703
     },
     {
-      "id": "8f278a77c9a0",
-      "title": "諾貝爾燈節向和平致意　點亮斯德哥爾摩黑暗冬夜",
-      "url": "https://money.udn.com/money/story/5599/9195976",
-      "source": "money.udn.com",
-      "published": 1765414471
-    },
-    {
-      "id": "c4d822cd32d0",
-      "title": "巴西台僑社贈千箱食物籃  耶誕活動展跨國人道精神",
-      "url": "https://money.udn.com/money/story/5599/9195975",
-      "source": "money.udn.com",
-      "published": 1765414471
-    },
-    {
-      "id": "91975b8bb8c2",
-      "title": "華府端出「新雅爾達」版烏克蘭重建方案  川普施壓歐洲埋單",
-      "url": "https://money.udn.com/money/story/5599/9195970",
-      "source": "money.udn.com",
-      "published": 1765414354
-    },
-    {
-      "id": "efdac4ec7f98",
-      "title": "富比世2025百大最具影響力女性！高市早苗初登榜拿第3 獲選原因曝光",
-      "url": "https://money.udn.com/money/story/5599/9195952",
-      "source": "money.udn.com",
-      "published": 1765413479
-    },
-    {
-      "id": "9aa162ce1c41",
-      "title": "委內瑞拉油輪遭美扣押　馬杜洛批美國非法干預",
-      "url": "https://money.udn.com/money/story/10511/9195946",
-      "source": "money.udn.com",
-      "published": 1765413396
-    },
-    {
-      "id": "ee046b869b52",
-      "title": "特朗普金卡正式推出！同時計劃推出500萬美元的「白金卡」",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/trump-us-gold-card-visa-launch/",
+      "id": "00f6d271937b",
+      "title": "全美之最｜「魔鬼壺」瀑布  流水有入無出",
+      "url": "https://www.singtaousa.com/2025/12/10/news/usa/usa-today-readers-rank-devils-kettle-trail-no-1/",
       "source": "singtaousa.com",
       "published": 1765412957
     },
@@ -329,6 +336,27 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251210-%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BE%8E%E9%A3%9F%E8%8E%B7%E8%81%94%E5%90%88%E5%9B%BD%E9%9D%9E%E9%81%97%E8%AE%A4%E5%AE%9A-%E6%88%90%E9%A6%96%E4%B8%AA%E4%BB%A5%E6%95%B4%E4%BD%93%E7%BE%8E%E9%A3%9F%E5%85%A5%E9%80%89%E7%9A%84%E5%9B%BD%E5%AE%B6",
       "source": "rfi.fr",
       "published": 1765382570
+    },
+    {
+      "id": "3018782f7bdb",
+      "title": "内塔尼亚胡已成为中东和平障碍",
+      "url": "https://www.ftchinese.com/story/001108414",
+      "source": "ftchinese.com",
+      "published": 1765382400
+    },
+    {
+      "id": "ab1c57cd800a",
+      "title": "每周时事分析：韩美对朝核政策出现分歧",
+      "url": "https://www.ftchinese.com/story/001108413",
+      "source": "ftchinese.com",
+      "published": 1765382400
+    },
+    {
+      "id": "d72631dad95e",
+      "title": "探访巴勒斯坦：在约旦河西岸的对话",
+      "url": "https://www.ftchinese.com/story/001108412",
+      "source": "ftchinese.com",
+      "published": 1765382400
     },
     {
       "id": "6926c6e8f700",
@@ -688,13 +716,6 @@
       "published": 1765296000
     },
     {
-      "id": "2c932d066d92",
-      "title": "2026年看空美股的四大理由",
-      "url": "https://www.ftchinese.com/story/001108390",
-      "source": "ftchinese.com",
-      "published": 1765296000
-    },
-    {
       "id": "027b0ebafbb8",
       "title": "上海之后 滨崎步澳门演唱会也被取消",
       "url": "https://www.dw.com/zh/上海之后-滨崎步澳门演唱会也被取消/a-75079306?maca=chi-rss-chi-all-1127-rdf",
@@ -833,20 +854,6 @@
       "url": "https://www.dw.com/zh/德国外长：我们需要同中国对话，因而我来到了北京/a-75067545?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765209960
-    },
-    {
-      "id": "2bb198a1ae5b",
-      "title": "开源AI是中国的优势",
-      "url": "https://www.ftchinese.com/story/001108397",
-      "source": "ftchinese.com",
-      "published": 1765209600
-    },
-    {
-      "id": "521cbbd3c15e",
-      "title": "新版美国战略报告的中国叙事：雄心有余，能力或不足",
-      "url": "https://www.ftchinese.com/story/001108392",
-      "source": "ftchinese.com",
-      "published": 1765209600
     },
     {
       "id": "f9bacd42998a",
@@ -1064,13 +1071,6 @@
       "url": "https://cn.nytimes.com/china/20251204/china-japan-ww2-russia-gaza-pope/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1764879559
-    },
-    {
-      "id": "ee604a2988fa",
-      "title": "台积电在美国建起工厂，也带来一个繁荣的台湾社区",
-      "url": "https://cn.nytimes.com/business/20251205/tsmc-phoenix-little-taipei/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1764876196
     },
     {
       "id": "ba6175605f0b",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765421233
+  "build_id": 1765425132
 }
