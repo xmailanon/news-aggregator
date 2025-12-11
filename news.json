@@ -1,10 +1,31 @@
 {
-  "updated": 1765487523,
+  "updated": 1765489135,
   "items": [
     {
-      "id": "b06c17524db1",
+      "id": "337eb851e3f4",
+      "title": "美聯社民調：特朗普處理經濟表現 跌至新低",
+      "url": "https://www.singtaousa.com/2025/12/11/news/news-trump-economy-approval-poll/",
+      "source": "singtaousa.com",
+      "published": 1765489039
+    },
+    {
+      "id": "fb85d8d60266",
+      "title": "投資人關注俄烏和談及美國燃料庫存　國際油價下跌",
+      "url": "https://money.udn.com/money/story/5599/9198265",
+      "source": "money.udn.com",
+      "published": 1765488988
+    },
+    {
+      "id": "0b4a85610858",
+      "title": "迪士尼投資10億美元入股OpenAI　米老鼠等角色將可用於Sora AI影片工具",
+      "url": "https://www.singtaousa.com/2025/12/11/news/news-disney-invests-openai-sora/",
+      "source": "singtaousa.com",
+      "published": 1765487912
+    },
+    {
+      "id": "a60caa6ecd98",
       "title": "《時代》年度風雲人物  三位華裔站上AI時代封面中心",
-      "url": "https://www.singtaousa.com/2025/12/11/news/usa/news-time-person-of-the-year-ai/",
+      "url": "https://www.singtaousa.com/2025/12/11/news/news-time-person-of-the-year-ai/",
       "source": "singtaousa.com",
       "published": 1765487027
     },
@@ -72,25 +93,11 @@
       "published": 1765481420
     },
     {
-      "id": "86d7a3d77e53",
-      "title": "元朗冰室肉餅飯一夜爆紅！老闆憂加租：人多到飯都煮唔切",
-      "url": "https://www.singtaousa.com/2025/12/11/news/china/yuen-long-cafe-meat-patty-rice-viral/",
-      "source": "singtaousa.com",
-      "published": 1765481392
-    },
-    {
       "id": "ae332352acc4",
       "title": "英國博物館600多件文物失竊　警方追查4名涉案男子",
       "url": "https://money.udn.com/money/story/5599/9198233",
       "source": "money.udn.com",
       "published": 1765480892
-    },
-    {
-      "id": "279f6337d1ce",
-      "title": "港鐵南昌站悲劇｜59歲男乘客列車上暈倒 送院搶救後不治",
-      "url": "https://www.singtaousa.com/2025/12/11/news/china/mtr-nam-cheong-station-passenger-collapse-fatal/",
-      "source": "singtaousa.com",
-      "published": 1765479594
     },
     {
       "id": "2fc78c053a73",
@@ -217,13 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/9198009",
       "source": "money.udn.com",
       "published": 1765472318
-    },
-    {
-      "id": "b2c2cb11f7e6",
-      "title": "明年美元看貶 亞洲股匯有撐",
-      "url": "https://money.udn.com/money/story/5599/9198052",
-      "source": "money.udn.com",
-      "published": 1765472188
     },
     {
       "id": "a99d22e772e7",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765487523
+  "build_id": 1765489135
 }
