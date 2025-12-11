@@ -1,6 +1,118 @@
 {
-  "updated": 1765438830,
+  "updated": 1765441002,
   "items": [
+    {
+      "id": "07ab49c313c1",
+      "title": "Instagram被揭自動將貼文變「標題黨」",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/instagram-creates-ai-titles/",
+      "source": "singtaousa.com",
+      "published": 1765440978
+    },
+    {
+      "id": "61c730a84b6b",
+      "title": "安卓新功能 緊急情況視像求助",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/android-emergency-video-assistance/",
+      "source": "singtaousa.com",
+      "published": 1765440924
+    },
+    {
+      "id": "6017531a1e5e",
+      "title": "士德頓新社區基金 支援槍擊案受害人",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/stockton-shooting-victims-fund/",
+      "source": "singtaousa.com",
+      "published": 1765440882
+    },
+    {
+      "id": "ea0892c4f911",
+      "title": "華裔創作短片成功 周志堅吸粉近億",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/alan-chow-youtube-success/",
+      "source": "singtaousa.com",
+      "published": 1765440856
+    },
+    {
+      "id": "0aa803ca6149",
+      "title": "OpenAI繼續第三方合作 ChatGPT直接用Adobe軟件",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/openai-chatgpt-adobe-integration/",
+      "source": "singtaousa.com",
+      "published": 1765440827
+    },
+    {
+      "id": "f7cd6d51607c",
+      "title": "加州中谷40年前發現頭骨 DNA技術確認身份",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/california-skull-dna-identification/",
+      "source": "singtaousa.com",
+      "published": 1765440806
+    },
+    {
+      "id": "c49b08763d10",
+      "title": "加州約束AI產業選票提案 推動者背景成疑",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/california-ai-regulation-initiative/",
+      "source": "singtaousa.com",
+      "published": 1765440787
+    },
+    {
+      "id": "86f79b592e52",
+      "title": "緬甸軍政府大選前空襲若開邦醫院　至少31死68傷",
+      "url": "https://money.udn.com/money/story/5599/9197208",
+      "source": "money.udn.com",
+      "published": 1765440745
+    },
+    {
+      "id": "f8c733452438",
+      "title": "廢除19號提案啟動連署 關注收集選民有效簽名",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/repeal-proposition-19-signatures/",
+      "source": "singtaousa.com",
+      "published": 1765440740
+    },
+    {
+      "id": "c5e2532ec627",
+      "title": "新興國家股市迎來走出「寒冬」良機 哪些國家可能捲土重來？",
+      "url": "https://money.udn.com/money/story/120769/9197036",
+      "source": "money.udn.com",
+      "published": 1765440591
+    },
+    {
+      "id": "3ad473d01a78",
+      "title": "三藩市孕婦Waymo無人車分娩",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/san-francisco-waymo-birth/",
+      "source": "singtaousa.com",
+      "published": 1765440541
+    },
+    {
+      "id": "e3e2d16b72d3",
+      "title": "涉酒駕撞死人肇逃 亞裔被控謀殺",
+      "url": "https://www.singtaousa.com/2025/12/11/news/usa/drunk-driving-hit-run/",
+      "source": "singtaousa.com",
+      "published": 1765440522
+    },
+    {
+      "id": "eacb9b4f1cbf",
+      "title": "美國或要求外國遊客入境前提供五年社交媒體紀錄",
+      "url": "https://www.bbc.com/zhongwen/articles/crmdx0n2009o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1765440492
+    },
+    {
+      "id": "a4f122f38ba5",
+      "title": "中日外交僵局难解：「誰都不認輸、誰也贏不了」的拉鋸？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm20ep54395o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1765440321
+    },
+    {
+      "id": "b8c0b9601485",
+      "title": "日本國內線客機空中故障 迫降於北海道函館",
+      "url": "https://money.udn.com/money/story/5599/9197153",
+      "source": "money.udn.com",
+      "published": 1765439691
+    },
+    {
+      "id": "e17ae6790e56",
+      "title": "中國寵物投毒刑事公訴第一案宣判：投毒人獲刑四年",
+      "url": "https://www.bbc.com/zhongwen/articles/c5y9lz8dr16o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1765439010
+    },
     {
       "id": "38d2dadd263b",
       "title": "印度經濟顧問：與美貿易協議可望明年3月敲定",
@@ -35,13 +147,6 @@
       "url": "https://money.udn.com/money/story/5599/9197058",
       "source": "money.udn.com",
       "published": 1765437167
-    },
-    {
-      "id": "ee046b869b52",
-      "title": "特朗普金卡正式推出！同時計劃推出500萬美元的「白金卡」",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/trump-us-gold-card-visa-launch/",
-      "source": "singtaousa.com",
-      "published": 1765436276
     },
     {
       "id": "b4324739678d",
@@ -91,13 +196,6 @@
       "url": "https://money.udn.com/money/story/5599/9196928",
       "source": "money.udn.com",
       "published": 1765434621
-    },
-    {
-      "id": "fcbce430df50",
-      "title": "Linux崛起威脅遊戲霸權？微軟承諾2026年打造最佳Windows體驗",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/microsoft-promises-to-make-windows-the-best-place-for-gaming-in-2026-in-the-face-of-linux-growth/",
-      "source": "singtaousa.com",
-      "published": 1765434505
     },
     {
       "id": "61047ae558eb",
@@ -163,53 +261,11 @@
       "published": 1765431051
     },
     {
-      "id": "9ad244dc938b",
-      "title": "人類何時學會生火？最新考古證據顯示時間比原先認為早35萬年",
-      "url": "https://money.udn.com/money/story/5599/9196748",
-      "source": "money.udn.com",
-      "published": 1765431043
-    },
-    {
-      "id": "7ccd70bdea8c",
-      "title": "美ICE高官辛辛那提被控家暴，鎖喉傷人駭人細節曝光",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/cincinnati-ice-agent-indicted-on-domestic-violence-charges-accused-of-choking-woman/",
-      "source": "singtaousa.com",
-      "published": 1765430904
-    },
-    {
-      "id": "064c5d0a1786",
-      "title": "Fed 內部分裂加劇 鮑爾任內最後一次降息？新任主席更難凝聚共識",
-      "url": "https://money.udn.com/money/story/122381/9196738",
-      "source": "money.udn.com",
-      "published": 1765430835
-    },
-    {
       "id": "b1e848f8e40d",
       "title": "委內瑞拉是否已被其兩大盟友——中俄拋棄？",
       "url": "https://www.bbc.com/zhongwen/articles/cjezknjxnnqo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765430387
-    },
-    {
-      "id": "dd08f0cce332",
-      "title": "回應中俄15架軍機繞飛！美日戰機日本海聯合演訓 B-52轟炸機現身",
-      "url": "https://money.udn.com/money/story/5599/9196685",
-      "source": "money.udn.com",
-      "published": 1765429947
-    },
-    {
-      "id": "3a764f08a011",
-      "title": "特朗普副手搭檔現黑馬？前議長麥卡錫意外入圍名單",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/trump-considering-kevin-mccarthy-for-vp-sources-say/",
-      "source": "singtaousa.com",
-      "published": 1765429101
-    },
-    {
-      "id": "6d9c636bc76e",
-      "title": "紐約州小鎮公投通過圖書館增款案 結束16年經費凍結",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/stephentown-memorial-library-proposal-passes/",
-      "source": "singtaousa.com",
-      "published": 1765427303
     },
     {
       "id": "973aa54ee64c",
@@ -224,41 +280,6 @@
       "url": "https://cn.nytimes.com/business/20251211/taiwan-tsmc-trade-secrets/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1765424739
-    },
-    {
-      "id": "ec9d67ab84b4",
-      "title": "油輪遭扣押風波：委內瑞拉官員怒斥美國為「海上罪犯」",
-      "url": "https://www.singtaousa.com/2025/12/10/news/world/follow-live-venezuela-accuses-us-of-piracy-after-oil-tanker-seized-off-coast/",
-      "source": "singtaousa.com",
-      "published": 1765420103
-    },
-    {
-      "id": "b08f06bee829",
-      "title": "薩科齊新書揭20天獄中秘辛，對政敵勒龐態度為何大轉變？",
-      "url": "https://www.singtaousa.com/2025/12/10/news/world/sarkozy-releases-prison-diaries-about-his-20-days-behind-bars/",
-      "source": "singtaousa.com",
-      "published": 1765418301
-    },
-    {
-      "id": "703bf92dd738",
-      "title": "瓦列霍警局驚爆秘密檔案櫃，多年警員不當行為或遭隱瞞",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/vallejo-confirms-police-had-separate-filing-cabinet-that-hid-officer-complaints-from-courts/",
-      "source": "singtaousa.com",
-      "published": 1765416501
-    },
-    {
-      "id": "0e9c17c3cb64",
-      "title": "魯比奧劍指DEI政策？下令美國務院禁用Calibri字體",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/calibri-font-becomes-the-latest-dei-target-as-rubio-orders-return-to-times-new-roman/",
-      "source": "singtaousa.com",
-      "published": 1765414703
-    },
-    {
-      "id": "00f6d271937b",
-      "title": "全美之最｜「魔鬼壺」瀑布  流水有入無出",
-      "url": "https://www.singtaousa.com/2025/12/10/news/usa/usa-today-readers-rank-devils-kettle-trail-no-1/",
-      "source": "singtaousa.com",
-      "published": 1765412957
     },
     {
       "id": "da6d694bfbef",
@@ -891,20 +912,6 @@
       "published": 1765189380
     },
     {
-      "id": "affd58cea92d",
-      "title": "香港立法會選舉：投票率史上第二低，40人屬於「新人」",
-      "url": "https://www.bbc.com/zhongwen/articles/c98nd5z0v68o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1765188218
-    },
-    {
-      "id": "cce2ff785ae6",
-      "title": "製造北極光的太陽風暴如何同時對地球造成破壞？",
-      "url": "https://www.bbc.com/zhongwen/articles/cvgj3g7z08po/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1765179291
-    },
-    {
       "id": "68804f399900",
       "title": "禁止孩子使用社交媒體？澳大利亞即將行動，但一些青少年卻已搶先一步",
       "url": "https://www.bbc.com/zhongwen/articles/c4g4qnnq23zo/trad?at_medium=RSS&at_campaign=rss",
@@ -1234,13 +1241,6 @@
       "published": 1764431088
     },
     {
-      "id": "186454ed0953",
-      "title": "香港宏福苑大火：金屬棚架真的比竹棚安全嗎？還有什麼關鍵因素？",
-      "url": "https://www.bbc.com/zhongwen/articles/cn8ex03l98yo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1764408493
-    },
-    {
       "id": "fdad815ac851",
       "title": "美越关税摩擦中国受益？华为中兴拿下越南5G合同",
       "url": "https://www.dw.com/zh/美越关税摩擦中国受益？华为中兴拿下越南5g合同/a-74941740?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765438830
+  "build_id": 1765441002
 }
