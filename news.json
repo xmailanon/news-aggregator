@@ -1,6 +1,48 @@
 {
-  "updated": 1765430040,
+  "updated": 1765431784,
   "items": [
+    {
+      "id": "d5444dc5ef03",
+      "title": "日媒：日韓領袖擬2026年1月在奈良東大寺會面",
+      "url": "https://money.udn.com/money/story/5599/9196764",
+      "source": "money.udn.com",
+      "published": 1765431456
+    },
+    {
+      "id": "c553356935f7",
+      "title": "美國擬禁雙重國籍 資誠：台美雙籍者恐受影響",
+      "url": "https://money.udn.com/money/story/5599/9196747",
+      "source": "money.udn.com",
+      "published": 1765431051
+    },
+    {
+      "id": "9ad244dc938b",
+      "title": "人類何時學會生火？最新考古證據顯示時間比原先認為早35萬年",
+      "url": "https://money.udn.com/money/story/5599/9196748",
+      "source": "money.udn.com",
+      "published": 1765431043
+    },
+    {
+      "id": "7ccd70bdea8c",
+      "title": "美ICE高官辛辛那提被控家暴，鎖喉傷人駭人細節曝光",
+      "url": "https://www.singtaousa.com/2025/12/10/news/usa/cincinnati-ice-agent-indicted-on-domestic-violence-charges-accused-of-choking-woman/",
+      "source": "singtaousa.com",
+      "published": 1765430904
+    },
+    {
+      "id": "064c5d0a1786",
+      "title": "Fed 內部分裂加劇 鮑爾任內最後一次降息？新任主席更難凝聚共識",
+      "url": "https://money.udn.com/money/story/122381/9196738",
+      "source": "money.udn.com",
+      "published": 1765430835
+    },
+    {
+      "id": "b1e848f8e40d",
+      "title": "委內瑞拉是否已被其兩大盟友——中俄拋棄？",
+      "url": "https://www.bbc.com/zhongwen/articles/cjezknjxnnqo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1765430387
+    },
     {
       "id": "dd08f0cce332",
       "title": "回應中俄15架軍機繞飛！美日戰機日本海聯合演訓 B-52轟炸機現身",
@@ -128,34 +170,6 @@
       "published": 1765425632
     },
     {
-      "id": "9cc74b1f0727",
-      "title": "川普插手華納競購戰　要求相關交易應包含出售CNN",
-      "url": "https://money.udn.com/money/story/10511/9196508",
-      "source": "money.udn.com",
-      "published": 1765425631
-    },
-    {
-      "id": "5c0ad3cabe2d",
-      "title": "北海道2000條沙丁魚擱淺當夜青森外海強震  網友熱議：莫非地震前兆",
-      "url": "https://money.udn.com/money/story/5599/9196493",
-      "source": "money.udn.com",
-      "published": 1765425629
-    },
-    {
-      "id": "54bcc76d8718",
-      "title": "抵制以色列參賽　冰島相繼退出2026歐洲歌唱大賽",
-      "url": "https://money.udn.com/money/story/5599/9196505",
-      "source": "money.udn.com",
-      "published": 1765425628
-    },
-    {
-      "id": "d571d89bff7b",
-      "title": "北海道同意泊核電廠3號機重啟　盼帶動經濟發展",
-      "url": "https://money.udn.com/money/story/5599/9196477",
-      "source": "money.udn.com",
-      "published": 1765425255
-    },
-    {
       "id": "973aa54ee64c",
       "title": "国际货币基金组织表示中国应允许人民币升值",
       "url": "https://cn.nytimes.com/business/20251211/imf-china-currency/?utm_source=RSS",
@@ -238,13 +252,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251210-%E8%81%94%E5%90%88%E5%9B%BD%E5%B7%A5%E4%BD%9C%E7%BB%84%E6%8C%87%E4%B8%AD%E5%9B%BD%E4%BB%BB%E6%84%8F%E6%8B%98%E7%95%99%E5%8D%8E%E8%A3%94%E7%91%9E%E5%85%B8%E5%85%AC%E6%B0%91%E6%A1%82%E6%B0%91%E6%B5%B7",
       "source": "rfi.fr",
       "published": 1765406997
-    },
-    {
-      "id": "13b301ba1706",
-      "title": "三星或重啟Exynos自研CPU核心？戰略轉折引好奇",
-      "url": "https://www.singtaousa.com/2025/12/10/news/world/is-samsung-bringing-back-custom-cpu-cores-for-exynos-chips/",
-      "source": "singtaousa.com",
-      "published": 1765405702
     },
     {
       "id": "2e51e4769756",
@@ -791,13 +798,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cz0n8xr1p5zo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765254797
-    },
-    {
-      "id": "efc8ce2b6e19",
-      "title": "日本北部7.5級強地震造成數十人受傷",
-      "url": "https://www.bbc.com/zhongwen/articles/cn8133q9d74o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1765250545
     },
     {
       "id": "3e2f431b5adf",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765430040
+  "build_id": 1765431784
 }
