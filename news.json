@@ -1,9 +1,23 @@
 {
-  "updated": 1765442927,
+  "updated": 1765444560,
   "items": [
     {
+      "id": "b33df68be119",
+      "title": "和Netflix纏鬥！派拉蒙開價逾千億美元「敵意收購」華納兄弟　一文看懂4大重點",
+      "url": "https://money.udn.com/money/story/5599/9197316",
+      "source": "money.udn.com",
+      "published": 1765444618
+    },
+    {
+      "id": "e1e77daa3535",
+      "title": "墨西哥参议院通过法案 明年起对中国等商品加征最高50%关税",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251211-%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E6%B3%95%E6%A1%88-%E6%98%8E%E5%B9%B4%E8%B5%B7%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%95%86%E5%93%81%E5%8A%A0%E5%BE%81%E6%9C%80%E9%AB%9850-%E5%85%B3%E7%A8%8E",
+      "source": "rfi.fr",
+      "published": 1765443121
+    },
+    {
       "id": "5a93e5d55013",
-      "title": "前線缺兵之際逃兵問題失控　烏克蘭陷雙重困境",
+      "title": "前線缺兵之際逃兵問題失控 烏克蘭陷雙重困境",
       "url": "https://money.udn.com/money/story/5599/9197267",
       "source": "money.udn.com",
       "published": 1765442197
@@ -231,13 +245,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cm20er09v5eo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765434335
-    },
-    {
-      "id": "e30ca6ab0746",
-      "title": "Meta 明年推阿里在內工具訓練的閉源模型 祖克柏親掌 AI 急轉彎",
-      "url": "https://money.udn.com/money/story/5599/9196908",
-      "source": "money.udn.com",
-      "published": 1765434179
     },
     {
       "id": "d6414aeb69a8",
@@ -539,13 +546,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c8xd141nr90o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765364528
-    },
-    {
-      "id": "f224e810a8fd",
-      "title": "视频 中国杭州动物园黑熊猛扑驯养员",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251210-%E8%A7%86%E9%A2%91-%E4%B8%AD%E5%9B%BD%E6%9D%AD%E5%B7%9E%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%BB%91%E7%86%8A%E7%8C%9B%E6%89%91%E9%A9%AF%E5%85%BB%E5%91%98",
-      "source": "rfi.fr",
-      "published": 1765363772
     },
     {
       "id": "571c3fb39a38",
@@ -1402,5 +1402,5 @@
       "published": 1762864800
     }
   ],
-  "build_id": 1765442927
+  "build_id": 1765444560
 }
