@@ -1,6 +1,13 @@
 {
-  "updated": 1765561236,
+  "updated": 1765563378,
   "items": [
+    {
+      "id": "5166a0779e63",
+      "title": "離譜！竟有人「放生」大米和礦泉水 中國佛教協會：這是在折損福報",
+      "url": "https://www.singtaousa.com/2025/12/12/news/china/china-buddhist-association-condemns-rice-water-release/",
+      "source": "singtaousa.com",
+      "published": 1765562403
+    },
     {
       "id": "cec87f603a44",
       "title": "1分鐘看世界／美國9月貿易逆差探五年低點 黃金出口激增是主因",
@@ -79,11 +86,25 @@
       "published": 1765558472
     },
     {
+      "id": "98dc8f6a5bcf",
+      "title": "權渡衡400億美元騙局判決出爐，法官稱12年刑期「過於寬容」",
+      "url": "https://www.singtaousa.com/2025/12/12/news/world/crypto-mogul-do-kwon-sentenced-to-15-years-in-prison-for-40-billion-stablecoin-fraud/",
+      "source": "singtaousa.com",
+      "published": 1765558466
+    },
+    {
       "id": "8714c94794ef",
       "title": "博通財測藏隱憂 股價重挫",
       "url": "https://money.udn.com/money/story/123398/9200212",
       "source": "money.udn.com",
       "published": 1765558068
+    },
+    {
+      "id": "04e5b1bb5711",
+      "title": "特朗普政府在加州邊境設軍事區，背後有何戰略考量？",
+      "url": "https://www.singtaousa.com/2025/12/12/news/usa/trump-administration-adds-militarized-zone-in-california-along-southern-us-border/",
+      "source": "singtaousa.com",
+      "published": 1765556665
     },
     {
       "id": "fa81e4584e63",
@@ -483,27 +504,6 @@
       "url": "https://www.singtaousa.com/2025/12/11/news/usa/l-a-traffic-is-actually-getting-better-thats-not-entirely-a-good-thing-heres-why/",
       "source": "singtaousa.com",
       "published": 1765496711
-    },
-    {
-      "id": "4861470c945a",
-      "title": "洛杉磯神秘銅鐘失主成謎，警方籲市民協尋線索",
-      "url": "https://www.singtaousa.com/2025/12/11/news/usa/sheriffs-detectives-asking-anyone-who-can-identify-stolen-bell-to-chime-in/",
-      "source": "singtaousa.com",
-      "published": 1765496709
-    },
-    {
-      "id": "92faad77d0b7",
-      "title": "伊頓火災期間 洛杉磯縣缺乏其他機構使用的衛星地圖工具",
-      "url": "https://www.singtaousa.com/2025/12/11/news/usa/eaton-fire-update/",
-      "source": "singtaousa.com",
-      "published": 1765495540
-    },
-    {
-      "id": "684a8040327e",
-      "title": "特朗普收緊邊境：赴美旅客或需交出五年社媒紀錄",
-      "url": "https://www.singtaousa.com/2025/12/11/news/usa/us-could-ask-tourists-for-five-year-social-media-history-before-entry/",
-      "source": "singtaousa.com",
-      "published": 1765495469
     },
     {
       "id": "454d93211e5b",
@@ -1402,5 +1402,5 @@
       "published": 1763551380
     }
   ],
-  "build_id": 1765561236
+  "build_id": 1765563378
 }
