@@ -1,6 +1,34 @@
 {
-  "updated": 1765513478,
+  "updated": 1765515014,
   "items": [
+    {
+      "id": "2e94668345bf",
+      "title": "太空產業資本盛事來了！馬斯克證實SpaceX尋求明年上市",
+      "url": "https://money.udn.com/money/story/5599/9198957",
+      "source": "money.udn.com",
+      "published": 1765514957
+    },
+    {
+      "id": "be5c3652dd35",
+      "title": "好市多財報優預期 電商強勢成長 但股價盤後走弱",
+      "url": "https://money.udn.com/money/story/5599/9198955",
+      "source": "money.udn.com",
+      "published": 1765514907
+    },
+    {
+      "id": "5d16ea5f6fc2",
+      "title": "日本青森外海規模6.7強震 氣象廳：不屬於「後發地震」警告範圍",
+      "url": "https://money.udn.com/money/story/5599/9198937",
+      "source": "money.udn.com",
+      "published": 1765514311
+    },
+    {
+      "id": "ea79f50840ac",
+      "title": "緬甸軍方聲稱要根除電詐園區，他們真的在做嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cjdrr3j1z8eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1765514099
+    },
     {
       "id": "08076889b2a2",
       "title": "全球電動車銷售11月增速創近兩年新低  特斯拉在美大減23%",
@@ -140,27 +168,6 @@
       "url": "https://cn.nytimes.com/world/20251212/mexico-tariffs-china/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1765504700
-    },
-    {
-      "id": "1cfc5c50c384",
-      "title": "迪士尼投資 OpenAI 授權逾兩百個角色 執行長艾格：不會威脅到創作者",
-      "url": "https://money.udn.com/money/story/5599/9198490",
-      "source": "money.udn.com",
-      "published": 1765504066
-    },
-    {
-      "id": "0c3eefcc7e4b",
-      "title": "美國財長貝森特強調經濟成長 推進放鬆監管",
-      "url": "https://money.udn.com/money/story/5599/9198453",
-      "source": "money.udn.com",
-      "published": 1765504058
-    },
-    {
-      "id": "0dd83425f41e",
-      "title": "軟銀據悉研究對數據中心運營商Switch等目標的潛在收購",
-      "url": "https://money.udn.com/money/story/5599/9198454",
-      "source": "money.udn.com",
-      "published": 1765504017
     },
     {
       "id": "00cd39807610",
@@ -905,13 +912,6 @@
       "published": 1765271307
     },
     {
-      "id": "3fcbd39db04d",
-      "title": "特朗普批准輝達向中國出售先進人工智慧晶片H200",
-      "url": "https://www.bbc.com/zhongwen/articles/ce8n66pejr2o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1765257823
-    },
-    {
       "id": "3e2f431b5adf",
       "title": "出口狂飙与消费疲软：人民币持续走弱凸显中国经济隐忧",
       "url": "https://cn.nytimes.com/business/20251209/china-rmb-currency/?utm_source=RSS",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765513478
+  "build_id": 1765515014
 }
