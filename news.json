@@ -1,6 +1,20 @@
 {
-  "updated": 1765568094,
+  "updated": 1765570306,
   "items": [
+    {
+      "id": "1dd3a98f65aa",
+      "title": "三藩市老舊公寓凌晨大火 45人緊急疏散",
+      "url": "https://www.singtaousa.com/2025/12/12/news/usa/sf-tenderloin-fire-multiple-residents-cat-rescued-blaze-6-story-san-francisco-apartment-building/",
+      "source": "singtaousa.com",
+      "published": 1765570236
+    },
+    {
+      "id": "99b8fa11d8b6",
+      "title": "《巴黎协定》签署十年来最大的赢家是谁？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20251212-%E5%B7%B4%E9%BB%8E%E5%8D%8F%E5%AE%9A-%E7%AD%BE%E7%BD%B2%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E7%9A%84%E8%B5%A2%E5%AE%B6%E6%98%AF%E8%B0%81",
+      "source": "rfi.fr",
+      "published": 1765569118
+    },
     {
       "id": "ec93a6f505bb",
       "title": "川普宣布：泰國與柬埔寨同意停止邊境交火",
@@ -492,13 +506,6 @@
       "published": 1765498787
     },
     {
-      "id": "05b8902503f1",
-      "title": "中興通訊行賄案現轉機？傳支付10億美元換取美國和解",
-      "url": "https://www.singtaousa.com/2025/12/11/news/world/zte-could-resolve-bribery-allegations-by-paying-1-billion-to-us-government/",
-      "source": "singtaousa.com",
-      "published": 1765498783
-    },
-    {
       "id": "8bbbf3d4c105",
       "title": "特朗普抨击欧洲：外界感觉欧洲任由自己受到侮辱而不予回应",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251212-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%A8%E5%87%BB%E6%AC%A7%E6%B4%B2-%E5%A4%96%E7%95%8C%E6%84%9F%E8%A7%89%E6%AC%A7%E6%B4%B2%E4%BB%BB%E7%94%B1%E8%87%AA%E5%B7%B1%E5%8F%97%E5%88%B0%E4%BE%AE%E8%BE%B1%E8%80%8C%E4%B8%8D%E4%BA%88%E5%9B%9E%E5%BA%94",
@@ -728,13 +735,6 @@
       "url": "https://www.dw.com/zh/特朗普新国安战略：让中国满意的美国外交？/a-75095824?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765455540
-    },
-    {
-      "id": "6d279a0219d4",
-      "title": "美国和日本举行联合空中演习 回应中俄联合巡逻",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251211-%E7%BE%8E%E5%9B%BD%E5%92%8C%E6%97%A5%E6%9C%AC%E4%B8%BE%E8%A1%8C%E8%81%94%E5%90%88%E7%A9%BA%E4%B8%AD%E6%BC%94%E4%B9%A0-%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E8%81%94%E5%90%88%E5%B7%A1%E9%80%BB",
-      "source": "rfi.fr",
-      "published": 1765454450
     },
     {
       "id": "f7d4aa6a43ba",
@@ -1402,5 +1402,5 @@
       "published": 1763551380
     }
   ],
-  "build_id": 1765568094
+  "build_id": 1765570306
 }
