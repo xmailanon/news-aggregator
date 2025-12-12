@@ -1,6 +1,13 @@
 {
-  "updated": 1765565427,
+  "updated": 1765566569,
   "items": [
+    {
+      "id": "ec93a6f505bb",
+      "title": "川普宣布：泰國與柬埔寨同意停止邊境交火",
+      "url": "https://money.udn.com/money/story/5599/9200368",
+      "source": "money.udn.com",
+      "published": 1765565670
+    },
     {
       "id": "cec87f603a44",
       "title": "1分鐘看世界／美國9月貿易逆差探五年低點 黃金出口激增是主因",
@@ -161,13 +168,6 @@
       "url": "https://www.dw.com/zh/欧盟对小包裹征收3欧元关税-明年生效/a-75133901?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765550760
-    },
-    {
-      "id": "9f1fef13033c",
-      "title": "美股早盤／科技股持續輪動 台積電ADR跌0.6% 道瓊再創新高",
-      "url": "https://money.udn.com/money/story/123398/9200125",
-      "source": "money.udn.com",
-      "published": 1765550499
     },
     {
       "id": "21a0ade0926a",
@@ -1381,5 +1381,5 @@
       "published": 1763030700
     }
   ],
-  "build_id": 1765565427
+  "build_id": 1765566569
 }
