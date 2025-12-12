@@ -1,6 +1,27 @@
 {
-  "updated": 1765554075,
+  "updated": 1765555936,
   "items": [
+    {
+      "id": "944b30b7585f",
+      "title": "明年七月起欧盟将对中国小包裹征税三欧元",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251212-%E6%98%8E%E5%B9%B4%E4%B8%83%E6%9C%88%E8%B5%B7%E6%AC%A7%E7%9B%9F%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%8C%85%E8%A3%B9%E5%BE%81%E7%A8%8E%E4%B8%89%E6%AC%A7%E5%85%83",
+      "source": "rfi.fr",
+      "published": 1765554383
+    },
+    {
+      "id": "240998105c89",
+      "title": "路透：伊拉克前總統沙勒將任聯合國難民事務高級專員",
+      "url": "https://money.udn.com/money/story/10511/9200290",
+      "source": "money.udn.com",
+      "published": 1765554333
+    },
+    {
+      "id": "8def4bbd13ce",
+      "title": "OpenAI高階主管：預計明年首季推出ChatGPT成人模式",
+      "url": "https://money.udn.com/money/story/5599/9200291",
+      "source": "money.udn.com",
+      "published": 1765554332
+    },
     {
       "id": "83131f8e5ab1",
       "title": "Google「負30%利潤率」TPU暫時壓制GPU 但輝達Blackwell晶片準備清場",
@@ -240,13 +261,6 @@
       "published": 1765544439
     },
     {
-      "id": "63b1fc40b356",
-      "title": "英國爆發超級流感　衛生大臣盼醫師放棄罷工",
-      "url": "https://money.udn.com/money/story/5599/9199987",
-      "source": "money.udn.com",
-      "published": 1765544071
-    },
-    {
       "id": "95f4b7580dc8",
       "title": "二战遗留炸弹引爆 冲击波损坏多栋房屋",
       "url": "https://www.dw.com/zh/二战遗留炸弹引爆-冲击波损坏多栋房屋/a-75130429?maca=chi-rss-chi-news-3224-rdf",
@@ -259,13 +273,6 @@
       "url": "https://www.dw.com/zh/二战遗留炸弹引爆-冲击波损坏多栋房屋/a-75130429?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765543560
-    },
-    {
-      "id": "d2d21d05926c",
-      "title": "聯準會11位地區聯準總裁獲得連任 任期五年",
-      "url": "https://money.udn.com/money/story/5599/9199162",
-      "source": "money.udn.com",
-      "published": 1765542706
     },
     {
       "id": "8b46bf4d0b9c",
@@ -784,13 +791,6 @@
       "url": "https://www.dw.com/zh/欧洲电动车产业游说欧委会：每拖延一步都会扩大与中国的差距/a-75102850?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765445880
-    },
-    {
-      "id": "6261d2da789c",
-      "title": "韩国电子入境将台列为中国台湾十个月仍不改 台湾外交部：全面检视台韩关系、贸易逆差",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251211-%E5%8D%97%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%AD%90%E5%85%A5%E5%A2%83%E5%B0%86%E5%8F%B0%E5%88%97%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E5%8D%81%E4%B8%AA%E6%9C%88%E4%BB%8D%E4%B8%8D%E6%94%B9-%E5%8F%B0%E6%B9%BE%E5%A4%96%E4%BA%A4%E9%83%A8-%E5%85%A8%E9%9D%A2%E6%A3%80%E8%A7%86%E5%8F%B0%E9%9F%A9%E5%85%B3%E7%B3%BB-%E8%B4%B8%E6%98%93%E9%80%86%E5%B7%AE",
-      "source": "rfi.fr",
-      "published": 1765442553
     },
     {
       "id": "eacb9b4f1cbf",
@@ -1402,5 +1402,5 @@
       "published": 1763551380
     }
   ],
-  "build_id": 1765554075
+  "build_id": 1765555936
 }
