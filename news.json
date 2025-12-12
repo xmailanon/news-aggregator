@@ -1,6 +1,48 @@
 {
-  "updated": 1765527353,
+  "updated": 1765529393,
   "items": [
+    {
+      "id": "91a0a0a8a0d6",
+      "title": "總統女婿庫許納重返川普團隊　白宮稱重視專業知識",
+      "url": "https://money.udn.com/money/story/10511/9199542",
+      "source": "money.udn.com",
+      "published": 1765529214
+    },
+    {
+      "id": "2eb60925b5f6",
+      "title": "日本姬路市砸千萬買名琴　盼傳承大阪世博記憶",
+      "url": "https://money.udn.com/money/story/5599/9199543",
+      "source": "money.udn.com",
+      "published": 1765529212
+    },
+    {
+      "id": "79f6774a4d43",
+      "title": "特朗普雖解禁H200晶片，中國「算力自主」策略下輝達尚難言慶祝",
+      "url": "https://www.bbc.com/zhongwen/articles/cdj88l4kw9xo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1765528890
+    },
+    {
+      "id": "e63ce269e805",
+      "title": "白宮新聞秘書稱川普對俄烏雙方都極其失望",
+      "url": "https://money.udn.com/money/story/5599/9198517",
+      "source": "money.udn.com",
+      "published": 1765528836
+    },
+    {
+      "id": "176e2dfd564d",
+      "title": "感恩節期間驟降後 美國失業救濟申請人數創2020年以來最大增幅",
+      "url": "https://money.udn.com/money/story/5599/9198329",
+      "source": "money.udn.com",
+      "published": 1765528833
+    },
+    {
+      "id": "7140d4c636a6",
+      "title": "韓美核諮商小組第5次會議　強調南韓主導常規防禦",
+      "url": "https://money.udn.com/money/story/5599/9199503",
+      "source": "money.udn.com",
+      "published": 1765528236
+    },
     {
       "id": "564580f9479f",
       "title": "美聯準會降息  新加坡多家銀行下調定存利率",
@@ -17,7 +59,7 @@
     },
     {
       "id": "de09b7f8f54b",
-      "title": "總編推薦／美對輝達 H200 抽成25%怎麼抽？白宮官員：從台灣出口時徵收25%關稅",
+      "title": "總編推薦／川普放行輝達 H200 輸中關稅25%？如何牽動 AI 供應鏈地緣政治與商業利益？",
       "url": "https://money.udn.com/money/story/5599/9199392",
       "source": "money.udn.com",
       "published": 1765525232
@@ -105,41 +147,6 @@
       "url": "https://money.udn.com/money/story/5599/9199229",
       "source": "money.udn.com",
       "published": 1765521437
-    },
-    {
-      "id": "4a9b1f3a951d",
-      "title": "日本青森外海強震規模上修至6.9、深度更淺！海嘯注意報全解除",
-      "url": "https://money.udn.com/money/story/5599/9199223",
-      "source": "money.udn.com",
-      "published": 1765521261
-    },
-    {
-      "id": "9890f9891d6a",
-      "title": "韓國光州工地倒塌2死2失蹤　引發過度趕工爭議",
-      "url": "https://money.udn.com/money/story/5599/9199184",
-      "source": "money.udn.com",
-      "published": 1765520012
-    },
-    {
-      "id": "d7f36d926857",
-      "title": "Fed理事會一致同意重新任命所有聯準銀行總裁 暫時緩解獨立性憂慮",
-      "url": "https://money.udn.com/money/story/5599/9199158",
-      "source": "money.udn.com",
-      "published": 1765519095
-    },
-    {
-      "id": "aeae06e8d4c1",
-      "title": "川普開放H200晶片輸中 薛瑞福：恐被逆向工程竊取技術",
-      "url": "https://money.udn.com/money/story/5599/9198396",
-      "source": "money.udn.com",
-      "published": 1765519054
-    },
-    {
-      "id": "11702043c5e5",
-      "title": "不介入緊張 白宮：川普相信應與中保持良好工作關係 與日維持強健",
-      "url": "https://money.udn.com/money/story/5599/9198427",
-      "source": "money.udn.com",
-      "published": 1765519051
     },
     {
       "id": "7a76b653d338",
@@ -954,13 +961,6 @@
       "published": 1765243600
     },
     {
-      "id": "c25ec167281c",
-      "title": "心率、血壓、睡眠、個人紀錄……我對智能手錶上癮了嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/c2k4njz12gjo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1765239645
-    },
-    {
       "id": "e9a6f8428583",
       "title": "中國短劇流水線揭秘：寬鬆審核下的速度與豪賭",
       "url": "https://www.bbc.com/zhongwen/articles/ckgzn10qg22o/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1763030700
     }
   ],
-  "build_id": 1765527353
+  "build_id": 1765529393
 }
