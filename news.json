@@ -1,6 +1,20 @@
 {
-  "updated": 1765520264,
+  "updated": 1765522376,
   "items": [
+    {
+      "id": "1f6b1934802f",
+      "title": "歐洲首個倒於Z世代示威政府　保加利亞牽動地緣政治",
+      "url": "https://money.udn.com/money/story/5599/9199229",
+      "source": "money.udn.com",
+      "published": 1765521437
+    },
+    {
+      "id": "4a9b1f3a951d",
+      "title": "日本青森外海強震規模上修至6.9、深度更淺！海嘯注意報全解除",
+      "url": "https://money.udn.com/money/story/5599/9199223",
+      "source": "money.udn.com",
+      "published": 1765521261
+    },
     {
       "id": "9890f9891d6a",
       "title": "韓國光州工地倒塌2死2失蹤　引發過度趕工爭議",
@@ -154,20 +168,6 @@
       "url": "https://money.udn.com/money/story/5599/9198876",
       "source": "money.udn.com",
       "published": 1765512875
-    },
-    {
-      "id": "cdcb62065704",
-      "title": "川普簽命令集中 AI 監管於聯邦層級 禁止各州自訂法規",
-      "url": "https://money.udn.com/money/story/10511/9198836",
-      "source": "money.udn.com",
-      "published": 1765512043
-    },
-    {
-      "id": "047ce78756dd",
-      "title": "川普盼耶誕前底定俄烏和平方案　澤倫斯基拒讓步",
-      "url": "https://money.udn.com/money/story/10511/9198839",
-      "source": "money.udn.com",
-      "published": 1765512042
     },
     {
       "id": "0c2f60fcb7b3",
@@ -336,6 +336,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251211-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E7%BE%8E%E6%96%B9%E8%A6%81%E6%B1%82%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BD%9C%E9%87%8D%E5%A4%A7%E8%AE%A9%E6%AD%A5-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BF%84%E4%B9%8C%E5%83%B5%E5%B1%80-%E6%B7%B1%E6%84%9F%E6%B2%AE%E4%B8%A7",
       "source": "rfi.fr",
       "published": 1765488525
+    },
+    {
+      "id": "46f77793a1fc",
+      "title": "特朗普对新冷战不感兴趣，他想打的是新内战",
+      "url": "https://cn.nytimes.com/opinion/20251212/trump-europe-security-strategy/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1765476910
     },
     {
       "id": "f1887a444e69",
@@ -1017,13 +1024,6 @@
       "published": 1765159415
     },
     {
-      "id": "3e306222fe1e",
-      "title": "香港国安部门约谈外媒，就火灾报道发出警告",
-      "url": "https://cn.nytimes.com/china/20251208/hong-kong-fire-media-national-security/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1765155219
-    },
-    {
       "id": "e083b89c70de",
       "title": "火灾阴影下的香港立法会选举：当局打击“反华”势力",
       "url": "https://cn.nytimes.com/china/20251208/hong-kong-fire-election-campaign/?utm_source=RSS",
@@ -1402,5 +1402,5 @@
       "published": 1763030700
     }
   ],
-  "build_id": 1765520264
+  "build_id": 1765522376
 }
