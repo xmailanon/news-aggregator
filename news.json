@@ -1,6 +1,27 @@
 {
-  "updated": 1765573752,
+  "updated": 1765575335,
   "items": [
+    {
+      "id": "42294d42f8e3",
+      "title": "毛利率警示引發AI報酬疑慮　博通股價重挫11%",
+      "url": "https://money.udn.com/money/story/5599/9200404",
+      "source": "money.udn.com",
+      "published": 1765575388
+    },
+    {
+      "id": "4cbd8c0b6cca",
+      "title": "東灣希活氣體爆炸片段流傳 民宅秒變平地",
+      "url": "https://www.singtaousa.com/2025/12/12/news/a-severe-gas-explosion-occurred-in-hayward-california-on-thursday-morning-damaging-at-least-one-home-breaking-windows-shaking-neighboring-homes-and-igniting-a-fire-that-sent-six-people-to-the-ho/",
+      "source": "singtaousa.com",
+      "published": 1765575104
+    },
+    {
+      "id": "acbbf71ca5cb",
+      "title": "美国民主党公布爱泼斯坦新照 特朗普比尔盖兹入镜",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251212-%E6%B0%91%E4%B8%BB%E5%85%9A%E5%85%AC%E5%B8%83%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%96%B0%E7%85%A7-%E7%89%B9%E6%9C%97%E6%99%AE%E6%AF%94%E5%B0%94%E7%9B%96%E5%85%B9%E5%85%A5%E9%95%9C",
+      "source": "rfi.fr",
+      "published": 1765574295
+    },
     {
       "id": "628da8378b0a",
       "title": "Tiktok「踢門挑戰」夜襲沙加緬度 民宅連遭破壞3次｜細說燊語",
@@ -163,13 +184,6 @@
       "published": 1765558068
     },
     {
-      "id": "04e5b1bb5711",
-      "title": "特朗普政府在加州邊境設軍事區，背後有何戰略考量？",
-      "url": "https://www.singtaousa.com/2025/12/12/news/usa/trump-administration-adds-militarized-zone-in-california-along-southern-us-border/",
-      "source": "singtaousa.com",
-      "published": 1765556665
-    },
-    {
       "id": "e822de8c9700",
       "title": "OpenAI 推新模型迎擊 Google  CEO 奧特曼樂觀下月可解除紅色警戒",
       "url": "https://money.udn.com/money/story/5599/9200158",
@@ -238,13 +252,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251212-%E4%BF%84%E5%9B%BD-%E5%9C%9F%E8%80%B3%E5%85%B6-%E4%BC%8A%E6%9C%97%E4%B8%89%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%81%9A%E9%A6%96%E5%9C%9F%E5%BA%93%E6%9B%BC%E6%96%AF%E5%9D%A6",
       "source": "rfi.fr",
       "published": 1765551505
-    },
-    {
-      "id": "6d7443fe305c",
-      "title": "英海軍縮減歐洲以外演訓　巡邏艦和潛艦部署值得關注",
-      "url": "https://money.udn.com/money/story/5599/9200147",
-      "source": "money.udn.com",
-      "published": 1765551283
     },
     {
       "id": "a138471e8ec2",
@@ -462,13 +469,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c9w7751vjk4o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765509804
-    },
-    {
-      "id": "354f92aaea9a",
-      "title": "免疫力：姜汁真能增强我们的身体吗？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%81%A5%E5%BA%B7%E6%97%B6%E9%97%B4/20251212-%E5%85%8D%E7%96%AB%E5%8A%9B-%E5%A7%9C%E6%B1%81%E7%9C%9F%E8%83%BD%E5%A2%9E%E5%BC%BA%E6%88%91%E4%BB%AC%E7%9A%84%E8%BA%AB%E4%BD%93%E5%90%97",
-      "source": "rfi.fr",
-      "published": 1765508338
     },
     {
       "id": "2fe078c5983f",
@@ -1402,5 +1402,5 @@
       "published": 1763551380
     }
   ],
-  "build_id": 1765573752
+  "build_id": 1765575335
 }
