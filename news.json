@@ -1,6 +1,48 @@
 {
-  "updated": 1765523681,
+  "updated": 1765525191,
   "items": [
+    {
+      "id": "ea75f6d102cc",
+      "title": "宏都拉斯選舉爭議多　人權團體稱黑幫涉脅迫選民投票",
+      "url": "https://money.udn.com/money/story/10511/9199381",
+      "source": "money.udn.com",
+      "published": 1765524970
+    },
+    {
+      "id": "48bf80edd9e7",
+      "title": "泰國邊境避難所人滿為患　完善設施難解居民心中焦慮",
+      "url": "https://money.udn.com/money/story/5599/9199380",
+      "source": "money.udn.com",
+      "published": 1765524968
+    },
+    {
+      "id": "858ea39d6657",
+      "title": "巿場押注日本央行將升息　日股反彈",
+      "url": "https://money.udn.com/money/story/5599/9199357",
+      "source": "money.udn.com",
+      "published": 1765524624
+    },
+    {
+      "id": "40703d1ba5ea",
+      "title": "日本青森外海6.9地震後　海嘯注意報解除",
+      "url": "https://money.udn.com/money/story/5599/9199360",
+      "source": "money.udn.com",
+      "published": 1765524624
+    },
+    {
+      "id": "cec6a4a17b56",
+      "title": "OpenAI發布GPT-5.2市場反應冷淡 程世嘉：投資人想看到證明獲利能力",
+      "url": "https://money.udn.com/money/story/5599/9199349",
+      "source": "money.udn.com",
+      "published": 1765524443
+    },
+    {
+      "id": "a0d302a46e59",
+      "title": "韓國大學入學考英文難度「地獄級」　負責人請辭",
+      "url": "https://money.udn.com/money/story/5599/9199341",
+      "source": "money.udn.com",
+      "published": 1765524309
+    },
     {
       "id": "46a22bfadd60",
       "title": "白宮加碼猛批CNN　川普政治與家庭雙涉華納出售案",
@@ -100,13 +142,6 @@
       "published": 1765517629
     },
     {
-      "id": "d30d248b7721",
-      "title": "加拿大推出耶誕紀念幣  台裔設計師巧思創造歡樂",
-      "url": "https://money.udn.com/money/story/5599/9199072",
-      "source": "money.udn.com",
-      "published": 1765517433
-    },
-    {
       "id": "7a76b653d338",
       "title": "中共中央經濟工作會議：推動投資止跌、擴大內需",
       "url": "https://www.dw.com/zh/中共中央經濟工作會議：推動投資止跌、擴大內需/a-75120649?maca=chi-rss-chi-all-1127-rdf",
@@ -121,13 +156,6 @@
       "published": 1765516819
     },
     {
-      "id": "856c94fc4f9c",
-      "title": "對馬杜洛加強施壓　美準備扣押更多委內瑞拉油輪",
-      "url": "https://money.udn.com/money/story/5599/9199008",
-      "source": "money.udn.com",
-      "published": 1765516354
-    },
-    {
       "id": "9b5edd41ab93",
       "title": "遭AI深偽性影像攻擊 香港民主倡議者批中國跨境鎮壓",
       "url": "https://www.dw.com/zh/遭ai深偽性影像攻擊-香港民主倡議者批中國跨境鎮壓/a-75120710?maca=chi-rss-chi-all-1127-rdf",
@@ -135,36 +163,8 @@
       "published": 1765515720
     },
     {
-      "id": "827c4a29ed88",
-      "title": "抗衡中國AI發展　美國與盟友簽署供應鏈協議",
-      "url": "https://money.udn.com/money/story/5599/9198988",
-      "source": "money.udn.com",
-      "published": 1765515639
-    },
-    {
-      "id": "e7ccf373ceb6",
-      "title": "美國又謀政權更替？委國「非中東翻版」原因曝 專家評川普這次不會縮",
-      "url": "https://money.udn.com/money/story/5599/9198977",
-      "source": "money.udn.com",
-      "published": 1765515545
-    },
-    {
-      "id": "2ee5f847f66f",
-      "title": "高市涉台答詢要點曝光　幕僚擬稿不含存亡危機事態",
-      "url": "https://money.udn.com/money/story/5599/9198967",
-      "source": "money.udn.com",
-      "published": 1765515301
-    },
-    {
-      "id": "8f7e3cb2faf8",
-      "title": "美9月貿易逆差意外縮減　為2020年以來最低",
-      "url": "https://money.udn.com/money/story/10511/9198965",
-      "source": "money.udn.com",
-      "published": 1765515250
-    },
-    {
       "id": "ea79f50840ac",
-      "title": "緬甸軍方聲稱要根除電詐園區，他們真的在做嗎？",
+      "title": "緬甸軍方聲稱要根除電詐園區，他們真的在這樣做嗎？",
       "url": "https://www.bbc.com/zhongwen/articles/cjdrr3j1z8eo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765514099
@@ -338,6 +338,13 @@
       "published": 1765488525
     },
     {
+      "id": "46622e98875a",
+      "title": "从芯片到中日争端，北京把美国“逼到墙角”？",
+      "url": "https://cn.nytimes.com/china/20251212/nvidia-china-trump-security-japan/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1765480290
+    },
+    {
       "id": "46f77793a1fc",
       "title": "特朗普对新冷战不感兴趣，他想打的是新内战",
       "url": "https://cn.nytimes.com/opinion/20251212/trump-europe-security-strategy/?utm_source=RSS",
@@ -378,6 +385,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251211-%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89-%E8%B6%85%E5%A4%A7%E5%9E%8B-%E6%B2%B9%E8%BD%AE%E5%8E%9F%E5%9B%A0%E6%9B%9D%E5%85%89-%E5%8F%AF%E8%83%BD%E5%90%93%E8%B7%91%E4%B8%AD%E5%9B%BD%E4%B9%B0%E5%AE%B6",
       "source": "rfi.fr",
       "published": 1765469374
+    },
+    {
+      "id": "9aa231d894a3",
+      "title": "美国经济受制于裙带资本主义",
+      "url": "https://www.ftchinese.com/story/001108426",
+      "source": "ftchinese.com",
+      "published": 1765468800
     },
     {
       "id": "6e5a180d7463",
@@ -772,13 +786,6 @@
       "published": 1765382400
     },
     {
-      "id": "5f17f2ed0d13",
-      "title": "来自欧洲的初创公司开始挑战中美人工智能领跑者",
-      "url": "https://www.ftchinese.com/story/001108407",
-      "source": "ftchinese.com",
-      "published": 1765382400
-    },
-    {
       "id": "87cadf6c0180",
       "title": "德语媒体：修复对德关系也是中国的利益所在",
       "url": "https://www.dw.com/zh/德语媒体：修复对德关系也是中国的利益所在/a-75095813?maca=chi-rss-chi-all-1127-rdf",
@@ -1015,13 +1022,6 @@
       "url": "https://cn.nytimes.com/china/20251208/hong-kong-fire-arrest-after-online-speech/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1765162442
-    },
-    {
-      "id": "ebf49708e6d6",
-      "title": "日本指责中国在冲绳附近对日本战机进行雷达照射",
-      "url": "https://cn.nytimes.com/asia-pacific/20251208/japan-china-fighter-jets/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1765159415
     },
     {
       "id": "e083b89c70de",
@@ -1402,5 +1402,5 @@
       "published": 1763030700
     }
   ],
-  "build_id": 1765523681
+  "build_id": 1765525191
 }
