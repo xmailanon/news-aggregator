@@ -1,12 +1,19 @@
 {
-  "updated": 1765536259,
+  "updated": 1765537844,
   "items": [
     {
-      "id": "3a16beeb1fd9",
+      "id": "4c10f7917f5c",
       "title": "男子與ChatGPT長聊數月後弒母　OpenAI挨告過失致死",
-      "url": "https://money.udn.com/money/story/10511/9199812",
+      "url": "https://money.udn.com/money/story/5599/9199812",
       "source": "money.udn.com",
       "published": 1765536335
+    },
+    {
+      "id": "e5072b5d7893",
+      "title": "中欧重启电动车最低价格谈判",
+      "url": "https://www.dw.com/zh/中欧重启电动车最低价格谈判/a-75127193?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1765536240
     },
     {
       "id": "e4a2167d4032",
@@ -56,13 +63,6 @@
       "url": "https://money.udn.com/money/story/5599/9199713",
       "source": "money.udn.com",
       "published": 1765533699
-    },
-    {
-      "id": "67a859ed3b8d",
-      "title": "AI 供應鏈地位難撼動…台股明年將衝3萬點 未來一年可望再漲這麼多",
-      "url": "https://money.udn.com/money/story/5599/9199689",
-      "source": "money.udn.com",
-      "published": 1765532932
     },
     {
       "id": "284f5a58d728",
@@ -147,6 +147,13 @@
       "url": "https://money.udn.com/money/story/122381/9187964",
       "source": "money.udn.com",
       "published": 1765531231
+    },
+    {
+      "id": "c9928fb1a906",
+      "title": "美國人工智慧恐推升新鮮人失業率",
+      "url": "https://money.udn.com/money/story/122381/9188086",
+      "source": "money.udn.com",
+      "published": 1765531229
     },
     {
       "id": "884ecf6cc3eb",
@@ -807,16 +814,16 @@
       "published": 1765372620
     },
     {
-      "id": "b2c6c356e8f1",
-      "title": "德国外长瓦德富尔访问中国：寻找稀土之旅",
-      "url": "https://www.dw.com/zh/德国外长瓦德富尔访问中国：寻找稀土之旅/a-75089896?maca=chi-rss-chi-all-1127-rdf",
+      "id": "7b7113ecf01f",
+      "title": "台灣「人權小旅行」：政治受難者導覽 打開跨世代對話",
+      "url": "https://www.dw.com/zh/台灣「人權小旅行」：政治受難者導覽-打開跨世代對話/a-75090027?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765368300
     },
     {
-      "id": "7b7113ecf01f",
-      "title": "台灣「人權小旅行」：政治受難者導覽 打開跨世代對話",
-      "url": "https://www.dw.com/zh/台灣「人權小旅行」：政治受難者導覽-打開跨世代對話/a-75090027?maca=chi-rss-chi-all-1127-rdf",
+      "id": "b2c6c356e8f1",
+      "title": "德国外长瓦德富尔访问中国：寻找稀土之旅",
+      "url": "https://www.dw.com/zh/德国外长瓦德富尔访问中国：寻找稀土之旅/a-75089896?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765368300
     },
@@ -1393,14 +1400,7 @@
       "url": "https://www.dw.com/zh/專訪香港導演周冠威：抗爭很痛苦-服從也很痛苦/a-74728666?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763087640
-    },
-    {
-      "id": "f4081dbd5707",
-      "title": "中國收緊控制 海內外獨立影展屢遭停辦",
-      "url": "https://www.dw.com/zh/中國收緊控制-海內外獨立影展屢遭停辦/a-74721268?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763030700
     }
   ],
-  "build_id": 1765536259
+  "build_id": 1765537844
 }
