@@ -1,12 +1,33 @@
 {
-  "updated": 1765579219,
+  "updated": 1765581034,
   "items": [
+    {
+      "id": "c5f52bfca9c5",
+      "title": "海關連破兩宗毒品案 搗大埔分銷中心檢$890萬貨 3男落網",
+      "url": "https://www.singtaousa.com/2025/12/12/news/china/customs-drug-bust-distribution-centre-arrests/",
+      "source": "singtaousa.com",
+      "published": 1765580687
+    },
+    {
+      "id": "28319c939085",
+      "title": "內塔尼亞胡逮捕令風波：ICC檢察官指控英國施壓威脅",
+      "url": "https://www.singtaousa.com/2025/12/12/news/world/britain-threatened-to-cut-off-icc-funding-over-netanyahu-arrest-warrant-claims-prosecutor/",
+      "source": "singtaousa.com",
+      "published": 1765580685
+    },
     {
       "id": "cc3ec8deeea3",
       "title": "昂船洲大橋三車連環撞 女鐵騎士倒地受傷送院",
       "url": "https://www.singtaousa.com/2025/12/12/news/china/stonecutters-bridge-three-vehicle-collision-injury/",
       "source": "singtaousa.com",
       "published": 1765578886
+    },
+    {
+      "id": "9a0832ce2f3d",
+      "title": "FDA驚傳將對新冠疫苗加「黑盒警告」，背後動機引發專家質疑",
+      "url": "https://www.singtaousa.com/2025/12/12/news/usa/fda-intends-to-put-its-most-serious-warning-on-covid-vaccines-sources-say-cnn/",
+      "source": "singtaousa.com",
+      "published": 1765578883
     },
     {
       "id": "d66b9a5f9a8a",
@@ -100,13 +121,6 @@
       "published": 1765573543
     },
     {
-      "id": "6c8e7cc76c8a",
-      "title": "80號公路沿線地標 Budweiser啤酒廠宣布關閉｜細說燊語",
-      "url": "https://www.singtaousa.com/2025/12/12/news/usa/anheuser-busch-closes-fairfield-brewery-affecting-475-full-time-employees/",
-      "source": "singtaousa.com",
-      "published": 1765571955
-    },
-    {
       "id": "398f31dc3d78",
       "title": "澤倫斯基將赴柏林會歐洲領袖　聚焦俄烏和平談判進展",
       "url": "https://money.udn.com/money/story/5599/9200391",
@@ -121,13 +135,6 @@
       "published": 1765570771
     },
     {
-      "id": "1dd3a98f65aa",
-      "title": "三藩市老舊公寓凌晨大火 45人緊急疏散",
-      "url": "https://www.singtaousa.com/2025/12/12/news/usa/sf-tenderloin-fire-multiple-residents-cat-rescued-blaze-6-story-san-francisco-apartment-building/",
-      "source": "singtaousa.com",
-      "published": 1765570236
-    },
-    {
       "id": "99b8fa11d8b6",
       "title": "《巴黎协定》签署十年来最大的赢家是谁？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20251212-%E5%B7%B4%E9%BB%8E%E5%8D%8F%E5%AE%9A-%E7%AD%BE%E7%BD%B2%E5%8D%81%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E7%9A%84%E8%B5%A2%E5%AE%B6%E6%98%AF%E8%B0%81",
@@ -140,13 +147,6 @@
       "url": "https://money.udn.com/money/story/5599/9200368",
       "source": "money.udn.com",
       "published": 1765565670
-    },
-    {
-      "id": "b6f87b46a67a",
-      "title": "聖誕、新年大優惠 熱銷十年 歡迎預約試用杉釦富遠紅外線免用水足浴桶",
-      "url": "https://www.singtaousa.com/2025/12/12/news/usa/big-christmas-and-new-year-discounts-best-selling-for-ten-years-welcome-to-make-an-appointment-to-try-shankoufu-far-infrared-free-water-foot-bath-bucket/",
-      "source": "singtaousa.com",
-      "published": 1765564637
     },
     {
       "id": "cec87f603a44",
@@ -1402,5 +1402,5 @@
       "published": 1763551380
     }
   ],
-  "build_id": 1765579219
+  "build_id": 1765581034
 }
