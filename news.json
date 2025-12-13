@@ -1,5 +1,5 @@
 {
-  "updated": 1765651474,
+  "updated": 1765652836,
   "items": [
     {
       "id": "3115b4d0b307",
@@ -7,6 +7,13 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251213-%E4%BC%A0%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%8F%96%E6%B6%882035%E5%B9%B4%E8%B5%B7%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E6%96%B0%E8%BD%A6-%E5%BE%B7%E5%9B%BD%E7%9A%84%E8%83%9C%E5%88%A9",
       "source": "rfi.fr",
       "published": 1765651184
+    },
+    {
+      "id": "9feec96d2230",
+      "title": "南海衝突升級！菲方指中國海警發射水炮致漁民受傷",
+      "url": "https://www.singtaousa.com/2025/12/13/news/china/philippines-china-sea-clash-water-cannon/",
+      "source": "singtaousa.com",
+      "published": 1765650886
     },
     {
       "id": "a50575f1fd4d",
@@ -336,13 +343,6 @@
       "url": "https://www.singtaousa.com/2025/12/12/news/usa/small-business-administration-offices-in-palisades-eaton-fire-zones-to-close-next-week/",
       "source": "singtaousa.com",
       "published": 1765585033
-    },
-    {
-      "id": "73d3bed29008",
-      "title": "美軍紫心勳章老兵被迫返韓，國土安全部長國會聽證會上陷入窘境",
-      "url": "https://www.singtaousa.com/2025/12/12/news/usa/kristi-noem-grilled-over-l-a-purple-heart-army-vet-who-self-deported/",
-      "source": "singtaousa.com",
-      "published": 1765585019
     },
     {
       "id": "b47002c8d2c5",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765651474
+  "build_id": 1765652836
 }
