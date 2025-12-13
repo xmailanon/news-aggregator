@@ -1,6 +1,20 @@
 {
-  "updated": 1765665507,
+  "updated": 1765667387,
   "items": [
+    {
+      "id": "9ee463f4a3c5",
+      "title": "民主剛果叛軍M23奪邊境重鎮　美國務卿矢言採取行動",
+      "url": "https://money.udn.com/money/story/10511/9201725",
+      "source": "money.udn.com",
+      "published": 1765667167
+    },
+    {
+      "id": "481207466874",
+      "title": "美國布朗大學傳有槍手出沒　警方持續搜索嫌犯",
+      "url": "https://money.udn.com/money/story/5599/9201721",
+      "source": "money.udn.com",
+      "published": 1765666480
+    },
     {
       "id": "d23d394e1b60",
       "title": "無人機襲蘇丹南部　聯合國維和部隊6人喪命",
@@ -266,20 +280,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251213-%E6%9F%8F%E6%9E%97%E6%AC%A7%E4%B9%8C%E9%A6%96%E8%84%91%E5%B3%B0%E4%BC%9A%E5%89%8D-%E7%BE%8E%E4%B9%8C%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%88%E7%A2%B0%E9%9D%A2%E8%AE%A8%E8%AE%BA%E5%81%9C%E7%81%AB%E9%97%AE%E9%A2%98",
       "source": "rfi.fr",
       "published": 1765638128
-    },
-    {
-      "id": "e55518ae6778",
-      "title": "你有搶到嗎？OpenAI 十周年慶 開賣周邊商品",
-      "url": "https://money.udn.com/money/story/5599/9201484",
-      "source": "money.udn.com",
-      "published": 1765636950
-    },
-    {
-      "id": "c1ddf80be1fd",
-      "title": "烏軍收復庫普揚斯克部分地區　澤倫斯基：有助外交談判",
-      "url": "https://money.udn.com/money/story/5599/9201477",
-      "source": "money.udn.com",
-      "published": 1765636607
     },
     {
       "id": "be4b630d0581",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765665507
+  "build_id": 1765667387
 }
