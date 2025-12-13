@@ -1,6 +1,20 @@
 {
-  "updated": 1765622393,
+  "updated": 1765624091,
   "items": [
+    {
+      "id": "88cbadef801d",
+      "title": "泰柬衝突  傳柬埔寨總理接受大馬斡旋13日晚間停火",
+      "url": "https://money.udn.com/money/story/10511/9201349",
+      "source": "money.udn.com",
+      "published": 1765624331
+    },
+    {
+      "id": "91483e4a3cac",
+      "title": "泰柬邊境衝突又起 柬埔寨總統：願今晚停火",
+      "url": "https://money.udn.com/money/story/5599/9201330",
+      "source": "money.udn.com",
+      "published": 1765622569
+    },
     {
       "id": "150a0d34e8c9",
       "title": "菲律賓指漁船在南海遭中國海警射水砲　釀3傷2船受損",
@@ -161,20 +175,6 @@
       "url": "https://money.udn.com/money/story/5599/9201148",
       "source": "money.udn.com",
       "published": 1765612481
-    },
-    {
-      "id": "8799175e5147",
-      "title": "馬斯克又不務正業？特斯拉開賣「匹克球拍」 要價上萬元3小時完售",
-      "url": "https://money.udn.com/money/story/5599/9201123",
-      "source": "money.udn.com",
-      "published": 1765611222
-    },
-    {
-      "id": "280ae15589b0",
-      "title": "分析：川普世界觀認美俄中劃勢力　美歐關係陷冰點",
-      "url": "https://money.udn.com/money/story/10511/9201121",
-      "source": "money.udn.com",
-      "published": 1765611058
     },
     {
       "id": "d5cf27d5b689",
@@ -1402,5 +1402,5 @@
       "published": 1763511694
     }
   ],
-  "build_id": 1765622393
+  "build_id": 1765624091
 }
