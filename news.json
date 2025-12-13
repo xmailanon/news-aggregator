@@ -1,6 +1,27 @@
 {
-  "updated": 1765630897,
+  "updated": 1765633244,
   "items": [
+    {
+      "id": "3ca2855a400a",
+      "title": "泰國總理否認川普停火說　柬埔寨關閉兩國邊界通關",
+      "url": "https://money.udn.com/money/story/10511/9201444",
+      "source": "money.udn.com",
+      "published": 1765632633
+    },
+    {
+      "id": "12b22443a7f8",
+      "title": "印尼蘇門答臘洪災增至1003死　仍有218人失蹤",
+      "url": "https://money.udn.com/money/story/5599/9201445",
+      "source": "money.udn.com",
+      "published": 1765632632
+    },
+    {
+      "id": "8219e28b7863",
+      "title": "行動電源釀禍機艙冒煙　泰亞航：旅客輕微燙傷",
+      "url": "https://money.udn.com/money/story/5599/9201441",
+      "source": "money.udn.com",
+      "published": 1765631607
+    },
     {
       "id": "d3322fc0f03f",
       "title": "全球最強護照排名　新加坡蟬聯榜首台灣第36",
@@ -177,32 +198,11 @@
       "published": 1765616627
     },
     {
-      "id": "8902dbde0737",
-      "title": "英國插畫家為台灣設計倫敦巴士廣告　傳送寶島溫暖",
-      "url": "https://money.udn.com/money/story/5599/9201221",
-      "source": "money.udn.com",
-      "published": 1765616080
-    },
-    {
       "id": "d38f46994c40",
       "title": "缅甸军政府否认在袭击医院的行动中杀害平民",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251213-%E7%BC%85%E7%94%B8%E5%86%9B%E6%94%BF%E5%BA%9C%E5%90%A6%E8%AE%A4%E5%9C%A8%E8%A2%AD%E5%87%BB%E5%8C%BB%E9%99%A2%E7%9A%84%E8%A1%8C%E5%8A%A8%E4%B8%AD%E6%9D%80%E5%AE%B3%E5%B9%B3%E6%B0%91",
       "source": "rfi.fr",
       "published": 1765615500
-    },
-    {
-      "id": "9581bff6eae9",
-      "title": "伊朗扣押外籍油輪　18名船員遭拘留調查",
-      "url": "https://money.udn.com/money/story/5599/9201199",
-      "source": "money.udn.com",
-      "published": 1765615006
-    },
-    {
-      "id": "b1ee1c607083",
-      "title": "中印外交磋商   願妥善處理分歧",
-      "url": "https://money.udn.com/money/story/5599/9201198",
-      "source": "money.udn.com",
-      "published": 1765615006
     },
     {
       "id": "d4ab71d54626",
@@ -474,13 +474,6 @@
       "id": "95f4b7580dc8",
       "title": "二战遗留炸弹引爆 冲击波损坏多栋房屋",
       "url": "https://www.dw.com/zh/二战遗留炸弹引爆-冲击波损坏多栋房屋/a-75130429?maca=chi-rss-chi-news-3224-rdf",
-      "source": "dw.com",
-      "published": 1765543560
-    },
-    {
-      "id": "9fb60704a7e2",
-      "title": "二战遗留炸弹引爆 冲击波损坏多栋房屋",
-      "url": "https://www.dw.com/zh/二战遗留炸弹引爆-冲击波损坏多栋房屋/a-75130429?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765543560
     },
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/荷兰政府叫停接管！安世半导体争端迎转机/a-74805454?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1763551380
+    },
+    {
+      "id": "dbbfde9990b1",
+      "title": "高市早苗言論風波，台灣捲入中日角力為何力求低調？",
+      "url": "https://www.bbc.com/zhongwen/articles/cr43g4lv69lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1763546602
     }
   ],
-  "build_id": 1765630897
+  "build_id": 1765633244
 }
