@@ -1,6 +1,20 @@
 {
-  "updated": 1765660109,
+  "updated": 1765661637,
   "items": [
+    {
+      "id": "a3d54a9c6aba",
+      "title": "南非[非国大]承认财务有困难",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251213-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E9%9D%9E%E6%B4%B2-%E5%8D%97%E9%9D%9E-%E9%9D%9E%E5%9B%BD%E5%A4%A7-%E6%89%BF%E8%AE%A4%E8%B4%A2%E5%8A%A1%E6%9C%89%E5%9B%B0%E9%9A%BE",
+      "source": "rfi.fr",
+      "published": 1765660915
+    },
+    {
+      "id": "5e2008f18d9b",
+      "title": "聯合航空波音777發動機故障返航　美航空總署將調查",
+      "url": "https://money.udn.com/money/story/5599/9201704",
+      "source": "money.udn.com",
+      "published": 1765660326
+    },
     {
       "id": "9e9b5945748b",
       "title": "3名美国人在叙利亚遭伏击丧命 特朗普扬言严厉报复ISIS",
@@ -275,13 +289,6 @@
       "published": 1765633426
     },
     {
-      "id": "7939e222694f",
-      "title": "泰國總理否認川普停火說　柬埔寨關閉兩國邊界通關",
-      "url": "https://money.udn.com/money/story/5599/9201444",
-      "source": "money.udn.com",
-      "published": 1765632633
-    },
-    {
       "id": "0f67ff127836",
       "title": "深挖特朗普MAGA运动背后的政治派系",
       "url": "https://www.dw.com/zh/深挖特朗普maga运动背后的政治派系/a-75141757?maca=chi-rss-chi-all-1127-rdf",
@@ -490,13 +497,6 @@
       "url": "https://www.dw.com/zh/德语媒体：干部晋升机制决定了中国的产能过剩/a-75130983?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765548360
-    },
-    {
-      "id": "9762ef0f7860",
-      "title": "科索沃开始接收被美国遣返移民",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251212-%E7%A7%91%E7%B4%A2%E6%B2%83%E5%BC%80%E5%A7%8B%E6%8E%A5%E6%94%B6%E8%A2%AB%E7%BE%8E%E5%9B%BD%E9%81%A3%E8%BF%94%E7%A7%BB%E6%B0%91",
-      "source": "rfi.fr",
-      "published": 1765548144
     },
     {
       "id": "282368223494",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765660109
+  "build_id": 1765661637
 }
