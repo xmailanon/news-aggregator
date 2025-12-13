@@ -1,6 +1,27 @@
 {
-  "updated": 1765649629,
+  "updated": 1765651474,
   "items": [
+    {
+      "id": "3115b4d0b307",
+      "title": "欧盟将取消2035年起禁售燃油新车？德国的胜利",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251213-%E4%BC%A0%E6%AC%A7%E7%9B%9F%E6%8B%9F%E5%8F%96%E6%B6%882035%E5%B9%B4%E8%B5%B7%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E6%96%B0%E8%BD%A6-%E5%BE%B7%E5%9B%BD%E7%9A%84%E8%83%9C%E5%88%A9",
+      "source": "rfi.fr",
+      "published": 1765651184
+    },
+    {
+      "id": "a50575f1fd4d",
+      "title": "雙利空夾擊 美晶片股暴跌 投資人本周盯經濟數據、美光財報",
+      "url": "https://money.udn.com/money/story/123398/9201584",
+      "source": "money.udn.com",
+      "published": 1765650033
+    },
+    {
+      "id": "823a75735787",
+      "title": "Fed 新任主席 川普力捧華許 哈塞特獲提名機率從74%大降至53%",
+      "url": "https://money.udn.com/money/story/10511/9201536",
+      "source": "money.udn.com",
+      "published": 1765649779
+    },
     {
       "id": "76ac63815842",
       "title": "日銀利率估升至0.75%",
@@ -196,20 +217,6 @@
       "url": "https://money.udn.com/money/story/5599/9201441",
       "source": "money.udn.com",
       "published": 1765631607
-    },
-    {
-      "id": "2408d9701c12",
-      "title": "抓住眼球經濟3／注意力才是王道 「倍速觀看」成為生存法則",
-      "url": "https://money.udn.com/money/story/122381/9201436",
-      "source": "money.udn.com",
-      "published": 1765630733
-    },
-    {
-      "id": "46ee037551c7",
-      "title": "抓住眼球經濟2／低成本肥皂短劇在美竄紅 挑戰 HBO 等好萊塢串流平台",
-      "url": "https://money.udn.com/money/story/122381/9201429",
-      "source": "money.udn.com",
-      "published": 1765630027
     },
     {
       "id": "16524e870cc0",
@@ -539,13 +546,6 @@
       "url": "https://www.dw.com/zh/中欧重启电动车最低价格谈判/a-75127193?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765536240
-    },
-    {
-      "id": "6f0578e1b644",
-      "title": "国际人权日时中国驻纽约总领馆外墙曾再现大型政治投影",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251212-%E5%9B%BD%E9%99%85%E4%BA%BA%E6%9D%83%E6%97%A5%E6%97%B6%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BA%BD%E7%BA%A6%E6%80%BB%E9%A2%86%E9%A6%86%E5%A4%96%E5%A2%99%E6%9B%BE%E5%86%8D%E7%8E%B0%E5%A4%A7%E5%9E%8B%E6%94%BF%E6%B2%BB%E6%8A%95%E5%BD%B1",
-      "source": "rfi.fr",
-      "published": 1765534258
     },
     {
       "id": "884ecf6cc3eb",
@@ -1402,5 +1402,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765649629
+  "build_id": 1765651474
 }
