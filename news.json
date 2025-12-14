@@ -1,6 +1,13 @@
 {
-  "updated": 1765744738,
+  "updated": 1765746528,
   "items": [
+    {
+      "id": "19d1a14cf58b",
+      "title": "雪梨海灘猶太節慶槍擊案　警方：增至16人死亡",
+      "url": "https://money.udn.com/money/story/5599/9203109",
+      "source": "money.udn.com",
+      "published": 1765746025
+    },
     {
       "id": "661089f95bb6",
       "title": "美布朗大學槍擊案　FBI行動定位鎖定20多歲嫌疑人",
@@ -14,6 +21,13 @@
       "url": "https://www.singtaousa.com/2025/12/14/news/china/guangxi-murder-suspect-fugitive-reward/",
       "source": "singtaousa.com",
       "published": 1765742686
+    },
+    {
+      "id": "7daedeb31c51",
+      "title": "[西非经共体]第68届首脑峰会",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251214-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E8%A5%BF%E9%9D%9E%E7%BB%8F%E5%85%B1%E4%BD%93-%E7%AC%AC68%E5%B1%8A%E9%A6%96%E8%84%91%E5%B3%B0%E4%BC%9A",
+      "source": "rfi.fr",
+      "published": 1765741375
     },
     {
       "id": "f016cf7005f0",
@@ -210,13 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/9203016",
       "source": "money.udn.com",
       "published": 1765727130
-    },
-    {
-      "id": "38d2c8eb44bd",
-      "title": "澳洲邦代海灘猶太活動槍擊12死　罹難者含以色列公民",
-      "url": "https://money.udn.com/money/story/5599/9203005",
-      "source": "money.udn.com",
-      "published": 1765726577
     },
     {
       "id": "109e798474de",
@@ -574,13 +581,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251213-%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E5%B1%80%E5%A7%94%E5%91%98%E9%A9%AC%E5%85%B4%E7%91%9E%E6%8E%A5%E8%BF%9E%E7%BC%BA%E5%B8%AD%E4%B8%A4%E5%9C%BA%E9%87%8D%E8%A6%81%E4%BC%9A%E8%AE%AE%EF%BC%8C%E7%96%91%E7%82%B9%E9%87%8D%E9%87%8D",
       "source": "rfi.fr",
       "published": 1765626599
-    },
-    {
-      "id": "d4ab71d54626",
-      "title": "中国在中日关系紧张下低调举行南京大屠杀纪念活动",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251213-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%E4%B8%8B%E4%BD%8E%E8%B0%83%E4%B8%BE%E8%A1%8C%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8",
-      "source": "rfi.fr",
-      "published": 1765614884
     },
     {
       "id": "65cc9a307c28",
@@ -1388,5 +1388,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765744738
+  "build_id": 1765746528
 }
