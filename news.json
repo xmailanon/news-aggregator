@@ -1,6 +1,13 @@
 {
-  "updated": 1765743039,
+  "updated": 1765744738,
   "items": [
+    {
+      "id": "661089f95bb6",
+      "title": "美布朗大學槍擊案　FBI行動定位鎖定20多歲嫌疑人",
+      "url": "https://money.udn.com/money/story/5599/9203104",
+      "source": "money.udn.com",
+      "published": 1765744593
+    },
     {
       "id": "00cea173db4b",
       "title": "廣西驚傳雙屍命案！狂男持刀捅殺兩婦潛逃，公安懸紅10萬全力追捕",
@@ -231,13 +238,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251214-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA-%E4%B8%BA%E5%92%8C%E5%B9%B3%E6%94%BE%E5%BC%83%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6%E7%9A%84%E9%9B%84%E5%BF%83-%E6%9A%97%E7%A4%BA%E5%81%9A%E5%A5%BD%E6%8F%90%E5%89%8D%E5%A4%A7%E9%80%89%E5%87%86%E5%A4%87",
       "source": "rfi.fr",
       "published": 1765725352
-    },
-    {
-      "id": "855ed913dbbf",
-      "title": "美國總統川普第2任「國家安全戰略」與日本不同調 外務省官員擔憂",
-      "url": "https://money.udn.com/money/story/5599/9202934",
-      "source": "money.udn.com",
-      "published": 1765725086
     },
     {
       "id": "053033606c47",
@@ -1388,5 +1388,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765743039
+  "build_id": 1765744738
 }
