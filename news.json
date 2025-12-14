@@ -1,6 +1,34 @@
 {
-  "updated": 1765690828,
+  "updated": 1765692940,
   "items": [
+    {
+      "id": "f4218227ba8a",
+      "title": "川普：經濟政策成效未定　共和黨恐失眾院控制權",
+      "url": "https://money.udn.com/money/story/10511/9202246",
+      "source": "money.udn.com",
+      "published": 1765692109
+    },
+    {
+      "id": "9f68dcba0e5d",
+      "title": "蘇門答臘洪災死亡人數破千  印尼政府加速賑災重建",
+      "url": "https://money.udn.com/money/story/5599/9202247",
+      "source": "money.udn.com",
+      "published": 1765692107
+    },
+    {
+      "id": "aca957ab405d",
+      "title": "應黎巴嫩軍方請求　以色列暫緩空襲行動",
+      "url": "https://money.udn.com/money/story/5599/9202242",
+      "source": "money.udn.com",
+      "published": 1765691668
+    },
+    {
+      "id": "e4731ac16e75",
+      "title": "德國軍備擴張　傳統軍工與新創防務公司爭奪軍費配置",
+      "url": "https://money.udn.com/money/story/5599/9202231",
+      "source": "money.udn.com",
+      "published": 1765691129
+    },
     {
       "id": "ec3e107e393c",
       "title": "美工業落後恐影響軍力 紐時：中國非無敵 美要靠1關鍵翻盤",
@@ -135,39 +163,11 @@
       "published": 1765676807
     },
     {
-      "id": "6fb7aab160df",
-      "title": "德警破獲耶誕市集攻擊陰謀　逮捕5名涉案男子",
-      "url": "https://money.udn.com/money/story/5599/9201801",
-      "source": "money.udn.com",
-      "published": 1765676190
-    },
-    {
       "id": "6d706a54ca0b",
       "title": "美軍敘利亞遇襲釀3死 特朗普震怒誓言將採嚴厲報復行動",
       "url": "https://www.singtaousa.com/2025/12/13/news/world/trump-pledges-retaliation-after-3-americans-are-killed-in-syria-attack-that-the-us-blames-on-is/",
       "source": "singtaousa.com",
       "published": 1765676083
-    },
-    {
-      "id": "10142403995c",
-      "title": "歐盟批准波蘭核電補助　首座核電站預計2030年營運",
-      "url": "https://money.udn.com/money/story/5599/9201794",
-      "source": "money.udn.com",
-      "published": 1765675830
-    },
-    {
-      "id": "f52324c98078",
-      "title": "美聯航飛東京客機突引擎故障！起飛釀地面失火 空中放油畫面曝",
-      "url": "https://money.udn.com/money/story/5599/9201786",
-      "source": "money.udn.com",
-      "published": 1765675397
-    },
-    {
-      "id": "794f77504de1",
-      "title": "路透：憂以加薩作為　拜登時期美情報圈曾中斷情資",
-      "url": "https://money.udn.com/money/story/5599/9201784",
-      "source": "money.udn.com",
-      "published": 1765674740
     },
     {
       "id": "38b1d505495a",
@@ -588,13 +588,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cj4qqx5wpj1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765516819
-    },
-    {
-      "id": "9b5edd41ab93",
-      "title": "遭AI深偽性影像攻擊 香港民主倡議者批中國跨境鎮壓",
-      "url": "https://www.dw.com/zh/遭ai深偽性影像攻擊-香港民主倡議者批中國跨境鎮壓/a-75120710?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765515720
     },
     {
       "id": "ea79f50840ac",
@@ -1129,16 +1122,16 @@
       "published": 1765095900
     },
     {
-      "id": "ababaeec77cf",
-      "title": "伊朗上调油价 涨幅高达“两美分”",
-      "url": "https://www.dw.com/zh/伊朗上调油价-涨幅高达-两美分/a-74997897?maca=chi-rss-chi-all-1127-rdf",
+      "id": "9fadb63c40b6",
+      "title": "为什么基辅的学生仍然说俄语？",
+      "url": "https://www.dw.com/zh/为什么基辅的学生仍然说俄语？/a-74972352?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095840
     },
     {
-      "id": "9fadb63c40b6",
-      "title": "为什么基辅的学生仍然说俄语？",
-      "url": "https://www.dw.com/zh/为什么基辅的学生仍然说俄语？/a-74972352?maca=chi-rss-chi-all-1127-rdf",
+      "id": "ababaeec77cf",
+      "title": "伊朗上调油价 涨幅高达“两美分”",
+      "url": "https://www.dw.com/zh/伊朗上调油价-涨幅高达-两美分/a-74997897?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095840
     },
@@ -1402,5 +1395,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765690828
+  "build_id": 1765692940
 }
