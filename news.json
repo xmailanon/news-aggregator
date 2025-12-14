@@ -1,6 +1,13 @@
 {
-  "updated": 1765728697,
+  "updated": 1765730602,
   "items": [
+    {
+      "id": "0e217b6c4ae8",
+      "title": "川普說的投資熱...一場膨風賽",
+      "url": "https://money.udn.com/money/story/122381/9202802",
+      "source": "money.udn.com",
+      "published": 1765729118
+    },
     {
       "id": "fdc4c4274eec",
       "title": "智利将变天？极右翼候选人在总统选举第二轮中占据优势",
@@ -238,13 +245,6 @@
       "url": "https://money.udn.com/money/story/123398/9202569",
       "source": "money.udn.com",
       "published": 1765709966
-    },
-    {
-      "id": "e490a634b332",
-      "title": "馬斯克 vs.奧特曼之爭升溫 SpaceX 重奪估值最高未上市企業、超車 OpenAI",
-      "url": "https://money.udn.com/money/story/5599/9202566",
-      "source": "money.udn.com",
-      "published": 1765709491
     },
     {
       "id": "6f06091a7920",
@@ -1388,5 +1388,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765728697
+  "build_id": 1765730602
 }
