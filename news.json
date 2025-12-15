@@ -1,12 +1,33 @@
 {
-  "updated": 1765775806,
+  "updated": 1765777531,
   "items": [
+    {
+      "id": "acb2c7204963",
+      "title": "畢亞利亞茨基：幸有諾貝爾獎　在獄中才不會被打太慘",
+      "url": "https://money.udn.com/money/story/5599/9204018",
+      "source": "money.udn.com",
+      "published": 1765777538
+    },
     {
       "id": "6bf0ffdb1b9c",
       "title": "多媒體直播：黎智英勾結外國勢力案今日裁決：三罪罪名全數成立",
       "url": "https://www.bbc.com/zhongwen/live/cqlk4n75ydlt/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1765775806
+      "published": 1765777533
+    },
+    {
+      "id": "512f51ab4aa8",
+      "title": "川普關稅沒擊垮全球經濟？留意這隻「礦坑裡的金絲雀」",
+      "url": "https://money.udn.com/money/story/122381/9203960",
+      "source": "money.udn.com",
+      "published": 1765777421
+    },
+    {
+      "id": "f54337452172",
+      "title": "黎智英案：勾結境外勢力等三項罪名全數成立",
+      "url": "https://www.dw.com/zh/黎智英案：勾結境外勢力等三項罪名全數成立/a-75155496?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1765776180
     },
     {
       "id": "c82ed95a5005",
@@ -28,13 +49,6 @@
       "url": "https://money.udn.com/money/story/5599/9203827",
       "source": "money.udn.com",
       "published": 1765773296
-    },
-    {
-      "id": "f54337452172",
-      "title": "黎智英案：勾結境外勢力等三項罪名全數成立",
-      "url": "https://www.dw.com/zh/黎智英案：勾結境外勢力等三項罪名全數成立/a-75155496?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765773240
     },
     {
       "id": "58c97380cb4d",
@@ -156,25 +170,11 @@
       "published": 1765767461
     },
     {
-      "id": "6d0530070c93",
-      "title": "亞洲晶片股隨費半大跌 專家怎麼看？",
-      "url": "https://money.udn.com/money/story/5599/9203502",
-      "source": "money.udn.com",
-      "published": 1765767042
-    },
-    {
       "id": "f25d3a2a0af0",
       "title": "美国特种作战小组登船扣押自中国运往伊朗货物",
       "url": "https://cn.nytimes.com/usa/20251215/cargo-ship-seized-iran-china/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1765766213
-    },
-    {
-      "id": "3146543e4447",
-      "title": "日本福岡巨蛋附近攻擊案2傷　男嫌落網承認犯行",
-      "url": "https://money.udn.com/money/story/5599/9203452",
-      "source": "money.udn.com",
-      "published": 1765765838
     },
     {
       "id": "14796487620d",
@@ -287,6 +287,13 @@
       "url": "https://www.singtaousa.com/2025/12/14/news/world/australia-shooting-sydney-bondi-beach/",
       "source": "singtaousa.com",
       "published": 1765734179
+    },
+    {
+      "id": "5f098a670e71",
+      "title": "还原布朗大学恐怖之夜：蒙面男子闯入教室向学生扫射",
+      "url": "https://cn.nytimes.com/usa/20251215/gunshots-lockdown-brown-university/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1765732357
     },
     {
       "id": "00d7c8316c7b",
@@ -1087,13 +1094,6 @@
       "published": 1765244081
     },
     {
-      "id": "ce378d5cf525",
-      "title": "iPhone为何中国制造？",
-      "url": "https://cn.nytimes.com/business/20120122/c00appleone/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1765243600
-    },
-    {
       "id": "e9a6f8428583",
       "title": "中國短劇流水線揭秘：寬鬆審核下的速度與豪賭",
       "url": "https://www.bbc.com/zhongwen/articles/ckgzn10qg22o/trad?at_medium=RSS&at_campaign=rss",
@@ -1395,5 +1395,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765775806
+  "build_id": 1765777531
 }
