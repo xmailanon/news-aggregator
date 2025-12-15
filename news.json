@@ -1,6 +1,13 @@
 {
-  "updated": 1765831375,
+  "updated": 1765833045,
   "items": [
+    {
+      "id": "2dea5ff3b595",
+      "title": "房市拐點已至？美國房價兩年來首現負增長，這些城市跌最兇",
+      "url": "https://www.singtaousa.com/2025/12/15/news/usa/us-home-prices-negative/",
+      "source": "singtaousa.com",
+      "published": 1765831893
+    },
     {
       "id": "fd9a43ed5994",
       "title": "美烏柏林會談達5點共識　梅爾茨：和平變得可想像",
@@ -108,7 +115,7 @@
     },
     {
       "id": "c4aeebd20c71",
-      "title": "下任 Fed 主席熱門人選哈塞特挺央行獨立性",
+      "title": "下任 Fed 主席熱門人選 哈塞特挺央行獨立性",
       "url": "https://money.udn.com/money/story/5599/9205189",
       "source": "money.udn.com",
       "published": 1765823023
@@ -189,13 +196,6 @@
       "url": "https://money.udn.com/money/story/5599/9205347",
       "source": "money.udn.com",
       "published": 1765820202
-    },
-    {
-      "id": "93a0d739e9ca",
-      "title": "小米SU7 Max杭州車主提車即出事 網傳銷售員被撞倒",
-      "url": "https://www.singtaousa.com/2025/12/15/news/china/xiaomi-su7-max-owner-crashes-after-delivery/",
-      "source": "singtaousa.com",
-      "published": 1765820085
     },
     {
       "id": "825cd4e3b935",
@@ -1402,5 +1402,5 @@
       "published": 1763281320
     }
   ],
-  "build_id": 1765831375
+  "build_id": 1765833045
 }
