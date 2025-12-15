@@ -1,12 +1,47 @@
 {
-  "updated": 1765779549,
+  "updated": 1765781675,
   "items": [
+    {
+      "id": "4e9e17b9ef48",
+      "title": "資本支出擔憂再起　日經指數受AI股拖累收跌",
+      "url": "https://money.udn.com/money/story/5599/9204189",
+      "source": "money.udn.com",
+      "published": 1765781746
+    },
     {
       "id": "6bf0ffdb1b9c",
       "title": "多媒體直播：黎智英勾結外國勢力案今日裁決：三罪罪名全數成立",
       "url": "https://www.bbc.com/zhongwen/live/cqlk4n75ydlt/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1765779550
+      "published": 1765781677
+    },
+    {
+      "id": "5c6a71254ed4",
+      "title": "上野動物園大貓熊將返中　日本將告別黑白身影",
+      "url": "https://money.udn.com/money/story/5599/9204149",
+      "source": "money.udn.com",
+      "published": 1765780268
+    },
+    {
+      "id": "42512bb8cffe",
+      "title": "川普不留情面砲轟歐盟 歐盟為了這個國家不敢反擊",
+      "url": "https://money.udn.com/money/story/5599/9204138",
+      "source": "money.udn.com",
+      "published": 1765780106
+    },
+    {
+      "id": "101035d0f2c9",
+      "title": "金與正疑持中國折疊螢幕手機　聯合國制裁恐落空",
+      "url": "https://money.udn.com/money/story/5599/9204120",
+      "source": "money.udn.com",
+      "published": 1765779819
+    },
+    {
+      "id": "fb848bff4a1e",
+      "title": "美國布朗大學槍擊案　被捕關係人因證據不足將獲釋",
+      "url": "https://money.udn.com/money/story/5599/9204102",
+      "source": "money.udn.com",
+      "published": 1765779151
     },
     {
       "id": "570cdb2ce6e5",
@@ -126,41 +161,6 @@
       "url": "https://money.udn.com/money/story/5599/9203707",
       "source": "money.udn.com",
       "published": 1765770879
-    },
-    {
-      "id": "ac40857774d9",
-      "title": "影/徒手制伏雪梨海灘槍手！43歲水果店老闆身中2槍現況曝",
-      "url": "https://money.udn.com/money/story/5599/9203690",
-      "source": "money.udn.com",
-      "published": 1765770542
-    },
-    {
-      "id": "3ff0e2be2f20",
-      "title": "暴風雪衝擊北海道陸空交通 1萬9400多戶停電",
-      "url": "https://money.udn.com/money/story/5599/9203681",
-      "source": "money.udn.com",
-      "published": 1765770329
-    },
-    {
-      "id": "3e09aacb3cb8",
-      "title": "南韓獨檢組揭尹錫悅戒嚴黑幕 派無人機挑釁北韓奪權計畫破局",
-      "url": "https://money.udn.com/money/story/5599/9203674",
-      "source": "money.udn.com",
-      "published": 1765770221
-    },
-    {
-      "id": "c807423100e6",
-      "title": "奢華不只看標價 車廠爭相「賣故事、賣歷史傳承、也賣獨特性」",
-      "url": "https://money.udn.com/money/story/5599/9203563",
-      "source": "money.udn.com",
-      "published": 1765769821
-    },
-    {
-      "id": "4017ee192ab7",
-      "title": "AI 需求不是假的！甲骨文近三個月敲定1,500億美元資料中心租賃承諾",
-      "url": "https://money.udn.com/money/story/5599/9203600",
-      "source": "money.udn.com",
-      "published": 1765769144
     },
     {
       "id": "60d8242fb4c9",
@@ -294,6 +294,20 @@
       "url": "https://cn.nytimes.com/usa/20251215/gunshots-lockdown-brown-university/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1765732357
+    },
+    {
+      "id": "665d5bee8586",
+      "title": "FT社评：欧盟可以让单一市场更好运转起来",
+      "url": "https://www.ftchinese.com/story/001108442",
+      "source": "ftchinese.com",
+      "published": 1765728000
+    },
+    {
+      "id": "be6830aa8540",
+      "title": "松冈美里：中日需建立持续、多层次的沟通机制",
+      "url": "https://www.ftchinese.com/story/001108440",
+      "source": "ftchinese.com",
+      "published": 1765728000
     },
     {
       "id": "910ca03ee4c5",
@@ -856,20 +870,6 @@
       "published": 1765468800
     },
     {
-      "id": "d08510a95f0c",
-      "title": "默茨敦促特朗普解决乌克兰问题不要“绕开欧洲”",
-      "url": "https://www.ftchinese.com/story/001108422",
-      "source": "ftchinese.com",
-      "published": 1765468800
-    },
-    {
-      "id": "967062363422",
-      "title": "中国如何积累起万亿美元贸易顺差",
-      "url": "https://www.ftchinese.com/story/001108421",
-      "source": "ftchinese.com",
-      "published": 1765468800
-    },
-    {
       "id": "a0834a9a6bba",
       "title": "国际货币基金组织敦促中国“勇敢抉择”：减少出口、增加消费",
       "url": "https://www.dw.com/zh/国际货币基金组织敦促中国-勇敢抉择-：减少出口、增加消费/a-75115520?maca=chi-rss-chi-all-1127-rdf",
@@ -1388,5 +1388,5 @@
       "published": 1763280120
     }
   ],
-  "build_id": 1765779549
+  "build_id": 1765781675
 }
