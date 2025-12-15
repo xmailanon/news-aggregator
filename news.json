@@ -1,10 +1,31 @@
 {
-  "updated": 1765806886,
+  "updated": 1765808098,
   "items": [
     {
-      "id": "8a5f0a61245c",
+      "id": "e0a1fde91c71",
+      "title": "路透：Meta為守住近千億營收　容忍中國廣告詐騙猖獗",
+      "url": "https://money.udn.com/money/story/5599/9205047",
+      "source": "money.udn.com",
+      "published": 1765807942
+    },
+    {
+      "id": "bcb774dfafe2",
+      "title": "雪梨著名海灘發生針對猶太社區的屠殺 震動澳洲",
+      "url": "https://money.udn.com/money/story/5599/9203622",
+      "source": "money.udn.com",
+      "published": 1765807147
+    },
+    {
+      "id": "fe2b9c585978",
+      "title": "中国经济11月陷入停滞 改革呼声与日俱增",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20251215-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E11%E6%9C%88%E9%99%B7%E5%85%A5%E5%81%9C%E6%BB%9E-%E6%94%B9%E9%9D%A9%E5%91%BC%E5%A3%B0%E4%B8%8E%E6%97%A5%E4%BF%B1%E5%A2%9E",
+      "source": "rfi.fr",
+      "published": 1765807018
+    },
+    {
+      "id": "e3d15a74bad4",
       "title": "民調：3/4烏克蘭人反對和平協議重大讓步",
-      "url": "https://money.udn.com/money/story/10511/9205010",
+      "url": "https://money.udn.com/money/story/5599/9205010",
       "source": "money.udn.com",
       "published": 1765806880
     },
@@ -154,20 +175,6 @@
       "url": "https://money.udn.com/money/story/5599/9204408",
       "source": "money.udn.com",
       "published": 1765797504
-    },
-    {
-      "id": "46b0b2fcc68d",
-      "title": "澤倫斯基對加入北約的措辭發生變化 暗示接受美國安全保障作為替代",
-      "url": "https://money.udn.com/money/story/5599/9204052",
-      "source": "money.udn.com",
-      "published": 1765797316
-    },
-    {
-      "id": "63a51ff66879",
-      "title": "SK海力士投入量產HBM4  供應輝達",
-      "url": "https://money.udn.com/money/story/5599/9204754",
-      "source": "money.udn.com",
-      "published": 1765796789
     },
     {
       "id": "590e1e93a41c",
@@ -644,13 +651,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cjdrj1v9234o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765700765
-    },
-    {
-      "id": "fdbf8cd657a4",
-      "title": "特朗普承认共和党或将在中期选举中失利",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251214-%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E5%85%B1%E5%92%8C%E5%85%9A%E6%88%96%E5%B0%86%E5%9C%A8%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E4%B8%AD%E5%A4%B1%E5%88%A9",
-      "source": "rfi.fr",
-      "published": 1765700710
     },
     {
       "id": "c600545e0498",
@@ -1402,5 +1402,5 @@
       "published": 1763281320
     }
   ],
-  "build_id": 1765806886
+  "build_id": 1765808098
 }
