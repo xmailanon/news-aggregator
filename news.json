@@ -1,5 +1,5 @@
 {
-  "updated": 1765815373,
+  "updated": 1765817626,
   "items": [
     {
       "id": "7946654f4307",
@@ -345,11 +345,25 @@
       "published": 1765761638
     },
     {
+      "id": "fcee7dde595e",
+      "title": "賓州公寓彎刀血案釀2死，嫌犯被捕後自稱吸食迷幻藥",
+      "url": "https://www.singtaousa.com/2025/12/14/news/usa/affidavit-reveals-details-of-scranton-machete-attack-that-left-two-women-dead-one-wounded/",
+      "source": "singtaousa.com",
+      "published": 1765760684
+    },
+    {
       "id": "fb42ee7c7260",
       "title": "防长警告兵推“每次都输”：美军机密报告预测台海开战中国将获胜",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251215-%E9%98%B2%E9%95%BF%E8%AD%A6%E5%91%8A%E5%85%B5%E6%8E%A8-%E6%AF%8F%E6%AC%A1%E9%83%BD%E8%BE%93-%E7%BE%8E%E5%86%9B%E6%9C%BA%E5%AF%86%E6%8A%A5%E5%91%8A%E9%A2%84%E6%B5%8B%E5%8F%B0%E6%B5%B7%E5%BC%80%E6%88%98%E4%B8%AD%E5%9B%BD%E5%B0%86%E8%8E%B7%E8%83%9C",
       "source": "rfi.fr",
       "published": 1765760371
+    },
+    {
+      "id": "681bf14ec5eb",
+      "title": "強生爽身粉致癌風暴：加州陪審團為何判賠4000萬美元？",
+      "url": "https://www.singtaousa.com/2025/12/14/news/usa/johnson-johnson-ordered-to-pay-40m-to-women-who-said-talc-to-blame-for-cancer/",
+      "source": "singtaousa.com",
+      "published": 1765758885
     },
     {
       "id": "ff3144c1bee7",
@@ -476,20 +490,6 @@
       "url": "https://www.singtaousa.com/2025/12/14/news/china/ma-on-shan-fire-residents-evacuated/",
       "source": "singtaousa.com",
       "published": 1765737288
-    },
-    {
-      "id": "0ace1f048467",
-      "title": "專業界如何把握大灣區機遇？AHKP論壇聚焦北都與一帶一路",
-      "url": "https://www.singtaousa.com/2025/12/14/news/china/ahkp-forum-northern-metropolis-bay-area-opportunities/",
-      "source": "singtaousa.com",
-      "published": 1765735487
-    },
-    {
-      "id": "00330f7dc616",
-      "title": "悉尼邦迪海灘光明節慶典遭恐怖襲擊，釀11死29",
-      "url": "https://www.singtaousa.com/2025/12/14/news/world/australia-shooting-sydney-bondi-beach/",
-      "source": "singtaousa.com",
-      "published": 1765734179
     },
     {
       "id": "5f098a670e71",
@@ -1143,13 +1143,6 @@
       "published": 1765227985
     },
     {
-      "id": "576ba65424c5",
-      "title": "特朗普批准英伟达向中国出售H200芯片",
-      "url": "https://cn.nytimes.com/business/20251209/trump-nvidia-chips-china/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1765215441
-    },
-    {
       "id": "f9bacd42998a",
       "title": "德语媒体：欧洲正在为对华依赖付出高昂代价",
       "url": "https://www.dw.com/zh/德语媒体：欧洲正在为对华依赖付出高昂代价/a-75065771?maca=chi-rss-chi-all-1127-rdf",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/少林寺原住持释永信被正式批捕/a-74763863?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1763294340
+    },
+    {
+      "id": "6fcfe163064a",
+      "title": "台灣馬術治療的德國血統",
+      "url": "https://www.dw.com/zh/台灣馬術治療的德國血統/a-74743604?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1763281320
     }
   ],
-  "build_id": 1765815373
+  "build_id": 1765817626
 }
