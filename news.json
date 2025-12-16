@@ -1,6 +1,34 @@
 {
-  "updated": 1765860757,
+  "updated": 1765862073,
   "items": [
+    {
+      "id": "3949001590ab",
+      "title": "好萊塢導演羅伯·雷納夫婦家中身亡，其子尼克涉嫌謀殺被捕",
+      "url": "https://www.bbc.com/zhongwen/articles/crl94e5we2go/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1765861231
+    },
+    {
+      "id": "f84edd083fe8",
+      "title": "Roomba製造商iRobot聲請破產，亞馬遜告吹後意外買家浮現",
+      "url": "https://www.singtaousa.com/2025/12/15/news/usa/roomba-maker-irobot-files-for-bankruptcy-protection-will-be-taken-private-under-restructuring/",
+      "source": "singtaousa.com",
+      "published": 1765861200
+    },
+    {
+      "id": "2bc89982bc80",
+      "title": "抗衡矽谷？特朗普政府推「科技部隊」高薪招募AI專才",
+      "url": "https://www.singtaousa.com/2025/12/15/news/usa/us-government-launches-tech-force-to-hire-ai-talent-cnn-business/",
+      "source": "singtaousa.com",
+      "published": 1765861200
+    },
+    {
+      "id": "2c9f2bb6b11d",
+      "title": "中國海警對菲漁船噴水釀3傷　菲防長：危險不人道",
+      "url": "https://money.udn.com/money/story/5599/9206246",
+      "source": "money.udn.com",
+      "published": 1765860861
+    },
     {
       "id": "30cb85ac648e",
       "title": "“绝不要为天皇或国家而死”：日本“二战”老兵最后的警告",
@@ -184,13 +212,6 @@
       "published": 1765851797
     },
     {
-      "id": "574e3ad80a48",
-      "title": "EV業務受挫 福特將認列195億美元減損 轉奔油電混合車和小型平價車",
-      "url": "https://money.udn.com/money/story/5599/9205661",
-      "source": "money.udn.com",
-      "published": 1765850451
-    },
-    {
       "id": "8458f05c3ff6",
       "title": "年輕人如何快速累積資產",
       "url": "https://www.singtaousa.com/2025/12/15/lifestyle/finance/how-young-people-can-quickly-accumulate-assets/",
@@ -310,25 +331,11 @@
       "published": 1765841903
     },
     {
-      "id": "8bad57801007",
-      "title": "德國總理籲俄羅斯聖誕停火，盼其「尚存人性」引關注",
-      "url": "https://www.singtaousa.com/2025/12/15/news/world/merz-hopes-russia-still-has-some-humanity-and-will-leave-people-in-peace-at-christmas/",
-      "source": "singtaousa.com",
-      "published": 1765841681
-    },
-    {
       "id": "1dd5f9ec33cb",
       "title": "特朗普曾倾向于维护中方利益，但美国最终表态给日本提供军事支持",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251215-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E5%80%BE%E5%90%91%E4%BA%8E%E7%BB%B4%E6%8A%A4%E4%B8%AD%E6%96%B9%E5%88%A9%E7%9B%8A%EF%BC%8C%E4%BD%86%E7%BE%8E%E5%9B%BD%E6%9C%80%E7%BB%88%E8%A1%A8%E6%80%81%E7%BB%99%E6%97%A5%E6%9C%AC%E6%8F%90%E4%BE%9B%E5%86%9B%E4%BA%8B%E6%94%AF%E6%8C%81",
       "source": "rfi.fr",
       "published": 1765841515
-    },
-    {
-      "id": "b9cba31fb6b8",
-      "title": "北沙市公共銅雕遭人破壞 母像被盜走 女兒留在路中心｜細說燊語",
-      "url": "https://www.singtaousa.com/2025/12/15/news/usa/thief-steals-part-of-bronze-sculpture-happiness-in-north-sacramento/",
-      "source": "singtaousa.com",
-      "published": 1765841260
     },
     {
       "id": "4dc0530b8a9e",
@@ -1220,13 +1227,6 @@
       "published": 1764942600
     },
     {
-      "id": "49274f93316a",
-      "title": "台灣以「打擊詐騙」為由封鎖小紅書一年，為何引發爭議？",
-      "url": "https://www.bbc.com/zhongwen/articles/crk762n7rj3o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1764933927
-    },
-    {
       "id": "13718976eb0b",
       "title": "普京：烏克蘭必須撤出頓巴斯地區，否則將武力奪取",
       "url": "https://www.bbc.com/zhongwen/articles/c79xqzr931qo/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1763294340
     }
   ],
-  "build_id": 1765860757
+  "build_id": 1765862073
 }
