@@ -1,6 +1,20 @@
 {
-  "updated": 1765868010,
+  "updated": 1765869312,
   "items": [
+    {
+      "id": "46d692319fad",
+      "title": "菲國證實雪梨槍擊案嫌犯曾訪南部  安全部門展開調查",
+      "url": "https://money.udn.com/money/story/5599/9206585",
+      "source": "money.udn.com",
+      "published": 1765868462
+    },
+    {
+      "id": "fb8849331a2f",
+      "title": "布朗大學槍擊案追捕持續，關鍵影像曝光但校園安全引發質疑",
+      "url": "https://www.singtaousa.com/2025/12/16/news/usa/search-for-the-brown-university-shooter-continues-as-questions-swirl-about-campus-security/",
+      "source": "singtaousa.com",
+      "published": 1765868400
+    },
     {
       "id": "eb533ce95fcf",
       "title": "誰掌聯準會？路透專欄：不管誰出線 貝森特才是實質的下任主席",
@@ -212,13 +226,6 @@
       "published": 1765858146
     },
     {
-      "id": "701a261b6403",
-      "title": "借鑑雪梨海灘槍擊案  新加坡強調不容族群仇恨言論",
-      "url": "https://money.udn.com/money/story/5599/9206078",
-      "source": "money.udn.com",
-      "published": 1765857648
-    },
-    {
       "id": "e7c77de2b8bd",
       "title": "敘利亞遇襲陣亡美軍身分確認！兩名愛荷華州國民警衛隊中士殉職",
       "url": "https://www.singtaousa.com/2025/12/15/news/world/us-identifies-two-soldiers-killed-in-ambush-in-syria-cnn-politics/",
@@ -266,13 +273,6 @@
       "url": "https://cn.nytimes.com/business/20251215/china-investment-economy/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1765847787
-    },
-    {
-      "id": "715ba185eca1",
-      "title": "粵語中國不平凡的一年",
-      "url": "https://www.singtaousa.com/2025/12/15/opinion/chinas-extraordinary-year/",
-      "source": "singtaousa.com",
-      "published": 1765847739
     },
     {
       "id": "91243fbb03c7",
@@ -350,6 +350,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20251215-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E5%80%BE%E5%90%91%E4%BA%8E%E7%BB%B4%E6%8A%A4%E4%B8%AD%E6%96%B9%E5%88%A9%E7%9B%8A%EF%BC%8C%E4%BD%86%E7%BE%8E%E5%9B%BD%E6%9C%80%E7%BB%88%E8%A1%A8%E6%80%81%E7%BB%99%E6%97%A5%E6%9C%AC%E6%8F%90%E4%BE%9B%E5%86%9B%E4%BA%8B%E6%94%AF%E6%8C%81",
       "source": "rfi.fr",
       "published": 1765841515
+    },
+    {
+      "id": "69eb5d1e008e",
+      "title": "他拍下了新疆再教育营，如今美国要将他驱逐",
+      "url": "https://cn.nytimes.com/usa/20251216/heng-guan-china-uyghurs-deportation-uganda/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1765825387
     },
     {
       "id": "4dc0530b8a9e",
@@ -1115,13 +1122,6 @@
       "published": 1765337372
     },
     {
-      "id": "7b01e42d8f78",
-      "title": "在性别严重失衡的中国，3000万“光棍”如何谈恋爱？",
-      "url": "https://cn.nytimes.com/opinion/20251210/china-dating-men-one-child-policy/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1765331195
-    },
-    {
       "id": "eb6c1b194d7b",
       "title": "安世前CEO称该公司中国所有者图谋向中国转移技术",
       "url": "https://cn.nytimes.com/business/20251210/dutch-nexperia-zhang-ceo/?utm_source=RSS",
@@ -1402,5 +1402,5 @@
       "published": 1763551380
     }
   ],
-  "build_id": 1765868010
+  "build_id": 1765869312
 }
