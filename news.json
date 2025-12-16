@@ -1,6 +1,34 @@
 {
-  "updated": 1765894439,
+  "updated": 1765896450,
   "items": [
+    {
+      "id": "f066ce17a20f",
+      "title": "雪梨海灘槍擊案　男子力阻槍手不幸喪生英勇行為曝光",
+      "url": "https://money.udn.com/money/story/5599/9207508",
+      "source": "money.udn.com",
+      "published": 1765894975
+    },
+    {
+      "id": "ab3c3c10b9f3",
+      "title": "美就業報告、零售銷售憂喜參半 Fed 降息預期略增",
+      "url": "https://money.udn.com/money/story/5599/9207505",
+      "source": "money.udn.com",
+      "published": 1765894847
+    },
+    {
+      "id": "f5cef32b7221",
+      "title": "猶太夫妻與邦代海灘凶嫌搏鬥反遇害 目擊者封他為英雄",
+      "url": "https://money.udn.com/money/story/5599/9207507",
+      "source": "money.udn.com",
+      "published": 1765894843
+    },
+    {
+      "id": "eb9a7ea7546e",
+      "title": "越南癌症村：塑料回收的阴暗面",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20251216-%E8%B6%8A%E5%8D%97%E7%99%8C%E7%97%87%E6%9D%91-%E5%A1%91%E6%96%99%E5%9B%9E%E6%94%B6%E7%9A%84%E9%98%B4%E6%9A%97%E9%9D%A2",
+      "source": "rfi.fr",
+      "published": 1765894559
+    },
     {
       "id": "7db4df87b02d",
       "title": "泰国军方缴获柬埔寨中国制反坦克导弹等武器 並将依法保留",
@@ -226,32 +254,11 @@
       "published": 1765886071
     },
     {
-      "id": "83e2292d3a1f",
-      "title": "泰國為泰黨提名戴克辛外甥出任首席總理候選人",
-      "url": "https://money.udn.com/money/story/5599/9207325",
-      "source": "money.udn.com",
-      "published": 1765886069
-    },
-    {
-      "id": "4e0663f918d7",
-      "title": "掌握外國人取得不動產狀況　日擬明年起強制登記國籍",
-      "url": "https://money.udn.com/money/story/5599/9207323",
-      "source": "money.udn.com",
-      "published": 1765886069
-    },
-    {
       "id": "b19490475c2a",
       "title": "福特F-150電動車驚傳停產！數十億虧損迫使EV戰略大轉彎",
       "url": "https://www.singtaousa.com/2025/12/16/news/usa/ford-scraps-fully-electric-f-150-lightning-as-mounting-losses-and-falling-demand-hits-ev-plans/",
       "source": "singtaousa.com",
       "published": 1765884600
-    },
-    {
-      "id": "dd5d0841f25a",
-      "title": "英國與韓國達成新版自貿協議 98%商品將實現零關稅",
-      "url": "https://money.udn.com/money/story/5599/9206269",
-      "source": "money.udn.com",
-      "published": 1765884402
     },
     {
       "id": "df727809bf87",
@@ -436,13 +443,6 @@
       "published": 1765847787
     },
     {
-      "id": "91243fbb03c7",
-      "title": "圣诞节：香水店、珠宝店、过节新衣… 节前购物狂潮考验商家销售人员",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251216-%E5%9C%A3%E8%AF%9E%E8%8A%82-%E9%A6%99%E6%B0%B4%E5%BA%97-%E7%8F%A0%E5%AE%9D%E5%BA%97-%E8%BF%87%E8%8A%82%E6%96%B0%E8%A1%A3-%E8%8A%82%E5%89%8D%E8%B4%AD%E7%89%A9%E7%8B%82%E6%BD%AE%E8%80%83%E9%AA%8C%E5%95%86%E5%AE%B6%E9%94%80%E5%94%AE%E4%BA%BA%E5%91%98",
-      "source": "rfi.fr",
-      "published": 1765847353
-    },
-    {
       "id": "dbe96ffa903a",
       "title": "特朗普希望习近平释放黎智英",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251216-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%8C%E6%9C%9B%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%87%8A%E6%94%BE%E9%BB%8E%E6%99%BA%E8%8B%B1",
@@ -532,6 +532,13 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251215-%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88%E8%BF%9B%E5%85%A5%E5%85%B3%E9%94%AE%E9%98%B6%E6%AE%B5%EF%BC%8C%E6%AC%A7%E7%9B%9F18-19%E6%97%A5%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E6%8F%B4%E4%B9%8C%E4%B8%8E%E5%88%B6%E8%A3%81%E4%BF%84-%E5%B9%BD%E7%81%B5%E8%88%B9%E9%98%9F",
       "source": "rfi.fr",
       "published": 1765815254
+    },
+    {
+      "id": "a36224d5cd9c",
+      "title": "刚走出阴霾又再涉行贿 中兴或被罚十亿美元",
+      "url": "https://www.ftchinese.com/story/001108455",
+      "source": "ftchinese.com",
+      "published": 1765814400
     },
     {
       "id": "37108a1c0df1",
@@ -828,13 +835,6 @@
       "published": 1765728000
     },
     {
-      "id": "c4a53c0ab3cf",
-      "title": "杰米•戴蒙表态支持凯文•沃什出任美联储主席",
-      "url": "https://www.ftchinese.com/story/001108433",
-      "source": "ftchinese.com",
-      "published": 1765728000
-    },
-    {
       "id": "053033606c47",
       "title": "墙外文摘：习近平如何因五个迷思误了国？",
       "url": "https://www.dw.com/zh/墙外文摘：习近平如何因五个迷思误了国？/a-75151917?maca=chi-rss-chi-all-1127-rdf",
@@ -863,16 +863,16 @@
       "published": 1765710480
     },
     {
-      "id": "1298f0ef2dd5",
-      "title": "捐精者的精子恐导致近200幼童患癌",
-      "url": "https://www.dw.com/zh/捐精者的精子恐导致近200幼童患癌/a-75094855?maca=chi-rss-chi-all-1127-rdf",
+      "id": "f236eced2971",
+      "title": "巴黎卢浮宫漏水 数百本历史书籍受损",
+      "url": "https://www.dw.com/zh/巴黎卢浮宫漏水-数百本历史书籍受损/a-75067522?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765698420
     },
     {
-      "id": "f236eced2971",
-      "title": "巴黎卢浮宫漏水 数百本历史书籍受损",
-      "url": "https://www.dw.com/zh/巴黎卢浮宫漏水-数百本历史书籍受损/a-75067522?maca=chi-rss-chi-all-1127-rdf",
+      "id": "1298f0ef2dd5",
+      "title": "捐精者的精子恐导致近200幼童患癌",
+      "url": "https://www.dw.com/zh/捐精者的精子恐导致近200幼童患癌/a-75094855?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765698420
     },
@@ -1360,6 +1360,13 @@
       "published": 1764250620
     },
     {
+      "id": "68cd9376dda1",
+      "title": "万科首次寻求延期偿还即将到期的债券",
+      "url": "https://www.dw.com/zh/万科首次寻求延期偿还即将到期的债券/a-74923097?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1764248340
+    },
+    {
       "id": "09fce1e48216",
       "title": "香港宏福苑大火：外牆施工材料易燃 工程公司3人被捕",
       "url": "https://www.dw.com/zh/香港宏福苑大火：外牆施工材料易燃-工程公司3人被捕/a-74914548?maca=chi-rss-chi-news-3224-rdf",
@@ -1393,14 +1400,7 @@
       "url": "https://www.dw.com/zh/印度国产战斗机飞行表演时坠毁/a-74839342?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1763733720
-    },
-    {
-      "id": "29b963d2d027",
-      "title": "事实核查：中国空间站静止水杯的画面合理吗？",
-      "url": "https://www.dw.com/zh/事实核查：中国空间站静止水杯的画面合理吗？/a-74796414?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1763633220
     }
   ],
-  "build_id": 1765894439
+  "build_id": 1765896450
 }
