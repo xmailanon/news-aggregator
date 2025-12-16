@@ -1,9 +1,37 @@
 {
-  "updated": 1765875029,
+  "updated": 1765876599,
   "items": [
     {
+      "id": "2628a076ebb6",
+      "title": "綠卡家庭麻州遭ICE暴力圍堵，訴訟揭露執法過當細節",
+      "url": "https://www.singtaousa.com/2025/12/16/news/usa/us-green-card-holder-sues-ice-over-claims-of-violent-assault/",
+      "source": "singtaousa.com",
+      "published": 1765875600
+    },
+    {
+      "id": "12a335a5c8e6",
+      "title": "MI6女首長揭俄國滲透新手段：前線已無處不在",
+      "url": "https://www.singtaousa.com/2025/12/16/news/world/russia-trying-to-bully-uk-and-allies-with-attacks-under-threshold-of-all-out-war-mi6-chief-says/",
+      "source": "singtaousa.com",
+      "published": 1765875600
+    },
+    {
+      "id": "e062aea63075",
+      "title": "高市：美国以外对象不太可能符合存亡危机事态认定条件 防卫省：冲绳离岛将部署雷达部队",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251216-%E9%AB%98%E5%B8%82-%E7%BE%8E%E5%9B%BD%E4%BB%A5%E5%A4%96%E5%AF%B9%E8%B1%A1%E4%B8%8D%E5%A4%AA%E5%8F%AF%E8%83%BD%E7%AC%A6%E5%90%88%E5%AD%98%E4%BA%A1%E5%8D%B1%E6%9C%BA%E4%BA%8B%E6%80%81%E8%AE%A4%E5%AE%9A%E6%9D%A1%E4%BB%B6-%E9%98%B2%E5%8D%AB%E7%9C%81-%E5%86%B2%E7%BB%B3%E7%A6%BB%E5%B2%9B%E5%B0%86%E9%83%A8%E7%BD%B2%E9%9B%B7%E8%BE%BE%E9%83%A8%E9%98%9F",
+      "source": "rfi.fr",
+      "published": 1765875394
+    },
+    {
+      "id": "fd385355c6f1",
+      "title": "上野動物園大貓熊將返中　日民眾不捨與質疑聲交錯",
+      "url": "https://money.udn.com/money/story/5599/9206963",
+      "source": "money.udn.com",
+      "published": 1765875319
+    },
+    {
       "id": "9660a3c63295",
-      "title": "裁員、高管去職、失去大客戶 光達廠Luminar聲請破產",
+      "title": "裁員、高管去職、失去大客戶 光達廠 Luminar 聲請破產",
       "url": "https://money.udn.com/money/story/5599/9206950",
       "source": "money.udn.com",
       "published": 1765874911
@@ -84,20 +112,6 @@
       "url": "https://www.singtaousa.com/2025/12/16/news/usa/cable-car-accident-injuries/",
       "source": "singtaousa.com",
       "published": 1765872536
-    },
-    {
-      "id": "8ac5165acaac",
-      "title": "一歲男童車道遭輾死  警方初步認定為意外",
-      "url": "https://www.singtaousa.com/2025/12/16/news/usa/child-dies-driveway-accident/",
-      "source": "singtaousa.com",
-      "published": 1765872459
-    },
-    {
-      "id": "af7322b6e7cc",
-      "title": "安老自助處員工無辜喪命  鍾月娟籲勿讓悲劇重演",
-      "url": "https://www.singtaousa.com/2025/12/16/news/usa/senior-center-safety-advocacy/",
-      "source": "singtaousa.com",
-      "published": 1765872443
     },
     {
       "id": "abc77d79204c",
@@ -252,13 +266,6 @@
       "url": "https://money.udn.com/money/story/5599/9206462",
       "source": "money.udn.com",
       "published": 1765865687
-    },
-    {
-      "id": "03f62220e8f2",
-      "title": "南韓政府衝刺 AI 與半導體 規劃明年對關鍵領域投資逾200億美元",
-      "url": "https://money.udn.com/money/story/5599/9206447",
-      "source": "money.udn.com",
-      "published": 1765865329
     },
     {
       "id": "dbdc9504bd8f",
@@ -595,13 +602,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cd740xw1ne7o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765787039
-    },
-    {
-      "id": "9c7b28a30808",
-      "title": "布朗大学枪击案：被捕者将被释放",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251215-%E5%B8%83%E6%9C%97%E5%A4%A7%E5%AD%A6%E6%9E%AA%E5%87%BB%E6%A1%88-%E8%A2%AB%E6%8D%95%E8%80%85%E5%B0%86%E8%A2%AB%E9%87%8A%E6%94%BE",
-      "source": "rfi.fr",
-      "published": 1765786814
     },
     {
       "id": "09d9919d9530",
@@ -1402,5 +1402,5 @@
       "published": 1763552280
     }
   ],
-  "build_id": 1765875029
+  "build_id": 1765876599
 }
