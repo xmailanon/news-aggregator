@@ -1,6 +1,27 @@
 {
-  "updated": 1766011286,
+  "updated": 1766013033,
   "items": [
+    {
+      "id": "d900322a4ce8",
+      "title": "萬斯在鐵鏽帶力圖拿捏「可負擔性」訊息",
+      "url": "https://www.singtaousa.com/2025/12/17/news/usa/vance-tries-to-thread-affordability-needle-in-rust-belt/",
+      "source": "singtaousa.com",
+      "published": 1766013073
+    },
+    {
+      "id": "b343e9b4e6e8",
+      "title": "中國在武漢起訴密蘇里州 密州檢察長稱不受動搖",
+      "url": "https://www.singtaousa.com/2025/12/17/news/world/us-china-legal-dispute/",
+      "source": "singtaousa.com",
+      "published": 1766012400
+    },
+    {
+      "id": "f812227235a6",
+      "title": "美股收盤／AI 泡沫疑慮凌駕降息預期！費半大跌3.8% 美股連四跌",
+      "url": "https://money.udn.com/money/story/123398/9210431",
+      "source": "money.udn.com",
+      "published": 1766011838
+    },
     {
       "id": "206bb8e91711",
       "title": "中国招聘前ASML工程师打造出极紫外光刻机原型机",
@@ -149,13 +170,6 @@
       "published": 1766001851
     },
     {
-      "id": "4e60609b22ba",
-      "title": "德州跨性別廁所法案上路，執法現場混亂暴露法律漏洞",
-      "url": "https://www.singtaousa.com/2025/12/17/news/usa/enforcement-of-texas-bathroom-bill-draws-challenges/",
-      "source": "singtaousa.com",
-      "published": 1766001600
-    },
-    {
       "id": "8a42ee136acf",
       "title": "川普下令封鎖運輸船 委內瑞拉風雲 油價走升",
       "url": "https://money.udn.com/money/story/5599/9210129",
@@ -212,13 +226,6 @@
       "published": 1766000497
     },
     {
-      "id": "09456be85e6a",
-      "title": "男子從高空平台跌落，救援未能挽救生命",
-      "url": "https://www.singtaousa.com/2025/12/17/news/china/man-falls-from-platform-rescue-attempt/",
-      "source": "singtaousa.com",
-      "published": 1766000089
-    },
-    {
       "id": "3051bf396a64",
       "title": "路透：Google獲Meta相助　意圖削弱輝達軟體優勢",
       "url": "https://money.udn.com/money/story/5599/9210348",
@@ -261,18 +268,18 @@
       "published": 1765988089
     },
     {
-      "id": "51b3cfd3b551",
-      "title": "華納兄弟據悉計劃拒絕派拉蒙的敵意收購要約",
-      "url": "https://money.udn.com/money/story/5599/9207903",
-      "source": "money.udn.com",
-      "published": 1765988046
-    },
-    {
       "id": "8c0a07bdf34e",
       "title": "关恒-维吾尔人的英雄博主面临被特朗普政府遣返回中国的风险",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251217-%E5%85%B3%E6%81%92-%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA%E7%9A%84%E8%8B%B1%E9%9B%84%E5%8D%9A%E4%B8%BB%E9%9D%A2%E4%B8%B4%E8%A2%AB%E9%81%A3%E8%BF%94%E5%B9%B6%E8%A2%AB%E5%88%A4%E9%87%8D%E5%85%B3%E6%81%92-%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA%E7%9A%84%E8%8B%B1%E9%9B%84%E5%8D%9A%E4%B8%BB%E9%9D%A2%E4%B8%B4%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E9%81%A3%E8%BF%94%E5%9B%9E%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%A3%8E%E9%99%A9-%E7%9A%84%E9%A3%8E%E9%99%A9",
       "source": "rfi.fr",
       "published": 1765987482
+    },
+    {
+      "id": "cb1bb4682ed8",
+      "title": "当AI助手成为ENFP马屁精",
+      "url": "https://www.ftchinese.com/story/001108462",
+      "source": "ftchinese.com",
+      "published": 1765987200
     },
     {
       "id": "361efa69c9cb",
@@ -761,13 +768,6 @@
       "id": "6894cca472c5",
       "title": "欧盟拟取消2035年燃油车禁令",
       "url": "https://www.ftchinese.com/story/001108448",
-      "source": "ftchinese.com",
-      "published": 1765814400
-    },
-    {
-      "id": "cba673c78db3",
-      "title": "美国政府支持韩企在美建设关键矿物加工厂",
-      "url": "https://www.ftchinese.com/story/001108447",
       "source": "ftchinese.com",
       "published": 1765814400
     },
@@ -1269,5 +1269,5 @@
       "published": 1763552280
     }
   ],
-  "build_id": 1766011286
+  "build_id": 1766013033
 }
