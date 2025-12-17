@@ -1,6 +1,55 @@
 {
-  "updated": 1765946982,
+  "updated": 1765948431,
   "items": [
+    {
+      "id": "cf4731a1970a",
+      "title": "挑戰台積電 Rapidus玻璃中介層技術拚2028量產",
+      "url": "https://money.udn.com/money/story/5599/9208830",
+      "source": "money.udn.com",
+      "published": 1765948314
+    },
+    {
+      "id": "b75147f06dc7",
+      "title": "影／北海道新千歲機場接駁巴士高速路起火 車上41人全數疏散無人傷亡",
+      "url": "https://money.udn.com/money/story/5599/9208823",
+      "source": "money.udn.com",
+      "published": 1765948033
+    },
+    {
+      "id": "2ebdc9517257",
+      "title": "美報告：北極125年來最熱　海冰面積創新低",
+      "url": "https://money.udn.com/money/story/5599/9208809",
+      "source": "money.udn.com",
+      "published": 1765947651
+    },
+    {
+      "id": "1a481797f6a9",
+      "title": "重建資金不足？澤連斯基擬將俄凍結資產優先購武",
+      "url": "https://www.singtaousa.com/2025/12/16/news/world/zelenskyy-russias-frozen-240-billion-covers-one-third-of-war-damages-will-fund-weapons-instead-of-reconstruction/",
+      "source": "singtaousa.com",
+      "published": 1765947600
+    },
+    {
+      "id": "ac24cb647668",
+      "title": "歐盟放緩2035年全面停售汽柴油新車的計劃",
+      "url": "https://www.bbc.com/zhongwen/articles/c7417xkjygeo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1765947303
+    },
+    {
+      "id": "98163e248c21",
+      "title": "台文詩人越南獲文學貢獻獎  筆墨詩歌深化台越理解",
+      "url": "https://money.udn.com/money/story/5599/9208795",
+      "source": "money.udn.com",
+      "published": 1765947280
+    },
+    {
+      "id": "a3d18b67d93a",
+      "title": "好莱坞知名导演夫妇疑遭儿子谋杀，发生了什么？",
+      "url": "https://cn.nytimes.com/usa/20251217/nick-reiner-rob-reiner-son-murder/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1765947020
+    },
     {
       "id": "d22da339722c",
       "title": "數千恐龍腳印遍布義大利岩壁  鄰近2026冬奧場地",
@@ -142,34 +191,6 @@
       "published": 1765940168
     },
     {
-      "id": "eee82efd821d",
-      "title": "蘋果首與印度晶片廠商談 iPhone 零件組裝與封裝",
-      "url": "https://money.udn.com/money/story/5599/9208326",
-      "source": "money.udn.com",
-      "published": 1765940068
-    },
-    {
-      "id": "d4e6dfe481df",
-      "title": "雪梨海灘槍擊罹難者喪禮　猶太會堂湧入人潮致哀",
-      "url": "https://money.udn.com/money/story/5599/9208327",
-      "source": "money.udn.com",
-      "published": 1765940067
-    },
-    {
-      "id": "904ecce67910",
-      "title": "蘋果傳首度評估在印度封測 iPhone 零組件在地化供應鏈再升級",
-      "url": "https://money.udn.com/money/story/5599/9208307",
-      "source": "money.udn.com",
-      "published": 1765939599
-    },
-    {
-      "id": "35019bb7e7a1",
-      "title": "特斯拉在加州恐遭暫停銷售30天！當局警告速速改掉自駕誇大宣傳",
-      "url": "https://money.udn.com/money/story/5599/9208296",
-      "source": "money.udn.com",
-      "published": 1765939466
-    },
-    {
       "id": "262a6b3a3feb",
       "title": "首屆文明互鑒國際論壇開幕 匯聚全球學者共探傳承發展之路",
       "url": "https://www.singtaousa.com/2025/12/16/news/china/2025-international-forum-on-mutual-learning-among-civilizations/",
@@ -233,13 +254,6 @@
       "published": 1765929600
     },
     {
-      "id": "db9689c25ac2",
-      "title": "日相「台灣有事」言論發酵，中日聯合國安理會激烈交鋒",
-      "url": "https://www.singtaousa.com/2025/12/16/news/world/japan-and-china-exchange-words-in-un-over-takaichis-taiwan-remark-nhk-world-japan-news/",
-      "source": "singtaousa.com",
-      "published": 1765927800
-    },
-    {
       "id": "867de7c995bf",
       "title": "英国广播公司将对美国总统特朗普提起的100亿美元诉讼进行抗辩",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251216-%E8%8B%B1%E5%9B%BD%E5%B9%BF%E6%92%AD%E5%85%AC%E5%8F%B8%E5%B0%86%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E8%B5%B7%E7%9A%84100%E4%BA%BF%E7%BE%8E%E5%85%83%E8%AF%89%E8%AE%BC%E8%BF%9B%E8%A1%8C%E6%8A%97%E8%BE%A9",
@@ -301,6 +315,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251216-%E6%82%89%E5%B0%BC%E9%82%A6%E8%BF%AA%E6%B5%B7%E6%BB%A9%E6%81%90%E8%A2%AD%E6%A1%88-%E6%9E%AA%E6%89%8B%E6%9B%BE%E8%B5%B4%E8%8F%B2%E5%BE%8B%E5%AE%BE-%E4%B8%8E-%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD-%E7%BB%84%E7%BB%87%E6%88%96%E6%9C%89%E5%85%B3%E8%81%94",
       "source": "rfi.fr",
       "published": 1765905105
+    },
+    {
+      "id": "83bf17933bfc",
+      "title": "欧洲必须在贸易政策上做出区分",
+      "url": "https://www.ftchinese.com/story/001108460",
+      "source": "ftchinese.com",
+      "published": 1765900800
     },
     {
       "id": "6bce3dca1e8d",
@@ -765,13 +786,6 @@
       "published": 1765787039
     },
     {
-      "id": "09d9919d9530",
-      "title": "華納兄弟收購案：一場顛覆好萊塢的爭奪戰正在發生？",
-      "url": "https://www.bbc.com/zhongwen/articles/ce8n2v65krlo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1765786567
-    },
-    {
       "id": "34d4bcd3c9ce",
       "title": "黎智英國安案勾結及煽動罪成 他如何成為北京眼中的「犯罪主腦」？",
       "url": "https://www.bbc.com/zhongwen/articles/cvg1v3dg3eyo/trad?at_medium=RSS&at_campaign=rss",
@@ -859,13 +873,6 @@
       "id": "e538c95aaca0",
       "title": "中国投资连续三个月下降",
       "url": "https://www.ftchinese.com/story/001108444",
-      "source": "ftchinese.com",
-      "published": 1765728000
-    },
-    {
-      "id": "665d5bee8586",
-      "title": "FT社评：欧盟可以让单一市场更好运转起来",
-      "url": "https://www.ftchinese.com/story/001108442",
       "source": "ftchinese.com",
       "published": 1765728000
     },
@@ -1157,13 +1164,6 @@
       "published": 1765337372
     },
     {
-      "id": "eb6c1b194d7b",
-      "title": "安世前CEO称该公司中国所有者图谋向中国转移技术",
-      "url": "https://cn.nytimes.com/business/20251210/dutch-nexperia-zhang-ceo/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1765311172
-    },
-    {
       "id": "23597c472704",
       "title": "德语媒体：姗姗来迟的德国外长",
       "url": "https://www.dw.com/zh/德语媒体：姗姗来迟的德国外长/a-75078378?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1763559840
     }
   ],
-  "build_id": 1765946982
+  "build_id": 1765948431
 }
