@@ -1,10 +1,31 @@
 {
-  "updated": 1766067190,
+  "updated": 1766069089,
   "items": [
     {
-      "id": "d1ccbda8a8b6",
+      "id": "461bdfa5cdb2",
+      "title": "美股早盤／通膨報喜拉抬大盤 道瓊漲逾400點 財報激勵美光暴漲近17%",
+      "url": "https://money.udn.com/money/story/123398/9212573",
+      "source": "money.udn.com",
+      "published": 1766069067
+    },
+    {
+      "id": "642369eb9fb7",
+      "title": "哈佛大學爆遺體器官遭盜賣 醫學院太平間前主管被判8年監禁",
+      "url": "https://money.udn.com/money/story/5599/9212554",
+      "source": "money.udn.com",
+      "published": 1766068125
+    },
+    {
+      "id": "a742e2c462b8",
+      "title": "英央行降息1碼 ECB 按兵不動 但後續再降皆有限",
+      "url": "https://money.udn.com/money/story/5599/9212543",
+      "source": "money.udn.com",
+      "published": 1766067759
+    },
+    {
+      "id": "f2f60c92ee18",
       "title": "歐洲央行維持利率2%不變　符合市場預期",
-      "url": "https://money.udn.com/money/story/10511/9212518",
+      "url": "https://money.udn.com/money/story/5599/9212518",
       "source": "money.udn.com",
       "published": 1766067158
     },
@@ -168,27 +189,6 @@
       "url": "https://money.udn.com/money/story/5599/9212463",
       "source": "money.udn.com",
       "published": 1766063206
-    },
-    {
-      "id": "f158f1b35e05",
-      "title": "衝突升溫　金邊指泰軍方轟炸柬埔寨邊境賭場重鎮巴比",
-      "url": "https://money.udn.com/money/story/5599/9212462",
-      "source": "money.udn.com",
-      "published": 1766063206
-    },
-    {
-      "id": "045bad28c6ca",
-      "title": "牽線台韓中小學共課  駐韓代表部獲首爾市頒獎",
-      "url": "https://money.udn.com/money/story/5599/9212461",
-      "source": "money.udn.com",
-      "published": 1766063206
-    },
-    {
-      "id": "4804f9e9f8d3",
-      "title": "華爾街日報：維權投資者 Elliott 持有超過10億美元 Lululemon 股份",
-      "url": "https://money.udn.com/money/story/5599/9211186",
-      "source": "money.udn.com",
-      "published": 1766062423
     },
     {
       "id": "8389f613330e",
@@ -1402,5 +1402,5 @@
       "published": 1763552280
     }
   ],
-  "build_id": 1766067190
+  "build_id": 1766069089
 }
