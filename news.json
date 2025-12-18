@@ -1,6 +1,20 @@
 {
-  "updated": 1766099448,
+  "updated": 1766101029,
   "items": [
+    {
+      "id": "158e3bea8e65",
+      "title": "TikTok母公司字節跳動簽署協議 美國業務售予新合資企業",
+      "url": "https://money.udn.com/money/story/5599/9212990",
+      "source": "money.udn.com",
+      "published": 1766100809
+    },
+    {
+      "id": "65c76d07d691",
+      "title": "台積電ADR結束五連跌 反彈2.79% 較台北交易溢價25.58%",
+      "url": "https://money.udn.com/money/story/123398/9212988",
+      "source": "money.udn.com",
+      "published": 1766100448
+    },
     {
       "id": "2c62fab74c8a",
       "title": "美驚傳飛機失事釀7死　退休NASCAR車手畢佛與家人罹難",
@@ -9,9 +23,9 @@
       "published": 1766099167
     },
     {
-      "id": "7c9c0876ee77",
-      "title": "美股收高 標普500指數止步四連跌 受科技股大漲和疲軟通膨數據提振",
-      "url": "https://money.udn.com/money/story/5599/9212980",
+      "id": "43634e994c71",
+      "title": "美股收盤／主要指數收高 標普500止步四連跌 受科技股大漲和疲軟通膨數據提振",
+      "url": "https://money.udn.com/money/story/123398/9212980",
       "source": "money.udn.com",
       "published": 1766098924
     },
@@ -261,20 +275,6 @@
       "published": 1766081103
     },
     {
-      "id": "16c30468a81a",
-      "title": "美企 IPO 市場 2026年很熱鬧  SpaceX、Anthropic 等企業為上市做準備",
-      "url": "https://money.udn.com/money/story/123398/9212636",
-      "source": "money.udn.com",
-      "published": 1766081042
-    },
-    {
-      "id": "165e98232e15",
-      "title": "不顧監管機構示警 印度散戶盲目追捧 AI 股",
-      "url": "https://money.udn.com/money/story/5599/9212638",
-      "source": "money.udn.com",
-      "published": 1766080984
-    },
-    {
       "id": "b0059d94bdf9",
       "title": "泰国王后在东南亚运动会帆船比赛中获金牌",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251218-%E6%B3%B0%E5%9B%BD%E7%8E%8B%E5%90%8E%E5%9C%A8%E4%B8%9C%E5%8D%97%E4%BA%9A%E8%BF%90%E5%8A%A8%E4%BC%9A%E5%B8%86%E8%88%B9%E6%AF%94%E8%B5%9B%E4%B8%AD%E8%8E%B7%E5%BE%97%E9%87%91%E7%89%8C",
@@ -301,6 +301,20 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251218-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA-%E6%9C%AC%E5%91%A8%E4%BA%94-%E5%85%AD%E6%96%B0%E4%B8%80%E8%BD%AE%E7%BE%8E%E4%B9%8C%E4%BC%9A%E8%B0%88-%E4%BF%84%E7%BD%97%E6%96%AF%E6%83%B3%E5%8D%A0%E6%95%B4%E4%B8%AA%E9%A1%BF%E5%B7%B4%E6%96%AF",
       "source": "rfi.fr",
       "published": 1766073714
+    },
+    {
+      "id": "5554fa20b886",
+      "title": "谁来接任鲍威尔？",
+      "url": "https://www.ftchinese.com/story/001108446",
+      "source": "ftchinese.com",
+      "published": 1766073600
+    },
+    {
+      "id": "4d462392720f",
+      "title": "美国11月通胀率意外降至2.7%，分析师指出数据或存在偏差",
+      "url": "https://www.ftchinese.com/story/001108480",
+      "source": "ftchinese.com",
+      "published": 1766073600
     },
     {
       "id": "22ffcc4b4d37",
@@ -810,20 +824,6 @@
       "id": "6bce3dca1e8d",
       "title": "让AI帮助安排手机日程表，你同意吗？",
       "url": "https://www.ftchinese.com/story/001108459",
-      "source": "ftchinese.com",
-      "published": 1765900800
-    },
-    {
-      "id": "70453a38e200",
-      "title": "AI“三重冲击”与明年美国经济展望（上）",
-      "url": "https://www.ftchinese.com/story/001108429",
-      "source": "ftchinese.com",
-      "published": 1765900800
-    },
-    {
-      "id": "e35b7ab57ab1",
-      "title": "2026年资产配置：咬定AI青山不放松",
-      "url": "https://www.ftchinese.com/story/001108428",
       "source": "ftchinese.com",
       "published": 1765900800
     },
@@ -1402,5 +1402,5 @@
       "published": 1763552280
     }
   ],
-  "build_id": 1766099448
+  "build_id": 1766101029
 }
