@@ -1,6 +1,20 @@
 {
-  "updated": 1766088699,
+  "updated": 1766090326,
   "items": [
+    {
+      "id": "bb5d98d401a6",
+      "title": "沙市中心保安員街頭遇襲 疑驅離兜售人士後遭伏擊｜細說燊語",
+      "url": "https://www.singtaousa.com/2025/12/18/news/security-guard-attacked-on-street-in-downtown-sacramento-ambushed-after-suspected-to-drive-away-touts/",
+      "source": "singtaousa.com",
+      "published": 1766089919
+    },
+    {
+      "id": "4896c6856700",
+      "title": "北加州住宅搜出100磅非法煙花 與Esparto煙花倉爆炸案有關｜細說燊語",
+      "url": "https://www.singtaousa.com/2025/12/18/news/usa/numerous-illegal-fireworks-found-in-northern-california-esparto-explosion-investigation-expands-to-statewide/",
+      "source": "singtaousa.com",
+      "published": 1766089289
+    },
     {
       "id": "aa49b69f263e",
       "title": "特朗普政府百億對台軍售案曝光，規模史無前例震撼區域局勢",
@@ -14,6 +28,13 @@
       "url": "https://www.singtaousa.com/2025/12/18/news/china/teenage-girl-falls-to-death-sheung-shui/",
       "source": "singtaousa.com",
       "published": 1766086491
+    },
+    {
+      "id": "11a3881c4e65",
+      "title": "芝加哥警局醜聞：警探涉買兇殺同事，高層被指控知情不報",
+      "url": "https://www.singtaousa.com/2025/12/18/news/usa/cpd-leaders-knew-cop-proposed-hiring-hitman-to-kill-fellow-detective-new-federal-lawsuit-alleges/",
+      "source": "singtaousa.com",
+      "published": 1766085806
     },
     {
       "id": "d1b95d4e8157",
@@ -56,27 +77,6 @@
       "url": "https://www.singtaousa.com/2025/12/18/news/usa/north-carolina-private-jet-crash/",
       "source": "singtaousa.com",
       "published": 1766082722
-    },
-    {
-      "id": "b3bf5d1ccd51",
-      "title": "英國白尾海鵰復育遇挫！三隻猛禽神秘消失，警方懸賞緝兇",
-      "url": "https://www.singtaousa.com/2025/12/18/news/world/police-investigate-after-white-tailed-eagles-go-missing-across-uk/",
-      "source": "singtaousa.com",
-      "published": 1766082600
-    },
-    {
-      "id": "15470f8420b2",
-      "title": "高市早苗台灣危機言論惹議，反思後為何仍拒絕收回？",
-      "url": "https://www.singtaousa.com/2025/12/18/news/world/japan-pm-takaichi-reflects-on-taiwan-crisis-remarks-but-offers-no-retraction-the-mainichi/",
-      "source": "singtaousa.com",
-      "published": 1766082600
-    },
-    {
-      "id": "da10290afa88",
-      "title": "美國衛生部突砍數百萬撥款，兒科學會或因訴訟遭報復",
-      "url": "https://www.singtaousa.com/2025/12/18/news/usa/hhs-cuts-millions-in-grants-to-the-american-academy-of-pediatrics/",
-      "source": "singtaousa.com",
-      "published": 1766081604
     },
     {
       "id": "b0059d94bdf9",
@@ -1262,5 +1262,5 @@
       "published": 1763552280
     }
   ],
-  "build_id": 1766088699
+  "build_id": 1766090326
 }
