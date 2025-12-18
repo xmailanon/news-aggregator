@@ -1,6 +1,20 @@
 {
-  "updated": 1766038643,
+  "updated": 1766040732,
   "items": [
+    {
+      "id": "98ce74aca151",
+      "title": "日本前幫派幹部苦讀後考取名校　50歲力拚司法考試",
+      "url": "https://money.udn.com/money/story/5599/9211542",
+      "source": "money.udn.com",
+      "published": 1766039442
+    },
+    {
+      "id": "a087d56098c4",
+      "title": "川普2.0批准史上最大規模對台軍售！學者指仍有2問題",
+      "url": "https://money.udn.com/money/story/5599/9211516",
+      "source": "money.udn.com",
+      "published": 1766039002
+    },
     {
       "id": "44db131aabaf",
       "title": "韓國鐵路新安山線工地事故　鋼筋倒塌7工人被埋",
@@ -170,20 +184,6 @@
       "published": 1766029176
     },
     {
-      "id": "56f0d9b46021",
-      "title": "中國反制岩崎茂　駐日代表李逸洋會面表關切",
-      "url": "https://money.udn.com/money/story/5599/9210973",
-      "source": "money.udn.com",
-      "published": 1766028646
-    },
-    {
-      "id": "3cb3851e28d3",
-      "title": "普丁：無論藉談判或戰爭　俄烏戰爭目標必將實現",
-      "url": "https://money.udn.com/money/story/5599/9210967",
-      "source": "money.udn.com",
-      "published": 1766028646
-    },
-    {
       "id": "b497f8fafcec",
       "title": "酒，到底喝或不喝：“从我选择不喝酒后，信仰方式也改变了。”",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251218-%E9%85%92%EF%BC%8C%E5%88%B0%E5%BA%95%E5%96%9D%E6%88%96%E4%B8%8D%E5%96%9D-%E4%BB%8E%E6%88%91%E9%80%89%E6%8B%A9%E4%B8%8D%E5%96%9D%E9%85%92%E5%90%8E%EF%BC%8C%E4%BF%A1%E4%BB%B0%E6%96%B9%E5%BC%8F%E4%B9%9F%E6%94%B9%E5%8F%98%E4%BA%86",
@@ -322,6 +322,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251217-g7%E5%A4%96%E9%95%BF%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E9%87%8A%E6%94%BE%E9%BB%8E%E6%99%BA%E8%8B%B1-%E6%89%B9%E8%AF%84%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%9D%83%E4%B8%8E%E8%87%AA%E7%94%B1%E6%8C%81%E7%BB%AD%E6%81%B6%E5%8C%96",
       "source": "rfi.fr",
       "published": 1766006823
+    },
+    {
+      "id": "62daf5a3eb75",
+      "title": "特朗普政府计划剥夺更多归化美国人公民身份",
+      "url": "https://cn.nytimes.com/usa/20251218/trump-immigration-citizenship-denaturalization/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1765997104
     },
     {
       "id": "bdf4b19712d2",
@@ -1094,13 +1101,6 @@
       "published": 1765498927
     },
     {
-      "id": "46622e98875a",
-      "title": "从芯片到中日争端，北京把美国“逼到墙角”？",
-      "url": "https://cn.nytimes.com/china/20251212/nvidia-china-trump-security-japan/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1765480290
-    },
-    {
       "id": "a0834a9a6bba",
       "title": "国际货币基金组织敦促中国“勇敢抉择”：减少出口、增加消费",
       "url": "https://www.dw.com/zh/国际货币基金组织敦促中国-勇敢抉择-：减少出口、增加消费/a-75115520?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1763559840
     }
   ],
-  "build_id": 1766038643
+  "build_id": 1766040732
 }
