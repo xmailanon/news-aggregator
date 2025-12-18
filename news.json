@@ -1,6 +1,55 @@
 {
-  "updated": 1766029771,
+  "updated": 1766031848,
   "items": [
+    {
+      "id": "48b026a5e62a",
+      "title": "創業與理財 如何分配創業資金與個人資產",
+      "url": "https://www.singtaousa.com/2025/12/17/lifestyle/finance/entrepreneurship-and-financial-management-how-to-allocate-entrepreneurial-funds-and-personal-assets/",
+      "source": "singtaousa.com",
+      "published": 1766032380
+    },
+    {
+      "id": "1b9faf134992",
+      "title": "台積電亞利桑那二廠 2026夏季導入3奈米設備 拚2027年量產",
+      "url": "https://money.udn.com/money/story/5599/9211184",
+      "source": "money.udn.com",
+      "published": 1766032236
+    },
+    {
+      "id": "dde8c8c3ac6f",
+      "title": "宏都拉斯大選仍膠著　執政黨支持者上街抗議舞弊",
+      "url": "https://money.udn.com/money/story/10511/9211158",
+      "source": "money.udn.com",
+      "published": 1766031733
+    },
+    {
+      "id": "153ca1928fc1",
+      "title": "雪梨槍擊案菲律賓再成反恐焦點  強化與澳安全合作",
+      "url": "https://money.udn.com/money/story/5599/9211163",
+      "source": "money.udn.com",
+      "published": 1766031731
+    },
+    {
+      "id": "efd2ef8268d3",
+      "title": "光電業者違法在北海道農地設樁　官方下令移除",
+      "url": "https://money.udn.com/money/story/5599/9211127",
+      "source": "money.udn.com",
+      "published": 1766031152
+    },
+    {
+      "id": "839694a9a083",
+      "title": "AI需求爆棚＋晶片吃緊　美光Q2獲利展望遠超預期",
+      "url": "https://money.udn.com/money/story/5599/9211100",
+      "source": "money.udn.com",
+      "published": 1766030489
+    },
+    {
+      "id": "548dcb0d7348",
+      "title": "羅伯·雷納家屬打破沉默，其子尼克出庭面臨謀殺指控",
+      "url": "https://www.bbc.com/zhongwen/articles/c20k82m6n04o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1766029718
+    },
     {
       "id": "a5805c257e3a",
       "title": "英首相警告阿布拉莫維奇兌現向戰爭受害者付款承諾，否則將面臨訴訟",
@@ -121,41 +170,6 @@
       "published": 1766025630
     },
     {
-      "id": "f39f70cdb1dd",
-      "title": "川普演說稱上任時接手爛攤子 宣布耶誕節前向軍人發放「戰士紅利」",
-      "url": "https://money.udn.com/money/story/5599/9210762",
-      "source": "money.udn.com",
-      "published": 1766025261
-    },
-    {
-      "id": "05eb704630ab",
-      "title": "川普金卡對陸富裕人士沒吸引力？有個大風險且一項期待落空",
-      "url": "https://money.udn.com/money/story/5599/9210692",
-      "source": "money.udn.com",
-      "published": 1766023952
-    },
-    {
-      "id": "fdf7d2403ae6",
-      "title": "OpenAI擬融資1000億美元　估值約為7500億美元",
-      "url": "https://money.udn.com/money/story/5599/9210695",
-      "source": "money.udn.com",
-      "published": 1766023952
-    },
-    {
-      "id": "381a4b686922",
-      "title": "任職不到10個月 邦吉諾將卸任 FBI 副局長",
-      "url": "https://money.udn.com/money/story/10511/9210661",
-      "source": "money.udn.com",
-      "published": 1766023238
-    },
-    {
-      "id": "177d0c82fecd",
-      "title": "加拿大移民政策收緊  人口出現史上最大降幅",
-      "url": "https://money.udn.com/money/story/5599/9210659",
-      "source": "money.udn.com",
-      "published": 1766023237
-    },
-    {
       "id": "c1c8cc58dfc8",
       "title": "粵語重溫：暴徒都是傳媒培養出來的？",
       "url": "https://www.singtaousa.com/2025/12/17/opinion/review-are-thugs-trained-by-the-media/",
@@ -226,13 +240,6 @@
       "published": 1766012400
     },
     {
-      "id": "8a6415450873",
-      "title": "美環保局網站突改氣候變遷成因，科學界為何齊聲撻伐？",
-      "url": "https://www.singtaousa.com/2025/12/17/news/usa/epa-eliminates-mention-of-fossil-fuels-in-website-on-warmings-causes-scientists-call-it-misleading-2/",
-      "source": "singtaousa.com",
-      "published": 1766012003
-    },
-    {
       "id": "206bb8e91711",
       "title": "中国招聘前ASML工程师打造出极紫外光刻机原型机",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251217-%E4%B8%AD%E5%9B%BD%E6%8B%9B%E8%81%98%E5%89%8Dasml%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%93%E9%80%A0%E5%87%BA%E6%9E%81%E7%B4%AB%E5%A4%96%E5%85%89%E5%88%BB%E6%9C%BA%E5%8E%9F%E5%9E%8B%E6%9C%BA",
@@ -297,7 +304,7 @@
     },
     {
       "id": "0e724c65036c",
-      "title": "每周时事分析：韩国政府对朝鲜政策可能转向",
+      "title": "每周时事分析：韩国政府对朝政策可能转向",
       "url": "https://www.ftchinese.com/story/001108471",
       "source": "ftchinese.com",
       "published": 1765987200
@@ -532,13 +539,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c7417xkjygeo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765947303
-    },
-    {
-      "id": "5081d481585d",
-      "title": "警方稱邦迪海灘槍擊案一名槍手原籍印度",
-      "url": "https://www.bbc.com/zhongwen/articles/cq5q9lg02wxo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1765942256
     },
     {
       "id": "2e8817835ef9",
@@ -1269,5 +1269,5 @@
       "published": 1763552280
     }
   ],
-  "build_id": 1766029771
+  "build_id": 1766031848
 }
