@@ -1,6 +1,27 @@
 {
-  "updated": 1766074514,
+  "updated": 1766076663,
   "items": [
+    {
+      "id": "afe48feb2576",
+      "title": "甲骨文資料中心 卡關",
+      "url": "https://money.udn.com/money/story/123398/9212708",
+      "source": "money.udn.com",
+      "published": 1766076148
+    },
+    {
+      "id": "4ed097a113a9",
+      "title": "泰柬边境持续冲突，中国介入，泰军轰炸柬埔寨赌城波贝 网传多个电诈中心被毁",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251218-%E6%B3%B0%E6%9F%AC%E8%BE%B9%E5%A2%83%E6%8C%81%E7%BB%AD%E5%86%B2%E7%AA%81%EF%BC%8C%E4%B8%AD%E5%9B%BD%E4%BB%8B%E5%85%A5%EF%BC%8C%E6%B3%B0%E5%86%9B%E8%BD%B0%E7%82%B8%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%B5%8C%E5%9F%8E%E6%B3%A2%E8%B4%9D-%E7%BD%91%E4%BC%A0%E5%A4%9A%E4%B8%AA%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%83%E8%A2%AB%E6%AF%81",
+      "source": "rfi.fr",
+      "published": 1766075110
+    },
+    {
+      "id": "6fbc85575b66",
+      "title": "视频 美国扩大旅行限制国家",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251218-%E8%A7%86%E9%A2%91-%E7%BE%8E%E5%9B%BD%E6%89%A9%E5%A4%A7%E6%97%85%E8%A1%8C%E9%99%90%E5%88%B6%E5%9B%BD%E5%AE%B6",
+      "source": "rfi.fr",
+      "published": 1766075090
+    },
     {
       "id": "da10edd7de1c",
       "title": "泽连斯基:本周五-六新一轮美乌会谈, 俄罗斯想占整个顿巴斯",
@@ -210,13 +231,6 @@
       "url": "https://money.udn.com/money/story/5599/9210656",
       "source": "money.udn.com",
       "published": 1766064640
-    },
-    {
-      "id": "9fd0c1ae6878",
-      "title": "錦湖輪胎185億元投資　波蘭設首座歐洲廠",
-      "url": "https://money.udn.com/money/story/5599/9212476",
-      "source": "money.udn.com",
-      "published": 1766064114
     },
     {
       "id": "fb40473ebfaa",
@@ -679,20 +693,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251217-%E4%B8%AD%E5%9B%BD%E8%BF%91%E6%9C%9F%E5%8F%91%E5%B8%83%E6%97%85%E8%A1%8C%E8%AD%A6%E5%91%8A11%E6%9C%88%E4%BB%BD%E8%B5%B4%E6%97%A5%E6%B8%B8%E5%AE%A2%E4%BB%8D%E5%BC%BA%E5%8A%B2%E5%A2%9E%E9%95%BF",
       "source": "rfi.fr",
       "published": 1765963396
-    },
-    {
-      "id": "811ac55b2f2a",
-      "title": "中国最新航母“福建号”驶过台湾海峡 建成入列后首次",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251217-%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E8%88%AA%E6%AF%8D-%E7%A6%8F%E5%BB%BA%E5%8F%B7-%E9%A9%B6%E8%BF%87%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1-%E5%BB%BA%E6%88%90%E5%85%A5%E5%88%97%E5%90%8E%E9%A6%96%E6%AC%A1",
-      "source": "rfi.fr",
-      "published": 1765961541
-    },
-    {
-      "id": "3b5c5c069902",
-      "title": "习近平「充分肯定」火灾年李家超的表现　惟新华社删习谈火灾内容惹关注",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251217-%E4%B9%A0%E8%BF%91%E5%B9%B3-%E5%85%85%E5%88%86%E8%82%AF%E5%AE%9A-%E7%81%AB%E7%81%BE%E5%B9%B4%E6%9D%8E%E5%AE%B6%E8%B6%85%E7%9A%84%E8%A1%A8%E7%8E%B0-%E6%83%9F%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%88%A0%E4%B9%A0%E8%B0%88%E7%81%AB%E7%81%BE%E5%86%85%E5%AE%B9%E6%83%B9%E5%85%B3%E6%B3%A8",
-      "source": "rfi.fr",
-      "published": 1765961342
     },
     {
       "id": "122dae7ecdbd",
@@ -1402,5 +1402,5 @@
       "published": 1763552280
     }
   ],
-  "build_id": 1766074514
+  "build_id": 1766076663
 }
