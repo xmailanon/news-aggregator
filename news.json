@@ -1,6 +1,13 @@
 {
-  "updated": 1766172761,
+  "updated": 1766175106,
   "items": [
+    {
+      "id": "9c212ebb43a6",
+      "title": "【樂齡科技博覽】科技園率45企參展 展示AI機械人、水中復康等創科方案 推動銀髮經濟",
+      "url": "https://www.singtaousa.com/2025/12/19/news/china/silver-economy-tech-expo-elderly-care-innovation/",
+      "source": "singtaousa.com",
+      "published": 1766174688
+    },
     {
       "id": "aa065c92ff42",
       "title": "香港火灾安全标准升级：新抽样检测规则与训练场地启用",
@@ -240,23 +247,16 @@
       "published": 1766156626
     },
     {
-      "id": "1f7966ebfa60",
+      "id": "fc36d3c0ebaf",
       "title": "漫畫",
-      "url": "https://www.singtaousa.com/2025/12/19/news/usa/comics/",
+      "url": "https://www.singtaousa.com/2025/12/19/opinion/comics/",
       "source": "singtaousa.com",
       "published": 1766156400
     },
     {
-      "id": "085c8b10ad87",
+      "id": "8b7800e74f9e",
       "title": "立法會選舉——   回到基本  先認識後分析（下）",
-      "url": "https://www.singtaousa.com/2025/12/19/news/usa/legislative-election-analysis/",
-      "source": "singtaousa.com",
-      "published": 1766156400
-    },
-    {
-      "id": "4a92826684fb",
-      "title": "香港一次慘痛的教訓",
-      "url": "https://www.singtaousa.com/2025/12/19/news/usa/hong-kong-painful-lesson/",
+      "url": "https://www.singtaousa.com/2025/12/19/opinion/legislative-election-analysis/",
       "source": "singtaousa.com",
       "published": 1766156400
     },
@@ -1388,5 +1388,5 @@
       "published": 1763633220
     }
   ],
-  "build_id": 1766172761
+  "build_id": 1766175106
 }
