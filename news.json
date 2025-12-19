@@ -1,6 +1,20 @@
 {
-  "updated": 1766184031,
+  "updated": 1766185834,
   "items": [
+    {
+      "id": "4bfade4a14a8",
+      "title": "美股收紅 AI概念股強勢反彈推升那指續揚",
+      "url": "https://money.udn.com/money/story/123398/9215286",
+      "source": "money.udn.com",
+      "published": 1766184881
+    },
+    {
+      "id": "0404cc3a9f9b",
+      "title": "2025年几大标志性事件",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251219-2025%E5%B9%B4%E5%87%A0%E5%A4%A7%E6%A0%87%E5%BF%97%E6%80%A7%E4%BA%8B%E4%BB%B6",
+      "source": "rfi.fr",
+      "published": 1766184211
+    },
     {
       "id": "f18a583a7aa4",
       "title": "美新版国防授权法要求公布中共最高层财富激怒北京",
@@ -303,13 +317,6 @@
       "published": 1766157163
     },
     {
-      "id": "8a14a23e1719",
-      "title": "芬蘭航太新創獲德軍火商大單  官方對台灣團隊招手",
-      "url": "https://money.udn.com/money/story/5599/9214979",
-      "source": "money.udn.com",
-      "published": 1766157150
-    },
-    {
       "id": "5d2042db02eb",
       "title": "台北持刀袭击者杀害三人伤五人 在警方追捕中死亡",
       "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251219-%E5%8F%B0%E5%8C%97%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E8%80%85%E6%9D%80%E5%AE%B3%E4%B8%89%E4%BA%BA%E4%BC%A4%E4%BA%94%E4%BA%BA-%E5%9C%A8%E8%AD%A6%E6%96%B9%E8%BF%BD%E6%8D%95%E4%B8%AD%E6%AD%BB%E4%BA%A1",
@@ -560,13 +567,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251218-%E7%BE%8E%E5%9B%BD%E6%94%AF%E6%8C%81%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%8D%E5%88%B6%E8%A3%81%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E6%B3%95%E9%99%A2%E6%B3%95%E5%AE%98%E9%81%AD%E8%AF%A5%E6%B3%95%E9%99%A2%E4%B8%A5%E5%8E%89%E8%B0%B4%E8%B4%A3",
       "source": "rfi.fr",
       "published": 1766095705
-    },
-    {
-      "id": "c4760523e15b",
-      "title": "农民抗议声中 欧盟推迟签署南方共同市场贸易协定",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251218-%E5%86%9C%E6%B0%91%E6%8A%97%E8%AE%AE%E5%A3%B0%E4%B8%AD-%E6%AC%A7%E7%9B%9F%E6%8E%A8%E8%BF%9F%E7%AD%BE%E7%BD%B2%E5%8D%97%E6%96%B9%E5%85%B1%E5%90%8C%E5%B8%82%E5%9C%BA%E8%B4%B8%E6%98%93%E5%8D%8F%E5%AE%9A",
-      "source": "rfi.fr",
-      "published": 1766093296
     },
     {
       "id": "f32a1419d5c8",
@@ -1388,5 +1388,5 @@
       "published": 1763633220
     }
   ],
-  "build_id": 1766184031
+  "build_id": 1766185834
 }
