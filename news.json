@@ -1,6 +1,13 @@
 {
-  "updated": 1766182249,
+  "updated": 1766184031,
   "items": [
+    {
+      "id": "f18a583a7aa4",
+      "title": "美新版国防授权法要求公布中共最高层财富激怒北京",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251219-%E7%BE%8E%E6%96%B0%E7%89%88%E5%9B%BD%E9%98%B2%E6%8E%88%E6%9D%83%E6%B3%95%E8%A6%81%E6%B1%82%E5%85%AC%E5%B8%83%E4%B8%AD%E5%85%B1%E6%9C%80%E9%AB%98%E5%B1%82%E8%B4%A2%E5%AF%8C%E6%BF%80%E6%80%92%E5%8C%97%E4%BA%AC",
+      "source": "rfi.fr",
+      "published": 1766182584
+    },
     {
       "id": "608ec76421f2",
       "title": "【專家之眼】信我者昌？  川普爐邊談話的解析與隱憂",
@@ -555,13 +562,6 @@
       "published": 1766095705
     },
     {
-      "id": "0cd187ab65a1",
-      "title": "非洲乍得:帮助难民的重要性",
-      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251218-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E4%B9%8D%E5%BE%97-%E5%B8%AE%E5%8A%A9%E9%9A%BE%E6%B0%91%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7",
-      "source": "rfi.fr",
-      "published": 1766094181
-    },
-    {
       "id": "c4760523e15b",
       "title": "农民抗议声中 欧盟推迟签署南方共同市场贸易协定",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251218-%E5%86%9C%E6%B0%91%E6%8A%97%E8%AE%AE%E5%A3%B0%E4%B8%AD-%E6%AC%A7%E7%9B%9F%E6%8E%A8%E8%BF%9F%E7%AD%BE%E7%BD%B2%E5%8D%97%E6%96%B9%E5%85%B1%E5%90%8C%E5%B8%82%E5%9C%BA%E8%B4%B8%E6%98%93%E5%8D%8F%E5%AE%9A",
@@ -681,13 +681,6 @@
       "published": 1766073600
     },
     {
-      "id": "47c294feb1d0",
-      "title": "加入俄军的一批肯尼亚人退出",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251218-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%8A%A0%E5%85%A5%E4%BF%84%E5%86%9B%E7%9A%84%E4%B8%80%E6%89%B9%E8%82%AF%E5%B0%BC%E4%BA%9A%E4%BA%BA%E9%80%80%E5%87%BA",
-      "source": "rfi.fr",
-      "published": 1766069752
-    },
-    {
       "id": "925069698f24",
       "title": "使用被冻结俄罗斯资产为乌克兰提供赔偿贷款？欧盟峰会即将做出决定",
       "url": "https://www.dw.com/zh/使用被冻结俄罗斯资产为乌克兰提供赔偿贷款？欧盟峰会即将做出决定/a-75224957?maca=chi-rss-chi-all-1127-rdf",
@@ -791,6 +784,13 @@
       "url": "https://cn.nytimes.com/china/20251218/china-general-tiananmen-square/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1766015645
+    },
+    {
+      "id": "206bb8e91711",
+      "title": "中国招聘前ASML工程师打造出极紫外光刻机原型机",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251217-%E4%B8%AD%E5%9B%BD%E6%8B%9B%E8%81%98%E5%89%8Dasml%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%89%93%E9%80%A0%E5%87%BA%E6%9E%81%E7%B4%AB%E5%A4%96%E5%85%89%E5%88%BB%E6%9C%BA%E5%8E%9F%E5%9E%8B%E6%9C%BA",
+      "source": "rfi.fr",
+      "published": 1766011209
     },
     {
       "id": "c86208939a12",
@@ -1388,5 +1388,5 @@
       "published": 1763633220
     }
   ],
-  "build_id": 1766182249
+  "build_id": 1766184031
 }
