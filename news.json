@@ -1,6 +1,13 @@
 {
-  "updated": 1766158897,
+  "updated": 1766160797,
   "items": [
+    {
+      "id": "8751fedf772f",
+      "title": "台灣鬧市隨機襲擊四死五傷：兇嫌涉台北車站、中山站擲煙霧彈及亂刀傷人",
+      "url": "https://www.bbc.com/zhongwen/articles/crmdpxgz7nno/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1766160193
+    },
     {
       "id": "d87b2ef2ef55",
       "title": "烏克蘭稱在地中海擊中俄國影子船隊油輪　首次用無人飛機",
@@ -49,13 +56,6 @@
       "url": "https://money.udn.com/money/story/5599/9213008",
       "source": "money.udn.com",
       "published": 1766157004
-    },
-    {
-      "id": "8751fedf772f",
-      "title": "台灣鬧市隨機襲擊四死五傷：兇嫌涉台北車站、中山站擲煙霧彈及亂刀傷人",
-      "url": "https://www.bbc.com/zhongwen/articles/crmdpxgz7nno/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1766156879
     },
     {
       "id": "0d779031e94b",
@@ -1388,5 +1388,5 @@
       "published": 1763633220
     }
   ],
-  "build_id": 1766158897
+  "build_id": 1766160797
 }
