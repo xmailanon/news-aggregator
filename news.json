@@ -1,12 +1,61 @@
 {
-  "updated": 1766153492,
+  "updated": 1766155373,
   "items": [
+    {
+      "id": "5d2042db02eb",
+      "title": "台北持刀袭击者杀害三人伤五人 在警方追捕中死亡",
+      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251219-%E5%8F%B0%E5%8C%97%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E8%80%85%E6%9D%80%E5%AE%B3%E4%B8%89%E4%BA%BA%E4%BC%A4%E4%BA%94%E4%BA%BA-%E5%9C%A8%E8%AD%A6%E6%96%B9%E8%BF%BD%E6%8D%95%E4%B8%AD%E6%AD%BB%E4%BA%A1",
+      "source": "rfi.fr",
+      "published": 1766154482
+    },
+    {
+      "id": "f7d9b04f0a98",
+      "title": "川普簽行政令支持 NASA 登月計畫及太空核能 打造下一代飛彈防禦技術",
+      "url": "https://money.udn.com/money/story/5599/9213118",
+      "source": "money.udn.com",
+      "published": 1766154086
+    },
+    {
+      "id": "8751fedf772f",
+      "title": "台灣鬧市隨機襲擊三死六傷：兇嫌涉台北車站、中山站擲煙霧彈及亂刀傷人",
+      "url": "https://www.bbc.com/zhongwen/articles/crmdpxgz7nno/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1766153667
+    },
+    {
+      "id": "c16368fc6802",
+      "title": "陸晶圓廠傳提升 DUV 舊型設備效率 提高先進晶片產量",
+      "url": "https://money.udn.com/money/story/5599/9214892",
+      "source": "money.udn.com",
+      "published": 1766153667
+    },
+    {
+      "id": "26143bdf8b27",
+      "title": "歐盟考慮聯合舉債向烏克蘭提供高達900億歐元貸款",
+      "url": "https://money.udn.com/money/story/5599/9213270",
+      "source": "money.udn.com",
+      "published": 1766153613
+    },
+    {
+      "id": "6acf49154147",
+      "title": "WHO傳統醫學峰會印度舉行　盼納入全球主流醫療體系",
+      "url": "https://money.udn.com/money/story/5599/9214886",
+      "source": "money.udn.com",
+      "published": 1766153575
+    },
     {
       "id": "b69011e457e5",
       "title": "歐盟同意在未來兩年向烏克蘭提供900億歐元的貸款",
       "url": "https://money.udn.com/money/story/5599/9213364",
       "source": "money.udn.com",
       "published": 1766153483
+    },
+    {
+      "id": "4b1e0f73a4a7",
+      "title": "欧盟推迟签署南方共同市场贸易协定",
+      "url": "https://www.dw.com/zh/欧盟推迟签署南方共同市场贸易协定/a-75244130?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1766153280
     },
     {
       "id": "3b7896e267fb",
@@ -142,13 +191,6 @@
       "published": 1766151888
     },
     {
-      "id": "8751fedf772f",
-      "title": "台灣鬧市隨機襲擊9人傷亡：兇嫌涉台北車站、中山站擲煙霧彈及亂刀傷人",
-      "url": "https://www.bbc.com/zhongwen/articles/crmdpxgz7nno/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1766151531
-    },
-    {
       "id": "ca74d7f6ba56",
       "title": "法國公共債務創歷史新高  分析警告引發市場危機",
       "url": "https://money.udn.com/money/story/5599/9214838",
@@ -224,34 +266,6 @@
       "url": "https://money.udn.com/money/story/5599/9214000",
       "source": "money.udn.com",
       "published": 1766144803
-    },
-    {
-      "id": "d4d32c476bd8",
-      "title": "布朗大學槍擊案和麻省理工教授遭槍殺案發生後 美國暫停綠卡抽簽計畫",
-      "url": "https://money.udn.com/money/story/10511/9214272",
-      "source": "money.udn.com",
-      "published": 1766144242
-    },
-    {
-      "id": "2e9c10e521c6",
-      "title": "馬克宏表示歐洲將需要設法與普丁對話 以推動烏克蘭和平",
-      "url": "https://money.udn.com/money/story/5599/9214273",
-      "source": "money.udn.com",
-      "published": 1766144200
-    },
-    {
-      "id": "cc14a635196e",
-      "title": "川普太空政策重心轉向月球　載人火星任務再等等",
-      "url": "https://money.udn.com/money/story/5599/9214691",
-      "source": "money.udn.com",
-      "published": 1766144190
-    },
-    {
-      "id": "a2117843e090",
-      "title": "美國參議院確認塞利格出任 CFTC 主席 希爾執掌聯邦存款保險公司",
-      "url": "https://money.udn.com/money/story/10511/9214274",
-      "source": "money.udn.com",
-      "published": 1766144164
     },
     {
       "id": "be1c7eaeae66",
@@ -646,13 +660,6 @@
       "published": 1766069752
     },
     {
-      "id": "54c126e35b42",
-      "title": "十字架报：中国教会受到压制",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251218-%E5%8D%81%E5%AD%97%E6%9E%B6%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E6%95%99%E4%BC%9A%E5%8F%97%E5%88%B0%E5%8E%8B%E5%88%B6",
-      "source": "rfi.fr",
-      "published": 1766069071
-    },
-    {
       "id": "925069698f24",
       "title": "使用被冻结俄罗斯资产为乌克兰提供赔偿贷款？欧盟峰会即将做出决定",
       "url": "https://www.dw.com/zh/使用被冻结俄罗斯资产为乌克兰提供赔偿贷款？欧盟峰会即将做出决定/a-75224957?maca=chi-rss-chi-all-1127-rdf",
@@ -840,20 +847,6 @@
       "url": "https://www.dw.com/zh/中国航母福建号航经台湾海峡/a-75202512?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765975980
-    },
-    {
-      "id": "c087b88d0932",
-      "title": "应对汽车工业增长乏力 欧盟拟放宽2035年内燃机禁令",
-      "url": "https://www.dw.com/zh/应对汽车工业增长乏力-欧盟拟放宽2035年内燃机禁令/a-75202213?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765975800
-    },
-    {
-      "id": "6eadef67413d",
-      "title": "特朗普政府扩大禁止入境国家名单",
-      "url": "https://www.dw.com/zh/特朗普政府扩大禁止入境国家名单/a-75202391?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765974420
     },
     {
       "id": "122dae7ecdbd",
@@ -1045,16 +1038,16 @@
       "published": 1765723920
     },
     {
-      "id": "f236eced2971",
-      "title": "巴黎卢浮宫漏水 数百本历史书籍受损",
-      "url": "https://www.dw.com/zh/巴黎卢浮宫漏水-数百本历史书籍受损/a-75067522?maca=chi-rss-chi-all-1127-rdf",
+      "id": "1298f0ef2dd5",
+      "title": "捐精者的精子恐导致近200幼童患癌",
+      "url": "https://www.dw.com/zh/捐精者的精子恐导致近200幼童患癌/a-75094855?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765698420
     },
     {
-      "id": "1298f0ef2dd5",
-      "title": "捐精者的精子恐导致近200幼童患癌",
-      "url": "https://www.dw.com/zh/捐精者的精子恐导致近200幼童患癌/a-75094855?maca=chi-rss-chi-all-1127-rdf",
+      "id": "f236eced2971",
+      "title": "巴黎卢浮宫漏水 数百本历史书籍受损",
+      "url": "https://www.dw.com/zh/巴黎卢浮宫漏水-数百本历史书籍受损/a-75067522?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765698420
     },
@@ -1099,13 +1092,6 @@
       "url": "https://www.dw.com/zh/欧盟达成初步一致：将通过多数决议无限期冻结俄资产/a-75129783?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765541940
-    },
-    {
-      "id": "acb9e60bd77e",
-      "title": "欧盟修订外资审查规定 不点名涉及中国敏感投资",
-      "url": "https://www.dw.com/zh/欧盟修订外资审查规定-不点名涉及中国敏感投资/a-75128034?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765538520
     },
     {
       "id": "79f6774a4d43",
@@ -1234,16 +1220,16 @@
       "published": 1765174365
     },
     {
-      "id": "bad66d7e05f5",
-      "title": "从波罗的海到太平洋：海底电缆安全受威胁",
-      "url": "https://www.dw.com/zh/从波罗的海到太平洋：海底电缆安全受威胁/a-74989171?maca=chi-rss-chi-all-1127-rdf",
+      "id": "8633705ee7bb",
+      "title": "阿伦特在中国：思考作为精神的家园",
+      "url": "https://www.dw.com/zh/阿伦特在中国：思考作为精神的家园/a-75033730?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095900
     },
     {
-      "id": "8633705ee7bb",
-      "title": "阿伦特在中国：思考作为精神的家园",
-      "url": "https://www.dw.com/zh/阿伦特在中国：思考作为精神的家园/a-75033730?maca=chi-rss-chi-all-1127-rdf",
+      "id": "bad66d7e05f5",
+      "title": "从波罗的海到太平洋：海底电缆安全受威胁",
+      "url": "https://www.dw.com/zh/从波罗的海到太平洋：海底电缆安全受威胁/a-74989171?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095900
     },
@@ -1395,5 +1381,5 @@
       "published": 1763633220
     }
   ],
-  "build_id": 1766153492
+  "build_id": 1766155373
 }
