@@ -1,6 +1,20 @@
 {
-  "updated": 1766168143,
+  "updated": 1766170152,
   "items": [
+    {
+      "id": "13fdac0ae370",
+      "title": "降息預期　推升歐股收紅",
+      "url": "https://money.udn.com/money/story/5599/9215211",
+      "source": "money.udn.com",
+      "published": 1766169929
+    },
+    {
+      "id": "8ceae67beb7e",
+      "title": "致命隱蔽鐵絲割頸喪命｜男子踩三輪車經森林公園遭遇致命隱蔽鐵絲割頸喪命",
+      "url": "https://www.singtaousa.com/2025/12/19/news/china/hidden-wire-trip-kills-elderly-man/",
+      "source": "singtaousa.com",
+      "published": 1766169286
+    },
     {
       "id": "68f74cbd62fb",
       "title": "烏美即將展開新一輪和平會談　歐洲同步加入磋商",
@@ -240,13 +254,6 @@
       "published": 1766156400
     },
     {
-      "id": "550e8f65bd12",
-      "title": "微軟、Google 等24家公司加入美國政府的人工智慧「創世使命」",
-      "url": "https://money.udn.com/money/story/5599/9213115",
-      "source": "money.udn.com",
-      "published": 1766156067
-    },
-    {
       "id": "db47f6561bc7",
       "title": "洛杉磯Home Depot高頻噪音惹議，零工稱如酷刑身心受創",
       "url": "https://www.singtaousa.com/2025/12/19/news/usa/noise-machines-installed-by-la-home-depot-torture-for-day-laborers-advocates-say/",
@@ -266,13 +273,6 @@
       "url": "https://www.dw.com/zh/欧盟推迟签署南方共同市场贸易协定/a-75244130?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1766153280
-    },
-    {
-      "id": "0625d3d16d39",
-      "title": "TikTok美國業務售予合資公司",
-      "url": "https://www.singtaousa.com/2025/12/19/news/usa/tiktok-us-oracle-deal/",
-      "source": "singtaousa.com",
-      "published": 1766152800
     },
     {
       "id": "4ba6ab391b32",
@@ -1038,6 +1038,13 @@
       "published": 1765787039
     },
     {
+      "id": "34d4bcd3c9ce",
+      "title": "黎智英國安案勾結及煽動罪成 他如何成為北京眼中的「犯罪主腦」？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvg1v3dg3eyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1765784435
+    },
+    {
       "id": "bd6a9c92af10",
       "title": "黎智英的一生：他如何成为了中共的“眼中钉”？",
       "url": "https://cn.nytimes.com/china/20251215/jimmy-lai-photos-video/?utm_source=RSS",
@@ -1325,13 +1332,6 @@
       "published": 1764470118
     },
     {
-      "id": "f9db00f44539",
-      "title": "開戰車的女人：台灣軍隊性別平等了嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/cj69kxly35eo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1764467918
-    },
-    {
       "id": "74b8ee2009e2",
       "title": "香港宏福苑大火 竹制棚架惹的祸？",
       "url": "https://www.dw.com/zh/香港宏福苑大火-竹制棚架惹的祸？/a-74924017?maca=chi-rss-chi-news-3224-rdf",
@@ -1388,5 +1388,5 @@
       "published": 1763633220
     }
   ],
-  "build_id": 1766168143
+  "build_id": 1766170152
 }
