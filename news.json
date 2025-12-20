@@ -1,6 +1,13 @@
 {
-  "updated": 1766259122,
+  "updated": 1766261417,
   "items": [
+    {
+      "id": "d1c218ba4af9",
+      "title": "台北隨機傷人案｜法醫：刀刀致命手法專業 墮樓非畏罪自殺",
+      "url": "https://www.singtaousa.com/2025/12/20/news/china/taipei-stabbing-fall-accident/",
+      "source": "singtaousa.com",
+      "published": 1766261087
+    },
     {
       "id": "cef61a8f7c32",
       "title": "打鼓嶺貨車撞途人｜66歲男頭破血流 司機一度逃逸後尋獲",
@@ -9,9 +16,9 @@
       "published": 1766259288
     },
     {
-      "id": "897dfe58d558",
+      "id": "403f48e0847e",
       "title": "美簽作業期拉長　Google籲外籍員工暫勿出國",
-      "url": "https://money.udn.com/money/story/10511/9216589",
+      "url": "https://money.udn.com/money/story/123398/9216589",
       "source": "money.udn.com",
       "published": 1766257600
     },
@@ -257,13 +264,6 @@
       "id": "752b8e5db4c7",
       "title": "CarMax二手車銷量下滑   對手Carvana加速追趕",
       "url": "https://www.singtaousa.com/2025/12/20/news/usa/carmax-sales-decline-carvana/",
-      "source": "singtaousa.com",
-      "published": 1766239200
-    },
-    {
-      "id": "431a8b472b90",
-      "title": "北加尤洛縣煙火倉爆炸7死拘1男",
-      "url": "https://www.singtaousa.com/2025/12/20/news/usa/california-fireworks-explosion-arrest/",
       "source": "singtaousa.com",
       "published": 1766239200
     },
@@ -1395,5 +1395,5 @@
       "published": 1763733720
     }
   ],
-  "build_id": 1766259122
+  "build_id": 1766261417
 }
