@@ -1,12 +1,26 @@
 {
-  "updated": 1766257640,
+  "updated": 1766259122,
   "items": [
+    {
+      "id": "cef61a8f7c32",
+      "title": "打鼓嶺貨車撞途人｜66歲男頭破血流 司機一度逃逸後尋獲",
+      "url": "https://www.singtaousa.com/2025/12/20/news/china/pedestrian-hit-by-lorry-head-injury/",
+      "source": "singtaousa.com",
+      "published": 1766259288
+    },
     {
       "id": "897dfe58d558",
       "title": "美簽作業期拉長　Google籲外籍員工暫勿出國",
       "url": "https://money.udn.com/money/story/10511/9216589",
       "source": "money.udn.com",
       "published": 1766257600
+    },
+    {
+      "id": "af1bb8c55979",
+      "title": "非洲多国与俄罗斯部长级会议",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251220-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E5%A4%9A%E5%9B%BD%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E9%83%A8%E9%95%BF%E7%BA%A7%E4%BC%9A%E8%AE%AE",
+      "source": "rfi.fr",
+      "published": 1766257592
     },
     {
       "id": "5e4eafbc8475",
@@ -254,13 +268,6 @@
       "published": 1766239200
     },
     {
-      "id": "e4a9c3c5a2b5",
-      "title": "Cerebras計劃上市   最快明年二季度",
-      "url": "https://www.singtaousa.com/2025/12/20/news/usa/cerebras-ipo-q2-2026/",
-      "source": "singtaousa.com",
-      "published": 1766239200
-    },
-    {
       "id": "6521b615e304",
       "title": "歐盟新出入境系統問題多　國際機場協會籲盡速解決",
       "url": "https://money.udn.com/money/story/5599/9216346",
@@ -497,13 +504,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251219-%E6%AC%A7%E7%9B%9F%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0-%E5%BC%80%E9%87%91%E5%BA%93-900%E4%BA%BF%E8%B4%B7%E6%AC%BE%E8%8E%B7%E6%89%B9%EF%BC%8C%E4%BF%84%E8%B5%84%E4%BA%A7%E6%9A%82%E4%B8%8D%E5%8A%A8%E7%94%A8",
       "source": "rfi.fr",
       "published": 1766146515
-    },
-    {
-      "id": "dd53df7fdf8a",
-      "title": "巴黎一家法院今就法国政府要求希音在法暂停运营作出裁决",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251219-%E5%B7%B4%E9%BB%8E%E4%B8%80%E5%AE%B6%E6%B3%95%E9%99%A2%E4%BB%8A%E5%B0%B1%E6%B3%95%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%A6%81%E6%B1%82%E5%B8%8C%E9%9F%B3%E5%9C%A8%E6%B3%95%E6%9A%82%E5%81%9C%E8%BF%90%E8%90%A5%E4%BD%9C%E5%87%BA%E8%A3%81%E5%86%B3",
-      "source": "rfi.fr",
-      "published": 1766145622
     },
     {
       "id": "4a26d2194ecd",
@@ -1395,5 +1395,5 @@
       "published": 1763733720
     }
   ],
-  "build_id": 1766257640
+  "build_id": 1766259122
 }
