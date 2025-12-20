@@ -1,6 +1,13 @@
 {
-  "updated": 1766247100,
+  "updated": 1766248931,
   "items": [
+    {
+      "id": "0a3078b047eb",
+      "title": "法国启动斡旋柬埔寨与泰国达成停火协议",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251220-%E6%B3%95%E5%9B%BD%E5%90%AF%E5%8A%A8%E6%96%A1%E6%97%8B%E6%8E%A8%E5%8A%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E4%B8%8E%E6%B3%B0%E5%9B%BD%E8%BE%BE%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+      "source": "rfi.fr",
+      "published": 1766247468
+    },
     {
       "id": "4b59bfa9d381",
       "title": "涉為以色列從事間諜活動　27歲建築系學生遭伊朗處決",
@@ -532,13 +539,6 @@
       "url": "https://www.dw.com/zh/客座评论：西方国家的-软外交/a-75224733?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1766137320
-    },
-    {
-      "id": "919527b07ae6",
-      "title": "法国债务规模爆新高，公共债务率居欧盟前三",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251219-%E6%B3%95%E5%9B%BD%E5%80%BA%E5%8A%A1%E8%A7%84%E6%A8%A1%E7%88%86%E6%96%B0%E9%AB%98%EF%BC%8C%E5%85%AC%E5%85%B1%E5%80%BA%E5%8A%A1%E7%8E%87%E5%B1%85%E6%AC%A7%E7%9B%9F%E5%89%8D%E4%B8%89",
-      "source": "rfi.fr",
-      "published": 1766137029
     },
     {
       "id": "92d689159cf7",
@@ -1395,5 +1395,5 @@
       "published": 1763733720
     }
   ],
-  "build_id": 1766247100
+  "build_id": 1766248931
 }
