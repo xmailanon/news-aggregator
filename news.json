@@ -1,12 +1,61 @@
 {
-  "updated": 1766266411,
+  "updated": 1766268575,
   "items": [
+    {
+      "id": "ca25ec8d26c7",
+      "title": "【法醫解構】台北隨機傷人案兇徒刀刀致命 手法專業 墮樓非畏罪自殺",
+      "url": "https://www.singtaousa.com/2025/12/20/news/china/taipei-random-attack-forensic-analysis-fatal-stabs/",
+      "source": "singtaousa.com",
+      "published": 1766268296
+    },
+    {
+      "id": "ea9d8157fce3",
+      "title": "美国议员呼吁将DeepSeek、小米等列入“涉军企业”清单",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%91%98%E5%91%BC%E5%90%81%E5%B0%86deepseek-%E5%B0%8F%E7%B1%B3%E7%AD%89%E5%88%97%E5%85%A5-%E6%B6%89%E5%86%9B%E4%BC%81%E4%B8%9A-%E6%B8%85%E5%8D%95",
+      "source": "rfi.fr",
+      "published": 1766267282
+    },
+    {
+      "id": "1f31fbf635c7",
+      "title": "巴西總統籲美切勿武裝干預委國　憂釀人道災難",
+      "url": "https://money.udn.com/money/story/5599/9216607",
+      "source": "money.udn.com",
+      "published": 1766267145
+    },
+    {
+      "id": "9b85ab69a49b",
+      "title": "中国11月稀土出口创新高",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E4%B8%AD%E5%9B%BD11%E6%9C%88%E7%A8%80%E5%9C%9F%E5%87%BA%E5%8F%A3%E5%88%9B%E6%96%B0%E9%AB%98",
+      "source": "rfi.fr",
+      "published": 1766267091
+    },
+    {
+      "id": "95c59410b74d",
+      "title": "美国在委内瑞拉近海扣押一艘受制裁油轮",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E7%BE%8E%E5%9B%BD%E5%9C%A8%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E8%BF%91%E6%B5%B7%E6%89%A3%E6%8A%BC%E4%B8%80%E8%89%98%E5%8F%97%E5%88%B6%E8%A3%81%E6%B2%B9%E8%BD%AE",
+      "source": "rfi.fr",
+      "published": 1766266860
+    },
+    {
+      "id": "11abc862660c",
+      "title": "美议员指法国阻止披露空客在华业务 涉中国军方利益",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E7%BE%8E%E5%9B%BD%E5%AE%98%E5%91%98%E6%8C%87%E6%B3%95%E5%9B%BD%E9%98%BB%E6%AD%A2%E6%8A%AB%E9%9C%B2%E7%A9%BA%E5%AE%A2%E5%9C%A8%E5%8D%8E%E4%B8%9A%E5%8A%A1-%E6%B6%89%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E5%88%A9%E7%9B%8A",
+      "source": "rfi.fr",
+      "published": 1766266547
+    },
     {
       "id": "b411be38c569",
       "title": "台北隨機傷人案｜張文丟煙霧彈斬死3人，5人仍救治中，警方策劃逾半年",
       "url": "https://www.singtaousa.com/2025/12/20/news/china/metro-attack-injuries-death-toll-risks/",
       "source": "singtaousa.com",
       "published": 1766266487
+    },
+    {
+      "id": "1363395c47fa",
+      "title": "美国提议举行美、俄、乌三方会谈 泽连斯基呼吁美国加大对俄罗斯施压",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E7%BE%8E%E5%9B%BD%E6%8F%90%E8%AE%AE%E4%B8%BE%E8%A1%8C%E7%BE%8E-%E4%BF%84-%E4%B9%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%BC%E5%90%81%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%A4%A7%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%BD%E5%8E%8B",
+      "source": "rfi.fr",
+      "published": 1766266000
     },
     {
       "id": "4e41c60644a8",
@@ -21,13 +70,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E7%BE%8E%E5%9B%BD%E6%92%A4%E9%94%80%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB%E5%85%B3%E6%81%92%E7%9A%84%E9%A9%B1%E9%80%90%E4%BB%A4",
       "source": "rfi.fr",
       "published": 1766265626
-    },
-    {
-      "id": "40ee3c68bbe9",
-      "title": "台北隨機傷人案｜張文丟煙霧彈斬死3人，5人仍救治中，警方策劃逾半年",
-      "url": "https://www.singtaousa.com/2025/12/20/news/china/random-attack-taiwan-injuries-deaths-recovery/",
-      "source": "singtaousa.com",
-      "published": 1766264688
     },
     {
       "id": "3c7950e8c4e5",
@@ -289,13 +331,6 @@
       "published": 1766239496
     },
     {
-      "id": "6521b615e304",
-      "title": "歐盟新出入境系統問題多　國際機場協會籲盡速解決",
-      "url": "https://money.udn.com/money/story/5599/9216346",
-      "source": "money.udn.com",
-      "published": 1766238339
-    },
-    {
       "id": "7c9635622c97",
       "title": "日本为何正大力加强其在联合国的影响力？",
       "url": "https://www.dw.com/zh/日本为何正大力加强其在联合国的影响力？/a-75253165?maca=chi-rss-chi-all-1127-rdf",
@@ -450,20 +485,6 @@
       "published": 1766166661
     },
     {
-      "id": "100ae11dbf14",
-      "title": "美国启动审查程序为英伟达首次对华出口高端AI芯片做准备",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251219-%E7%BE%8E%E5%9B%BD%E5%90%AF%E5%8A%A8%E5%AE%A1%E6%9F%A5%E7%A8%8B%E5%BA%8F%E4%B8%BA%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%8D%8E%E5%87%BA%E5%8F%A3%E9%AB%98%E7%AB%AFai%E8%8A%AF%E7%89%87%E5%81%9A%E5%87%86%E5%A4%87",
-      "source": "rfi.fr",
-      "published": 1766162448
-    },
-    {
-      "id": "29c35265ace6",
-      "title": "TikTok与美国三家投资者成立合资企业以避在美被禁",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251219-tiktok%E4%B8%8E%E7%BE%8E%E5%9B%BD%E4%B8%89%E5%AE%B6%E6%8A%95%E8%B5%84%E8%80%85%E6%88%90%E7%AB%8B%E5%90%88%E8%B5%84%E4%BC%81%E4%B8%9A%E4%BB%A5%E9%81%BF%E5%9C%A8%E7%BE%8E%E8%A2%AB%E7%A6%81",
-      "source": "rfi.fr",
-      "published": 1766161280
-    },
-    {
       "id": "32a7c9c055b8",
       "title": "德语媒体：中国芯片制造技术取得重大突破？",
       "url": "https://www.dw.com/zh/德语媒体：中国芯片制造技术取得重大突破？/a-75246274?maca=chi-rss-chi-all-1127-rdf",
@@ -478,13 +499,6 @@
       "published": 1766157300
     },
     {
-      "id": "5d2042db02eb",
-      "title": "台北持刀袭击者杀害三人伤五人 在警方追捕中死亡",
-      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251219-%E5%8F%B0%E5%8C%97%E6%8C%81%E5%88%80%E8%A2%AD%E5%87%BB%E8%80%85%E6%9D%80%E5%AE%B3%E4%B8%89%E4%BA%BA%E4%BC%A4%E4%BA%94%E4%BA%BA-%E5%9C%A8%E8%AD%A6%E6%96%B9%E8%BF%BD%E6%8D%95%E4%B8%AD%E6%AD%BB%E4%BA%A1",
-      "source": "rfi.fr",
-      "published": 1766154482
-    },
-    {
       "id": "4b1e0f73a4a7",
       "title": "欧盟推迟签署南方共同市场贸易协定",
       "url": "https://www.dw.com/zh/欧盟推迟签署南方共同市场贸易协定/a-75244130?maca=chi-rss-chi-all-1127-rdf",
@@ -492,25 +506,11 @@
       "published": 1766153280
     },
     {
-      "id": "c9ebc6d8f3d4",
-      "title": "欧盟推迟南共市协议后 法国农民怒气难消 抗议当局“一牛生病全体宰杀”政策",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251219-%E6%AC%A7%E7%9B%9F%E6%8E%A8%E8%BF%9F%E5%8D%97%E5%85%B1%E5%B8%82%E5%8D%8F%E8%AE%AE%E5%90%8E-%E6%B3%95%E5%9B%BD%E5%86%9C%E6%B0%91%E6%80%92%E6%B0%94%E9%9A%BE%E6%B6%88-%E6%8A%97%E8%AE%AE%E5%BD%93%E5%B1%80-%E4%B8%80%E7%89%9B%E7%94%9F%E7%97%85%E5%85%A8%E4%BD%93%E5%AE%B0%E6%9D%80-%E6%94%BF%E7%AD%96",
-      "source": "rfi.fr",
-      "published": 1766151888
-    },
-    {
       "id": "a32cca9d2efb",
       "title": "欧盟将向乌克兰提供900亿欧元贷款  但未动用俄罗斯资产",
       "url": "https://www.dw.com/zh/欧盟将向乌克兰提供900亿欧元贷款-但未动用俄罗斯资产/a-75242396?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1766148000
-    },
-    {
-      "id": "61095096b272",
-      "title": "欧盟向乌克兰“开金库”：900亿贷款获批，俄资产暂不动用",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20251219-%E6%AC%A7%E7%9B%9F%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0-%E5%BC%80%E9%87%91%E5%BA%93-900%E4%BA%BF%E8%B4%B7%E6%AC%BE%E8%8E%B7%E6%89%B9%EF%BC%8C%E4%BF%84%E8%B5%84%E4%BA%A7%E6%9A%82%E4%B8%8D%E5%8A%A8%E7%94%A8",
-      "source": "rfi.fr",
-      "published": 1766146515
     },
     {
       "id": "4a26d2194ecd",
@@ -1395,5 +1395,5 @@
       "published": 1763733720
     }
   ],
-  "build_id": 1766266411
+  "build_id": 1766268575
 }
