@@ -1,6 +1,13 @@
 {
-  "updated": 1766299752,
+  "updated": 1766301034,
   "items": [
+    {
+      "id": "56bbd9a76d30",
+      "title": "黎智英：這位挑戰中國底線的億萬富翁，付上了自由的代價",
+      "url": "https://www.bbc.com/zhongwen/articles/cp8zpyrvmm4o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1766300301
+    },
     {
       "id": "67eb285f7b44",
       "title": "「川普內閣異數」！美國務卿魯比歐記者會風評佳 記者喊膀胱快撐不住",
@@ -898,13 +905,6 @@
       "published": 1765950780
     },
     {
-      "id": "ac24cb647668",
-      "title": "歐盟放緩2035年全面停售汽柴油新車的計劃",
-      "url": "https://www.bbc.com/zhongwen/articles/c7417xkjygeo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1765947303
-    },
-    {
       "id": "a3d18b67d93a",
       "title": "好莱坞知名导演夫妇疑遭儿子谋杀，发生了什么？",
       "url": "https://cn.nytimes.com/usa/20251217/nick-reiner-rob-reiner-son-murder/?utm_source=RSS",
@@ -1395,5 +1395,5 @@
       "published": 1763733720
     }
   ],
-  "build_id": 1766299752
+  "build_id": 1766301034
 }
