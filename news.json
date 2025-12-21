@@ -1,10 +1,17 @@
 {
-  "updated": 1766351325,
+  "updated": 1766352866,
   "items": [
     {
-      "id": "0140de7b6fb1",
+      "id": "499ce7797c19",
+      "title": "泰柬边境冲突 金边称50万人无家可归",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251221-%E6%B3%B0%E6%9F%AC%E8%BE%B9%E5%A2%83%E5%86%B2%E7%AA%81-%E9%87%91%E8%BE%B9%E7%A7%B050%E4%B8%87%E4%BA%BA%E6%97%A0%E5%AE%B6%E5%8F%AF%E5%BD%92",
+      "source": "rfi.fr",
+      "published": 1766352748
+    },
+    {
+      "id": "7b1379f8eb92",
       "title": "路透：美國正在委內瑞拉附近追緝第3艘油輪",
-      "url": "https://money.udn.com/money/story/10511/9217987",
+      "url": "https://money.udn.com/money/story/5599/9217987",
       "source": "money.udn.com",
       "published": 1766349946
     },
@@ -595,13 +602,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/crmdpxgz7nno/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766217137
-    },
-    {
-      "id": "f18a583a7aa4",
-      "title": "美新版国防授权法要求公布中共最高层财富激怒北京",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251219-%E7%BE%8E%E6%96%B0%E7%89%88%E5%9B%BD%E9%98%B2%E6%8E%88%E6%9D%83%E6%B3%95%E8%A6%81%E6%B1%82%E5%85%AC%E5%B8%83%E4%B8%AD%E5%85%B1%E6%9C%80%E9%AB%98%E5%B1%82%E8%B4%A2%E5%AF%8C%E6%BF%80%E6%80%92%E5%8C%97%E4%BA%AC",
-      "source": "rfi.fr",
-      "published": 1766182584
     },
     {
       "id": "9a5ad53d949a",
@@ -1402,5 +1402,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766351325
+  "build_id": 1766352866
 }
