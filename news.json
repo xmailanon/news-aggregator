@@ -1,6 +1,20 @@
 {
-  "updated": 1766293948,
+  "updated": 1766295643,
   "items": [
+    {
+      "id": "d636611468f2",
+      "title": "SK電訊個資外洩　消保機構下令賠償集體訴訟用戶",
+      "url": "https://money.udn.com/money/story/5599/9217102",
+      "source": "money.udn.com",
+      "published": 1766295388
+    },
+    {
+      "id": "67f6664ea455",
+      "title": "南非街頭驚傳槍響！12名凶嫌亂槍掃射 至少10死10傷",
+      "url": "https://money.udn.com/money/story/5599/9217088",
+      "source": "money.udn.com",
+      "published": 1766294676
+    },
     {
       "id": "cde4cbc9439c",
       "title": "邦代海灘槍案後　澳洲總理下令檢討警政與情報體系",
@@ -149,13 +163,6 @@
       "published": 1766275488
     },
     {
-      "id": "4aa2bc19bbe6",
-      "title": "加拿大與中國交往設防護欄  AI國安領域不深度合作",
-      "url": "https://money.udn.com/money/story/5599/9216649",
-      "source": "money.udn.com",
-      "published": 1766274869
-    },
-    {
       "id": "4d468fb2bc80",
       "title": "美国放款安哥拉刚果(金)铁路",
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20251220-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E7%BE%8E%E5%9B%BD%E6%94%BE%E6%AC%BE%E5%AE%89%E5%93%A5%E6%8B%89%E5%88%9A%E6%9E%9C-%E9%87%91-%E9%93%81%E8%B7%AF",
@@ -210,13 +217,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%91%98%E5%91%BC%E5%90%81%E5%B0%86deepseek-%E5%B0%8F%E7%B1%B3%E7%AD%89%E5%88%97%E5%85%A5-%E6%B6%89%E5%86%9B%E4%BC%81%E4%B8%9A-%E6%B8%85%E5%8D%95",
       "source": "rfi.fr",
       "published": 1766267282
-    },
-    {
-      "id": "1f31fbf635c7",
-      "title": "巴西總統籲美切勿武裝干預委國　憂釀人道災難",
-      "url": "https://money.udn.com/money/story/5599/9216607",
-      "source": "money.udn.com",
-      "published": 1766267145
     },
     {
       "id": "9b85ab69a49b",
@@ -1395,5 +1395,5 @@
       "published": 1763733720
     }
   ],
-  "build_id": 1766293948
+  "build_id": 1766295643
 }
