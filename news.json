@@ -1,6 +1,20 @@
 {
-  "updated": 1766396810,
+  "updated": 1766398330,
   "items": [
+    {
+      "id": "793c5f5d09f8",
+      "title": "績效獎金開獎！三星「這個部門」有感增加",
+      "url": "https://money.udn.com/money/story/5599/9219469",
+      "source": "money.udn.com",
+      "published": 1766397811
+    },
+    {
+      "id": "c4a6b42957c6",
+      "title": "星國男涉不實威脅被起訴　最高判10年徒刑或併科罰金",
+      "url": "https://money.udn.com/money/story/5599/9219442",
+      "source": "money.udn.com",
+      "published": 1766397254
+    },
     {
       "id": "7cd2f59203cb",
       "title": "東協會議聚焦泰柬衝突　泰外長：24日討論停火可能性",
@@ -10,7 +24,7 @@
     },
     {
       "id": "12da6b4790e9",
-      "title": "記憶體的「輝達時刻」到？傳三星/SK海力士 本季毛利率將超車台積",
+      "title": "記憶體的「輝達時刻」到？傳三星、SK 海力士 本季毛利率將超車台積",
       "url": "https://money.udn.com/money/story/5599/9219413",
       "source": "money.udn.com",
       "published": 1766396668
@@ -189,20 +203,6 @@
       "url": "https://money.udn.com/money/story/5599/9219031",
       "source": "money.udn.com",
       "published": 1766386840
-    },
-    {
-      "id": "cd960b847da8",
-      "title": "反擊中國大使批高市「逆時代」日媒披露陸下令北京餐廳竊聽日大使細節",
-      "url": "https://money.udn.com/money/story/5599/9219017",
-      "source": "money.udn.com",
-      "published": 1766386656
-    },
-    {
-      "id": "ba74a0dafc43",
-      "title": "澳洲雪梨槍案後　新南威爾斯州推動更嚴格槍枝法",
-      "url": "https://money.udn.com/money/story/5599/9218992",
-      "source": "money.udn.com",
-      "published": 1766385915
     },
     {
       "id": "df9925586265",
@@ -1269,16 +1269,16 @@
       "published": 1765095900
     },
     {
-      "id": "ababaeec77cf",
-      "title": "伊朗上调油价 涨幅高达“两美分”",
-      "url": "https://www.dw.com/zh/伊朗上调油价-涨幅高达-两美分/a-74997897?maca=chi-rss-chi-all-1127-rdf",
+      "id": "9fadb63c40b6",
+      "title": "为什么基辅的学生仍然说俄语？",
+      "url": "https://www.dw.com/zh/为什么基辅的学生仍然说俄语？/a-74972352?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095840
     },
     {
-      "id": "9fadb63c40b6",
-      "title": "为什么基辅的学生仍然说俄语？",
-      "url": "https://www.dw.com/zh/为什么基辅的学生仍然说俄语？/a-74972352?maca=chi-rss-chi-all-1127-rdf",
+      "id": "ababaeec77cf",
+      "title": "伊朗上调油价 涨幅高达“两美分”",
+      "url": "https://www.dw.com/zh/伊朗上调油价-涨幅高达-两美分/a-74997897?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1765095840
     },
@@ -1388,5 +1388,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766396810
+  "build_id": 1766398330
 }
