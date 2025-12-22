@@ -1,6 +1,34 @@
 {
-  "updated": 1766430586,
+  "updated": 1766432023,
   "items": [
+    {
+      "id": "a9cab1b4fa9a",
+      "title": "香港巴士與私家車相撞，衝毀燈柱與鐵欄",
+      "url": "https://www.singtaousa.com/2025/12/22/news/china/bus-car-collision-damages-lamp-pence/",
+      "source": "singtaousa.com",
+      "published": 1766432087
+    },
+    {
+      "id": "40289bc699bc",
+      "title": "特朗普将发表造船谈话 美军“黄金舰队”敏捷型巡防舰计划受瞩目",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251222-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%8F%91%E8%A1%A8%E9%80%A0%E8%88%B9%E8%B0%88%E8%AF%9D-%E7%BE%8E%E5%86%9B-%E9%BB%84%E9%87%91%E8%88%B0%E9%98%9F-%E6%95%8F%E6%8D%B7%E5%9E%8B%E5%B7%A1%E9%98%B2%E8%88%B0%E8%AE%A1%E5%88%92%E5%8F%97%E7%9E%A9%E7%9B%AE",
+      "source": "rfi.fr",
+      "published": 1766431798
+    },
+    {
+      "id": "0850c034e743",
+      "title": "俄州沃爾瑪驚險一幕　竊嫌向警官開槍時卡彈",
+      "url": "https://www.singtaousa.com/2025/12/22/news/usa/ohio-shoplifting-gun/",
+      "source": "singtaousa.com",
+      "published": 1766431704
+    },
+    {
+      "id": "11428cba18e6",
+      "title": "倫敦眼25週年　啟動分階段更新座艙、升級遊客體驗",
+      "url": "https://money.udn.com/money/story/5599/9220178",
+      "source": "money.udn.com",
+      "published": 1766431377
+    },
     {
       "id": "c9a7d3d9ba41",
       "title": "博物院藏品偽畫作非法流出，國家文物局已介入調查",
@@ -65,13 +93,6 @@
       "published": 1766426324
     },
     {
-      "id": "fe9b595991a7",
-      "title": "「一美分」硬幣走入歷史？林肯紀念堂上演百人告別式",
-      "url": "https://www.singtaousa.com/2025/12/22/news/usa/hundreds-attend-mock-funeral-for-the-penny-at-the-lincoln-memorial/",
-      "source": "singtaousa.com",
-      "published": 1766425740
-    },
-    {
       "id": "49b1c4c6f236",
       "title": "印度自貿談判再下一城 與紐西蘭完成 FTA 協定 拿下2025年第三份",
       "url": "https://money.udn.com/money/story/5599/9219964",
@@ -84,13 +105,6 @@
       "url": "https://money.udn.com/money/story/10511/9219969",
       "source": "money.udn.com",
       "published": 1766425633
-    },
-    {
-      "id": "2f8bf1468bb5",
-      "title": "俄羅斯受制裁船隻瑞典遭扣，疑涉為戰爭運輸武器",
-      "url": "https://www.singtaousa.com/2025/12/22/news/world/sweden-detains-sanctioned-russian-vessel-linked-to-weapons-transport/",
-      "source": "singtaousa.com",
-      "published": 1766425621
     },
     {
       "id": "4eebf6716daf",
@@ -231,13 +245,6 @@
       "url": "https://money.udn.com/money/story/5599/9215314",
       "source": "money.udn.com",
       "published": 1766416818
-    },
-    {
-      "id": "94093436f526",
-      "title": "美國對敘利亞實施打擊行動 兌現川普復仇承諾",
-      "url": "https://money.udn.com/money/story/5599/9216575",
-      "source": "money.udn.com",
-      "published": 1766415913
     },
     {
       "id": "ff98fa8c74e6",
@@ -497,13 +504,6 @@
       "url": "https://cn.nytimes.com/usa/20251222/chinese-dissidents-protest-art/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1766339385
-    },
-    {
-      "id": "fe1fb164d0f6",
-      "title": "CAN 2025:摩洛哥首场开赛在即",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251221-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-can-2025-%E6%91%A9%E6%B4%9B%E5%93%A5%E9%A6%96%E5%9C%BA%E5%BC%80%E8%B5%9B%E5%9C%A8%E5%8D%B3",
-      "source": "rfi.fr",
-      "published": 1766338437
     },
     {
       "id": "f612d257500e",
@@ -1367,5 +1367,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766430586
+  "build_id": 1766432023
 }
