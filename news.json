@@ -1,6 +1,27 @@
 {
-  "updated": 1766376002,
+  "updated": 1766378491,
   "items": [
+    {
+      "id": "b5813d1270b9",
+      "title": "印尼高速公路巴士翻覆　至少16人喪生",
+      "url": "https://money.udn.com/money/story/5599/9218762",
+      "source": "money.udn.com",
+      "published": 1766378729
+    },
+    {
+      "id": "3b1f0a35407e",
+      "title": "川普宣布路州州長蘭德瑞　出任美國駐格陵蘭特使",
+      "url": "https://money.udn.com/money/story/10511/9218748",
+      "source": "money.udn.com",
+      "published": 1766378208
+    },
+    {
+      "id": "6d4984f6e70c",
+      "title": "降息救不了亞洲？彭博專欄：央行彈藥所剩不多 2026年進入艱難期",
+      "url": "https://money.udn.com/money/story/5599/9218732",
+      "source": "money.udn.com",
+      "published": 1766377839
+    },
     {
       "id": "3a98bf4d8b9b",
       "title": "Uniqlo 宣布加薪！日本畢業生起薪衝破118萬台幣 一口氣調漲12%",
@@ -135,27 +156,6 @@
       "published": 1766369609
     },
     {
-      "id": "c52e1ac564de",
-      "title": "西班牙埃斯特雷馬杜拉自治區選舉　執政社會黨慘敗",
-      "url": "https://money.udn.com/money/story/5599/9218220",
-      "source": "money.udn.com",
-      "published": 1766368817
-    },
-    {
-      "id": "103844c6a1b2",
-      "title": "口頭干預升級倒數？嚴防日圓「單邊暴衝」 日財務省示警恐被迫出手",
-      "url": "https://money.udn.com/money/story/5599/9218202",
-      "source": "money.udn.com",
-      "published": 1766368277
-    },
-    {
-      "id": "da2fe83eafa6",
-      "title": "跨足品牌銷售 高盛預料鴻海電動車事業每年平均成長逾三成",
-      "url": "https://money.udn.com/money/story/5599/9218150",
-      "source": "money.udn.com",
-      "published": 1766367041
-    },
-    {
       "id": "11be998fbf5a",
       "title": "三藩市大停電  居民可致電211免費住酒店",
       "url": "https://www.singtaousa.com/2025/12/21/news/usa/san-francisco-power-outages-211/",
@@ -248,7 +248,7 @@
     },
     {
       "id": "d76712ac38f0",
-      "title": "三藩市大停電後續：仍有超過16,000戶用戶斷電",
+      "title": "三藩市大停電後續：預計最遲將於週一下午2點恢復剩餘用戶的電力供應",
       "url": "https://www.singtaousa.com/2025/12/21/news/usa/power-outage-san-francisco-pge/",
       "source": "singtaousa.com",
       "published": 1766340989
@@ -308,6 +308,13 @@
       "url": "https://www.dw.com/zh/美国旧金山逾十万人遭遇断电/a-75259027?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1766333820
+    },
+    {
+      "id": "14761a01cc55",
+      "title": "一周世界舆论聚焦：韩国靠近中国与美国在中日间平衡",
+      "url": "https://www.ftchinese.com/story/001108501",
+      "source": "ftchinese.com",
+      "published": 1766332800
     },
     {
       "id": "8c288793f4a3",
@@ -845,13 +852,6 @@
       "id": "e841ab212bad",
       "title": "英国央行降息0.25点至3.75%，同时预告降息前景将愈发难测",
       "url": "https://www.ftchinese.com/story/001108482",
-      "source": "ftchinese.com",
-      "published": 1766073600
-    },
-    {
-      "id": "59255b88ad00",
-      "title": "王健：最有意义的音乐，允许人们进入各自的层次之中",
-      "url": "https://www.ftchinese.com/story/001108475",
       "source": "ftchinese.com",
       "published": 1766073600
     },
@@ -1402,5 +1402,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766376002
+  "build_id": 1766378491
 }
