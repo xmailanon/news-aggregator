@@ -1,6 +1,20 @@
 {
-  "updated": 1766443297,
+  "updated": 1766445017,
   "items": [
+    {
+      "id": "2ecd65b468f6",
+      "title": "美股收盤／標普500逼近新高 輝達特斯拉領漲大盤 科技股續揚",
+      "url": "https://money.udn.com/money/story/5599/9220252",
+      "source": "money.udn.com",
+      "published": 1766444982
+    },
+    {
+      "id": "1b77233f5e70",
+      "title": "自動駕駛飛機首度救命 無人操控照樣降落科羅拉多機場",
+      "url": "https://www.singtaousa.com/2025/12/22/news/usa/us-autoland-emergency-landing/",
+      "source": "singtaousa.com",
+      "published": 1766444400
+    },
     {
       "id": "9465deb0c6ed",
       "title": "防國安風險　美FCC限制進口中國大疆等外國無人機",
@@ -156,13 +170,6 @@
       "published": 1766434105
     },
     {
-      "id": "1ad98b5bd7f3",
-      "title": "【警告】大嶼山芝麻灣11个金塔遭毁坏，警方已列刑事毁坏追查",
-      "url": "https://www.singtaousa.com/2025/12/22/news/china/gold-tank-vou-sabotage-police-investigation/",
-      "source": "singtaousa.com",
-      "published": 1766433887
-    },
-    {
       "id": "f88066be3afa",
       "title": "俄罗斯高级军事将领被暗杀，是否有西方情报机构的参与？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251222-%E4%BF%84%E7%BD%97%E6%96%AF%E9%AB%98%E7%BA%A7%E5%86%9B%E4%BA%8B%E5%B0%86%E9%A2%86%E8%A2%AB%E6%9A%97%E6%9D%80%EF%BC%8C%E6%98%AF%E5%90%A6%E6%9C%89%E8%A5%BF%E6%96%B9%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E7%9A%84%E5%8F%82%E4%B8%8E",
@@ -282,13 +289,6 @@
       "published": 1766422559
     },
     {
-      "id": "d7fede596dbf",
-      "title": "美施壓委國 油價應聲漲",
-      "url": "https://money.udn.com/money/story/5599/9220006",
-      "source": "money.udn.com",
-      "published": 1766422467
-    },
-    {
       "id": "55817fdbe143",
       "title": "《自杀通告》“不利国安”被禁 香港导演周冠威：荒谬至极",
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251222-%E8%87%AA%E6%9D%80%E9%80%9A%E5%91%8A-%E4%B8%8D%E5%88%A9%E5%9B%BD%E5%AE%89-%E8%A2%AB%E7%A6%81-%E9%A6%99%E6%B8%AF%E5%AF%BC%E6%BC%94%E5%91%A8%E5%86%A0%E5%A8%81-%E8%8D%92%E8%B0%AC%E8%87%B3%E6%9E%81",
@@ -301,6 +301,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251222-%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E6%8B%9F%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%91%E4%B8%AD%E4%BE%9B%E8%B4%A7%EF%BC%8C%E8%85%BE%E8%AE%AF%E5%80%9F%E9%81%93%E6%97%A5%E6%9C%AC%E8%8E%B7%E7%BE%8E%E5%B0%96%E7%AB%AF%E7%AE%97%E5%8A%9B",
       "source": "rfi.fr",
       "published": 1766419901
+    },
+    {
+      "id": "a357c937e2f6",
+      "title": "开源模型可能刺破人工智能估值泡沫",
+      "url": "https://www.ftchinese.com/story/001108509",
+      "source": "ftchinese.com",
+      "published": 1766419200
     },
     {
       "id": "7280cbfcb527",
@@ -870,13 +877,6 @@
       "published": 1766073600
     },
     {
-      "id": "d5f8b43b0a18",
-      "title": "大隐隐于市",
-      "url": "https://www.ftchinese.com/story/001108476",
-      "source": "ftchinese.com",
-      "published": 1766073600
-    },
-    {
       "id": "925069698f24",
       "title": "使用被冻结俄罗斯资产为乌克兰提供赔偿贷款？欧盟峰会即将做出决定",
       "url": "https://www.dw.com/zh/使用被冻结俄罗斯资产为乌克兰提供赔偿贷款？欧盟峰会即将做出决定/a-75224957?maca=chi-rss-chi-all-1127-rdf",
@@ -1367,5 +1367,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766443297
+  "build_id": 1766445017
 }
