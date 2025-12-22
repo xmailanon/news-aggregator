@@ -1,10 +1,24 @@
 {
-  "updated": 1766445017,
+  "updated": 1766446645,
   "items": [
     {
-      "id": "2ecd65b468f6",
+      "id": "042ad4fc1e03",
+      "title": "美國迎異常暖冬 逾40城市或創史上最熱聖誕節紀錄",
+      "url": "https://www.singtaousa.com/2025/12/22/news/usa/dreaming-white-christmas-14-states-could-get-one/",
+      "source": "singtaousa.com",
+      "published": 1766446200
+    },
+    {
+      "id": "a9b468645544",
+      "title": "台積電ADR勁揚1.5% 較台北交易溢價逾26%",
+      "url": "https://money.udn.com/money/story/123398/9220257",
+      "source": "money.udn.com",
+      "published": 1766445846
+    },
+    {
+      "id": "60eb52ab0653",
       "title": "美股收盤／標普500逼近新高 輝達特斯拉領漲大盤 科技股續揚",
-      "url": "https://money.udn.com/money/story/5599/9220252",
+      "url": "https://money.udn.com/money/story/123398/9220252",
       "source": "money.udn.com",
       "published": 1766444982
     },
@@ -163,13 +177,6 @@
       "published": 1766434441
     },
     {
-      "id": "35112de3c497",
-      "title": "歐洲最大戰艦！法國百億新航母計劃背後的戰略考量",
-      "url": "https://www.singtaousa.com/2025/12/22/news/world/france-to-build-new-nuclear-carrier-replacing-charles-de-gaulle/",
-      "source": "singtaousa.com",
-      "published": 1766434105
-    },
-    {
       "id": "f88066be3afa",
       "title": "俄罗斯高级军事将领被暗杀，是否有西方情报机构的参与？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20251222-%E4%BF%84%E7%BD%97%E6%96%AF%E9%AB%98%E7%BA%A7%E5%86%9B%E4%BA%8B%E5%B0%86%E9%A2%86%E8%A2%AB%E6%9A%97%E6%9D%80%EF%BC%8C%E6%98%AF%E5%90%A6%E6%9C%89%E8%A5%BF%E6%96%B9%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84%E7%9A%84%E5%8F%82%E4%B8%8E",
@@ -282,13 +289,6 @@
       "published": 1766422739
     },
     {
-      "id": "d081bb3c1c93",
-      "title": "銅價挑戰1.2萬美元新高",
-      "url": "https://money.udn.com/money/story/5599/9220005",
-      "source": "money.udn.com",
-      "published": 1766422559
-    },
-    {
       "id": "55817fdbe143",
       "title": "《自杀通告》“不利国安”被禁 香港导演周冠威：荒谬至极",
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251222-%E8%87%AA%E6%9D%80%E9%80%9A%E5%91%8A-%E4%B8%8D%E5%88%A9%E5%9B%BD%E5%AE%89-%E8%A2%AB%E7%A6%81-%E9%A6%99%E6%B8%AF%E5%AF%BC%E6%BC%94%E5%91%A8%E5%86%A0%E5%A8%81-%E8%8D%92%E8%B0%AC%E8%87%B3%E6%9E%81",
@@ -301,6 +301,48 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251222-%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E6%8B%9F%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%91%E4%B8%AD%E4%BE%9B%E8%B4%A7%EF%BC%8C%E8%85%BE%E8%AE%AF%E5%80%9F%E9%81%93%E6%97%A5%E6%9C%AC%E8%8E%B7%E7%BE%8E%E5%B0%96%E7%AB%AF%E7%AE%97%E5%8A%9B",
       "source": "rfi.fr",
       "published": 1766419901
+    },
+    {
+      "id": "a3b457d5ee39",
+      "title": "经济、金融的“双周期”：由合而分",
+      "url": "https://www.ftchinese.com/story/001108500",
+      "source": "ftchinese.com",
+      "published": 1766419200
+    },
+    {
+      "id": "3c25e586327b",
+      "title": "日本留学“性价比神话”破灭",
+      "url": "https://www.ftchinese.com/story/001108456",
+      "source": "ftchinese.com",
+      "published": 1766419200
+    },
+    {
+      "id": "85f3b6c44dcb",
+      "title": "高净值家庭的代际困境(一）：被围猎的二代",
+      "url": "https://www.ftchinese.com/story/001108503",
+      "source": "ftchinese.com",
+      "published": 1766419200
+    },
+    {
+      "id": "0437c1fdc25c",
+      "title": "“独身女子逝世，买不买墓碑”的背后，是丧葬制度",
+      "url": "https://www.ftchinese.com/story/001108504",
+      "source": "ftchinese.com",
+      "published": 1766419200
+    },
+    {
+      "id": "8386f20db192",
+      "title": "信息披露监管手段的泛化使用和合理边界的选择",
+      "url": "https://www.ftchinese.com/story/001108506",
+      "source": "ftchinese.com",
+      "published": 1766419200
+    },
+    {
+      "id": "4ebb57428109",
+      "title": "俄罗斯又一高级军官遭汽车炸弹袭击身亡",
+      "url": "https://www.ftchinese.com/story/001108510",
+      "source": "ftchinese.com",
+      "published": 1766419200
     },
     {
       "id": "a357c937e2f6",
@@ -835,48 +877,6 @@
       "published": 1766073600
     },
     {
-      "id": "c1a125b1a31c",
-      "title": "格尔•格鲁特：人工智能的哲思",
-      "url": "https://www.ftchinese.com/story/001108487",
-      "source": "ftchinese.com",
-      "published": 1766073600
-    },
-    {
-      "id": "b9a8f5f1544e",
-      "title": "复盘进程：高市早苗系统性严重误判北京的反应",
-      "url": "https://www.ftchinese.com/story/001108486",
-      "source": "ftchinese.com",
-      "published": 1766073600
-    },
-    {
-      "id": "fea23bb9e38b",
-      "title": "把AI数据中心建到太空有多少后患？",
-      "url": "https://www.ftchinese.com/story/001108485",
-      "source": "ftchinese.com",
-      "published": 1766073600
-    },
-    {
-      "id": "62bd38aa828e",
-      "title": "当自媒体重塑公共权力：国家主权正在被重新定义",
-      "url": "https://www.ftchinese.com/story/001108484",
-      "source": "ftchinese.com",
-      "published": 1766073600
-    },
-    {
-      "id": "51ddd632c61c",
-      "title": "朝鲜劳动党八届十三中全会解读",
-      "url": "https://www.ftchinese.com/story/001108483",
-      "source": "ftchinese.com",
-      "published": 1766073600
-    },
-    {
-      "id": "f745e91d387e",
-      "title": "水墨艺术表达出欲望、诱惑、矛盾、善变？",
-      "url": "https://www.ftchinese.com/story/001108477",
-      "source": "ftchinese.com",
-      "published": 1766073600
-    },
-    {
       "id": "925069698f24",
       "title": "使用被冻结俄罗斯资产为乌克兰提供赔偿贷款？欧盟峰会即将做出决定",
       "url": "https://www.dw.com/zh/使用被冻结俄罗斯资产为乌克兰提供赔偿贷款？欧盟峰会即将做出决定/a-75224957?maca=chi-rss-chi-all-1127-rdf",
@@ -1367,5 +1367,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766445017
+  "build_id": 1766446645
 }
