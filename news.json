@@ -1,6 +1,13 @@
 {
-  "updated": 1766419987,
+  "updated": 1766422035,
   "items": [
+    {
+      "id": "54878ca248c5",
+      "title": "美股暴漲暴跌 明年仍是常態",
+      "url": "https://money.udn.com/money/story/123398/9220036",
+      "source": "money.udn.com",
+      "published": 1766421259
+    },
     {
       "id": "376cadeef0e2",
       "title": "英伟达H200拟春节前向中供货，腾讯借道日本获美尖端算力",
@@ -86,11 +93,25 @@
       "published": 1766414406
     },
     {
+      "id": "e3be6417e364",
+      "title": "特朗普對委內瑞拉「封鎖」升級？美軍加勒比海再追截油輪",
+      "url": "https://www.singtaousa.com/2025/12/22/news/world/coast-guard-is-pursuing-another-tanker-helping-venezuela-skirt-sanctions-us-official-says/",
+      "source": "singtaousa.com",
+      "published": 1766414306
+    },
+    {
       "id": "9181d7bed359",
       "title": "刚果(金):百廿军警遭军法审判",
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251222-rfi-%E6%B3%95%E5%B9%BF%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E7%99%BE%E5%BB%BF%E5%86%9B%E8%AD%A6%E9%81%AD%E5%86%9B%E6%B3%95%E5%AE%A1%E5%88%A4",
       "source": "rfi.fr",
       "published": 1766414095
+    },
+    {
+      "id": "f84263c53ffd",
+      "title": "星鏈成俄羅斯眼中釘？北約情報揭示太空「彈片」威脅",
+      "url": "https://www.singtaousa.com/2025/12/22/news/world/starlink-in-the-crosshairs-how-russia-could-attack-elon-musks-conquering-of-space/",
+      "source": "singtaousa.com",
+      "published": 1766413403
     },
     {
       "id": "975ab4e0c624",
@@ -170,20 +191,6 @@
       "published": 1766412000
     },
     {
-      "id": "995857a5fcd0",
-      "title": "俄否認曾與韓國秘商朝核問題",
-      "url": "https://www.singtaousa.com/2025/12/22/news/usa/russia-denies-north-korea-talks/",
-      "source": "singtaousa.com",
-      "published": 1766412000
-    },
-    {
-      "id": "89afa08f0fb5",
-      "title": "美烏邁阿密會談「具成效」",
-      "url": "https://www.singtaousa.com/2025/12/22/news/usa/us-ukraine-miami-talks/",
-      "source": "singtaousa.com",
-      "published": 1766412000
-    },
-    {
       "id": "fed600bf557f",
       "title": "美國特使威特科夫稱美方官員與烏克蘭和歐洲代表舉行了建設性的會談",
       "url": "https://money.udn.com/money/story/5599/9218051",
@@ -259,13 +266,6 @@
       "url": "https://money.udn.com/money/story/120769/9219623",
       "source": "money.udn.com",
       "published": 1766408650
-    },
-    {
-      "id": "f67b65d4987f",
-      "title": "以色列批准19處西岸新屯墾區　巴勒斯坦建國更渺茫",
-      "url": "https://money.udn.com/money/story/5599/9219769",
-      "source": "money.udn.com",
-      "published": 1766408071
     },
     {
       "id": "79c1989ec762",
@@ -1374,5 +1374,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766419987
+  "build_id": 1766422035
 }
