@@ -1,6 +1,27 @@
 {
-  "updated": 1766423418,
+  "updated": 1766425185,
   "items": [
+    {
+      "id": "9bc8f55cdca7",
+      "title": "【福州車禍直擊】私家車失控狂掃電動車 5人受傷倒地 肇事司機疑操作不當",
+      "url": "https://www.singtaousa.com/2025/12/22/news/china/fuzhou-car-crash-injures-five-electric-bikes/",
+      "source": "singtaousa.com",
+      "published": 1766424886
+    },
+    {
+      "id": "e714deb7332f",
+      "title": "特朗普撤換近30名職業外交官駐外大使職務",
+      "url": "https://www.singtaousa.com/2025/12/22/news/world/news-us-diplomacy/",
+      "source": "singtaousa.com",
+      "published": 1766423946
+    },
+    {
+      "id": "ca8f42adc8b7",
+      "title": "淚灑告別舞台！楊伯文閃辭《週六夜現場》，最終短劇真情流露",
+      "url": "https://www.singtaousa.com/2025/12/22/news/usa/bowen-yang-leaving-snl/",
+      "source": "singtaousa.com",
+      "published": 1766423772
+    },
     {
       "id": "3449fe0cdff9",
       "title": "亞洲央行降息空間有限 抗川普關稅衝擊 所剩彈藥不多",
@@ -35,6 +56,13 @@
       "url": "https://www.singtaousa.com/2025/12/22/news/usa/trump-signs-order-declaring-christmas-eve-dec-26-federal-holidays/",
       "source": "singtaousa.com",
       "published": 1766422787
+    },
+    {
+      "id": "8cc33c88c392",
+      "title": "金價漲不停衝4,400美元 今年來大漲近七成 40多年來最佳表現",
+      "url": "https://money.udn.com/money/story/5599/9220000",
+      "source": "money.udn.com",
+      "published": 1766422739
     },
     {
       "id": "d081bb3c1c93",
@@ -205,27 +233,6 @@
       "published": 1766412087
     },
     {
-      "id": "5f4752615ba7",
-      "title": "昨天、今天與明天",
-      "url": "https://www.singtaousa.com/2025/12/22/opinion/yesterday-today-tomorrow/",
-      "source": "singtaousa.com",
-      "published": 1766412000
-    },
-    {
-      "id": "72c9a6ad7a94",
-      "title": "我和網約車",
-      "url": "https://www.singtaousa.com/2025/12/22/opinion/online-hailing-car-experience/",
-      "source": "singtaousa.com",
-      "published": 1766412000
-    },
-    {
-      "id": "1219914ca776",
-      "title": "趙金卿「三心兩意」建奇功",
-      "url": "https://www.singtaousa.com/2025/12/22/opinion/chao-golden-heart-charity/",
-      "source": "singtaousa.com",
-      "published": 1766412000
-    },
-    {
       "id": "fed600bf557f",
       "title": "美國特使威特科夫稱美方官員與烏克蘭和歐洲代表舉行了建設性的會談",
       "url": "https://money.udn.com/money/story/5599/9218051",
@@ -252,13 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9218155",
       "source": "money.udn.com",
       "published": 1766410599
-    },
-    {
-      "id": "cabfe9923294",
-      "title": "柬埔寨指控　泰國在東協會議後發動空襲",
-      "url": "https://money.udn.com/money/story/5599/9219815",
-      "source": "money.udn.com",
-      "published": 1766410588
     },
     {
       "id": "db7efa130765",
@@ -1367,5 +1367,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766423418
+  "build_id": 1766425185
 }
