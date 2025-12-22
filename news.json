@@ -1,12 +1,33 @@
 {
-  "updated": 1766378491,
+  "updated": 1766380558,
   "items": [
+    {
+      "id": "e90516aa565d",
+      "title": "濟州航空179死空難　韓國會通過法案啟動獨立調查",
+      "url": "https://money.udn.com/money/story/5599/9218825",
+      "source": "money.udn.com",
+      "published": 1766380372
+    },
+    {
+      "id": "dc9ef5d4ca29",
+      "title": "美國委內瑞拉海上石油戰誰遭殃？這國慘被波及 每日靠3萬桶委油過活",
+      "url": "https://money.udn.com/money/story/5599/9218782",
+      "source": "money.udn.com",
+      "published": 1766379453
+    },
     {
       "id": "b5813d1270b9",
       "title": "印尼高速公路巴士翻覆　至少16人喪生",
       "url": "https://money.udn.com/money/story/5599/9218762",
       "source": "money.udn.com",
       "published": 1766378729
+    },
+    {
+      "id": "6564df058907",
+      "title": "緬甸叛軍控制區平民面臨政府軍空襲與一場被指虛假的選舉",
+      "url": "https://www.bbc.com/zhongwen/articles/c1kp17xjj1mo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1766378621
     },
     {
       "id": "3b1f0a35407e",
@@ -140,20 +161,6 @@
       "url": "https://money.udn.com/money/story/5599/9218291",
       "source": "money.udn.com",
       "published": 1766370151
-    },
-    {
-      "id": "affa925ed13a",
-      "title": "供應鏈重組台商轉向  馬來西亞檳城成高科技熱點",
-      "url": "https://money.udn.com/money/story/5599/9218290",
-      "source": "money.udn.com",
-      "published": 1766370151
-    },
-    {
-      "id": "e17fb9e8a62f",
-      "title": "星艦爆炸暴露飛安風險　FAA文件揭客機一度陷險境",
-      "url": "https://money.udn.com/money/story/5599/9218259",
-      "source": "money.udn.com",
-      "published": 1766369609
     },
     {
       "id": "11be998fbf5a",
@@ -749,13 +756,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cy9520q789zo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766117677
-    },
-    {
-      "id": "ba034e6cfa6b",
-      "title": "Coldplay音樂會爆紅視頻女主角遭持續騷擾，正在找新工作",
-      "url": "https://www.bbc.com/zhongwen/articles/c62d6x6gp8qo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1766115395
     },
     {
       "id": "bab52d6cadde",
@@ -1402,5 +1402,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766378491
+  "build_id": 1766380558
 }
