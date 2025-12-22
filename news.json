@@ -1,6 +1,13 @@
 {
-  "updated": 1766382251,
+  "updated": 1766384317,
   "items": [
+    {
+      "id": "44e522ab5775",
+      "title": "銅價挑戰1.2萬美元新天價 「零加工費」創紀錄：冶煉廠竟要倒貼礦商？",
+      "url": "https://money.udn.com/money/story/5599/9218879",
+      "source": "money.udn.com",
+      "published": 1766382609
+    },
     {
       "id": "df9925586265",
       "title": "愛潑斯坦檔案：美司法部移除至少13份文件，一圖涉特朗普",
@@ -163,13 +170,6 @@
       "published": 1766372089
     },
     {
-      "id": "16b03994ffdc",
-      "title": "「聖誕行情」或正坐著雪橇而來 高盛和城堡證券看好美股表現",
-      "url": "https://money.udn.com/money/story/123398/9218216",
-      "source": "money.udn.com",
-      "published": 1766371807
-    },
-    {
       "id": "6b34cc49516b",
       "title": "施压、突袭、逮捕：中国当局如何镇压锡安教会",
       "url": "https://cn.nytimes.com/china/20251222/china-christian-zion-church-raid/?utm_source=RSS",
@@ -280,6 +280,13 @@
       "url": "https://www.singtaousa.com/2025/12/21/news/china/former-state-councilor-peng-peiyun-passes-away/",
       "source": "singtaousa.com",
       "published": 1766340287
+    },
+    {
+      "id": "9eaef0a8d459",
+      "title": "“奥威尔式的恐惧氛围”：中国如何在海外噤声批评者",
+      "url": "https://cn.nytimes.com/usa/20251222/chinese-dissidents-protest-art/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1766339385
     },
     {
       "id": "f4c97561c9c3",
@@ -1066,13 +1073,6 @@
       "published": 1765855080
     },
     {
-      "id": "382fc68a29aa",
-      "title": "黎智英被判有罪，香港还能容忍多少异见？",
-      "url": "https://cn.nytimes.com/china/20251216/jimmy-lai-guilty-national-security/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1765848110
-    },
-    {
       "id": "f6a4bf2cefa4",
       "title": "線上遊戲逃過澳洲社交媒體禁令，但批評者稱它同樣有成癮性",
       "url": "https://www.bbc.com/zhongwen/articles/cly5194k3g3o/trad?at_medium=RSS&at_campaign=rss",
@@ -1395,5 +1395,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766382251
+  "build_id": 1766384317
 }
