@@ -1,6 +1,34 @@
 {
-  "updated": 1766432023,
+  "updated": 1766434303,
   "items": [
+    {
+      "id": "2a03f6f4c69c",
+      "title": "北加大雨 中谷地區撤離沿河岸營地　應對潛在水浸風險 ｜細說燊語",
+      "url": "https://www.singtaousa.com/2025/12/22/news/modesto-police-urge-temporary-encampments-along-the-tuolumne-river-to-evacuate-to-address-potential-flooding-risks/",
+      "source": "singtaousa.com",
+      "published": 1766434441
+    },
+    {
+      "id": "1ad98b5bd7f3",
+      "title": "【警告】大嶼山芝麻灣11个金塔遭毁坏，警方已列刑事毁坏追查",
+      "url": "https://www.singtaousa.com/2025/12/22/news/china/gold-tank-vou-sabotage-police-investigation/",
+      "source": "singtaousa.com",
+      "published": 1766433887
+    },
+    {
+      "id": "08e526e20559",
+      "title": "愛潑斯坦檔案未全公開　國會揚言告司法部長",
+      "url": "https://www.singtaousa.com/2025/12/22/news/usa/us-epstein-files/",
+      "source": "singtaousa.com",
+      "published": 1766433600
+    },
+    {
+      "id": "4433c3242b70",
+      "title": "愛潑斯坦檔案含特朗普照片，美司法部一度移除引發政治爭議",
+      "url": "https://www.singtaousa.com/2025/12/22/news/usa/us-justice-department-restores-photo-featuring-trump-from-epstein-files-2/",
+      "source": "singtaousa.com",
+      "published": 1766432400
+    },
     {
       "id": "a9cab1b4fa9a",
       "title": "香港巴士與私家車相撞，衝毀燈柱與鐵欄",
@@ -58,39 +86,11 @@
       "published": 1766428489
     },
     {
-      "id": "ddbecee35b90",
-      "title": "特朗普任命特使稱將助格陵蘭成為美國一部分   丹麥不滿將召見美大使",
-      "url": "https://www.singtaousa.com/2025/12/22/news/world/us-greenland-envoy/",
-      "source": "singtaousa.com",
-      "published": 1766428200
-    },
-    {
-      "id": "8fe6f32095f2",
-      "title": "上海網紅麵店廚房髒亂與食材過期曝光",
-      "url": "https://www.singtaousa.com/2025/12/22/news/china/shops-kitchen-hygridient-violations-exposed/",
-      "source": "singtaousa.com",
-      "published": 1766426685
-    },
-    {
       "id": "2cc7576b0296",
       "title": "耶誕假期逼近　歐洲股市收盤小跌",
       "url": "https://money.udn.com/money/story/5599/9220160",
       "source": "money.udn.com",
       "published": 1766426671
-    },
-    {
-      "id": "629a4dd7882d",
-      "title": "新澤西州警長陷波士頓酒店綁架案，面臨多項重罪指控",
-      "url": "https://www.singtaousa.com/2025/12/22/news/usa/nj-police-chief-indicted-for-kidnapping-assault-at-boston-hotel/",
-      "source": "singtaousa.com",
-      "published": 1766426400
-    },
-    {
-      "id": "d4ad44740866",
-      "title": "中國批評特朗普下令扣押油輪　指美方行徑違反國際法",
-      "url": "https://www.singtaousa.com/2025/12/22/news/world/us-venezuela-oil-seizure/",
-      "source": "singtaousa.com",
-      "published": 1766426324
     },
     {
       "id": "49b1c4c6f236",
@@ -219,13 +219,6 @@
       "published": 1766419840
     },
     {
-      "id": "843841250e78",
-      "title": "美智庫估中國今年實質經濟成長率2.5%至3%　遠低於官宣目標",
-      "url": "https://money.udn.com/money/story/5599/9220101",
-      "source": "money.udn.com",
-      "published": 1766418867
-    },
-    {
       "id": "7280cbfcb527",
       "title": "法国益普生购得中国先声再明抗癌新药大中华区外的全球授权",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251222-%E6%B3%95%E5%9B%BD%E7%9B%8A%E6%99%AE%E7%94%9F%E8%B4%AD%E5%BE%97%E4%B8%AD%E5%9B%BD%E5%85%88%E5%A3%B0%E5%86%8D%E6%98%8E%E6%8A%97%E7%99%8C%E6%96%B0%E8%8D%AF%E5%A4%A7%E4%B8%AD%E5%8D%8E%E5%8C%BA%E5%A4%96%E7%9A%84%E5%85%A8%E7%90%83%E6%8E%88%E6%9D%83",
@@ -245,6 +238,13 @@
       "url": "https://money.udn.com/money/story/5599/9215314",
       "source": "money.udn.com",
       "published": 1766416818
+    },
+    {
+      "id": "94093436f526",
+      "title": "美國對敘利亞實施打擊行動 兌現川普復仇承諾",
+      "url": "https://money.udn.com/money/story/5599/9216575",
+      "source": "money.udn.com",
+      "published": 1766415913
     },
     {
       "id": "ff98fa8c74e6",
@@ -1367,5 +1367,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766432023
+  "build_id": 1766434303
 }
