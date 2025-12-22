@@ -1,6 +1,27 @@
 {
-  "updated": 1766387762,
+  "updated": 1766389263,
   "items": [
+    {
+      "id": "cae7c7d839b1",
+      "title": "港大以「不可抗力因素」拒绝学生悼念大埔火灾　是学界月内第二宗",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251222-%E6%B8%AF%E5%A4%A7%E4%BB%A5-%E4%B8%8D%E5%8F%AF%E6%8A%97%E5%8A%9B%E5%9B%A0%E7%B4%A0-%E6%8B%92%E7%BB%9D%E5%AD%A6%E7%94%9F%E6%82%BC%E5%BF%B5%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE-%E6%98%AF%E5%AD%A6%E7%95%8C%E6%9C%88%E5%86%85%E7%AC%AC%E4%BA%8C%E5%AE%97",
+      "source": "rfi.fr",
+      "published": 1766388680
+    },
+    {
+      "id": "3ca8035a0c10",
+      "title": "影/升空畫面曝！日本H3火箭8號機發射失敗 「日本版GPS」再卡關",
+      "url": "https://money.udn.com/money/story/5599/9219089",
+      "source": "money.udn.com",
+      "published": 1766388487
+    },
+    {
+      "id": "9d3feba3f7c7",
+      "title": "美扣押香港公司运油船　疑涉为中国往委内瑞拉载油",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251222-%E7%BE%8E%E6%89%A3%E6%8A%BC%E9%A6%99%E6%B8%AF%E5%85%AC%E5%8F%B8%E8%BF%90%E6%B2%B9%E8%88%B9-%E7%96%91%E6%B6%89%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E8%BD%BD%E6%B2%B9",
+      "source": "rfi.fr",
+      "published": 1766388469
+    },
     {
       "id": "5e3628583fb2",
       "title": "以色列法院裁定　以政府須回應外媒入加薩採訪申請",
@@ -154,13 +175,6 @@
       "url": "https://money.udn.com/money/story/5599/9218570",
       "source": "money.udn.com",
       "published": 1766374805
-    },
-    {
-      "id": "6d732da35cf0",
-      "title": "價格差一倍 南韓餐廳改用陸製泡菜 本土泡菜救得回市場嗎？",
-      "url": "https://money.udn.com/money/story/5599/9218526",
-      "source": "money.udn.com",
-      "published": 1766374122
     },
     {
       "id": "023c1c640640",
@@ -590,25 +604,11 @@
       "published": 1766274471
     },
     {
-      "id": "fa2afe080f0a",
-      "title": "美FBI起诉中国籍博士后研究员涉走私大肠杆菌",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E7%BE%8Efbi%E8%B5%B7%E8%AF%89%E4%B8%AD%E5%9B%BD%E7%B1%8D%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%A0%94%E7%A9%B6%E5%91%98%E6%B6%89%E8%B5%B0%E7%A7%81%E5%A4%A7%E8%82%A0%E6%9D%86%E8%8F%8C",
-      "source": "rfi.fr",
-      "published": 1766271501
-    },
-    {
       "id": "2c298997568e",
       "title": "特朗普不见踪影 爱泼斯坦性犯罪档案为何部分公布",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E8%A7%81%E8%B8%AA%E5%BD%B1-%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%80%A7%E7%8A%AF%E7%BD%AA%E6%A1%A3%E6%A1%88%E4%B8%BA%E4%BD%95%E9%83%A8%E5%88%86%E5%85%AC%E5%B8%83",
       "source": "rfi.fr",
       "published": 1766269750
-    },
-    {
-      "id": "11abc862660c",
-      "title": "美议员指法国阻止披露空客在华业务 涉中国军方利益",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E7%BE%8E%E5%9B%BD%E5%AE%98%E5%91%98%E6%8C%87%E6%B3%95%E5%9B%BD%E9%98%BB%E6%AD%A2%E6%8A%AB%E9%9C%B2%E7%A9%BA%E5%AE%A2%E5%9C%A8%E5%8D%8E%E4%B8%9A%E5%8A%A1-%E6%B6%89%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E5%88%A9%E7%9B%8A",
-      "source": "rfi.fr",
-      "published": 1766266547
     },
     {
       "id": "1363395c47fa",
@@ -1395,5 +1395,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766387762
+  "build_id": 1766389263
 }
