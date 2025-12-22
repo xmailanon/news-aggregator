@@ -1,6 +1,27 @@
 {
-  "updated": 1766391422,
+  "updated": 1766393384,
   "items": [
+    {
+      "id": "2162b9ee92c4",
+      "title": "日中關係續緊張  未來2週中日46條航線班機清零",
+      "url": "https://money.udn.com/money/story/5599/9219266",
+      "source": "money.udn.com",
+      "published": 1766393132
+    },
+    {
+      "id": "05b4b3174cff",
+      "title": "別怕日圓沒甜甜價！就算日銀還會再升息 利差交易仍有",
+      "url": "https://money.udn.com/money/story/122381/9219252",
+      "source": "money.udn.com",
+      "published": 1766392662
+    },
+    {
+      "id": "01fee45ceed6",
+      "title": "地缘政治紧张 中国廉价AI模型仍脱颖而出",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251222-%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E7%B4%A7%E5%BC%A0-%E4%B8%AD%E5%9B%BD%E5%BB%89%E4%BB%B7ai%E6%A8%A1%E5%9E%8B%E4%BB%8D%E8%84%B1%E9%A2%96%E8%80%8C%E5%87%BA",
+      "source": "rfi.fr",
+      "published": 1766392245
+    },
     {
       "id": "4081a78dc1e8",
       "title": "哪些人最支持高市早苗？共同社民調：勞動人口支持率破70%",
@@ -154,20 +175,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cedxj9l2vqno/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766381895
-    },
-    {
-      "id": "b73261ea9dec",
-      "title": "韓外長：正協調2026年初舉行韓中峰會",
-      "url": "https://money.udn.com/money/story/10511/9218863",
-      "source": "money.udn.com",
-      "published": 1766381796
-    },
-    {
-      "id": "678f0b3153b9",
-      "title": "日本議員接力訪台  訪中受阻出現「外交溫差」",
-      "url": "https://money.udn.com/money/story/5599/9218861",
-      "source": "money.udn.com",
-      "published": 1766381795
     },
     {
       "id": "0454942d031d",
@@ -616,13 +623,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251220-%E7%BE%8E%E5%9B%BD%E6%8F%90%E8%AE%AE%E4%B8%BE%E8%A1%8C%E7%BE%8E-%E4%BF%84-%E4%B9%8C%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%BC%E5%90%81%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%A4%A7%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%BD%E5%8E%8B",
       "source": "rfi.fr",
       "published": 1766266000
-    },
-    {
-      "id": "af1bb8c55979",
-      "title": "非洲多国与俄罗斯部长级会议",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20251220-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E5%A4%9A%E5%9B%BD%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E9%83%A8%E9%95%BF%E7%BA%A7%E4%BC%9A%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1766257592
     },
     {
       "id": "1332ddab8472",
@@ -1395,5 +1395,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766391422
+  "build_id": 1766393384
 }
