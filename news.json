@@ -1,6 +1,20 @@
 {
-  "updated": 1766418068,
+  "updated": 1766419987,
   "items": [
+    {
+      "id": "376cadeef0e2",
+      "title": "英伟达H200拟春节前向中供货，腾讯借道日本获美尖端算力",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251222-%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E6%8B%9F%E6%98%A5%E8%8A%82%E5%89%8D%E5%90%91%E4%B8%AD%E4%BE%9B%E8%B4%A7%EF%BC%8C%E8%85%BE%E8%AE%AF%E5%80%9F%E9%81%93%E6%97%A5%E6%9C%AC%E8%8E%B7%E7%BE%8E%E5%B0%96%E7%AB%AF%E7%AE%97%E5%8A%9B",
+      "source": "rfi.fr",
+      "published": 1766419901
+    },
+    {
+      "id": "843841250e78",
+      "title": "美智庫估中國今年實質經濟成長率2.5%至3%　遠低於官宣目標",
+      "url": "https://money.udn.com/money/story/5599/9220101",
+      "source": "money.udn.com",
+      "published": 1766418867
+    },
     {
       "id": "7280cbfcb527",
       "title": "法国益普生购得中国先声再明抗癌新药大中华区外的全球授权",
@@ -254,13 +268,6 @@
       "published": 1766408071
     },
     {
-      "id": "e75c73643125",
-      "title": "輝達輸陸 H200晶片 傳首批農曆春節前出貨",
-      "url": "https://money.udn.com/money/story/5599/9219764",
-      "source": "money.udn.com",
-      "published": 1766408023
-    },
-    {
       "id": "79c1989ec762",
       "title": "特朗普高调任命格陵兰特使 丹麦警告美国应尊重主权",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251222-%E7%89%B9%E6%9C%97%E6%99%AE%E9%AB%98%E8%B0%83%E4%BB%BB%E5%91%BD%E6%A0%BC%E9%99%B5%E5%85%B0%E7%89%B9%E4%BD%BF-%E4%B8%B9%E9%BA%A6%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%E5%BA%94%E5%B0%8A%E9%87%8D%E4%B8%BB%E6%9D%83",
@@ -282,16 +289,16 @@
       "published": 1766403720
     },
     {
-      "id": "efef2c5425fc",
-      "title": "白宫：自今年1月以来关税收入达2350亿美元",
-      "url": "https://www.dw.com/zh/白宫：自今年1月以来关税收入达2350亿美元/a-75264979?maca=chi-rss-chi-all-1127-rdf",
+      "id": "c98f733034db",
+      "title": "一名俄罗斯中将在汽车炸弹袭击中丧生",
+      "url": "https://www.dw.com/zh/一名俄罗斯中将在汽车炸弹袭击中丧生/a-75264894?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1766403660
     },
     {
-      "id": "c98f733034db",
-      "title": "一名俄罗斯中将在汽车炸弹袭击中丧生",
-      "url": "https://www.dw.com/zh/一名俄罗斯中将在汽车炸弹袭击中丧生/a-75264894?maca=chi-rss-chi-all-1127-rdf",
+      "id": "efef2c5425fc",
+      "title": "白宫：自今年1月以来关税收入达2350亿美元",
+      "url": "https://www.dw.com/zh/白宫：自今年1月以来关税收入达2350亿美元/a-75264979?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1766403660
     },
@@ -597,13 +604,6 @@
       "published": 1766330065
     },
     {
-      "id": "30083fc9ecd0",
-      "title": "《观点》周刊封面专题：中国——令世界瞠目的帝国",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251221-%E8%A7%82%E7%82%B9-%E5%91%A8%E5%88%8A%E5%B0%81%E9%9D%A2%E4%B8%93%E9%A2%98-%E4%B8%AD%E5%9B%BD-%E4%BB%A4%E4%B8%96%E7%95%8C%E7%9E%A0%E7%9B%AE%E7%9A%84%E5%B8%9D%E5%9B%BD",
-      "source": "rfi.fr",
-      "published": 1766328743
-    },
-    {
       "id": "3b60a526ecc9",
       "title": "德国工程师写下历史：首位轮椅使用者圆梦太空",
       "url": "https://www.dw.com/zh/德国工程师写下历史：首位轮椅使用者圆梦太空/a-75257504?maca=chi-rss-chi-news-3224-rdf",
@@ -742,6 +742,13 @@
       "url": "https://www.dw.com/zh/普京召开年度记者会-称-完全掌握战略主动权/a-75246335?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1766157300
+    },
+    {
+      "id": "4b1e0f73a4a7",
+      "title": "欧盟推迟签署南方共同市场贸易协定",
+      "url": "https://www.dw.com/zh/欧盟推迟签署南方共同市场贸易协定/a-75244130?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1766153280
     },
     {
       "id": "4a26d2194ecd",
@@ -1367,5 +1374,5 @@
       "published": 1763889720
     }
   ],
-  "build_id": 1766418068
+  "build_id": 1766419987
 }
