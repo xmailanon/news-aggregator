@@ -1,6 +1,13 @@
 {
-  "updated": 1766608816,
+  "updated": 1766610556,
   "items": [
+    {
+      "id": "e4410042110f",
+      "title": "特朗普2,000美元關稅回饋承諾 進入2026年仍無時間表",
+      "url": "https://www.singtaousa.com/2025/12/24/news/usa/trump-tariff-rebate-2026/",
+      "source": "singtaousa.com",
+      "published": 1766610000
+    },
     {
       "id": "c41e0742cd1f",
       "title": "路透社：中国对欧盟乳制品征收关税 是为了保护国内亏损严重的乳制品行业",
@@ -105,13 +112,6 @@
       "url": "https://www.singtaousa.com/2025/12/24/news/usa/sacramento-homeowner-fined-38607-for-tenant-setting-off-fireworks-and-files-in-court-to-challenge-citys-new-fine/",
       "source": "singtaousa.com",
       "published": 1766603362
-    },
-    {
-      "id": "377e3dbffc42",
-      "title": "歐盟警告或採取行動 回應美國禁止5名歐洲人士入境",
-      "url": "https://www.singtaousa.com/2025/12/24/news/usa/eu-us-visa-censorship-dispute/",
-      "source": "singtaousa.com",
-      "published": 1766603284
     },
     {
       "id": "76e1b966369c",
@@ -1206,5 +1206,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766608816
+  "build_id": 1766610556
 }
