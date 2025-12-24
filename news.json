@@ -1,6 +1,41 @@
 {
-  "updated": 1766574643,
+  "updated": 1766576171,
   "items": [
+    {
+      "id": "ea9f8f6aa20d",
+      "title": "宏都拉斯總統大選重新計票　傳最快24日公布當選人",
+      "url": "https://money.udn.com/money/story/10511/9224561",
+      "source": "money.udn.com",
+      "published": 1766575847
+    },
+    {
+      "id": "0e66dd7947b7",
+      "title": "美國最高法院駁回川普在芝加哥動用國民警衛隊的請求",
+      "url": "https://money.udn.com/money/story/10511/9223120",
+      "source": "money.udn.com",
+      "published": 1766575587
+    },
+    {
+      "id": "8c59ae587af3",
+      "title": "澤倫斯基公布美烏和平計畫　納烏訴求但領土爭議仍棘手",
+      "url": "https://money.udn.com/money/story/5599/9224542",
+      "source": "money.udn.com",
+      "published": 1766575550
+    },
+    {
+      "id": "51a2a7322713",
+      "title": "華爾街日報：BP 據悉接近達成協議 向 Stonepeak 出售嘉實多65%股份",
+      "url": "https://money.udn.com/money/story/5599/9223534",
+      "source": "money.udn.com",
+      "published": 1766575550
+    },
+    {
+      "id": "3e8e2eec7866",
+      "title": "日本和美國同意加快推進5500億美元對美投資項目",
+      "url": "https://money.udn.com/money/story/5599/9224213",
+      "source": "money.udn.com",
+      "published": 1766575524
+    },
     {
       "id": "aa6f7c6b7ffe",
       "title": "川普不挺電動車掀漣漪 LGES 出售俄亥俄州電池廠",
@@ -240,46 +275,11 @@
       "published": 1766563552
     },
     {
-      "id": "0b724f754dac",
-      "title": "維持貿易休兵　川普政府推遲對中半導體加徵關稅",
-      "url": "https://money.udn.com/money/story/5599/9224076",
-      "source": "money.udn.com",
-      "published": 1766563223
-    },
-    {
-      "id": "1f71e1f250fb",
-      "title": "如何解讀美對中晶片關稅延期？紐時：美正拿捏尺寸避免中方強烈反彈",
-      "url": "https://money.udn.com/money/story/5599/9224036",
-      "source": "money.udn.com",
-      "published": 1766562451
-    },
-    {
-      "id": "001d2b843dc3",
-      "title": "日本熊災促熊肉料理爆紅　野味餐廳一位難求",
-      "url": "https://money.udn.com/money/story/5599/9224022",
-      "source": "money.udn.com",
-      "published": 1766561851
-    },
-    {
-      "id": "ac62a55f2986",
-      "title": "邊境衝突影響　吳哥古蹟遊客銳減、業者生意慘淡",
-      "url": "https://money.udn.com/money/story/5599/9224021",
-      "source": "money.udn.com",
-      "published": 1766561851
-    },
-    {
       "id": "e59261deac89",
       "title": "移民爭議導致美籍教宗與美國政府走向決裂？",
       "url": "https://www.bbc.com/zhongwen/articles/cjwy5vzz4ggo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766561662
-    },
-    {
-      "id": "14e7d111273e",
-      "title": "假期交易清淡　日股收低",
-      "url": "https://money.udn.com/money/story/5599/9224006",
-      "source": "money.udn.com",
-      "published": 1766561440
     },
     {
       "id": "4d34826d6f4b",
@@ -364,6 +364,13 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251223-%E5%A3%B0%E6%8F%B4-%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%A1%8C%E5%8A%A8-%E9%80%9A%E8%B4%9D%E9%87%8C-greta-thunberg-%E8%A2%AB%E6%8D%95",
       "source": "rfi.fr",
       "published": 1766516329
+    },
+    {
+      "id": "d6d13bcadd7e",
+      "title": "中国成为奢侈食品重要生产国",
+      "url": "https://www.ftchinese.com/story/001108527",
+      "source": "ftchinese.com",
+      "published": 1766505600
     },
     {
       "id": "63d04f27c82c",
@@ -712,13 +719,6 @@
       "id": "0437c1fdc25c",
       "title": "“独身女子逝世，买不买墓碑”的背后，是丧葬制度",
       "url": "https://www.ftchinese.com/story/001108504",
-      "source": "ftchinese.com",
-      "published": 1766419200
-    },
-    {
-      "id": "8386f20db192",
-      "title": "信息披露监管手段的泛化使用和合理边界的选择",
-      "url": "https://www.ftchinese.com/story/001108506",
       "source": "ftchinese.com",
       "published": 1766419200
     },
@@ -1213,5 +1213,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766574643
+  "build_id": 1766576171
 }
