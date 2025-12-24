@@ -1,9 +1,23 @@
 {
-  "updated": 1766585417,
+  "updated": 1766587242,
   "items": [
     {
+      "id": "a3ca30b87fb6",
+      "title": "习近平晋升东部中部战区上将：港媒与日媒曝玄机",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251224-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%99%8B%E5%8D%87%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%9C%E9%83%A8%E4%B8%AD%E9%83%A8%E6%88%98%E5%8C%BA%E4%B8%8A%E5%B0%86-%E6%B8%AF%E5%AA%92%E4%B8%8E%E6%97%A5%E5%AA%92%E6%9B%9D%E7%8E%84%E6%9C%BA",
+      "source": "rfi.fr",
+      "published": 1766586681
+    },
+    {
+      "id": "375879d4ea40",
+      "title": "烏干達大選將至　星鏈衛星網路服務遭限制進口惹議",
+      "url": "https://money.udn.com/money/story/5599/9224797",
+      "source": "money.udn.com",
+      "published": 1766586130
+    },
+    {
       "id": "fd6ad1274f77",
-      "title": "哈瑪斯襲以　前親信稱尼坦雅胡指示規避安全破口責任",
+      "title": "哈瑪斯襲以　前親信稱內唐亞胡指示規避安全破口責任",
       "url": "https://money.udn.com/money/story/5599/9224786",
       "source": "money.udn.com",
       "published": 1766585531
@@ -252,13 +266,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251224-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%89%BF%E8%AF%BA%E5%9C%A8%E7%AD%BE%E7%BD%B2%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E5%90%8E%E4%B8%BE%E8%A1%8C%E9%80%89%E4%B8%BE-%E6%96%B0%E6%96%B9%E6%A1%88%E5%B9%B6%E4%B8%8D%E8%A6%81%E6%B1%82%E4%B9%8C%E5%85%8B%E5%85%B0%E6%94%BE%E5%BC%83%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6",
       "source": "rfi.fr",
       "published": 1766577405
-    },
-    {
-      "id": "36f2d7c2dd83",
-      "title": "澳元升至逾一年高位 市場押注澳洲央行明年將轉向升息",
-      "url": "https://money.udn.com/money/story/5599/9223535",
-      "source": "money.udn.com",
-      "published": 1766576616
     },
     {
       "id": "4d47d73fe845",
@@ -637,13 +644,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cvg17z3z2elo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766480628
-    },
-    {
-      "id": "f9874437e270",
-      "title": "美国禁止大疆等外国无人机新机型进口及在美销售",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251223-%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E5%A4%A7%E7%96%86%E7%AD%89%E5%A4%96%E5%9B%BD%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B0%E6%9C%BA%E5%9E%8B%E8%BF%9B%E5%8F%A3%E5%8F%8A%E5%9C%A8%E7%BE%8E%E9%94%80%E5%94%AE",
-      "source": "rfi.fr",
-      "published": 1766480513
     },
     {
       "id": "590dd3785ee0",
@@ -1213,5 +1213,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766585417
+  "build_id": 1766587242
 }
