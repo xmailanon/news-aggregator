@@ -1,10 +1,31 @@
 {
-  "updated": 1766589085,
+  "updated": 1766590816,
   "items": [
     {
-      "id": "e19fa57d46f2",
-      "title": "NVIDIA年底反彈在望！2026運勢緊盯2大OpenAI進展",
-      "url": "https://money.udn.com/money/story/5599/9224878",
+      "id": "4ab527e64dd5",
+      "title": "泰国与柬埔寨就恢复停火展开谈判 冲突迄今已有86人死亡",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251224-%E6%B3%B0%E5%9B%BD%E4%B8%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%B0%B1%E6%81%A2%E5%A4%8D%E5%81%9C%E7%81%AB%E5%B1%95%E5%BC%80%E8%B0%88%E5%88%A4",
+      "source": "rfi.fr",
+      "published": 1766589726
+    },
+    {
+      "id": "568d19f5ae19",
+      "title": "耶誕大餐怎樣才吃不胖 營養專家揭可仿效這國民眾",
+      "url": "https://money.udn.com/money/story/5599/9224938",
+      "source": "money.udn.com",
+      "published": 1766589644
+    },
+    {
+      "id": "bc1d46c1e87b",
+      "title": "俄羅斯2026年恐升級對歐混合戰　英國籲全民防衛",
+      "url": "https://money.udn.com/money/story/5599/9224899",
+      "source": "money.udn.com",
+      "published": 1766589145
+    },
+    {
+      "id": "6e5ceb78b357",
+      "title": "NVIDIA 年底反彈在望！2026運勢緊盯2大 OpenAI 進展",
+      "url": "https://money.udn.com/money/story/123398/9224878",
       "source": "money.udn.com",
       "published": 1766588830
     },
@@ -238,20 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9224216",
       "source": "money.udn.com",
       "published": 1766579722
-    },
-    {
-      "id": "08f39c86d5ef",
-      "title": "「殭屍油輪」將現蹤委內瑞拉 揭示川普已盯上石油運輸的至暗角落",
-      "url": "https://money.udn.com/money/story/5599/9224217",
-      "source": "money.udn.com",
-      "published": 1766579609
-    },
-    {
-      "id": "11a7d6bf1208",
-      "title": "首相高市擬明年3月首次訪美　日本政府詢問美方意向",
-      "url": "https://money.udn.com/money/story/5599/9224666",
-      "source": "money.udn.com",
-      "published": 1766579446
     },
     {
       "id": "92122559158d",
@@ -644,13 +651,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cvg17z3z2elo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766480628
-    },
-    {
-      "id": "590dd3785ee0",
-      "title": "特朗普宣布建造“Trump”等级能携带极音速和核导弹的全新型战舰：“用来应对所有人不只中国”",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251223-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%BB%BA%E9%80%A0-trump-%E7%AD%89%E7%BA%A7%E8%83%BD%E6%90%BA%E5%B8%A6%E6%9E%81%E9%9F%B3%E9%80%9F%E5%92%8C%E6%A0%B8%E5%AF%BC%E5%BC%B9%E7%9A%84%E5%85%A8%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0-%E7%94%A8%E6%9D%A5%E5%AF%B9%E4%BB%98%E6%89%80%E6%9C%89%E4%BA%BA%E4%B8%8D%E5%8F%AA%E4%B8%AD%E5%9B%BD",
-      "source": "rfi.fr",
-      "published": 1766479204
     },
     {
       "id": "a68a8956312e",
@@ -1213,5 +1213,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766589085
+  "build_id": 1766590816
 }
