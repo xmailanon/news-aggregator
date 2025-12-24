@@ -1,6 +1,34 @@
 {
-  "updated": 1766617819,
+  "updated": 1766619428,
   "items": [
+    {
+      "id": "19b97cc9cb67",
+      "title": "台積電ADR五連漲  較台北交易溢價25.69%",
+      "url": "https://money.udn.com/money/story/5599/9225210",
+      "source": "money.udn.com",
+      "published": 1766619042
+    },
+    {
+      "id": "32d173e54e9e",
+      "title": "女子領養病危寄養犬 讓牠以家人身份度過最後一夜 感動萬千網友",
+      "url": "https://www.singtaousa.com/2025/12/24/news/usa/woman-adopts-foster-dog-before-he-s-put-down-so-he-can-have-a-family/",
+      "source": "singtaousa.com",
+      "published": 1766619000
+    },
+    {
+      "id": "2be6d5061818",
+      "title": "美股收盤／道瓊工業指數與標普500指數創新高 耶誕行情開啟",
+      "url": "https://money.udn.com/money/story/5599/9225209",
+      "source": "money.udn.com",
+      "published": 1766618669
+    },
+    {
+      "id": "3f0c2a735e2c",
+      "title": "利奥十四世主持教宗任期内的首场圣诞弥撒",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251224-%E5%88%A9%E5%A5%A5%E5%8D%81%E5%9B%9B%E4%B8%96%E4%B8%BB%E6%8C%81%E6%95%99%E5%AE%97%E4%BB%BB%E6%9C%9F%E5%86%85%E7%9A%84%E9%A6%96%E5%9C%BA%E5%9C%A3%E8%AF%9E%E5%BC%A5%E6%92%92",
+      "source": "rfi.fr",
+      "published": 1766618376
+    },
     {
       "id": "31489a107381",
       "title": "愛潑斯坦檔案解密現瓶頸？美司法部節日急尋志願者加速審查",
@@ -119,13 +147,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251224-%E8%B7%AF%E9%80%8F%E7%A4%BE-%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%AC%A7%E7%9B%9F%E4%B9%B3%E5%88%B6%E5%93%81%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E-%E6%98%AF%E4%B8%BA%E4%BA%86%E4%BF%9D%E6%8A%A4%E5%9B%BD%E5%86%85%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D%E7%9A%84%E4%B9%B3%E5%88%B6%E5%93%81%E8%A1%8C%E4%B8%9A",
       "source": "rfi.fr",
       "published": 1766608705
-    },
-    {
-      "id": "d976c9ef6097",
-      "title": "美國的北極野心：特朗普為何不惜一切代價也要得到格陵蘭？",
-      "url": "https://www.singtaousa.com/2025/12/24/news/world/denmark-responds-trump-naming-greenland/",
-      "source": "singtaousa.com",
-      "published": 1766608200
     },
     {
       "id": "271d70ad54ea",
@@ -266,20 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/9224894",
       "source": "money.udn.com",
       "published": 1766597029
-    },
-    {
-      "id": "2a5a2207734d",
-      "title": "亞幣全漲 人民幣升破7",
-      "url": "https://money.udn.com/money/story/5599/9224951",
-      "source": "money.udn.com",
-      "published": 1766596973
-    },
-    {
-      "id": "9044061cc69e",
-      "title": "散戶買美股 占比達25%",
-      "url": "https://money.udn.com/money/story/123398/9224892",
-      "source": "money.udn.com",
-      "published": 1766596954
     },
     {
       "id": "3ab16e8b1d81",
@@ -525,13 +532,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251223-%E7%BE%8E%E5%B9%B4%E5%BA%95%E5%89%8D%E7%A6%BB%E5%A2%83%E5%A5%96%E5%8A%B1%E4%BB%8E1000%E7%BE%8E%E5%85%83%E4%B8%8A%E8%B0%83%E8%87%B33000%E7%BE%8E%E5%85%83",
       "source": "rfi.fr",
       "published": 1766523649
-    },
-    {
-      "id": "2a76ec307b32",
-      "title": "法国议会批准“特别预算法”",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251223-%E6%B3%95%E5%9B%BD%E8%AE%AE%E4%BC%9A%E6%89%B9%E5%87%86-%E7%89%B9%E5%88%AB%E9%A2%84%E7%AE%97%E6%B3%95",
-      "source": "rfi.fr",
-      "published": 1766523406
     },
     {
       "id": "231b30fbe330",
@@ -1206,5 +1206,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766617819
+  "build_id": 1766619428
 }
