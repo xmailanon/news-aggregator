@@ -1,6 +1,41 @@
 {
-  "updated": 1766686507,
+  "updated": 1766688502,
   "items": [
+    {
+      "id": "bd947cae4e7f",
+      "title": "聖誕北上注意！廣東氣溫急降，粵北現冰掛，深圳周五低見10℃",
+      "url": "https://www.singtaousa.com/2025/12/25/news/china/guangdong-temperature-drop-shenzhen-cold/",
+      "source": "singtaousa.com",
+      "published": 1766687688
+    },
+    {
+      "id": "c84b9d56660c",
+      "title": "烏克蘭出動國產無人機及英製飛彈　空襲俄國油氣設施",
+      "url": "https://money.udn.com/money/story/5599/9226650",
+      "source": "money.udn.com",
+      "published": 1766687418
+    },
+    {
+      "id": "1927641a61f5",
+      "title": "新創公司Groq大有來頭 川普長子是合夥人",
+      "url": "https://money.udn.com/money/story/5599/9226560",
+      "source": "money.udn.com",
+      "published": 1766687091
+    },
+    {
+      "id": "317133ed53c5",
+      "title": "酷澎稱僅3000個資遭留存未外流　韓國政府：待調查",
+      "url": "https://money.udn.com/money/story/5599/9226647",
+      "source": "money.udn.com",
+      "published": 1766686889
+    },
+    {
+      "id": "8d91f18453d2",
+      "title": "聚焦結束俄烏戰爭 烏克蘭總統澤倫斯基：與美國特使有「非常好」會談",
+      "url": "https://money.udn.com/money/story/5599/9226648",
+      "source": "money.udn.com",
+      "published": 1766686888
+    },
     {
       "id": "6ed444ea8dbc",
       "title": "珠海機場創歷史新高！年旅客量首破1300萬人次",
@@ -212,13 +247,6 @@
       "published": 1766671200
     },
     {
-      "id": "fb328ff34960",
-      "title": "Waymo可能整合谷歌AI助理",
-      "url": "https://www.singtaousa.com/2025/12/25/news/usa/waymo-google-ai-integration/",
-      "source": "singtaousa.com",
-      "published": 1766671200
-    },
-    {
       "id": "00f239c17424",
       "title": "克宮：正分析調解文件　將根據普丁決定續對美溝通",
       "url": "https://money.udn.com/money/story/5599/9226336",
@@ -254,13 +282,6 @@
       "published": 1766666364
     },
     {
-      "id": "14047ddde616",
-      "title": "CNN點名2026全球權力關鍵年  7件大事含台海局勢",
-      "url": "https://money.udn.com/money/story/5599/9226228",
-      "source": "money.udn.com",
-      "published": 1766664415
-    },
-    {
       "id": "88472057548a",
       "title": "与韩美争锋 金正恩视察核潜艇工厂，普京盛赞俄朝“无敌”友谊",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251225-%E4%B8%8E%E9%9F%A9%E7%BE%8E%E4%BA%89%E9%94%8B-%E9%87%91%E6%AD%A3%E6%81%A9%E8%A7%86%E5%AF%9F%E6%A0%B8%E6%BD%9C%E8%89%87%E5%B7%A5%E5%8E%82%EF%BC%8C%E6%99%AE%E4%BA%AC%E8%B5%9E%E6%89%AC%E4%BF%84%E6%9C%9D-%E6%97%A0%E6%95%8C-%E5%8F%8B%E8%B0%8A",
@@ -268,32 +289,11 @@
       "published": 1766663973
     },
     {
-      "id": "87afc709acba",
-      "title": "駐土耳其代表校園演講　闡述台灣於印太地區重要性",
-      "url": "https://money.udn.com/money/story/5599/9226224",
-      "source": "money.udn.com",
-      "published": 1766663646
-    },
-    {
-      "id": "48d0b2f224a6",
-      "title": "耶誕節假期交易清淡亞股走勢分歧　美股攀新高助攻",
-      "url": "https://money.udn.com/money/story/123398/9226214",
-      "source": "money.udn.com",
-      "published": 1766663151
-    },
-    {
       "id": "4e3f8083f5c2",
       "title": "中国商务部回应TikTok在美设合资公司",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251225-%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E5%9B%9E%E5%BA%94tiktok%E5%9C%A8%E7%BE%8E%E8%AE%BE%E5%90%88%E8%B5%84%E5%85%AC%E5%8F%B8",
       "source": "rfi.fr",
       "published": 1766662986
-    },
-    {
-      "id": "26867bf63d01",
-      "title": "伊斯蘭國謀劃耶誕和新年攻擊　土耳其拘捕115人",
-      "url": "https://money.udn.com/money/story/5599/9226204",
-      "source": "money.udn.com",
-      "published": 1766662232
     },
     {
       "id": "441567b98932",
@@ -1178,5 +1178,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766686507
+  "build_id": 1766688502
 }
