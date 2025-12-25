@@ -1,6 +1,20 @@
 {
-  "updated": 1766673645,
+  "updated": 1766675428,
   "items": [
+    {
+      "id": "56ac4576749d",
+      "title": "美-委局势一触即发：为何中国与俄罗斯现在出手力挺马杜罗",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20251225-%E7%BE%8E-%E5%A7%94%E5%B1%80%E5%8A%BF%E4%B8%80%E8%A7%A6%E5%8D%B3%E5%8F%91-%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E7%8E%B0%E5%9C%A8%E5%87%BA%E6%89%8B%E5%8A%9B%E6%8C%BA%E9%A9%AC%E6%9D%9C%E7%BD%97",
+      "source": "rfi.fr",
+      "published": 1766675214
+    },
+    {
+      "id": "c616150a49b5",
+      "title": "烏克蘭和平談判　俄羅斯外交部：緩慢穩定進行",
+      "url": "https://money.udn.com/money/story/10511/9226443",
+      "source": "money.udn.com",
+      "published": 1766674840
+    },
     {
       "id": "e1366b54820b",
       "title": "11月中国市场外资品牌手机出货量同比翻倍 iPhone成功逆袭？",
@@ -345,13 +359,6 @@
       "published": 1766647844
     },
     {
-      "id": "70a076c94dea",
-      "title": "美威力球第2高彩金平安夜開出　阿肯色州1人獨得571億",
-      "url": "https://money.udn.com/money/story/5599/9225971",
-      "source": "money.udn.com",
-      "published": 1766647843
-    },
-    {
       "id": "804e7bdb53a6",
       "title": "圣诞前中国多地学校齐发「拒绝过洋节」倡议书 教堂弥撒亦受限 但难阻民间庆祝",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251225-%E5%9C%A3%E8%AF%9E%E5%89%8D%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%AD%A6%E6%A0%A1%E9%BD%90%E5%8F%91-%E6%8B%92%E7%BB%9D%E8%BF%87%E6%B4%8B%E8%8A%82-%E5%80%A1%E8%AE%AE%E4%B9%A6-%E6%95%99%E5%A0%82%E5%BC%A5%E6%92%92%E4%BA%A6%E5%8F%97%E9%99%90-%E4%BD%86%E9%9A%BE%E9%98%BB%E6%B0%91%E9%97%B4%E5%BA%86%E7%A5%9D",
@@ -616,13 +623,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c75v0r7e7qro/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766567182
-    },
-    {
-      "id": "263f4e1980c1",
-      "title": "美国对中国芯片加征关税 中国外交部：损人害己",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251224-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%8D%9F%E4%BA%BA%E5%AE%B3%E5%B7%B1",
-      "source": "rfi.fr",
-      "published": 1766565734
     },
     {
       "id": "e59261deac89",
@@ -1185,5 +1185,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766673645
+  "build_id": 1766675428
 }
