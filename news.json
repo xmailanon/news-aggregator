@@ -1,6 +1,34 @@
 {
-  "updated": 1766733242,
+  "updated": 1766734726,
   "items": [
+    {
+      "id": "8acfc7e24642",
+      "title": "幾內亞總統大選12/28登場　軍政府領袖參選惹議",
+      "url": "https://money.udn.com/money/story/5599/9227712",
+      "source": "money.udn.com",
+      "published": 1766734208
+    },
+    {
+      "id": "8309bee6e8c8",
+      "title": "總編推薦／金價為何狂漲衝破4,500美元？還能追嗎？專家這樣說",
+      "url": "https://money.udn.com/money/story/5599/9227634",
+      "source": "money.udn.com",
+      "published": 1766734079
+    },
+    {
+      "id": "1d1fceb0595e",
+      "title": "AI熱 助美國十大科技富豪 今年身價大增5,500億美元",
+      "url": "https://money.udn.com/money/story/5599/9227691",
+      "source": "money.udn.com",
+      "published": 1766733869
+    },
+    {
+      "id": "434336b7f27a",
+      "title": "宏福苑大火满月 灾民叹公义未彰显难释怀 港府援助和救火措施争议未断",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251226-%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB%E6%BB%A1%E6%9C%88-%E7%81%BE%E6%B0%91%E5%8F%B9%E5%85%AC%E4%B9%89%E6%9C%AA%E5%BD%B0%E6%98%BE%E9%9A%BE%E9%87%8A%E6%80%80-%E6%B8%AF%E5%BA%9C%E6%8F%B4%E5%8A%A9%E5%92%8C%E6%95%91%E7%81%AB%E6%8E%AA%E6%96%BD%E4%BA%89%E8%AE%AE%E6%9C%AA%E6%96%AD",
+      "source": "rfi.fr",
+      "published": 1766733677
+    },
     {
       "id": "f01558112d9d",
       "title": "委內瑞拉耶誕釋99人　評估馬杜洛連任後逮捕行動",
@@ -17,7 +45,7 @@
     },
     {
       "id": "736701c9faa8",
-      "title": "跨越萬里時隔60多年首度相會  他終於見到被送去澳洲收養的親哥哥",
+      "title": "跨越萬里時隔60多年  他終於首度見到被送去澳洲收養的親哥哥",
       "url": "https://www.bbc.com/zhongwen/articles/cjdrmygzv3po/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766732965
@@ -142,32 +170,11 @@
       "published": 1766722343
     },
     {
-      "id": "5806d8dc1cae",
-      "title": "AI用電潮衝破政策阻力 全球綠色債券發行創新高 亞太區成關鍵引擎",
-      "url": "https://money.udn.com/money/story/5599/9227252",
-      "source": "money.udn.com",
-      "published": 1766721873
-    },
-    {
-      "id": "2952bd55800c",
-      "title": "日本首相將公布2026財年初始預算 為創紀錄的122萬億日圓",
-      "url": "https://money.udn.com/money/story/5599/9226884",
-      "source": "money.udn.com",
-      "published": 1766720682
-    },
-    {
       "id": "9ebbd31e26b9",
       "title": "從高原兔猻到鬼城鬣狗  2025年攝影師捕捉到的大自然精彩瞬間",
       "url": "https://www.bbc.com/zhongwen/articles/cwypzvwqd5xo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766720431
-    },
-    {
-      "id": "96782ca86504",
-      "title": "現實版耶誕老人！美工廠老闆賣公司 向540名員工豪發76億元獎金",
-      "url": "https://money.udn.com/money/story/5599/9227087",
-      "source": "money.udn.com",
-      "published": 1766719196
     },
     {
       "id": "d1d602968bd8",
@@ -324,11 +331,18 @@
       "published": 1766691926
     },
     {
+      "id": "938a0e2b7386",
+      "title": "为何一党制的中国支持缅甸大选",
+      "url": "https://cn.nytimes.com/asia-pacific/20251226/china-myanmar-election/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1766690032
+    },
+    {
       "id": "f715b2521d3c",
       "title": "前中国计生委主任彭珮云去世，曾主张温和执行计划生育",
       "url": "https://cn.nytimes.com/obits/20251226/peng-peiyun-dead/?utm_source=RSS",
       "source": "cn.nytimes.com",
-      "published": 1766689045
+      "published": 1766689526
     },
     {
       "id": "8625856e700c",
@@ -630,13 +644,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251224-%E7%BE%8E%E5%9B%BD%E5%86%85%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%9F%9F%E9%80%82%E9%83%BD-%E6%B6%89%E9%94%80%E5%94%AE%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86-%E5%A4%A7%E5%8D%8E%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87",
       "source": "rfi.fr",
       "published": 1766606645
-    },
-    {
-      "id": "b81c2f68c5ab",
-      "title": "民主党敦促特朗普撤回大规模召回大使决定 避免中国等对手趁机扩大影响力",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251224-%E6%B0%91%E4%B8%BB%E5%85%9A%E6%95%A6%E4%BF%83%E7%89%B9%E6%9C%97%E6%99%AE%E6%92%A4%E5%9B%9E%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%AC%E5%9B%9E%E5%A4%A7%E4%BD%BF%E5%86%B3%E5%AE%9A-%E9%81%BF%E5%85%8D%E4%B8%AD%E5%9B%BD%E7%AD%89%E5%AF%B9%E6%89%8B%E8%B6%81%E6%9C%BA%E6%89%A9%E5%A4%A7%E5%BD%B1%E5%93%8D%E5%8A%9B",
-      "source": "rfi.fr",
-      "published": 1766605122
     },
     {
       "id": "912eb56b2929",
@@ -1052,13 +1059,6 @@
       "published": 1766112865
     },
     {
-      "id": "d6ed2e59b808",
-      "title": "特朗普政府宣布超110亿美元对台军售",
-      "url": "https://cn.nytimes.com/usa/20251219/trump-taiwan-weapons-sale/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1766103752
-    },
-    {
       "id": "f32a1419d5c8",
       "title": "东京动物园熊猫将返回中国，日本会就此失去熊猫吗？",
       "url": "https://cn.nytimes.com/asia-pacific/20251219/japan-china-pandas/?utm_source=RSS",
@@ -1318,5 +1318,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766733242
+  "build_id": 1766734726
 }
