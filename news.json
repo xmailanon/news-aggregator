@@ -1,6 +1,13 @@
 {
-  "updated": 1766784949,
+  "updated": 1766787032,
   "items": [
+    {
+      "id": "72575c467066",
+      "title": "美國收緊簽證與綠卡入出境規則　生物識別全面上線",
+      "url": "https://www.singtaousa.com/2025/12/26/news/usa/the-united-states-tightens-visa-and-green-card-entry-and-exit-rules-and-biometric-identification-is-fully-online/",
+      "source": "singtaousa.com",
+      "published": 1766787198
+    },
     {
       "id": "ca107e8db727",
       "title": "衡量俄烏和平談判發展　油價跌",
@@ -79,9 +86,9 @@
       "published": 1766777509
     },
     {
-      "id": "6896c222ec01",
+      "id": "a3cffb505ac8",
       "title": "川澤會晤前夕　俄羅斯控烏克蘭企圖「破壞」談判",
-      "url": "https://money.udn.com/money/story/10511/9228678",
+      "url": "https://money.udn.com/money/story/5599/9228678",
       "source": "money.udn.com",
       "published": 1766777427
     },
@@ -112,13 +119,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251226-%E8%A2%AB%E6%8E%A7%E9%9A%90%E7%9E%92%E5%B9%B3%E5%A3%A4%E8%B0%8B%E6%9D%80%E4%B8%80%E5%90%8D%E9%9F%A9%E5%9B%BD%E5%AE%98%E5%91%98%E7%9A%84%E5%A4%9A%E5%90%8D%E6%96%87%E5%9C%A8%E5%AF%85%E6%94%BF%E5%BA%9C%E9%AB%98%E5%AE%98%E8%8E%B7%E5%88%A4%E6%97%A0%E7%BD%AA",
       "source": "rfi.fr",
       "published": 1766774225
-    },
-    {
-      "id": "f15cc00450ab",
-      "title": "革命聖地邁入高鐵時代！延安直達西安，正式融入關中「一小時通勤圈」",
-      "url": "https://www.singtaousa.com/2025/12/26/news/china/yanan-high-speed-rail-launch-one-hour-commute/",
-      "source": "singtaousa.com",
-      "published": 1766774091
     },
     {
       "id": "a3c7ffdcbf9e",
@@ -1346,5 +1346,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766784949
+  "build_id": 1766787032
 }
