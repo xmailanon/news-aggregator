@@ -1,6 +1,41 @@
 {
-  "updated": 1766765511,
+  "updated": 1766767422,
   "items": [
+    {
+      "id": "2fbe16dd481b",
+      "title": "AI為何總玩「太聰明」？研究揭示其對人類的誤判",
+      "url": "https://www.singtaousa.com/2025/12/26/news/world/ai-overestimates-how-smart-people-are-according-to-hse-economists/",
+      "source": "singtaousa.com",
+      "published": 1766767557
+    },
+    {
+      "id": "1b55e2f1af3c",
+      "title": "2025年貶值最快車款公布！這個品牌霸榜前五名",
+      "url": "https://www.singtaousa.com/2025/12/26/news/usa/these-5-cars-depreciated-the-fastest-in-2025/",
+      "source": "singtaousa.com",
+      "published": 1766767428
+    },
+    {
+      "id": "d8fe96735e9d",
+      "title": "澤連斯基宣布週日將與特朗普舉行和平會談",
+      "url": "https://www.singtaousa.com/2025/12/26/news/world/zelensky-trump-talks-ukraine-russia-intl/",
+      "source": "singtaousa.com",
+      "published": 1766766909
+    },
+    {
+      "id": "773001818a98",
+      "title": "特朗普關稅牆下的2025年：揭示美國經濟付出的代價",
+      "url": "https://www.singtaousa.com/2025/12/26/news/usa/trump-tariffs-economy-liberation-day-2025/",
+      "source": "singtaousa.com",
+      "published": 1766766484
+    },
+    {
+      "id": "896572c913d3",
+      "title": "法新社：中国村民在反强制火葬博弈中获胜",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251226-%E6%B3%95%E6%96%B0%E7%A4%BE-%E4%B8%AD%E5%9B%BD%E6%9D%91%E6%B0%91%E5%9C%A8%E5%8F%8D%E5%BC%BA%E5%88%B6%E7%81%AB%E8%91%AC%E5%8D%9A%E5%BC%88%E4%B8%AD%E8%8E%B7%E8%83%9C",
+      "source": "rfi.fr",
+      "published": 1766766322
+    },
     {
       "id": "783706f8c8ec",
       "title": "德语媒体：德国对华政策最好少些偏见",
@@ -145,34 +180,6 @@
       "id": "302682221279",
       "title": "素魚生迷思",
       "url": "https://www.singtaousa.com/2025/12/26/opinion/vegetarian-sushi-dilemma/",
-      "source": "singtaousa.com",
-      "published": 1766757600
-    },
-    {
-      "id": "74a99151f345",
-      "title": "燈籠城會安",
-      "url": "https://www.singtaousa.com/2025/12/26/opinion/hoi-an-lantern-city/",
-      "source": "singtaousa.com",
-      "published": 1766757600
-    },
-    {
-      "id": "50883f5fb137",
-      "title": "美軍聖誕空襲恐怖分子",
-      "url": "https://www.singtaousa.com/2025/12/26/news/usa/us-airstrike-terrorists-christmas/",
-      "source": "singtaousa.com",
-      "published": 1766757600
-    },
-    {
-      "id": "2ff96d263232",
-      "title": "防新年恐攻 土耳其逮捕115人",
-      "url": "https://www.singtaousa.com/2025/12/26/news/usa/turkey-arrests-isis-terror/",
-      "source": "singtaousa.com",
-      "published": 1766757600
-    },
-    {
-      "id": "65365bc49b82",
-      "title": "沙加緬度小飛機平安夜墜毀   男乘客喪生男機師性命垂危",
-      "url": "https://www.singtaousa.com/2025/12/26/news/usa/plane-crash-sacramento-fatal/",
       "source": "singtaousa.com",
       "published": 1766757600
     },
@@ -686,13 +693,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cwyvzy13g08o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766654616
-    },
-    {
-      "id": "e5923e19ff13",
-      "title": "泽连斯基：中国可能向俄提供卫星图像助其锁定打击目标",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251225-%E6%B3%BD%E4%BC%A6%E6%96%AF%E5%9F%BA-%E4%B8%AD%E5%9B%BD%E5%8F%AF%E8%83%BD%E5%90%91%E4%BF%84%E6%8F%90%E4%BE%9B%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E5%8A%A9%E5%85%B6%E9%94%81%E5%AE%9A%E6%89%93%E5%87%BB%E7%9B%AE%E6%A0%87",
-      "source": "rfi.fr",
-      "published": 1766654001
     },
     {
       "id": "c6f29af1537f",
@@ -1346,5 +1346,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766765511
+  "build_id": 1766767422
 }
