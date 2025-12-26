@@ -1,6 +1,13 @@
 {
-  "updated": 1766727762,
+  "updated": 1766729850,
   "items": [
+    {
+      "id": "304baaa21440",
+      "title": "美韓合作造艦　韓華集團費城船廠準備好承建核潛艦",
+      "url": "https://money.udn.com/money/story/10511/9227525",
+      "source": "money.udn.com",
+      "published": 1766728836
+    },
     {
       "id": "f461841f1068",
       "title": "涉妨害公務等遭求刑10年　檢批尹錫悅犯行重大無悔意",
@@ -177,13 +184,6 @@
       "published": 1766715720
     },
     {
-      "id": "ff48f1bf3cf9",
-      "title": "川普下令空襲奈及利亞IS　恐加劇當地宗教緊張",
-      "url": "https://money.udn.com/money/story/10511/9226900",
-      "source": "money.udn.com",
-      "published": 1766714772
-    },
-    {
       "id": "d439c717267c",
       "title": "特朗普聖誕節與兒童通話：警告防範「壞聖誕老人」| 有片",
       "url": "https://www.singtaousa.com/2025/12/25/news/usa/trump-santa-calls-coal-infiltrate-christmas-eve/",
@@ -329,6 +329,20 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251225-%E5%8F%99%E5%88%A9%E4%BA%9A-%E4%B8%8E%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%AF%BC%E7%9A%84%E5%8F%8D%E6%81%90%E8%81%94%E7%9B%9F%E5%90%88%E4%BD%9C%E5%87%BB%E6%AF%99-%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD-%E9%AB%98%E7%BA%A7%E5%A4%B4%E7%9B%AE",
       "source": "rfi.fr",
       "published": 1766678553
+    },
+    {
+      "id": "fa8ca105c39c",
+      "title": "新年如何自我提升？先做好维护",
+      "url": "https://www.ftchinese.com/story/001108544",
+      "source": "ftchinese.com",
+      "published": 1766678400
+    },
+    {
+      "id": "6c1fd4ac9757",
+      "title": "新的一年AI会继续火热",
+      "url": "https://www.ftchinese.com/story/001108543",
+      "source": "ftchinese.com",
+      "published": 1766678400
     },
     {
       "id": "336614cb7c4e",
@@ -784,20 +798,6 @@
       "url": "https://cn.nytimes.com/usa/20251223/trump-imperial-presidency/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1766513885
-    },
-    {
-      "id": "231b30fbe330",
-      "title": "段永平、个人奋斗与时代红利",
-      "url": "https://www.ftchinese.com/story/001108493",
-      "source": "ftchinese.com",
-      "published": 1766505600
-    },
-    {
-      "id": "d6d13bcadd7e",
-      "title": "中国成为奢侈食品重要生产国",
-      "url": "https://www.ftchinese.com/story/001108527",
-      "source": "ftchinese.com",
-      "published": 1766505600
     },
     {
       "id": "094ad87cc481",
@@ -1318,5 +1318,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766727762
+  "build_id": 1766729850
 }
