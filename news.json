@@ -1,6 +1,13 @@
 {
-  "updated": 1766788813,
+  "updated": 1766790624,
   "items": [
+    {
+      "id": "5629661c076e",
+      "title": "年底中共政治局民主生活会透露的信息",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251226-%E5%B9%B4%E5%BA%95%E4%B8%AD%E5%85%B1%E6%94%BF%E6%B2%BB%E5%B1%80%E6%B0%91%E4%B8%BB%E7%94%9F%E6%B4%BB%E4%BC%9A%E9%80%8F%E9%9C%B2%E7%9A%84%E4%BF%A1%E6%81%AF",
+      "source": "rfi.fr",
+      "published": 1766790019
+    },
     {
       "id": "7925c19e6ae4",
       "title": "川普受訪披露反恐行動　「殲滅」奈及利亞境內IS營地",
@@ -518,13 +525,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251225-%E5%B8%95%E5%8A%B3%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E6%8E%A5%E6%94%B6%E4%BB%8E%E7%BE%8E%E5%9B%BD%E9%81%A3%E8%BF%94%E7%9A%84%E7%A7%BB%E6%B0%91",
       "source": "rfi.fr",
       "published": 1766696826
-    },
-    {
-      "id": "be7b33d7fb62",
-      "title": "查尔斯三世：注重社会多元性   正义战胜邪恶",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251225-%E6%9F%A5%E5%B0%94%E6%96%AF%E4%B8%89%E4%B8%96-%E6%B3%A8%E9%87%8D%E7%A4%BE%E4%BC%9A%E5%A4%9A%E5%85%83%E6%80%A7-%E6%AD%A3%E4%B9%89%E6%88%98%E8%83%9C%E9%82%AA%E6%81%B6",
-      "source": "rfi.fr",
-      "published": 1766696615
     },
     {
       "id": "40fb611089b8",
@@ -1346,5 +1346,5 @@
       "published": 1764218580
     }
   ],
-  "build_id": 1766788813
+  "build_id": 1766790624
 }
