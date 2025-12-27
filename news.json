@@ -1,6 +1,13 @@
 {
-  "updated": 1766855329,
+  "updated": 1766857071,
   "items": [
+    {
+      "id": "d06bfc1d1ec9",
+      "title": "台灣宜蘭7級強震｜全台劇烈搖晃 苗栗暫無災情傳出",
+      "url": "https://www.singtaousa.com/2025/12/27/news/china/taiwan-yilan-7-magnitude-earthquake-no-casualties-reported/",
+      "source": "singtaousa.com",
+      "published": 1766856889
+    },
     {
       "id": "1e37b1d870b7",
       "title": "台灣宜蘭7級強震｜桃園機場天花板鋼架砸落 旅客驚呼逃生",
@@ -159,13 +166,6 @@
       "id": "dc40cda3774c",
       "title": "銷售持續低迷Target面臨壓力",
       "url": "https://www.singtaousa.com/2025/12/27/news/usa/target-sales-decline-pressure/",
-      "source": "singtaousa.com",
-      "published": 1766844000
-    },
-    {
-      "id": "562aba88a9aa",
-      "title": "受科技企業爭搶 OpenAI成香餑餑",
-      "url": "https://www.singtaousa.com/2025/12/27/news/usa/openai-tech-companies-acquisition/",
       "source": "singtaousa.com",
       "published": 1766844000
     },
@@ -1339,5 +1339,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1766855329
+  "build_id": 1766857071
 }
