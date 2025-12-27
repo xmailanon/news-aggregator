@@ -1,6 +1,20 @@
 {
-  "updated": 1766873396,
+  "updated": 1766875196,
   "items": [
+    {
+      "id": "c472325b6762",
+      "title": "郑丽文表示见习近平无前提条件 赖清德诘问要社会如何相信",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251227-%E9%83%91%E4%B8%BD%E6%96%87%E8%A1%A8%E7%A4%BA%E8%A7%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%97%A0%E5%89%8D%E6%8F%90%E6%9D%A1%E4%BB%B6-%E8%B5%96%E6%B8%85%E5%BE%B7%E8%AF%98%E9%97%AE%E8%A6%81%E7%A4%BE%E4%BC%9A%E5%A6%82%E4%BD%95%E7%9B%B8%E4%BF%A1",
+      "source": "rfi.fr",
+      "published": 1766875079
+    },
+    {
+      "id": "7b9d981866f9",
+      "title": "以色列承認索馬利蘭獨立　歐盟籲尊重索馬利亞主權",
+      "url": "https://money.udn.com/money/story/5599/9230008",
+      "source": "money.udn.com",
+      "published": 1766873562
+    },
     {
       "id": "be41345ca500",
       "title": "美國務卿盧比歐歡迎泰柬停火　聯合國與歐盟籲落實和平",
@@ -254,13 +268,6 @@
       "published": 1766849444
     },
     {
-      "id": "28624dace0c6",
-      "title": "台灣27日夜強震 沖繩石垣島、與那國島也有感",
-      "url": "https://money.udn.com/money/story/5599/9229769",
-      "source": "money.udn.com",
-      "published": 1766848790
-    },
-    {
       "id": "44c1b3fc58aa",
       "title": "俄罗斯的最新袭击导致基辅大面积停电断暖",
       "url": "https://www.dw.com/zh/俄罗斯的最新袭击导致基辅大面积停电断暖/a-75316536?maca=chi-rss-chi-all-1127-rdf",
@@ -483,13 +490,6 @@
       "url": "https://www.dw.com/zh/高市政府批准9万亿日元国防开支/a-75309168?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1766753040
-    },
-    {
-      "id": "24056a37731e",
-      "title": "美中半导体攻防战再现转折　道阻且长？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20251226-%E7%BE%8E%E4%B8%AD%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%94%BB%E9%98%B2%E6%88%98%E5%86%8D%E7%8E%B0%E8%BD%AC%E6%8A%98-%E9%81%93%E9%98%BB%E4%B8%94%E9%95%BF",
-      "source": "rfi.fr",
-      "published": 1766749457
     },
     {
       "id": "e6ddf307a724",
@@ -1339,5 +1339,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1766873396
+  "build_id": 1766875196
 }
