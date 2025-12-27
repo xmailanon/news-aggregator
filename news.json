@@ -1,6 +1,20 @@
 {
-  "updated": 1766848183,
+  "updated": 1766849837,
   "items": [
+    {
+      "id": "86fad96667d4",
+      "title": "台灣27日夜強震 日本氣象廳推估規模6.7",
+      "url": "https://money.udn.com/money/story/5599/9229815",
+      "source": "money.udn.com",
+      "published": 1766849444
+    },
+    {
+      "id": "28624dace0c6",
+      "title": "台灣27日夜強震 沖繩石垣島、與那國島也有感",
+      "url": "https://money.udn.com/money/story/5599/9229769",
+      "source": "money.udn.com",
+      "published": 1766848790
+    },
     {
       "id": "21a392972a33",
       "title": "AI 三種泡沫都在初步階段 AI 股2026年可望繼續漲",
@@ -273,20 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/9229464",
       "source": "money.udn.com",
       "published": 1766827288
-    },
-    {
-      "id": "f837d9203995",
-      "title": "日媒：台積電熊本廠當地部分居民  仍擔心影響地下水",
-      "url": "https://money.udn.com/money/story/5599/9229456",
-      "source": "money.udn.com",
-      "published": 1766826567
-    },
-    {
-      "id": "89316ee998b0",
-      "title": "日本大阪鬧區不平靜　南波站附近汽車撞行人3傷",
-      "url": "https://money.udn.com/money/story/5599/9229451",
-      "source": "money.udn.com",
-      "published": 1766826416
     },
     {
       "id": "56e9b5d79b8d",
@@ -1339,5 +1339,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1766848183
+  "build_id": 1766849837
 }
