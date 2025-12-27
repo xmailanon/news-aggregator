@@ -1,6 +1,20 @@
 {
-  "updated": 1766835206,
+  "updated": 1766837905,
   "items": [
+    {
+      "id": "ac88152bcb51",
+      "title": "川普澤倫斯基會談前基輔遇襲　數十萬人寒冬斷電停暖",
+      "url": "https://money.udn.com/money/story/10511/9229613",
+      "source": "money.udn.com",
+      "published": 1766837527
+    },
+    {
+      "id": "b7d3c29246dd",
+      "title": "中国围绕冲绳归属的“舆论战”引起日方担忧和强烈反弹",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20251227-%E4%B8%AD%E5%9B%BD%E5%9B%B4%E7%BB%95%E5%86%B2%E7%BB%B3%E5%BD%92%E5%B1%9E%E7%9A%84-%E8%88%86%E8%AE%BA%E6%88%98-%E5%BC%95%E8%B5%B7%E6%97%A5%E6%96%B9%E6%8B%85%E5%BF%A7%E5%92%8C%E5%BC%BA%E7%83%88%E5%8F%8D%E5%BC%B9",
+      "source": "rfi.fr",
+      "published": 1766836356
+    },
     {
       "id": "5844a6b85991",
       "title": "泰国柬埔寨宣布停火 将赴中国继续谈判",
@@ -42,6 +56,13 @@
       "url": "https://money.udn.com/money/story/10511/9229513",
       "source": "money.udn.com",
       "published": 1766830880
+    },
+    {
+      "id": "041e98f7919f",
+      "title": "中国修订《对外贸易法》 强化应对贸易战能力",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251227-%E4%B8%AD%E5%9B%BD%E4%BF%AE%E8%AE%A2-%E5%AF%B9%E5%A4%96%E8%B4%B8%E6%98%93%E6%B3%95-%E5%BC%BA%E5%8C%96%E5%BA%94%E5%AF%B9%E8%B4%B8%E6%98%93%E6%88%98%E8%83%BD%E5%8A%9B",
+      "source": "rfi.fr",
+      "published": 1766830278
     },
     {
       "id": "1624941d22f1",
@@ -194,13 +215,6 @@
       "id": "55385284b6e4",
       "title": "緬甸大選將登場　內戰與危機籠罩選戰熱度不再",
       "url": "https://money.udn.com/money/story/5599/9229342",
-      "source": "money.udn.com",
-      "published": 1766819607
-    },
-    {
-      "id": "bd4eb6b499f2",
-      "title": "停火協議生效前　柬埔寨控泰國出動F-16投炸彈",
-      "url": "https://money.udn.com/money/story/5599/9229341",
       "source": "money.udn.com",
       "published": 1766819607
     },
@@ -541,13 +555,6 @@
       "published": 1766697894
     },
     {
-      "id": "7389efa906f0",
-      "title": "美入境禁令：五人被禁   一人反击",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251225-%E7%BE%8E%E5%85%A5%E5%A2%83%E7%A6%81%E4%BB%A4-%E4%BA%94%E4%BA%BA%E8%A2%AB%E7%A6%81-%E4%B8%80%E4%BA%BA%E5%8F%8D%E5%87%BB",
-      "source": "rfi.fr",
-      "published": 1766697655
-    },
-    {
       "id": "43854e536c02",
       "title": "法面包师给南乌多个城市免费送面包",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20251225-%E6%B3%95%E9%9D%A2%E5%8C%85%E5%B8%88%E7%BB%99%E5%8D%97%E4%B9%8C%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%85%8D%E8%B4%B9%E9%80%81%E9%9D%A2%E5%8C%85",
@@ -581,13 +588,6 @@
       "url": "https://cn.nytimes.com/obits/20251226/peng-peiyun-dead/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1766689526
-    },
-    {
-      "id": "8625856e700c",
-      "title": "法国学者被关押超一年 俄罗斯称现已向法国提出“一项提议”",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251225-%E6%B3%95%E5%9B%BD%E5%AD%A6%E8%80%85%E8%A2%AB%E5%85%B3%E6%8A%BC%E8%B6%85%E4%B8%80%E5%B9%B4-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E7%8E%B0%E5%B7%B2%E5%90%91%E6%B3%95%E5%9B%BD%E6%8F%90%E5%87%BA-%E4%B8%80%E9%A1%B9%E6%8F%90%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1766684146
     },
     {
       "id": "43b498f43150",
@@ -1367,5 +1367,5 @@
       "published": 1764250620
     }
   ],
-  "build_id": 1766835206
+  "build_id": 1766837905
 }
