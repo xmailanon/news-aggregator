@@ -1,6 +1,13 @@
 {
-  "updated": 1766911499,
+  "updated": 1766913026,
   "items": [
+    {
+      "id": "25886dc8b9e7",
+      "title": "幾內亞總統大選登場　預計軍政府領袖頓波雅將勝選",
+      "url": "https://money.udn.com/money/story/5599/9230749",
+      "source": "money.udn.com",
+      "published": 1766913128
+    },
     {
       "id": "58a32841ead5",
       "title": "澤倫斯基抵達佛州將會川普　商討烏克蘭和平計畫",
@@ -182,13 +189,6 @@
       "url": "https://money.udn.com/money/story/5599/9230500",
       "source": "money.udn.com",
       "published": 1766900770
-    },
-    {
-      "id": "e53773d3eff1",
-      "title": "全球急因應川普關稅  墨西哥對美出口增成逆勢贏家",
-      "url": "https://money.udn.com/money/story/10511/9230458",
-      "source": "money.udn.com",
-      "published": 1766899311
     },
     {
       "id": "b0562f175801",
@@ -1339,5 +1339,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1766911499
+  "build_id": 1766913026
 }
