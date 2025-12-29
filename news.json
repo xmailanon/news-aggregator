@@ -1,6 +1,48 @@
 {
-  "updated": 1766989205,
+  "updated": 1766991371,
   "items": [
+    {
+      "id": "08b6e92928a8",
+      "title": "供電和政局趨穩 南非幣今年將創下16年來最大漲幅",
+      "url": "https://money.udn.com/money/story/5599/9232417",
+      "source": "money.udn.com",
+      "published": 1766991393
+    },
+    {
+      "id": "e8633ef34cf4",
+      "title": "流感季來臨病例增  新加坡診所接種需求熱度升",
+      "url": "https://money.udn.com/money/story/5599/9232395",
+      "source": "money.udn.com",
+      "published": 1766990730
+    },
+    {
+      "id": "1bc23d31723d",
+      "title": "消息人士：親軍方政黨贏得緬甸首階段選舉多數席次",
+      "url": "https://money.udn.com/money/story/5599/9232397",
+      "source": "money.udn.com",
+      "published": 1766990729
+    },
+    {
+      "id": "b8a538340cf0",
+      "title": "辦公室該長什麼樣？給員工「多種場景選擇」能提升工作表現",
+      "url": "https://money.udn.com/money/story/5599/9232341",
+      "source": "money.udn.com",
+      "published": 1766989651
+    },
+    {
+      "id": "5715f7bde6aa",
+      "title": "會計考生注意！ACCA震撼宣布全面取消線上考試 防堵AI作弊漏洞",
+      "url": "https://money.udn.com/money/story/5599/9232310",
+      "source": "money.udn.com",
+      "published": 1766989595
+    },
+    {
+      "id": "94ef9c54fdc0",
+      "title": "以好市多模式擊敗好市多 Sam's Club 專攻大陸高端市場",
+      "url": "https://money.udn.com/money/story/5599/9232320",
+      "source": "money.udn.com",
+      "published": 1766989591
+    },
     {
       "id": "83bf83f6bbd1",
       "title": "日銀最新摘要：利率偏低致日圓走弱　續升息聲浪浮現",
@@ -121,53 +163,11 @@
       "published": 1766979943
     },
     {
-      "id": "659de20c84b4",
-      "title": "AI新創今年瘋狂籌資1,500億美元創紀錄 攢好儲備金以防明年泡沫炸裂",
-      "url": "https://money.udn.com/money/story/5599/9231908",
-      "source": "money.udn.com",
-      "published": 1766979941
-    },
-    {
       "id": "2c1c72df54f7",
       "title": "特朗普稱俄烏和平談判獲重大進展 領土與安全保障仍是關鍵癥結",
       "url": "https://www.singtaousa.com/2025/12/28/news/world/trump-says-ukraine-and-russia-are-closer-than-ever-to-peace-after-talks-with-zelenskyy/",
       "source": "singtaousa.com",
       "published": 1766979244
-    },
-    {
-      "id": "43d9dbae456b",
-      "title": "印尼養老院大火奪16命　警方調查起火原因",
-      "url": "https://money.udn.com/money/story/5599/9231873",
-      "source": "money.udn.com",
-      "published": 1766979044
-    },
-    {
-      "id": "8cd2fd8b8acb",
-      "title": "華爾街大銀行今年上演「帝國大反擊」 漲幅傲視另類資產巨人",
-      "url": "https://money.udn.com/money/story/5599/9231839",
-      "source": "money.udn.com",
-      "published": 1766978678
-    },
-    {
-      "id": "304d8f689102",
-      "title": "川普澤倫斯基會談互誇　俄烏和平方案仍無突破",
-      "url": "https://money.udn.com/money/story/10511/9231814",
-      "source": "money.udn.com",
-      "published": 1766977977
-    },
-    {
-      "id": "a9d1c9a80452",
-      "title": "亞馬遜：義大利無人機送貨喊卡　受限商業監管環境",
-      "url": "https://money.udn.com/money/story/5599/9231811",
-      "source": "money.udn.com",
-      "published": 1766977975
-    },
-    {
-      "id": "14cd3cee3728",
-      "title": "倫敦銅價狂飆近7%創新高 逼近13,000美元大關",
-      "url": "https://money.udn.com/money/story/5599/9231755",
-      "source": "money.udn.com",
-      "published": 1766976636
     },
     {
       "id": "ff484566f709",
@@ -294,6 +294,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251228-%E7%89%B9%E6%99%AE%E9%80%9A%E8%AF%9D%E5%90%8E-%E5%85%8B%E9%87%8C%E5%A7%86%E6%9E%97%E5%AE%AB%E8%A6%81%E6%B1%82%E5%9F%BA%E8%BE%85%E6%94%BE%E5%BC%83%E9%A1%BF%E5%B7%B4%E6%96%AF",
       "source": "rfi.fr",
       "published": 1766947991
+    },
+    {
+      "id": "2cf6d5adac11",
+      "title": "潜在腐败和监管疏漏：香港宏福苑大火因何而起？",
+      "url": "https://cn.nytimes.com/china/20251229/hong-kong-apartment-fire-corruption/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1766946955
     },
     {
       "id": "82ac9d391088",
@@ -1157,13 +1164,6 @@
       "published": 1766125564
     },
     {
-      "id": "f32a1419d5c8",
-      "title": "东京动物园熊猫将返回中国，日本会就此失去熊猫吗？",
-      "url": "https://cn.nytimes.com/asia-pacific/20251219/japan-china-pandas/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1766088484
-    },
-    {
       "id": "925069698f24",
       "title": "使用被冻结俄罗斯资产为乌克兰提供赔偿贷款？欧盟峰会即将做出决定",
       "url": "https://www.dw.com/zh/使用被冻结俄罗斯资产为乌克兰提供赔偿贷款？欧盟峰会即将做出决定/a-75224957?maca=chi-rss-chi-all-1127-rdf",
@@ -1346,5 +1346,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1766989205
+  "build_id": 1766991371
 }
