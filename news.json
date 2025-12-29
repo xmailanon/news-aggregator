@@ -1,6 +1,34 @@
 {
-  "updated": 1767032216,
+  "updated": 1767034174,
   "items": [
+    {
+      "id": "b438547addd9",
+      "title": "機場職員抹行李篋暖心舉動惹熱議！網民質疑擺拍 官方咁樣回應",
+      "url": "https://www.singtaousa.com/2025/12/29/news/china/airport-staff-wipes-luggage-sparks-debate/",
+      "source": "singtaousa.com",
+      "published": 1767033287
+    },
+    {
+      "id": "6c40c1e19bb8",
+      "title": "碧姬·芭铎1月7日在海滨墓园下葬  呼吁国葬的声音响起",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20251229-%E7%A2%A7%E5%A7%AC%C2%B7%E8%8A%AD%E9%93%8E1%E6%9C%887%E6%97%A5%E5%9C%A8%E6%B5%B7%E6%BB%A8%E5%A2%93%E5%9B%AD%E4%B8%8B%E8%91%AC-%E5%91%BC%E5%90%81%E5%9B%BD%E8%91%AC%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%93%8D%E8%B5%B7",
+      "source": "rfi.fr",
+      "published": 1767033233
+    },
+    {
+      "id": "6f731f7e2f6b",
+      "title": "市場聚焦烏克蘭和平談判進展　歐股收盤近乎持平",
+      "url": "https://money.udn.com/money/story/5599/9233604",
+      "source": "money.udn.com",
+      "published": 1767032650
+    },
+    {
+      "id": "1e1c22332793",
+      "title": "紐澤西兩直升機相撞2死　飛行員生前常相約用餐",
+      "url": "https://money.udn.com/money/story/5599/9233605",
+      "source": "money.udn.com",
+      "published": 1767032649
+    },
     {
       "id": "eb6275220903",
       "title": "川普喊話 俄烏停戰近了 聲稱與澤倫斯基會談「極佳」",
@@ -177,13 +205,6 @@
       "published": 1767025234
     },
     {
-      "id": "5c35847773f0",
-      "title": "美國提出15年安全保障換取俄烏和平 澤連斯基稱領土問題絕不讓步",
-      "url": "https://www.singtaousa.com/2025/12/29/news/world/us-offers-ukraine-15-year-security-guarantee-as-part-of-peace-plan-zelenskyy-says/",
-      "source": "singtaousa.com",
-      "published": 1767024945
-    },
-    {
       "id": "083fd0e3d41a",
       "title": "美銀：貿易緊張2026年降溫 對大陸則是不一樣的問題",
       "url": "https://money.udn.com/money/story/5599/9233390",
@@ -238,20 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9233325",
       "source": "money.udn.com",
       "published": 1767020189
-    },
-    {
-      "id": "0e6643adbbb3",
-      "title": "美股早盤／投資人獲利了結 美股三大指數走低 輝達股價跌逾1%",
-      "url": "https://money.udn.com/money/story/123398/9233315",
-      "source": "money.udn.com",
-      "published": 1767019529
-    },
-    {
-      "id": "66b067bad13e",
-      "title": "立陶宛正式退出禁雷公約 因應潛在侵略、提升防衛",
-      "url": "https://money.udn.com/money/story/5599/9233303",
-      "source": "money.udn.com",
-      "published": 1767019049
     },
     {
       "id": "fd0e8c60f348",
@@ -630,13 +637,6 @@
       "url": "https://www.dw.com/zh/特朗普泽连斯基面对面：俄乌战争能否迎来转折？/a-75322064?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1766929080
-    },
-    {
-      "id": "af14df54e427",
-      "title": "中国为何不能在AI技术驱动的新工业革命赶上美国",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20251228-%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%83%BD%E5%9C%A8ai%E6%8A%80%E6%9C%AF%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%96%B0%E5%B7%A5%E4%B8%9A%E9%9D%A9%E5%91%BD%E8%B5%B6%E4%B8%8A%E7%BE%8E%E5%9B%BD",
-      "source": "rfi.fr",
-      "published": 1766929078
     },
     {
       "id": "6344dbd428db",
@@ -1367,5 +1367,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1767032216
+  "build_id": 1767034174
 }
