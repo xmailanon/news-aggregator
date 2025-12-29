@@ -1,6 +1,13 @@
 {
-  "updated": 1767035342,
+  "updated": 1767036759,
   "items": [
+    {
+      "id": "27ed47df223f",
+      "title": "停電可能迅速釀成危險 專家教你如何提前準備（上）",
+      "url": "https://www.singtaousa.com/2025/12/29/news/usa/news-power-outage-preparedness/",
+      "source": "singtaousa.com",
+      "published": 1767036600
+    },
     {
       "id": "7554fa87a161",
       "title": "解放軍圍台軍演升級！恆春半島部署飛彈 台中街頭驚現坦克",
@@ -147,13 +154,6 @@
       "url": "https://www.singtaousa.com/2025/12/29/news/china/self-service-buffet-takeaway-dispute/",
       "source": "singtaousa.com",
       "published": 1767029686
-    },
-    {
-      "id": "90673026ea62",
-      "title": "特朗普與內塔尼亞胡佛州會晤 聚焦停滯的加薩停火第二階段",
-      "url": "https://www.singtaousa.com/2025/12/29/news/world/trump-and-netanyahu-are-to-meet-in-florida-at-a-crucial-moment-for-the-us-backed-gaza-ceasefire/",
-      "source": "singtaousa.com",
-      "published": 1767029387
     },
     {
       "id": "a3079ec09f19",
@@ -1367,5 +1367,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1767035342
+  "build_id": 1767036759
 }
