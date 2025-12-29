@@ -1,6 +1,34 @@
 {
-  "updated": 1767024789,
+  "updated": 1767026763,
   "items": [
+    {
+      "id": "47832214e2a6",
+      "title": "AI 大咖爆地盤爭奪戰 Google、微軟、OpenAI、亞馬遜競爭激烈",
+      "url": "https://money.udn.com/money/story/123398/9233415",
+      "source": "money.udn.com",
+      "published": 1767026946
+    },
+    {
+      "id": "3c5d11b4ecbc",
+      "title": "伊朗里亞爾崩盤引爆民怨 央行行長法爾津在抗議聲中黯然下台",
+      "url": "https://www.singtaousa.com/2025/12/29/news/world/iran-central-bank-governor-resigns-as-protests-erupt-over-currency-drop/",
+      "source": "singtaousa.com",
+      "published": 1767026941
+    },
+    {
+      "id": "60bb005b8930",
+      "title": "特朗普与内塔尼亚胡将在棕榈滩讨论加沙停火协议未来",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251229-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%B0%86%E5%9C%A8%E6%A3%95%E6%A6%88%E6%BB%A9%E8%AE%A8%E8%AE%BA%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E6%9C%AA%E6%9D%A5",
+      "source": "rfi.fr",
+      "published": 1767025234
+    },
+    {
+      "id": "5c35847773f0",
+      "title": "美國提出15年安全保障換取俄烏和平 澤連斯基稱領土問題絕不讓步",
+      "url": "https://www.singtaousa.com/2025/12/29/news/world/us-offers-ukraine-15-year-security-guarantee-as-part-of-peace-plan-zelenskyy-says/",
+      "source": "singtaousa.com",
+      "published": 1767024945
+    },
     {
       "id": "14462ce48c12",
       "title": "大规模围台军演：向实战准备靠近？",
@@ -149,20 +177,6 @@
       "published": 1767016800
     },
     {
-      "id": "bdab7824f134",
-      "title": "中國解放軍環台演習 陸海空火箭軍齊出動",
-      "url": "https://www.singtaousa.com/2025/12/29/news/usa/china-military-drills-taiwan/",
-      "source": "singtaousa.com",
-      "published": 1767016800
-    },
-    {
-      "id": "50905b059909",
-      "title": "重塑影院魅力 擁抱消費新時代",
-      "url": "https://www.singtaousa.com/2025/12/29/news/usa/cinema-consumer-new-era/",
-      "source": "singtaousa.com",
-      "published": 1767016800
-    },
-    {
       "id": "e82d781b786b",
       "title": "川普與澤倫斯基會談未見突破性進展 頓巴斯等關鍵問題仍待解決",
       "url": "https://money.udn.com/money/story/5599/9231483",
@@ -245,13 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9233189",
       "source": "money.udn.com",
       "published": 1767012308
-    },
-    {
-      "id": "355a2ba1efb5",
-      "title": "克宮稱烏克蘭應從頓巴斯撤軍　預告川普與普丁將再通話",
-      "url": "https://money.udn.com/money/story/5599/9233176",
-      "source": "money.udn.com",
-      "published": 1767011804
     },
     {
       "id": "2ff34db616a0",
@@ -700,13 +707,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251227-%E9%A9%AC%E5%85%B4%E7%91%9E%E4%B8%8B%E8%90%BD%E4%B8%8D%E6%98%8E-%E8%80%8C%E5%86%9B%E9%98%9F%E6%95%B4%E8%82%83%E6%9B%B4%E5%8A%A0%E5%87%B6%E7%8C%9B",
       "source": "rfi.fr",
       "published": 1766876184
-    },
-    {
-      "id": "c472325b6762",
-      "title": "郑丽文表示见习近平无前提条件 赖清德诘问要社会如何相信",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251227-%E9%83%91%E4%B8%BD%E6%96%87%E8%A1%A8%E7%A4%BA%E8%A7%81%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%97%A0%E5%89%8D%E6%8F%90%E6%9D%A1%E4%BB%B6-%E8%B5%96%E6%B8%85%E5%BE%B7%E8%AF%98%E9%97%AE%E8%A6%81%E7%A4%BE%E4%BC%9A%E5%A6%82%E4%BD%95%E7%9B%B8%E4%BF%A1",
-      "source": "rfi.fr",
-      "published": 1766875079
     },
     {
       "id": "fbbda5c3117d",
@@ -1360,5 +1360,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1767024789
+  "build_id": 1767026763
 }
