@@ -1,6 +1,13 @@
 {
-  "updated": 1767001715,
+  "updated": 1767003160,
   "items": [
+    {
+      "id": "3aa3f3970253",
+      "title": "美宣布僅提供聯合國20億美元人道援金　恐衝擊脆弱群體",
+      "url": "https://money.udn.com/money/story/5599/9232933",
+      "source": "money.udn.com",
+      "published": 1767003150
+    },
     {
       "id": "123e3af686cb",
       "title": "習近平完美反殺川普 彭博點出這才是他真正大麻煩",
@@ -191,13 +198,6 @@
       "published": 1766990730
     },
     {
-      "id": "1bc23d31723d",
-      "title": "消息人士：親軍方政黨贏得緬甸首階段選舉多數席次",
-      "url": "https://money.udn.com/money/story/5599/9232397",
-      "source": "money.udn.com",
-      "published": 1766990729
-    },
-    {
       "id": "108e6ecb268e",
       "title": "「我報導過40場戰爭，2025年是最令人擔憂的一年」",
       "url": "https://www.bbc.com/zhongwen/articles/cg7v7r5ye14o/trad?at_medium=RSS&at_campaign=rss",
@@ -385,6 +385,13 @@
       "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20251228-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E5%8F%82%E9%99%A2%E5%89%8D%E8%AE%AE%E9%95%BF%E8%A2%AB%E8%B0%83%E6%9F%A5",
       "source": "rfi.fr",
       "published": 1766938311
+    },
+    {
+      "id": "5b40c9dd354a",
+      "title": "香港靠边站？ 北交所将成为中国IPO新枢纽",
+      "url": "https://www.ftchinese.com/story/001108564",
+      "source": "ftchinese.com",
+      "published": 1766937600
     },
     {
       "id": "374ee35ddbe5",
@@ -845,13 +852,6 @@
       "id": "fd866b00a10c",
       "title": "AI智能体赋能“十五五”城镇经济",
       "url": "https://www.ftchinese.com/story/001108537",
-      "source": "ftchinese.com",
-      "published": 1766678400
-    },
-    {
-      "id": "bcd860c3840a",
-      "title": "《冬日土地》：凛冬之中，变化在慢慢升温",
-      "url": "https://www.ftchinese.com/story/001108525",
       "source": "ftchinese.com",
       "published": 1766678400
     },
@@ -1346,5 +1346,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1767001715
+  "build_id": 1767003160
 }
