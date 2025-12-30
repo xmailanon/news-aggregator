@@ -1,6 +1,27 @@
 {
-  "updated": 1767080403,
+  "updated": 1767082552,
   "items": [
+    {
+      "id": "9a6d9d8cc9fd",
+      "title": "不甘 Lululemon 淪為下一個 GAP！創辦人「逼宮」董事會",
+      "url": "https://money.udn.com/money/story/122381/9235036",
+      "source": "money.udn.com",
+      "published": 1767082485
+    },
+    {
+      "id": "b2a36e0917d2",
+      "title": "菲警破獲非法拘禁案 逮捕2名嫌犯包括1名台人",
+      "url": "https://money.udn.com/money/story/5599/9235044",
+      "source": "money.udn.com",
+      "published": 1767082359
+    },
+    {
+      "id": "41483d82ca8c",
+      "title": "日相高市年初擬不出訪　鼓勵閣員積極走訪外國",
+      "url": "https://money.udn.com/money/story/5599/9235008",
+      "source": "money.udn.com",
+      "published": 1767081614
+    },
     {
       "id": "c693c4d9ca84",
       "title": "阿茲海默症竟能逆轉？美研究：恢復腦內能量平衡 小鼠認知退化改善",
@@ -16,9 +37,9 @@
       "published": 1767079414
     },
     {
-      "id": "e4f29069350a",
-      "title": "貨幣暴貶德黑蘭店家示威　伊朗總統喊話傾聽正當訴求",
-      "url": "https://money.udn.com/money/story/5599/9234908",
+      "id": "1a95392aea97",
+      "title": "新加坡嚴懲詐騙　新法上路最高處24下鞭刑",
+      "url": "https://money.udn.com/money/story/5599/9234912",
       "source": "money.udn.com",
       "published": 1767079407
     },
@@ -30,9 +51,9 @@
       "published": 1767079407
     },
     {
-      "id": "1a95392aea97",
-      "title": "新加坡嚴懲詐騙　新法上路最高處24下鞭刑",
-      "url": "https://money.udn.com/money/story/5599/9234912",
+      "id": "e4f29069350a",
+      "title": "貨幣暴貶德黑蘭店家示威　伊朗總統喊話傾聽正當訴求",
+      "url": "https://money.udn.com/money/story/5599/9234908",
       "source": "money.udn.com",
       "published": 1767079407
     },
@@ -161,27 +182,6 @@
       "url": "https://money.udn.com/money/story/5599/9234486",
       "source": "money.udn.com",
       "published": 1767069474
-    },
-    {
-      "id": "1b65fc0bdef3",
-      "title": "Google 今年來股價表現稱冠科技七雄 明年市值會追過輝達？",
-      "url": "https://money.udn.com/money/story/123398/9234479",
-      "source": "money.udn.com",
-      "published": 1767069298
-    },
-    {
-      "id": "388f7e0de074",
-      "title": "聖母峰「垃圾換押金」計畫失敗　擬改收清理金",
-      "url": "https://money.udn.com/money/story/5599/9234470",
-      "source": "money.udn.com",
-      "published": 1767069132
-    },
-    {
-      "id": "92bbb59bc608",
-      "title": "澳警：雪梨海灘槍手單獨犯案　應非恐怖組織成員",
-      "url": "https://money.udn.com/money/story/5599/9234434",
-      "source": "money.udn.com",
-      "published": 1767068697
     },
     {
       "id": "7d610883b6b2",
@@ -359,6 +359,20 @@
       "published": 1767025234
     },
     {
+      "id": "3d4a07d65883",
+      "title": "回顾2025年的国际政治大事",
+      "url": "https://www.ftchinese.com/story/001108575",
+      "source": "ftchinese.com",
+      "published": 1767024000
+    },
+    {
+      "id": "e54098436301",
+      "title": "留学日本如何选大学？",
+      "url": "https://www.ftchinese.com/story/001108556",
+      "source": "ftchinese.com",
+      "published": 1767024000
+    },
+    {
       "id": "6f7d5be13ddb",
       "title": "Meta收购中国人创立的AI初创公司Manus",
       "url": "https://www.ftchinese.com/story/001108574",
@@ -376,13 +390,6 @@
       "id": "27a0824ae815",
       "title": "Lex专栏：小型模块化反应堆的吸引力在消退",
       "url": "https://www.ftchinese.com/story/001108573",
-      "source": "ftchinese.com",
-      "published": 1767024000
-    },
-    {
-      "id": "e54098436301",
-      "title": "留学日本如何选大学？",
-      "url": "https://www.ftchinese.com/story/001108556",
       "source": "ftchinese.com",
       "published": 1767024000
     },
@@ -733,13 +740,6 @@
       "id": "1d274f36a721",
       "title": "FT社评：圣诞老人会如何评判各经济体",
       "url": "https://www.ftchinese.com/story/001108553",
-      "source": "ftchinese.com",
-      "published": 1766937600
-    },
-    {
-      "id": "bee88cee0bfe",
-      "title": "一周世界舆论聚焦：韩国统一部有意单独解决半岛问题",
-      "url": "https://www.ftchinese.com/story/001108551",
       "source": "ftchinese.com",
       "published": 1766937600
     },
@@ -1367,5 +1367,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1767080403
+  "build_id": 1767082552
 }
