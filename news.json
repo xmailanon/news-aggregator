@@ -1,6 +1,27 @@
 {
-  "updated": 1767127306,
+  "updated": 1767129033,
   "items": [
+    {
+      "id": "7320adf13ae8",
+      "title": "中国围台军演：台湾评估封锁失败 欧盟指责危害国际稳定",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251230-%E4%B8%AD%E5%9B%BD%E5%9B%B4%E5%8F%B0%E5%86%9B%E6%BC%94-%E5%8F%B0%E6%B9%BE%E8%AF%84%E4%BC%B0%E5%B0%81%E9%94%81%E5%A4%B1%E8%B4%A5-%E6%AC%A7%E7%9B%9F%E6%8C%87%E8%B4%A3%E5%8D%B1%E5%AE%B3%E5%9B%BD%E9%99%85%E7%A8%B3%E5%AE%9A",
+      "source": "rfi.fr",
+      "published": 1767128892
+    },
+    {
+      "id": "8c769d83eab2",
+      "title": "【牛頭角恐怖命案】35歲女藏屍油壓床 疑遭男友辣手摧花 兇手潛逃東南亞",
+      "url": "https://www.singtaousa.com/2025/12/30/news/china/ngau-tau-kok-murder-woman-body-storage-bed/",
+      "source": "singtaousa.com",
+      "published": 1767128688
+    },
+    {
+      "id": "8bfdcac3dcc9",
+      "title": "阿拉巴馬州女子死產後被判18年 法官裁定撤銷定罪並下令重審",
+      "url": "https://www.singtaousa.com/2025/12/30/news/usa/alabama-stillbirth-retrial/",
+      "source": "singtaousa.com",
+      "published": 1767128400
+    },
     {
       "id": "2cce689ad2f6",
       "title": "三藩市唐人埠「蒸點小館」 街坊用選票捧出來的冠軍燒賣",
@@ -70,20 +91,6 @@
       "url": "https://www.singtaousa.com/2025/12/30/news/usa/houston-bayou-bodies/",
       "source": "singtaousa.com",
       "published": 1767123000
-    },
-    {
-      "id": "e7748c53ce3b",
-      "title": "【離譜退貨】海南婦買羽絨服穿去哈爾濱玩完再退 衫袋驚現機票成鐵證！",
-      "url": "https://www.singtaousa.com/2025/12/30/news/china/return-scam-harbin-ticket-down-jacket/",
-      "source": "singtaousa.com",
-      "published": 1767121488
-    },
-    {
-      "id": "11fed470bc76",
-      "title": "甘迺迪中心改名特朗普 引發新一輪藝人取消演出",
-      "url": "https://www.singtaousa.com/2025/12/30/news/usa/kennedy-center-renaming/",
-      "source": "singtaousa.com",
-      "published": 1767121200
     },
     {
       "id": "13957efb366e",
@@ -679,13 +686,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cyvgvqz1vg4o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1767007366
-    },
-    {
-      "id": "049f6823d43a",
-      "title": "乌克兰战争：马克龙宣布1月初将在巴黎举行基辅盟国会议",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251229-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%AE%A3%E5%B8%831%E6%9C%88%E5%88%9D%E5%B0%86%E5%9C%A8%E5%B7%B4%E9%BB%8E%E4%B8%BE%E8%A1%8C%E5%9F%BA%E8%BE%85%E7%9B%9F%E5%9B%BD%E4%BC%9A%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1767005694
     },
     {
       "id": "551240f1ab11",
@@ -1360,5 +1360,5 @@
       "published": 1764592380
     }
   ],
-  "build_id": 1767127306
+  "build_id": 1767129033
 }
