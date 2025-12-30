@@ -1,6 +1,20 @@
 {
-  "updated": 1767063004,
+  "updated": 1767066955,
   "items": [
+    {
+      "id": "dd17bfb61629",
+      "title": "淘金熱回來了！澳洲金三角湧入淘金客 盼探測器一聲嗶響變身百萬富翁",
+      "url": "https://money.udn.com/money/story/5599/9234236",
+      "source": "money.udn.com",
+      "published": 1767065515
+    },
+    {
+      "id": "0adb4fb026e0",
+      "title": "一家试图打破中国稀土垄断的美国初创公司",
+      "url": "https://cn.nytimes.com/business/20251230/rare-earth-processing-phoenix-tailings/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1767064069
+    },
     {
       "id": "4de049bbb9a6",
       "title": "日本智庫分析影像　推測共軍第4艘航艦為核動力",
@@ -163,13 +177,6 @@
       "published": 1767057145
     },
     {
-      "id": "83e2c95d0814",
-      "title": "Meta 收購新創公司 Manus 可藉其 AI 代理產品立即貢獻營收",
-      "url": "https://money.udn.com/money/story/123398/9233815",
-      "source": "money.udn.com",
-      "published": 1767056971
-    },
-    {
       "id": "f689a52fc8bc",
       "title": "《紐約時報》社論：美國必須打破中國對經濟的控制",
       "url": "https://www.singtaousa.com/2025/12/29/news/usa/new-york-times-editorial-the-united-states-must-break-chinas-control-of-the-economy/",
@@ -315,6 +322,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251229-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%B0%86%E5%9C%A8%E6%A3%95%E6%A6%88%E6%BB%A9%E8%AE%A8%E8%AE%BA%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E6%9C%AA%E6%9D%A5",
       "source": "rfi.fr",
       "published": 1767025234
+    },
+    {
+      "id": "27a0824ae815",
+      "title": "Lex专栏：小型模块化反应堆的吸引力在消退",
+      "url": "https://www.ftchinese.com/story/001108573",
+      "source": "ftchinese.com",
+      "published": 1767024000
     },
     {
       "id": "e54098436301",
@@ -807,13 +821,6 @@
       "published": 1766876184
     },
     {
-      "id": "fbbda5c3117d",
-      "title": "高净值家庭的代际困境——被忽略的“常识”",
-      "url": "https://www.ftchinese.com/story/001108549",
-      "source": "ftchinese.com",
-      "published": 1766851200
-    },
-    {
       "id": "36173e9f1c9c",
       "title": "中剧点击率全球暴增  专制价值观隐性扩散",
       "url": "https://www.dw.com/zh/中剧点击率全球暴增-专制价值观隐性扩散/a-75316219?maca=chi-rss-chi-all-1127-rdf",
@@ -1115,13 +1122,6 @@
       "published": 1766394928
     },
     {
-      "id": "9eaef0a8d459",
-      "title": "“奥威尔式的恐惧氛围”：中国如何在海外噤声批评者",
-      "url": "https://cn.nytimes.com/usa/20251222/chinese-dissidents-protest-art/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1766339385
-    },
-    {
       "id": "fb705c3888de",
       "title": "墙外文摘：中日两国的冲突表演会玩过头吗？",
       "url": "https://www.dw.com/zh/墙外文摘：中日两国的冲突表演会玩过头吗？/a-75259018?maca=chi-rss-chi-all-1127-rdf",
@@ -1367,5 +1367,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1767063004
+  "build_id": 1767066955
 }
