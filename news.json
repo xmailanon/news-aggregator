@@ -1,6 +1,34 @@
 {
-  "updated": 1767069080,
+  "updated": 1767071711,
   "items": [
+    {
+      "id": "04531eda9b1c",
+      "title": "外媒直擊中國圍台軍演！驚曝「10枚飛彈連發」川普稱不擔心是這原因",
+      "url": "https://money.udn.com/money/story/5599/9234509",
+      "source": "money.udn.com",
+      "published": 1767070401
+    },
+    {
+      "id": "b795dfda3f94",
+      "title": "美國推動俄烏和平協議期間，俄軍戰死人數創下記錄",
+      "url": "https://www.bbc.com/zhongwen/articles/c79x94217yeo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1767070077
+    },
+    {
+      "id": "f7ee9f0db4bc",
+      "title": "美國經濟2026年利多齊發！迎減稅紅包、Fed降息、AI續旺還有一大優勢",
+      "url": "https://money.udn.com/money/story/5599/9234486",
+      "source": "money.udn.com",
+      "published": 1767069474
+    },
+    {
+      "id": "1b65fc0bdef3",
+      "title": "Google 今年來股價表現稱冠科技七雄 明年市值會追過輝達？",
+      "url": "https://money.udn.com/money/story/123398/9234479",
+      "source": "money.udn.com",
+      "published": 1767069298
+    },
     {
       "id": "388f7e0de074",
       "title": "聖母峰「垃圾換押金」計畫失敗　擬改收清理金",
@@ -66,7 +94,7 @@
     },
     {
       "id": "3e8887cb7175",
-      "title": "AI產業2026年會更壯大但面臨三挑戰 而不變的受益者始終只有一個",
+      "title": "AI 產業2026年會更壯大但面臨三挑戰 而不變的受益者始終只有一個",
       "url": "https://money.udn.com/money/story/5599/9234336",
       "source": "money.udn.com",
       "published": 1767066995
@@ -126,27 +154,6 @@
       "url": "https://money.udn.com/money/story/5599/9234070",
       "source": "money.udn.com",
       "published": 1767062796
-    },
-    {
-      "id": "dc8a9ef55886",
-      "title": "韓股今年大漲76%傲視全球 記憶體、軍工和AI 概念股引領復興",
-      "url": "https://money.udn.com/money/story/5599/9234018",
-      "source": "money.udn.com",
-      "published": 1767062001
-    },
-    {
-      "id": "3b32f6b12d58",
-      "title": "川普警告伊朗勿重啟核計畫　否則恐再遭美國空襲",
-      "url": "https://money.udn.com/money/story/10511/9234013",
-      "source": "money.udn.com",
-      "published": 1767061855
-    },
-    {
-      "id": "de13a57a7857",
-      "title": "美國星巴克調整展店策略　擬關閉約400家都會區門市",
-      "url": "https://money.udn.com/money/story/5599/9233965",
-      "source": "money.udn.com",
-      "published": 1767060758
     },
     {
       "id": "6b2c6ae63ac2",
@@ -1150,13 +1157,6 @@
       "published": 1766305140
     },
     {
-      "id": "56bbd9a76d30",
-      "title": "黎智英：這位挑戰中國底線的億萬富翁，付上了自由的代價",
-      "url": "https://www.bbc.com/zhongwen/articles/cp8zpyrvmm4o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1766300301
-    },
-    {
       "id": "5577573fb3a3",
       "title": "爱泼斯坦案文档公布 仍大面积涂黑",
       "url": "https://www.dw.com/zh/爱泼斯坦案文档公布-仍大面积涂黑/a-75253692?maca=chi-rss-chi-news-3224-rdf",
@@ -1367,5 +1367,5 @@
       "published": 1764490620
     }
   ],
-  "build_id": 1767069080
+  "build_id": 1767071711
 }
