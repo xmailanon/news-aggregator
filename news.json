@@ -1,6 +1,41 @@
 {
-  "updated": 1767123152,
+  "updated": 1767125512,
   "items": [
+    {
+      "id": "a3af73c8c41b",
+      "title": "阿拉美達縣健康系統呼籲 年底前申請加州白卡Medi-Cal",
+      "url": "https://www.singtaousa.com/2025/12/30/news/usa/alameda-health-systems/",
+      "source": "singtaousa.com",
+      "published": 1767125287
+    },
+    {
+      "id": "80772dd87eee",
+      "title": "日本老翁被騙150萬港元！兩名台灣男子在日被捕，揭跨國詐騙集團運作",
+      "url": "https://www.singtaousa.com/2025/12/30/news/china/investment-scam-taiwanese-arrested-japan/",
+      "source": "singtaousa.com",
+      "published": 1767125087
+    },
+    {
+      "id": "2183229f3310",
+      "title": "YouTuber自製「負鼠發射器」惹議 佛州檢方介入調查虐待動物",
+      "url": "https://www.singtaousa.com/2025/12/30/news/usa/youtuber-ross-creations-under-investigation-for-animal-abuse-over-opossum-launcher-video-dexerto/",
+      "source": "singtaousa.com",
+      "published": 1767124800
+    },
+    {
+      "id": "936431016aec",
+      "title": "澤倫斯基談美軍駐烏　稱願以任何形式與普丁會面",
+      "url": "https://money.udn.com/money/story/5599/9236011",
+      "source": "money.udn.com",
+      "published": 1767123368
+    },
+    {
+      "id": "b51e2f700fec",
+      "title": "歐洲之星列車運行一度受阻　營運商：陸續恢復服務",
+      "url": "https://money.udn.com/money/story/5599/9236012",
+      "source": "money.udn.com",
+      "published": 1767123367
+    },
     {
       "id": "c8372450f637",
       "title": "【驚嚇實錄】男友一句話，港女北上抽脂險喪命！術後血如泉湧，滿地血跡嚇壞人",
@@ -56,20 +91,6 @@
       "url": "https://money.udn.com/money/story/5599/9235998",
       "source": "money.udn.com",
       "published": 1767118946
-    },
-    {
-      "id": "a25cf5cb788f",
-      "title": "糧食券新規上路！美國五州禁止用SNAP購買汽水糖果 引發重大爭議",
-      "url": "https://www.singtaousa.com/2025/12/30/news/usa/snap-bans-on-soda-candy-and-other-foods-take-effect-in-five-states-jan-1/",
-      "source": "singtaousa.com",
-      "published": 1767118293
-    },
-    {
-      "id": "f62589ff471f",
-      "title": "年終打虎不停！全國總工會原副主席張世平被查 成今年第65名落馬高官",
-      "url": "https://www.singtaousa.com/2025/12/30/news/china/former-trade-union-vice-chairman-investigated/",
-      "source": "singtaousa.com",
-      "published": 1767117888
     },
     {
       "id": "c0854b067f42",
@@ -135,13 +156,6 @@
       "published": 1767116636
     },
     {
-      "id": "526298851755",
-      "title": "歷史性超越！中國汽車2025年全球銷量首度登頂，日本退居第二",
-      "url": "https://www.singtaousa.com/2025/12/30/news/china/china-car-sales-top-global-2025/",
-      "source": "singtaousa.com",
-      "published": 1767116088
-    },
-    {
       "id": "f2fe197aa6ed",
       "title": "德國關切共軍環台軍演　籲維持台海和平穩定",
       "url": "https://money.udn.com/money/story/5599/9235986",
@@ -149,9 +163,16 @@
       "published": 1767115354
     },
     {
-      "id": "c3b0c8924a27",
+      "id": "f5e6a2845f7b",
+      "title": "關切共軍環台軍演　法國：籲各方避免升高情勢",
+      "url": "https://money.udn.com/money/story/5599/9235982",
+      "source": "money.udn.com",
+      "published": 1767114747
+    },
+    {
+      "id": "2af603267778",
       "title": "外交斡旋升溫　澤倫斯基將赴法與盟國領袖會談",
-      "url": "https://money.udn.com/money/story/10511/9235980",
+      "url": "https://money.udn.com/money/story/5599/9235980",
       "source": "money.udn.com",
       "published": 1767114390
     },
@@ -219,13 +240,6 @@
       "published": 1767108971
     },
     {
-      "id": "5b1ecc30cc1a",
-      "title": "基輔稱俄羅斯攻擊烏克蘭黑海港口　1艘運穀民船受損",
-      "url": "https://money.udn.com/money/story/5599/9235833",
-      "source": "money.udn.com",
-      "published": 1767107552
-    },
-    {
       "id": "d98a9f677944",
       "title": "北京抗议巴拿马运河中国纪念碑和牌坊被强拆 巴拿马总统下令重建",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20251230-%E5%8C%97%E4%BA%AC%E6%8A%97%E8%AE%AE%E5%B7%B4%E6%8B%BF%E9%A9%AC%E8%BF%90%E6%B2%B3%E4%B8%AD%E5%9B%BD%E7%BA%AA%E5%BF%B5%E7%A2%91%E5%92%8C%E7%89%8C%E5%9D%8A%E8%A2%AB%E5%BC%BA%E6%8B%86-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E6%80%BB%E7%BB%9F%E4%B8%8B%E4%BB%A4%E5%8E%9F%E5%9C%B0%E9%87%8D%E5%BB%BA",
@@ -233,25 +247,11 @@
       "published": 1767107386
     },
     {
-      "id": "23582f0139ac",
-      "title": "川普警告可能對伊朗發動空襲　俄羅斯促各方克制",
-      "url": "https://money.udn.com/money/story/5599/9235720",
-      "source": "money.udn.com",
-      "published": 1767105036
-    },
-    {
       "id": "0efb6724df23",
       "title": "消息人士：中国强制要求芯片制造商增产时使用五成国产设备",
       "url": "https://www.dw.com/zh/消息人士：中国强制要求芯片制造商增产时使用五成国产设备/a-75344306?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1767104760
-    },
-    {
-      "id": "f5ddc9ca6b25",
-      "title": "伊朗示威未平　德黑蘭與伊斯法罕學生加入抗議",
-      "url": "https://money.udn.com/money/story/5599/9235673",
-      "source": "money.udn.com",
-      "published": 1767103233
     },
     {
       "id": "bbed396828a4",
@@ -1360,5 +1360,5 @@
       "published": 1764592380
     }
   ],
-  "build_id": 1767123152
+  "build_id": 1767125512
 }
