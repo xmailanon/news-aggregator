@@ -1,6 +1,20 @@
 {
-  "updated": 1767107481,
+  "updated": 1767109283,
   "items": [
+    {
+      "id": "7c1c4998e976",
+      "title": "國土安全部在明尼亞波利斯展開大規模詐騙調查 涉案金額或達數十億美元",
+      "url": "https://www.singtaousa.com/2025/12/30/news/usa/homeland-security-says-a-fraud-investigation-is-underway-in-minneapolis/",
+      "source": "singtaousa.com",
+      "published": 1767107901
+    },
+    {
+      "id": "5b1ecc30cc1a",
+      "title": "基輔稱俄羅斯攻擊烏克蘭黑海港口　1艘運穀民船受損",
+      "url": "https://money.udn.com/money/story/5599/9235833",
+      "source": "money.udn.com",
+      "published": 1767107552
+    },
     {
       "id": "d98a9f677944",
       "title": "北京抗议巴拿马运河中国纪念碑和牌坊被强拆 巴拿马总统下令重建",
@@ -89,13 +103,6 @@
       "id": "1ab5c07e3916",
       "title": "也門陷入分裂 紅海航運難安全",
       "url": "https://www.singtaousa.com/2025/12/30/news/usa/yemen-division-red-sea/",
-      "source": "singtaousa.com",
-      "published": 1767103200
-    },
-    {
-      "id": "a8ab1d70ed54",
-      "title": "解放軍發布AI視頻 展示機械人攻城",
-      "url": "https://www.singtaousa.com/2025/12/30/news/usa/pla-ai-robots-attack/",
       "source": "singtaousa.com",
       "published": 1767103200
     },
@@ -280,13 +287,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20251230-%E6%B2%99%E7%89%B9%E7%A9%BA%E8%A2%AD%E4%B9%9F%E9%97%A8%E6%B8%AF%E5%8F%A3-%E6%8C%87%E6%8E%A7%E9%98%BF%E8%81%94%E9%85%8B%E6%94%AF%E6%8C%81%E5%88%86%E7%A6%BB%E5%8A%BF%E5%8A%9B",
       "source": "rfi.fr",
       "published": 1767096106
-    },
-    {
-      "id": "3295d4ae7941",
-      "title": "科學家：2025史上最熱3年之1　燃燒化石燃料是元兇",
-      "url": "https://money.udn.com/money/story/5599/9235500",
-      "source": "money.udn.com",
-      "published": 1767095688
     },
     {
       "id": "e3bb1c87ac90",
@@ -1353,5 +1353,5 @@
       "published": 1764592380
     }
   ],
-  "build_id": 1767107481
+  "build_id": 1767109283
 }
