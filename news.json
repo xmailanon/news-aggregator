@@ -1,6 +1,13 @@
 {
-  "updated": 1767166870,
+  "updated": 1767168938,
   "items": [
+    {
+      "id": "7ef760bdf487",
+      "title": "军演：台北称中国舰艇正从台湾周边撤离",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20251231-%E5%86%9B%E6%BC%94-%E5%8F%B0%E5%8C%97%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%88%B0%E8%89%87%E6%AD%A3%E4%BB%8E%E5%8F%B0%E6%B9%BE%E5%91%A8%E8%BE%B9%E6%92%A4%E7%A6%BB",
+      "source": "rfi.fr",
+      "published": 1767167798
+    },
     {
       "id": "2b122b76e99a",
       "title": "電力故障打亂跨年旅遊　歐洲之星全線復駛仍恐誤點",
@@ -322,6 +329,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251230-%E4%B8%AD%E5%9B%BD%E5%9B%B4%E5%8F%B0%E5%86%9B%E6%BC%94-%E5%8F%B0%E6%B9%BE%E8%AF%84%E4%BC%B0%E5%B0%81%E9%94%81%E5%A4%B1%E8%B4%A5-%E6%AC%A7%E7%9B%9F%E6%8C%87%E8%B4%A3%E5%8D%B1%E5%AE%B3%E5%9B%BD%E9%99%85%E7%A8%B3%E5%AE%9A",
       "source": "rfi.fr",
       "published": 1767128892
+    },
+    {
+      "id": "0a62369d7c1f",
+      "title": "中国廉价太阳能如何改变了非洲",
+      "url": "https://cn.nytimes.com/business/20251231/solar-south-africa-china/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1767125008
     },
     {
       "id": "c0854b067f42",
@@ -665,13 +679,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251229-%E5%8C%97%E4%BA%AC%E5%86%9B%E6%BC%94-%E6%81%AB%E5%9A%87%E5%8F%B0%E6%B9%BE-%E5%89%91%E6%8C%87%E7%BE%8E%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1767047617
-    },
-    {
-      "id": "62669776cd87",
-      "title": "两家中国航空公司拟采购空客飞机 订单规模最高达82亿美元",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251229-%E4%B8%A4%E5%AE%B6%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E6%8B%9F%E9%87%87%E8%B4%AD%E7%A9%BA%E5%AE%A2%E9%A3%9E%E6%9C%BA-%E8%AE%A2%E5%8D%95%E8%A7%84%E6%A8%A1%E6%9C%80%E9%AB%98%E8%BE%BE82%E4%BA%BF%E7%BE%8E%E5%85%83",
-      "source": "rfi.fr",
-      "published": 1767045061
     },
     {
       "id": "7a003c79ee71",
@@ -1143,13 +1150,6 @@
       "published": 1766442709
     },
     {
-      "id": "62b02d6b0dad",
-      "title": "中国“断供”，美国国防工业如何避免稀土短缺",
-      "url": "https://cn.nytimes.com/business/20251223/defense-industry-rare-earth-restrictions-china/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1766429549
-    },
-    {
       "id": "8d71a6582d0e",
       "title": "德语媒体：北京给德国外长的一堂“历史课”",
       "url": "https://www.dw.com/zh/德语媒体：北京给德国外长的一堂-历史课/a-75270510?maca=chi-rss-chi-all-1127-rdf",
@@ -1360,5 +1360,5 @@
       "published": 1764592380
     }
   ],
-  "build_id": 1767166870
+  "build_id": 1767168938
 }
