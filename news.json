@@ -1,6 +1,34 @@
 {
-  "updated": 1767211890,
+  "updated": 1767213642,
   "items": [
+    {
+      "id": "64cc24a19b2d",
+      "title": "告別舊習迎新年 專家教你平順轉換生活節奏",
+      "url": "https://www.singtaousa.com/2025/12/31/news/usa/new-year-transition/",
+      "source": "singtaousa.com",
+      "published": 1767213863
+    },
+    {
+      "id": "c7eea6e3cb46",
+      "title": "2026全球跨年圖輯先睹為快",
+      "url": "https://www.singtaousa.com/2025/12/31/news/world/2026-world-photos/",
+      "source": "singtaousa.com",
+      "published": 1767213772
+    },
+    {
+      "id": "a905defc28f1",
+      "title": "【2026跨年直擊】李家超中環主持倒數 與民同樂祝願港人新一年事事順利",
+      "url": "https://www.singtaousa.com/2025/12/31/news/china/john-lee-hosts-central-countdown-wishes-hong-kong/",
+      "source": "singtaousa.com",
+      "published": 1767213289
+    },
+    {
+      "id": "3a1bfe62f351",
+      "title": "马克龙2026年新年致辞要点",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251231-2026%E5%B9%B4%E9%A9%AC%E5%85%8B%E9%BE%99%E6%96%B0%E5%B9%B4%E8%87%B4%E8%BE%9E%E8%A6%81%E7%82%B9",
+      "source": "rfi.fr",
+      "published": 1767213229
+    },
     {
       "id": "fb3cbf284517",
       "title": "踏入2026年 政府官員社交頭像復常 李家超：化悲痛為力量 聚焦民生與創科",
@@ -93,32 +121,11 @@
       "published": 1767207225
     },
     {
-      "id": "96363fca0244",
-      "title": "教宗良十四世除夕祈禱 籲羅馬張開雙臂擁抱外國人與弱勢群體",
-      "url": "https://www.singtaousa.com/2025/12/31/news/world/pope-asks-that-rome-welcome-foreigners-as-he-closes-out-2025/",
-      "source": "singtaousa.com",
-      "published": 1767206815
-    },
-    {
-      "id": "3ce619f3ddd9",
-      "title": "謝霆鋒哈爾濱見市委書記 乖巧坐姿成焦點 網民笑稱「見班主任」",
-      "url": "https://www.singtaousa.com/2025/12/31/news/china/nicholas-tse-meets-harbin-party-secretary/",
-      "source": "singtaousa.com",
-      "published": 1767206090
-    },
-    {
       "id": "336520157188",
       "title": "伊朗大规模示威：政府建筑遭袭 货币跌至历史新低",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251231-%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A4%BA%E5%A8%81-%E6%94%BF%E5%BA%9C%E5%BB%BA%E7%AD%91%E9%81%AD%E8%A2%AD-%E8%B4%A7%E5%B8%81%E8%B7%8C%E8%87%B3%E5%8E%86%E5%8F%B2%E6%96%B0%E4%BD%8E",
       "source": "rfi.fr",
       "published": 1767205775
-    },
-    {
-      "id": "b28609a9ba5a",
-      "title": "白宮上演權力遊戲？ 特朗普否決跨黨派法案引發共和黨內訌",
-      "url": "https://www.singtaousa.com/2025/12/31/news/usa/these-bipartisan-bills-were-noncontroversial-until-trump-vetoed-them/",
-      "source": "singtaousa.com",
-      "published": 1767205301
     },
     {
       "id": "9648eac2b916",
@@ -518,13 +525,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251230-%E7%89%B9%E4%B9%A0%E8%BF%87%E6%8B%9B-%E8%B0%81%E8%83%9C%E8%B0%81%E8%B4%9F",
       "source": "rfi.fr",
       "published": 1767133940
-    },
-    {
-      "id": "2f109076be86",
-      "title": "路透：中国要求芯片厂扩产时至少使用五成国产设备",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20251230-%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9B%BD%E8%A6%81%E6%B1%82%E8%8A%AF%E7%89%87%E5%8E%82%E6%89%A9%E4%BA%A7%E6%97%B6%E8%87%B3%E5%B0%91%E4%BD%BF%E7%94%A8%E4%BA%94%E6%88%90%E5%9B%BD%E4%BA%A7%E8%AE%BE%E5%A4%87",
-      "source": "rfi.fr",
-      "published": 1767131604
     },
     {
       "id": "e1bc5c763f4d",
@@ -1374,5 +1374,5 @@
       "published": 1764753342
     }
   ],
-  "build_id": 1767211890
+  "build_id": 1767213642
 }
