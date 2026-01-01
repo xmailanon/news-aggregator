@@ -1,6 +1,20 @@
 {
-  "updated": 1767298337,
+  "updated": 1767300107,
   "items": [
+    {
+      "id": "8d2984976562",
+      "title": "元旦萬宜水庫東壩逼爆！運輸署急增20倍小巴疏導人潮",
+      "url": "https://www.singtaousa.com/2026/01/01/news/china/new-year-crowds-east-dam-transport-boost/",
+      "source": "singtaousa.com",
+      "published": 1767299690
+    },
+    {
+      "id": "a51f1d6a1932",
+      "title": "泽连斯基2026新年谈话：乌克兰要和平但绝不能亡国",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260101-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA2026%E6%96%B0%E5%B9%B4%E8%B0%88%E8%AF%9D-%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A6%81%E5%92%8C%E5%B9%B3%E4%BD%86%E4%B8%8D%E8%83%BD%E4%BA%A1%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1767298399
+    },
     {
       "id": "00243c32f0dc",
       "title": "瑞士酒吧跨年派對火災　警方稱約40死115傷",
@@ -77,13 +91,6 @@
       "url": "https://www.singtaousa.com/2026/01/01/news/usa/the-yanghe-general-hall-held-the-handover-of-the-new-staff-in-2026-2027-the-new-chairman-huang-jiancheng-secretary-liao-jiamin/",
       "source": "singtaousa.com",
       "published": 1767294094
-    },
-    {
-      "id": "9e3f9050ee72",
-      "title": "新年夜血染赫爾松！俄控烏克蘭無人機釀24死 和談再添變數",
-      "url": "https://www.singtaousa.com/2026/01/01/news/world/russia-says-ukrainian-drone-strike-kills-24-in-occupied-ukraine-as-tensions-grow-amid-peace-talks/",
-      "source": "singtaousa.com",
-      "published": 1767293011
     },
     {
       "id": "d4da2fef5006",
@@ -546,13 +553,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251231-%E4%BC%8A%E6%9C%97%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A4%BA%E5%A8%81-%E6%94%BF%E5%BA%9C%E5%BB%BA%E7%AD%91%E9%81%AD%E8%A2%AD-%E8%B4%A7%E5%B8%81%E8%B7%8C%E8%87%B3%E5%8E%86%E5%8F%B2%E6%96%B0%E4%BD%8E",
       "source": "rfi.fr",
       "published": 1767205775
-    },
-    {
-      "id": "00c71f5272b4",
-      "title": "跨年夜法国已部署9万名警察和宪兵",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251231-%E8%B7%A8%E5%B9%B4%E5%A4%9C%E6%B3%95%E5%9B%BD%E5%B7%B2%E9%83%A8%E7%BD%B29%E4%B8%87%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%92%8C%E5%AE%AA%E5%85%B5",
-      "source": "rfi.fr",
-      "published": 1767202827
     },
     {
       "id": "e7a9487a1d34",
@@ -1402,5 +1402,5 @@
       "published": 1764753342
     }
   ],
-  "build_id": 1767298337
+  "build_id": 1767300107
 }
