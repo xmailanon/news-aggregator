@@ -1,6 +1,20 @@
 {
-  "updated": 1767281972,
+  "updated": 1767284017,
   "items": [
+    {
+      "id": "e64414decaca",
+      "title": "AI還稱不上泡沫 高盛：投資人如今與達康時代「差很大」",
+      "url": "https://money.udn.com/money/story/5599/9239786",
+      "source": "money.udn.com",
+      "published": 1767283275
+    },
+    {
+      "id": "8218ba2398f1",
+      "title": "中国对进口牛肉采取国别配额限制 超出部分加收55%关税 澳部长表失望",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260101-%E4%B8%AD%E5%9B%BD%E5%AF%B9%E8%BF%9B%E5%8F%A3%E7%89%9B%E8%82%89%E9%87%87%E5%8F%96%E5%9B%BD%E5%88%AB%E9%85%8D%E9%A2%9D%E9%99%90%E5%88%B6-%E8%B6%85%E5%87%BA%E9%83%A8%E5%88%86%E5%8A%A0%E6%94%B655-%E5%85%B3%E7%A8%8E-%E6%BE%B3%E9%83%A8%E9%95%BF%E8%A1%A8%E5%A4%B1%E6%9C%9B",
+      "source": "rfi.fr",
+      "published": 1767281919
+    },
     {
       "id": "01756493cc1f",
       "title": "台海两岸在紧张对立中辞旧迎新",
@@ -10,7 +24,7 @@
     },
     {
       "id": "d4d1ae7a60f9",
-      "title": "纽约新市长马姆达尼手按古兰经宣誓就任",
+      "title": "纽约新市长马姆达尼手按《古兰经》宣誓就任",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260101-%E7%BA%BD%E7%BA%A6%E6%96%B0%E5%B8%82%E9%95%BF%E9%A9%AC%E5%A7%86%E8%BE%BE%E5%B0%BC%E6%89%8B%E6%8C%89%E5%8F%A4%E5%85%B0%E7%BB%8F%E5%AE%A3%E8%AA%93%E5%B0%B1%E4%BB%BB",
       "source": "rfi.fr",
       "published": 1767280931
@@ -324,13 +338,6 @@
       "published": 1767263453
     },
     {
-      "id": "acc4238710ba",
-      "title": "美國食物券新規首波5州元旦上路　禁購汽水糖果等食品",
-      "url": "https://money.udn.com/money/story/10511/9239358",
-      "source": "money.udn.com",
-      "published": 1767263414
-    },
-    {
       "id": "92f08c391c1c",
       "title": "以色列承认索马里兰  地区局势再添变数",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E9%9D%9E%E6%B4%B2/20260101-%E4%BB%A5%E8%89%B2%E5%88%97%E6%89%BF%E8%AE%A4%E7%B4%A2%E9%A9%AC%E9%87%8C%E5%85%B0-%E5%9C%B0%E5%8C%BA%E5%B1%80%E5%8A%BF%E5%86%8D%E6%B7%BB%E5%8F%98%E6%95%B0",
@@ -546,13 +553,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251231-%E8%B7%A8%E5%B9%B4%E5%A4%9C%E6%B3%95%E5%9B%BD%E5%B7%B2%E9%83%A8%E7%BD%B29%E4%B8%87%E5%90%8D%E8%AD%A6%E5%AF%9F%E5%92%8C%E5%AE%AA%E5%85%B5",
       "source": "rfi.fr",
       "published": 1767202827
-    },
-    {
-      "id": "46256f584887",
-      "title": "新年钟声敲响之际，佐赫兰·马姆达尼将正式就任纽约市长",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20251231-%E6%96%B0%E5%B9%B4%E9%92%9F%E5%A3%B0%E6%95%B2%E5%93%8D%E4%B9%8B%E9%99%85%EF%BC%8C%E4%BD%90%E8%B5%AB%E5%85%B0%C2%B7%E9%A9%AC%E5%A7%86%E8%BE%BE%E5%B0%BC%E5%B0%86%E6%AD%A3%E5%BC%8F%E5%B0%B1%E4%BB%BB%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%95%BF",
-      "source": "rfi.fr",
-      "published": 1767202126
     },
     {
       "id": "e7a9487a1d34",
@@ -1402,5 +1402,5 @@
       "published": 1764819674
     }
   ],
-  "build_id": 1767281972
+  "build_id": 1767284017
 }
