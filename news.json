@@ -1,6 +1,20 @@
 {
-  "updated": 1767370373,
+  "updated": 1767372343,
   "items": [
+    {
+      "id": "01a6f1dca38d",
+      "title": "阿姆斯特丹百年教堂陷火海，元旦前夕疑因煙花釀災 | 有片",
+      "url": "https://www.singtaousa.com/2026/01/02/news/world/watch-huge-fire-rips-through-historic-amsterdam-church/",
+      "source": "singtaousa.com",
+      "published": 1767371757
+    },
+    {
+      "id": "f2e098e57c6d",
+      "title": "特朗普政府終止華盛頓高爾夫球場租約，或將親自改造首都地標",
+      "url": "https://www.singtaousa.com/2026/01/02/news/usa/trump-administration-terminates-lease-for-washingtons-3-public-golf-courses/",
+      "source": "singtaousa.com",
+      "published": 1767371400
+    },
     {
       "id": "c113e4121ca6",
       "title": "南非成年禮爆發悲劇，傳統割禮儀式背後的致命風險",
@@ -115,7 +129,7 @@
     },
     {
       "id": "2d99c8050769",
-      "title": "川普與伊朗高級官員就伊朗爆發的抗議活動互相發出威脅。",
+      "title": "特朗普與伊朗高級官員就伊朗爆發的抗議活動互相發出威脅。",
       "url": "https://www.singtaousa.com/2026/01/02/news/world/trump-and-top-iranian-officials-exchange-threats-over-protests-roiling-iran/",
       "source": "singtaousa.com",
       "published": 1767364721
@@ -159,20 +173,6 @@
       "id": "97e40f16bf64",
       "title": "人情味道",
       "url": "https://www.singtaousa.com/2026/01/02/opinion/human-touch-community-support/",
-      "source": "singtaousa.com",
-      "published": 1767362400
-    },
-    {
-      "id": "7f91bc1d287d",
-      "title": "宣威火腿大快朵頤",
-      "url": "https://www.singtaousa.com/2026/01/02/opinion/yunnan-ham-gastronomic-delight/",
-      "source": "singtaousa.com",
-      "published": 1767362400
-    },
-    {
-      "id": "2695c1c5a18b",
-      "title": "馬斯克捐21萬股特斯拉股票",
-      "url": "https://www.singtaousa.com/2026/01/02/news/usa/musk-donates-tesla-shares/",
       "source": "singtaousa.com",
       "published": 1767362400
     },
@@ -1388,5 +1388,5 @@
       "published": 1764819674
     }
   ],
-  "build_id": 1767370373
+  "build_id": 1767372343
 }
