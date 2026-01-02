@@ -1,10 +1,17 @@
 {
-  "updated": 1767338135,
+  "updated": 1767339635,
   "items": [
     {
-      "id": "201a4241dae5",
+      "id": "f53fdefffd27",
+      "title": "北韓「公主」再升級？金朱愛參拜家族聖地 接班之路更進一步",
+      "url": "https://www.singtaousa.com/2026/01/02/news/world/kims-daughter-visits-family-mausoleum-promoting-her-potential-status-as-heir-in-north-korea/",
+      "source": "singtaousa.com",
+      "published": 1767339457
+    },
+    {
+      "id": "c47c69911e36",
       "title": "紐時：美追緝駛往委內瑞拉油輪　俄出面轉圜",
-      "url": "https://money.udn.com/money/story/10511/9240922",
+      "url": "https://money.udn.com/money/story/5599/9240922",
       "source": "money.udn.com",
       "published": 1767337954
     },
@@ -30,13 +37,6 @@
       "published": 1767337326
     },
     {
-      "id": "ec6d264fb645",
-      "title": "AI熱潮推升記憶體價格　智慧型手機與電腦恐漲價",
-      "url": "https://money.udn.com/money/story/5599/9240895",
-      "source": "money.udn.com",
-      "published": 1767337237
-    },
-    {
       "id": "3a248252c1b1",
       "title": "日本皇室賀年活動插曲　1名朝賀男子突裸身被捕",
       "url": "https://money.udn.com/money/story/5599/9240894",
@@ -58,11 +58,18 @@
       "published": 1767336878
     },
     {
-      "id": "e7ae49e291e2",
+      "id": "b65f72eea255",
       "title": "回應美國施壓　委內瑞拉再釋88名政治犯",
-      "url": "https://money.udn.com/money/story/10511/9240850",
+      "url": "https://money.udn.com/money/story/5599/9240850",
       "source": "money.udn.com",
       "published": 1767336440
+    },
+    {
+      "id": "c1bcd3a73a84",
+      "title": "韓媒：李在明1月5日晤習近平  共商民生與和平",
+      "url": "https://money.udn.com/money/story/5599/9240849",
+      "source": "money.udn.com",
+      "published": 1767336309
     },
     {
       "id": "7d71f933366c",
@@ -343,13 +350,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260101-2025%E5%B9%B4%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%80%85%E4%BB%AC%E5%B1%95%E7%A4%BA%E4%BA%86%E4%BB%96%E7%9A%84%E6%84%8F%E5%BF%97",
       "source": "rfi.fr",
       "published": 1767299352
-    },
-    {
-      "id": "231e6ca7047d",
-      "title": "密爾沃基校園鉛漆危機落幕？耗資四千萬美元後的安全真相",
-      "url": "https://www.singtaousa.com/2026/01/01/lifestyle/health/milwaukee-clears-its-public-schools-of-lead-based-paint-risks-after-10-months-of-work-cnn/",
-      "source": "singtaousa.com",
-      "published": 1767298414
     },
     {
       "id": "a51f1d6a1932",
@@ -1402,5 +1402,5 @@
       "published": 1764753342
     }
   ],
-  "build_id": 1767338135
+  "build_id": 1767339635
 }
