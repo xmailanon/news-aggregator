@@ -1,6 +1,97 @@
 {
-  "updated": 1767356426,
+  "updated": 1767359165,
   "items": [
+    {
+      "id": "88fc3c810770",
+      "title": "日媒：高市早苗與川普最快1/2通話　可能談訪美事宜",
+      "url": "https://money.udn.com/money/story/10511/9241534",
+      "source": "money.udn.com",
+      "published": 1767359166
+    },
+    {
+      "id": "bfc901262e63",
+      "title": "2026元旦三藩市華人區丁財兩旺",
+      "url": "https://www.singtaousa.com/2026/01/02/news/usa/san-francisco-new-year-prosperity/",
+      "source": "singtaousa.com",
+      "published": 1767358800
+    },
+    {
+      "id": "38f4089d930f",
+      "title": "僑路基金會南灣開元旦茶話會   深入討論在美國公共事務角色",
+      "url": "https://www.singtaousa.com/2026/01/02/news/usa/overseas-chinese-role-public-affairs/",
+      "source": "singtaousa.com",
+      "published": 1767358800
+    },
+    {
+      "id": "d4984f7cd386",
+      "title": "東灣南灣中半島2026元旦日零時   兩男兩女嬰相繼搶閘面世報佳音",
+      "url": "https://www.singtaousa.com/2026/01/02/news/usa/bay-area-newborns-2026/",
+      "source": "singtaousa.com",
+      "published": 1767358800
+    },
+    {
+      "id": "c0eb3fa77eb4",
+      "title": "三藩市去年交通死亡人數 同比降一半",
+      "url": "https://www.singtaousa.com/2026/01/02/news/usa/san-francisco-traffic-deaths/",
+      "source": "singtaousa.com",
+      "published": 1767358800
+    },
+    {
+      "id": "aa744923be55",
+      "title": "參選三藩市第十區市參事   布魯特關注華社需求與溝通",
+      "url": "https://www.singtaousa.com/2026/01/02/news/usa/brookter-district-10-supervisor/",
+      "source": "singtaousa.com",
+      "published": 1767358800
+    },
+    {
+      "id": "794a8333c3d2",
+      "title": "帝利市280公路車禍一人亡",
+      "url": "https://www.singtaousa.com/2026/01/02/news/usa/daly-city-highway-crash/",
+      "source": "singtaousa.com",
+      "published": 1767358800
+    },
+    {
+      "id": "dba41b548ab5",
+      "title": "元旦紀念大會 關切台海局勢",
+      "url": "https://www.singtaousa.com/2026/01/02/news/usa/taiwan-strait-cross-strait-relations/",
+      "source": "singtaousa.com",
+      "published": 1767358800
+    },
+    {
+      "id": "c1f660813063",
+      "title": "新加坡受惠AI熱Q4表現強勁　2025年GDP成長達4.8%",
+      "url": "https://money.udn.com/money/story/5599/9241522",
+      "source": "money.udn.com",
+      "published": 1767358448
+    },
+    {
+      "id": "57a400e81479",
+      "title": "力挺接班人！巴菲特：比起任何企業 波克夏更有機會再延續100年",
+      "url": "https://money.udn.com/money/story/5599/9241514",
+      "source": "money.udn.com",
+      "published": 1767358150
+    },
+    {
+      "id": "29c62107a304",
+      "title": "涉嫌湮滅證據　韓國法院裁定續押尹錫悅最長6個月",
+      "url": "https://money.udn.com/money/story/5599/9241510",
+      "source": "money.udn.com",
+      "published": 1767357939
+    },
+    {
+      "id": "0d5ed6d22f51",
+      "title": "尽管西方制裁步步加紧 大量德国企业仍计划留在俄罗斯市场",
+      "url": "https://www.dw.com/zh/尽管西方制裁步步加紧-大量德国企业仍计划留在俄罗斯市场/a-75368426?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1767357840
+    },
+    {
+      "id": "4a371b872382",
+      "title": "瑞士酒吧火災  義大利多人失聯、17歲高球好手罹難",
+      "url": "https://money.udn.com/money/story/5599/9241492",
+      "source": "money.udn.com",
+      "published": 1767357180
+    },
     {
       "id": "24fba4be26d3",
       "title": "阿富汗多個地區暴雨釀洪災　至少17死11傷",
@@ -184,13 +275,6 @@
       "published": 1767348000
     },
     {
-      "id": "539ce97fe352",
-      "title": "因三登山客喪生 鮑爾迪山關閉至1月7日",
-      "url": "https://www.singtaousa.com/2026/01/02/news/usa/mount-baldy-closure-deaths/",
-      "source": "singtaousa.com",
-      "published": 1767348000
-    },
-    {
       "id": "d1c62b32b551",
       "title": "特朗普：若伊朗开枪暴力杀害和平抗议者，美国将挺身相救",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260102-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%8B%A5%E4%BC%8A%E6%9C%97%E5%BC%80%E6%9E%AA%E6%9A%B4%E5%8A%9B%E6%9D%80%E5%AE%B3%E5%92%8C%E5%B9%B3%E6%8A%97%E8%AE%AE%E8%80%85%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%8C%BA%E8%BA%AB%E7%9B%B8%E6%95%91",
@@ -254,20 +338,6 @@
       "published": 1767343020
     },
     {
-      "id": "d63557dabfa5",
-      "title": "國際油價跌　下週汽柴油估持平或降1角",
-      "url": "https://money.udn.com/money/story/5599/9241126",
-      "source": "money.udn.com",
-      "published": 1767343000
-    },
-    {
-      "id": "0caf7c24d0fe",
-      "title": "中日外交關係緊張  殃及北海道扇貝貿易",
-      "url": "https://money.udn.com/money/story/5599/9241122",
-      "source": "money.udn.com",
-      "published": 1767342949
-    },
-    {
       "id": "250557d61c90",
       "title": "Netflix連續劇《怪奇物語》迎來史詩般的感人大結局",
       "url": "https://www.bbc.com/zhongwen/articles/clye42keyn1o/trad?at_medium=RSS&at_campaign=rss",
@@ -275,32 +345,11 @@
       "published": 1767342932
     },
     {
-      "id": "34f44eb33346",
-      "title": "韓國空軍T-50教練機緊急降落時傾翻　兩飛官無恙",
-      "url": "https://money.udn.com/money/story/5599/9241111",
-      "source": "money.udn.com",
-      "published": 1767342658
-    },
-    {
-      "id": "efc62f495e50",
-      "title": "日本民眾搶購新年福袋　清晨4點摸黑排隊",
-      "url": "https://money.udn.com/money/story/5599/9241115",
-      "source": "money.udn.com",
-      "published": 1767342657
-    },
-    {
       "id": "b99d47abe3e4",
       "title": "黎智英女儿告诉BBC：父亲健康恶化　港府强烈谴责误导公众",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260102-%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%A5%B3%E5%84%BF%E8%AF%ADbbc-%E7%88%B6%E4%BA%B2%E5%81%A5%E5%BA%B7%E6%81%B6%E5%8C%96-%E6%B8%AF%E5%BA%9C%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
       "source": "rfi.fr",
       "published": 1767342559
-    },
-    {
-      "id": "db7232e1e83b",
-      "title": "葉門亞丁機場停飛　沙烏地大使稱代表團被拒降落",
-      "url": "https://money.udn.com/money/story/5599/9241096",
-      "source": "money.udn.com",
-      "published": 1767342289
     },
     {
       "id": "cb2ee4fafdce",
@@ -315,13 +364,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260102-%E9%A6%99%E6%B8%AF%E7%AB%8B%E6%B3%95%E4%BC%9A%E5%88%B6%E8%A1%A1%E5%8A%9B%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%87%8F%E5%BC%B1-%E7%89%B9%E9%A6%96%E4%B8%BA%E8%AE%AE%E5%91%98%E6%8F%90%E9%97%AE%E5%88%92%E7%BA%A2%E7%BA%BF-%E6%83%9F%E5%85%B6%E5%81%A5%E5%BA%B7%E6%9B%B4%E7%9E%A9%E7%9B%AE",
       "source": "rfi.fr",
       "published": 1767340868
-    },
-    {
-      "id": "f53fdefffd27",
-      "title": "北韓「公主」再升級？金朱愛參拜家族聖地 接班之路更進一步",
-      "url": "https://www.singtaousa.com/2026/01/02/news/world/kims-daughter-visits-family-mausoleum-promoting-her-potential-status-as-heir-in-north-korea/",
-      "source": "singtaousa.com",
-      "published": 1767339457
     },
     {
       "id": "1a0f2ae19234",
@@ -345,25 +387,11 @@
       "published": 1767332472
     },
     {
-      "id": "7a526cecc607",
-      "title": "芝加哥賭場中獎金遭拒，尋求庇護者「合法證件」成阻礙？",
-      "url": "https://www.singtaousa.com/2026/01/01/news/usa/ballys-casino-jackpot-winner-says-he-hasnt-been-paid-a-dime-because-of-his-immigration-status/",
-      "source": "singtaousa.com",
-      "published": 1767330000
-    },
-    {
       "id": "f36862f90869",
       "title": "觀察：房地產巨頭萬科債務危機顯現，是否會成為下一個恆大",
       "url": "https://www.bbc.com/zhongwen/articles/c620rr41n0zo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1767328772
-    },
-    {
-      "id": "760fbb30a38f",
-      "title": "阿富汗暴雨終結乾旱卻引發致命洪災 已知至少17死11傷",
-      "url": "https://www.singtaousa.com/2026/01/01/news/world/flash-floods-triggered-by-heavy-rains-in-afghanistan-kill-at-least-17-people/",
-      "source": "singtaousa.com",
-      "published": 1767327876
     },
     {
       "id": "bd81da3c35ab",
@@ -392,27 +420,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/ce8rv6y17dko/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1767321748
-    },
-    {
-      "id": "92cb568536b5",
-      "title": "美國郵政郵戳日期新變革：為何你的郵寄日不再是當天？",
-      "url": "https://www.singtaousa.com/2026/01/01/news/usa/usps-announces-changes-to-the-postmark-date-system/",
-      "source": "singtaousa.com",
-      "published": 1767319200
-    },
-    {
-      "id": "b38147dd943d",
-      "title": "迪士尼樂園表演驚魂！印第安納瓊斯巨石道具失控撞向員工",
-      "url": "https://www.singtaousa.com/2026/01/01/news/usa/disney-cast-member-recovering-after-videos-show-runaway-boulder-at-indiana-jones-show/",
-      "source": "singtaousa.com",
-      "published": 1767315638
-    },
-    {
-      "id": "0fea615692a5",
-      "title": "知名超市瓶裝水驚傳含玻璃？Waitrose緊急召回",
-      "url": "https://www.singtaousa.com/2026/01/01/news/world/supermarket-giant-recalling-bottles-of-water-in-essex-as-they-could-contain-glass/",
-      "source": "singtaousa.com",
-      "published": 1767315538
     },
     {
       "id": "35a12d6a7ea4",
@@ -548,13 +555,6 @@
       "published": 1767271140
     },
     {
-      "id": "82923cf5c5cf",
-      "title": "日本国会女议员发起要求增加女性洗手间隔间数量的请愿",
-      "url": "https://www.dw.com/zh/日本国会女议员发起要求增加女性洗手间隔间数量的请愿/a-75360568?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1767271020
-    },
-    {
       "id": "674ffdd69cc7",
       "title": "如何轻松实现新年目标？心理学家教你几招",
       "url": "https://www.dw.com/zh/如何轻松实现新年目标？心理学家教你几招/a-75360565?maca=chi-rss-chi-all-1127-rdf",
@@ -642,13 +642,6 @@
       "id": "e7a9487a1d34",
       "title": "德国一家银行金库被钻洞盗窃 3000万欧元财物不翼而飞",
       "url": "https://www.dw.com/zh/德国一家银行金库被钻洞盗窃-3000万欧元财物不翼而飞/a-75349453?maca=chi-rss-chi-news-3224-rdf",
-      "source": "dw.com",
-      "published": 1767184920
-    },
-    {
-      "id": "e1d1661cb828",
-      "title": "德国一家银行金库被钻洞盗窃 3000万欧元财物不翼而飞",
-      "url": "https://www.dw.com/zh/德国一家银行金库被钻洞盗窃-3000万欧元财物不翼而飞/a-75349453?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1767184920
     },
@@ -1353,13 +1346,6 @@
       "published": 1765498927
     },
     {
-      "id": "b2c6c356e8f1",
-      "title": "德国外长瓦德富尔访问中国：寻找稀土之旅",
-      "url": "https://www.dw.com/zh/德国外长瓦德富尔访问中国：寻找稀土之旅/a-75089896?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1765368300
-    },
-    {
       "id": "169de14c08fc",
       "title": "川普為輝達AI晶片銷中國開綠燈 北京買單嗎?",
       "url": "https://www.dw.com/zh/川普為輝達ai晶片銷中國開綠燈-北京買單嗎/a-75072557?maca=chi-rss-chi-all-1127-rdf",
@@ -1395,5 +1381,5 @@
       "published": 1764819674
     }
   ],
-  "build_id": 1767356426
+  "build_id": 1767359165
 }
