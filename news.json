@@ -1,6 +1,20 @@
 {
-  "updated": 1767363064,
+  "updated": 1767364954,
   "items": [
+    {
+      "id": "2d99c8050769",
+      "title": "川普與伊朗高級官員就伊朗爆發的抗議活動互相發出威脅。",
+      "url": "https://www.singtaousa.com/2026/01/02/news/world/trump-and-top-iranian-officials-exchange-threats-over-protests-roiling-iran/",
+      "source": "singtaousa.com",
+      "published": 1767364721
+    },
+    {
+      "id": "3e89076ee3b3",
+      "title": "瑞士酒吧火災釀死傷　教宗向罹難者親友表達關懷",
+      "url": "https://money.udn.com/money/story/5599/9241574",
+      "source": "money.udn.com",
+      "published": 1767363207
+    },
     {
       "id": "a8d6b3d469a7",
       "title": "乌军事情报负责人布达诺夫接受泽连斯基的总统办公室主任任命",
@@ -75,13 +89,6 @@
       "id": "696ef1c19210",
       "title": "聯邦停擺致律師無錢收 被告權益受損法官撤案",
       "url": "https://www.singtaousa.com/2026/01/02/news/usa/federal-shutdown-lawyers-rights/",
-      "source": "singtaousa.com",
-      "published": 1767362400
-    },
-    {
-      "id": "7cf175a6462c",
-      "title": "閃迪點燃投資者熱情股價狂飆559%",
-      "url": "https://www.singtaousa.com/2026/01/02/news/usa/sandisk-stock-surge-ai/",
       "source": "singtaousa.com",
       "published": 1767362400
     },
@@ -315,13 +322,6 @@
       "url": "https://money.udn.com/money/story/5599/9241309",
       "source": "money.udn.com",
       "published": 1767348381
-    },
-    {
-      "id": "01d8f4c2399a",
-      "title": "民調：南韓人對中國友善度大減　僅12.9%有好感",
-      "url": "https://money.udn.com/money/story/5599/9241318",
-      "source": "money.udn.com",
-      "published": 1767348376
     },
     {
       "id": "d1c62b32b551",
@@ -1388,5 +1388,5 @@
       "published": 1764819674
     }
   ],
-  "build_id": 1767363064
+  "build_id": 1767364954
 }
