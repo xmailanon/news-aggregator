@@ -1,6 +1,34 @@
 {
-  "updated": 1767346971,
+  "updated": 1767348706,
   "items": [
+    {
+      "id": "30bea579e693",
+      "title": "李在明登陸前夕 南韓官方：堅持尊重「一個中國」的立場",
+      "url": "https://money.udn.com/money/story/5599/9241309",
+      "source": "money.udn.com",
+      "published": 1767348381
+    },
+    {
+      "id": "01d8f4c2399a",
+      "title": "民調：南韓人對中國友善度大減　僅12.9%有好感",
+      "url": "https://money.udn.com/money/story/5599/9241318",
+      "source": "money.udn.com",
+      "published": 1767348376
+    },
+    {
+      "id": "d1c62b32b551",
+      "title": "特朗普：若伊朗开枪暴力杀害和平抗议者，美国将挺身相救",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260102-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%8B%A5%E4%BC%8A%E6%9C%97%E5%BC%80%E6%9E%AA%E6%9A%B4%E5%8A%9B%E6%9D%80%E5%AE%B3%E5%92%8C%E5%B9%B3%E6%8A%97%E8%AE%AE%E8%80%85%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%8C%BA%E8%BA%AB%E7%9B%B8%E6%95%91",
+      "source": "rfi.fr",
+      "published": 1767347698
+    },
+    {
+      "id": "5f413b13585a",
+      "title": "科技類股引領亞股延續漲勢 新興市場成長動能具韌性",
+      "url": "https://money.udn.com/money/story/5599/9241274",
+      "source": "money.udn.com",
+      "published": 1767347206
+    },
     {
       "id": "b80f0aa2f371",
       "title": "亞股2026開年多收紅　市場觀望美股新一年走勢",
@@ -168,27 +196,6 @@
       "url": "https://money.udn.com/money/story/122381/9231182",
       "source": "money.udn.com",
       "published": 1767342144
-    },
-    {
-      "id": "b910eba94eab",
-      "title": "美國 75 美元智慧戒指 化身錄音幫手",
-      "url": "https://money.udn.com/money/story/122381/9231256",
-      "source": "money.udn.com",
-      "published": 1767342079
-    },
-    {
-      "id": "614ff004bb6e",
-      "title": "曼哈頓徵收塞車費 空汙明顯減少",
-      "url": "https://money.udn.com/money/story/122381/9231252",
-      "source": "money.udn.com",
-      "published": 1767342076
-    },
-    {
-      "id": "2518dfa2233a",
-      "title": "西班牙研發風力推進技術 大咖爭相投資",
-      "url": "https://money.udn.com/money/story/122381/9231234",
-      "source": "money.udn.com",
-      "published": 1767342051
     },
     {
       "id": "ed3b7f0a08d0",
@@ -518,13 +525,6 @@
       "url": "https://www.dw.com/zh/客座评论：从增长走向结构性生存：对2025年中国的总结/a-75359590?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1767267600
-    },
-    {
-      "id": "c4112d4ae228",
-      "title": "赖清德新年讲话：做最坏的打算，也做最好的准备，2026年是台湾非常关键的一年",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260101-%E8%B5%96%E6%B8%85%E5%BE%B7%E6%96%B0%E5%B9%B4%E8%AE%B2%E8%AF%9D-%E5%81%9A%E6%9C%80%E5%9D%8F%E7%9A%84%E6%89%93%E7%AE%97%EF%BC%8C%E4%B9%9F%E5%81%9A%E6%9C%80%E5%A5%BD%E7%9A%84%E5%87%86%E5%A4%87%EF%BC%8C2026%E5%B9%B4%E6%98%AF%E5%8F%B0%E6%B9%BE%E9%9D%9E%E5%B8%B8%E5%85%B3%E9%94%AE%E7%9A%84%E4%B8%80%E5%B9%B4",
-      "source": "rfi.fr",
-      "published": 1767267267
     },
     {
       "id": "bcd55a0c0d15",
@@ -1395,5 +1395,5 @@
       "published": 1764819674
     }
   ],
-  "build_id": 1767346971
+  "build_id": 1767348706
 }
