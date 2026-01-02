@@ -1,12 +1,33 @@
 {
-  "updated": 1767373780,
+  "updated": 1767375540,
   "items": [
+    {
+      "id": "e8b8dc32696c",
+      "title": "元旦驚現三女合謀 攀爬樂山大佛偷竊祈福錢幣",
+      "url": "https://www.singtaousa.com/2026/01/02/news/china/buddha-offering-money-theft-sichuan/",
+      "source": "singtaousa.com",
+      "published": 1767375287
+    },
+    {
+      "id": "d3427fd07a90",
+      "title": "聯邦僱員挑戰特朗普新禁令，性別肯定護理保障何去何從？",
+      "url": "https://www.singtaousa.com/2026/01/02/news/usa/us-federal-employees-file-complaint-against-ban-on-gender-affirming-care/",
+      "source": "singtaousa.com",
+      "published": 1767375000
+    },
     {
       "id": "2f7410a3d2e2",
       "title": "訪華前重磅表態！韓國總統李在明重申「一個中國」立場，將率200人經貿團深化合作",
       "url": "https://www.singtaousa.com/2026/01/02/news/china/lee-jae-myung-china-visit-one-china-taiwan/",
       "source": "singtaousa.com",
       "published": 1767373490
+    },
+    {
+      "id": "b80b9b8bd7b7",
+      "title": "鱼子酱：中国“黑金”攻略全球精致餐饮市场",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260102-%E9%B1%BC%E5%AD%90%E9%85%B1-%E4%B8%AD%E5%9B%BD-%E9%BB%91%E9%87%91-%E6%94%BB%E7%95%A5%E5%85%A8%E7%90%83%E7%B2%BE%E8%87%B4%E9%A4%90%E9%A5%AE%E5%B8%82%E5%9C%BA",
+      "source": "rfi.fr",
+      "published": 1767373400
     },
     {
       "id": "e8691c9de3fb",
@@ -205,13 +226,6 @@
       "published": 1767365652
     },
     {
-      "id": "ca38be9648d0",
-      "title": "墨西哥6.5級強震撼動中南部 總統新年記者會一度中斷",
-      "url": "https://www.singtaousa.com/2026/01/02/news/world/earthquake-with-a-preliminary-magnitude-of-6-5-rattles-southern-and-central-mexico/",
-      "source": "singtaousa.com",
-      "published": 1767365312
-    },
-    {
       "id": "3dcd87490b61",
       "title": "墨西哥市規模6.5強震　總統記者會被迫中斷",
       "url": "https://money.udn.com/money/story/5599/9241611",
@@ -224,13 +238,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260102-%E9%AB%98%E5%B8%82%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%E5%B0%86%E4%BA%8E%E6%98%A5%E5%AD%A3%E8%AE%BF%E7%BE%8E-%E5%B0%B1%E5%8D%B0%E5%A4%AA%E5%9C%B0%E5%8C%BA%E9%97%AE%E9%A2%98%E4%BA%A4%E6%8D%A2%E6%84%8F%E8%A7%81",
       "source": "rfi.fr",
       "published": 1767364831
-    },
-    {
-      "id": "2d99c8050769",
-      "title": "特朗普與伊朗高級官員就伊朗爆發的抗議活動互相發出威脅。",
-      "url": "https://www.singtaousa.com/2026/01/02/news/world/trump-and-top-iranian-officials-exchange-threats-over-protests-roiling-iran/",
-      "source": "singtaousa.com",
-      "published": 1767364721
     },
     {
       "id": "c17a3f8dbcc8",
@@ -511,13 +518,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260101-%E5%A4%A7%E9%99%86%E7%83%AD%E5%BF%83%E5%85%AC%E7%9B%8A%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%81%E7%AB%8B%E4%B8%8D%E6%98%8E%E4%B8%8D%E7%99%BD%E8%A2%AB%E5%B0%81%E5%8F%B7%E7%BB%88%E4%BA%8E%E8%B5%B7%E8%AF%89%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A",
       "source": "rfi.fr",
       "published": 1767305345
-    },
-    {
-      "id": "342b00b4f001",
-      "title": "莫斯科指责基辅新年用无人机杀害24人",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260101-%E8%8E%AB%E6%96%AF%E7%A7%91%E6%8C%87%E8%B4%A3%E5%9F%BA%E8%BE%85%E6%96%B0%E5%B9%B4%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9D%80%E5%AE%B324%E4%BA%BA",
-      "source": "rfi.fr",
-      "published": 1767302239
     },
     {
       "id": "29db41a175d6",
@@ -1388,5 +1388,5 @@
       "published": 1764819674
     }
   ],
-  "build_id": 1767373780
+  "build_id": 1767375540
 }
