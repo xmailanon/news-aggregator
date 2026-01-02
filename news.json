@@ -1,12 +1,75 @@
 {
-  "updated": 1767388107,
+  "updated": 1767389609,
   "items": [
+    {
+      "id": "1e6db3a87472",
+      "title": "約克街頭驚現時速160公里電單車，警方揭開其驚人真面目",
+      "url": "https://www.singtaousa.com/2026/01/02/news/world/electric-bike-capable-of-over-100mph-seized-in-york-bbc-news/",
+      "source": "singtaousa.com",
+      "published": 1767389400
+    },
+    {
+      "id": "7426039281e9",
+      "title": "瑞士跨年夜酒吧火災 香檳樽小火花蠟燭疑碰天花引發 引40死",
+      "url": "https://www.singtaousa.com/2026/01/02/news/world/new-years-eve-bar-fire-in-swiss-ski-resort-kills-40-people/",
+      "source": "singtaousa.com",
+      "published": 1767389189
+    },
+    {
+      "id": "bbee84722de2",
+      "title": "2025年参观法国古迹人数创下新高",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260102-2025%E5%B9%B4%E5%8F%82%E8%A7%82%E6%B3%95%E5%9B%BD%E5%8F%A4%E8%BF%B9%E4%BA%BA%E6%95%B0%E5%88%9B%E4%B8%8B%E6%96%B0%E9%AB%98",
+      "source": "rfi.fr",
+      "published": 1767388627
+    },
+    {
+      "id": "12d6b4b6611a",
+      "title": "中国提升避孕套和避孕药价格",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260102-%E4%B8%AD%E5%9B%BD%E6%8F%90%E5%8D%87%E9%81%BF%E5%AD%95%E5%A5%97%E5%92%8C%E9%81%BF%E5%AD%95%E8%8D%AF%E4%BB%B7%E6%A0%BC",
+      "source": "rfi.fr",
+      "published": 1767388551
+    },
+    {
+      "id": "ff19186d88ea",
+      "title": "德黑兰强硬回应特朗普",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260102-%E5%BE%B7%E9%BB%91%E5%85%B0%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE",
+      "source": "rfi.fr",
+      "published": 1767388198
+    },
+    {
+      "id": "ba06d2b3696f",
+      "title": "法一名男子网购“性爱”玩偶    被判六个月刑期",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260102-%E6%B3%95%E4%B8%80%E5%90%8D%E7%94%B7%E5%AD%90%E7%BD%91%E8%B4%AD-%E6%80%A7%E7%88%B1-%E7%8E%A9%E5%81%B6-%E8%A2%AB%E5%88%A4%E5%85%AD%E4%B8%AA%E6%9C%88%E5%88%91%E6%9C%9F",
+      "source": "rfi.fr",
+      "published": 1767387945
+    },
+    {
+      "id": "d5bb2dcb1587",
+      "title": "柬埔寨指责泰国“吞并”一边境村庄",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260102-%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%8C%87%E8%B4%A3%E6%B3%B0%E5%9B%BD-%E5%90%9E%E5%B9%B6-%E4%B8%80%E8%BE%B9%E5%A2%83%E6%9D%91%E5%BA%84",
+      "source": "rfi.fr",
+      "published": 1767387619
+    },
     {
       "id": "9fdb32670846",
       "title": "前奧運選手淪毒梟 韋丁四千萬美元摩托車隊墨西哥遭查",
       "url": "https://www.singtaousa.com/2026/01/02/news/world/dozens-of-motorcycles-belonging-to-wanted-fugitive-ryan-james-wedding-seized-by-mexican-authorities/",
       "source": "singtaousa.com",
       "published": 1767387600
+    },
+    {
+      "id": "be4dea5d27c1",
+      "title": "瑞士酒吧火灾：法四大医院收治重伤员",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260102-%E7%91%9E%E5%A3%AB%E9%85%92%E5%90%A7%E7%81%AB%E7%81%BE-%E6%B3%95%E5%9B%9B%E5%A4%A7%E5%8C%BB%E9%99%A2%E6%94%B6%E6%B2%BB%E9%87%8D%E4%BC%A4%E5%91%98",
+      "source": "rfi.fr",
+      "published": 1767387425
+    },
+    {
+      "id": "43b6876ed1ba",
+      "title": "战事吃紧    乌从两个城市撤离3000名儿童和老人",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260102-%E6%88%98%E4%BA%8B%E5%90%83%E7%B4%A7-%E4%B9%8C%E4%BB%8E%E4%B8%A4%E4%B8%AA%E5%9F%8E%E5%B8%82%E6%92%A4%E7%A6%BB3000%E5%90%8D%E5%84%BF%E7%AB%A5%E5%92%8C%E8%80%81%E4%BA%BA",
+      "source": "rfi.fr",
+      "published": 1767387292
     },
     {
       "id": "b5b0b8fc46f6",
@@ -86,25 +149,11 @@
       "published": 1767380686
     },
     {
-      "id": "89abe35816a0",
-      "title": "【北上消費注意】深圳「擦鞋黨」專吼港人！突跪地硬銷貴價鞋油 實測效果與3.5元貨無異",
-      "url": "https://www.singtaousa.com/2026/01/02/news/china/shenzhen-shoe-shiners-target-hongkongers/",
-      "source": "singtaousa.com",
-      "published": 1767378889
-    },
-    {
       "id": "f2f43f5ffdea",
       "title": "歐股新年首日收紅　英股指數突破萬點",
       "url": "https://money.udn.com/money/story/5599/9241872",
       "source": "money.udn.com",
       "published": 1767378702
-    },
-    {
-      "id": "bb005a0d9581",
-      "title": "廣東急凍！冷空氣殺到，3日體感溫度恐跌破冰點",
-      "url": "https://www.singtaousa.com/2026/01/02/news/china/cold-air-south-china-freezing-wind-chill/",
-      "source": "singtaousa.com",
-      "published": 1767377084
     },
     {
       "id": "65839e2bb736",
@@ -513,60 +562,11 @@
       "published": 1767313203
     },
     {
-      "id": "2ae56f0badb2",
-      "title": "保加利亚棕熊保护区缅怀法国影星碧姬·芭铎",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260102-%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E6%A3%95%E7%86%8A%E4%BF%9D%E6%8A%A4%E5%8C%BA%E7%BC%85%E6%80%80%E6%B3%95%E5%9B%BD%E5%BD%B1%E6%98%9F%E7%A2%A7%E5%A7%AC%C2%B7%E8%8A%AD%E9%93%8E",
-      "source": "rfi.fr",
-      "published": 1767312171
-    },
-    {
-      "id": "52a52c706843",
-      "title": "中国：“智能农业”在加速推进，但不无问题",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260101-%E4%B8%AD%E5%9B%BD-%E6%99%BA%E8%83%BD%E5%86%9C%E4%B8%9A-%E5%9C%A8%E5%8A%A0%E9%80%9F%E6%8E%A8%E8%BF%9B%EF%BC%8C%E4%BD%86%E4%B8%8D%E6%97%A0%E9%97%AE%E9%A2%98",
-      "source": "rfi.fr",
-      "published": 1767311951
-    },
-    {
       "id": "3856d8758961",
       "title": "美国呼吁中国克制：停止对台湾的军事施压，转而进行有意义的对话",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260101-%E7%BE%8E%E5%9B%BD%E5%91%BC%E5%90%81%E4%B8%AD%E5%9B%BD%E5%85%8B%E5%88%B6-%E5%81%9C%E6%AD%A2%E5%AF%B9%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%86%9B%E4%BA%8B%E6%96%BD%E5%8E%8B%EF%BC%8C%E8%BD%AC%E8%80%8C%E8%BF%9B%E8%A1%8C%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84%E5%AF%B9%E8%AF%9D",
       "source": "rfi.fr",
       "published": 1767305964
-    },
-    {
-      "id": "8eb4853759cc",
-      "title": "中国热心公益女演员袁立不明不白被封号 终于起诉新浪微博",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260101-%E5%A4%A7%E9%99%86%E7%83%AD%E5%BF%83%E5%85%AC%E7%9B%8A%E5%A5%B3%E6%BC%94%E5%91%98%E8%A2%81%E7%AB%8B%E4%B8%8D%E6%98%8E%E4%B8%8D%E7%99%BD%E8%A2%AB%E5%B0%81%E5%8F%B7%E7%BB%88%E4%BA%8E%E8%B5%B7%E8%AF%89%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A",
-      "source": "rfi.fr",
-      "published": 1767305345
-    },
-    {
-      "id": "a46152ea9e65",
-      "title": "纯电动汽车销量：比亚迪超特斯拉",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260101-%E7%BA%AF%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F-%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%B6%85%E7%89%B9%E6%96%AF%E6%8B%89",
-      "source": "rfi.fr",
-      "published": 1767301436
-    },
-    {
-      "id": "aac8293ad0b3",
-      "title": "瑞士南部一酒吧爆炸    死40人   伤115人",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260101-%E7%91%9E%E5%A3%AB%E5%8D%97%E9%83%A8%E4%B8%80%E9%85%92%E5%90%A7%E7%88%86%E7%82%B8-%E6%AD%BB40%E4%BA%BA-%E4%BC%A4115%E4%BA%BA",
-      "source": "rfi.fr",
-      "published": 1767301255
-    },
-    {
-      "id": "ed920dfc7b4b",
-      "title": "2025年，习近平向世界最强大者们展示了他的意志",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260101-2025%E5%B9%B4%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%80%85%E4%BB%AC%E5%B1%95%E7%A4%BA%E4%BA%86%E4%BB%96%E7%9A%84%E6%84%8F%E5%BF%97",
-      "source": "rfi.fr",
-      "published": 1767299352
-    },
-    {
-      "id": "a51f1d6a1932",
-      "title": "泽连斯基2026新年谈话：乌克兰要和平但绝不能亡国",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260101-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA2026%E6%96%B0%E5%B9%B4%E8%B0%88%E8%AF%9D-%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A6%81%E5%92%8C%E5%B9%B3%E4%BD%86%E4%B8%8D%E8%83%BD%E4%BA%A1%E5%9B%BD",
-      "source": "rfi.fr",
-      "published": 1767298399
     },
     {
       "id": "73d152830ab7",
@@ -1402,5 +1402,5 @@
       "published": 1764819674
     }
   ],
-  "build_id": 1767388107
+  "build_id": 1767389609
 }
