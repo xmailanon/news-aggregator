@@ -1,6 +1,20 @@
 {
-  "updated": 1767368420,
+  "updated": 1767370373,
   "items": [
+    {
+      "id": "c113e4121ca6",
+      "title": "南非成年禮爆發悲劇，傳統割禮儀式背後的致命風險",
+      "url": "https://www.singtaousa.com/2026/01/02/news/world/41-young-men-die-in-south-africa-from-circumcision-procedures-during-initiation-ceremonies/",
+      "source": "singtaousa.com",
+      "published": 1767369600
+    },
+    {
+      "id": "866c8aef466b",
+      "title": "美國藥價新年再漲！輝瑞等大廠無視特朗普壓力 逾350種藥品漲價",
+      "url": "https://www.singtaousa.com/2026/01/02/news/usa/exclusive-drugmakers-raise-us-prices-on-350-medicines-despite-pressure-from-trump/",
+      "source": "singtaousa.com",
+      "published": 1767367800
+    },
     {
       "id": "5e1760907e78",
       "title": "沙烏地聯軍空襲葉門分離主義組織　傳7死逾20傷",
@@ -10,7 +24,7 @@
     },
     {
       "id": "4c14652591ce",
-      "title": "瑞士新年派對陷火海  煙火表演疑為禍首",
+      "title": "瑞士調查人員認為，酒瓶頂部的閃爍蠟燭引發了酒吧致命火災。",
       "url": "https://www.singtaousa.com/2026/01/02/news/world/swiss-investigators-believe-sparkling-flares-atop-wine-bottles-ignited-fatal-bar-fire/",
       "source": "singtaousa.com",
       "published": 1767367283
@@ -159,20 +173,6 @@
       "id": "2695c1c5a18b",
       "title": "馬斯克捐21萬股特斯拉股票",
       "url": "https://www.singtaousa.com/2026/01/02/news/usa/musk-donates-tesla-shares/",
-      "source": "singtaousa.com",
-      "published": 1767362400
-    },
-    {
-      "id": "0e9eac997836",
-      "title": "Neuralink手術將近全自動化",
-      "url": "https://www.singtaousa.com/2026/01/02/news/usa/neuralink-surgery-automation/",
-      "source": "singtaousa.com",
-      "published": 1767362400
-    },
-    {
-      "id": "bc8e670fa6b3",
-      "title": "36號提案成效初現 州立監獄人口減少",
-      "url": "https://www.singtaousa.com/2026/01/02/news/usa/proposition-36-prison-population/",
       "source": "singtaousa.com",
       "published": 1767362400
     },
@@ -1388,5 +1388,5 @@
       "published": 1764819674
     }
   ],
-  "build_id": 1767368420
+  "build_id": 1767370373
 }
