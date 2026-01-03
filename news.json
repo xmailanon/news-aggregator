@@ -1,6 +1,27 @@
 {
-  "updated": 1767424254,
+  "updated": 1767425769,
   "items": [
+    {
+      "id": "23de03ef5858",
+      "title": "川普稱對委內瑞拉陸地打擊「很快」將至 卡拉卡斯深夜傳爆炸",
+      "url": "https://money.udn.com/money/story/5599/9242580",
+      "source": "money.udn.com",
+      "published": 1767425267
+    },
+    {
+      "id": "92fe8a5dd77a",
+      "title": "丹佛建築工地大火延燒數小時！百名消防員苦戰，一人受傷",
+      "url": "https://www.singtaousa.com/2026/01/03/news/usa/100-firefighters-battle-massive-blaze-denver/",
+      "source": "singtaousa.com",
+      "published": 1767425206
+    },
+    {
+      "id": "ea47aa826332",
+      "title": "不滿基建「去中國化」  中國誤導式訊息攻擊越南高鐵",
+      "url": "https://money.udn.com/money/story/5599/9242562",
+      "source": "money.udn.com",
+      "published": 1767424348
+    },
     {
       "id": "a3d85462829c",
       "title": "李逸洋談高市早苗  兼具勤政與誠懇魅力、成功非偶然",
@@ -135,20 +156,6 @@
       "published": 1767414142
     },
     {
-      "id": "dd6b2033ec7b",
-      "title": "瑞士酒吧火災　急診部主任：爆燃閃燃釀重傷",
-      "url": "https://money.udn.com/money/story/5599/9242336",
-      "source": "money.udn.com",
-      "published": 1767414140
-    },
-    {
-      "id": "417458e08d73",
-      "title": "比亞迪2025年銷量超越特斯拉 全球電動車龍頭易主",
-      "url": "https://money.udn.com/money/story/5599/9242322",
-      "source": "money.udn.com",
-      "published": 1767413574
-    },
-    {
       "id": "2d0871764d3e",
       "title": "約書亞尼日利亞車禍悲劇 司機面臨多項致命指控",
       "url": "https://www.singtaousa.com/2026/01/02/news/world/anthony-joshuas-driver-charged-over-nigeria-crash-that-killed-two/",
@@ -224,13 +231,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260103-%E6%B3%95%E5%9B%BD-%E4%B8%80%E6%9C%88%E6%88%92%E9%85%92-dry-january-%E8%A1%8C%E5%8A%A8-%E8%BF%91%E5%8D%8A%E6%95%B025-34%E5%B2%81%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%A8%E6%80%81%E5%8F%82%E5%8A%A0",
       "source": "rfi.fr",
       "published": 1767399473
-    },
-    {
-      "id": "e935cc921090",
-      "title": "FBI挫敗北卡羅來納州新年恐襲陰謀 18歲青年受IS啟發策劃攻擊被捕",
-      "url": "https://www.singtaousa.com/2026/01/02/news/usa/fbi-says-it-disrupted-a-new-years-eve-attack-plan-inspired-by-islamic-state-group/",
-      "source": "singtaousa.com",
-      "published": 1767398400
     },
     {
       "id": "bbee84722de2",
@@ -1381,5 +1381,5 @@
       "published": 1765095840
     }
   ],
-  "build_id": 1767424254
+  "build_id": 1767425769
 }
