@@ -1,12 +1,40 @@
 {
-  "updated": 1767471074,
+  "updated": 1767472806,
   "items": [
+    {
+      "id": "fedf330ad464",
+      "title": "委內瑞拉副總統羅德里格斯發表電視講話：稱願與美國對話",
+      "url": "https://www.singtaousa.com/2026/01/03/news/world/venezuelan-vice-president-rodriguez-delivers-a-televised-speech-saying-he-is-willing-to-dialogue-with-the-united-states/",
+      "source": "singtaousa.com",
+      "published": 1767472629
+    },
+    {
+      "id": "dbcb2becd68b",
+      "title": "粵語美擒馬杜羅掀翻中國棋局｜梁建鋒突發直播",
+      "url": "https://www.singtaousa.com/2026/01/03/opinion/nicolas-maduro-joseph-leung/",
+      "source": "singtaousa.com",
+      "published": 1767472172
+    },
     {
       "id": "1d304797a5ad",
       "title": "委內瑞拉遭空襲！港府急發外遊警示 提醒當地港人提高警惕",
       "url": "https://www.singtaousa.com/2026/01/03/news/china/venezuela-airstrikes-hk-travel-alert-update/",
       "source": "singtaousa.com",
       "published": 1767470690
+    },
+    {
+      "id": "bfb27fafb338",
+      "title": "美軍突襲抓捕馬杜洛　歷經數月籌備、動用逾百架飛機",
+      "url": "https://money.udn.com/money/story/10511/9243171",
+      "source": "money.udn.com",
+      "published": 1767470686
+    },
+    {
+      "id": "12e1f6f6c4e6",
+      "title": "川普全程觀看馬杜洛逮捕行動　自豪美軍針尖精準打擊",
+      "url": "https://money.udn.com/money/story/5599/9243170",
+      "source": "money.udn.com",
+      "published": 1767470069
     },
     {
       "id": "e515456fac8c",
@@ -128,20 +156,6 @@
       "published": 1767463489
     },
     {
-      "id": "7f0c57f2dcba",
-      "title": "特朗普任命魯比奧等人接管委內瑞拉！馬杜羅被捕後續：美國將主導過渡政府",
-      "url": "https://www.singtaousa.com/2026/01/03/news/world/trump-appoints-rubio-and-others-to-take-over-venezuela-follow-up-to-maduros-arrest-the-united-states-will-lead-the-transitional-government/",
-      "source": "singtaousa.com",
-      "published": 1767463210
-    },
-    {
-      "id": "c09485ce1b11",
-      "title": "特朗普宣稱抓獲馬杜羅夫婦！中國在內的多國強烈譴責",
-      "url": "https://www.singtaousa.com/2026/01/03/news/world/nicolas-maduro-world-china/",
-      "source": "singtaousa.com",
-      "published": 1767463175
-    },
-    {
       "id": "5a2ab620b90c",
       "title": "華爾街看2026年 多頭還有戲 專家：要特別留意通膨",
       "url": "https://money.udn.com/money/story/123398/9243069",
@@ -240,25 +254,11 @@
       "published": 1767455700
     },
     {
-      "id": "9a9eaba9b090",
-      "title": "馬杜洛夫婦遭逮　川普：美國軍艦帶往紐約",
-      "url": "https://money.udn.com/money/story/5599/9243074",
-      "source": "money.udn.com",
-      "published": 1767454245
-    },
-    {
       "id": "54baa308f08f",
       "title": "各国对美国空袭委内瑞拉并抓捕马杜罗反应",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260103-%E4%B8%96%E7%95%8C%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B9%B6%E6%8A%93%E6%8D%95%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%8F%8D%E5%BA%94%E4%B8%80%E8%A7%88",
       "source": "rfi.fr",
       "published": 1767453802
-    },
-    {
-      "id": "3590b506b6d5",
-      "title": "委內瑞拉總統馬杜洛遭美國逮捕  歐盟籲克制及遵守國際法",
-      "url": "https://money.udn.com/money/story/5599/9243057",
-      "source": "money.udn.com",
-      "published": 1767453711
     },
     {
       "id": "ecadc23863e2",
@@ -1402,5 +1402,5 @@
       "published": 1765239553
     }
   ],
-  "build_id": 1767471074
+  "build_id": 1767472806
 }
