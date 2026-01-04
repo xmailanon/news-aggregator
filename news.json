@@ -1,6 +1,27 @@
 {
-  "updated": 1767535791,
+  "updated": 1767537544,
   "items": [
+    {
+      "id": "84322c865292",
+      "title": "英相施凱爾重申擁護國際法　事實未完整前避譴責美方",
+      "url": "https://money.udn.com/money/story/5599/9244229",
+      "source": "money.udn.com",
+      "published": 1767536607
+    },
+    {
+      "id": "bd2cf83d9a65",
+      "title": "法媒看马杜罗被抓：武力展示、门罗主义 、垂死的国际秩序......",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260104-%E6%B3%95%E5%AA%92%E7%9C%8B%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%A2%AB%E6%8A%93-%E6%AD%A6%E5%8A%9B%E5%B1%95%E7%A4%BA-%E9%97%A8%E7%BD%97%E4%B8%BB%E4%B9%89-%E5%9E%82%E6%AD%BB%E7%9A%84%E5%9B%BD%E9%99%85%E7%A7%A9%E5%BA%8F",
+      "source": "rfi.fr",
+      "published": 1767536133
+    },
+    {
+      "id": "679f023005f9",
+      "title": "李在明訪中　學者：北京欲離間美日韓　視南韓為最薄弱一環",
+      "url": "https://money.udn.com/money/story/5599/9244213",
+      "source": "money.udn.com",
+      "published": 1767536008
+    },
     {
       "id": "0c759c3091a7",
       "title": "李在明：中國是朝鮮半島和平與統一重要夥伴",
@@ -266,20 +287,6 @@
       "url": "https://money.udn.com/money/story/10511/9243987",
       "source": "money.udn.com",
       "published": 1767521549
-    },
-    {
-      "id": "549488e8b418",
-      "title": "中俄和伊朗將於南非聯合軍演  引發批評聲浪",
-      "url": "https://money.udn.com/money/story/5599/9243976",
-      "source": "money.udn.com",
-      "published": 1767520846
-    },
-    {
-      "id": "4c3fd4b4dec4",
-      "title": "神押注！賭委國馬杜洛垮台的預測市場投資人 四天獲利1,242%",
-      "url": "https://money.udn.com/money/story/5599/9243970",
-      "source": "money.udn.com",
-      "published": 1767520846
     },
     {
       "id": "48e1573d279b",
@@ -581,13 +588,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260103-%E8%A2%AB%E5%AE%A3%E5%B8%83%E9%81%AD%E7%BE%8E%E5%86%9B%E6%8A%93%E8%8E%B7%E6%95%B0%E5%B0%8F%E6%97%B6%E5%89%8D-%E9%A9%AC%E6%9D%9C%E7%BD%97%E6%9B%BE%E4%BC%9A%E8%A7%81%E4%B8%AD%E5%9B%BD%E7%89%B9%E4%BD%BF%E5%BC%BA%E8%B0%83%E5%85%84%E5%BC%9F%E6%83%85%E8%B0%8A",
       "source": "rfi.fr",
       "published": 1767444245
-    },
-    {
-      "id": "1714db8b9c23",
-      "title": "韩国总统李在明称尊重‘一个中国’原则 并建议韩中两国领导人每年举行会晤",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260103-%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%A7%B0%E5%B0%8A%E9%87%8D-%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD-%E5%8E%9F%E5%88%99-%E5%B9%B6%E5%BB%BA%E8%AE%AE%E9%9F%A9%E4%B8%AD%E4%B8%A4%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%AF%8F%E5%B9%B4%E4%B8%BE%E8%A1%8C%E4%BC%9A%E6%99%A4",
-      "source": "rfi.fr",
-      "published": 1767443981
     },
     {
       "id": "1b8e0b3a0501",
@@ -1402,5 +1402,5 @@
       "published": 1765095840
     }
   ],
-  "build_id": 1767535791
+  "build_id": 1767537544
 }
