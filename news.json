@@ -1,6 +1,13 @@
 {
-  "updated": 1767523267,
+  "updated": 1767524932,
   "items": [
+    {
+      "id": "f73265ca2b1c",
+      "title": "伊朗西部示威衝突未歇　首都德黑蘭出現零星抗議",
+      "url": "https://money.udn.com/money/story/10511/9244016",
+      "source": "money.udn.com",
+      "published": 1767524789
+    },
     {
       "id": "233c9abf5fef",
       "title": "鋰電池火警事故頻傳　印度機上禁用行動電源",
@@ -101,7 +108,7 @@
     },
     {
       "id": "3ba5f399ef35",
-      "title": "台積美國廠利潤",
+      "title": "傳台積電亞利桑那廠毛利 比台灣低近八倍 原因在此",
       "url": "https://money.udn.com/money/story/5599/9243969",
       "source": "money.udn.com",
       "published": 1767520755
@@ -280,13 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/9243756",
       "source": "money.udn.com",
       "published": 1767508237
-    },
-    {
-      "id": "37bbb4c94839",
-      "title": "分析：美企回流前景未明　委內瑞拉石油短期難復甦",
-      "url": "https://money.udn.com/money/story/5599/9243757",
-      "source": "money.udn.com",
-      "published": 1767508236
     },
     {
       "id": "2ba40401418b",
@@ -1402,5 +1402,5 @@
       "published": 1765359300
     }
   ],
-  "build_id": 1767523267
+  "build_id": 1767524932
 }
