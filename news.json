@@ -1,6 +1,27 @@
 {
-  "updated": 1767564620,
+  "updated": 1767566454,
   "items": [
+    {
+      "id": "94335acdccce",
+      "title": "北韓2026首度射彈　官媒：測試極音速飛彈維持核嚇阻",
+      "url": "https://money.udn.com/money/story/5599/9244578",
+      "source": "money.udn.com",
+      "published": 1767565833
+    },
+    {
+      "id": "c7c49c4fd017",
+      "title": "德国电视一台：特朗普对委军事打击违反国际法 默茨对此含糊其辞是个错误",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260104-%E5%BE%B7%E5%9B%BD%E7%94%B5%E8%A7%86%E4%B8%80%E5%8F%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%E8%BF%9D%E5%8F%8D%E5%9B%BD%E9%99%85%E6%B3%95-%E9%BB%98%E8%8C%A8%E5%AF%B9%E6%AD%A4%E5%90%AB%E7%B3%8A%E5%85%B6%E8%BE%9E%E6%98%AF%E4%B8%AA%E9%94%99%E8%AF%AF",
+      "source": "rfi.fr",
+      "published": 1767564561
+    },
+    {
+      "id": "71dbf5966947",
+      "title": "伊朗示威浪潮進入第2週　衝突持續警民再傳死傷",
+      "url": "https://money.udn.com/money/story/5599/9244556",
+      "source": "money.udn.com",
+      "published": 1767563665
+    },
     {
       "id": "26e9e543a8be",
       "title": "車Cam直擊｜沙田私家車猛撼的士撞欄 女司機無奈向警員道歉",
@@ -303,25 +324,11 @@
       "published": 1767542700
     },
     {
-      "id": "329145903aa4",
-      "title": "美國行動遭批侵犯主權　旅外委內瑞拉公民為川普辯護",
-      "url": "https://money.udn.com/money/story/5599/9244423",
-      "source": "money.udn.com",
-      "published": 1767540989
-    },
-    {
       "id": "3ed5c67597fa",
       "title": "李在明：中国是韩半岛和平统一进程中极其重要的合作伙伴",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260104-%E6%9D%8E%E5%9C%A8%E6%98%8E-%E4%B8%AD%E5%9B%BD%E6%98%AF%E9%9F%A9%E5%8D%8A%E5%B2%9B%E5%92%8C%E5%B9%B3%E7%BB%9F%E4%B8%80%E8%BF%9B%E7%A8%8B%E4%B8%AD%E6%9E%81%E5%85%B6%E9%87%8D%E8%A6%81%E7%9A%84%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4",
       "source": "rfi.fr",
       "published": 1767539576
-    },
-    {
-      "id": "26537999d4ba",
-      "title": "學者：美國偏離「善霸」形象 主要競爭對手更容易在國際舞台見縫插針",
-      "url": "https://money.udn.com/money/story/5599/9244347",
-      "source": "money.udn.com",
-      "published": 1767539030
     },
     {
       "id": "1f013b4df811",
@@ -504,13 +511,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260103-%E6%B3%95%E5%9B%BD%E6%94%BF%E7%95%8C%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%A2%AB%E6%B4%BB%E6%8D%89%E5%8F%8D%E5%BA%94%E4%B8%8D%E4%B8%80",
       "source": "rfi.fr",
       "published": 1767474376
-    },
-    {
-      "id": "047a0e7bf0ad",
-      "title": "特朗普公布马杜罗被抓后的照片",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260103-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%B8%83%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%A2%AB%E6%8A%93%E5%90%8E%E7%9A%84%E7%85%A7%E7%89%87",
-      "source": "rfi.fr",
-      "published": 1767473897
     },
     {
       "id": "e515456fac8c",
@@ -1402,5 +1402,5 @@
       "published": 1765095900
     }
   ],
-  "build_id": 1767564620
+  "build_id": 1767566454
 }
