@@ -1,6 +1,27 @@
 {
-  "updated": 1767559243,
+  "updated": 1767560960,
   "items": [
+    {
+      "id": "16266dee9dab",
+      "title": "英法联合空袭叙利亚境内“伊斯兰国”地下军火储存设施",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260104-%E8%8B%B1%E6%B3%95%E8%81%94%E5%90%88%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A%E5%A2%83%E5%86%85-%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD-%E5%9C%B0%E4%B8%8B%E5%86%9B%E7%81%AB%E5%82%A8%E5%AD%98%E8%AE%BE%E6%96%BD",
+      "source": "rfi.fr",
+      "published": 1767560691
+    },
+    {
+      "id": "7ea8dd262793",
+      "title": "國際刑警大會首度落戶香港 周一鳴：展現「超級聯繫人」實力",
+      "url": "https://www.singtaousa.com/2026/01/04/news/china/hong-kong-first-interpol-general-assembly/",
+      "source": "singtaousa.com",
+      "published": 1767560689
+    },
+    {
+      "id": "bce36789903c",
+      "title": "美軍攻擊毀損委內瑞拉民宅　官方暫未公布罹難人數",
+      "url": "https://money.udn.com/money/story/5599/9244551",
+      "source": "money.udn.com",
+      "published": 1767560071
+    },
     {
       "id": "a7e95fa4f7af",
       "title": "武漢前市長周先旺被「雙開」！中紀委列七宗罪 涉權色交易、失職致國資風險",
@@ -238,20 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9244347",
       "source": "money.udn.com",
       "published": 1767539030
-    },
-    {
-      "id": "48ef8f06b94e",
-      "title": "盧比歐：委內瑞拉領導層若做正確決定　美方願合作",
-      "url": "https://money.udn.com/money/story/5599/9244337",
-      "source": "money.udn.com",
-      "published": 1767538819
-    },
-    {
-      "id": "a5d66fa1ec5d",
-      "title": "慈濟舊金山支會31年的故事（上）",
-      "url": "https://www.singtaousa.com/2026/01/04/news/usa/tzuchi-san-francisco-chapter/",
-      "source": "singtaousa.com",
-      "published": 1767538800
     },
     {
       "id": "1f013b4df811",
@@ -602,13 +609,6 @@
       "url": "https://www.dw.com/zh/特朗普下令-涉中资公司-剥离美企芯片资产/a-75376916?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1767449820
-    },
-    {
-      "id": "558f9e127c9b",
-      "title": "马杜罗据报正被押送飞往纽约 美司法部长：马杜罗夫妇将接受美国司法的严厉审判",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260103-%E9%A9%AC%E6%9D%9C%E7%BD%97%E6%8D%AE%E6%8A%A5%E6%AD%A3%E8%A2%AB%E6%8A%BC%E9%80%81%E9%A3%9E%E5%BE%80%E7%BA%BD%E7%BA%A6-%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF-%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%A4%AB%E5%A6%87%E5%B0%86%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E7%9A%84%E4%B8%A5%E5%8E%89%E5%AE%A1%E5%88%A4",
-      "source": "rfi.fr",
-      "published": 1767447321
     },
     {
       "id": "4d7a0f6a7b0f",
@@ -1402,5 +1402,5 @@
       "published": 1765095900
     }
   ],
-  "build_id": 1767559243
+  "build_id": 1767560960
 }
