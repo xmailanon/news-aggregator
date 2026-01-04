@@ -1,6 +1,27 @@
 {
-  "updated": 1767514463,
+  "updated": 1767516330,
   "items": [
+    {
+      "id": "e56340173ccc",
+      "title": "CIA無人機全天候監控　委內瑞拉內線促馬杜洛落網",
+      "url": "https://money.udn.com/money/story/10511/9243889",
+      "source": "money.udn.com",
+      "published": 1767515445
+    },
+    {
+      "id": "b3241b4ff800",
+      "title": "菲律賓治安改善　2025年重點犯罪下降逾一成",
+      "url": "https://money.udn.com/money/story/5599/9243876",
+      "source": "money.udn.com",
+      "published": 1767515009
+    },
+    {
+      "id": "368c6cc94fe4",
+      "title": "川普對委成北京樣板？美前官員：解放軍沒經驗 對台採暗殺更可能成功",
+      "url": "https://money.udn.com/money/story/5599/9243879",
+      "source": "money.udn.com",
+      "published": 1767515008
+    },
     {
       "id": "de5f445e2ff8",
       "title": "泰國關注委內瑞拉情勢　籲各方克制避免局勢升級",
@@ -135,13 +156,6 @@
       "published": 1767498997
     },
     {
-      "id": "63fda6ac7f00",
-      "title": "馬杜洛遭美軍抓捕　委最高法院令副總統暫接政權",
-      "url": "https://money.udn.com/money/story/5599/9243518",
-      "source": "money.udn.com",
-      "published": 1767497802
-    },
-    {
       "id": "57becfab3a77",
       "title": "伊朗經濟抗議升級釀15死，最高領袖下令鎮壓！特朗普揚言「拯救」示威者",
       "url": "https://www.singtaousa.com/2026/01/03/news/world/iran-protests-us-israel-nuclear-economy/",
@@ -154,20 +168,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c7v06j71g67o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1767496459
-    },
-    {
-      "id": "f279ec68a3f7",
-      "title": "從公車司機到鐵腕領袖　馬杜洛的崛起與爭議",
-      "url": "https://money.udn.com/money/story/5599/9243461",
-      "source": "money.udn.com",
-      "published": 1767496346
-    },
-    {
-      "id": "0571b5548545",
-      "title": "得了委內瑞拉、失了台灣？美學者：川普戰術恐成北京對台樣板",
-      "url": "https://money.udn.com/money/story/5599/9243456",
-      "source": "money.udn.com",
-      "published": 1767496256
     },
     {
       "id": "5e0f85238c27",
@@ -329,6 +329,13 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260103-%E5%A7%94%E5%8F%8D%E5%AF%B9%E6%B4%BE%E9%A2%86%E5%AF%BC%E4%BA%BA%E7%A7%B0%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%EF%BC%8C%E8%A1%8C%E4%BD%BF%E6%8E%88%E6%9D%83%E4%B8%8A%E5%8F%B0-%E7%BE%8E%E5%85%AC%E5%B8%83%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%A4%AB%E5%A6%87%E5%84%BF%E5%AD%90%E7%9A%84%E6%96%B0%E8%B5%B7%E8%AF%89%E4%B9%A6",
       "source": "rfi.fr",
       "published": 1767456671
+    },
+    {
+      "id": "67bf32040698",
+      "title": "特朗普现在要为委内瑞拉的命运负责",
+      "url": "https://www.ftchinese.com/story/001108597",
+      "source": "ftchinese.com",
+      "published": 1767456000
     },
     {
       "id": "f3f870cec950",
@@ -961,13 +968,6 @@
       "published": 1767110400
     },
     {
-      "id": "68206e33465b",
-      "title": "2025加密行业复盘：潮退之后，方见礁石",
-      "url": "https://www.ftchinese.com/story/001108562",
-      "source": "ftchinese.com",
-      "published": 1767110400
-    },
-    {
       "id": "8b76e290e431",
       "title": "中国股市表现亮眼 2026全球股市或延续涨势",
       "url": "https://www.dw.com/zh/中国股市表现亮眼-2026全球股市或延续涨势/a-75344678?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1765239553
     }
   ],
-  "build_id": 1767514463
+  "build_id": 1767516330
 }
