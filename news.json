@@ -1,6 +1,20 @@
 {
-  "updated": 1767539378,
+  "updated": 1767541054,
   "items": [
+    {
+      "id": "329145903aa4",
+      "title": "美國行動遭批侵犯主權　旅外委內瑞拉公民為川普辯護",
+      "url": "https://money.udn.com/money/story/5599/9244423",
+      "source": "money.udn.com",
+      "published": 1767540989
+    },
+    {
+      "id": "3ed5c67597fa",
+      "title": "李在明：中国是韩半岛和平统一进程中极其重要的合作伙伴",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260104-%E6%9D%8E%E5%9C%A8%E6%98%8E-%E4%B8%AD%E5%9B%BD%E6%98%AF%E9%9F%A9%E5%8D%8A%E5%B2%9B%E5%92%8C%E5%B9%B3%E7%BB%9F%E4%B8%80%E8%BF%9B%E7%A8%8B%E4%B8%AD%E6%9E%81%E5%85%B6%E9%87%8D%E8%A6%81%E7%9A%84%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4",
+      "source": "rfi.fr",
+      "published": 1767539576
+    },
     {
       "id": "26537999d4ba",
       "title": "學者：美國偏離「善霸」形象 主要競爭對手更容易在國際舞台見縫插針",
@@ -259,13 +273,6 @@
       "url": "https://money.udn.com/money/story/5599/9244051",
       "source": "money.udn.com",
       "published": 1767527130
-    },
-    {
-      "id": "db3360059955",
-      "title": "中駐日使館再稱公民遭無端辱罵毆打　籲勿赴日旅行",
-      "url": "https://money.udn.com/money/story/5599/9244038",
-      "source": "money.udn.com",
-      "published": 1767526228
     },
     {
       "id": "44030c67ae70",
@@ -581,13 +588,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260103-%E9%A9%AC%E6%9D%9C%E7%BD%97%E6%8D%AE%E6%8A%A5%E6%AD%A3%E8%A2%AB%E6%8A%BC%E9%80%81%E9%A3%9E%E5%BE%80%E7%BA%BD%E7%BA%A6-%E7%BE%8E%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF-%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%A4%AB%E5%A6%87%E5%B0%86%E6%8E%A5%E5%8F%97%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E7%9A%84%E4%B8%A5%E5%8E%89%E5%AE%A1%E5%88%A4",
       "source": "rfi.fr",
       "published": 1767447321
-    },
-    {
-      "id": "fd3a65255c36",
-      "title": "伊朗抗议：又一安全部队成员身亡  哈梅内伊称理解诉求但须“制止暴徒”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260103-%E4%BC%8A%E6%9C%97%E6%8A%97%E8%AE%AE-%E5%8F%88%E4%B8%80%E5%AE%89%E5%85%A8%E9%83%A8%E9%98%9F%E6%88%90%E5%91%98%E8%BA%AB%E4%BA%A1-%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E7%A7%B0%E7%90%86%E8%A7%A3%E8%AF%89%E6%B1%82%E4%BD%86%E9%A1%BB-%E5%88%B6%E6%AD%A2%E6%9A%B4%E5%BE%92",
-      "source": "rfi.fr",
-      "published": 1767444696
     },
     {
       "id": "861376fa8f41",
@@ -1402,5 +1402,5 @@
       "published": 1765095840
     }
   ],
-  "build_id": 1767539378
+  "build_id": 1767541054
 }
