@@ -1,6 +1,20 @@
 {
-  "updated": 1767568215,
+  "updated": 1767569852,
   "items": [
+    {
+      "id": "09ff9aea09b0",
+      "title": "馬杜洛被捕  台裔青年：委內瑞拉版白色恐怖落幕",
+      "url": "https://money.udn.com/money/story/10511/9244590",
+      "source": "money.udn.com",
+      "published": 1767568939
+    },
+    {
+      "id": "8335b6fd25e7",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/9244589",
+      "source": "money.udn.com",
+      "published": 1767568934
+    },
     {
       "id": "7ec962e512d2",
       "title": "柏林大規模停電疑遭左翼極端分子縱火攻擊 逾四萬戶受影響",
@@ -289,25 +303,11 @@
       "published": 1767546213
     },
     {
-      "id": "c5f271176840",
-      "title": "美線上賭盤用戶下注馬杜洛垮台　獲利逾1300萬",
-      "url": "https://money.udn.com/money/story/10511/9244491",
-      "source": "money.udn.com",
-      "published": 1767543955
-    },
-    {
       "id": "33d2b70f8525",
       "title": "鲁比奥：若委代理总统作出正确决定，愿与其合作 古巴政府麻烦大了",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260104-%E9%B2%81%E6%AF%94%E5%A5%A5-%E8%8B%A5%E5%A7%94%E4%BB%A3%E7%90%86%E6%80%BB%E7%BB%9F%E4%BD%9C%E5%87%BA%E6%AD%A3%E7%A1%AE%E5%86%B3%E5%AE%9A%EF%BC%8C%E6%84%BF%E4%B8%8E%E5%85%B6%E5%90%88%E4%BD%9C-%E5%8F%A4%E5%B7%B4%E6%94%BF%E5%BA%9C%E9%BA%BB%E7%83%A6%E5%A4%A7%E4%BA%86",
       "source": "rfi.fr",
       "published": 1767543937
-    },
-    {
-      "id": "6e812fd94d81",
-      "title": "油國增產 油價止跌談何容易",
-      "url": "https://money.udn.com/money/story/122381/9244375",
-      "source": "money.udn.com",
-      "published": 1767543716
     },
     {
       "id": "0b7acff32bfe",
@@ -322,6 +322,20 @@
       "url": "https://www.dw.com/zh/李在明开启访华之旅-朝鲜新年首射弹道导弹/a-75386166?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1767542700
+    },
+    {
+      "id": "838fa5337c72",
+      "title": "非洲今年经济增长有望跑赢亚洲",
+      "url": "https://www.ftchinese.com/story/001108599",
+      "source": "ftchinese.com",
+      "published": 1767542400
+    },
+    {
+      "id": "dd92732e9858",
+      "title": "委内瑞拉政府寻求重新确立控制",
+      "url": "https://www.ftchinese.com/story/001108600",
+      "source": "ftchinese.com",
+      "published": 1767542400
     },
     {
       "id": "3ed5c67597fa",
@@ -989,20 +1003,6 @@
       "published": 1767110400
     },
     {
-      "id": "743951ecd2d4",
-      "title": "榴莲之王坠落，洪九果品黯然退市",
-      "url": "https://www.ftchinese.com/story/001108580",
-      "source": "ftchinese.com",
-      "published": 1767110400
-    },
-    {
-      "id": "d074923eb6e4",
-      "title": "FT社评：年轻人应该振作起来",
-      "url": "https://www.ftchinese.com/story/001108579",
-      "source": "ftchinese.com",
-      "published": 1767110400
-    },
-    {
       "id": "8b76e290e431",
       "title": "中国股市表现亮眼 2026全球股市或延续涨势",
       "url": "https://www.dw.com/zh/中国股市表现亮眼-2026全球股市或延续涨势/a-75344678?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1765095900
     }
   ],
-  "build_id": 1767568215
+  "build_id": 1767569852
 }
