@@ -1,6 +1,76 @@
 {
-  "updated": 1767635032,
+  "updated": 1767637066,
   "items": [
+    {
+      "id": "7454598a9b6d",
+      "title": "韓科技雙雄大漲 DRAM 價 調漲伺服器用產品最高達七成",
+      "url": "https://money.udn.com/money/story/5599/9246537",
+      "source": "money.udn.com",
+      "published": 1767637071
+    },
+    {
+      "id": "4fa57dae6a8d",
+      "title": "金正恩親自督導 朝鮮宣稱成功試射高超音速導彈",
+      "url": "https://www.singtaousa.com/2026/01/05/news/world/north-korea-says-latest-missile-tests-involve-hypersonic-weapons-system/",
+      "source": "singtaousa.com",
+      "published": 1767636936
+    },
+    {
+      "id": "e89d0b0e9c51",
+      "title": "三星衝刺 Gemini 行動裝置 今年相關產品數量可望倍增",
+      "url": "https://money.udn.com/money/story/5599/9246538",
+      "source": "money.udn.com",
+      "published": 1767636907
+    },
+    {
+      "id": "1889bdc5df43",
+      "title": "老美愛用 ChatGPT 問診 每天逾4,000萬人",
+      "url": "https://money.udn.com/money/story/5599/9246531",
+      "source": "money.udn.com",
+      "published": 1767636846
+    },
+    {
+      "id": "ca82ffb55eda",
+      "title": "東電700億美元攻綠能",
+      "url": "https://money.udn.com/money/story/5599/9246535",
+      "source": "money.udn.com",
+      "published": 1767636813
+    },
+    {
+      "id": "acb9a1a816b6",
+      "title": "馬杜羅庭上稱「我被抓捕」 否認涉毒指控",
+      "url": "https://www.singtaousa.com/2026/01/05/news/usa/maduro-says-i-was-captured-as-he-pleads-not-guilty-to-drug-trafficking-charges/",
+      "source": "singtaousa.com",
+      "published": 1767636474
+    },
+    {
+      "id": "7780bd1e8c91",
+      "title": "特朗普警告伊朗勿杀示威者 德黑兰宣布每人每月补助1000万里亚尔约合6欧元",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260105-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E5%8B%BF%E6%9D%80%E7%A4%BA%E5%A8%81%E8%80%85-%E5%BE%B7%E9%BB%91%E5%85%B0%E5%AE%A3%E5%B8%83%E6%AF%8F%E4%BA%BA%E6%AF%8F%E6%9C%88%E8%A1%A5%E5%8A%A91000%E4%B8%87%E9%87%8C%E4%BA%9A%E5%B0%94%E7%BA%A6%E5%90%886%E6%AC%A7%E5%85%83",
+      "source": "rfi.fr",
+      "published": 1767636447
+    },
+    {
+      "id": "b333f239897d",
+      "title": "川普控販毒　哥倫比亞總統：會為國家再拿起武器",
+      "url": "https://money.udn.com/money/story/10511/9246736",
+      "source": "money.udn.com",
+      "published": 1767636390
+    },
+    {
+      "id": "dac87a308527",
+      "title": "川普再發覬覦格陵蘭言論　丹麥總理稱應認真對待",
+      "url": "https://money.udn.com/money/story/10511/9246737",
+      "source": "money.udn.com",
+      "published": 1767636389
+    },
+    {
+      "id": "49c12f916421",
+      "title": "習近平會晤李在明 籲中韓超越分歧、反對保護主義",
+      "url": "https://www.singtaousa.com/2026/01/05/news/china/xi-jinping-meets-lee-jae-myung/",
+      "source": "singtaousa.com",
+      "published": 1767636288
+    },
     {
       "id": "2fb46a365889",
       "title": "美放話接管委內瑞拉 地緣政治緊張升溫 油價多空拉鋸...金銀齊漲",
@@ -17,7 +87,7 @@
     },
     {
       "id": "bd1bf9840286",
-      "title": "韓國總統李在明訪華會晤習近平 承諾加強合作維護地區穩定",
+      "title": "習近平同韓國總統李在明舉行會談！承諾加強合作維護地區穩定",
       "url": "https://www.singtaousa.com/2026/01/05/news/world/china-and-south-korea-pledge-to-bolster-ties-as-regional-tensions-rise/",
       "source": "singtaousa.com",
       "published": 1767634516
@@ -63,6 +133,13 @@
       "url": "https://money.udn.com/money/story/5599/9246572",
       "source": "money.udn.com",
       "published": 1767632511
+    },
+    {
+      "id": "089c8632b212",
+      "title": "专家：中国通过马来西亚购委内瑞拉80%原油或受马杜罗事件影响",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260105-%E4%B8%93%E5%AE%B6-%E4%B8%AD%E5%9B%BD%E9%80%9A%E8%BF%87%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%B4%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%8980-%E5%8E%9F%E6%B2%B9%E6%88%96%E5%8F%97%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%BA%8B%E4%BB%B6%E5%BD%B1%E5%93%8D",
+      "source": "rfi.fr",
+      "published": 1767632372
     },
     {
       "id": "a784b4774d42",
@@ -226,13 +303,6 @@
       "published": 1767624960
     },
     {
-      "id": "04f23bda692b",
-      "title": "李在明會習近平　模糊處理中日、台海等敏感議題",
-      "url": "https://money.udn.com/money/story/5599/9246481",
-      "source": "money.udn.com",
-      "published": 1767624855
-    },
-    {
       "id": "3912e44614a2",
       "title": "法国第一夫人网络霸凌案 被告遭判最高六个月监禁",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260105-%E6%B3%95%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E7%BD%91%E7%BB%9C%E9%9C%B8%E5%87%8C%E6%A1%88-%E8%A2%AB%E5%91%8A%E9%81%AD%E5%88%A4%E6%9C%80%E9%AB%98%E5%85%AD%E4%B8%AA%E6%9C%88%E7%9B%91%E7%A6%81",
@@ -245,13 +315,6 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260105-%E9%9F%A9%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%B5%B4%E4%BA%AC%E8%AE%BF%E9%97%AE%EF%BC%8C%E6%9C%9B%E6%8E%A8%E5%8A%A8%E9%9F%A9%E4%B8%AD%E8%B4%B8%E6%98%93%EF%BC%8C%E4%BF%83%E8%A7%A3%E5%86%B3%E6%9C%9D%E9%B2%9C%E9%97%AE%E9%A2%98",
       "source": "rfi.fr",
       "published": 1767624303
-    },
-    {
-      "id": "21ae403a52e8",
-      "title": "美捕馬杜洛　歐盟：為委內瑞拉民主轉型帶來契機",
-      "url": "https://money.udn.com/money/story/5599/9246443",
-      "source": "money.udn.com",
-      "published": 1767623807
     },
     {
       "id": "2fe3b546644e",
@@ -282,27 +345,6 @@
       "published": 1767623220
     },
     {
-      "id": "d9b14328259e",
-      "title": "委內瑞拉「5人幫」頓失2人　27年查維斯派政權陷危機",
-      "url": "https://money.udn.com/money/story/5599/9246418",
-      "source": "money.udn.com",
-      "published": 1767623065
-    },
-    {
-      "id": "09278db4a96a",
-      "title": "日：共軍環台軍演頻穿宮古海峽  研判牽制美軍馳援",
-      "url": "https://money.udn.com/money/story/5599/9246401",
-      "source": "money.udn.com",
-      "published": 1767622348
-    },
-    {
-      "id": "47183feeaf87",
-      "title": "男子闖美副總統俄亥俄州住家　打破窗戶遭拘留",
-      "url": "https://money.udn.com/money/story/5599/9246398",
-      "source": "money.udn.com",
-      "published": 1767622348
-    },
-    {
       "id": "10a1a3ea3181",
       "title": "视频：日本一条蓝鳍金枪鱼以320万美元成交",
       "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260105-%E8%A7%86%E9%A2%91-%E6%97%A5%E6%9C%AC%E4%B8%80%E6%9D%A1%E8%93%9D%E9%B3%8D%E9%87%91%E6%9E%AA%E9%B1%BC%E4%BB%A5320%E4%B8%87%E7%BE%8E%E5%85%83%E6%88%90%E4%BA%A4",
@@ -310,39 +352,11 @@
       "published": 1767622318
     },
     {
-      "id": "0fc8659c57eb",
-      "title": "新年首輪暴風雪  影響太浩湖交通",
-      "url": "https://www.singtaousa.com/2026/01/05/news/usa/tahoe-snowstorm-traffic-impact/",
-      "source": "singtaousa.com",
-      "published": 1767621600
-    },
-    {
-      "id": "150e0245d8b0",
-      "title": "笑迎挑戰",
-      "url": "https://www.singtaousa.com/2026/01/05/opinion/smile-challenges-hong-kong/",
-      "source": "singtaousa.com",
-      "published": 1767621600
-    },
-    {
-      "id": "4f610e3f67cb",
-      "title": "美軍空襲  二埠委國移民反應兩極",
-      "url": "https://www.singtaousa.com/2026/01/05/news/usa/us-airstrike-venezuela-immigrants/",
-      "source": "singtaousa.com",
-      "published": 1767621600
-    },
-    {
       "id": "0bfc596f7034",
       "title": "爱尔兰在任总理14年来首次访华，强调自由开放贸易",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260105-%E7%88%B1%E5%B0%94%E5%85%B0%E5%9C%A8%E4%BB%BB%E6%80%BB%E7%90%8614%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%AE%BF%E5%8D%8E%EF%BC%8C%E5%BC%BA%E8%B0%83%E8%87%AA%E7%94%B1%E5%BC%80%E6%94%BE%E8%B4%B8%E6%98%93",
       "source": "rfi.fr",
       "published": 1767621329
-    },
-    {
-      "id": "f05be50b6509",
-      "title": "網路霸凌法國第一夫人　涉案10人遭判有罪",
-      "url": "https://money.udn.com/money/story/5599/9246371",
-      "source": "money.udn.com",
-      "published": 1767621248
     },
     {
       "id": "03fb5b89843c",
@@ -569,13 +583,6 @@
       "published": 1767561676
     },
     {
-      "id": "16266dee9dab",
-      "title": "英法联合空袭叙利亚境内“伊斯兰国”地下军火储存设施",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260104-%E8%8B%B1%E6%B3%95%E8%81%94%E5%90%88%E7%A9%BA%E8%A2%AD%E5%8F%99%E5%88%A9%E4%BA%9A%E5%A2%83%E5%86%85-%E4%BC%8A%E6%96%AF%E5%85%B0%E5%9B%BD-%E5%9C%B0%E4%B8%8B%E5%86%9B%E7%81%AB%E5%82%A8%E5%AD%98%E8%AE%BE%E6%96%BD",
-      "source": "rfi.fr",
-      "published": 1767560691
-    },
-    {
       "id": "d32f6c9d91a2",
       "title": "“AI救了他的命”：中国医生借助人工智能识别胰腺癌",
       "url": "https://cn.nytimes.com/china/20260105/china-ai-cancer-pancreatic/?utm_source=RSS",
@@ -588,13 +595,6 @@
       "url": "https://cn.nytimes.com/opinion/20260105/putin-maduro-venezuela/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1767549345
-    },
-    {
-      "id": "33d2b70f8525",
-      "title": "鲁比奥：若委代理总统作出正确决定，愿与其合作 古巴政府麻烦大了",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260104-%E9%B2%81%E6%AF%94%E5%A5%A5-%E8%8B%A5%E5%A7%94%E4%BB%A3%E7%90%86%E6%80%BB%E7%BB%9F%E4%BD%9C%E5%87%BA%E6%AD%A3%E7%A1%AE%E5%86%B3%E5%AE%9A%EF%BC%8C%E6%84%BF%E4%B8%8E%E5%85%B6%E5%90%88%E4%BD%9C-%E5%8F%A4%E5%B7%B4%E6%94%BF%E5%BA%9C%E9%BA%BB%E7%83%A6%E5%A4%A7%E4%BA%86",
-      "source": "rfi.fr",
-      "published": 1767543937
     },
     {
       "id": "0b7acff32bfe",
@@ -1402,5 +1402,5 @@
       "published": 1765498927
     }
   ],
-  "build_id": 1767635032
+  "build_id": 1767637066
 }
