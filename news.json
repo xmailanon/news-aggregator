@@ -1,6 +1,34 @@
 {
-  "updated": 1767592521,
+  "updated": 1767594195,
   "items": [
+    {
+      "id": "0bf4292475f8",
+      "title": "亞股沸騰 台日韓股市同創新高 MSCI新興市場指數突破紀錄",
+      "url": "https://money.udn.com/money/story/5599/9245488",
+      "source": "money.udn.com",
+      "published": 1767593652
+    },
+    {
+      "id": "2f6eaadbc457",
+      "title": "烏克蘭稱俄軍夜襲致2死　基輔2026年首傳平民罹難",
+      "url": "https://money.udn.com/money/story/5599/9245491",
+      "source": "money.udn.com",
+      "published": 1767593651
+    },
+    {
+      "id": "be898c81465c",
+      "title": "馬杜洛將在美出庭　川普揚言可能再對委國動武",
+      "url": "https://money.udn.com/money/story/10511/9245480",
+      "source": "money.udn.com",
+      "published": 1767593193
+    },
+    {
+      "id": "7e41be8ec3f6",
+      "title": "被視為2024委國總統勝選人　龔薩雷茲發布影片露臉",
+      "url": "https://money.udn.com/money/story/5599/9245469",
+      "source": "money.udn.com",
+      "published": 1767592835
+    },
     {
       "id": "93a24416e5f9",
       "title": "「一場完美風暴核心」！是他們推了川普一把 決定重拳拉下馬杜洛",
@@ -142,13 +170,6 @@
       "published": 1767585273
     },
     {
-      "id": "dfcc6e8a4dcf",
-      "title": "委國臨時領導人：盼與川普建立平衡關係相互尊重",
-      "url": "https://money.udn.com/money/story/10511/9245068",
-      "source": "money.udn.com",
-      "published": 1767584183
-    },
-    {
       "id": "f6f73532d23b",
       "title": "德里空氣質素改善官方解除限制，惟煙霧鎖城國慶預演蒙陰影",
       "url": "https://www.singtaousa.com/2026/01/04/news/world/delhi-air-quality-improves-to-poor-category-after-days-in-very-poor-range-aqi-falls-to-222/",
@@ -175,27 +196,6 @@
       "url": "https://www.singtaousa.com/2026/01/04/news/usa/trumps-plan-to-seize-and-revitalize-venezuelas-oil-industry-faces-major-hurdles/",
       "source": "singtaousa.com",
       "published": 1767583757
-    },
-    {
-      "id": "8a245da7df4b",
-      "title": "哈瓦那：美突襲委內瑞拉　32古巴公民喪命",
-      "url": "https://money.udn.com/money/story/10511/9245026",
-      "source": "money.udn.com",
-      "published": 1767583597
-    },
-    {
-      "id": "a55aef75681e",
-      "title": "李在明將與習近平會談　兩岸、限韓令議題受關注",
-      "url": "https://money.udn.com/money/story/5599/9245022",
-      "source": "money.udn.com",
-      "published": 1767583596
-    },
-    {
-      "id": "4eb8421efeb2",
-      "title": "未獲授權即動武？美逮馬杜洛合法性惹議　UN將討論",
-      "url": "https://money.udn.com/money/story/5599/9245024",
-      "source": "money.udn.com",
-      "published": 1767583595
     },
     {
       "id": "c128f374d26a",
@@ -336,6 +336,13 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260104-%E4%BC%8A%E6%9C%97%E4%BB%8D%E7%88%86%E5%8F%91%E7%A4%BA%E5%A8%81%E5%86%B2%E7%AA%81",
       "source": "rfi.fr",
       "published": 1767559812
+    },
+    {
+      "id": "cc6154a8be08",
+      "title": "美国“接管”委内瑞拉是普京的胜利",
+      "url": "https://cn.nytimes.com/opinion/20260105/putin-maduro-venezuela/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1767549345
     },
     {
       "id": "33d2b70f8525",
@@ -1269,13 +1276,6 @@
       "published": 1766540211
     },
     {
-      "id": "0e676f14d8a9",
-      "title": "小米SU7事故后，中国推迟自动驾驶汽车量产计划",
-      "url": "https://cn.nytimes.com/business/20251224/china-autonomous-cars-driving/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1766537483
-    },
-    {
       "id": "43b6c4f78d14",
       "title": "五角大楼和AI巨头的共同弱点：高度依赖中国电池",
       "url": "https://cn.nytimes.com/business/20251224/pentagon-weapons-ai-artificial-intelligence-china-batteries/?utm_source=RSS",
@@ -1402,5 +1402,5 @@
       "published": 1765095900
     }
   ],
-  "build_id": 1767592521
+  "build_id": 1767594195
 }
