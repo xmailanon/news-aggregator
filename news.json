@@ -1,10 +1,24 @@
 {
-  "updated": 1767643978,
+  "updated": 1767645803,
   "items": [
     {
-      "id": "791f42fa1d2d",
+      "id": "79c232b0ec74",
+      "title": "【暖冬紀錄】天文台：去年12月異常溫暖 破天荒年尾無發寒冷警告",
+      "url": "https://www.singtaousa.com/2026/01/05/news/china/hong-kong-december-warmest-no-cold-warning/",
+      "source": "singtaousa.com",
+      "published": 1767645287
+    },
+    {
+      "id": "e4a5157d61da",
+      "title": "馬杜羅遭美軍逮捕，特朗普一張照片意外引爆Nike運動服熱潮",
+      "url": "https://www.singtaousa.com/2026/01/05/news/world/the-u-s-military-emerged-as-a-big-winner-after-maduros-capture-the-other-sensation-is-this-nike-outfit/",
+      "source": "singtaousa.com",
+      "published": 1767645000
+    },
+    {
+      "id": "fba9ccc22e25",
       "title": "羅德里格斯正式宣誓就職　出任委內瑞拉代理總統",
-      "url": "https://money.udn.com/money/story/10511/9246759",
+      "url": "https://money.udn.com/money/story/5599/9246759",
       "source": "money.udn.com",
       "published": 1767643952
     },
@@ -44,6 +58,13 @@
       "published": 1767641400
     },
     {
+      "id": "f82dd23b3584",
+      "title": "總是遲到是無禮還是病？揭開「時間盲」與ADHD的關聯",
+      "url": "https://www.singtaousa.com/2026/01/05/lifestyle/health/if-someones-always-late-is-it-time-blindness-or-are-they-just-being-rude/",
+      "source": "singtaousa.com",
+      "published": 1767641318
+    },
+    {
       "id": "d15fc70a848c",
       "title": "特朗普暗示或針對哥倫比亞總統 稱古巴「看來快要倒下」",
       "url": "https://www.singtaousa.com/2026/01/05/news/usa/news-trump-colombia-cuba/",
@@ -79,32 +100,11 @@
       "published": 1767639194
     },
     {
-      "id": "8a509533cb6e",
-      "title": "國語「斬殺線」 美國社會的真實底色 為何中國沒有斬殺線",
-      "url": "https://www.singtaousa.com/2026/01/05/opinion/the-kill-zone-uncovering-the-true-colors-of-american-society/",
-      "source": "singtaousa.com",
-      "published": 1767638797
-    },
-    {
       "id": "6b68c5599836",
       "title": "委內瑞拉局勢拉抬防務和礦業類股　歐洲股市收高",
       "url": "https://money.udn.com/money/story/5599/9246743",
       "source": "money.udn.com",
       "published": 1767638230
-    },
-    {
-      "id": "722cb5acb44b",
-      "title": "國產機械人功夫了得！騰空飛踢碎西瓜 1.8米高H2「嚇退」創辦人",
-      "url": "https://www.singtaousa.com/2026/01/05/news/china/chinese-robot-kung-fu-kicks-shatters-watermelon/",
-      "source": "singtaousa.com",
-      "published": 1767638086
-    },
-    {
-      "id": "f05616ec1966",
-      "title": "美國擴大簽證保證金名單 多國公民申請入境須繳最高1.5萬美元",
-      "url": "https://www.singtaousa.com/2026/01/05/news/usa/us-expands-list-of-countries-whose-citizens-must-pay-up-to-15000-bonds-to-apply-for-visas/",
-      "source": "singtaousa.com",
-      "published": 1767637973
     },
     {
       "id": "8c418a41c2e5",
@@ -1402,5 +1402,5 @@
       "published": 1765498927
     }
   ],
-  "build_id": 1767643978
+  "build_id": 1767645803
 }
