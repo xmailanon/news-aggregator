@@ -1,6 +1,20 @@
 {
-  "updated": 1767654630,
+  "updated": 1767656316,
   "items": [
+    {
+      "id": "ea9553734073",
+      "title": "台積電ADR上漲0.83% 較台北交易溢價21.54%",
+      "url": "https://money.udn.com/money/story/5599/9246829",
+      "source": "money.udn.com",
+      "published": 1767655587
+    },
+    {
+      "id": "f2e0d8a3aad8",
+      "title": "黃仁勳大秀全新 Rubin 晶片 宣告已全面量產 大客戶下半年正式部署",
+      "url": "https://money.udn.com/money/story/5599/9246828",
+      "source": "money.udn.com",
+      "published": 1767655537
+    },
     {
       "id": "44449e0260f7",
       "title": "美股道瓊工業指數創新高 投資人淡化委內瑞拉局勢風險 能源股急升",
@@ -280,20 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9246737",
       "source": "money.udn.com",
       "published": 1767636389
-    },
-    {
-      "id": "2fb46a365889",
-      "title": "美放話接管委內瑞拉 地緣政治緊張升溫 油價多空拉鋸...金銀齊漲",
-      "url": "https://money.udn.com/money/story/5599/9246571",
-      "source": "money.udn.com",
-      "published": 1767634945
-    },
-    {
-      "id": "a9e1b70e65fc",
-      "title": "委國代理總統態度大轉變 表態願與美國對話及共存",
-      "url": "https://money.udn.com/money/story/5599/9246573",
-      "source": "money.udn.com",
-      "published": 1767634724
     },
     {
       "id": "089c8632b212",
@@ -1402,5 +1402,5 @@
       "published": 1765498927
     }
   ],
-  "build_id": 1767654630
+  "build_id": 1767656316
 }
