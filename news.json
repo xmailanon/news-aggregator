@@ -1,6 +1,41 @@
 {
-  "updated": 1767587859,
+  "updated": 1767590873,
   "items": [
+    {
+      "id": "76cceea6d3e2",
+      "title": "瑞士酒吧跨年惡火40死身分確認　數百人遊行默哀",
+      "url": "https://money.udn.com/money/story/5599/9245341",
+      "source": "money.udn.com",
+      "published": 1767589954
+    },
+    {
+      "id": "c5129a49a106",
+      "title": "舒默稱參議院將於「本週」就委內瑞拉授權問題進行投票",
+      "url": "https://www.singtaousa.com/2026/01/04/news/usa/schumer-says-senate-will-vote-on-venezuela-authorization-this-week/",
+      "source": "singtaousa.com",
+      "published": 1767589240
+    },
+    {
+      "id": "2d39d35b1a46",
+      "title": "川普再喊美國需要格陵蘭　丹麥與歐盟不滿",
+      "url": "https://money.udn.com/money/story/10511/9245320",
+      "source": "money.udn.com",
+      "published": 1767589238
+    },
+    {
+      "id": "3c00d8da2c09",
+      "title": "美國逮捕馬杜洛　印度敦促和平對話確保區域穩定",
+      "url": "https://money.udn.com/money/story/5599/9245307",
+      "source": "money.udn.com",
+      "published": 1767588851
+    },
+    {
+      "id": "8d15a09c4eee",
+      "title": "「釋放我們總統」 馬杜洛支持者示威抗議美軍逮捕",
+      "url": "https://money.udn.com/money/story/5599/9245284",
+      "source": "money.udn.com",
+      "published": 1767588317
+    },
     {
       "id": "5d0bb1c15e89",
       "title": "習李會今登場！美媒：南韓總統李在明衰遇川普打委國 對中任務變棘手",
@@ -17,7 +52,7 @@
     },
     {
       "id": "aeb5835f9fff",
-      "title": "三星計劃今年搭載Gemini 的行動裝置銷量翻倍至8 億",
+      "title": "三星計劃今年搭載 Gemini 的行動裝置銷量翻倍至8億",
       "url": "https://money.udn.com/money/story/5599/9245191",
       "source": "money.udn.com",
       "published": 1767587085
@@ -170,34 +205,6 @@
       "published": 1767579153
     },
     {
-      "id": "6329b2cdad05",
-      "title": "川普「生擒」馬杜洛 徒增台海地緣政治熱點憂慮",
-      "url": "https://money.udn.com/money/story/5599/9244751",
-      "source": "money.udn.com",
-      "published": 1767578905
-    },
-    {
-      "id": "92f923ded361",
-      "title": "川普稱美在委內瑞拉當家　揍哥倫比亞「聽來不錯」",
-      "url": "https://money.udn.com/money/story/10511/9244826",
-      "source": "money.udn.com",
-      "published": 1767578800
-    },
-    {
-      "id": "5aafce29479b",
-      "title": "油價走跌　市場料馬杜洛倒台後委國增供原油",
-      "url": "https://money.udn.com/money/story/10511/9244814",
-      "source": "money.udn.com",
-      "published": 1767578516
-    },
-    {
-      "id": "12e0f47b36d9",
-      "title": "川普稱美接管委國　盧比歐：聚焦石油封鎖非日常治理",
-      "url": "https://money.udn.com/money/story/10511/9244811",
-      "source": "money.udn.com",
-      "published": 1767578516
-    },
-    {
       "id": "ab360bb0e565",
       "title": "美国抓捕马杜罗行动内情：秘密筹划数月，迅速实施突袭",
       "url": "https://cn.nytimes.com/world/20260105/trump-capture-maduro-venezuela/?utm_source=RSS",
@@ -245,13 +252,6 @@
       "url": "https://www.singtaousa.com/2026/01/04/news/world/berlin-power-outage-affecting-45000-homes-blamed-on-politically-motivated-attack/",
       "source": "singtaousa.com",
       "published": 1767568023
-    },
-    {
-      "id": "69b34cca483d",
-      "title": "阿拉斯加法院AI助手出師不利，準確性挑戰揭示技術鴻溝",
-      "url": "https://www.singtaousa.com/2026/01/04/news/usa/alaskas-court-system-built-an-ai-chatbot-it-didnt-go-smoothly/",
-      "source": "singtaousa.com",
-      "published": 1767564819
     },
     {
       "id": "c7c49c4fd017",
@@ -350,6 +350,13 @@
       "url": "https://www.dw.com/zh/李在明开启访华之旅-朝鲜新年首射弹道导弹/a-75386166?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1767542700
+    },
+    {
+      "id": "b221e2151783",
+      "title": "马杜罗倒了，委内瑞拉能站起来吗？",
+      "url": "https://www.ftchinese.com/story/001108603",
+      "source": "ftchinese.com",
+      "published": 1767542400
     },
     {
       "id": "2a5e38bf1720",
@@ -1024,13 +1031,6 @@
       "published": 1767110400
     },
     {
-      "id": "b000272a2565",
-      "title": "一位经济学家的年终总结：“没有人能够杀死鬼”",
-      "url": "https://www.ftchinese.com/story/001108583",
-      "source": "ftchinese.com",
-      "published": 1767110400
-    },
-    {
       "id": "8b76e290e431",
       "title": "中国股市表现亮眼 2026全球股市或延续涨势",
       "url": "https://www.dw.com/zh/中国股市表现亮眼-2026全球股市或延续涨势/a-75344678?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1765095900
     }
   ],
-  "build_id": 1767587859
+  "build_id": 1767590873
 }
