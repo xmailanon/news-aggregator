@@ -1,6 +1,20 @@
 {
-  "updated": 1767714163,
+  "updated": 1767716062,
   "items": [
+    {
+      "id": "c5433cb25f2a",
+      "title": "泰柬停火协议再现裂痕 一名泰国士兵受伤 柬方称“垃圾堆爆炸”事故",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260106-%E6%B3%B0%E6%9F%AC%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E5%86%8D%E7%8E%B0%E8%A3%82%E7%97%95-%E4%B8%80%E5%90%8D%E6%B3%B0%E5%9B%BD%E5%A3%AB%E5%85%B5%E5%8F%97%E4%BC%A4-%E6%9F%AC%E6%96%B9%E7%A7%B0-%E5%9E%83%E5%9C%BE%E5%A0%86%E7%88%86%E7%82%B8-%E4%BA%8B%E6%95%85",
+      "source": "rfi.fr",
+      "published": 1767714371
+    },
+    {
+      "id": "3793dfa85104",
+      "title": "《都灵之马》导演贝拉·塔尔去世 享年70岁",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260106-%E9%83%BD%E7%81%B5%E4%B9%8B%E9%A9%AC-%E5%AF%BC%E6%BC%94%E8%B4%9D%E6%8B%89%C2%B7%E5%A1%94%E5%B0%94%E5%8E%BB%E4%B8%96-%E4%BA%AB%E5%B9%B470%E5%B2%81",
+      "source": "rfi.fr",
+      "published": 1767713882
+    },
     {
       "id": "ee9774ae01ee",
       "title": "路透：G7財長12日開會討論稀土供應　包括訂價格下限",
@@ -569,13 +583,6 @@
       "published": 1767630920
     },
     {
-      "id": "27b621efc9e6",
-      "title": "内塔尼亚胡警告伊朗不要恢复弹道导弹计划，同时鼓励伊朗民众示威",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260105-%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%8D%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E8%AE%A1%E5%88%92%EF%BC%8C%E5%90%8C%E6%97%B6%E9%BC%93%E5%8A%B1%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E7%A4%BA%E5%A8%81",
-      "source": "rfi.fr",
-      "published": 1767630668
-    },
-    {
       "id": "ddb404b154f5",
       "title": "中国禁止向日本军方出口“两用物项”",
       "url": "https://www.ftchinese.com/story/001108625",
@@ -679,13 +686,6 @@
       "url": "https://www.ftchinese.com/story/001108612",
       "source": "ftchinese.com",
       "published": 1767628800
-    },
-    {
-      "id": "99d6fd36eaec",
-      "title": "汲取特朗普活捉马杜罗灵感？台湾有1神器可让解放军无法斩首台湾总统",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260105-%E6%B1%B2%E5%8F%96%E7%89%B9%E6%9C%97%E6%99%AE%E6%B4%BB%E6%8D%89%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%81%B5%E6%84%9F-%E5%8F%B0%E6%B9%BE%E6%9C%891%E7%A5%9E%E5%99%A8%E5%8F%AF%E8%AE%A9%E8%A7%A3%E6%94%BE%E5%86%9B%E6%97%A0%E6%B3%95%E6%96%A9%E9%A6%96%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F",
-      "source": "rfi.fr",
-      "published": 1767626469
     },
     {
       "id": "7018589803d3",
@@ -1402,5 +1402,5 @@
       "published": 1765844238
     }
   ],
-  "build_id": 1767714163
+  "build_id": 1767716062
 }
