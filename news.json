@@ -1,6 +1,13 @@
 {
-  "updated": 1767696366,
+  "updated": 1767697809,
   "items": [
+    {
+      "id": "fc8160249e71",
+      "title": "疫情期間社福詐領案延燒　明尼蘇達州長華茲放棄連任",
+      "url": "https://money.udn.com/money/story/10511/9248528",
+      "source": "money.udn.com",
+      "published": 1767696934
+    },
     {
       "id": "076d23621c68",
       "title": "菲律賓提高馬永火山警戒級別　籲6公里範圍內居民撤離",
@@ -210,13 +217,6 @@
       "url": "https://money.udn.com/money/story/122381/9244404",
       "source": "money.udn.com",
       "published": 1767691753
-    },
-    {
-      "id": "e051b8cee32d",
-      "title": "撒隆巴斯製造商擬下市 股價急衝逾15%",
-      "url": "https://money.udn.com/money/story/5599/9248344",
-      "source": "money.udn.com",
-      "published": 1767691705
     },
     {
       "id": "d3f9e9a2cd3d",
@@ -462,6 +462,20 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260105-%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%8D%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E8%AE%A1%E5%88%92%EF%BC%8C%E5%90%8C%E6%97%B6%E9%BC%93%E5%8A%B1%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E7%A4%BA%E5%A8%81",
       "source": "rfi.fr",
       "published": 1767630668
+    },
+    {
+      "id": "d09f686111f6",
+      "title": "中国在“美国后院”的影响力受到考验",
+      "url": "https://www.ftchinese.com/story/001108622",
+      "source": "ftchinese.com",
+      "published": 1767628800
+    },
+    {
+      "id": "a7b93f625184",
+      "title": "柬埔寨拟命名“特朗普大道”",
+      "url": "https://www.ftchinese.com/story/001108623",
+      "source": "ftchinese.com",
+      "published": 1767628800
     },
     {
       "id": "501851dbe309",
@@ -824,20 +838,6 @@
       "id": "e99be627d329",
       "title": "中国加大对线上商家征税力度",
       "url": "https://www.ftchinese.com/story/001108601",
-      "source": "ftchinese.com",
-      "published": 1767542400
-    },
-    {
-      "id": "1e91b0637c05",
-      "title": "一周世界舆论聚焦：中韩两国正在认真发展双边关系",
-      "url": "https://www.ftchinese.com/story/001108598",
-      "source": "ftchinese.com",
-      "published": 1767542400
-    },
-    {
-      "id": "838fa5337c72",
-      "title": "非洲今年经济增长有望跑赢亚洲",
-      "url": "https://www.ftchinese.com/story/001108599",
       "source": "ftchinese.com",
       "published": 1767542400
     },
@@ -1402,5 +1402,5 @@
       "published": 1765359300
     }
   ],
-  "build_id": 1767696366
+  "build_id": 1767697809
 }
