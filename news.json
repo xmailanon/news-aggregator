@@ -1,6 +1,48 @@
 {
-  "updated": 1767667900,
+  "updated": 1767671833,
   "items": [
+    {
+      "id": "d59f008de1fa",
+      "title": "輝達參戰自駕小黃戰場！宣布2027偕伴測試 自駕等級直上Level 4",
+      "url": "https://money.udn.com/money/story/5599/9247292",
+      "source": "money.udn.com",
+      "published": 1767669963
+    },
+    {
+      "id": "51696fc937b4",
+      "title": "委內瑞拉正式變天！副總統宣誓就職 宣布全國實施緊急狀態逮親美人士",
+      "url": "https://money.udn.com/money/story/5599/9247315",
+      "source": "money.udn.com",
+      "published": 1767669959
+    },
+    {
+      "id": "b862d9eba2c6",
+      "title": "高通強攻 PC 市場 X2 Plus 處理器登場！為平價 AI 筆電時代鋪路",
+      "url": "https://money.udn.com/money/story/5599/9247249",
+      "source": "money.udn.com",
+      "published": 1767668742
+    },
+    {
+      "id": "9b957887820b",
+      "title": "日本鳥取與島根地震　新大阪與博多之間新幹線停駛",
+      "url": "https://money.udn.com/money/story/5599/9247228",
+      "source": "money.udn.com",
+      "published": 1767668448
+    },
+    {
+      "id": "2eb135f826d9",
+      "title": "伊朗抗議驚傳三童死亡，安全部隊被控「無差別」鎖定平民",
+      "url": "https://www.singtaousa.com/2026/01/05/news/world/three-children-dead-in-iran-protests-as-security-forces-accused-of-indiscriminate-targeting/",
+      "source": "singtaousa.com",
+      "published": 1767668400
+    },
+    {
+      "id": "13f44b61a336",
+      "title": "業餘馬拉松中國「最快女護士」辭職：輿論風暴下有哪些爭議",
+      "url": "https://www.bbc.com/zhongwen/articles/c1wzq1q88r1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1767668284
+    },
     {
       "id": "50aeacff253f",
       "title": "馬杜洛案承審法官赫勒斯坦　92歲老手歷練知名大案",
@@ -149,13 +191,6 @@
       "published": 1767661200
     },
     {
-      "id": "7b240a22c2e8",
-      "title": "證實追單台積增產？輝達：陸企對H200晶片需求強勁 有足夠產能可供應",
-      "url": "https://money.udn.com/money/story/5599/9246916",
-      "source": "money.udn.com",
-      "published": 1767661168
-    },
-    {
       "id": "a2704c66f54f",
       "title": "粵語1月1日，中國法治進一步完善",
       "url": "https://www.singtaousa.com/2026/01/05/opinion/on-january-1-chinas-rule-of-law-was-further-improved-2/",
@@ -168,27 +203,6 @@
       "url": "https://www.singtaousa.com/2026/01/05/news/world/former-canadian-deputy-prime-minister-freeland-serves-as-zelenskys-economic-development-adviser/",
       "source": "singtaousa.com",
       "published": 1767660197
-    },
-    {
-      "id": "a78240af2101",
-      "title": "川普威脅併吞格陵蘭 芬蘭總統公開力挺丹麥",
-      "url": "https://money.udn.com/money/story/10511/9246895",
-      "source": "money.udn.com",
-      "published": 1767659790
-    },
-    {
-      "id": "8f2f78eab116",
-      "title": "俄飛彈轟炸烏東 導致美商300噸葵花油洩流",
-      "url": "https://money.udn.com/money/story/10511/9246893",
-      "source": "money.udn.com",
-      "published": 1767659790
-    },
-    {
-      "id": "45120bcd5818",
-      "title": "西班牙首都三王節遊行 煙火燈光秀熱鬧告別耶誕假期",
-      "url": "https://money.udn.com/money/story/5599/9246892",
-      "source": "money.udn.com",
-      "published": 1767659786
     },
     {
       "id": "2757e07736d3",
@@ -266,13 +280,6 @@
       "url": "https://www.singtaousa.com/2026/01/05/news/world/cuba-says-32-cuban-officers-were-killed-in-us-operation-in-venezuela/",
       "source": "singtaousa.com",
       "published": 1767654000
-    },
-    {
-      "id": "9a567c37091d",
-      "title": "委內瑞拉任命臨時領導人 強調不受美國控制",
-      "url": "https://www.singtaousa.com/2026/01/05/news/usa/venezuela-appoints-interim-leader-stresses-independence-from-u-s-control/",
-      "source": "singtaousa.com",
-      "published": 1767653971
     },
     {
       "id": "e88c3b42b94f",
@@ -357,6 +364,20 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260105-%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%8D%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E8%AE%A1%E5%88%92%EF%BC%8C%E5%90%8C%E6%97%B6%E9%BC%93%E5%8A%B1%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E7%A4%BA%E5%A8%81",
       "source": "rfi.fr",
       "published": 1767630668
+    },
+    {
+      "id": "54e5b1b043b3",
+      "title": "卡曼・卢塞罗：中国仍是美国的长期竞争对手",
+      "url": "https://www.ftchinese.com/story/001108616",
+      "source": "ftchinese.com",
+      "published": 1767628800
+    },
+    {
+      "id": "d579c582ef52",
+      "title": "Manus出海：地缘裂缝中的商业航路与个体抉择",
+      "url": "https://www.ftchinese.com/story/001108617",
+      "source": "ftchinese.com",
+      "published": 1767628800
     },
     {
       "id": "03140cf5b61a",
@@ -814,20 +835,6 @@
       "published": 1767456000
     },
     {
-      "id": "67bf32040698",
-      "title": "特朗普现在要为委内瑞拉的命运负责",
-      "url": "https://www.ftchinese.com/story/001108597",
-      "source": "ftchinese.com",
-      "published": 1767456000
-    },
-    {
-      "id": "f3f870cec950",
-      "title": "美国正在亲手解除自己在二战后秩序中的核心角色",
-      "url": "https://www.ftchinese.com/story/001108596",
-      "source": "ftchinese.com",
-      "published": 1767456000
-    },
-    {
       "id": "ecadc23863e2",
       "title": "Grok提供色情化女性及儿童照片功能遭到谴责",
       "url": "https://www.dw.com/zh/grok提供色情化女性及儿童照片功能遭到谴责/a-75377711?maca=chi-rss-chi-news-3224-rdf",
@@ -959,13 +966,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c8x9lznv74xo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1767326612
-    },
-    {
-      "id": "35a12d6a7ea4",
-      "title": "最新研究稱宇宙末日可能來自暗能量產生的「大擠壓」",
-      "url": "https://www.bbc.com/zhongwen/articles/cy4qykzl4lpo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1767313203
     },
     {
       "id": "674ffdd69cc7",
@@ -1402,5 +1402,5 @@
       "published": 1765528890
     }
   ],
-  "build_id": 1767667900
+  "build_id": 1767671833
 }
