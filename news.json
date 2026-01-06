@@ -1,6 +1,34 @@
 {
-  "updated": 1767682489,
+  "updated": 1767683866,
   "items": [
+    {
+      "id": "99a527e6c056",
+      "title": "打擊兒童肥胖　英國祭垃圾食品廣告禁令",
+      "url": "https://money.udn.com/money/story/5599/9247973",
+      "source": "money.udn.com",
+      "published": 1767683574
+    },
+    {
+      "id": "89a47af9c4a0",
+      "title": "馬杜洛遭美押解　手勢引熱議",
+      "url": "https://money.udn.com/money/story/5599/9247975",
+      "source": "money.udn.com",
+      "published": 1767683574
+    },
+    {
+      "id": "df48699e5215",
+      "title": "科技股領漲 日股連2紅",
+      "url": "https://money.udn.com/money/story/5599/9247951",
+      "source": "money.udn.com",
+      "published": 1767682840
+    },
+    {
+      "id": "8a42099c3d22",
+      "title": "馬斯克AI「Grok」驚爆生成不雅照？英國監管機構緊急約談",
+      "url": "https://www.singtaousa.com/2026/01/06/news/world/ofcom-asks-x-about-reports-its-grok-ai-makes-sexualised-images-of-children/",
+      "source": "singtaousa.com",
+      "published": 1767682800
+    },
     {
       "id": "59663d1a3cbf",
       "title": "川普：18個月內增產石油　救委內瑞拉經濟",
@@ -163,20 +191,6 @@
       "published": 1767676019
     },
     {
-      "id": "6c24b9b01c80",
-      "title": "超微蘇姿丰 CES 狂發 AI 新晶片 強攻企業級 豪言2027效能飆升1,000倍",
-      "url": "https://money.udn.com/money/story/5599/9247627",
-      "source": "money.udn.com",
-      "published": 1767675867
-    },
-    {
-      "id": "a69b79935bb1",
-      "title": "委國總統府附近槍響　傳維安團體彼此誤會",
-      "url": "https://money.udn.com/money/story/10511/9247614",
-      "source": "money.udn.com",
-      "published": 1767675635
-    },
-    {
       "id": "ff8cce31bc7a",
       "title": "印度學運領袖未審先囚五年，最高法院拒保釋揭示關鍵角色",
       "url": "https://www.singtaousa.com/2026/01/05/news/world/indias-top-court-denies-bail-to-2-muslim-activists-after-5-years-in-jail-trial/",
@@ -196,13 +210,6 @@
       "url": "https://www.singtaousa.com/2026/01/05/news/usa/pentagon-to-cut-sen-mark-kelly-s-military-retirement-pay-over-seditious-video-hegseth/",
       "source": "singtaousa.com",
       "published": 1767675307
-    },
-    {
-      "id": "b4d0d5f1886b",
-      "title": "馬杜洛受審細節！愛插嘴被律師警告 退庭帶走1支筆下場曝光",
-      "url": "https://money.udn.com/money/story/5599/9247587",
-      "source": "money.udn.com",
-      "published": 1767674790
     },
     {
       "id": "cfe18c06a0e1",
@@ -247,9 +254,9 @@
       "published": 1767663124
     },
     {
-      "id": "1c3311e35eb3",
+      "id": "a0b78c2d1fb5",
       "title": "安理會緊急商議委內瑞拉局勢　中俄促美釋放馬杜羅夫婦",
-      "url": "https://www.singtaousa.com/2026/01/05/news/the-security-council-urgently-discusses-the-situation-in-venezuela-china-and-russia-urge-the-united-states-to-release-maduro-and-his-wife/",
+      "url": "https://www.singtaousa.com/2026/01/05/news/world/the-security-council-urgently-discusses-the-situation-in-venezuela-china-and-russia-urge-the-united-states-to-release-maduro-and-his-wife/",
       "source": "singtaousa.com",
       "published": 1767662131
     },
@@ -259,13 +266,6 @@
       "url": "https://www.singtaousa.com/2026/01/05/news/world/the-risk-of-falling-space-junk-hitting-airplanes-is-on-the-rise-experts-warn/",
       "source": "singtaousa.com",
       "published": 1767661200
-    },
-    {
-      "id": "a2704c66f54f",
-      "title": "粵語1月1日，中國法治進一步完善",
-      "url": "https://www.singtaousa.com/2026/01/05/opinion/on-january-1-chinas-rule-of-law-was-further-improved-2/",
-      "source": "singtaousa.com",
-      "published": 1767660894
     },
     {
       "id": "f58c8951ae66",
@@ -1402,5 +1402,5 @@
       "published": 1765528890
     }
   ],
-  "build_id": 1767682489
+  "build_id": 1767683866
 }
