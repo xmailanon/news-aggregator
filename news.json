@@ -1,10 +1,38 @@
 {
-  "updated": 1767692725,
+  "updated": 1767694339,
   "items": [
     {
-      "id": "26d30769c949",
+      "id": "840b7a29f984",
+      "title": "芬蘭媒體與AI識讀納課程　3歲起培養辨別假新聞能力",
+      "url": "https://money.udn.com/money/story/5599/9248457",
+      "source": "money.udn.com",
+      "published": 1767694380
+    },
+    {
+      "id": "67fa5ca364e9",
+      "title": "馬杜洛被捕　委內瑞拉僑民觀望：沒有人會急著回家",
+      "url": "https://money.udn.com/money/story/5599/9248458",
+      "source": "money.udn.com",
+      "published": 1767694379
+    },
+    {
+      "id": "209f026a8252",
+      "title": "美軍襲委內瑞拉計畫早就外流　盧比歐謝媒體未提前報導",
+      "url": "https://money.udn.com/money/story/5599/9248428",
+      "source": "money.udn.com",
+      "published": 1767693625
+    },
+    {
+      "id": "279d7a65c9f1",
+      "title": "离不开美国的委内瑞拉石油工业",
+      "url": "https://www.dw.com/zh/离不开美国的委内瑞拉石油工业/a-75398701?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1767693000
+    },
+    {
+      "id": "05ca9024e523",
       "title": "伊朗示威增至35死1200多人被捕　美國介入機率受關注",
-      "url": "https://money.udn.com/money/story/10511/9248393",
+      "url": "https://money.udn.com/money/story/5599/9248393",
       "source": "money.udn.com",
       "published": 1767692717
     },
@@ -14,6 +42,13 @@
       "url": "https://money.udn.com/money/story/5599/9248394",
       "source": "money.udn.com",
       "published": 1767692715
+    },
+    {
+      "id": "a5054da1b830",
+      "title": "原籍中国的日本参议员石平抵台：台湾绝非中国一部分 台湾就是台湾",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260106-%E5%8E%9F%E7%B1%8D%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%97%A5%E6%9C%AC%E5%8F%82%E8%AE%AE%E5%91%98%E7%9F%B3%E5%B9%B3%E6%8A%B5%E5%8F%B0-%E5%8F%B0%E6%B9%BE%E7%BB%9D%E9%9D%9E%E4%B8%AD%E5%9B%BD%E4%B8%80%E9%83%A8%E5%88%86-%E5%8F%B0%E6%B9%BE%E5%B0%B1%E6%98%AF%E5%8F%B0%E6%B9%BE",
+      "source": "rfi.fr",
+      "published": 1767692684
     },
     {
       "id": "f78c675d2376",
@@ -121,32 +156,11 @@
       "published": 1767691322
     },
     {
-      "id": "fd6141c0d504",
-      "title": "樂觀前景帶動　亞股多收漲",
-      "url": "https://money.udn.com/money/story/5599/9248330",
-      "source": "money.udn.com",
-      "published": 1767691322
-    },
-    {
       "id": "d3f9e9a2cd3d",
       "title": "意大利结束一项对DeepSeek的调查 要求加强AI“幻觉”风险提示",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260106-%E6%84%8F%E5%A4%A7%E5%88%A9%E7%BB%93%E6%9D%9F%E4%B8%80%E9%A1%B9%E5%AF%B9deepseek%E7%9A%84%E8%B0%83%E6%9F%A5-%E8%A6%81%E6%B1%82%E5%8A%A0%E5%BC%BAai-%E5%B9%BB%E8%A7%89-%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
       "source": "rfi.fr",
       "published": 1767690872
-    },
-    {
-      "id": "192fc8a339ec",
-      "title": "美逮馬杜洛  埃及擬善用地緣橋梁連結拉美創經濟活水",
-      "url": "https://money.udn.com/money/story/5599/9248276",
-      "source": "money.udn.com",
-      "published": 1767690048
-    },
-    {
-      "id": "65b205e9a908",
-      "title": "日本避評美國襲擊委內瑞拉　稱「非直接當事者」",
-      "url": "https://money.udn.com/money/story/5599/9248274",
-      "source": "money.udn.com",
-      "published": 1767690048
     },
     {
       "id": "2a2f2a4fef06",
@@ -632,13 +646,6 @@
       "published": 1767619417
     },
     {
-      "id": "5062fc94dd51",
-      "title": "法国就委内瑞拉局势表态：反对美方的手段，认可马杜罗离开的结果",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260105-%E6%B3%95%E5%9B%BD%E5%B0%B1%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%B1%80%E5%8A%BF%E8%A1%A8%E6%80%81-%E5%8F%8D%E5%AF%B9%E7%BE%8E%E6%96%B9%E7%9A%84%E6%89%8B%E6%AE%B5%EF%BC%8C%E8%AE%A4%E5%8F%AF%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%A6%BB%E5%BC%80%E7%9A%84%E7%BB%93%E6%9E%9C",
-      "source": "rfi.fr",
-      "published": 1767618998
-    },
-    {
       "id": "470d3d17fa77",
       "title": "线人、模拟屋和特种部队：复盘美国抓捕马杜罗",
       "url": "https://www.dw.com/zh/线人、模拟屋和特种部队：复盘美国抓捕马杜罗/a-75393946?maca=chi-rss-chi-all-1127-rdf",
@@ -835,13 +842,6 @@
       "published": 1767542400
     },
     {
-      "id": "c0a2c8cf8d2c",
-      "title": "马杜罗被美国抓走后委内瑞拉将何去何从？",
-      "url": "https://www.dw.com/zh/马杜罗被美国抓走后委内瑞拉将何去何从？/a-75383375?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1767524700
-    },
-    {
       "id": "48e1573d279b",
       "title": "美国为何跨境抓捕马杜罗？",
       "url": "https://www.dw.com/zh/美国为何跨境抓捕马杜罗？/a-75382717?maca=chi-rss-chi-news-3224-rdf",
@@ -959,13 +959,6 @@
       "url": "https://www.dw.com/zh/德语媒体：中国寻找进行现代海战的方法/a-75364905?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1767348420
-    },
-    {
-      "id": "4e149ba0651e",
-      "title": "歐盟碳關稅正式上路 中國批「歧視性待遇」",
-      "url": "https://www.dw.com/zh/歐盟碳關稅正式上路-中國批「歧視性待遇」/a-75363703?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1767343020
     },
     {
       "id": "1a0f2ae19234",
@@ -1400,7 +1393,14 @@
       "url": "https://www.bbc.com/zhongwen/articles/cjrj0320pdgo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1765498927
+    },
+    {
+      "id": "169de14c08fc",
+      "title": "川普為輝達AI晶片銷中國開綠燈 北京買單嗎?",
+      "url": "https://www.dw.com/zh/川普為輝達ai晶片銷中國開綠燈-北京買單嗎/a-75072557?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1765359300
     }
   ],
-  "build_id": 1767692725
+  "build_id": 1767694339
 }
