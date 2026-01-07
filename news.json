@@ -1,6 +1,20 @@
 {
-  "updated": 1767813172,
+  "updated": 1767814671,
   "items": [
+    {
+      "id": "893331b3194a",
+      "title": "CES第二日亮點科技登場　AI、機械人與健康科技齊放異彩",
+      "url": "https://www.singtaousa.com/2026/01/07/news/usa/news-ces-2026-day2-tech/",
+      "source": "singtaousa.com",
+      "published": 1767814677
+    },
+    {
+      "id": "5bcc43d71afe",
+      "title": "全球預售首日即出事！沙田T牌左軚吉利撞飛七旬清潔工",
+      "url": "https://www.singtaousa.com/2026/01/07/news/china/cleaner-hit-by-t-plate-geely-v900-in-shatin/",
+      "source": "singtaousa.com",
+      "published": 1767814490
+    },
     {
       "id": "6fa4220baafd",
       "title": "中日關係緊張！中國加強管制稀土等軍民兩用品出口日本，日方強烈抗議要求撤回",
@@ -191,25 +205,11 @@
       "published": 1767807402
     },
     {
-      "id": "03a006f5a589",
-      "title": "【電詐帝國瓦解】太子集團創辦人陳志被捕遣返中國 香港凍結27.5億資產",
-      "url": "https://www.singtaousa.com/2026/01/07/news/china/prince-group-founder-arrested-global-assets-frozen/",
-      "source": "singtaousa.com",
-      "published": 1767807284
-    },
-    {
       "id": "6782566178fd",
       "title": "市場憂原油供應過剩　歐股互有漲跌",
       "url": "https://money.udn.com/money/story/5599/9251555",
       "source": "money.udn.com",
       "published": 1767807041
-    },
-    {
-      "id": "f758461b478d",
-      "title": "微軟遊戲廣告自打嘴巴？Windows 11竟釘選Chrome引熱議",
-      "url": "https://www.singtaousa.com/2026/01/07/news/usa/microsoft-shows-chrome-pinned-on-the-taskbar-in-a-windows-11-home-of-gaming-ad-while-it-tells-you-to-never-use-googles-browser/",
-      "source": "singtaousa.com",
-      "published": 1767807000
     },
     {
       "id": "c47a22b5a757",
@@ -1402,5 +1402,5 @@
       "published": 1765950780
     }
   ],
-  "build_id": 1767813172
+  "build_id": 1767814671
 }
