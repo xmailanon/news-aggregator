@@ -1,61 +1,236 @@
 {
-  "updated": 1767833644,
+  "updated": 1767840697,
   "items": [
+    {
+      "id": "39fb72eabf4b",
+      "title": "英國出土最完整鐵器時代戰號，神秘聯繫指向反抗羅馬的女王？",
+      "url": "https://www.singtaousa.com/2026/01/07/news/world/extraordinary-iron-age-war-trumpet-find-in-britain-may-have-boudicca-links/",
+      "source": "singtaousa.com",
+      "published": 1767839400
+    },
+    {
+      "id": "ebb04d022a5e",
+      "title": "中国或限制对日稀土出口，两国紧张继续升级",
+      "url": "https://cn.nytimes.com/business/20260108/china-japan-rare-earths/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1767839112
+    },
+    {
+      "id": "29b1a8e4ecab",
+      "title": "美眾院議長：川普國情咨文演說2/24登場",
+      "url": "https://money.udn.com/money/story/10511/9251960",
+      "source": "money.udn.com",
+      "published": 1767839074
+    },
+    {
+      "id": "65bdbe82e0b2",
+      "title": "AI熱潮推升獲利　三星電子Q4營利上看20兆韓元創新高",
+      "url": "https://money.udn.com/money/story/5599/9251961",
+      "source": "money.udn.com",
+      "published": 1767839072
+    },
+    {
+      "id": "44350102f49b",
+      "title": "川普首度與哥倫比亞總統通話　邀訪白宮解決分歧",
+      "url": "https://money.udn.com/money/story/10511/9251905",
+      "source": "money.udn.com",
+      "published": 1767837677
+    },
+    {
+      "id": "3dc5a0f8eafb",
+      "title": "盟友承諾現變數？澤連斯基稱烏克蘭未獲明確安全保障",
+      "url": "https://www.singtaousa.com/2026/01/07/news/world/zelensky-says-ukraine-does-not-have-clear-security-pledge-from-allies/",
+      "source": "singtaousa.com",
+      "published": 1767837600
+    },
+    {
+      "id": "80187dc80655",
+      "title": "川普下令軍工業減配息和庫藏股  但軍工股因他這番話又翻紅",
+      "url": "https://money.udn.com/money/story/5599/9251889",
+      "source": "money.udn.com",
+      "published": 1767837500
+    },
+    {
+      "id": "3f5189dc516c",
+      "title": "克流感缺貨！美遇數十年最猛流感季 強勢病毒株恐致庫存見底",
+      "url": "https://money.udn.com/money/story/5599/9251892",
+      "source": "money.udn.com",
+      "published": 1767837497
+    },
+    {
+      "id": "61b534295e44",
+      "title": "柏林大停電持續逾4日 戰後最長停電紀錄",
+      "url": "https://www.singtaousa.com/2026/01/07/news/world/berlin-blackout-lasted-for-more-than-4-days-far-left-environmental-groups-set-fire-to-damage-power-facilities-nearly-100000-people-were-affected/",
+      "source": "singtaousa.com",
+      "published": 1767837200
+    },
+    {
+      "id": "d4ca2b496766",
+      "title": "特朗普簽署行政令 美國退出66個國際組織 加速脫離全球合作",
+      "url": "https://www.singtaousa.com/2026/01/07/news/usa/trump-signs-an-executive-order-and-the-united-states-withdraws-from-66-international-organizations-accelerating-its-departure-from-global-cooperation/",
+      "source": "singtaousa.com",
+      "published": 1767836776
+    },
+    {
+      "id": "176f7f0507ab",
+      "title": "委內瑞拉石油儲量世界第一卻是「全球最髒」？紐時揭3大黑幕",
+      "url": "https://money.udn.com/money/story/5599/9251859",
+      "source": "money.udn.com",
+      "published": 1767836547
+    },
+    {
+      "id": "7d3e452832a8",
+      "title": "ICE探員當街槍殺女子　川普稱自衛、市長怒駁斥",
+      "url": "https://money.udn.com/money/story/10511/9251852",
+      "source": "money.udn.com",
+      "published": 1767836248
+    },
+    {
+      "id": "1222ab9fa76d",
+      "title": "埃及機場全面數位化  2月告別手寫出入境卡",
+      "url": "https://money.udn.com/money/story/5599/9251853",
+      "source": "money.udn.com",
+      "published": 1767836246
+    },
+    {
+      "id": "4484bee13089",
+      "title": "特朗普提議將2027年國防開支大幅增加至1.5兆美元，理由是「時局危險」",
+      "url": "https://www.singtaousa.com/2026/01/07/news/usa/trump-proposes-massive-increase-in-2027-defense-spending-to-1-5t-citing-dangerous-times/",
+      "source": "singtaousa.com",
+      "published": 1767836047
+    },
+    {
+      "id": "c70eb812e8eb",
+      "title": "特朗普覬覦格陵蘭，挪威警告恐觸發北約內部危機",
+      "url": "https://www.singtaousa.com/2026/01/07/news/world/norway-stands-firm-with-denmark-warns-trump-will-violate-nato-pact/",
+      "source": "singtaousa.com",
+      "published": 1767835800
+    },
+    {
+      "id": "2a164c9b68f7",
+      "title": "可閉眼開車！福特2028要讓百萬元以下車款有 Level 3自駕 超越特斯拉 L2",
+      "url": "https://money.udn.com/money/story/5599/9251836",
+      "source": "money.udn.com",
+      "published": 1767835754
+    },
+    {
+      "id": "325fba74ef23",
+      "title": "人形機器人能摺衣煮咖啡 何時進家門？Gartner 潑冷水：還要很多年",
+      "url": "https://money.udn.com/money/story/5599/9251829",
+      "source": "money.udn.com",
+      "published": 1767835598
+    },
+    {
+      "id": "0ab48220e08c",
+      "title": "美國「退群」不限66個國際組織　盧比歐：其他還在審",
+      "url": "https://money.udn.com/money/story/10511/9251823",
+      "source": "money.udn.com",
+      "published": 1767835375
+    },
+    {
+      "id": "86306a7a996a",
+      "title": "美退出66個國際組織　含聯合國氣候變化綱要公約",
+      "url": "https://money.udn.com/money/story/10511/9251820",
+      "source": "money.udn.com",
+      "published": 1767835375
+    },
+    {
+      "id": "59b109c550ee",
+      "title": "客座評論：台灣不用擔心習近平學川普「抓馬」",
+      "url": "https://www.dw.com/zh/客座評論：台灣不用擔心習近平學川普「抓馬」/a-75427055?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1767834840
+    },
+    {
+      "id": "d87c548c37e0",
+      "title": "紐時：川普依格陵蘭防衛協定　全權決定軍事部署",
+      "url": "https://money.udn.com/money/story/10511/9251799",
+      "source": "money.udn.com",
+      "published": 1767834747
+    },
+    {
+      "id": "de3923b25e6e",
+      "title": "埃及遊客衝1900萬人  新阿拉曼市為明星旅遊城",
+      "url": "https://money.udn.com/money/story/5599/9251802",
+      "source": "money.udn.com",
+      "published": 1767834745
+    },
+    {
+      "id": "045cc7d52a76",
+      "title": "烏克蘭安全架構敲定　波蘭將主導和平協議後勤與重建",
+      "url": "https://money.udn.com/money/story/5599/9251800",
+      "source": "money.udn.com",
+      "published": 1767834745
+    },
+    {
+      "id": "e3e15a90ec24",
+      "title": "自覺關稅財源滾滾 川普要將美國軍費預算史無前例地增加逾50%",
+      "url": "https://money.udn.com/money/story/5599/9251780",
+      "source": "money.udn.com",
+      "published": 1767834637
+    },
+    {
+      "id": "5ce2c8fd2945",
+      "title": "三星電子錄得創紀錄利潤 AI 需求猛增推動內存晶片價格大漲",
+      "url": "https://money.udn.com/money/story/5599/9251736",
+      "source": "money.udn.com",
+      "published": 1767834385
+    },
+    {
+      "id": "f715a7ab2bd2",
+      "title": "明镜周刊和法国世界报：美国政府想要制裁判法国政治人物勒庞刑的法国法官",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260108-%E6%98%8E%E9%95%9C%E5%91%A8%E5%88%8A%E5%92%8C%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%83%B3%E8%A6%81%E5%88%B6%E8%A3%81%E5%88%A4%E6%B3%95%E5%9B%BD%E6%94%BF%E6%B2%BB%E4%BA%BA%E7%89%A9%E5%8B%92%E5%BA%9E%E5%88%91%E7%9A%84%E6%B3%95%E5%9B%BD%E6%B3%95%E5%AE%98",
+      "source": "rfi.fr",
+      "published": 1767834356
+    },
+    {
+      "id": "351d8a0d1ece",
+      "title": "粵語馬杜羅若倒台，中國在委內瑞拉會失去什麼？ | 中國多年投資會不會一夕歸零？ | 一個倒台，牽動中國十年布局，世界格局發生什麼樣的變化?",
+      "url": "https://www.singtaousa.com/2026/01/07/opinion/what-will-china-lose-in-venezuela-if-maduro-falls-will-chinas-years-of-investment-be-wiped-out-overnight-a-downfall-affects-chinas-ten-year-layout-what-changes-will-happen-to-the-worl/",
+      "source": "singtaousa.com",
+      "published": 1767834300
+    },
+    {
+      "id": "4090859e0b6f",
+      "title": "北京冬日再聚首！習近平李在明密談釋放強烈信號",
+      "url": "https://www.singtaousa.com/2026/01/07/news/china/see-you-again-in-winter-in-beijing-xi-jinping-and-li-zaimings-secret-talks-send-a-strong-signal/",
+      "source": "singtaousa.com",
+      "published": 1767834207
+    },
+    {
+      "id": "0dbcd0a27c72",
+      "title": "也門南部分離派談判代表團失聯 加劇內部分裂",
+      "url": "https://www.singtaousa.com/2026/01/07/news/world/the-situation-in-southern-yemen-takes-a-sharp-turn-the-separatist-delegation-to-riyadh-loses-contact-saudi-air-strikes-intensify-internal-divisions/",
+      "source": "singtaousa.com",
+      "published": 1767834108
+    },
+    {
+      "id": "89c36f3be037",
+      "title": "Anthropic 傳進行新一輪募資 估值達3,500億美元",
+      "url": "https://money.udn.com/money/story/5599/9251779",
+      "source": "money.udn.com",
+      "published": 1767834062
+    },
+    {
+      "id": "624230a93257",
+      "title": "五洲洪門致公總堂舉行2026年度新屆職員就職典禮 會長梁國緯 副會長黃民強 司徒仲山 陳夏儀",
+      "url": "https://www.singtaousa.com/2026/01/07/news/usa/wuzhou-hongmen-zhigong-main-hall-held-the-inauguration-ceremony-of-the-new-staff-in-2026-president-liang-guowei-vice-president-huang-minqiang-situ-zhongshan-chen-xiayi/",
+      "source": "singtaousa.com",
+      "published": 1767834000
+    },
+    {
+      "id": "378599ef446f",
+      "title": "魯比歐下周會丹麥談格陵蘭！白宮不排除動武成「北約自己打自己」惡夢",
+      "url": "https://money.udn.com/money/story/5599/9251777",
+      "source": "money.udn.com",
+      "published": 1767833966
+    },
     {
       "id": "ccd0a6aa74d0",
       "title": "曾嗆哥倫比亞總統「病態」！川普證實雙方通話並邀訪白宮",
       "url": "https://money.udn.com/money/story/5599/9251775",
       "source": "money.udn.com",
       "published": 1767833928
-    },
-    {
-      "id": "3521f2650376",
-      "title": "英國首相與川普通話　談格陵蘭烏克蘭委內瑞拉",
-      "url": "https://money.udn.com/money/story/10511/9251749",
-      "source": "money.udn.com",
-      "published": 1767832571
-    },
-    {
-      "id": "881b2dfe1e48",
-      "title": "愛沙尼亞指俄國操弄維基百科  歷史敘事遭改親蘇聯",
-      "url": "https://money.udn.com/money/story/5599/9251751",
-      "source": "money.udn.com",
-      "published": 1767832570
-    },
-    {
-      "id": "9cd1dc0a5bc2",
-      "title": "日前首相菅直人妻子證實他已失智…311大地震的事全忘光",
-      "url": "https://money.udn.com/money/story/5599/9251746",
-      "source": "money.udn.com",
-      "published": 1767832527
-    },
-    {
-      "id": "ccc7a9bea0d5",
-      "title": "掌控委國命脈 川普政府「無限期」銷售委國原油 所得限購美國貨",
-      "url": "https://money.udn.com/money/story/5599/9251740",
-      "source": "money.udn.com",
-      "published": 1767832364
-    },
-    {
-      "id": "a1268a5cdcd7",
-      "title": "關稅帶來龐大收入？川普爭取2027年軍費1.5兆美元 增幅5成創新高",
-      "url": "https://money.udn.com/money/story/5599/9251741",
-      "source": "money.udn.com",
-      "published": 1767832363
-    },
-    {
-      "id": "8007ddd5f9da",
-      "title": "洛杉磯野火週年　重建進度落後不到12戶完工",
-      "url": "https://money.udn.com/money/story/10511/9251738",
-      "source": "money.udn.com",
-      "published": 1767832249
-    },
-    {
-      "id": "b0230dfd66b3",
-      "title": "美起訴網路詐騙首腦　陳志柬埔寨落網並遭引渡至中國",
-      "url": "https://money.udn.com/money/story/5599/9251739",
-      "source": "money.udn.com",
-      "published": 1767832247
     },
     {
       "id": "3dd69d9553b7",
@@ -72,34 +247,6 @@
       "published": 1767831823
     },
     {
-      "id": "1936c2620f08",
-      "title": "記憶體價格飆漲 助三星上季獲利成長208%",
-      "url": "https://money.udn.com/money/story/5599/9251724",
-      "source": "money.udn.com",
-      "published": 1767831803
-    },
-    {
-      "id": "fb4c981a4e47",
-      "title": "英智庫：美國印太區域作戰　須防已無絕對制空優勢",
-      "url": "https://money.udn.com/money/story/5599/9251709",
-      "source": "money.udn.com",
-      "published": 1767831208
-    },
-    {
-      "id": "52f1d68c1e6c",
-      "title": "為俄賣命致數名情報官喪命　美CIA史上最大叛徒過世",
-      "url": "https://money.udn.com/money/story/5599/9251710",
-      "source": "money.udn.com",
-      "published": 1767831207
-    },
-    {
-      "id": "520ab3a70183",
-      "title": "川普擬2027年國防預算　增加50%至1.5兆美元",
-      "url": "https://money.udn.com/money/story/10511/9251701",
-      "source": "money.udn.com",
-      "published": 1767830790
-    },
-    {
       "id": "d0a81920412b",
       "title": "粵語擄人脅迫委內瑞拉：霸權者的遊戲規則",
       "url": "https://www.singtaousa.com/2026/01/07/opinion/current-affairs-observation-huo-yongqiang-abducting-people-and-coercing-venezuela-the-rules-of-the-hegemons-game/",
@@ -114,88 +261,11 @@
       "published": 1767830700
     },
     {
-      "id": "e88a3f1bb0e7",
-      "title": "英特爾拉出一根紅 K 引爆想像：AI 資金開始轉向 CPU？",
-      "url": "https://money.udn.com/money/story/5599/9251700",
-      "source": "money.udn.com",
-      "published": 1767830652
-    },
-    {
-      "id": "7d62581fafb9",
-      "title": "川普退出66個國際組織曝光！「聯合國氣候變化框架公約」入列",
-      "url": "https://money.udn.com/money/story/5599/9251697",
-      "source": "money.udn.com",
-      "published": 1767830480
-    },
-    {
-      "id": "10fab98f1b88",
-      "title": "委美達原油協議　川普：委內瑞拉交易收入將買美產品",
-      "url": "https://money.udn.com/money/story/10511/9251694",
-      "source": "money.udn.com",
-      "published": 1767830436
-    },
-    {
-      "id": "e8c449f64977",
-      "title": "印度香菸加收消費稅盼救健康　吸菸者：成效有限",
-      "url": "https://money.udn.com/money/story/5599/9251695",
-      "source": "money.udn.com",
-      "published": 1767830434
-    },
-    {
-      "id": "53abd4ef99fb",
-      "title": "辛西婭艾利沃缺席金球獎 為何挑戰一人分飾23角？",
-      "url": "https://www.singtaousa.com/2026/01/07/news/usa/cynthia-erivo-will-miss-the-golden-globes-to-play-23-characters-in-one-night-including-dracula-heres-why-this-role-changes-everything/",
-      "source": "singtaousa.com",
-      "published": 1767830400
-    },
-    {
-      "id": "12f4cdfa7afe",
-      "title": "流浪狗問題引爆司法關注？印度最高法院罕見表態",
-      "url": "https://www.singtaousa.com/2026/01/07/news/world/stray-dogs-matter-so-many-applications-dont-even-come-in-cases-of-humans-says-sc/",
-      "source": "singtaousa.com",
-      "published": 1767830400
-    },
-    {
-      "id": "94c2857bb180",
-      "title": "Google 贏蘋果了！Alphabet 市值躍升第二大 短期能追上輝達嗎？",
-      "url": "https://money.udn.com/money/story/5599/9251685",
-      "source": "money.udn.com",
-      "published": 1767829836
-    },
-    {
-      "id": "cfcc31ede57a",
-      "title": "美國「無限期」掌控委內瑞拉石油銷售 川普：委國收益限買美商品",
-      "url": "https://money.udn.com/money/story/5599/9251683",
-      "source": "money.udn.com",
-      "published": 1767829748
-    },
-    {
-      "id": "b8aaaccf8008",
-      "title": "打造「夢幻軍隊」 川普要求國防預算大增50%至1.5兆美元",
-      "url": "https://money.udn.com/money/story/5599/9251682",
-      "source": "money.udn.com",
-      "published": 1767829666
-    },
-    {
       "id": "b340e68eb665",
       "title": "德国选项党打造第二外交支柱 加强对中国的重视",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260107-%E5%BE%B7%E5%9B%BD%E9%80%89%E9%A1%B9%E5%85%9A%E6%89%93%E9%80%A0%E7%AC%AC%E4%BA%8C%E5%A4%96%E4%BA%A4%E6%94%AF%E6%9F%B1-%E5%8A%A0%E5%BC%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E9%87%8D%E8%A7%86",
       "source": "rfi.fr",
       "published": 1767829596
-    },
-    {
-      "id": "b381fe22703f",
-      "title": "布魯塞爾擴大調查未登記旅宿　罰金規模估達700萬歐元",
-      "url": "https://money.udn.com/money/story/5599/9251678",
-      "source": "money.udn.com",
-      "published": 1767828968
-    },
-    {
-      "id": "41be8c8be6e1",
-      "title": "澤連斯基籲美複製委內瑞拉行動，劍指普京關鍵盟友",
-      "url": "https://www.singtaousa.com/2026/01/07/news/world/zelenskyy-says-us-could-target-kadyrov-to-pressure-putin-citing-maduro-operation/",
-      "source": "singtaousa.com",
-      "published": 1767828600
     },
     {
       "id": "1b694490cbc1",
@@ -205,41 +275,6 @@
       "published": 1767827343
     },
     {
-      "id": "90e6ab278f1b",
-      "title": "明州ICE開槍擊殺女子案 多角度事發畫面網上瘋傳",
-      "url": "https://www.singtaousa.com/2026/01/07/news/usa/ice-shooting-kills-37-year-old-woman-in-minneapolis-shocking-people/",
-      "source": "singtaousa.com",
-      "published": 1767827018
-    },
-    {
-      "id": "bbf74fad2468",
-      "title": "同是天下海外人 ·相逢同在「嘉和興」 日落區街坊相聚的廣府美食餐廳",
-      "url": "https://www.singtaousa.com/2026/01/07/lifestyle/we-are-all-foreigners-from-the-same-world-and-meet-in-the-same-place-at-jiahexing-this-is-a-cantonese-gourmet-restaurant-in-sunset-district-where-neighbors-gather-together/",
-      "source": "singtaousa.com",
-      "published": 1767826800
-    },
-    {
-      "id": "2b056cc5b92a",
-      "title": "內華達州攜手香港及大灣區 CES 2026商務早餐會促創科合作新機遇",
-      "url": "https://www.singtaousa.com/2026/01/07/news/usa/nevada-joins-hands-with-hong-kong-and-the-greater-bay-area-at-ces-2026/",
-      "source": "singtaousa.com",
-      "published": 1767826162
-    },
-    {
-      "id": "fbb02fb5cce8",
-      "title": "美國民主黨初選面臨政治暴力威脅 安全成為競選新核心",
-      "url": "https://www.singtaousa.com/2026/01/07/news/usa/the-u-s-democratic-party-primaries-face-the-threat-of-political-violence-and-security-becomes-the-new-core-of-the-campaign/",
-      "source": "singtaousa.com",
-      "published": 1767825808
-    },
-    {
-      "id": "6738a1bc17a0",
-      "title": "宇樹機器人亮相 CES 吸引人潮 小型與大型機器狗及人形拳擊機器人成焦點",
-      "url": "https://www.singtaousa.com/2026/01/07/news/usa/news-unitree-robotics-attracted-crowds-at-ces/",
-      "source": "singtaousa.com",
-      "published": 1767825395
-    },
-    {
       "id": "5542a6138a65",
       "title": "特朗普肆无忌惮的帝国主义在美国引发越来越多的质疑",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260107-%E7%89%B9%E6%9C%97%E6%99%AE%E8%82%86%E6%97%A0%E5%BF%8C%E6%83%AE%E7%9A%84%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BC%95%E5%8F%91%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E8%B4%A8%E7%96%91",
@@ -247,25 +282,11 @@
       "published": 1767825288
     },
     {
-      "id": "1ee2bec97870",
-      "title": "澳洲熱浪破六年紀錄！墨爾本高溫41度 消防警告迫在眉睫",
-      "url": "https://www.singtaousa.com/2026/01/07/news/world/melbourne-swelters-through-hottest-day-in-six-years-as-severe-heatwave-descends-on-australias-south-eastern-states/",
-      "source": "singtaousa.com",
-      "published": 1767825000
-    },
-    {
       "id": "be457d14adaa",
       "title": "马杜罗遭拘后首次国会简报　特朗普是否越权动武引争议",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260107-%E9%A9%AC%E6%9D%9C%E7%BD%97%E9%81%AD%E6%8B%98%E5%90%8E%E9%A6%96%E6%AC%A1%E5%9B%BD%E4%BC%9A%E7%AE%80%E6%8A%A5-%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E5%90%A6%E8%B6%8A%E6%9D%83%E5%8A%A8%E6%AD%A6%E5%BC%95%E4%BA%89%E8%AE%AE",
       "source": "rfi.fr",
       "published": 1767824236
-    },
-    {
-      "id": "fe0ac80cc032",
-      "title": "也門反胡塞聯盟驚爆內訌 分離派領袖突遭叛國罪指控",
-      "url": "https://www.singtaousa.com/2026/01/07/news/world/yemen-anti-houthi-council-expels-separatist-leader-and-says-he-faces-treason-charges/",
-      "source": "singtaousa.com",
-      "published": 1767823200
     },
     {
       "id": "46517d2da868",
@@ -336,6 +357,20 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260107-%E7%BE%8E%E5%9B%BD%E6%89%A3%E6%8A%BC%E4%B8%80%E8%89%98%E6%82%AC%E6%8C%82%E4%BF%84%E5%9B%BD%E6%97%97%E6%B2%B9%E8%BD%AE",
       "source": "rfi.fr",
       "published": 1767801938
+    },
+    {
+      "id": "e565a58dbb87",
+      "title": "华纳兄弟拒绝派拉蒙最新收购要约",
+      "url": "https://www.ftchinese.com/story/001108643",
+      "source": "ftchinese.com",
+      "published": 1767801600
+    },
+    {
+      "id": "b3f9fddd93f0",
+      "title": "富贵险中求 华兴资本试水不良贷款",
+      "url": "https://www.ftchinese.com/story/001108642",
+      "source": "ftchinese.com",
+      "published": 1767801600
     },
     {
       "id": "2de1f9be329a",
@@ -660,13 +695,6 @@
       "published": 1767739406
     },
     {
-      "id": "b01c9d54d1c5",
-      "title": "委内瑞拉之后 特朗普的下一个目标？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260106-%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%B9%8B%E5%90%8E-%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E7%9B%AE%E6%A0%87",
-      "source": "rfi.fr",
-      "published": 1767738225
-    },
-    {
       "id": "ce378d5cf525",
       "title": "iPhone为何中国制造？",
       "url": "https://cn.nytimes.com/business/20120122/c00appleone/?utm_source=RSS",
@@ -754,13 +782,6 @@
       "id": "c1d94ce1361c",
       "title": "数学与人生",
       "url": "https://www.ftchinese.com/story/001108618",
-      "source": "ftchinese.com",
-      "published": 1767715200
-    },
-    {
-      "id": "73046c4975de",
-      "title": "物业禁止新能源车进地库背后的真问题",
-      "url": "https://www.ftchinese.com/story/001108607",
       "source": "ftchinese.com",
       "published": 1767715200
     },
@@ -896,13 +917,6 @@
       "url": "https://cn.nytimes.com/world/20260106/trump-venezuela-china-russia/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1767642135
-    },
-    {
-      "id": "ddb404b154f5",
-      "title": "中国禁止向日本军方出口“两用物项”",
-      "url": "https://www.ftchinese.com/story/001108625",
-      "source": "ftchinese.com",
-      "published": 1767628800
     },
     {
       "id": "7018589803d3",
@@ -1087,13 +1101,6 @@
       "published": 1767352740
     },
     {
-      "id": "5d5f24363bdb",
-      "title": "德语媒体：中国寻找进行现代海战的方法",
-      "url": "https://www.dw.com/zh/德语媒体：中国寻找进行现代海战的方法/a-75364905?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1767348420
-    },
-    {
       "id": "1a0f2ae19234",
       "title": "瑞士滑雪聖地酒吧元旦大火：至少40人喪生 百餘人受傷",
       "url": "https://www.bbc.com/zhongwen/articles/c74w8xpg51do/trad?at_medium=RSS&at_campaign=rss",
@@ -1239,13 +1246,6 @@
       "url": "https://cn.nytimes.com/business/20251230/rare-earth-processing-phoenix-tailings/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1767064069
-    },
-    {
-      "id": "9275d4b4c6a1",
-      "title": "中国在台湾周边举行实弹军事演习",
-      "url": "https://cn.nytimes.com/asia-pacific/20251229/china-taiwan-military-exercises/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1767057967
     },
     {
       "id": "78f86738f83e",
@@ -1402,5 +1402,5 @@
       "published": 1765950780
     }
   ],
-  "build_id": 1767833644
+  "build_id": 1767840697
 }
