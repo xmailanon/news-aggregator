@@ -1,12 +1,54 @@
 {
-  "updated": 1767883724,
+  "updated": 1767885277,
   "items": [
+    {
+      "id": "f517a0a2095b",
+      "title": "俄罗斯释放一名法国研究员，交换一名俄罗斯篮球员",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260108-%E4%BF%84%E7%BD%97%E6%96%AF%E9%87%8A%E6%94%BE%E4%B8%80%E5%90%8D%E6%B3%95%E5%9B%BD%E7%A0%94%E7%A9%B6%E5%91%98%EF%BC%8C%E4%BA%A4%E6%8D%A2%E4%B8%80%E5%90%8D%E4%BF%84%E7%BD%97%E6%96%AF%E7%AF%AE%E7%90%83%E5%91%98",
+      "source": "rfi.fr",
+      "published": 1767885251
+    },
+    {
+      "id": "718b1eda1106",
+      "title": "美10月貿易逆差大幅縮減近4成　成為2009年以來最低",
+      "url": "https://money.udn.com/money/story/10511/9253837",
+      "source": "money.udn.com",
+      "published": 1767884436
+    },
+    {
+      "id": "1717820ccb1c",
+      "title": "投資人謹慎觀望非農就業數據　美國股市小幅開低",
+      "url": "https://money.udn.com/money/story/123398/9253838",
+      "source": "money.udn.com",
+      "published": 1767884434
+    },
+    {
+      "id": "c40b6498e70f",
+      "title": "南韓大學生柬埔寨詐騙園區內遭虐致死　涉案中國籍頭目於泰國落網",
+      "url": "https://www.singtaousa.com/2026/01/08/news/world/a-south-korean-college-student-was-tortured-to-death-in-a-fraud-park-in-cambodia-the-chinese-leader-involved-in-the-case-was-arrested-in-thailand/",
+      "source": "singtaousa.com",
+      "published": 1767884353
+    },
+    {
+      "id": "83f2c6e16bda",
+      "title": "數百民眾冒嚴寒悼遭移民官員槍殺女子 明尼阿波利斯公立學校本周停課",
+      "url": "https://money.udn.com/money/story/5599/9253832",
+      "source": "money.udn.com",
+      "published": 1767884186
+    },
     {
       "id": "2e4b65c5ad13",
       "title": "澳洲成立皇家委員會　以最高級別調查邦迪海灘槍擊案",
       "url": "https://www.singtaousa.com/2026/01/08/news/world/australia-establishes-royal-commission-to-investigate-bondi-beach-shooting-at-highest-level/",
       "source": "singtaousa.com",
       "published": 1767884081
+    },
+    {
+      "id": "fdda1b563aa3",
+      "title": "中國加強對日出口管制  是否動用「稀土牌」引關注",
+      "url": "https://money.udn.com/money/story/5599/9253831",
+      "source": "money.udn.com",
+      "published": 1767884067
     },
     {
       "id": "bdbec0cb9b1e",
@@ -117,13 +159,6 @@
       "id": "5088a2513ac4",
       "title": "Alphabet市值超越蘋果",
       "url": "https://www.singtaousa.com/2026/01/08/news/usa/alphabet-surpasses-apple-market/",
-      "source": "singtaousa.com",
-      "published": 1767880800
-    },
-    {
-      "id": "9178c2722943",
-      "title": "摩根大通接手蘋果信用卡業務",
-      "url": "https://www.singtaousa.com/2026/01/08/news/usa/jpmorgan-chase-apple-card/",
       "source": "singtaousa.com",
       "published": 1767880800
     },
@@ -252,34 +287,6 @@
       "url": "https://www.dw.com/zh/长平观察：美国-活捉-马杜罗，台湾更安全了吗？/a-75433303?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1767876600
-    },
-    {
-      "id": "adfcf65aef13",
-      "title": "不可不慎！ 在 AI 榮景下 「這種」金屬供應短缺 恐釀系統性風險",
-      "url": "https://money.udn.com/money/story/5599/9253670",
-      "source": "money.udn.com",
-      "published": 1767876485
-    },
-    {
-      "id": "21fd9947cda4",
-      "title": "川普團隊據悉爭分奪秒 為其格陵蘭島願景制定交易方案",
-      "url": "https://money.udn.com/money/story/5599/9253424",
-      "source": "money.udn.com",
-      "published": 1767875872
-    },
-    {
-      "id": "6b744f47eb66",
-      "title": "布拉格圖書館書塔爆紅　柔性措施疏導打卡人潮",
-      "url": "https://money.udn.com/money/story/5599/9253656",
-      "source": "money.udn.com",
-      "published": 1767875788
-    },
-    {
-      "id": "f2c6316a159a",
-      "title": "部分亞洲銀行家據悉擔憂涉及晶片和中國大陸的融資交易可能招致美國審查",
-      "url": "https://money.udn.com/money/story/5599/9251900",
-      "source": "money.udn.com",
-      "published": 1767875424
     },
     {
       "id": "42bcf9a224c8",
@@ -567,13 +574,6 @@
       "url": "https://cn.nytimes.com/usa/20260108/trump-venezuela-helicopter/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1767811715
-    },
-    {
-      "id": "a6fb162efdf3",
-      "title": "对抗南共市协议：法国暂停进口使用欧盟禁用5种物质处理的农产品",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260107-%E5%8D%97%E5%85%B1%E5%B8%82%E5%8D%8F%E8%AE%AE-%E6%B3%95%E5%9B%BD%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E4%BD%BF%E7%94%A8%E6%AC%A7%E7%9B%9F%E7%A6%81%E7%94%A85%E7%A7%8D%E7%89%A9%E8%B4%A8%E5%A4%84%E7%90%86%E7%9A%84%E5%86%9C%E4%BA%A7%E5%93%81",
-      "source": "rfi.fr",
-      "published": 1767810532
     },
     {
       "id": "8b7111c8a218",
@@ -1402,5 +1402,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1767883724
+  "build_id": 1767885277
 }
