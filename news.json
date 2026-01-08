@@ -1,6 +1,13 @@
 {
-  "updated": 1767899484,
+  "updated": 1767901049,
   "items": [
+    {
+      "id": "61bf5c1d3965",
+      "title": "【突發】藍田邨單位陷火海 火光熊熊濃煙沖天 消防迅速撲救",
+      "url": "https://www.singtaousa.com/2026/01/08/news/china/lam-tin-estate-fire-blaze-firefighting/",
+      "source": "singtaousa.com",
+      "published": 1767900889
+    },
     {
       "id": "08ea6756ec23",
       "title": "離譜！海底撈再爆衛生風波 幼童竟將尿片扔進火鍋 監護人遭警方處理",
@@ -133,13 +140,6 @@
       "url": "https://money.udn.com/money/story/5599/9253840",
       "source": "money.udn.com",
       "published": 1767894024
-    },
-    {
-      "id": "aede4afa7f52",
-      "title": "參議院推進決議案 限制特朗普對委內瑞拉動武",
-      "url": "https://www.singtaousa.com/2026/01/08/news/usa/live-updates-senate-advances-resolution-to-limit-trumps-ability-to-attack-venezuela/",
-      "source": "singtaousa.com",
-      "published": 1767894016
     },
     {
       "id": "72cf5babb7e7",
@@ -1402,5 +1402,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1767899484
+  "build_id": 1767901049
 }
