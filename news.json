@@ -1,6 +1,13 @@
 {
-  "updated": 1767994753,
+  "updated": 1767996656,
   "items": [
+    {
+      "id": "4dcfbddd4b99",
+      "title": "ICE探員明尼阿波利斯槍殺女子 官方稱自衛市長斥「胡說」",
+      "url": "https://www.singtaousa.com/2026/01/09/news/usa/ice-officer-who-fatally-shot-woman-in-minneapolis-identified/",
+      "source": "singtaousa.com",
+      "published": 1767996000
+    },
     {
       "id": "c635f171c14e",
       "title": "明尼阿波利斯槍殺案第一視角 ICE探員手機影片曝光",
@@ -16,9 +23,9 @@
       "published": 1767994489
     },
     {
-      "id": "0aaf8bb61be3",
+      "id": "3d9c3dd3560b",
       "title": "馬杜洛下台後新局　美國啟動評估重建對委外交關係",
-      "url": "https://money.udn.com/money/story/10511/9256378",
+      "url": "https://money.udn.com/money/story/5599/9256378",
       "source": "money.udn.com",
       "published": 1767994235
     },
@@ -189,13 +196,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260109-%E8%A7%86%E9%A2%91-%E9%A9%AC%E5%85%8B%E9%BE%99-%E6%B3%95%E5%9B%BD%E6%8B%92%E7%BB%9D-%E6%96%B0%E6%AE%96%E6%B0%91%E4%B8%BB%E4%B9%89-%E6%96%B0%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89-%E4%BB%A5%E5%8F%8A-%E5%A4%B1%E8%B4%A5%E4%B8%BB%E4%B9%89",
       "source": "rfi.fr",
       "published": 1767986922
-    },
-    {
-      "id": "fac41621c808",
-      "title": "伊朗最高領袖哈梅內伊誓言鎮壓抗議 死亡人數破60",
-      "url": "https://www.singtaousa.com/2026/01/09/news/world/iran-supreme-leader-signals-upcoming-crackdown-on-protesters-ruining-their-own-streets-for-trump/",
-      "source": "singtaousa.com",
-      "published": 1767986498
     },
     {
       "id": "8a368f101957",
@@ -1381,5 +1381,5 @@
       "published": 1765498927
     }
   ],
-  "build_id": 1767994753
+  "build_id": 1767996656
 }
