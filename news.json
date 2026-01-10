@@ -1,6 +1,20 @@
 {
-  "updated": 1768077592,
+  "updated": 1768079332,
   "items": [
+    {
+      "id": "a02fad3a3f33",
+      "title": "張國鈞讀晚清縣官日記 形容如《尋秦記》穿越時空",
+      "url": "https://www.singtaousa.com/2026/01/10/news/china/cheung-kwok-kwun-diary-late-qing/",
+      "source": "singtaousa.com",
+      "published": 1768079086
+    },
+    {
+      "id": "a4d5c67b73fa",
+      "title": "波特蘭邊境巡警槍擊案掀波瀾，涉案者與黑幫關係成謎引官方調查",
+      "url": "https://www.singtaousa.com/2026/01/10/news/usa/oregon-to-investigate-border-patrol-shooting-of-man-and-woman-who-authorities-say-have-ties-to-notorious-gang/",
+      "source": "singtaousa.com",
+      "published": 1768078800
+    },
     {
       "id": "08355efda096",
       "title": "高市早苗研議解散眾院　總務省促地方選委會備戰",
@@ -161,20 +175,6 @@
       "url": "https://money.udn.com/money/story/5599/9257482",
       "source": "money.udn.com",
       "published": 1768067429
-    },
-    {
-      "id": "7f8c2988fe11",
-      "title": "密西西比州發生槍擊案，六人死亡，嫌犯已被拘留",
-      "url": "https://www.singtaousa.com/2026/01/10/news/usa/six-killed-in-mississippi-suspect-in-custody/",
-      "source": "singtaousa.com",
-      "published": 1768067293
-    },
-    {
-      "id": "5dda7fef27fe",
-      "title": "【突發】江蘇越野賽驚魂！賽車失控撞傷14人 2人重傷 52歲車手被拘",
-      "url": "https://www.singtaousa.com/2026/01/10/news/china/jiangsu-nantong-off-road-race-car-crash/",
-      "source": "singtaousa.com",
-      "published": 1768066509
     },
     {
       "id": "8fb33e579e20",
@@ -1388,5 +1388,5 @@
       "published": 1765498927
     }
   ],
-  "build_id": 1768077592
+  "build_id": 1768079332
 }
