@@ -1,6 +1,27 @@
 {
-  "updated": 1768041681,
+  "updated": 1768043330,
   "items": [
+    {
+      "id": "efed2e9155a8",
+      "title": "誰是 AI 下階段贏家股？專家點名台積電、指 NVIDIA 有4隱憂",
+      "url": "https://money.udn.com/money/story/5599/9257281",
+      "source": "money.udn.com",
+      "published": 1768042806
+    },
+    {
+      "id": "08063e0a29be",
+      "title": "中方在永兴岛开设首家商业中心 越南外交部：非法且无效、坚决反对",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260110-%E4%B8%AD%E6%96%B9%E5%9C%A8%E6%B0%B8%E5%85%B4%E5%B2%9B%E5%BC%80%E8%AE%BE%E9%A6%96%E5%AE%B6%E5%95%86%E4%B8%9A%E4%B8%AD%E5%BF%83-%E8%B6%8A%E5%8D%97%E5%A4%96%E4%BA%A4%E9%83%A8-%E9%9D%9E%E6%B3%95%E4%B8%94%E6%97%A0%E6%95%88-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9",
+      "source": "rfi.fr",
+      "published": 1768041863
+    },
+    {
+      "id": "3f1f0d77e601",
+      "title": "台灣第一所台語小學：在華語的海中，扶穩母語的船",
+      "url": "https://www.bbc.com/zhongwen/articles/cddgyq8m7yeo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1768041786
+    },
     {
       "id": "194fada39149",
       "title": "公屋申請奇遇記！拒絕東涌新樓後僅兩周，極速獲派心水沙田舊邨，網民：呢區真係好住！",
@@ -226,13 +247,6 @@
       "published": 1768032269
     },
     {
-      "id": "27c414a5cf6a",
-      "title": "川普政府凍結5民主黨州百億美元補助　法官裁定暫停",
-      "url": "https://money.udn.com/money/story/10511/9257091",
-      "source": "money.udn.com",
-      "published": 1768030248
-    },
-    {
       "id": "be0ed8bc8f9f",
       "title": "印度大學癌症研究驚爆弊案，3500萬經費竟用於購買牛糞",
       "url": "https://www.singtaousa.com/2026/01/09/news/world/mp-news-3-5-crore-irregularity-in-panchgavya-cancer-research-at-jabalpurs-nanaji-deshmukh-vet-university-1-9-cr-used-to-buy-cow-dung-urine-machines-that-cost-20-lakh/",
@@ -378,13 +392,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260109-%E8%A7%86%E9%A2%91-%E9%A9%AC%E5%85%8B%E9%BE%99-%E6%B3%95%E5%9B%BD%E6%8B%92%E7%BB%9D-%E6%96%B0%E6%AE%96%E6%B0%91%E4%B8%BB%E4%B9%89-%E6%96%B0%E5%B8%9D%E5%9B%BD%E4%B8%BB%E4%B9%89-%E4%BB%A5%E5%8F%8A-%E5%A4%B1%E8%B4%A5%E4%B8%BB%E4%B9%89",
       "source": "rfi.fr",
       "published": 1767986922
-    },
-    {
-      "id": "3ba2074fc9a5",
-      "title": "法国暂停进口含欧盟禁用物质处理的产品 欧盟10天内须作出回应",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260109-%E6%B3%95%E5%9B%BD%E6%9A%82%E5%81%9C%E8%BF%9B%E5%8F%A3%E5%90%AB%E6%AC%A7%E7%9B%9F%E7%A6%81%E7%94%A8%E7%89%A9%E8%B4%A8%E5%A4%84%E7%90%86%E7%9A%84%E4%BA%A7%E5%93%81-%E6%AC%A7%E7%9B%9F10%E5%A4%A9%E5%86%85%E9%A1%BB%E4%BD%9C%E5%87%BA%E5%9B%9E%E5%BA%94",
-      "source": "rfi.fr",
-      "published": 1767982196
     },
     {
       "id": "6211087d7fd7",
@@ -1171,13 +1178,6 @@
       "published": 1767357840
     },
     {
-      "id": "1a0f2ae19234",
-      "title": "瑞士滑雪聖地酒吧元旦大火：至少40人喪生 百餘人受傷",
-      "url": "https://www.bbc.com/zhongwen/articles/c74w8xpg51do/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1767337326
-    },
-    {
       "id": "f36862f90869",
       "title": "觀察：房地產巨頭萬科債務危機顯現，是否會成為下一個恆大",
       "url": "https://www.bbc.com/zhongwen/articles/c620rr41n0zo/trad?at_medium=RSS&at_campaign=rss",
@@ -1374,5 +1374,5 @@
       "published": 1765498927
     }
   ],
-  "build_id": 1768041681
+  "build_id": 1768043330
 }
