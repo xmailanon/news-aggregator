@@ -1,6 +1,111 @@
 {
-  "updated": 1768001895,
+  "updated": 1768006354,
   "items": [
+    {
+      "id": "999c499eb717",
+      "title": "北韓控南韓無人機4日侵領空　官媒刊登照片",
+      "url": "https://money.udn.com/money/story/5599/9256475",
+      "source": "money.udn.com",
+      "published": 1768005930
+    },
+    {
+      "id": "495da9fffb46",
+      "title": "法議員研究AI與外國干預　受台灣啟發談認知韌性",
+      "url": "https://money.udn.com/money/story/5599/9256476",
+      "source": "money.udn.com",
+      "published": 1768005930
+    },
+    {
+      "id": "6a3ea995d482",
+      "title": "3兆元投資委內瑞拉！川普會石油業高層喊話 艾克森美孚CEO潑冷水",
+      "url": "https://money.udn.com/money/story/5599/9256473",
+      "source": "money.udn.com",
+      "published": 1768005684
+    },
+    {
+      "id": "5e31c534f5bf",
+      "title": "特朗普政府裁員釀後果？阿拉斯加核防禦基地陷伙食困境",
+      "url": "https://www.singtaousa.com/2026/01/09/news/usa/exclusive-doge-cuts-prompt-scramble-to-feed-troops-at-remote-us-base/",
+      "source": "singtaousa.com",
+      "published": 1768005000
+    },
+    {
+      "id": "e88c68d23332",
+      "title": "特朗普與美國石油公司會晤委內瑞拉投資前景不明",
+      "url": "https://www.singtaousa.com/2026/01/09/news/usa/minneapolis-ice-shooting-sparks-investigation-divide/",
+      "source": "singtaousa.com",
+      "published": 1768004644
+    },
+    {
+      "id": "111a175f3f35",
+      "title": "委內瑞拉釋放囚犯　5名西班牙人重獲自由返家團圓",
+      "url": "https://money.udn.com/money/story/5599/9256454",
+      "source": "money.udn.com",
+      "published": 1768004008
+    },
+    {
+      "id": "e823e66b154a",
+      "title": "粵語港車北上及粵車南下 (2)",
+      "url": "https://www.singtaousa.com/2026/01/09/opinion/hong-kong-train-going-north-and-guangdong-train-going-south-2/",
+      "source": "singtaousa.com",
+      "published": 1768003500
+    },
+    {
+      "id": "216712ae0ee3",
+      "title": "西班牙國家遺產遊客數破紀錄  馬德里王宮居冠",
+      "url": "https://money.udn.com/money/story/5599/9256447",
+      "source": "money.udn.com",
+      "published": 1768003233
+    },
+    {
+      "id": "f93008c66d6e",
+      "title": "譚志榮脊椎神經醫學博士 各類痛症都全心全意去醫 譚",
+      "url": "https://www.singtaousa.com/2026/01/09/lifestyle/doctor-of-chiropractic-tam-chi-wing-who-treats-all-kinds-of-pain-with-all-his-heart-tan/",
+      "source": "singtaousa.com",
+      "published": 1768003200
+    },
+    {
+      "id": "9ba753250f4a",
+      "title": "伊朗：“封锁网络可能是现政府对异议人士下手的先兆”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260109-%E4%BC%8A%E6%9C%97-%E5%B0%81%E9%94%81%E7%BD%91%E7%BB%9C%E5%8F%AF%E8%83%BD%E6%98%AF%E7%8E%B0%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%BC%82%E8%AE%AE%E4%BA%BA%E5%A3%AB%E4%B8%8B%E6%89%8B%E7%9A%84%E5%85%88%E5%85%86",
+      "source": "rfi.fr",
+      "published": 1768003058
+    },
+    {
+      "id": "5c42a7359c39",
+      "title": "川普揚言對格陵蘭採取行動　不能讓俄羅斯或中國佔領",
+      "url": "https://money.udn.com/money/story/10511/9256444",
+      "source": "money.udn.com",
+      "published": 1768002869
+    },
+    {
+      "id": "13adf0b7b0f5",
+      "title": "在台設處案未過關　葡萄牙議員：不會是最後一次提案",
+      "url": "https://money.udn.com/money/story/5599/9256445",
+      "source": "money.udn.com",
+      "published": 1768002868
+    },
+    {
+      "id": "6d9a84a92eca",
+      "title": "川普不排除來硬的取得格陵蘭 議員嗆：再多錢也買不到民族靈魂",
+      "url": "https://money.udn.com/money/story/5599/9256442",
+      "source": "money.udn.com",
+      "published": 1768002821
+    },
+    {
+      "id": "29e45b14868a",
+      "title": "美国没收委内瑞拉石油：中国国家经济利益受到冲击",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260109-%E7%BE%8E%E5%9B%BD%E6%B2%A1%E6%94%B6%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E7%9F%B3%E6%B2%B9-%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%AE%B6%E7%BB%8F%E6%B5%8E%E5%88%A9%E7%9B%8A%E5%8F%97%E5%88%B0%E5%86%B2%E5%87%BB",
+      "source": "rfi.fr",
+      "published": 1768002780
+    },
+    {
+      "id": "dfd1b4f0a1f1",
+      "title": "英國道路安全新規　擬強制逾70歲駕駛視力和認知檢測",
+      "url": "https://money.udn.com/money/story/5599/9256436",
+      "source": "money.udn.com",
+      "published": 1768002306
+    },
     {
       "id": "910e64b34404",
       "title": "歐盟批准南美貿易協議　法與多國農民反彈",
@@ -100,13 +205,6 @@
       "published": 1767994235
     },
     {
-      "id": "6dde687598ae",
-      "title": "減肥藥風潮改變飲食習慣？英國Greggs業績面臨意外挑戰",
-      "url": "https://www.singtaousa.com/2026/01/09/news/world/weight-loss-jabs-affecting-greggs-boss-says/",
-      "source": "singtaousa.com",
-      "published": 1767994200
-    },
-    {
       "id": "ebc5f49f0b9e",
       "title": "法英德强烈谴责伊朗政权“杀害抗议者”",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260109-%E6%B3%95%E8%8B%B1%E5%BE%B7%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E4%BC%8A%E6%9C%97%E6%94%BF%E6%9D%83-%E6%9D%80%E5%AE%B3%E6%8A%97%E8%AE%AE%E8%80%85",
@@ -156,25 +254,11 @@
       "published": 1767992813
     },
     {
-      "id": "47e6eee75ec1",
-      "title": "屯門怡樂花園業主壓倒性投票 終止宏業建築大維修合約",
-      "url": "https://www.singtaousa.com/2026/01/09/news/china/yale-garden-owners-vote-terminate-contract/",
-      "source": "singtaousa.com",
-      "published": 1767992687
-    },
-    {
       "id": "637621d69d4e",
       "title": "法新社：雅阳教堂十字架“不见了“",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260109-%E6%B3%95%E6%96%B0%E7%A4%BE-%E9%9B%85%E9%98%B3%E6%95%99%E5%A0%82%E5%8D%81%E5%AD%97%E6%9E%B6-%E4%B8%8D%E8%A7%81%E4%BA%86",
       "source": "rfi.fr",
       "published": 1767992458
-    },
-    {
-      "id": "2c847f72c751",
-      "title": "委內瑞拉變天夢碎？馬杜羅遭美軍逮捕後政權為何絲毫未動",
-      "url": "https://www.singtaousa.com/2026/01/09/news/world/venezuelans-hopeful-of-regime-change-dismayed-as-government-appears-to-remain-the-same/",
-      "source": "singtaousa.com",
-      "published": 1767992400
     },
     {
       "id": "5d0fa99bd02c",
@@ -196,13 +280,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260109-%E7%BE%8E%E5%9B%BD%E6%B4%BE%E9%81%A3%E5%A4%96%E4%BA%A4%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%B5%B4%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89-%E5%A7%94%E4%B8%B4%E6%97%B6%E6%80%BB%E7%BB%9F%E4%BC%A0%E7%94%B3%E8%AF%B7%E8%AE%BF%E7%BE%8E%E5%BC%95%E5%85%B3%E6%B3%A8",
       "source": "rfi.fr",
       "published": 1767991031
-    },
-    {
-      "id": "cc040a031e83",
-      "title": "深水埗警閃電行動！長沙灣釣魚機賭檔被搗破 越南籍負責人連同8賭客落網",
-      "url": "https://www.singtaousa.com/2026/01/09/news/china/police-raid-fishing-game-gambling-den-arrests/",
-      "source": "singtaousa.com",
-      "published": 1767990886
     },
     {
       "id": "dd1edb07d06d",
@@ -266,69 +343,6 @@
       "url": "https://money.udn.com/money/story/5599/9256214",
       "source": "money.udn.com",
       "published": 1767978295
-    },
-    {
-      "id": "5e5a19a69bfb",
-      "title": "1分鐘看世界／通用縮減電動車計畫 60億美元投資轉列費用",
-      "url": "https://money.udn.com/money/story/5599/9256117",
-      "source": "money.udn.com",
-      "published": 1767978217
-    },
-    {
-      "id": "291bfb72fb7d",
-      "title": "川普挺房貸族 找「二房」救援",
-      "url": "https://money.udn.com/money/story/10511/9256176",
-      "source": "money.udn.com",
-      "published": 1767978019
-    },
-    {
-      "id": "272a8099bbf3",
-      "title": "Meta 拚 AI 競賽 大買核電",
-      "url": "https://money.udn.com/money/story/123398/9256172",
-      "source": "money.udn.com",
-      "published": 1767977959
-    },
-    {
-      "id": "3d952d823022",
-      "title": "陸暫停審查輸日稀土許可",
-      "url": "https://money.udn.com/money/story/5599/9256165",
-      "source": "money.udn.com",
-      "published": 1767977932
-    },
-    {
-      "id": "1882ec74f111",
-      "title": "對等關稅判決 各國緊盯",
-      "url": "https://money.udn.com/money/story/5599/9256241",
-      "source": "money.udn.com",
-      "published": 1767977714
-    },
-    {
-      "id": "f55a4e510a18",
-      "title": "接受紐時專訪 川普：在我任內 陸不會攻台 已確定Fed新主席人選",
-      "url": "https://money.udn.com/money/story/5599/9256235",
-      "source": "money.udn.com",
-      "published": 1767977698
-    },
-    {
-      "id": "d3e09141405f",
-      "title": "奪格陵蘭 擬每人發10萬美元",
-      "url": "https://money.udn.com/money/story/5599/9256237",
-      "source": "money.udn.com",
-      "published": 1767977563
-    },
-    {
-      "id": "c5382327a75b",
-      "title": "川普一旦敗訴…美債有壓",
-      "url": "https://money.udn.com/money/story/5599/9256240",
-      "source": "money.udn.com",
-      "published": 1767977410
-    },
-    {
-      "id": "e00e321b8bf2",
-      "title": "全球 AI 普及率 阿聯蟬聯冠軍 台灣小幅退步至第23名",
-      "url": "https://money.udn.com/money/story/5599/9256164",
-      "source": "money.udn.com",
-      "published": 1767975042
     },
     {
       "id": "6211087d7fd7",
@@ -471,25 +485,11 @@
       "published": 1767953693
     },
     {
-      "id": "9909c9acda96",
-      "title": "最高法院裁决倒数 特朗普关税合法性牵动千亿退税",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260109-%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%A3%81%E5%86%B3%E5%80%92%E6%95%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%90%88%E6%B3%95%E6%80%A7%E7%89%B5%E5%8A%A8%E5%8D%83%E4%BA%BF%E9%80%80%E7%A8%8E",
-      "source": "rfi.fr",
-      "published": 1767953452
-    },
-    {
       "id": "7aadde4cc5c2",
       "title": "伊朗抗议持续，全国通信中断，法国作出外交回应",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260109-%E4%BC%8A%E6%9C%97%E6%8A%97%E8%AE%AE%E6%8C%81%E7%BB%AD%EF%BC%8C%E5%85%A8%E5%9B%BD%E9%80%9A%E4%BF%A1%E4%B8%AD%E6%96%AD%EF%BC%8C%E6%B3%95%E5%9B%BD%E4%BD%9C%E5%87%BA%E5%A4%96%E4%BA%A4%E5%9B%9E%E5%BA%94",
       "source": "rfi.fr",
       "published": 1767953433
-    },
-    {
-      "id": "0607a6b3234a",
-      "title": "委内瑞拉释放“相当数量”政治犯 特朗普称将于下周会见反对派领导人马查多",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260109-%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%87%8A%E6%94%BE-%E7%9B%B8%E5%BD%93%E6%95%B0%E9%87%8F-%E6%94%BF%E6%B2%BB%E7%8A%AF-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E%E4%B8%8B%E5%91%A8%E4%BC%9A%E8%A7%81%E5%8F%8D%E5%AF%B9%E6%B4%BE%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%A9%AC%E6%9F%A5%E5%A4%9A",
-      "source": "rfi.fr",
-      "published": 1767950145
     },
     {
       "id": "c1fa3961b483",
@@ -1381,5 +1381,5 @@
       "published": 1765498927
     }
   ],
-  "build_id": 1768001895
+  "build_id": 1768006354
 }
