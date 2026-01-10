@@ -1,6 +1,13 @@
 {
-  "updated": 1768080963,
+  "updated": 1768083009,
   "items": [
+    {
+      "id": "1d9942e86caa",
+      "title": "ICE槍擊案後救援為何延誤？目擊者揭聯邦人員驚人舉動",
+      "url": "https://www.singtaousa.com/2026/01/10/news/usa/federal-officers-blocked-medics-from-scene-of-ice-shooting-witnesses-say/",
+      "source": "singtaousa.com",
+      "published": 1768082400
+    },
     {
       "id": "790450f1bfd1",
       "title": "伊朗切斷全國互聯網與國際電話線路，8500萬人與世隔絕",
@@ -38,7 +45,7 @@
     },
     {
       "id": "caabcb95c2c9",
-      "title": "中俄伊联合军演：“这与委绝对没有任何关系”",
+      "title": "中俄伊联合军演：“这与委内瑞拉绝对没有任何关系”",
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260110-%E4%B8%AD%E4%BF%84%E4%BC%8A%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94-%E8%BF%99%E4%B8%8E%E5%A7%94%E7%BB%9D%E5%AF%B9%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%85%B3%E7%B3%BB",
       "source": "rfi.fr",
       "published": 1768079715
@@ -175,13 +182,6 @@
       "url": "https://www.singtaousa.com/2026/01/10/news/china/china-halts-rare-earth-contracts-japan/",
       "source": "singtaousa.com",
       "published": 1768071884
-    },
-    {
-      "id": "c47d41248348",
-      "title": "23歲中國女導演柬埔寨墮樓亡 兩名友人涉暴力致死被捕",
-      "url": "https://www.singtaousa.com/2026/01/10/news/china/chinese-female-director-dies-cambodia-friends-detained/",
-      "source": "singtaousa.com",
-      "published": 1768070088
     },
     {
       "id": "4b5da42fbdc7",
@@ -1388,5 +1388,5 @@
       "published": 1765498927
     }
   ],
-  "build_id": 1768080963
+  "build_id": 1768083009
 }
