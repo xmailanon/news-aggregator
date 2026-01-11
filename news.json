@@ -1,6 +1,13 @@
 {
-  "updated": 1768162295,
+  "updated": 1768164038,
   "items": [
+    {
+      "id": "1f845838c1df",
+      "title": "驚人發現！殷墟出土中國最早「野生動物園」 商代王室已飼養珍禽異獸",
+      "url": "https://www.singtaousa.com/2026/01/11/news/china/earliest-wildlife-park-china-shang-dynasty/",
+      "source": "singtaousa.com",
+      "published": 1768163687
+    },
     {
       "id": "1b3a83434a25",
       "title": "天津名物「狗不理」包子英文名曝光！「GO BELIEVE」獲網民激讚神翻譯",
@@ -24,7 +31,7 @@
     },
     {
       "id": "bcfb5d3c2341",
-      "title": "伊朗局势白热化 特朗普周二将听取美方具体方案",
+      "title": "伊朗局势白热化 美国加紧筹划可能对伊朗采取的行动",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260111-%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E7%99%BD%E7%83%AD%E5%8C%96-%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%A8%E4%BA%8C%E5%B0%86%E5%90%AC%E5%8F%96%E7%BE%8E%E6%96%B9%E5%85%B7%E4%BD%93%E6%96%B9%E6%A1%88",
       "source": "rfi.fr",
       "published": 1768159981
@@ -259,13 +266,6 @@
       "url": "https://www.dw.com/zh/伊朗抗议：死亡人数持续上升-美以公开声援/a-75466152?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1768144140
-    },
-    {
-      "id": "44ec89893eb0",
-      "title": "慈濟舊金山支會31年的故事（下）",
-      "url": "https://www.singtaousa.com/2026/01/11/news/usa/tzuchi-san-francisco-story/",
-      "source": "singtaousa.com",
-      "published": 1768143600
     },
     {
       "id": "2848e956e7b5",
@@ -1395,5 +1395,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1768162295
+  "build_id": 1768164038
 }
