@@ -1,6 +1,13 @@
 {
-  "updated": 1768167379,
+  "updated": 1768169403,
   "items": [
+    {
+      "id": "3dedaa603828",
+      "title": "伊朗宣布為「烈士」哀悼3天　號召遊行「抵抗暴動」",
+      "url": "https://money.udn.com/money/story/5599/9259088",
+      "source": "money.udn.com",
+      "published": 1768168469
+    },
     {
       "id": "02e32baf5cbb",
       "title": "成都地鐵「一人一座」新設計杜絕不文明行為 網民激讚：建議全國推廣！",
@@ -287,13 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9259006",
       "source": "money.udn.com",
       "published": 1768146869
-    },
-    {
-      "id": "27c424683159",
-      "title": "川普促古巴達成協議　否則將面臨後果",
-      "url": "https://money.udn.com/money/story/5599/9258969",
-      "source": "money.udn.com",
-      "published": 1768145796
     },
     {
       "id": "a6d990e25fb9",
@@ -1395,5 +1395,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1768167379
+  "build_id": 1768169403
 }
