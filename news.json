@@ -1,6 +1,27 @@
 {
-  "updated": 1768115564,
+  "updated": 1768117083,
   "items": [
+    {
+      "id": "f29cfe83a27e",
+      "title": "菲律賓馬永火山地震驟增  噴發風險上升",
+      "url": "https://money.udn.com/money/story/5599/9258376",
+      "source": "money.udn.com",
+      "published": 1768116966
+    },
+    {
+      "id": "73955dc85256",
+      "title": "美財長貝森特：最快下週對委內瑞拉解除更多制裁",
+      "url": "https://money.udn.com/money/story/5599/9258377",
+      "source": "money.udn.com",
+      "published": 1768116966
+    },
+    {
+      "id": "a03402aa68b0",
+      "title": "藍田麗港城墮樓悲劇 男子送院搶救後不治",
+      "url": "https://www.singtaousa.com/2026/01/11/news/china/lai-king-city-man-falls-to-death/",
+      "source": "singtaousa.com",
+      "published": 1768116888
+    },
     {
       "id": "b9c21b1ff0f2",
       "title": "盧比歐與尼坦雅胡通話　媒體稱討論加薩與伊朗示威",
@@ -219,20 +240,6 @@
       "published": 1768097545
     },
     {
-      "id": "23711b811949",
-      "title": "美公民遭ICE槍擊身亡　洛杉磯響應全美串連示威",
-      "url": "https://money.udn.com/money/story/5599/9257847",
-      "source": "money.udn.com",
-      "published": 1768095921
-    },
-    {
-      "id": "8af62d94dc27",
-      "title": "俄新一波空襲　基輔人民斷水斷電挨嚴冬",
-      "url": "https://money.udn.com/money/story/5599/9257846",
-      "source": "money.udn.com",
-      "published": 1768095921
-    },
-    {
       "id": "13067b4b6f7e",
       "title": "一夜連殺6人！密西西比州24歲男子血洗家族，親手殺害7歲表妹",
       "url": "https://www.singtaousa.com/2026/01/10/news/usa/mississippi-shooting-deaths-west-point/",
@@ -245,13 +252,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260111-%E5%9F%83%E5%A1%9E%E4%BF%84%E6%AF%94%E4%BA%9A%E8%B4%A7%E5%B8%812025%E8%B4%AC%E5%80%BC%E4%B8%A5%E9%87%8D",
       "source": "rfi.fr",
       "published": 1768093667
-    },
-    {
-      "id": "1d9942e86caa",
-      "title": "ICE槍擊案後救援為何延誤？目擊者揭聯邦人員驚人舉動",
-      "url": "https://www.singtaousa.com/2026/01/10/news/usa/federal-officers-blocked-medics-from-scene-of-ice-shooting-witnesses-say/",
-      "source": "singtaousa.com",
-      "published": 1768082400
     },
     {
       "id": "a3b1b5c8e5c6",
@@ -1381,5 +1381,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1768115564
+  "build_id": 1768117083
 }
