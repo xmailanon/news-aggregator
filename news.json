@@ -1,6 +1,34 @@
 {
-  "updated": 1768110298,
+  "updated": 1768112210,
   "items": [
+    {
+      "id": "77ab17d8f4b9",
+      "title": "緬甸第2輪投票登場　國際批評缺乏公正可信",
+      "url": "https://money.udn.com/money/story/5599/9258282",
+      "source": "money.udn.com",
+      "published": 1768111949
+    },
+    {
+      "id": "846a3063a2a1",
+      "title": "特朗普提千億投資委內瑞拉  埃克森公司稱無法投資",
+      "url": "https://www.bbc.com/zhongwen/articles/cpwnzpjyp8wo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1768111586
+    },
+    {
+      "id": "425b972e7fa8",
+      "title": "社企免費培訓助劏房青年華麗轉身 變身專業銷售員重拾自信",
+      "url": "https://www.singtaousa.com/2026/01/10/news/china/free-training-sales-career-subdivided-flat-youth/",
+      "source": "singtaousa.com",
+      "published": 1768111489
+    },
+    {
+      "id": "0b7a12f76e46",
+      "title": "高市早苗回應陸禁稀土輸日！警示北京「若脅迫各地恐不得了」",
+      "url": "https://money.udn.com/money/story/5599/9258241",
+      "source": "money.udn.com",
+      "published": 1768110389
+    },
     {
       "id": "d4bdf29a2314",
       "title": "特朗普80大壽撼動G7峰會 白宮傳將上演UFC籠鬥賽",
@@ -21,6 +49,13 @@
       "url": "https://money.udn.com/money/story/5599/9258203",
       "source": "money.udn.com",
       "published": 1768108046
+    },
+    {
+      "id": "cf69c59b93cd",
+      "title": "南卡羅來納州麻疹爆發增99例，疫苗接種率為何持續滯後？",
+      "url": "https://www.singtaousa.com/2026/01/10/news/usa/south-carolina-reports-99-new-measles-cases/",
+      "source": "singtaousa.com",
+      "published": 1768107518
     },
     {
       "id": "d72f2bbebc3e",
@@ -184,20 +219,6 @@
       "published": 1768093667
     },
     {
-      "id": "22b578e42e55",
-      "title": "伊朗當局持續斷網鎮壓　德黑蘭爆發新一波抗議",
-      "url": "https://money.udn.com/money/story/5599/9257812",
-      "source": "money.udn.com",
-      "published": 1768093576
-    },
-    {
-      "id": "d9e6e3bed71e",
-      "title": "馬杜洛稱在獄中狀況不錯 委內瑞拉支持者集會高官缺席",
-      "url": "https://money.udn.com/money/story/5599/9257811",
-      "source": "money.udn.com",
-      "published": 1768093576
-    },
-    {
       "id": "1d9942e86caa",
       "title": "ICE槍擊案後救援為何延誤？目擊者揭聯邦人員驚人舉動",
       "url": "https://www.singtaousa.com/2026/01/10/news/usa/federal-officers-blocked-medics-from-scene-of-ice-shooting-witnesses-say/",
@@ -287,20 +308,6 @@
       "url": "https://www.singtaousa.com/2026/01/10/news/china/russian-woman-rampage-tesla-knife-arrest/",
       "source": "singtaousa.com",
       "published": 1768077286
-    },
-    {
-      "id": "64ccf5ce62c0",
-      "title": "元朗地盤悲劇！六旬男工突暈倒 送院搶救後不治",
-      "url": "https://www.singtaousa.com/2026/01/10/news/china/elderly-worker-collapses-dies-construction-site/",
-      "source": "singtaousa.com",
-      "published": 1768075484
-    },
-    {
-      "id": "7d98698caee6",
-      "title": "拉馬斯瓦米家庭保鏢涉販毒被捕 背景審查為何失效？",
-      "url": "https://www.singtaousa.com/2026/01/10/news/usa/vivek-ramaswamys-family-bodyguard-arrested-on-drug-trafficking-charges/",
-      "source": "singtaousa.com",
-      "published": 1768075200
     },
     {
       "id": "93e57995429e",
@@ -791,13 +798,6 @@
       "url": "https://www.dw.com/zh/美国为何紧盯委内瑞拉石油？这对中国等国意味着什么？/a-75434467?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1767878640
-    },
-    {
-      "id": "34e9c67582f8",
-      "title": "北京再擴大「台獨頑固份子」名單：為何「精準打擊」台灣教育、司法系統？",
-      "url": "https://www.bbc.com/zhongwen/articles/clyg6vp71y0o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1767878182
     },
     {
       "id": "4b3f5daca6aa",
@@ -1381,5 +1381,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1768110298
+  "build_id": 1768112210
 }
