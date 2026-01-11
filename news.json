@@ -1,6 +1,13 @@
 {
-  "updated": 1768155311,
+  "updated": 1768157264,
   "items": [
+    {
+      "id": "22daa5ee8ea0",
+      "title": "將軍澳男子拒查身份證　情緒激動襲警被捕",
+      "url": "https://www.singtaousa.com/2026/01/11/news/china/tseung-kwan-o-man-assaults-police-arrested/",
+      "source": "singtaousa.com",
+      "published": 1768156487
+    },
     {
       "id": "f14d13df708b",
       "title": "川普行政命令與發言干擾企業 美 CEO 頭痛 營運戒慎恐懼",
@@ -143,7 +150,7 @@
     },
     {
       "id": "03af2008be40",
-      "title": "伊朗示威釀203死 議會警告：美若動武 將連同以色列一同打擊",
+      "title": "伊朗示威釀數百人死亡 議會警告：美若動武 將連同以色列一同打擊",
       "url": "https://www.singtaousa.com/2026/01/11/news/world/iran-warns-against-us-strikes-as-activists-say-protest-death-toll-reaches-203/",
       "source": "singtaousa.com",
       "published": 1768147304
@@ -271,13 +278,6 @@
       "id": "3bab713f0513",
       "title": "紀錄內華達山脈積雪 150年無間斷",
       "url": "https://www.singtaousa.com/2026/01/11/news/usa/nevada-snowpack-record-data/",
-      "source": "singtaousa.com",
-      "published": 1768140000
-    },
-    {
-      "id": "b44fe59b107d",
-      "title": "優山美地「火瀑布」 觀景今年無須預約",
-      "url": "https://www.singtaousa.com/2026/01/11/news/usa/yosemite-firefall-no-reservation/",
       "source": "singtaousa.com",
       "published": 1768140000
     },
@@ -1395,5 +1395,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1768155311
+  "build_id": 1768157264
 }
