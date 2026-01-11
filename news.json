@@ -1,6 +1,13 @@
 {
-  "updated": 1768158458,
+  "updated": 1768159944,
   "items": [
+    {
+      "id": "138dfebb0b94",
+      "title": "非政府組織：伊朗至少538人命喪鎮壓逾1萬人遭拘留",
+      "url": "https://money.udn.com/money/story/5599/9259068",
+      "source": "money.udn.com",
+      "published": 1768158749
+    },
     {
       "id": "076df69b08c3",
       "title": "油麻地清潔女工除夕慘死車禍 丈夫工傷失業 孝子獨力撐家獲善款解困",
@@ -217,13 +224,6 @@
       "url": "https://www.dw.com/zh/调查：两成德国居民考虑移民国外/a-75466235?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1768144920
-    },
-    {
-      "id": "67781f192b28",
-      "title": "AI 建設狂潮 引爆新戰國時代",
-      "url": "https://money.udn.com/money/story/122381/9258578",
-      "source": "money.udn.com",
-      "published": 1768144586
     },
     {
       "id": "f7c1e20f4073",
@@ -1395,5 +1395,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1768158458
+  "build_id": 1768159944
 }
