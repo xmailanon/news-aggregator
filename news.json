@@ -1,6 +1,13 @@
 {
-  "updated": 1768211467,
+  "updated": 1768212902,
   "items": [
+    {
+      "id": "77ed7d456ff6",
+      "title": "特朗普：我们在考虑非常强有力的方案 将与马斯克讨论恢复伊朗互联网",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260112-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%91%E4%BB%AC%E5%9C%A8%E8%80%83%E8%99%91%E9%9D%9E%E5%B8%B8%E5%BC%BA%E6%9C%89%E5%8A%9B%E7%9A%84%E6%96%B9%E6%A1%88-%E5%B0%86%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AE%A8%E8%AE%BA%E6%81%A2%E5%A4%8D%E4%BC%8A%E6%9C%97%E4%BA%92%E8%81%94%E7%BD%91",
+      "source": "rfi.fr",
+      "published": 1768211976
+    },
     {
       "id": "8e6ebd2c36e5",
       "title": "川普不滿埃克森美孚立場　傾向排除參與委國投資",
@@ -401,6 +408,13 @@
       "published": 1768159981
     },
     {
+      "id": "f8ec66ae31bb",
+      "title": "政策转向重塑上市版图，中企境外IPO由美转港",
+      "url": "https://www.ftchinese.com/story/001108678",
+      "source": "ftchinese.com",
+      "published": 1768147200
+    },
+    {
       "id": "86a8e9f99936",
       "title": "销量登顶全球后，比亚迪的下一关是获利",
       "url": "https://www.ftchinese.com/story/001108677",
@@ -623,13 +637,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cevnxpx73elo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1768099943
-    },
-    {
-      "id": "bda521565b1e",
-      "title": "埃塞俄比亚货币2025贬值严重",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260111-%E5%9F%83%E5%A1%9E%E4%BF%84%E6%AF%94%E4%BA%9A%E8%B4%A7%E5%B8%812025%E8%B4%AC%E5%80%BC%E4%B8%A5%E9%87%8D",
-      "source": "rfi.fr",
-      "published": 1768093667
     },
     {
       "id": "f2d6b729a60a",
@@ -908,13 +915,6 @@
       "id": "dd07d7aab2ac",
       "title": "韦斯・安德森：在巴黎重新打开康奈尔的盒子",
       "url": "https://www.ftchinese.com/story/001108649",
-      "source": "ftchinese.com",
-      "published": 1767888000
-    },
-    {
-      "id": "044069b4aa30",
-      "title": "最常青的“冉•阿让”JOJ：中国的音乐剧市场正在被点燃",
-      "url": "https://www.ftchinese.com/story/001108647",
       "source": "ftchinese.com",
       "published": 1767888000
     },
@@ -1402,5 +1402,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1768211467
+  "build_id": 1768212902
 }
