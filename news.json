@@ -1,6 +1,27 @@
 {
-  "updated": 1768196985,
+  "updated": 1768198862,
   "items": [
+    {
+      "id": "be5a1418feff",
+      "title": "美國共和黨國會議員露口風？稱美「恐今晚」終結伊朗暴政",
+      "url": "https://money.udn.com/money/story/5599/9260042",
+      "source": "money.udn.com",
+      "published": 1768198794
+    },
+    {
+      "id": "2ac77924267f",
+      "title": "千萬爭產案劇情再反轉！「四哥」現身逐點反駁：人性醜惡到入骨",
+      "url": "https://www.singtaousa.com/2026/01/11/news/china/family-feud-inheritance-dispute-brothers-reversal/",
+      "source": "singtaousa.com",
+      "published": 1768197891
+    },
+    {
+      "id": "b68f567a523e",
+      "title": "U-Haul貨車衝入洛杉磯反伊朗示威人群 司機動機未明",
+      "url": "https://www.singtaousa.com/2026/01/11/news/usa/haul-drives-crowd-los-angeles-anti-iranian-regime/",
+      "source": "singtaousa.com",
+      "published": 1768197522
+    },
     {
       "id": "8288982f1029",
       "title": "黎智英案求情展開！12被告連四日陳詞 逾百人通宵排隊旁聽",
@@ -191,13 +212,6 @@
       "published": 1768187049
     },
     {
-      "id": "8729692bc548",
-      "title": "川普13日國安會議　評估制裁、網攻伊朗等選項",
-      "url": "https://money.udn.com/money/story/10511/9259491",
-      "source": "money.udn.com",
-      "published": 1768186839
-    },
-    {
       "id": "1040123ec328",
       "title": "華盛頓州雪崩悲劇 兩男駕雪地摩托車遭活埋身亡",
       "url": "https://www.singtaousa.com/2026/01/11/news/usa/2-men-killed-in-avalanche-in-central-washington/",
@@ -259,20 +273,6 @@
       "url": "https://www.singtaousa.com/2026/01/11/news/usa/air-pollution-linked-to-lower-birth-weight/",
       "source": "singtaousa.com",
       "published": 1768171037
-    },
-    {
-      "id": "13bfdfda493c",
-      "title": "美洲萃勝工商總會舉行2026年度新屆職員交接典禮 連任總理何偉明 副總理張藍真",
-      "url": "https://www.singtaousa.com/2026/01/11/lifestyle/the-american-cuisheng-chamber-of-commerce-and-industry-held-a-handover-ceremony-for-the-new-staff-in-2026-prime-minister-he-weiming-was-re-elected-vice-prime-minister-zhang-lanzhen/",
-      "source": "singtaousa.com",
-      "published": 1768170478
-    },
-    {
-      "id": "4e4d60531040",
-      "title": "駐美台山寧陽總會館舉行2026年度新屆職員交接典禮 新任主席朱明沾 副主席胡偉良 通事譚卓權愉快上任 滿任主席鄺健昌 副主席伍彥文 通事李兆權功成身退",
-      "url": "https://www.singtaousa.com/2026/01/11/news/usa/the-taishan-ningyang-general-assembly-hall-in-the-united-states-held-a-handover-ceremony-for-the-new-staff-of-2026-the-new-chairman-zhu-mingzhan-vice-chairman-hu-weiliang-and-general-manager-tan-zh/",
-      "source": "singtaousa.com",
-      "published": 1768170434
     },
     {
       "id": "42fdc55844ff",
@@ -350,6 +350,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260111-%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E7%99%BD%E7%83%AD%E5%8C%96-%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%A8%E4%BA%8C%E5%B0%86%E5%90%AC%E5%8F%96%E7%BE%8E%E6%96%B9%E5%85%B7%E4%BD%93%E6%96%B9%E6%A1%88",
       "source": "rfi.fr",
       "published": 1768159981
+    },
+    {
+      "id": "ee2c9e8fdcc8",
+      "title": "一周世界舆论聚焦：李在明访华影响在域内显示",
+      "url": "https://www.ftchinese.com/story/001108676",
+      "source": "ftchinese.com",
+      "published": 1768147200
     },
     {
       "id": "8ebb3d4c0f63",
@@ -898,13 +905,6 @@
       "published": 1767888000
     },
     {
-      "id": "bde73a75f63a",
-      "title": "俄罗斯袭击致乌克兰100万户家庭在严寒天气断电",
-      "url": "https://www.ftchinese.com/story/001108660",
-      "source": "ftchinese.com",
-      "published": 1767888000
-    },
-    {
       "id": "b7cd5bbc653b",
       "title": "德语媒体：2025，赢家是习近平",
       "url": "https://www.dw.com/zh/德语媒体：2025，赢家是习近平/a-75435306?maca=chi-rss-chi-all-1127-rdf",
@@ -1395,5 +1395,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1768196985
+  "build_id": 1768198862
 }
