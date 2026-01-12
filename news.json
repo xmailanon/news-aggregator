@@ -1,6 +1,27 @@
 {
-  "updated": 1768250597,
+  "updated": 1768252249,
   "items": [
+    {
+      "id": "d62eff70b10d",
+      "title": "粵語伊朗在發生的不是示威；由委內瑞拉到伊朗，檢視百年變局",
+      "url": "https://www.singtaousa.com/2026/01/12/opinion/what-is-happening-in-iran-is-not-a-demonstration-from-venezuela-to-iran-examine-a-century-of-changes/",
+      "source": "singtaousa.com",
+      "published": 1768251900
+    },
+    {
+      "id": "d69316e9723f",
+      "title": "深圳網格員深夜入屋查消防惹議！居民拒檢仍被闖入拍照：一周三次，嚴重擾民",
+      "url": "https://www.singtaousa.com/2026/01/12/news/china/shenzhen-grid-staff-night-fire-safety-check/",
+      "source": "singtaousa.com",
+      "published": 1768251887
+    },
+    {
+      "id": "85d59e4c9623",
+      "title": "伊朗示威死亡恐达数千  伊朗愿与美国谈判 神棍体制还能撑多久？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260112-%E4%BC%8A%E6%9C%97%E7%A4%BA%E5%A8%81%E6%AD%BB%E4%BA%A1%E6%81%90%E8%BE%BE%E6%95%B0%E5%8D%83-%E4%BC%8A%E6%9C%97%E6%84%BF%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%B0%88%E5%88%A4-%E7%A5%9E%E6%A3%8D%E4%BD%93%E5%88%B6%E8%BF%98%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85",
+      "source": "rfi.fr",
+      "published": 1768250810
+    },
     {
       "id": "d7b2bbec54c2",
       "title": "德国与印度加强经济和军事合作 欧印自贸协定可望1月底达成",
@@ -98,20 +119,6 @@
       "url": "https://www.singtaousa.com/2026/01/12/news/china/to-kwa-wan-explosion-gas-hose-removed/",
       "source": "singtaousa.com",
       "published": 1768244686
-    },
-    {
-      "id": "f38470e03a81",
-      "title": "特朗普自稱「委內瑞拉代理總統」貼出假維基頁",
-      "url": "https://www.singtaousa.com/2026/01/12/news/usa/news-trump-acting-venezuela/",
-      "source": "singtaousa.com",
-      "published": 1768244428
-    },
-    {
-      "id": "8c45220e7b47",
-      "title": "格陵蘭自治政府發聲明拒絕美國接管　強調防務應由北約實現",
-      "url": "https://www.singtaousa.com/2026/01/12/news/world/the-greenland-autonomous-government-issued-a-statement-rejecting-the-us-takeover-and-emphasized-that-defense-should-be-achieved-by-nato/",
-      "source": "singtaousa.com",
-      "published": 1768243702
     },
     {
       "id": "92a4197f7f2d",
@@ -518,13 +525,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%9B%BD%E9%99%85%E7%BA%B5%E6%A8%AA/20260111-%E4%B8%80%E4%B8%AA%E6%96%B0%E7%9A%84%E5%AE%97%E6%97%8F%E5%BC%8F%E5%B8%9D%E5%9B%BD%E6%AD%A3%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E6%88%90%E5%BD%A2",
       "source": "rfi.fr",
       "published": 1768174115
-    },
-    {
-      "id": "42fdc55844ff",
-      "title": "泛非组织在塞内加尔声援委国",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%B9%BF-rfi-%E9%9D%9E%E6%B4%B2-%E6%B3%9B%E9%9D%9E%E7%BB%84%E7%BB%87%E5%9C%A8%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E5%A3%B0%E6%8F%B4%E5%A7%94%E5%9B%BD",
-      "source": "rfi.fr",
-      "published": 1768170290
     },
     {
       "id": "952fedd0220b",
@@ -1367,5 +1367,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1768250597
+  "build_id": 1768252249
 }
