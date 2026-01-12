@@ -1,6 +1,20 @@
 {
-  "updated": 1768246661,
+  "updated": 1768248779,
   "items": [
+    {
+      "id": "1cec1693ce6e",
+      "title": "凱利起訴五角大樓指控報復言論自由　稱懲處行動違憲",
+      "url": "https://www.singtaousa.com/2026/01/12/news/news-kelly-pentagon-lawsuit/",
+      "source": "singtaousa.com",
+      "published": 1768248760
+    },
+    {
+      "id": "57bc05b28786",
+      "title": "習近平：反腐敗鬥爭輸不起也決不能輸 中紀委全會定調高壓持續",
+      "url": "https://www.singtaousa.com/2026/01/12/news/china/xi-jinping-anti-corruption-campaign/",
+      "source": "singtaousa.com",
+      "published": 1768248288
+    },
     {
       "id": "ab966d22d458",
       "title": "鮑威爾遭刑事調查 中國網民惡搞「中式罪狀」：靠聯儲吃聯儲、背棄兩個維護",
@@ -84,20 +98,6 @@
       "url": "https://www.singtaousa.com/2026/01/12/news/world/the-streets-are-full-of-blood-iranian-protests-gather-momentum-as-regime-cracks-down/",
       "source": "singtaousa.com",
       "published": 1768242263
-    },
-    {
-      "id": "23349dc57700",
-      "title": "紐約護士大罷工　1.5萬人停工衝擊醫院",
-      "url": "https://www.singtaousa.com/2026/01/12/news/usa/news-new-york-nurses-strike/",
-      "source": "singtaousa.com",
-      "published": 1768242139
-    },
-    {
-      "id": "bc775480ce0e",
-      "title": "郵寄投票新規遭司法狙擊 特朗普選舉令在兩大州被擋下",
-      "url": "https://www.singtaousa.com/2026/01/12/news/usa/judge-blocks-trumps-elections-order-in-lawsuit-by-vote-by-mail-states-oregon-and-washington/",
-      "source": "singtaousa.com",
-      "published": 1768241586
     },
     {
       "id": "92a4197f7f2d",
@@ -1367,5 +1367,5 @@
       "published": 1765698300
     }
   ],
-  "build_id": 1768246661
+  "build_id": 1768248779
 }
