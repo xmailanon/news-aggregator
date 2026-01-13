@@ -1,6 +1,20 @@
 {
-  "updated": 1768323263,
+  "updated": 1768324665,
   "items": [
+    {
+      "id": "da55a074339c",
+      "title": "川普要對與伊朗做生意國家加稅25% 美伊緊張升溫...油價衝高",
+      "url": "https://money.udn.com/money/story/5599/9263577",
+      "source": "money.udn.com",
+      "published": 1768324538
+    },
+    {
+      "id": "10e4c5339e5e",
+      "title": "伊朗示威據報增至二千人死亡　特朗普稱援助正趕往當地",
+      "url": "https://www.singtaousa.com/2026/01/13/news/world/protests-in-iran-reportedly-increase-to-2000-deaths-trump-says-aid-is-on-the-way-to-the-area/",
+      "source": "singtaousa.com",
+      "published": 1768323797
+    },
     {
       "id": "9d77998065a5",
       "title": "黑海局勢不靖　消息人士：3艘油輪遭無人機襲擊",
@@ -233,13 +247,6 @@
       "published": 1768312800
     },
     {
-      "id": "31fc4e78d8dc",
-      "title": "消防局長被控挪用公款 行政助理虛報工時認罪",
-      "url": "https://www.singtaousa.com/2026/01/13/news/usa/fire-chief-embezzlement-guilty/",
-      "source": "singtaousa.com",
-      "published": 1768312800
-    },
-    {
       "id": "e0daea17f0d6",
       "title": "美國核心 CPI 低於預期 美股期指一度衝高",
       "url": "https://money.udn.com/money/story/123398/9263472",
@@ -280,13 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/9263432",
       "source": "money.udn.com",
       "published": 1768310554
-    },
-    {
-      "id": "977016aa4d54",
-      "title": "芬蘭瑞典提議新制裁　禁俄能源船停歐盟港口",
-      "url": "https://money.udn.com/money/story/5599/9263427",
-      "source": "money.udn.com",
-      "published": 1768309948
     },
     {
       "id": "bae8cef52fc8",
@@ -1367,5 +1367,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768323263
+  "build_id": 1768324665
 }
