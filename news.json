@@ -1,6 +1,27 @@
 {
-  "updated": 1768425082,
+  "updated": 1768426859,
   "items": [
+    {
+      "id": "492c2dc3c156",
+      "title": "義大利再籲公民儘速離開伊朗　英國暫時關閉駐德黑蘭大使館",
+      "url": "https://money.udn.com/money/story/5599/9266191",
+      "source": "money.udn.com",
+      "published": 1768426570
+    },
+    {
+      "id": "d804b722da59",
+      "title": "特朗普暫停75國移民簽證審理　收緊合法入境渠道",
+      "url": "https://www.singtaousa.com/2026/01/14/news/usa/te-lang-pu-zan-ting75guo-yi-min-qian-zheng-shen-li-shou-jin-he-fa-ru-jing-qu-dao/",
+      "source": "singtaousa.com",
+      "published": 1768425750
+    },
+    {
+      "id": "2ae7d05b4152",
+      "title": "丹麦及格陵兰岛领导人异口同声：格陵兰岛不卖",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260114-%E4%B8%B9%E9%BA%A6%E5%8F%8A%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%BC%82%E5%8F%A3%E5%90%8C%E5%A3%B0-%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E4%B8%8D%E5%8D%96",
+      "source": "rfi.fr",
+      "published": 1768425351
+    },
     {
       "id": "99962c1cbecc",
       "title": "【走私奇招】港男女騎電動車過關 坐墊暗格藏64部舊iPhone被海關識破",
@@ -91,13 +112,6 @@
       "url": "https://www.singtaousa.com/2026/01/14/news/usa/news-chula-vista-hit-and-run/",
       "source": "singtaousa.com",
       "published": 1768420509
-    },
-    {
-      "id": "33368f0ce678",
-      "title": "一個您熟悉和值得信賴的名字 賣屋專家Ken郭 免費提供十項專業服務",
-      "url": "https://www.singtaousa.com/2026/01/14/lifestyle/yi-ge-nin-shu-xi-he-zhi-de-xin-lai-de-ming-zi-mai-wu-zhuan-jiaken-guo-mian-fei-ti-gong-shi-xiang-zhuan-ye-fu-wu/",
-      "source": "singtaousa.com",
-      "published": 1768420500
     },
     {
       "id": "2f22489fb956",
@@ -245,13 +259,6 @@
       "url": "https://money.udn.com/money/story/10511/9266131",
       "source": "money.udn.com",
       "published": 1768410380
-    },
-    {
-      "id": "7155b16ea6cd",
-      "title": "川普關稅案　美最高法院14日仍未有裁定出爐",
-      "url": "https://money.udn.com/money/story/5599/9266110",
-      "source": "money.udn.com",
-      "published": 1768407309
     },
     {
       "id": "0535e301ecff",
@@ -518,13 +525,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260113-%E9%9F%A9%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E6%B6%89%E5%86%85%E4%B9%B1%E9%A6%96%E8%B0%8B%E7%BD%AA-%E8%A2%AB%E6%AD%A3%E5%BC%8F%E6%B1%82%E5%A4%84%E6%AD%BB%E5%88%91-%E9%A2%84%E8%AE%A1%E6%B3%95%E9%99%A22%E6%9C%8819%E6%97%A5%E8%A3%81%E5%86%B3",
       "source": "rfi.fr",
       "published": 1768338831
-    },
-    {
-      "id": "0fe76ed6da3b",
-      "title": "法媒：北京需要伊朗石油来维持其经济运转",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260113-%E6%B3%95%E5%AA%92-%E5%8C%97%E4%BA%AC%E9%9C%80%E8%A6%81%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E6%9D%A5%E7%BB%B4%E6%8C%81%E5%85%B6%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%BD%AC",
-      "source": "rfi.fr",
-      "published": 1768337970
     },
     {
       "id": "d8096ab0d8b2",
@@ -1374,5 +1374,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768425082
+  "build_id": 1768426859
 }
