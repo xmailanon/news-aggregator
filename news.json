@@ -1,6 +1,13 @@
 {
-  "updated": 1768430665,
+  "updated": 1768432212,
   "items": [
+    {
+      "id": "c152579c436a",
+      "title": "科技股回落加上國安管制疑慮 那斯達克創近一個月最大跌幅",
+      "url": "https://money.udn.com/money/story/5599/9266251",
+      "source": "money.udn.com",
+      "published": 1768432412
+    },
     {
       "id": "d6cf650a50fd",
       "title": "习近平为何讲“两个仍然”  “心怀二志”者是谁",
@@ -303,11 +310,25 @@
       "published": 1768413194
     },
     {
-      "id": "b926ba274c6e",
-      "title": "伊朗情勢動盪推升油價　歐股多收跌",
-      "url": "https://money.udn.com/money/story/5599/9266136",
-      "source": "money.udn.com",
-      "published": 1768412731
+      "id": "41fdceef6ac3",
+      "title": "展望2026：房地产持续下行，各方如何应对？",
+      "url": "https://www.ftchinese.com/story/001108557",
+      "source": "ftchinese.com",
+      "published": 1768406400
+    },
+    {
+      "id": "404f03ed096e",
+      "title": "中美AI竞争，未来谁主沉浮？",
+      "url": "https://www.ftchinese.com/story/001108695",
+      "source": "ftchinese.com",
+      "published": 1768406400
+    },
+    {
+      "id": "a14b1702b9d0",
+      "title": "生物科技时代，中美为何难“脱钩”？",
+      "url": "https://www.ftchinese.com/story/001108697",
+      "source": "ftchinese.com",
+      "published": 1768406400
     },
     {
       "id": "0535e301ecff",
@@ -835,27 +856,6 @@
       "published": 1768233600
     },
     {
-      "id": "d64b65e63e5d",
-      "title": "下一任美联储主席不应对通胀掉以轻心",
-      "url": "https://www.ftchinese.com/story/001108683",
-      "source": "ftchinese.com",
-      "published": 1768233600
-    },
-    {
-      "id": "88ef0de9c851",
-      "title": "伊朗：困苦的民众，虚伪并日渐虚弱的神权政府",
-      "url": "https://www.ftchinese.com/story/001108689",
-      "source": "ftchinese.com",
-      "published": 1768233600
-    },
-    {
-      "id": "e7d4a54e8a99",
-      "title": "在后摩尔时代如何应对AI的算⼒焦虑",
-      "url": "https://www.ftchinese.com/story/001108685",
-      "source": "ftchinese.com",
-      "published": 1768233600
-    },
-    {
       "id": "58ce28728e84",
       "title": "欧盟出台替代方案 中国电动车关税争议有解",
       "url": "https://www.dw.com/zh/欧盟出台替代方案-中国电动车关税争议有解/a-75477947?maca=chi-rss-chi-all-1127-rdf",
@@ -1374,5 +1374,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768430665
+  "build_id": 1768432212
 }
