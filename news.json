@@ -1,6 +1,20 @@
 {
-  "updated": 1768400140,
+  "updated": 1768402110,
   "items": [
+    {
+      "id": "466cd8c7c2e0",
+      "title": "泰國在建高鐵吊臂墜落架空橋擊中駛經列車　增至32人死亡65人傷",
+      "url": "https://www.singtaousa.com/2026/01/14/news/world/tai-guo-jian-zao-gao-tie-diao-bi-zhui-luo-ji-zhong-shi-jing-lie-che-zeng-zhi32si-wang65ren-shang/",
+      "source": "singtaousa.com",
+      "published": 1768401114
+    },
+    {
+      "id": "5e9fdb658938",
+      "title": "视频 应对伊朗 特朗普守口如瓶",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260114-%E8%A7%86%E9%A2%91-%E5%BA%94%E5%AF%B9%E4%BC%8A%E6%9C%97-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%88%E5%8F%A3%E5%A6%82%E7%93%B6",
+      "source": "rfi.fr",
+      "published": 1768401030
+    },
     {
       "id": "adf41f2027e8",
       "title": "满血复活？伊朗伊斯兰革命卫队空天军司令：我们处于巅峰状态",
@@ -89,13 +103,6 @@
       "id": "a6df8c04ba90",
       "title": "兩房保公司 今年漲保費",
       "url": "https://www.singtaousa.com/2026/01/14/news/usa/california-home-insurance-increase/",
-      "source": "singtaousa.com",
-      "published": 1768399200
-    },
-    {
-      "id": "c747fa368f38",
-      "title": "三大記憶體廠決戰今年",
-      "url": "https://www.singtaousa.com/2026/01/14/news/usa/memory-hbm-ai-nvidia/",
       "source": "singtaousa.com",
       "published": 1768399200
     },
@@ -290,7 +297,7 @@
     },
     {
       "id": "1d9bae8726c7",
-      "title": "美国授权有条件向中国出口英伟达芯片 中国海关据报限制英伟达H200入境",
+      "title": "美国刚授权有条件向中国出口英伟达芯片 中国海关据报限制英伟达H200入境",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260114-%E7%BE%8E%E5%9B%BD%E6%8E%88%E6%9D%83%E6%9C%89%E6%9D%A1%E4%BB%B6%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%85%B3%E6%8D%AE%E6%8A%A5%E9%99%90%E5%88%B6%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E5%85%A5%E5%A2%83",
       "source": "rfi.fr",
       "published": 1768389508
@@ -623,13 +630,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260113-%E4%BC%8A%E6%9C%97%E5%8D%AB%E7%94%9F%E9%83%A8%E9%AB%98%E5%AE%98%E5%91%8A%E8%AF%89%E7%BA%BD%E6%97%B6%E5%85%A8%E5%9B%BD%E7%BA%A6%E6%9C%893000%E4%BA%BA%E4%B8%A7%E7%94%9F-%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8F%AF%E8%83%BD%E8%BF%98%E4%BC%9A%E4%B8%8A%E5%8D%87",
       "source": "rfi.fr",
       "published": 1768319261
-    },
-    {
-      "id": "8e12d4a1c006",
-      "title": "跟踪刚果（金）两起与中资有关的矿业事故",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20260113-%E8%B7%9F%E8%B8%AA%E5%88%9A%E6%9E%9C-%E9%87%91-%E4%B8%A4%E8%B5%B7%E4%B8%8E%E4%B8%AD%E8%B5%84%E6%9C%89%E5%85%B3%E7%9A%84%E7%9F%BF%E4%B8%9A%E4%BA%8B%E6%95%85",
-      "source": "rfi.fr",
-      "published": 1768318866
     },
     {
       "id": "08606497ff0d",
@@ -1374,5 +1374,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768400140
+  "build_id": 1768402110
 }
