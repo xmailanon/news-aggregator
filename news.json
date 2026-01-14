@@ -1,10 +1,45 @@
 {
-  "updated": 1768407380,
+  "updated": 1768409605,
   "items": [
     {
-      "id": "37747be08962",
+      "id": "a49b3752f2ff",
+      "title": "FBI搜查華郵女記者住所　調查非法持有政府機密資料案",
+      "url": "https://www.singtaousa.com/2026/01/14/news/usa/fbi-sou-cha-hua-you-nu-ji-zhe-zhu-suo-diao-cha-fei-fa-chi-you-zheng-fu-ji-mi-zi-liao-an/",
+      "source": "singtaousa.com",
+      "published": 1768409425
+    },
+    {
+      "id": "d4cec5298d25",
+      "title": "NASA與能源部攜手推動　2030年前研發月球表面核反應爐",
+      "url": "https://www.singtaousa.com/2026/01/14/news/usa/news-nasa-lunar-reactor/",
+      "source": "singtaousa.com",
+      "published": 1768408730
+    },
+    {
+      "id": "e4898ca14784",
+      "title": "沙加緬度市縣協調機制 加強處理露宿問題｜細說燊語",
+      "url": "https://www.singtaousa.com/2026/01/14/news/usa/finalized/",
+      "source": "singtaousa.com",
+      "published": 1768408140
+    },
+    {
+      "id": "29a8106654d4",
+      "title": "收購格陵蘭恐耗資7,000億美元　特朗普構想引發歐洲與國會震盪",
+      "url": "https://www.singtaousa.com/2026/01/14/news/world/world-us-greenland-purchase/",
+      "source": "singtaousa.com",
+      "published": 1768408028
+    },
+    {
+      "id": "0f2529db7de3",
+      "title": "加拿大總理卡尼抵達北京　冀四天行程重置加中關係",
+      "url": "https://www.singtaousa.com/2026/01/14/news/world/jia-na-da-zong-li-ka-ni-di-da-bei-jing-ji-si-tian-xing-cheng-zhong-zhi-jia-zhong-guan-xi/",
+      "source": "singtaousa.com",
+      "published": 1768408012
+    },
+    {
+      "id": "7155b16ea6cd",
       "title": "川普關稅案　美最高法院14日仍未有裁定出爐",
-      "url": "https://money.udn.com/money/story/10511/9266110",
+      "url": "https://money.udn.com/money/story/5599/9266110",
       "source": "money.udn.com",
       "published": 1768407309
     },
@@ -38,7 +73,7 @@
     },
     {
       "id": "c648af3310d9",
-      "title": "還要再等！美最高法院最快「這時」宣布關稅裁定",
+      "title": "還要再等！美最高法院最快「這時」宣布川普關稅裁定",
       "url": "https://money.udn.com/money/story/5599/9266078",
       "source": "money.udn.com",
       "published": 1768405538
@@ -203,41 +238,6 @@
       "url": "https://money.udn.com/money/story/5599/9265825",
       "source": "money.udn.com",
       "published": 1768399241
-    },
-    {
-      "id": "936ecb5a6f4f",
-      "title": "富豪稅提案爭議不斷 州長幕後協商盼撤回",
-      "url": "https://www.singtaousa.com/2026/01/14/news/usa/california-governor-negotiates-billionaires-tax/",
-      "source": "singtaousa.com",
-      "published": 1768399200
-    },
-    {
-      "id": "5eca362d3746",
-      "title": "顧客永遠是對的？",
-      "url": "https://www.singtaousa.com/2026/01/14/opinion/customer-always-right/",
-      "source": "singtaousa.com",
-      "published": 1768399200
-    },
-    {
-      "id": "f29c460c1ba7",
-      "title": "侵侵再侵是誰？",
-      "url": "https://www.singtaousa.com/2026/01/14/opinion/trump-venezuela-iran-oil/",
-      "source": "singtaousa.com",
-      "published": 1768399200
-    },
-    {
-      "id": "d84d89815b9c",
-      "title": "小成就大滿足",
-      "url": "https://www.singtaousa.com/2026/01/14/opinion/small-achievements-big-satisfaction/",
-      "source": "singtaousa.com",
-      "published": 1768399200
-    },
-    {
-      "id": "3ca4d0717e6b",
-      "title": "Cybertruck去年在美銷量減半",
-      "url": "https://www.singtaousa.com/2026/01/14/news/usa/cybertruck-sales-decline-us/",
-      "source": "singtaousa.com",
-      "published": 1768399200
     },
     {
       "id": "70c86fc89465",
@@ -1374,5 +1374,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768407380
+  "build_id": 1768409605
 }
