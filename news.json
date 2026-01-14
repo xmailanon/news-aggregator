@@ -1,6 +1,48 @@
 {
-  "updated": 1768373664,
+  "updated": 1768375042,
   "items": [
+    {
+      "id": "4024bfc972b3",
+      "title": "伊朗示威死亡人數據報已超2500  特朗普宣稱「援助要來了」",
+      "url": "https://www.bbc.com/zhongwen/articles/cj6w1xdz9pro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1768374815
+    },
+    {
+      "id": "b0b7caa6d826",
+      "title": "美中角力加劇　柬埔寨尋求降低對北京經濟依賴",
+      "url": "https://money.udn.com/money/story/5599/9265031",
+      "source": "money.udn.com",
+      "published": 1768374812
+    },
+    {
+      "id": "0f23d4a18b31",
+      "title": "維州殺妻案｜夫為避離婚設局嫁禍 保母情人反水揭陰謀",
+      "url": "https://www.singtaousa.com/2026/01/14/news/usa/au-pair-takes-stand-in-trial-of-virginia-man-accused-of-plotting-double-murder-to-avoid-divorce/",
+      "source": "singtaousa.com",
+      "published": 1768374432
+    },
+    {
+      "id": "2ac42b4b94a4",
+      "title": "新疆網紅女官賀嬌龍墮馬重傷！曾披紅斗篷雪地策馬爆紅，官方證實仍在搶救中",
+      "url": "https://www.singtaousa.com/2026/01/14/news/china/xinjiang-official-horse-accident-hospital/",
+      "source": "singtaousa.com",
+      "published": 1768374285
+    },
+    {
+      "id": "8362d315ee9f",
+      "title": "川普打伊朗機率50%！可能襲擊對象曝光但美軍中東軍備有限",
+      "url": "https://money.udn.com/money/story/5599/9265012",
+      "source": "money.udn.com",
+      "published": 1768374197
+    },
+    {
+      "id": "8fde8980725f",
+      "title": "人權組織公布驚人數據：伊朗鎮壓示威已釀2571死",
+      "url": "https://www.singtaousa.com/2026/01/13/news/world/least-2571-killed-irans-protests-us-based-rights-group-hrana-says/",
+      "source": "singtaousa.com",
+      "published": 1768373996
+    },
     {
       "id": "4135ac198647",
       "title": "2025創下史上第3高溫　專家預測2026不樂觀",
@@ -170,13 +212,6 @@
       "published": 1768366478
     },
     {
-      "id": "4024bfc972b3",
-      "title": "伊朗示威死亡數據報已超2000  特朗普宣稱「援助要來了」",
-      "url": "https://www.bbc.com/zhongwen/articles/cj6w1xdz9pro/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1768366190
-    },
-    {
       "id": "854d30559da7",
       "title": "美媒：川普對付伊朗軍事選項大幅縮水 參議員靈魂拷問目標是什麼？",
       "url": "https://money.udn.com/money/story/5599/9264641",
@@ -198,20 +233,6 @@
       "published": 1768364667
     },
     {
-      "id": "3307cb25ec84",
-      "title": "金與正批南韓幻想改善關係　要求為無人機事件道歉",
-      "url": "https://money.udn.com/money/story/5599/9264562",
-      "source": "money.udn.com",
-      "published": 1768363953
-    },
-    {
-      "id": "363a3b7e3aea",
-      "title": "北海道餐廳「女屍封牆」案 死者為嫌犯「友人」的28歲失蹤護理師",
-      "url": "https://money.udn.com/money/story/5599/9264530",
-      "source": "money.udn.com",
-      "published": 1768363338
-    },
-    {
       "id": "e8cf8378f829",
       "title": "揭秘缅甸电诈“杀猪盘”详细运作机制",
       "url": "https://cn.nytimes.com/asia-pacific/20260114/myanmar-scam-complex-fraud/?utm_source=RSS",
@@ -226,32 +247,11 @@
       "published": 1768357800
     },
     {
-      "id": "69c7c4fb0c9b",
-      "title": "美泰推首款自閉症芭比娃娃 配降噪耳機反映真實體驗",
-      "url": "https://www.singtaousa.com/2026/01/13/news/world/my-daughter-helped-shape-new-autistic-barbie-doll/",
-      "source": "singtaousa.com",
-      "published": 1768356817
-    },
-    {
       "id": "fcba331468aa",
       "title": "中国的“弗兰肯斯坦”贺建奎：从声名狼藉到“潜在资产”",
       "url": "https://cn.nytimes.com/china/20260114/china-gene-edited-scientist-he-jiankui/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1768356418
-    },
-    {
-      "id": "23ff44ce3d50",
-      "title": "印度史上最大軍購案曝光 擬斥390億美元增購114架飆風戰機",
-      "url": "https://www.singtaousa.com/2026/01/13/news/world/india-discusses-39bn-rafale-fighter-jet-deal-with-france/",
-      "source": "singtaousa.com",
-      "published": 1768356000
-    },
-    {
-      "id": "6c059843f710",
-      "title": "GTA Online 驚現玩家自任務「刺殺查理柯克」 RockStar緊急封殺",
-      "url": "https://www.singtaousa.com/2026/01/13/news/usa/rockstar-silences-charlie-kirk-missions-in-gta-online-bans-name-after-diabolic-and-insensitive-death-reenactments/",
-      "source": "singtaousa.com",
-      "published": 1768356000
     },
     {
       "id": "e3b59a28e192",
@@ -364,6 +364,13 @@
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260113-%E8%A7%86%E9%A2%91-%E6%B3%95%E5%9B%BD%E9%B8%A1%E8%9B%8B%E8%8D%92-%E4%B8%BA%E4%BB%80%E4%B9%88%E5%95%86%E5%BA%97%E9%87%8C%E6%B2%A1%E6%9C%89%E9%B8%A1%E8%9B%8B%E5%8D%96%E4%BA%86",
       "source": "rfi.fr",
       "published": 1768324205
+    },
+    {
+      "id": "37c240bf9fa8",
+      "title": "2025年中国贸易顺差达到创纪录的1.2万亿美元",
+      "url": "https://www.ftchinese.com/story/001108703",
+      "source": "ftchinese.com",
+      "published": 1768320000
     },
     {
       "id": "d895d4b6c02b",
@@ -754,13 +761,6 @@
       "id": "b1bcc44eda5f",
       "title": "欧洲需要思考北约解体可能性",
       "url": "https://www.ftchinese.com/story/001108686",
-      "source": "ftchinese.com",
-      "published": 1768233600
-    },
-    {
-      "id": "aa587690ea4e",
-      "title": "再谈“资本与劳动的关系”",
-      "url": "https://www.ftchinese.com/story/001108681",
       "source": "ftchinese.com",
       "published": 1768233600
     },
@@ -1360,5 +1360,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768373664
+  "build_id": 1768375042
 }
