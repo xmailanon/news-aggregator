@@ -1,6 +1,27 @@
 {
-  "updated": 1768515126,
+  "updated": 1768516972,
   "items": [
+    {
+      "id": "7c745a3a5ee1",
+      "title": "马查多向特朗普转赠诺奖奖章但仍被其认为不适合领导委内瑞拉",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260115-%E9%A9%AC%E6%9F%A5%E5%A4%9A%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E8%B5%A0%E8%AF%BA%E5%A5%96%E5%A5%96%E7%AB%A0%E4%BD%86%E4%BB%8D%E8%A2%AB%E5%85%B6%E8%AE%A4%E4%B8%BA%E4%B8%8D%E9%80%82%E5%90%88%E9%A2%86%E5%AF%BC%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
+      "source": "rfi.fr",
+      "published": 1768516323
+    },
+    {
+      "id": "e91d4f12dcf3",
+      "title": "PC市場大倒退？中國DDR3主機板銷量竟逆市暴增三倍",
+      "url": "https://www.singtaousa.com/2026/01/15/news/china/popularity-of-ddr3-motherboards-is-growing-rapidly/",
+      "source": "singtaousa.com",
+      "published": 1768516200
+    },
+    {
+      "id": "846a6d9d0f76",
+      "title": "26人遭起诉操纵美中篮坛赛事　CBA与NCAA卷入放水风暴",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260115-26%E4%BA%BA%E9%81%AD%E8%B5%B7%E8%AF%89%E6%93%8D%E7%BA%B5%E7%BE%8E%E4%B8%AD%E7%AF%AE%E5%9D%9B%E8%B5%9B%E4%BA%8B-cba%E4%B8%8Encaa%E5%8D%B7%E5%85%A5%E6%94%BE%E6%B0%B4%E9%A3%8E%E6%9A%B4",
+      "source": "rfi.fr",
+      "published": 1768515148
+    },
     {
       "id": "2ef3329d52a9",
       "title": "體重暴增30kg以為食太多 24歲女減肥後竟確診尿毒症",
@@ -161,13 +182,6 @@
       "url": "https://www.singtaousa.com/2026/01/15/news/china/tuen-mun-shooting-donki-kitchen-knife/",
       "source": "singtaousa.com",
       "published": 1768505688
-    },
-    {
-      "id": "155cfc75e7e6",
-      "title": "美國馬氏宗親總會2026年職員交接典禮 新任主席劍文  副主席光明",
-      "url": "https://www.singtaousa.com/2026/01/15/news/usa/american-ma-clan-associations-2026-staff-handover-ceremony-new-chairman-jianwen-and-vice-chairman-guangming/",
-      "source": "singtaousa.com",
-      "published": 1768505400
     },
     {
       "id": "f9d690db789d",
@@ -518,20 +532,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260114-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E8%AE%B2%E4%B8%A4%E4%B8%AA%E4%BB%8D%E7%84%B6-%E5%BF%83%E6%80%80%E4%BA%8C%E5%BF%97%E8%80%85%E6%98%AF%E8%B0%81",
       "source": "rfi.fr",
       "published": 1768430674
-    },
-    {
-      "id": "ad3d3d272547",
-      "title": "路透：北京要求中企停用美以网络安全软件",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260114-%E8%B7%AF%E9%80%8F-%E5%8C%97%E4%BA%AC%E8%A6%81%E6%B1%82%E4%B8%AD%E4%BC%81%E5%81%9C%E7%94%A8%E7%BE%8E%E4%BB%A5%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%BD%AF%E4%BB%B6",
-      "source": "rfi.fr",
-      "published": 1768427776
-    },
-    {
-      "id": "87afd7b0fbb9",
-      "title": "法国波尔多教授因允许中国代表团进入国防受限区域遭司法起诉",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260114-%E6%B3%95%E5%9B%BD%E6%B3%A2%E5%B0%94%E5%A4%9A%E6%95%99%E6%8E%88%E5%9B%A0%E5%85%81%E8%AE%B8%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%BF%9B%E5%85%A5%E5%9B%BD%E9%98%B2%E5%8F%97%E9%99%90%E5%8C%BA%E5%9F%9F%E9%81%AD%E5%8F%B8%E6%B3%95%E8%B5%B7%E8%AF%89",
-      "source": "rfi.fr",
-      "published": 1768427550
     },
     {
       "id": "d90c44f8cb8e",
@@ -1360,5 +1360,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768515126
+  "build_id": 1768516972
 }
