@@ -1,6 +1,20 @@
 {
-  "updated": 1768494055,
+  "updated": 1768496409,
   "items": [
+    {
+      "id": "16545d418373",
+      "title": "明尼阿波利斯再有人遭聯邦人員槍擊　國土安全部稱是自衛開槍",
+      "url": "https://www.singtaousa.com/2026/01/15/news/usa/another-person-shot-by-federal-agents-in-minneapolis-department-of-homeland-security-says-the-shooting-was-self-defense/",
+      "source": "singtaousa.com",
+      "published": 1768496372
+    },
+    {
+      "id": "c80c23f08fc4",
+      "title": "欧洲多国启动在格陵兰的军事侦察任务 柏林称此举为应对“俄罗斯和中国的威胁”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260115-%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E5%90%AF%E5%8A%A8%E5%9C%A8%E6%A0%BC%E9%99%B5%E5%85%B0%E7%9A%84%E5%86%9B%E4%BA%8B%E4%BE%A6%E5%AF%9F%E4%BB%BB%E5%8A%A1-%E6%9F%8F%E6%9E%97%E7%A7%B0%E6%AD%A4%E4%B8%BE%E4%B8%BA%E5%BA%94%E5%AF%B9-%E4%BF%84%E7%BD%97%E6%96%AF%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A8%81%E8%83%81",
+      "source": "rfi.fr",
+      "published": 1768495330
+    },
     {
       "id": "4c96f3e5c466",
       "title": "李強及趙樂際與卡尼會晤　強調中方願與加國強化合作促進貿易",
@@ -250,13 +264,6 @@
       "id": "e90b1ac2fb59",
       "title": "OpenAI砸逾百億   向Cerebras買算力",
       "url": "https://www.singtaousa.com/2026/01/15/news/usa/openai-spends-over-10-billion-to-buy-computing-power-from-cerebras/",
-      "source": "singtaousa.com",
-      "published": 1768485600
-    },
-    {
-      "id": "a7cd844ff19e",
-      "title": "可口可樂暫停售Costa Coffee",
-      "url": "https://www.singtaousa.com/2026/01/15/news/usa/coca-cola-halts-costa-sale/",
       "source": "singtaousa.com",
       "published": 1768485600
     },
@@ -511,13 +518,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260114-%E4%BC%8A%E6%9C%97%E6%8A%97%E8%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0-%E6%9D%80%E6%88%AE%E5%B7%B2%E7%BB%93%E6%9D%9F-%E7%BE%8E%E6%96%B9%E6%92%A4%E7%A6%BB%E9%A9%BB%E5%8D%A1%E5%A1%94%E5%B0%94%E4%BA%BA%E5%91%98",
       "source": "rfi.fr",
       "published": 1768426809
-    },
-    {
-      "id": "2ae7d05b4152",
-      "title": "丹麦及格陵兰岛领导人异口同声：格陵兰岛不卖",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260114-%E4%B8%B9%E9%BA%A6%E5%8F%8A%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%BC%82%E5%8F%A3%E5%90%8C%E5%A3%B0-%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E4%B8%8D%E5%8D%96",
-      "source": "rfi.fr",
-      "published": 1768425351
     },
     {
       "id": "d2f86f9f628a",
@@ -1360,5 +1360,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768494055
+  "build_id": 1768496409
 }
