@@ -1,6 +1,34 @@
 {
-  "updated": 1768587435,
+  "updated": 1768589546,
   "items": [
+    {
+      "id": "c0e541e605e4",
+      "title": "八鄉濾水廠驚險意外！男工墮明礬池清醒獲救",
+      "url": "https://www.singtaousa.com/2026/01/16/news/china/worker-falls-alum-pool-rescued/",
+      "source": "singtaousa.com",
+      "published": 1768588488
+    },
+    {
+      "id": "3e312de16981",
+      "title": "漲多後投資人態度轉趨保守　歐股收黑",
+      "url": "https://money.udn.com/money/story/5599/9271011",
+      "source": "money.udn.com",
+      "published": 1768588236
+    },
+    {
+      "id": "4b3945eabf1c",
+      "title": "贝宁:非洲人后裔返乡趋势加剧",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C/20260116-%E6%B3%95%E5%B9%BF-rfi-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C-%E7%AC%AC141%E9%9B%86-%E8%B4%9D%E5%AE%81-%E9%9D%9E%E6%B4%B2%E4%BA%BA%E5%90%8E%E8%A3%94%E8%BF%94%E4%B9%A1%E8%B6%8B%E5%8A%BF%E5%8A%A0%E5%89%A7",
+      "source": "rfi.fr",
+      "published": 1768587636
+    },
+    {
+      "id": "30cca5aabc52",
+      "title": "繼軍事威脅後再出經濟牌 特朗普擬用關稅迫使丹麥交出格陵蘭",
+      "url": "https://www.singtaousa.com/2026/01/16/news/world/politics-trump-floats-new-tariffs-in-push-to-acquire-greenland/",
+      "source": "singtaousa.com",
+      "published": 1768587567
+    },
     {
       "id": "ef59b7e46331",
       "title": "美最高法院預計1月20日宣判　川普全球關稅案成焦點",
@@ -275,27 +303,6 @@
       "published": 1768572368
     },
     {
-      "id": "734963fd985c",
-      "title": "多策略避險基金起步有多貴  Jain Global 首個完整交易年利潤被費用吞噬",
-      "url": "https://money.udn.com/money/story/5599/9268828",
-      "source": "money.udn.com",
-      "published": 1768572086
-    },
-    {
-      "id": "f397187d8980",
-      "title": "錦繡良田話錦田",
-      "url": "https://www.singtaousa.com/2026/01/16/opinion/golden-fields-kam-tin/",
-      "source": "singtaousa.com",
-      "published": 1768572000
-    },
-    {
-      "id": "af89d8dc1a38",
-      "title": "滑雪安全101",
-      "url": "https://www.singtaousa.com/2026/01/16/opinion/skiing-safety-tips-holiday/",
-      "source": "singtaousa.com",
-      "published": 1768572000
-    },
-    {
       "id": "51630891a1a4",
       "title": "中国“坚决反对”美国与台湾签署贸易协议",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260116-%E4%B8%AD%E5%9B%BD-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9-%E7%BE%8E%E5%9B%BD%E4%B8%8E%E5%8F%B0%E6%B9%BE%E7%AD%BE%E7%BD%B2%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE",
@@ -553,13 +560,6 @@
       "url": "https://cn.nytimes.com/health/20260116/sports-exercise-longevity/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1768505659
-    },
-    {
-      "id": "f9d690db789d",
-      "title": "【视频】伊朗发生了什么？",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260115-%E8%A7%86%E9%A2%91-%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88",
-      "source": "rfi.fr",
-      "published": 1768504516
     },
     {
       "id": "e8d6b333d856",
@@ -1388,5 +1388,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768587435
+  "build_id": 1768589546
 }
