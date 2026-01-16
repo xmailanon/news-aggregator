@@ -1,6 +1,20 @@
 {
-  "updated": 1768549340,
+  "updated": 1768551372,
   "items": [
+    {
+      "id": "11a7b2ed05bd",
+      "title": "美批准對秘魯價值15億美元擬議軍售案　助遷海軍基地",
+      "url": "https://money.udn.com/money/story/5599/9270137",
+      "source": "money.udn.com",
+      "published": 1768551152
+    },
+    {
+      "id": "0e644c263751",
+      "title": "柬埔寨電詐「皇樂園區」老闆黃繼茂落網 曾獲封「勳爵」涉多宗罪",
+      "url": "https://www.singtaousa.com/2026/01/16/news/china/cambodia-fraud-ring-leader-arrested-noble-title/",
+      "source": "singtaousa.com",
+      "published": 1768550690
+    },
     {
       "id": "51a4a2c450bd",
       "title": "高市早苗會晤梅洛尼  日義升級戰略夥伴關係",
@@ -205,13 +219,6 @@
       "published": 1768541400
     },
     {
-      "id": "cc27f24a4605",
-      "title": "阻漲電價大作戰！白宮今天辦活動 讓科技業者承擔更多電力成本",
-      "url": "https://money.udn.com/money/story/5599/9269639",
-      "source": "money.udn.com",
-      "published": 1768541038
-    },
-    {
       "id": "012e0418b167",
       "title": "諾貝爾獎章贈特朗普 委國領袖馬查多白宮演政治豪賭",
       "url": "https://www.singtaousa.com/2026/01/15/news/world/maria-corina-machado-presents-trump-with-her-nobel-peace-prize-medal/",
@@ -238,13 +245,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c2e1n4kxyw9o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1768538362
-    },
-    {
-      "id": "306c49e289a0",
-      "title": "加國警隊密件曝光 印度黑幫疑為政府辦事涉買兇殺人",
-      "url": "https://www.singtaousa.com/2026/01/15/news/world/rcmp-report-says-bishnoi-gang-acting-on-behalf-of-indian-government/",
-      "source": "singtaousa.com",
-      "published": 1768537800
     },
     {
       "id": "40cee3cb7aab",
@@ -378,6 +378,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260115-%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E5%90%AF%E5%8A%A8%E5%9C%A8%E6%A0%BC%E9%99%B5%E5%85%B0%E7%9A%84%E5%86%9B%E4%BA%8B%E4%BE%A6%E5%AF%9F%E4%BB%BB%E5%8A%A1-%E6%9F%8F%E6%9E%97%E7%A7%B0%E6%AD%A4%E4%B8%BE%E4%B8%BA%E5%BA%94%E5%AF%B9-%E4%BF%84%E7%BD%97%E6%96%AF%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A8%81%E8%83%81",
       "source": "rfi.fr",
       "published": 1768495330
+    },
+    {
+      "id": "8578def7bc56",
+      "title": "当权力逻辑重新主导世界：特朗普正在重塑什么战略？",
+      "url": "https://www.ftchinese.com/story/001108730",
+      "source": "ftchinese.com",
+      "published": 1768492800
     },
     {
       "id": "843463a94800",
@@ -761,13 +768,6 @@
       "id": "5ad6a384102a",
       "title": "日本首相高市早苗拟宣布提前大选",
       "url": "https://www.ftchinese.com/story/001108711",
-      "source": "ftchinese.com",
-      "published": 1768406400
-    },
-    {
-      "id": "430a247603c0",
-      "title": "伊朗首席大法官呼吁从快“惩罚”抗议被捕人员",
-      "url": "https://www.ftchinese.com/story/001108710",
       "source": "ftchinese.com",
       "published": 1768406400
     },
@@ -1353,5 +1353,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768549340
+  "build_id": 1768551372
 }
