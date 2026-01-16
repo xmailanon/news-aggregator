@@ -1,6 +1,20 @@
 {
-  "updated": 1768594311,
+  "updated": 1768596025,
   "items": [
+    {
+      "id": "60e1926cd8f9",
+      "title": "西貝賈國龍深夜反擊羅永浩：從未報警，斥其污蔑煽動",
+      "url": "https://www.singtaousa.com/2026/01/16/news/china/premade-food-dispute-jia-guolong-police-report/",
+      "source": "singtaousa.com",
+      "published": 1768595691
+    },
+    {
+      "id": "b741d4a0afaa",
+      "title": "巴布森學院新生遭錯誤遣返 政府道歉後續未明",
+      "url": "https://www.singtaousa.com/2026/01/16/news/usa/mistakenly-deported-babson-college-student-tells-ap-how-her-life-turned-upside-down/",
+      "source": "singtaousa.com",
+      "published": 1768594602
+    },
     {
       "id": "f7f29cf4a57e",
       "title": "中加破冰！「電動車換油菜籽」互降關稅 重啟停擺8年財金戰略對話",
@@ -9,9 +23,16 @@
       "published": 1768593887
     },
     {
-      "id": "fd0425fecd15",
+      "id": "3b235584bbde",
+      "title": "川普：可能會對不配合格陵蘭問題的國家加徵關稅",
+      "url": "https://money.udn.com/money/story/5599/9271026",
+      "source": "money.udn.com",
+      "published": 1768593844
+    },
+    {
+      "id": "f7a55740388b",
       "title": "美中情局長會委內瑞拉臨時總統　討論經濟安全議題",
-      "url": "https://money.udn.com/money/story/10511/9271023",
+      "url": "https://money.udn.com/money/story/5599/9271023",
       "source": "money.udn.com",
       "published": 1768592707
     },
@@ -191,13 +212,6 @@
       "published": 1768579822
     },
     {
-      "id": "5bc756a302be",
-      "title": "奧斯陸大學教授批評馬查多　將和平獎轉贈特朗普無意義且可悲",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/university-of-oslo-professor-criticizes-machado-for-sending-peace-prize-to-trump-as-meaningless-and-pathetic/",
-      "source": "singtaousa.com",
-      "published": 1768579807
-    },
-    {
       "id": "db4c8f210b8c",
       "title": "夯品預測 4／打中年輕人的痛點！這種自動販賣機將在日本紅起來？",
       "url": "https://money.udn.com/money/story/122979/9209435",
@@ -210,13 +224,6 @@
       "url": "https://money.udn.com/money/story/122979/9209429",
       "source": "money.udn.com",
       "published": 1768579431
-    },
-    {
-      "id": "1ff080642114",
-      "title": "中情局長據報訪委國晤臨時總統　警告不能再成美國敵對勢力",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/cia-director-reportedly-visited-venezuela-to-meet-with-interim-president-warning-not-to-become-a-hostile-force-to-the-united-states-again/",
-      "source": "singtaousa.com",
-      "published": 1768578289
     },
     {
       "id": "3a86a1f0fdf9",
@@ -294,13 +301,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20260116-%E4%B8%AD%E6%B3%95%E4%B8%93%E5%AE%B6%E8%B0%88%E8%81%94%E5%90%88%E5%9B%BD%E4%BF%9D%E6%8A%A4%E5%85%AC%E6%B5%B7%E6%9D%A1%E7%BA%A6%E7%9A%84%E5%AE%9E%E6%96%BD",
       "source": "rfi.fr",
       "published": 1768573219
-    },
-    {
-      "id": "93da1f155b6a",
-      "title": "調查：多數低薪美國勞工憂AI威脅就業",
-      "url": "https://money.udn.com/money/story/5599/9270708",
-      "source": "money.udn.com",
-      "published": 1768572368
     },
     {
       "id": "51630891a1a4",
@@ -1388,5 +1388,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768594311
+  "build_id": 1768596025
 }
