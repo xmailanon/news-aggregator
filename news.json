@@ -1,6 +1,20 @@
 {
-  "updated": 1768574763,
+  "updated": 1768576401,
   "items": [
+    {
+      "id": "ae501401a335",
+      "title": "日本「保德信」百員工34年騙500客戶31億日圓　社長辭職",
+      "url": "https://www.singtaousa.com/2026/01/16/news/usa/hundreds-of-employees-of-japans-prudential-defrauded-500-customers-of-3-1-billion-yen-over-34-years-and-the-president-resigned/",
+      "source": "singtaousa.com",
+      "published": 1768576170
+    },
+    {
+      "id": "13f77303233f",
+      "title": "地緣政治緊張　馬克宏欲加速重新武裝但預算案卡關",
+      "url": "https://money.udn.com/money/story/5599/9270754",
+      "source": "money.udn.com",
+      "published": 1768575251
+    },
     {
       "id": "ac55e3a3fb0f",
       "title": "美日防長商定擴大日本西南諸島兵力部署　揚言威懾力伸延至台灣",
@@ -9,9 +23,9 @@
       "published": 1768574855
     },
     {
-      "id": "4862962daa60",
+      "id": "8b50a50d74c7",
       "title": "美股早盤／台美協議拍板 台積電ADR漲逾2%率科技股上攻 三大指數齊揚",
-      "url": "https://money.udn.com/money/story/5599/9270744",
+      "url": "https://money.udn.com/money/story/123398/9270744",
       "source": "money.udn.com",
       "published": 1768574730
     },
@@ -124,13 +138,6 @@
       "id": "3ae9f57b4704",
       "title": "特朗普揚言停庇護城市撥款   州檢察長邦塔稱將馬上提告",
       "url": "https://www.singtaousa.com/2026/01/16/news/usa/trump-sanctuary-cities-funding/",
-      "source": "singtaousa.com",
-      "published": 1768572000
-    },
-    {
-      "id": "579ac3e842b5",
-      "title": "黑石集團或投資   在德國建數據中心",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/blackstone-group-data-center-germany/",
       "source": "singtaousa.com",
       "published": 1768572000
     },
@@ -259,13 +266,6 @@
       "url": "https://money.udn.com/money/story/5599/9270029",
       "source": "money.udn.com",
       "published": 1768565519
-    },
-    {
-      "id": "44f756c7ea88",
-      "title": "日本兩個反對黨聯合組建新黨 以在可能的大選中挑戰首相高市早苗",
-      "url": "https://money.udn.com/money/story/5599/9270174",
-      "source": "money.udn.com",
-      "published": 1768565304
     },
     {
       "id": "51bec4bb415c",
@@ -1381,5 +1381,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768574763
+  "build_id": 1768576401
 }
