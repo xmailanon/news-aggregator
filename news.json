@@ -1,6 +1,27 @@
 {
-  "updated": 1768603355,
+  "updated": 1768605024,
   "items": [
+    {
+      "id": "bd36106efa1d",
+      "title": "玛丽.特蕾莎谋杀案元凶落网  法院裁决追诉期已过不予追诉",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260116-%E7%8E%9B%E4%B8%BD-%E7%89%B9%E8%95%BE%E8%8E%8E%E8%B0%8B%E6%9D%80%E6%A1%88%E5%85%83%E5%87%B6%E8%90%BD%E7%BD%91-%E6%B3%95%E9%99%A2%E8%A3%81%E5%86%B3%E8%BF%BD%E8%AF%89%E6%9C%9F%E5%B7%B2%E8%BF%87%E4%B8%8D%E4%BA%88%E8%BF%BD%E8%AF%89",
+      "source": "rfi.fr",
+      "published": 1768604861
+    },
+    {
+      "id": "1192f973e13f",
+      "title": "明州移民執法爆種族定性爭議 ACLU控告聯邦探員濫捕公民",
+      "url": "https://www.singtaousa.com/2026/01/16/news/usa/lawsuit-accuses-federal-agents-of-racial-profiling-in-minneapolis-immigration-operation/",
+      "source": "singtaousa.com",
+      "published": 1768604400
+    },
+    {
+      "id": "78bdd56216f6",
+      "title": "美方稱加拿大將後悔允許中國電動車進口",
+      "url": "https://www.singtaousa.com/2026/01/16/news/usa/the-u-s-criticizes-canada-for-allowing-the-import-of-chinese-electric-vehicles-saying-it-will-regret-the-decision/",
+      "source": "singtaousa.com",
+      "published": 1768604307
+    },
     {
       "id": "b1833c48c960",
       "title": "邁阿密送餐機械人卡在路軌被火車撞毀",
@@ -133,20 +154,6 @@
       "url": "https://www.singtaousa.com/2026/01/16/news/china/premade-food-dispute-jia-guolong-police-report/",
       "source": "singtaousa.com",
       "published": 1768595691
-    },
-    {
-      "id": "b741d4a0afaa",
-      "title": "巴布森學院新生遭錯誤遣返 政府道歉後續未明",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/mistakenly-deported-babson-college-student-tells-ap-how-her-life-turned-upside-down/",
-      "source": "singtaousa.com",
-      "published": 1768594602
-    },
-    {
-      "id": "f7f29cf4a57e",
-      "title": "中加破冰！「電動車換油菜籽」互降關稅 重啟停擺8年財金戰略對話",
-      "url": "https://www.singtaousa.com/2026/01/16/news/china/china-canada-ev-canola-tariff-dialogue/",
-      "source": "singtaousa.com",
-      "published": 1768593887
     },
     {
       "id": "3b235584bbde",
@@ -532,13 +539,6 @@
       "url": "https://cn.nytimes.com/business/20260116/trump-chips-tariffs/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1768522834
-    },
-    {
-      "id": "09bae5d066c5",
-      "title": "靠委内瑞拉和伊朗石油生存的中国“茶壶炼油厂”，正受到威胁",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260115-%E9%9D%A0%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%92%8C%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E7%94%9F%E5%AD%98%E7%9A%84%E4%B8%AD%E5%9B%BD-%E8%8C%B6%E5%A3%B6%E7%82%BC%E6%B2%B9%E5%8E%82-%EF%BC%8C%E6%AD%A3%E5%8F%97%E5%88%B0%E5%A8%81%E8%83%81",
-      "source": "rfi.fr",
-      "published": 1768519678
     },
     {
       "id": "a2d9ac77c51d",
@@ -1388,5 +1388,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768603355
+  "build_id": 1768605024
 }
