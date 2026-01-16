@@ -1,6 +1,13 @@
 {
-  "updated": 1768546442,
+  "updated": 1768547779,
   "items": [
+    {
+      "id": "7402bfc3735c",
+      "title": "HKIRC數碼無障礙嘉許計劃啟動！攜手業界打造共融數碼未來",
+      "url": "https://www.singtaousa.com/2026/01/16/news/china/hkirc-digital-accessibility-inclusion-awards/",
+      "source": "singtaousa.com",
+      "published": 1768547087
+    },
     {
       "id": "29bcd0d573a3",
       "title": "股市創高、貨幣卻走弱 亞洲股匯不再同漲同跌？",
@@ -245,13 +252,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c4gwzj0vxeyo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1768535739
-    },
-    {
-      "id": "d6bbaf5f2785",
-      "title": "美伊緊張局勢升溫 五角大樓急調航母打擊群赴中東",
-      "url": "https://www.singtaousa.com/2026/01/15/news/world/pentagon-moving-carrier-strike-group-toward-middle-east-amid-tensions-with-iran/",
-      "source": "singtaousa.com",
-      "published": 1768534200
     },
     {
       "id": "5505252725b6",
@@ -1353,5 +1353,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768546442
+  "build_id": 1768547779
 }
