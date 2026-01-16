@@ -1,6 +1,27 @@
 {
-  "updated": 1768578185,
+  "updated": 1768580112,
   "items": [
+    {
+      "id": "b5ab0b63310b",
+      "title": "加拿大总理卡尼：加中关系“更具可预测性”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260116-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E5%8D%A1%E5%B0%BC-%E5%8A%A0%E4%B8%AD%E5%85%B3%E7%B3%BB-%E6%9B%B4%E5%85%B7%E5%8F%AF%E9%A2%84%E6%B5%8B%E6%80%A7",
+      "source": "rfi.fr",
+      "published": 1768579937
+    },
+    {
+      "id": "6c93a2297bb4",
+      "title": "伊朗: 联合国高官忧美国军事威胁恶化局势 伊朗总统致电普京感谢支持",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260116-%E4%BC%8A%E6%9C%97-%E8%81%94%E5%90%88%E5%9B%BD%E9%AB%98%E5%AE%98%E5%BF%A7%E7%BE%8E%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%A8%81%E8%83%81%E6%81%B6%E5%8C%96%E5%B1%80%E5%8A%BF-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%87%B4%E7%94%B5%E6%99%AE%E4%BA%AC%E6%84%9F%E8%B0%A2%E6%94%AF%E6%8C%81",
+      "source": "rfi.fr",
+      "published": 1768579886
+    },
+    {
+      "id": "5bc756a302be",
+      "title": "奧斯陸大學教授批評馬查多　將和平獎轉贈特朗普無意義且可悲",
+      "url": "https://www.singtaousa.com/2026/01/16/news/usa/university-of-oslo-professor-criticizes-machado-for-sending-peace-prize-to-trump-as-meaningless-and-pathetic/",
+      "source": "singtaousa.com",
+      "published": 1768579807
+    },
     {
       "id": "1ff080642114",
       "title": "中情局長據報訪委國晤臨時總統　警告不能再成美國敵對勢力",
@@ -9,9 +30,9 @@
       "published": 1768578289
     },
     {
-      "id": "8e73c389e4e9",
+      "id": "3a86a1f0fdf9",
       "title": "諾獎得主馬查多受訪　自信時機成熟將任委內瑞拉首位女總統",
-      "url": "https://money.udn.com/money/story/10511/9270878",
+      "url": "https://money.udn.com/money/story/5599/9270878",
       "source": "money.udn.com",
       "published": 1768577420
     },
@@ -180,13 +201,6 @@
       "id": "e739cc8f4bac",
       "title": "大行去年裁員逾萬人  近十年來新高",
       "url": "https://www.singtaousa.com/2026/01/16/news/usa/bank-layoffs-decade-high/",
-      "source": "singtaousa.com",
-      "published": 1768572000
-    },
-    {
-      "id": "8373fde9011b",
-      "title": "又爆死亡帽蘑菇致命  加州衛生官發出警報",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/death-cap-mushroom-alert/",
       "source": "singtaousa.com",
       "published": 1768572000
     },
@@ -686,20 +700,6 @@
       "url": "https://www.dw.com/zh/泰国连续发生两起吊车事故-一名德国人死亡/a-75524208?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1768489080
-    },
-    {
-      "id": "3ddba7ba20e2",
-      "title": "中国称加拿大总理访华是两国关系“转折点”",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260115-%E4%B8%AD%E5%9B%BD%E7%A7%B0%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%80%BB%E7%90%86%E8%AE%BF%E5%8D%8E%E6%98%AF%E4%B8%A4%E5%9B%BD%E5%85%B3%E7%B3%BB-%E8%BD%AC%E6%8A%98%E7%82%B9",
-      "source": "rfi.fr",
-      "published": 1768488706
-    },
-    {
-      "id": "c85245426879",
-      "title": "欧洲多国参加在格陵兰岛举行的军事行动展现支持",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260115-%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E5%8F%82%E5%8A%A0%E5%AF%B9%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%B1%95%E7%8E%B0%E6%94%AF%E6%8C%81",
-      "source": "rfi.fr",
-      "published": 1768487672
     },
     {
       "id": "64e64d5a1c0f",
@@ -1388,5 +1388,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768578185
+  "build_id": 1768580112
 }
