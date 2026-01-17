@@ -1,6 +1,34 @@
 {
-  "updated": 1768655009,
+  "updated": 1768657387,
   "items": [
+    {
+      "id": "2be0d0483997",
+      "title": "AI 供應鏈是美股2026五大風險之最 脆弱環節不只是台積電和 ASML",
+      "url": "https://money.udn.com/money/story/123398/9272072",
+      "source": "money.udn.com",
+      "published": 1768657006
+    },
+    {
+      "id": "7980dd62f9b2",
+      "title": "印尼一架載有11人小型客機失聯　當局進行搜索",
+      "url": "https://money.udn.com/money/story/5599/9272071",
+      "source": "money.udn.com",
+      "published": 1768656632
+    },
+    {
+      "id": "44d7bb870667",
+      "title": "共同社：中國嚴審對日稀土出口  要求詳報用途流向",
+      "url": "https://money.udn.com/money/story/5599/9272068",
+      "source": "money.udn.com",
+      "published": 1768656107
+    },
+    {
+      "id": "fab5d6a1f56f",
+      "title": "爬上伊朗大使馆屋顶摘国旗 伦敦一名抗议者被捕",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260117-%E7%88%AC%E4%B8%8A%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%B1%8B%E9%A1%B6%E6%91%98%E5%9B%BD%E6%97%97-%E4%BC%A6%E6%95%A6%E4%B8%80%E5%90%8D%E6%8A%97%E8%AE%AE%E8%80%85%E8%A2%AB%E6%8D%95",
+      "source": "rfi.fr",
+      "published": 1768656058
+    },
     {
       "id": "b8c00766a34f",
       "title": "州長撥資金4億1900萬 為三藩市聖地牙哥洛杉磯支援無家者",
@@ -240,32 +268,11 @@
       "published": 1768644040
     },
     {
-      "id": "f08c5fda3aec",
-      "title": "南非槍擊案釀7死3傷　警方：疑與有組織勒索犯罪有關",
-      "url": "https://money.udn.com/money/story/5599/9271872",
-      "source": "money.udn.com",
-      "published": 1768644040
-    },
-    {
       "id": "2ae48055d25c",
       "title": "波尔多鳗鱼苗走私案审理结束  检察官要求量刑最多六年",
       "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20260117-%E6%B3%A2%E5%B0%94%E5%A4%9A%E9%B3%97%E9%B1%BC%E8%8B%97%E8%B5%B0%E7%A7%81%E6%A1%88%E5%AE%A1%E7%90%86%E7%BB%93%E6%9D%9F-%E6%A3%80%E5%AF%9F%E5%AE%98%E8%A6%81%E6%B1%82%E9%87%8F%E5%88%91%E6%9C%80%E5%A4%9A%E5%85%AD%E5%B9%B4",
       "source": "rfi.fr",
       "published": 1768643963
-    },
-    {
-      "id": "ce16a5414142",
-      "title": "烏干達大選結果將出爐　軍方否認扣押反對派領袖",
-      "url": "https://money.udn.com/money/story/5599/9271863",
-      "source": "money.udn.com",
-      "published": 1768643718
-    },
-    {
-      "id": "176494d1c643",
-      "title": "美業者：供應鏈赴美動向視客戶需求  成本壓力待評估",
-      "url": "https://money.udn.com/money/story/10511/9271820",
-      "source": "money.udn.com",
-      "published": 1768641168
     },
     {
       "id": "cdf477058624",
@@ -504,13 +511,6 @@
       "url": "https://www.dw.com/zh/加拿大總理訪北京-習近平：中加關係轉圜向好/a-75513756?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1768555260
-    },
-    {
-      "id": "5ee1c9d7cc8e",
-      "title": "日美宣布将加强在导弹和军事演习领域的合作",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260116-%E6%97%A5%E6%9C%AC%E5%92%8C%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%B0%86%E5%8A%A0%E5%BC%BA%E5%9C%A8%E5%AF%BC%E5%BC%B9%E5%92%8C%E5%86%9B%E4%BA%8B%E6%BC%94%E4%B9%A0%E9%A2%86%E5%9F%9F%E7%9A%84%E5%90%88%E4%BD%9C",
-      "source": "rfi.fr",
-      "published": 1768554875
     },
     {
       "id": "a7695859ff2d",
@@ -1367,5 +1367,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768655009
+  "build_id": 1768657387
 }
