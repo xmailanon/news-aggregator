@@ -1,10 +1,38 @@
 {
-  "updated": 1768626712,
+  "updated": 1768628471,
   "items": [
     {
-      "id": "bc3132d0ac00",
+      "id": "f3c225599e83",
+      "title": "【獨家】失聯一周終報平安！24歲港女伊朗歷險記：身處示威區，家人急尋入境處",
+      "url": "https://www.singtaousa.com/2026/01/16/news/china/hong-kong-woman-missing-iran-safe/",
+      "source": "singtaousa.com",
+      "published": 1768628086
+    },
+    {
+      "id": "8c6c8d1321bc",
+      "title": "日本熊害衝突事件頻傳 觀光廳新推警告標誌提醒別做三件事",
+      "url": "https://money.udn.com/money/story/5599/9271551",
+      "source": "money.udn.com",
+      "published": 1768627461
+    },
+    {
+      "id": "ee6beac7bd4c",
+      "title": "川普關稅若遭推翻　白宮顧問稱可徵10%關稅應急",
+      "url": "https://money.udn.com/money/story/10511/9271525",
+      "source": "money.udn.com",
+      "published": 1768626755
+    },
+    {
+      "id": "6b5eb5996256",
+      "title": "女大生被誤送宏都拉斯　法官限川普政府3週改正",
+      "url": "https://money.udn.com/money/story/10511/9271523",
+      "source": "money.udn.com",
+      "published": 1768626755
+    },
+    {
+      "id": "8b29d89763a2",
       "title": "互降電動車與農產關稅　加中協議內容與意涵一次看",
-      "url": "https://money.udn.com/money/story/10511/9271508",
+      "url": "https://money.udn.com/money/story/5599/9271508",
       "source": "money.udn.com",
       "published": 1768626390
     },
@@ -177,27 +205,6 @@
       "published": 1768611600
     },
     {
-      "id": "de4565c5f892",
-      "title": "收和平獎章卻不支持馬查多領導委內瑞拉 川普曝原因",
-      "url": "https://money.udn.com/money/story/5599/9271129",
-      "source": "money.udn.com",
-      "published": 1768611280
-    },
-    {
-      "id": "1a6f17023004",
-      "title": "美國會代表團訪丹麥　聚焦格陵蘭自治與盟友合作",
-      "url": "https://money.udn.com/money/story/10511/9271124",
-      "source": "money.udn.com",
-      "published": 1768610732
-    },
-    {
-      "id": "e5c7a727e080",
-      "title": "馬查多持續向川普示好　稱委內瑞拉展開民主轉型",
-      "url": "https://money.udn.com/money/story/10511/9271120",
-      "source": "money.udn.com",
-      "published": 1768610192
-    },
-    {
       "id": "c637f74f1121",
       "title": "粵語排隊黨搵大錢 巴士扣安全帶",
       "url": "https://www.singtaousa.com/2026/01/16/opinion/queuing-up-to-get-big-money-buckle-up-on-the-bus/",
@@ -224,13 +231,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260117-%E6%95%B4%E9%A1%BF%E7%94%B5%E5%AD%90%E7%83%9F%E8%A1%8C%E4%B8%9A-%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%BC%82%E5%B8%B8%E5%9D%9A%E5%86%B3-%E6%AF%AB%E4%B8%8D%E6%89%8B%E8%BD%AF",
       "source": "rfi.fr",
       "published": 1768608351
-    },
-    {
-      "id": "6a731a10cdbe",
-      "title": "FEMA驚爆大裁員 數千合約工飯碗不保 災區重建恐陷停擺",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/fema-is-getting-rid-of-thousands-of-workers-in-areas-recovering-from-disasters/",
-      "source": "singtaousa.com",
-      "published": 1768608000
     },
     {
       "id": "bd36106efa1d",
@@ -1388,5 +1388,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768626712
+  "build_id": 1768628471
 }
