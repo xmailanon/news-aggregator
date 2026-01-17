@@ -1,6 +1,13 @@
 {
-  "updated": 1768633865,
+  "updated": 1768635394,
   "items": [
+    {
+      "id": "35b7abddcbbe",
+      "title": "江西網紅「殺豬宴」失控！4萬人湧入瘋搶食物如喪屍，博主遭派出所約談",
+      "url": "https://www.singtaousa.com/2026/01/17/news/china/pig-feast-chaos-blogger-police-interview/",
+      "source": "singtaousa.com",
+      "published": 1768635288
+    },
     {
       "id": "5e2ea85bba86",
       "title": "屯門Y·PARK恐怖工傷！工人清理機器左手掌遭截斷 環保署急令停工交報告",
@@ -86,11 +93,32 @@
       "published": 1768628086
     },
     {
+      "id": "b8dee98025f1",
+      "title": "「此地無銀」真人版？美女子持「非毒品袋」酒駕被捕恐囚15年",
+      "url": "https://www.singtaousa.com/2026/01/16/news/usa/prior-lake-woman-arrested-with-bag-of-drugs-labeled-definitely-not-a-bag-full-of-drugs/",
+      "source": "singtaousa.com",
+      "published": 1768627800
+    },
+    {
+      "id": "9d21f9a584a2",
+      "title": "特斯拉「全自動駕駛」涉多宗事故 美國監管機構准延長回應時限",
+      "url": "https://www.singtaousa.com/2026/01/16/news/usa/tesla-granted-more-time-in-us-investigation-into-its-self-driving-tech/",
+      "source": "singtaousa.com",
+      "published": 1768627715
+    },
+    {
       "id": "8c6c8d1321bc",
       "title": "日本熊害衝突事件頻傳 觀光廳新推警告標誌提醒別做三件事",
       "url": "https://money.udn.com/money/story/5599/9271551",
       "source": "money.udn.com",
       "published": 1768627461
+    },
+    {
+      "id": "20e3885556fd",
+      "title": "特朗普派員進駐明尼蘇達 街頭隨機查證件被轟「蓋世太保」",
+      "url": "https://www.singtaousa.com/2026/01/16/news/usa/immigration-officers-around-minneapolis-are-approaching-people-and-demanding-proof-that-theyre-u-s-citizens/",
+      "source": "singtaousa.com",
+      "published": 1768626817
     },
     {
       "id": "ee6beac7bd4c",
@@ -119,6 +147,13 @@
       "url": "https://www.singtaousa.com/2026/01/16/opinion/trumps-scorch-earth-strategy-and-the-weaponization-of-the-dollar/",
       "source": "singtaousa.com",
       "published": 1768626200
+    },
+    {
+      "id": "7ace36a1200b",
+      "title": "德州父子遇無標記警車攔截 兒子稱遭鎖喉 父親已被驅逐出境",
+      "url": "https://www.singtaousa.com/2026/01/16/news/usa/before-man-deported-son-alleges-assault-by-officers-in-houston/",
+      "source": "singtaousa.com",
+      "published": 1768626000
     },
     {
       "id": "5b6cbbba7a30",
@@ -189,41 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/9271331",
       "source": "money.udn.com",
       "published": 1768620687
-    },
-    {
-      "id": "a9796c1c4ed6",
-      "title": "紐約同城兩樣命 曼焦內表兄弟一人踢球一人面臨死刑",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/luigi-mangiones-cousin-signs-soccer-contract-in-brooklyn-while-luigi-faces-something-very-different-in-the-same-city/",
-      "source": "singtaousa.com",
-      "published": 1768620600
-    },
-    {
-      "id": "fdaab16a8a6d",
-      "title": "聯邦州府衝突白熱化 司法部傳召明州州長市長 兩人怒斥「獨裁恐嚇」",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/doj-investigating-minnesota-governor-minneapolis-mayor-who-decry-probe-as-intimidation-tactic/",
-      "source": "singtaousa.com",
-      "published": 1768618372
-    },
-    {
-      "id": "d0a3f70a042b",
-      "title": "FDA新藥審批黑箱？高層拒簽署 特朗普政府計畫陷法律風暴",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/legal-questions-swirl-around-fdas-new-expedited-drug-program-including-who-should-sign-off/",
-      "source": "singtaousa.com",
-      "published": 1768617000
-    },
-    {
-      "id": "64e520332ec9",
-      "title": "格陵蘭收購風波升級 特朗普威脅加關稅 國會派團急赴丹麥滅火",
-      "url": "https://www.singtaousa.com/2026/01/16/news/world/trump-threatens-new-tariffs-on-countries-opposed-to-greenland-takeover-as-us-lawmakers-visit-denmark-to-ease-tensions/",
-      "source": "singtaousa.com",
-      "published": 1768615200
-    },
-    {
-      "id": "6805cebfa398",
-      "title": "伊朗鎮壓示威釀2500死 紐西蘭跟進英國急撤大使館",
-      "url": "https://www.singtaousa.com/2026/01/16/news/world/new-zealand-vacates-embassy-in-iran-as-threat-of-violence-escalates/",
-      "source": "singtaousa.com",
-      "published": 1768611600
     },
     {
       "id": "d9aa18d4d743",
@@ -1388,5 +1388,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768633865
+  "build_id": 1768635394
 }
