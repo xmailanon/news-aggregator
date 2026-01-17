@@ -1,6 +1,20 @@
 {
-  "updated": 1768671445,
+  "updated": 1768673676,
   "items": [
+    {
+      "id": "0e8bfbcb6d28",
+      "title": "啟德驚險自炒！司機「吹爆波」涉醉駕 撼防撞柱後報稱胸口痛送院",
+      "url": "https://www.singtaousa.com/2026/01/17/news/china/drunk-driver-crashes-into-bollard-kai-tak/",
+      "source": "singtaousa.com",
+      "published": 1768673090
+    },
+    {
+      "id": "8dc5e943671c",
+      "title": "中国厦门竞争联合国公海保护条约总部所在地",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260117-%E4%B8%AD%E5%9B%BD%E5%8E%A6%E9%97%A8%E7%AB%9E%E4%BA%89%E8%81%94%E5%90%88%E5%9B%BD%E5%85%AC%E6%B5%B7%E4%BF%9D%E6%8A%A4%E6%9D%A1%E7%BA%A6%E6%80%BB%E9%83%A8%E6%89%80%E5%9C%A8%E5%9C%B0",
+      "source": "rfi.fr",
+      "published": 1768671884
+    },
     {
       "id": "74390619bb4f",
       "title": "ChatGPT 拓財源 推廣告服務 將在免費版、最低付費版中測試",
@@ -44,9 +58,9 @@
       "published": 1768671282
     },
     {
-      "id": "9835f3180e30",
+      "id": "b62f472d7276",
       "title": "川普：歐洲8國反美掌控格陵蘭　2月起加徵10%關稅",
-      "url": "https://money.udn.com/money/story/10511/9272319",
+      "url": "https://money.udn.com/money/story/5599/9272319",
       "source": "money.udn.com",
       "published": 1768671050
     },
@@ -180,13 +194,6 @@
       "id": "744560b9a341",
       "title": "傳中國千艘漁船東海演練",
       "url": "https://www.singtaousa.com/2026/01/17/news/usa/china-fishing-vessels-drill/",
-      "source": "singtaousa.com",
-      "published": 1768658400
-    },
-    {
-      "id": "95f49fb8ce8f",
-      "title": "ChatGPT要開放廣告拚營收",
-      "url": "https://www.singtaousa.com/2026/01/17/news/usa/chatgpt-open-advertising-revenue/",
       "source": "singtaousa.com",
       "published": 1768658400
     },
@@ -476,13 +483,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20260116-%E4%B8%AD%E6%B3%95%E4%B8%93%E5%AE%B6%E8%B0%88%E8%81%94%E5%90%88%E5%9B%BD%E4%BF%9D%E6%8A%A4%E5%85%AC%E6%B5%B7%E6%9D%A1%E7%BA%A6%E7%9A%84%E5%AE%9E%E6%96%BD",
       "source": "rfi.fr",
       "published": 1768573219
-    },
-    {
-      "id": "51630891a1a4",
-      "title": "中国“坚决反对”美国与台湾签署贸易协议",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260116-%E4%B8%AD%E5%9B%BD-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9-%E7%BE%8E%E5%9B%BD%E4%B8%8E%E5%8F%B0%E6%B9%BE%E7%AD%BE%E7%BD%B2%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1768571381
     },
     {
       "id": "3b53ee300247",
@@ -1374,5 +1374,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768671445
+  "build_id": 1768673676
 }
