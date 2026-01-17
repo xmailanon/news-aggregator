@@ -1,6 +1,13 @@
 {
-  "updated": 1768660774,
+  "updated": 1768662601,
   "items": [
+    {
+      "id": "15fe109eff43",
+      "title": "馬斯克告OpenAI微軟違背非營利 索討4.2兆元不當獲利",
+      "url": "https://money.udn.com/money/story/5599/9272156",
+      "source": "money.udn.com",
+      "published": 1768662389
+    },
     {
       "id": "f728f71ae8d0",
       "title": "特朗普要让“美国再次伟大”的努力反在让中国变得更强？",
@@ -23,9 +30,9 @@
       "published": 1768659650
     },
     {
-      "id": "5b41971fa89d",
+      "id": "05913676ccd1",
       "title": "伊朗最高領袖：徹底擊潰煽動叛亂者　川普應對傷亡負責",
-      "url": "https://money.udn.com/money/story/10511/9272088",
+      "url": "https://money.udn.com/money/story/5599/9272088",
       "source": "money.udn.com",
       "published": 1768658440
     },
@@ -280,13 +287,6 @@
       "url": "https://money.udn.com/money/story/122381/9271905",
       "source": "money.udn.com",
       "published": 1768646025
-    },
-    {
-      "id": "8db90bb7e9ae",
-      "title": "牛津英語大辭典增11日語詞彙  yokai、senpai入列",
-      "url": "https://money.udn.com/money/story/5599/9271901",
-      "source": "money.udn.com",
-      "published": 1768645836
     },
     {
       "id": "286051dd31c7",
@@ -1367,5 +1367,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768660774
+  "build_id": 1768662601
 }
