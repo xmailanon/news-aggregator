@@ -1,6 +1,27 @@
 {
-  "updated": 1768623766,
+  "updated": 1768625320,
   "items": [
+    {
+      "id": "8c2b5c8bed70",
+      "title": "歐洲股市連續第五周上漲 諾和諾德股價飆升",
+      "url": "https://money.udn.com/money/story/5599/9271009",
+      "source": "money.udn.com",
+      "published": 1768625606
+    },
+    {
+      "id": "5b6cbbba7a30",
+      "title": "抗議、煽動、鎮壓與恐懼交織 伊朗抗議急轉直下動亂現場揭秘",
+      "url": "https://money.udn.com/money/story/5599/9271486",
+      "source": "money.udn.com",
+      "published": 1768625313
+    },
+    {
+      "id": "96f8162254e4",
+      "title": "伊朗軍艦現身南非軍演惹怒美國 總統指令疑遭軍方無視",
+      "url": "https://www.singtaousa.com/2026/01/16/news/world/south-africa-investigates-irans-participation-in-naval-drills-off-its-coast-after-us-criticism/",
+      "source": "singtaousa.com",
+      "published": 1768624200
+    },
     {
       "id": "f19d0a0a4f2e",
       "title": "IQ204天才少年哭倒！12歲挑戰牛津落榜 當場坐地痛哭無比懊惱",
@@ -9,16 +30,16 @@
       "published": 1768623827
     },
     {
-      "id": "a2d42934572c",
-      "title": "林昶佐出席旅展推銷百岳之國　觀光署拓展北歐市場",
-      "url": "https://money.udn.com/money/story/5599/9271420",
+      "id": "79e65f135d4d",
+      "title": "梅洛尼訪日追星  與「北斗神拳」作者合影掀熱議",
+      "url": "https://money.udn.com/money/story/5599/9271422",
       "source": "money.udn.com",
       "published": 1768623157
     },
     {
-      "id": "79e65f135d4d",
-      "title": "梅洛尼訪日追星  與「北斗神拳」作者合影掀熱議",
-      "url": "https://money.udn.com/money/story/5599/9271422",
+      "id": "a2d42934572c",
+      "title": "林昶佐出席旅展推銷百岳之國　觀光署拓展北歐市場",
+      "url": "https://money.udn.com/money/story/5599/9271420",
       "source": "money.udn.com",
       "published": 1768623157
     },
@@ -170,20 +191,6 @@
       "published": 1768610192
     },
     {
-      "id": "ede843a25403",
-      "title": "美公布加薩和平理事會成員　盧比歐川普女婿入列",
-      "url": "https://money.udn.com/money/story/10511/9271118",
-      "source": "money.udn.com",
-      "published": 1768610192
-    },
-    {
-      "id": "9b18bef082e1",
-      "title": "ISPA國際表演藝術年會　當代傳奇劇場示範演出",
-      "url": "https://money.udn.com/money/story/5599/9271119",
-      "source": "money.udn.com",
-      "published": 1768610190
-    },
-    {
       "id": "c637f74f1121",
       "title": "粵語排隊黨搵大錢 巴士扣安全帶",
       "url": "https://www.singtaousa.com/2026/01/16/opinion/queuing-up-to-get-big-money-buckle-up-on-the-bus/",
@@ -224,13 +231,6 @@
       "url": "https://www.singtaousa.com/2026/01/16/news/usa/trump-covets-arctic-territory-greenland-continues-to-say-no/",
       "source": "singtaousa.com",
       "published": 1768607698
-    },
-    {
-      "id": "a723b7c94e53",
-      "title": "AI深偽防不勝防？奧斯卡影帝出招 將經典台詞註冊商標",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/matthew-mcconaughey-trademarks-iconic-phrase-to-stop-ai-misuse/",
-      "source": "singtaousa.com",
-      "published": 1768606200
     },
     {
       "id": "bd36106efa1d",
@@ -1388,5 +1388,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768623766
+  "build_id": 1768625320
 }
