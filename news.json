@@ -1,6 +1,83 @@
 {
-  "updated": 1768644607,
+  "updated": 1768646462,
   "items": [
+    {
+      "id": "7e8bc4a98cfd",
+      "title": "烏克蘭代表團：談判官員已抵美將磋商終戰計畫",
+      "url": "https://money.udn.com/money/story/10511/9271923",
+      "source": "money.udn.com",
+      "published": 1768646731
+    },
+    {
+      "id": "a1b163071ad9",
+      "title": "聯合國公海條約生效　為保護海洋生態提供法律框架",
+      "url": "https://money.udn.com/money/story/5599/9271922",
+      "source": "money.udn.com",
+      "published": 1768646729
+    },
+    {
+      "id": "bad6a1fa99f5",
+      "title": "食在有意思1／米其林指南數位時代穩坐餐飲評鑑龍頭",
+      "url": "https://money.udn.com/money/story/122381/9271907",
+      "source": "money.udn.com",
+      "published": 1768646254
+    },
+    {
+      "id": "fa2835fac73f",
+      "title": "食在有意思2／你愛吃的東西對地球有害？食品供應與地球環境的平衡",
+      "url": "https://money.udn.com/money/story/122381/9271904",
+      "source": "money.udn.com",
+      "published": 1768646207
+    },
+    {
+      "id": "5aa37ebbdad5",
+      "title": "食在有意思3／睡不著好痛苦？助眠飲品市場正蓬勃發展",
+      "url": "https://money.udn.com/money/story/122381/9271905",
+      "source": "money.udn.com",
+      "published": 1768646025
+    },
+    {
+      "id": "8db90bb7e9ae",
+      "title": "牛津英語大辭典增11日語詞彙  yokai、senpai入列",
+      "url": "https://money.udn.com/money/story/5599/9271901",
+      "source": "money.udn.com",
+      "published": 1768645836
+    },
+    {
+      "id": "286051dd31c7",
+      "title": "特朗普上任一周年 欧洲人的跨大西洋困境",
+      "url": "https://www.dw.com/zh/特朗普上任一周年-欧洲人的跨大西洋困境/a-75541516?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1768645680
+    },
+    {
+      "id": "c44ff7bcb04a",
+      "title": "鄉民狂挺！福特員工嗆川普恐遭停職 卻在24小時內募得逾80萬美元捐款",
+      "url": "https://money.udn.com/money/story/5599/9271893",
+      "source": "money.udn.com",
+      "published": 1768645066
+    },
+    {
+      "id": "06219f704884",
+      "title": "陸AI開發商傳設法繞道要用到Rubin 直言沒有好晶片 難贏美國",
+      "url": "https://money.udn.com/money/story/5599/9271890",
+      "source": "money.udn.com",
+      "published": 1768644879
+    },
+    {
+      "id": "1f25a8d39845",
+      "title": "格陵蘭將抗議美國意圖接管　丹麥多城準備上街頭",
+      "url": "https://money.udn.com/money/story/10511/9271888",
+      "source": "money.udn.com",
+      "published": 1768644739
+    },
+    {
+      "id": "9fe1b4cd2421",
+      "title": "接掌 Fed 呼聲高的華許是鷹是鴿？克魯曼：較像「寵物狗」",
+      "url": "https://money.udn.com/money/story/5599/9271870",
+      "source": "money.udn.com",
+      "published": 1768644040
+    },
     {
       "id": "f08c5fda3aec",
       "title": "南非槍擊案釀7死3傷　警方：疑與有組織勒索犯罪有關",
@@ -9,11 +86,25 @@
       "published": 1768644040
     },
     {
-      "id": "9fe1b4cd2421",
-      "title": "接掌Fed呼聲高的華許是鷹是鴿？克魯曼：較像「寵物狗」",
-      "url": "https://money.udn.com/money/story/5599/9271870",
-      "source": "money.udn.com",
-      "published": 1768644040
+      "id": "f1f973461b35",
+      "title": "橙縣反ICE示威傷者憶述爆眼經歷",
+      "url": "https://www.singtaousa.com/2026/01/17/news/usa/orange-county-ice-protest/",
+      "source": "singtaousa.com",
+      "published": 1768644000
+    },
+    {
+      "id": "844c6dbd6ecb",
+      "title": "得來速點餐遇襲妻喪命   鰥夫控告麥當勞不作為",
+      "url": "https://www.singtaousa.com/2026/01/17/news/usa/mcdonalds-drive-thru-attack/",
+      "source": "singtaousa.com",
+      "published": 1768644000
+    },
+    {
+      "id": "8e29aca6452a",
+      "title": "尼克雷納曾接受精神健康監護",
+      "url": "https://www.singtaousa.com/2026/01/17/news/usa/nick-reiner-mental-health/",
+      "source": "singtaousa.com",
+      "published": 1768644000
     },
     {
       "id": "124d9cfcf008",
@@ -121,20 +212,6 @@
       "published": 1768638889
     },
     {
-      "id": "1caf7ca297f5",
-      "title": "金融時報：歐盟擬禁中國供應商參與關鍵基礎設施",
-      "url": "https://money.udn.com/money/story/5599/9271757",
-      "source": "money.udn.com",
-      "published": 1768637531
-    },
-    {
-      "id": "0f9df238d626",
-      "title": "美官員透露半導體關稅 川普政府將尋求與各國「分開談」",
-      "url": "https://money.udn.com/money/story/5599/9271756",
-      "source": "money.udn.com",
-      "published": 1768637531
-    },
-    {
       "id": "b97bdb3fca8e",
       "title": "23歲女被母逼嫁大16年漢 領證後喝農藥抗婚命危ICU",
       "url": "https://www.singtaousa.com/2026/01/17/news/china/bride-drinks-pesticide-to-resist-forced-marriage/",
@@ -156,20 +233,6 @@
       "published": 1768636690
     },
     {
-      "id": "a1cf36c9fb67",
-      "title": "試膽闖空屋發現鉅款  沖繩16學生竊1億日圓遭送辦",
-      "url": "https://money.udn.com/money/story/5599/9271733",
-      "source": "money.udn.com",
-      "published": 1768636479
-    },
-    {
-      "id": "f19995e33782",
-      "title": "AI 時代退休金新觀點？馬斯克說 20 年後不必再為退休存錢",
-      "url": "https://money.udn.com/money/story/122381/9271705",
-      "source": "money.udn.com",
-      "published": 1768636413
-    },
-    {
       "id": "35b7abddcbbe",
       "title": "江西網紅「殺豬宴」失控！4萬人湧入瘋搶食物如喪屍，博主遭派出所約談",
       "url": "https://www.singtaousa.com/2026/01/17/news/china/pig-feast-chaos-blogger-police-interview/",
@@ -184,67 +247,11 @@
       "published": 1768633487
     },
     {
-      "id": "00eb5881cae2",
-      "title": "盧特尼克警告：未赴美投資 部分台韓晶片商恐遭課100%關稅",
-      "url": "https://money.udn.com/money/story/5599/9271667",
-      "source": "money.udn.com",
-      "published": 1768633396
-    },
-    {
-      "id": "e2d430a181d8",
-      "title": "外國人換日本駕照不再好過！「外免切替」筆試及格率剩不到四成",
-      "url": "https://money.udn.com/money/story/5599/9271659",
-      "source": "money.udn.com",
-      "published": 1768632927
-    },
-    {
-      "id": "648dba77a05d",
-      "title": "台灣紅茶英國奪最大獎　百年名店福南梅森將上架",
-      "url": "https://money.udn.com/money/story/5599/9271642",
-      "source": "money.udn.com",
-      "published": 1768631782
-    },
-    {
       "id": "d9d5132193da",
       "title": "渣馬2026新設「躍動少年跑」！逾千青少年熱血開跑，香蕉裝跑手搶盡風頭",
       "url": "https://www.singtaousa.com/2026/01/16/news/china/standard-chartered-marathon-2026-youth-run/",
       "source": "singtaousa.com",
       "published": 1768631689
-    },
-    {
-      "id": "2081ad6cde90",
-      "title": "美能源部長：盼近期敲定委內瑞拉石油與礦產協議",
-      "url": "https://money.udn.com/money/story/10511/9271634",
-      "source": "money.udn.com",
-      "published": 1768631435
-    },
-    {
-      "id": "6b3691dadf85",
-      "title": "大阪警察辦案臨停月租車場挨告 法院判賠「不當得利」8毛錢",
-      "url": "https://money.udn.com/money/story/5599/9271633",
-      "source": "money.udn.com",
-      "published": 1768631433
-    },
-    {
-      "id": "a7ad544fb671",
-      "title": "【渣馬2026懶人包】1.18開跑！路線、封路、交通、天氣、跑手優惠一文睇清",
-      "url": "https://www.singtaousa.com/2026/01/16/news/china/standard-chartered-marathon-2026-guide/",
-      "source": "singtaousa.com",
-      "published": 1768629890
-    },
-    {
-      "id": "f3c225599e83",
-      "title": "【獨家】失聯一周終報平安！24歲港女伊朗歷險記：身處示威區，家人急尋入境處",
-      "url": "https://www.singtaousa.com/2026/01/16/news/china/hong-kong-woman-missing-iran-safe/",
-      "source": "singtaousa.com",
-      "published": 1768628086
-    },
-    {
-      "id": "b8dee98025f1",
-      "title": "「此地無銀」真人版？美女子持「非毒品袋」酒駕被捕恐囚15年",
-      "url": "https://www.singtaousa.com/2026/01/16/news/usa/prior-lake-woman-arrested-with-bag-of-drugs-labeled-definitely-not-a-bag-full-of-drugs/",
-      "source": "singtaousa.com",
-      "published": 1768627800
     },
     {
       "id": "d9aa18d4d743",
@@ -723,13 +730,6 @@
       "published": 1768477200
     },
     {
-      "id": "f6a6110f378b",
-      "title": "格陵兰问题：特朗普分毫不让 欧洲盟国登岛演习",
-      "url": "https://www.dw.com/zh/格陵兰问题：特朗普分毫不让-欧洲盟国登岛演习/a-75516423?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1768476360
-    },
-    {
       "id": "1a90e4c92536",
       "title": "從德黑蘭停屍房影片核查伊朗示威者死亡數和鎮壓手段",
       "url": "https://www.bbc.com/zhongwen/articles/ce8g3ezgrr8o/trad?at_medium=RSS&at_campaign=rss",
@@ -856,13 +856,6 @@
       "published": 1768402320
     },
     {
-      "id": "70c86fc89465",
-      "title": "冯德莱恩：“格陵兰人可以信赖我们”",
-      "url": "https://www.dw.com/zh/冯德莱恩：-格陵兰人可以信赖我们/a-75504696?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1768398600
-    },
-    {
       "id": "b4f748055b4a",
       "title": "「死了麼」APP爆紅 獨居族每日簽到證明「還活著」",
       "url": "https://www.dw.com/zh/「死了麼」app爆紅-獨居族每日簽到證明「還活著」/a-75492886?maca=chi-rss-chi-all-1127-rdf",
@@ -959,13 +952,6 @@
       "url": "https://www.dw.com/zh/德语媒体：中美夹缝中的德国稀土难题/a-75493996?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1768316460
-    },
-    {
-      "id": "5ae3fbc5c82f",
-      "title": "德国外长：美国不是真的要侵犯格陵兰",
-      "url": "https://www.dw.com/zh/德国外长：美国不是真的要侵犯格陵兰/a-75487584?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1768304340
     },
     {
       "id": "72b37cb5ee01",
@@ -1388,5 +1374,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768644607
+  "build_id": 1768646462
 }
