@@ -1,6 +1,27 @@
 {
-  "updated": 1768727483,
+  "updated": 1768729123,
   "items": [
+    {
+      "id": "4ac4ac7da29d",
+      "title": "【CCTV直擊】武漢蒙面賊床邊搜掠 女戶主急智裝睡保命",
+      "url": "https://www.singtaousa.com/2026/01/18/news/china/wuhan-burglar-bedside-robbery-woman-pretends-sleep/",
+      "source": "singtaousa.com",
+      "published": 1768728889
+    },
+    {
+      "id": "0053f013f570",
+      "title": "美国军舰今年首次穿越台湾海峡 解放军通报跟监但未批评",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260118-%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E4%BB%8A%E5%B9%B4%E9%A6%96%E6%AC%A1%E7%A9%BF%E8%B6%8A%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1-%E8%A7%A3%E6%94%BE%E5%86%9B%E9%80%9A%E6%8A%A5%E8%B7%9F%E7%9B%91%E4%BD%86%E6%9C%AA%E6%89%B9%E8%AF%84",
+      "source": "rfi.fr",
+      "published": 1768728885
+    },
+    {
+      "id": "2baf50854c1f",
+      "title": "避美晶片關稅威脅 南韓援引條款 尋求與台灣同等待遇",
+      "url": "https://money.udn.com/money/story/5599/9273122",
+      "source": "money.udn.com",
+      "published": 1768728496
+    },
     {
       "id": "a8a75cb01e56",
       "title": "雲南13歲童拒幫偷鐵皮遭焗暈推落河 路人誤當「婆孫糾紛」未施救",
@@ -247,13 +268,6 @@
       "published": 1768715129
     },
     {
-      "id": "9b339c0577b6",
-      "title": "地緣政治大富翁！盤點川普2.0全球勢力野心 1個願望已實現",
-      "url": "https://money.udn.com/money/story/5599/9272839",
-      "source": "money.udn.com",
-      "published": 1768714808
-    },
-    {
       "id": "592e86a135c6",
       "title": "【渣馬2026】賽事多人不適 至少30名跑手送院 4人情況危殆或嚴重",
       "url": "https://www.singtaousa.com/2026/01/17/news/china/standard-chartered-marathon-2026-runners-hospitalized/",
@@ -294,13 +308,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c8x9rnqwp4ro/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1768710556
-    },
-    {
-      "id": "2d327eae593b",
-      "title": "美新寵兒竟是緝毒局頭號目標？委內瑞拉女強人羅德里格斯黑歷史曝光",
-      "url": "https://www.singtaousa.com/2026/01/17/news/world/ap-obtains-documents-showing-venezuelan-leader-delcy-rodriguez-has-been-on-deas-radar-for-years/",
-      "source": "singtaousa.com",
-      "published": 1768708800
     },
     {
       "id": "e2f0813752f1",
@@ -532,13 +539,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260116-%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%94%BE%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%B0%86%E5%B8%A6%E6%9D%A5%E9%A3%8E%E9%99%A9",
       "source": "rfi.fr",
       "published": 1768600485
-    },
-    {
-      "id": "98c895b31c4c",
-      "title": "TikTok将收紧欧洲用户年龄核查 推出新技术应对监管压力",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260116-tiktok%E5%B0%86%E6%94%B6%E7%B4%A7%E6%AC%A7%E6%B4%B2%E7%94%A8%E6%88%B7%E5%B9%B4%E9%BE%84%E6%A0%B8%E6%9F%A5-%E6%8E%A8%E5%87%BA%E6%96%B0%E6%8A%80%E6%9C%AF%E5%BA%94%E5%AF%B9%E7%9B%91%E7%AE%A1%E5%8E%8B%E5%8A%9B",
-      "source": "rfi.fr",
-      "published": 1768600264
     },
     {
       "id": "7ace2c6f60d1",
@@ -1395,5 +1395,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768727483
+  "build_id": 1768729123
 }
