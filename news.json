@@ -1,6 +1,27 @@
 {
-  "updated": 1768710333,
+  "updated": 1768712116,
   "items": [
+    {
+      "id": "8dc59923c05d",
+      "title": "特朗普為格陵蘭擬加關稅 眾議院議長急降溫：不動武靠外交",
+      "url": "https://www.singtaousa.com/2026/01/17/news/world/diplomatic-channels-are-the-way-to-go-us-speaker-tells-bbc/",
+      "source": "singtaousa.com",
+      "published": 1768710600
+    },
+    {
+      "id": "ea3e4f771505",
+      "title": "加拿大與中國達成協議，凸顯脫美轉向",
+      "url": "https://www.bbc.com/zhongwen/articles/c8x9rnqwp4ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1768710556
+    },
+    {
+      "id": "cdc2126988a0",
+      "title": "陸5年內侵台機率30%！紐時專欄：現在台灣須提防北京1作戰",
+      "url": "https://money.udn.com/money/story/5599/9272742",
+      "source": "money.udn.com",
+      "published": 1768710166
+    },
     {
       "id": "2d327eae593b",
       "title": "美新寵兒竟是緝毒局頭號目標？委內瑞拉女強人羅德里格斯黑歷史曝光",
@@ -240,13 +261,6 @@
       "published": 1768685447
     },
     {
-      "id": "807b1a8c339d",
-      "title": "川普為取格陵蘭揚言祭關稅　英法瑞典丹麥歐盟齊反彈",
-      "url": "https://money.udn.com/money/story/5599/9272350",
-      "source": "money.udn.com",
-      "published": 1768685001
-    },
-    {
       "id": "aaeac71e9f07",
       "title": "馬年春晚再現機械人表演 網民：導演壓力山大",
       "url": "https://www.singtaousa.com/2026/01/17/news/china/robot-performance-lunar-new-year-gala/",
@@ -294,13 +308,6 @@
       "url": "https://www.singtaousa.com/2026/01/17/news/china/101-year-old-woman-defies-health-rules/",
       "source": "singtaousa.com",
       "published": 1768680287
-    },
-    {
-      "id": "ca4023a360c1",
-      "title": "烏情報：俄軍擬襲核電廠變電站 數百萬人或面臨嚴冬斷電",
-      "url": "https://www.singtaousa.com/2026/01/17/news/world/intensify-intimidation-of-europe-russia-plans-strikes-on-ukraines-nuclear-power-plant-substations-amid-us-peace-talks-intelligence/",
-      "source": "singtaousa.com",
-      "published": 1768680000
     },
     {
       "id": "8dc5e943671c",
@@ -763,13 +770,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c20z1e78jx4o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1768460614
-    },
-    {
-      "id": "a062f4336056",
-      "title": "「快審快殺」：誰是面臨處決的伊朗人索爾坦尼",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gv0z5xp1po/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1768460178
     },
     {
       "id": "c05bfd4c69c6",
@@ -1374,5 +1374,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768710333
+  "build_id": 1768712116
 }
