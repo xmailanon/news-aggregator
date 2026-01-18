@@ -1,6 +1,34 @@
 {
-  "updated": 1768731025,
+  "updated": 1768732908,
   "items": [
+    {
+      "id": "9ab594889179",
+      "title": "若美國入侵格陵蘭　西班牙總理：普丁最開心",
+      "url": "https://money.udn.com/money/story/10511/9273177",
+      "source": "money.udn.com",
+      "published": 1768732254
+    },
+    {
+      "id": "1052ace62ddf",
+      "title": "南非教育觀察  中文作為第二外語考生人數成長",
+      "url": "https://money.udn.com/money/story/5599/9273170",
+      "source": "money.udn.com",
+      "published": 1768731833
+    },
+    {
+      "id": "8708d27694ea",
+      "title": "泰政治家：强权回归对小国不利",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E4%B8%93%E6%A0%8F/20260118-%E6%B3%B0%E6%94%BF%E6%B2%BB%E5%AE%B6-%E5%BC%BA%E6%9D%83%E5%9B%9E%E5%BD%92%E5%AF%B9%E5%B0%8F%E5%9B%BD%E4%B8%8D%E5%88%A9",
+      "source": "rfi.fr",
+      "published": 1768731519
+    },
+    {
+      "id": "6a861d65d233",
+      "title": "台首享美232關稅最惠國待遇　韓憂半導體業受排擠急尋對策",
+      "url": "https://money.udn.com/money/story/5599/9273167",
+      "source": "money.udn.com",
+      "published": 1768731207
+    },
     {
       "id": "4ac4ac7da29d",
       "title": "【CCTV直擊】武漢蒙面賊床邊搜掠 女戶主急智裝睡保命",
@@ -245,27 +273,6 @@
       "url": "https://www.singtaousa.com/2026/01/17/news/china/standard-chartered-marathon-2026-cosplay-runners/",
       "source": "singtaousa.com",
       "published": 1768716289
-    },
-    {
-      "id": "bbcbe4de8308",
-      "title": "川普欲取格陵蘭　前白宮官員：可成為美領地或簽COFA",
-      "url": "https://money.udn.com/money/story/10511/9272867",
-      "source": "money.udn.com",
-      "published": 1768716035
-    },
-    {
-      "id": "14492491deca",
-      "title": "敘利亞政府軍北進　收復庫德族自治區大片領土",
-      "url": "https://money.udn.com/money/story/5599/9272862",
-      "source": "money.udn.com",
-      "published": 1768715655
-    },
-    {
-      "id": "55d028a374d8",
-      "title": "葡萄牙總統大選登場　極右翼勢力料將大幅崛起",
-      "url": "https://money.udn.com/money/story/5599/9272846",
-      "source": "money.udn.com",
-      "published": 1768715129
     },
     {
       "id": "592e86a135c6",
@@ -532,13 +539,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260116-%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%AB%E4%BD%BF%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%90%91%E4%B8%AD%E5%9B%BD%E9%9D%A0%E6%8B%A2",
       "source": "rfi.fr",
       "published": 1768602327
-    },
-    {
-      "id": "e1e0bbc36348",
-      "title": "美国警告加拿大放行中国电动车将带来风险",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260116-%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%94%BE%E8%A1%8C%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%B0%86%E5%B8%A6%E6%9D%A5%E9%A3%8E%E9%99%A9",
-      "source": "rfi.fr",
-      "published": 1768600485
     },
     {
       "id": "7ace2c6f60d1",
@@ -1395,5 +1395,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768731025
+  "build_id": 1768732908
 }
