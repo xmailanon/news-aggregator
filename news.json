@@ -1,6 +1,13 @@
 {
-  "updated": 1768777815,
+  "updated": 1768779448,
   "items": [
+    {
+      "id": "e88a5e5840ee",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/9273749",
+      "source": "money.udn.com",
+      "published": 1768778591
+    },
     {
       "id": "bb30daead6be",
       "title": "美財長：最高法院不會推翻川普關稅",
@@ -275,13 +282,6 @@
       "published": 1768759344
     },
     {
-      "id": "c2dd07cf6f8f",
-      "title": "川普喊話 該換伊朗領導人",
-      "url": "https://money.udn.com/money/story/5599/9273469",
-      "source": "money.udn.com",
-      "published": 1768759344
-    },
-    {
       "id": "bded5ac94b72",
       "title": "基辅袭击俄占区 20万户家庭断电",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260118-%E5%9F%BA%E8%BE%85%E8%A2%AD%E5%87%BB%E4%BF%84%E5%8D%A0%E5%8C%BA-20%E4%B8%87%E6%88%B7%E5%AE%B6%E5%BA%AD%E6%96%AD%E7%94%B5",
@@ -301,6 +301,27 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260118-%E4%B9%8C%E5%85%8B%E5%85%B0-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E5%93%88%E5%B0%94%E7%A7%91%E5%A4%AB%E5%92%8C%E8%8B%8F%E6%A2%85-%E4%B8%80%E5%A5%B3%E5%AD%90%E8%BA%AB%E4%BA%A1-%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4",
       "source": "rfi.fr",
       "published": 1768755408
+    },
+    {
+      "id": "7f28aeeae28e",
+      "title": "新加坡的AI国家实验：数字政府如何跑在未来前面",
+      "url": "https://www.ftchinese.com/story/001108737",
+      "source": "ftchinese.com",
+      "published": 1768752000
+    },
+    {
+      "id": "e792c187b020",
+      "title": "当德国开始讨论要不要拥有核武器",
+      "url": "https://www.ftchinese.com/story/001108738",
+      "source": "ftchinese.com",
+      "published": 1768752000
+    },
+    {
+      "id": "8faab8ef4dc5",
+      "title": "地缘政治强行“续命”石油美元？",
+      "url": "https://www.ftchinese.com/story/001108735",
+      "source": "ftchinese.com",
+      "published": 1768752000
     },
     {
       "id": "afec2e824433",
@@ -898,27 +919,6 @@
       "published": 1768406400
     },
     {
-      "id": "a7e7ba526882",
-      "title": "英硅智能IPO后热度不减 再签8.88亿美元大单",
-      "url": "https://www.ftchinese.com/story/001108721",
-      "source": "ftchinese.com",
-      "published": 1768406400
-    },
-    {
-      "id": "c5a66f38161d",
-      "title": "白宫宣布对英伟达和AMD对华销售额征收25%关税",
-      "url": "https://www.ftchinese.com/story/001108720",
-      "source": "ftchinese.com",
-      "published": 1768406400
-    },
-    {
-      "id": "538f66e5ecd7",
-      "title": "安世中国母公司：欧洲管理层策划了政府干预",
-      "url": "https://www.ftchinese.com/story/001108719",
-      "source": "ftchinese.com",
-      "published": 1768406400
-    },
-    {
       "id": "0535e301ecff",
       "title": "消息人士：中国要求国内企业停用美以网络安全软件",
       "url": "https://www.dw.com/zh/消息人士：中国要求国内企业停用美以网络安全软件/a-75506485?maca=chi-rss-chi-all-1127-rdf",
@@ -1402,5 +1402,5 @@
       "published": 1766581860
     }
   ],
-  "build_id": 1768777815
+  "build_id": 1768779448
 }
