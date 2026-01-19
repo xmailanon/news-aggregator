@@ -1,6 +1,27 @@
 {
-  "updated": 1768839328,
+  "updated": 1768841522,
   "items": [
+    {
+      "id": "30449e2c2014",
+      "title": "西班牙列車出軌增至39死　路軌接駁位發現罅隙且不斷擴大",
+      "url": "https://www.singtaousa.com/2026/01/19/news/world/spanish-train-derailment-death-toll-rises-to-39-cracks-found-in-track-connection-and-expanding/",
+      "source": "singtaousa.com",
+      "published": 1768841286
+    },
+    {
+      "id": "e8a397630ee2",
+      "title": "黑客對伊朗實施網絡戰　國營電視台突被插播流亡海外王儲講話",
+      "url": "https://www.singtaousa.com/2026/01/19/news/world/hackers-carry-out-cyber-warfare-against-iran-state-owned-tv-station-was-suddenly-interrupted-to-broadcast-the-speech-of-the-exiled-overseas-crown-prince/",
+      "source": "singtaousa.com",
+      "published": 1768839874
+    },
+    {
+      "id": "df137b5bea2b",
+      "title": "伊朗警察总长给予年轻抗议者三天自首期限 联合国人权高专办谴责死刑数量激增",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260119-%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%AF%9F%E6%80%BB%E9%95%BF%E7%BB%99%E4%BA%88%E5%B9%B4%E8%BD%BB%E6%8A%97%E8%AE%AE%E8%80%85%E4%B8%89%E5%A4%A9%E8%87%AA%E9%A6%96%E6%9C%9F%E9%99%90-%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E9%AB%98%E4%B8%93%E5%8A%9E%E8%B0%B4%E8%B4%A3%E6%AD%BB%E5%88%91%E6%95%B0%E9%87%8F%E6%BF%80%E5%A2%9E",
+      "source": "rfi.fr",
+      "published": 1768839549
+    },
     {
       "id": "b10b786c88d7",
       "title": "重返白宮！川普就職滿周年 主要政策行動、帶給市場的四大效應一次看",
@@ -180,20 +201,6 @@
       "id": "3146cb23e5a4",
       "title": "貝森特︰格陵蘭對與俄博弈很重要",
       "url": "https://www.singtaousa.com/2026/01/19/news/usa/greenland-russia-us-security/",
-      "source": "singtaousa.com",
-      "published": 1768831200
-    },
-    {
-      "id": "4314a1c51317",
-      "title": "歐洲若此時不撐住 全球秩序必坍塌",
-      "url": "https://www.singtaousa.com/2026/01/19/news/usa/europe-global-order-collapse/",
-      "source": "singtaousa.com",
-      "published": 1768831200
-    },
-    {
-      "id": "232828966cd0",
-      "title": "多極博弈下 高市政權站在垮台邊緣",
-      "url": "https://www.singtaousa.com/2026/01/19/news/usa/japan-government-collapse-crisis/",
       "source": "singtaousa.com",
       "published": 1768831200
     },
@@ -623,13 +630,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260118-%E6%A0%BC%E9%99%B5%E5%85%B0-%E4%B8%B9%E9%BA%A6%E5%A4%96%E4%BA%A4%E5%A4%A7%E8%87%A3%E8%AE%BF%E6%8C%AA%E5%A8%81-%E8%8B%B1%E5%9B%BD%E5%92%8C%E7%91%9E%E5%85%B8%EF%BC%8C%E5%A5%A5%E6%96%AF%E9%99%86%E6%95%A6%E4%BF%83%E9%81%BF%E5%85%8D%E8%B4%B8%E6%98%93%E6%88%98%E5%A4%B1%E6%8E%A7",
       "source": "rfi.fr",
       "published": 1768746980
-    },
-    {
-      "id": "4dcf3fb2ae70",
-      "title": "格陵兰 欧美夺岛之战：特朗普关税威胁欧洲八国，马克龙祭欧盟“反胁迫工具”",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260118-%E6%A0%BC%E9%99%B5%E5%85%B0-%E6%AC%A7%E7%BE%8E%E5%A4%BA%E5%B2%9B%E4%B9%8B%E6%88%98-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E5%A8%81%E8%83%81%E6%AC%A7%E6%B4%B2%E5%85%AB%E5%9B%BD%EF%BC%8C%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A5%AD%E6%AC%A7%E7%9B%9F-%E5%8F%8D%E8%83%81%E8%BF%AB%E5%B7%A5%E5%85%B7",
-      "source": "rfi.fr",
-      "published": 1768741845
     },
     {
       "id": "6a29313aec85",
@@ -1388,5 +1388,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768839328
+  "build_id": 1768841522
 }
