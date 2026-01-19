@@ -1,12 +1,75 @@
 {
-  "updated": 1768806044,
+  "updated": 1768808777,
   "items": [
+    {
+      "id": "7d61e6c26fd6",
+      "title": "高市早苗擬解散眾院 「食品消費稅歸零」成選舉牌",
+      "url": "https://money.udn.com/money/story/5599/9274910",
+      "source": "money.udn.com",
+      "published": 1768808717
+    },
+    {
+      "id": "58375ba8945f",
+      "title": "歐洲「紅線」浮現！丹麥保衛格陵蘭內幕曝 傳擬限制美共享情資基地",
+      "url": "https://money.udn.com/money/story/5599/9274906",
+      "source": "money.udn.com",
+      "published": 1768808605
+    },
+    {
+      "id": "c0d1c101d2ba",
+      "title": "北韓駭客組織利用Naver、Google廣告散布惡意軟體",
+      "url": "https://money.udn.com/money/story/5599/9274895",
+      "source": "money.udn.com",
+      "published": 1768808247
+    },
+    {
+      "id": "d1dcc9008859",
+      "title": "【天氣急凍】強烈季候風明晚殺到！天文台預警氣溫顯著下降 周三市區最低11°C 新界多區跌至個位數",
+      "url": "https://www.singtaousa.com/2026/01/19/news/china/cold-spell-hong-kong-strong-monsoon/",
+      "source": "singtaousa.com",
+      "published": 1768808086
+    },
+    {
+      "id": "f8b959644fca",
+      "title": "美國數千人示威　聲援伊朗反政府抗議者",
+      "url": "https://money.udn.com/money/story/5599/9274883",
+      "source": "money.udn.com",
+      "published": 1768807813
+    },
+    {
+      "id": "68d06429b563",
+      "title": "美出口檢驗回升 黃豆需求動能增溫",
+      "url": "https://money.udn.com/money/story/5599/9274836",
+      "source": "money.udn.com",
+      "published": 1768806865
+    },
+    {
+      "id": "9f6eb22c3a2e",
+      "title": "油價短線走勢難料 川普強徵歐洲八國關稅、伊朗動亂逐漸和緩",
+      "url": "https://money.udn.com/money/story/5599/9274837",
+      "source": "money.udn.com",
+      "published": 1768806864
+    },
+    {
+      "id": "140375e86173",
+      "title": "川普再祭關稅威脅、避險情緒升溫　日股收黑",
+      "url": "https://money.udn.com/money/story/10511/9274817",
+      "source": "money.udn.com",
+      "published": 1768806412
+    },
     {
       "id": "4dc4942555e9",
       "title": "將軍澳新都城驚險一幕！高層玻璃窗飛墮行人路 警急封路調查",
       "url": "https://www.singtaousa.com/2026/01/19/news/china/tseung-kwan-o-metro-city-window-falls-street/",
       "source": "singtaousa.com",
       "published": 1768806288
+    },
+    {
+      "id": "c38f34325a02",
+      "title": "融冰推動北極競逐 川普為格陵蘭不惜威壓盟友",
+      "url": "https://money.udn.com/money/story/10511/9274806",
+      "source": "money.udn.com",
+      "published": 1768806063
     },
     {
       "id": "e2de0f3f650e",
@@ -16,8 +79,22 @@
       "published": 1768806000
     },
     {
+      "id": "3a728e3624de",
+      "title": "收容遣返移民監獄專題臨時撤下 CBS 補充資料後播出",
+      "url": "https://money.udn.com/money/story/5599/9274797",
+      "source": "money.udn.com",
+      "published": 1768805700
+    },
+    {
+      "id": "1917a9fb903a",
+      "title": "美記者爆川普為1事嗆聲挪威！暗示對格陵蘭動武 稱「不再只想和平」",
+      "url": "https://money.udn.com/money/story/5599/9274798",
+      "source": "money.udn.com",
+      "published": 1768805697
+    },
+    {
       "id": "616cf3d912a1",
-      "title": "台積電等企業進駐　日本九州用電需求可能增3成",
+      "title": "台積電等企業進駐 日本九州用電需求可能增3成",
       "url": "https://money.udn.com/money/story/5599/9274778",
       "source": "money.udn.com",
       "published": 1768805149
@@ -135,20 +212,6 @@
       "published": 1768800207
     },
     {
-      "id": "e2a4c2dcde9a",
-      "title": "全球最強護照新加坡居冠  新移民指東協免簽便利",
-      "url": "https://money.udn.com/money/story/5599/9274541",
-      "source": "money.udn.com",
-      "published": 1768799168
-    },
-    {
-      "id": "6b7692c7d415",
-      "title": "西班牙交通部長認了！高鐵相撞「2點超詭異」專家也不解",
-      "url": "https://money.udn.com/money/story/5599/9274529",
-      "source": "money.udn.com",
-      "published": 1768798955
-    },
-    {
       "id": "e57b7326f101",
       "title": "敘利亞內戰升溫 政府軍奪最大油田切斷庫爾德金脈",
       "url": "https://www.singtaousa.com/2026/01/18/news/world/syrian-army-seizes-countrys-largest-oil-field-from-kurdish-forces/",
@@ -156,67 +219,11 @@
       "published": 1768798800
     },
     {
-      "id": "82222780e55e",
-      "title": "菲律賓睽違逾10年發現新氣田　盼緩解能源危機",
-      "url": "https://money.udn.com/money/story/5599/9274506",
-      "source": "money.udn.com",
-      "published": 1768798468
-    },
-    {
-      "id": "d7aaccff9d94",
-      "title": "川普深夜發文砲轟丹麥！嗆1事讓美國對格陵蘭「勢在必行」",
-      "url": "https://money.udn.com/money/story/5599/9274450",
-      "source": "money.udn.com",
-      "published": 1768797341
-    },
-    {
       "id": "caaf1b743f1a",
       "title": "「極端的數位隔離」：伊朗的網路封鎖會變成永久「封網」嗎？",
       "url": "https://www.bbc.com/zhongwen/articles/cvgjknlj88yo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1768797272
-    },
-    {
-      "id": "4634d0b39d4d",
-      "title": "歐盟可回擊川普關稅？比貿易「火箭炮」更傷市場的終極大招：龐大美債",
-      "url": "https://money.udn.com/money/story/5599/9274358",
-      "source": "money.udn.com",
-      "published": 1768795354
-    },
-    {
-      "id": "55efca098e09",
-      "title": "川普為取格陵蘭祭關稅施壓　歐洲傾向先談判",
-      "url": "https://money.udn.com/money/story/10511/9274348",
-      "source": "money.udn.com",
-      "published": 1768795254
-    },
-    {
-      "id": "e21c026109bb",
-      "title": "川普揚言對歐加徵關稅　金價創新高股市齊挫",
-      "url": "https://money.udn.com/money/story/10511/9274346",
-      "source": "money.udn.com",
-      "published": 1768795254
-    },
-    {
-      "id": "ba9e742caf4a",
-      "title": "巴黎百年公寓坍塌！慶生趴30賓客如坐大怒神急墜 可能原因曝",
-      "url": "https://money.udn.com/money/story/5599/9274309",
-      "source": "money.udn.com",
-      "published": 1768794429
-    },
-    {
-      "id": "33bbf32d493e",
-      "title": "美日協調高市訪美　日媒：以3月20日前後為主",
-      "url": "https://money.udn.com/money/story/10511/9274305",
-      "source": "money.udn.com",
-      "published": 1768794311
-    },
-    {
-      "id": "49dee8430ca9",
-      "title": "矽盾地位動搖？台美貿易協議催動台積電加速海外布局",
-      "url": "https://money.udn.com/money/story/5599/9274215",
-      "source": "money.udn.com",
-      "published": 1768793124
     },
     {
       "id": "a555565ef59f",
@@ -238,13 +245,6 @@
       "url": "https://www.singtaousa.com/2026/01/18/news/world/syria-announces-ceasefire-agreement-with-kurd-led-sdf-after-heavy-fighting/",
       "source": "singtaousa.com",
       "published": 1768791600
-    },
-    {
-      "id": "c3de80fcad18",
-      "title": "西班牙高鐵出軌撞向對頭車 至少21死75傷",
-      "url": "https://www.singtaousa.com/2026/01/18/news/world/high-speed-trains-collide-after-one-derails-in-southern-spain-killing-at-least-21/",
-      "source": "singtaousa.com",
-      "published": 1768790650
     },
     {
       "id": "11caf5fd1c3a",
@@ -343,6 +343,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260118-%E4%B9%8C%E5%85%8B%E5%85%B0-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E5%93%88%E5%B0%94%E7%A7%91%E5%A4%AB%E5%92%8C%E8%8B%8F%E6%A2%85-%E4%B8%80%E5%A5%B3%E5%AD%90%E8%BA%AB%E4%BA%A1-%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4",
       "source": "rfi.fr",
       "published": 1768755408
+    },
+    {
+      "id": "b0c43768e4e4",
+      "title": "“特朗普2.0”外交断想",
+      "url": "https://www.ftchinese.com/story/001108746",
+      "source": "ftchinese.com",
+      "published": 1768752000
     },
     {
       "id": "51e3f0f4fb3d",
@@ -866,13 +873,6 @@
       "id": "d2911bc1b0d8",
       "title": "“小甜剧”背后：关于当代亲密关系的幻想",
       "url": "https://www.ftchinese.com/story/001108716",
-      "source": "ftchinese.com",
-      "published": 1768492800
-    },
-    {
-      "id": "37fadfbba14d",
-      "title": "《图兰朵》百年：冷面公主与“想象的东方”",
-      "url": "https://www.ftchinese.com/story/001108717",
       "source": "ftchinese.com",
       "published": 1768492800
     },
@@ -1402,5 +1402,5 @@
       "published": 1766581860
     }
   ],
-  "build_id": 1768806044
+  "build_id": 1768808777
 }
