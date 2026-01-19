@@ -1,6 +1,13 @@
 {
-  "updated": 1768853538,
+  "updated": 1768855362,
   "items": [
+    {
+      "id": "f42e31f18e5a",
+      "title": "李強總理開年首場座談會！AI獨角獸Minimax創辦人閆俊傑等九大領域代表建言獻策",
+      "url": "https://www.singtaousa.com/2026/01/19/news/china/premier-li-strong-first-forum-minimax/",
+      "source": "singtaousa.com",
+      "published": 1768854884
+    },
     {
       "id": "3165fcae609c",
       "title": "包頭鋼鐵廠驚天爆炸！6死4失蹤 10年奪30命 安全會議剛開完就出事",
@@ -119,13 +126,6 @@
       "url": "https://money.udn.com/money/story/5599/9275771",
       "source": "money.udn.com",
       "published": 1768847691
-    },
-    {
-      "id": "b9bab93f8637",
-      "title": "建華集團億元投資「港人農地」！活化千畝漁塘、深海養殖，兩小時無人機直送新鮮海產",
-      "url": "https://www.singtaousa.com/2026/01/19/news/china/jianhua-group-hongkong-fishery-aquaculture-investment/",
-      "source": "singtaousa.com",
-      "published": 1768847684
     },
     {
       "id": "6d202bd47302",
@@ -1388,5 +1388,5 @@
       "published": 1766316060
     }
   ],
-  "build_id": 1768853538
+  "build_id": 1768855362
 }
