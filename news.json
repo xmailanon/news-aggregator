@@ -1,17 +1,38 @@
 {
-  "updated": 1768973377,
+  "updated": 1768974703,
   "items": [
     {
-      "id": "37781bd32461",
-      "title": "阿蘇直升機事故　失蹤台灣旅客家屬趕赴熊本",
-      "url": "https://money.udn.com/money/story/5599/9279346",
+      "id": "273f79f77fb4",
+      "title": "安倍遇刺案　山上徹也判無期徒刑",
+      "url": "https://money.udn.com/money/story/5599/9279420",
       "source": "money.udn.com",
-      "published": 1768973008
+      "published": 1768974319
+    },
+    {
+      "id": "e5b8b3c803f2",
+      "title": "南丫海難家屬悲憤控訴：13年等不到一句道歉，官員只懂卸責！",
+      "url": "https://www.singtaousa.com/2026/01/20/news/china/lamma-ferry-disaster-inquest-apology-accountability/",
+      "source": "singtaousa.com",
+      "published": 1768973689
+    },
+    {
+      "id": "097f2df5a8aa",
+      "title": "韓國總理金民錫將訪美會范斯　談核潛艦與半導體關稅",
+      "url": "https://money.udn.com/money/story/10511/9279379",
+      "source": "money.udn.com",
+      "published": 1768973435
     },
     {
       "id": "177b019b6e05",
       "title": "2台灣人失聯！阿蘇降雪急凍零下4.2度 熊本消防認了「難派無人機」",
       "url": "https://money.udn.com/money/story/5599/9279350",
+      "source": "money.udn.com",
+      "published": 1768973008
+    },
+    {
+      "id": "37781bd32461",
+      "title": "阿蘇直升機事故　失蹤台灣旅客家屬趕赴熊本",
+      "url": "https://money.udn.com/money/story/5599/9279346",
       "source": "money.udn.com",
       "published": 1768973008
     },
@@ -23,16 +44,16 @@
       "published": 1768972471
     },
     {
-      "id": "8c5272a2cbda",
-      "title": "川普搭空軍一號飛往瑞士　 途中因電力問題返航",
-      "url": "https://money.udn.com/money/story/10511/9279309",
+      "id": "d5a7e65f5907",
+      "title": "南韓總統：北韓每年生產核材料足以製造20枚核彈",
+      "url": "https://money.udn.com/money/story/10511/9279313",
       "source": "money.udn.com",
       "published": 1768972352
     },
     {
-      "id": "d5a7e65f5907",
-      "title": "南韓總統：北韓每年生產核材料足以製造20枚核彈",
-      "url": "https://money.udn.com/money/story/10511/9279313",
+      "id": "8c5272a2cbda",
+      "title": "川普搭空軍一號飛往瑞士　 途中因電力問題返航",
+      "url": "https://money.udn.com/money/story/10511/9279309",
       "source": "money.udn.com",
       "published": 1768972352
     },
@@ -108,7 +129,7 @@
     },
     {
       "id": "1db346d34da4",
-      "title": "1月底訪台之餘 彭博說黃仁勳計劃赴陸爭取開放H200",
+      "title": "1月底訪台之餘 彭博說黃仁勳計劃赴陸爭取開放 H200",
       "url": "https://money.udn.com/money/story/5599/9279162",
       "source": "money.udn.com",
       "published": 1768968819
@@ -184,20 +205,6 @@
       "published": 1768967446
     },
     {
-      "id": "2494b836f2b6",
-      "title": "阿蘇火山直升機失事 熊本台灣同鄉會曝失蹤者家屬已聯繫上趕往中",
-      "url": "https://money.udn.com/money/story/5599/9279044",
-      "source": "money.udn.com",
-      "published": 1768967261
-    },
-    {
-      "id": "5c94c79f2cae",
-      "title": "西班牙高鐵相撞事故舉國哀悼3天　國王親赴視察",
-      "url": "https://money.udn.com/money/story/5599/9279036",
-      "source": "money.udn.com",
-      "published": 1768967145
-    },
-    {
       "id": "de865fde6c4b",
       "title": "英国批准中国在伦敦市中心修建超大型使馆",
       "url": "https://cn.nytimes.com/world/20260121/chinese-embassy-london-starmer/?utm_source=RSS",
@@ -252,13 +259,6 @@
       "url": "https://www.singtaousa.com/2026/01/20/news/usa/woman-dies-after-riding-revenge-of-the-mummy-roller-coaster-at-universal/",
       "source": "singtaousa.com",
       "published": 1768957200
-    },
-    {
-      "id": "97411f16364e",
-      "title": "明尼蘇達州發起「經濟停擺日」　抗議ICE行動升級",
-      "url": "https://www.singtaousa.com/2026/01/20/news/usa/minnesota-launches-economic-shutdown-day-to-protest-escalating-ice-actions/",
-      "source": "singtaousa.com",
-      "published": 1768956813
     },
     {
       "id": "99b82b5c1275",
@@ -1374,5 +1374,5 @@
       "published": 1766449329
     }
   ],
-  "build_id": 1768973377
+  "build_id": 1768974703
 }
