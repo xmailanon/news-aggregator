@@ -1,6 +1,34 @@
 {
-  "updated": 1769001320,
+  "updated": 1769003939,
   "items": [
+    {
+      "id": "cf7c72fe1491",
+      "title": "日本國債拋售風暴波及海外 財相承諾採取措施並喊話市場「冷靜」",
+      "url": "https://money.udn.com/money/story/5599/9278464",
+      "source": "money.udn.com",
+      "published": 1769002936
+    },
+    {
+      "id": "a1febc220cde",
+      "title": "阿蘇觀光直升機墜火山口　營運方：飛行員不魯莽",
+      "url": "https://money.udn.com/money/story/5599/9280508",
+      "source": "money.udn.com",
+      "published": 1769002599
+    },
+    {
+      "id": "fb468b9cca34",
+      "title": "從「上帝之屋」到「美國之家」：達沃斯權力博弈的最直觀注腳",
+      "url": "https://money.udn.com/money/story/5599/9278438",
+      "source": "money.udn.com",
+      "published": 1769002285
+    },
+    {
+      "id": "0057a837383a",
+      "title": "美國銀行調查顯示基金經理對股市極度看多但對回調準備不足",
+      "url": "https://money.udn.com/money/story/5599/9278439",
+      "source": "money.udn.com",
+      "published": 1769001445
+    },
     {
       "id": "c266645c3beb",
       "title": "三藩市數百人集會抗議特朗普反移民政策",
@@ -233,34 +261,6 @@
       "published": 1768996239
     },
     {
-      "id": "e2cf9f686d61",
-      "title": "日本第二大銀行計畫在債市暴跌告一段落後大舉買入日本國債",
-      "url": "https://money.udn.com/money/story/5599/9279378",
-      "source": "money.udn.com",
-      "published": 1768996034
-    },
-    {
-      "id": "e81f31992ace",
-      "title": "紐西蘭定於11月7日舉行大選 總理盧克森尋求連任",
-      "url": "https://money.udn.com/money/story/5599/9278776",
-      "source": "money.udn.com",
-      "published": 1768995311
-    },
-    {
-      "id": "2b43fbc09e53",
-      "title": "波蘭央行批准增持150噸黃金",
-      "url": "https://money.udn.com/money/story/5599/9278860",
-      "source": "money.udn.com",
-      "published": 1768995277
-    },
-    {
-      "id": "59cb00d9c22f",
-      "title": "阿蘇火山失聯直升機搜尋困難 傍晚暫停明天繼續",
-      "url": "https://money.udn.com/money/story/5599/9280296",
-      "source": "money.udn.com",
-      "published": 1768995271
-    },
-    {
       "id": "e0bba8a93e6b",
       "title": "西班牙火车再次发生事故 一人丧生",
       "url": "https://www.dw.com/zh/西班牙火车再次发生事故-一人丧生/a-75590500?maca=chi-rss-chi-news-3224-rdf",
@@ -318,7 +318,7 @@
     },
     {
       "id": "bb20ec91fdf8",
-      "title": "路透独家：斯塔默访华期间，英中将重启“黄金时代”经贸对话",
+      "title": "路透：斯塔预计下周访华，英中将重启“黄金时代”经贸对话",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260121-%E8%B7%AF%E9%80%8F%E7%8B%AC%E5%AE%B6-%E6%96%AF%E5%A1%94%E9%BB%98%E8%AE%BF%E5%8D%8E%E6%9C%9F%E9%97%B4%EF%BC%8C%E8%8B%B1%E4%B8%AD%E5%B0%86%E9%87%8D%E5%90%AF-%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3-%E7%BB%8F%E8%B4%B8%E5%AF%B9%E8%AF%9D",
       "source": "rfi.fr",
       "published": 1768987706
@@ -870,13 +870,6 @@
       "published": 1768834320
     },
     {
-      "id": "a722cf46814a",
-      "title": "格陵兰岛争端引爆美欧关税战：柏林警告实施“有效反制”",
-      "url": "https://www.dw.com/zh/格陵兰岛争端引爆美欧关税战：柏林警告实施-有效反制/a-75566564?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1768829460
-    },
-    {
       "id": "8c74c8c144e8",
       "title": "特朗普参加达沃斯年会吸引全球目光",
       "url": "https://www.dw.com/zh/特朗普参加达沃斯年会吸引全球目光/a-75562832?maca=chi-rss-chi-all-1127-rdf",
@@ -1400,7 +1393,14 @@
       "url": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766648355
+    },
+    {
+      "id": "0a8bc7afb53b",
+      "title": "傳統中醫何以扎根港澳等地？「疑中醫論」陰影下公眾信心從何而來？",
+      "url": "https://www.bbc.com/zhongwen/articles/c4g98533404o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1766449329
     }
   ],
-  "build_id": 1769001320
+  "build_id": 1769003939
 }
