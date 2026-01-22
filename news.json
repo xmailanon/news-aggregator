@@ -1,6 +1,41 @@
 {
-  "updated": 1769121885,
+  "updated": 1769123487,
   "items": [
+    {
+      "id": "d209b2ea5cb7",
+      "title": "川普轉變對格陵蘭態度　歐盟領袖鬆一口氣",
+      "url": "https://money.udn.com/money/story/10511/9283510",
+      "source": "money.udn.com",
+      "published": 1769123530
+    },
+    {
+      "id": "6240496e9762",
+      "title": "美股收盤／四大指數連二日收紅 AI題材再點火、大型科技股領漲",
+      "url": "https://money.udn.com/money/story/5599/9283508",
+      "source": "money.udn.com",
+      "published": 1769123231
+    },
+    {
+      "id": "9a25da31c31b",
+      "title": "川普控告摩根大通因政治因素關閉帳戶　索賠50億美元",
+      "url": "https://money.udn.com/money/story/10511/9283506",
+      "source": "money.udn.com",
+      "published": 1769123168
+    },
+    {
+      "id": "e59010025ee5",
+      "title": "「歷史性一天」？以色列強拆東耶路撒冷聯合國設施 秘書長古特雷斯譴責",
+      "url": "https://www.singtaousa.com/2026/01/22/news/world/israel-demolishes-unrwa-offices-for-palestinian-refugees-in-east-jerusalem/",
+      "source": "singtaousa.com",
+      "published": 1769122800
+    },
+    {
+      "id": "cb3175b0f3b9",
+      "title": "特朗普以其招牌土豪金美學打造「和平委員會」標誌 與聯合國徽高度相似",
+      "url": "https://www.singtaousa.com/2026/01/22/news/usa/trump-stirs-up-controversy-again-with-his-signature-golden-aesthetics-the-peace-commission-logo-is-accused-of-resembling-the-united-nations-president-trump-stirs-up-controversy-again-with-his-gold/",
+      "source": "singtaousa.com",
+      "published": 1769122706
+    },
     {
       "id": "f32b67c19589",
       "title": "紐時：格陵蘭新協議建議　美國擁有軍事基地領土",
@@ -177,25 +212,11 @@
       "published": 1769114192
     },
     {
-      "id": "998e18912283",
-      "title": "歐盟將中企列「高風險」 商務部強硬回應：堅決反對歧視行為",
-      "url": "https://www.singtaousa.com/2026/01/22/news/china/eu-labels-chinese-firms-high-risk/",
-      "source": "singtaousa.com",
-      "published": 1769114089
-    },
-    {
       "id": "286860808bf4",
       "title": "特朗普达沃斯讲演对瑞士前任女总统不敬 令该国舆论不满",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260122-%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E8%AE%B2%E6%BC%94%E5%98%B2%E8%AE%BD%E7%91%9E%E5%A3%AB%E5%89%8D%E4%BB%BB%E5%A5%B3%E6%80%BB%E7%BB%9F-%E4%BB%A4%E8%AF%A5%E5%9B%BD%E8%88%86%E8%AE%BA%E4%B8%8D%E6%BB%A1",
       "source": "rfi.fr",
       "published": 1769113228
-    },
-    {
-      "id": "18922866d877",
-      "title": "32歲IT男周末返工途中猝死 搶救時還被拉入工作群組",
-      "url": "https://www.singtaousa.com/2026/01/22/news/china/it-worker-collapses-during-weekend-commute/",
-      "source": "singtaousa.com",
-      "published": 1769112286
     },
     {
       "id": "bb8255d19df9",
@@ -287,27 +308,6 @@
       "url": "https://money.udn.com/money/story/5599/9283416",
       "source": "money.udn.com",
       "published": 1769103367
-    },
-    {
-      "id": "0abae0f80e39",
-      "title": "川普談格陵蘭協議：美不需支付費用、協商全面進入權",
-      "url": "https://money.udn.com/money/story/5599/9283409",
-      "source": "money.udn.com",
-      "published": 1769102575
-    },
-    {
-      "id": "2a1a41b9bd54",
-      "title": "川普取消「格陵蘭關稅」 強硬態度大轉彎 宣布與北約達成協議框架",
-      "url": "https://money.udn.com/money/story/5599/9283243",
-      "source": "money.udn.com",
-      "published": 1769102071
-    },
-    {
-      "id": "7a7e0cb3629e",
-      "title": "川普取消格陵蘭關稅 分析師：小心TACO失靈",
-      "url": "https://money.udn.com/money/story/5599/9283244",
-      "source": "money.udn.com",
-      "published": 1769102022
     },
     {
       "id": "c9047b904c8a",
@@ -1367,5 +1367,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769121885
+  "build_id": 1769123487
 }
