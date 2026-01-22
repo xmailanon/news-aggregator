@@ -1,10 +1,31 @@
 {
-  "updated": 1769108143,
+  "updated": 1769109450,
   "items": [
     {
-      "id": "b336ab443c36",
+      "id": "3613d2407528",
+      "title": "阿聯將舉辦烏俄美三方會談　聚焦烏克蘭戰事",
+      "url": "https://money.udn.com/money/story/5599/9283432",
+      "source": "money.udn.com",
+      "published": 1769108847
+    },
+    {
+      "id": "256cdce0ffe1",
+      "title": "美國遭遇巨型冬季風暴　德州至波士頓恐現癱瘓性雪冰災",
+      "url": "https://www.singtaousa.com/2026/01/22/news/usa/news-us-winter-storm-crippling-snow-ice/",
+      "source": "singtaousa.com",
+      "published": 1769108763
+    },
+    {
+      "id": "a590d667cfc0",
+      "title": "尖沙咀酒店悲劇！老夫婦一死一昏迷 妻涉謀殺被捕 現場檢遺書揭長期病困擾",
+      "url": "https://www.singtaousa.com/2026/01/22/news/china/tsim-sha-tsui-hotel-murder-suicide-attempt/",
+      "source": "singtaousa.com",
+      "published": 1769108686
+    },
+    {
+      "id": "8365b6e6bcb4",
       "title": "特朗普稱達成格陵蘭「全面准入」協議 北約要求盟友加強防務",
-      "url": "https://www.singtaousa.com/2026/01/22/news/usa/world-greenland-nato-deal/",
+      "url": "https://www.singtaousa.com/2026/01/22/news/world/world-greenland-nato-deal/",
       "source": "singtaousa.com",
       "published": 1769108384
     },
@@ -72,25 +93,11 @@
       "published": 1769105195
     },
     {
-      "id": "e91189e8daed",
-      "title": "【獨家踢爆】AI炒金騙局吸血逾百人 三董事被捕 證監會點名警告",
-      "url": "https://www.singtaousa.com/2026/01/22/news/china/ai-gold-trading-scam-arrests/",
-      "source": "singtaousa.com",
-      "published": 1769105086
-    },
-    {
-      "id": "c1145a6fde1c",
+      "id": "9b1940fa8712",
       "title": "美國11月PCE年增2.8%　高於聯準會目標考驗降息決策",
-      "url": "https://money.udn.com/money/story/10511/9283420",
+      "url": "https://money.udn.com/money/story/5599/9283420",
       "source": "money.udn.com",
       "published": 1769104468
-    },
-    {
-      "id": "2aeb5241e77f",
-      "title": "明州5歲男孩回家途中被ICE拘留   學校官員稱該男孩是被用作「誘餌」",
-      "url": "https://www.singtaousa.com/2026/01/22/news/usa/news-ice-minnesota-students-detention/",
-      "source": "singtaousa.com",
-      "published": 1769104210
     },
     {
       "id": "2356a04f3ab4",
@@ -149,16 +156,16 @@
       "published": 1769103493
     },
     {
-      "id": "36af95d86d1a",
+      "id": "ce4811b580a6",
       "title": "川普撤回關稅威脅　歐股收高",
-      "url": "https://money.udn.com/money/story/10511/9283416",
+      "url": "https://money.udn.com/money/story/5599/9283416",
       "source": "money.udn.com",
       "published": 1769103367
     },
     {
-      "id": "1279de9e63ca",
+      "id": "0abae0f80e39",
       "title": "川普談格陵蘭協議：美不需支付費用、協商全面進入權",
-      "url": "https://money.udn.com/money/story/10511/9283409",
+      "url": "https://money.udn.com/money/story/5599/9283409",
       "source": "money.udn.com",
       "published": 1769102575
     },
@@ -231,13 +238,6 @@
       "url": "https://money.udn.com/money/story/123398/9283313",
       "source": "money.udn.com",
       "published": 1769096270
-    },
-    {
-      "id": "09bb0de8ab03",
-      "title": "勇敢vs.癲狂... 克魯曼評卡尼與川普的達沃斯演說",
-      "url": "https://money.udn.com/money/story/5599/9283309",
-      "source": "money.udn.com",
-      "published": 1769096267
     },
     {
       "id": "81db68210703",
@@ -1367,5 +1367,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769108143
+  "build_id": 1769109450
 }
