@@ -1,6 +1,27 @@
 {
-  "updated": 1769112843,
+  "updated": 1769114804,
   "items": [
+    {
+      "id": "669335d2135e",
+      "title": "美國允許中國進口委內瑞拉石油　但不得壓低價格",
+      "url": "https://money.udn.com/money/story/5599/9283446",
+      "source": "money.udn.com",
+      "published": 1769114192
+    },
+    {
+      "id": "998e18912283",
+      "title": "歐盟將中企列「高風險」 商務部強硬回應：堅決反對歧視行為",
+      "url": "https://www.singtaousa.com/2026/01/22/news/china/eu-labels-chinese-firms-high-risk/",
+      "source": "singtaousa.com",
+      "published": 1769114089
+    },
+    {
+      "id": "286860808bf4",
+      "title": "特朗普达沃斯讲演对瑞士前任女总统不敬 令该国舆论不满",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260122-%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E8%AE%B2%E6%BC%94%E5%98%B2%E8%AE%BD%E7%91%9E%E5%A3%AB%E5%89%8D%E4%BB%BB%E5%A5%B3%E6%80%BB%E7%BB%9F-%E4%BB%A4%E8%AF%A5%E5%9B%BD%E8%88%86%E8%AE%BA%E4%B8%8D%E6%BB%A1",
+      "source": "rfi.fr",
+      "published": 1769113228
+    },
     {
       "id": "18922866d877",
       "title": "32歲IT男周末返工途中猝死 搶救時竟被拉入工作群組",
@@ -98,13 +119,6 @@
       "url": "https://www.singtaousa.com/2026/01/22/news/china/elderly-couple-hotel-room-murder-case/",
       "source": "singtaousa.com",
       "published": 1769106890
-    },
-    {
-      "id": "58ae14d5da83",
-      "title": "美移民設施命案｜古巴移民遭壓頸窒息亡 驗屍報告裁定他殺",
-      "url": "https://www.singtaousa.com/2026/01/22/news/usa/autopsy-finds-cuban-immigrant-in-ice-custody-died-of-homicide-due-to-asphyxia/",
-      "source": "singtaousa.com",
-      "published": 1769106600
     },
     {
       "id": "9b1940fa8712",
@@ -245,13 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9283129",
       "source": "money.udn.com",
       "published": 1769097654
-    },
-    {
-      "id": "4ff9abf20387",
-      "title": "川普撤回歐洲8國關稅威脅　華爾街股市早盤走揚",
-      "url": "https://money.udn.com/money/story/123398/9283313",
-      "source": "money.udn.com",
-      "published": 1769096270
     },
     {
       "id": "81db68210703",
@@ -658,13 +665,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260121-%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B-%E6%88%91%E4%B8%8D%E9%9C%80%E8%A6%81%E5%8A%A8%E7%94%A8%E6%AD%A6%E5%8A%9B%EF%BC%8C%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%8A%A8%E7%94%A8%E6%AD%A6%E5%8A%9B",
       "source": "rfi.fr",
       "published": 1769008195
-    },
-    {
-      "id": "f3c6c3398a15",
-      "title": "台湾人口负成长连续23个月且生育率位居全球第三低 台湾政府如何迎战人口负成长时代？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20260121-%E5%8F%B0%E6%B9%BE%E4%BA%BA%E5%8F%A3%E8%B4%9F%E6%88%90%E9%95%BF%E8%BF%9E%E7%BB%AD23%E4%B8%AA%E6%9C%88%E4%B8%94%E7%94%9F%E8%82%B2%E7%8E%87%E4%BD%8D%E5%B1%85%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%89%E4%BD%8E-%E5%8F%B0%E6%B9%BE%E6%94%BF%E5%BA%9C%E5%A6%82%E4%BD%95%E8%BF%8E%E6%88%98%E4%BA%BA%E5%8F%A3%E8%B4%9F%E6%88%90%E9%95%BF%E6%97%B6%E4%BB%A3",
-      "source": "rfi.fr",
-      "published": 1769007182
     },
     {
       "id": "a90ceb9c4e1d",
@@ -1367,5 +1367,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769112843
+  "build_id": 1769114804
 }
