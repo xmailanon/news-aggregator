@@ -1,6 +1,48 @@
 {
-  "updated": 1769166729,
+  "updated": 1769168400,
   "items": [
+    {
+      "id": "6a8b2b6ebde4",
+      "title": "挪威 Skagen AS 旗下基金押注記憶晶片 由阿里巴巴轉向三星電子",
+      "url": "https://money.udn.com/money/story/5599/9284055",
+      "source": "money.udn.com",
+      "published": 1769168372
+    },
+    {
+      "id": "bbfdfc79c4df",
+      "title": "日本公債殖利率曲線趨平 市場對日本央行的升息預期升溫",
+      "url": "https://money.udn.com/money/story/5599/9284543",
+      "source": "money.udn.com",
+      "published": 1769167591
+    },
+    {
+      "id": "0cb4fc01bcfb",
+      "title": "日本央行維持利率不變 密切關注近期升息行動影響",
+      "url": "https://money.udn.com/money/story/5599/9284054",
+      "source": "money.udn.com",
+      "published": 1769167460
+    },
+    {
+      "id": "350fd98f0a12",
+      "title": "韓調查酷澎個資外洩　美股東控李在明親中尋求美介入",
+      "url": "https://money.udn.com/money/story/5599/9285097",
+      "source": "money.udn.com",
+      "published": 1769167306
+    },
+    {
+      "id": "655759894246",
+      "title": "眾院選舉大阪成敏感區　高市擬不替自民候選人助選",
+      "url": "https://money.udn.com/money/story/5599/9285084",
+      "source": "money.udn.com",
+      "published": 1769166811
+    },
+    {
+      "id": "7f4e9b42344c",
+      "title": "长平观察：“结束一党专政”并非罪行，一党专政才是",
+      "url": "https://www.dw.com/zh/长平观察：-结束一党专政-并非罪行，一党专政才是/a-75618985?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1769166060
+    },
     {
       "id": "6c32643820ee",
       "title": "最新調查：AI 採用率大增 但使用信心下滑 「這個族群」焦慮最深",
@@ -168,41 +210,6 @@
       "url": "https://money.udn.com/money/story/5599/9284845",
       "source": "money.udn.com",
       "published": 1769158844
-    },
-    {
-      "id": "e77c00447740",
-      "title": "歐盟暫停關稅優惠　印度銷歐盟87%產品受影響",
-      "url": "https://money.udn.com/money/story/5599/9284844",
-      "source": "money.udn.com",
-      "published": 1769158844
-    },
-    {
-      "id": "5d40bf6e94c3",
-      "title": "克宮：美烏俄官員赴阿聯舉行安全會談",
-      "url": "https://money.udn.com/money/story/5599/9284843",
-      "source": "money.udn.com",
-      "published": 1769158844
-    },
-    {
-      "id": "5337fa91fc76",
-      "title": "渣打銀調升黃金目標價至5350美元　評估AI泡沫未成形",
-      "url": "https://money.udn.com/money/story/5599/9284802",
-      "source": "money.udn.com",
-      "published": 1769157928
-    },
-    {
-      "id": "f4b3a5b59285",
-      "title": "曼谷PM2.5超標主因農地焚燒　跨府協調科技抗空污",
-      "url": "https://money.udn.com/money/story/5599/9284801",
-      "source": "money.udn.com",
-      "published": 1769157915
-    },
-    {
-      "id": "7f6dc3c33b34",
-      "title": "泰國 IPO 持續低迷 企業轉赴他國掛牌",
-      "url": "https://money.udn.com/money/story/122381/9273396",
-      "source": "money.udn.com",
-      "published": 1769157851
     },
     {
       "id": "d7eaa0f930d2",
@@ -1073,13 +1080,6 @@
       "published": 1768767049
     },
     {
-      "id": "945ebe2b027b",
-      "title": "墙外文摘：小心中国在金马绑架台湾领导人",
-      "url": "https://www.dw.com/zh/墙外文摘：小心中国在金马绑架台湾领导人/a-75552404?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1768737960
-    },
-    {
       "id": "afba2ef77241",
       "title": "报告：爆款玩具拉布布工厂存在突出劳动问题",
       "url": "https://www.dw.com/zh/报告：爆款玩具拉布布工厂存在突出劳动问题/a-75540654?maca=chi-rss-chi-news-3224-rdf",
@@ -1381,5 +1381,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769166729
+  "build_id": 1769168400
 }
