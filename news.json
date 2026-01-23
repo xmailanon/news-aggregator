@@ -1,6 +1,34 @@
 {
-  "updated": 1769190226,
+  "updated": 1769192263,
   "items": [
+    {
+      "id": "c70c41d8a59f",
+      "title": "《罪人們》獲16提名  刷新奧斯卡紀錄",
+      "url": "https://www.singtaousa.com/2026/01/23/entertainment/sinners-sets-oscar-record/",
+      "source": "singtaousa.com",
+      "published": 1769192285
+    },
+    {
+      "id": "cc394e978ca0",
+      "title": "明州反ICE示威升級 逾700商戶關門響應「經濟封鎖」",
+      "url": "https://www.singtaousa.com/2026/01/23/news/usa/minnesota-gears-up-for-a-mass-anti-immigration-enforcement-protest-despite-the-dangerous-cold/",
+      "source": "singtaousa.com",
+      "published": 1769191613
+    },
+    {
+      "id": "c1b5974a6777",
+      "title": "深水埗冚釣魚機賭檔 8人落網 越南籍男主持被捕",
+      "url": "https://www.singtaousa.com/2026/01/23/news/china/fish-machine-gambling-den-raided-arrests/",
+      "source": "singtaousa.com",
+      "published": 1769191489
+    },
+    {
+      "id": "05e2d4244cee",
+      "title": "屋企垃圾不用自己清？ JUNK KING 一手搞掂",
+      "url": "https://www.singtaousa.com/2026/01/23/lifestyle/dont-you-have-to-clean-up-the-garbage-from-your-house-yourself-junk-king-handles-it-all/",
+      "source": "singtaousa.com",
+      "published": 1769190918
+    },
     {
       "id": "34c6292f5a8f",
       "title": "白宮被揭P圖醜聞 示威女子被捕照遭惡意改成「哭臉」",
@@ -233,13 +261,6 @@
       "published": 1769180880
     },
     {
-      "id": "0d96c6cd70d0",
-      "title": "台北捷運即日起禁乘客使用外置充電器",
-      "url": "https://www.singtaousa.com/2026/01/23/news/china/taipei-mrt-bans-passengers-from-using-external-chargers-from-now-on/",
-      "source": "singtaousa.com",
-      "published": 1769179115
-    },
-    {
       "id": "148a8da92280",
       "title": "搶攻農曆年觀光　新加坡景點攜手潮牌、巨幅昆蟲展",
       "url": "https://money.udn.com/money/story/5599/9285330",
@@ -275,13 +296,6 @@
       "published": 1769178187
     },
     {
-      "id": "9e1d42358ce2",
-      "title": "美國公布加沙重建計劃　興建180幢摩天大樓及旅遊區",
-      "url": "https://www.singtaousa.com/2026/01/23/news/usa/the-united-states-unveils-gaza-reconstruction-plan-to-build-180-skyscrapers-and-tourist-areas/",
-      "source": "singtaousa.com",
-      "published": 1769177834
-    },
-    {
       "id": "20533b232244",
       "title": "特朗普：今年四月访华 习近平年底访美",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260123-%E7%89%B9%E6%9C%97%E6%99%AE-%E4%BB%8A%E5%B9%B4%E5%9B%9B%E6%9C%88%E8%AE%BF%E5%8D%8E-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B9%B4%E5%BA%95%E8%AE%BF%E7%BE%8E",
@@ -294,20 +308,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20260123-bbnj%E8%83%BD%E5%90%A6%E6%89%93%E7%A0%B4%E5%9B%A0%E4%B8%AD%E4%BF%84%E5%8F%8D%E5%AF%B9%E8%80%8C%E6%97%A0%E6%B3%95%E8%AE%BE%E7%AB%8B%E5%8D%97%E6%9E%81%E8%87%AA%E7%84%B6%E4%BF%9D%E6%8A%A4%E5%8C%BA%E7%9A%84%E5%83%B5%E5%B1%80",
       "source": "rfi.fr",
       "published": 1769176825
-    },
-    {
-      "id": "d7045603c706",
-      "title": "蘋果釋CEO接班人信號",
-      "url": "https://www.singtaousa.com/2026/01/23/news/usa/apple-ceo-succession-signal/",
-      "source": "singtaousa.com",
-      "published": 1769176800
-    },
-    {
-      "id": "84be4be9572c",
-      "title": "亞馬遜傳第二輪裁員恐影響逾萬人",
-      "url": "https://www.singtaousa.com/2026/01/23/news/usa/amazon-second-layoff-over-10000/",
-      "source": "singtaousa.com",
-      "published": 1769176800
     },
     {
       "id": "b668a3cfd455",
@@ -1367,5 +1367,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769190226
+  "build_id": 1769192263
 }
