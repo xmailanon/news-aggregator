@@ -1,19 +1,26 @@
 {
-  "updated": 1769165268,
+  "updated": 1769166729,
   "items": [
+    {
+      "id": "6c32643820ee",
+      "title": "最新調查：AI 採用率大增 但使用信心下滑 「這個族群」焦慮最深",
+      "url": "https://money.udn.com/money/story/5599/9285044",
+      "source": "money.udn.com",
+      "published": 1769165514
+    },
+    {
+      "id": "afb5321dd3a3",
+      "title": "大陸便宜鋼材湧入 日本去年鋼材產量降至56年最低",
+      "url": "https://money.udn.com/money/story/5599/9285042",
+      "source": "money.udn.com",
+      "published": 1769165459
+    },
     {
       "id": "ebd2fae4741d",
       "title": "美參議員、前太空人凱利考慮選總統　槓戰爭部聲名大噪",
       "url": "https://money.udn.com/money/story/10511/9285035",
       "source": "money.udn.com",
       "published": 1769165113
-    },
-    {
-      "id": "bc2ddf8b051a",
-      "title": "捷克逮中國間諜記者　官員：未接獲此案與蕭美琴有關",
-      "url": "https://money.udn.com/money/story/5599/9285037",
-      "source": "money.udn.com",
-      "published": 1769165111
     },
     {
       "id": "f44cafdd996e",
@@ -196,13 +203,6 @@
       "url": "https://money.udn.com/money/story/122381/9273396",
       "source": "money.udn.com",
       "published": 1769157851
-    },
-    {
-      "id": "f5330ef8daf7",
-      "title": "加拿大能源業重鎮鋪路建資料中心園區",
-      "url": "https://money.udn.com/money/story/122381/9273398",
-      "source": "money.udn.com",
-      "published": 1769157823
     },
     {
       "id": "d7eaa0f930d2",
@@ -1381,5 +1381,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769165268
+  "build_id": 1769166729
 }
