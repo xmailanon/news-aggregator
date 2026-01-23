@@ -1,6 +1,34 @@
 {
-  "updated": 1769202666,
+  "updated": 1769204376,
   "items": [
+    {
+      "id": "93febe21dc7e",
+      "title": "法德等七国民调：特朗普被视为“欧洲之敌”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260123-%E6%B3%95%E5%BE%B7%E7%AD%89%E4%B8%83%E5%9B%BD%E6%B0%91%E8%B0%83-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E8%A7%86%E4%B8%BA-%E6%AC%A7%E6%B4%B2%E4%B9%8B%E6%95%8C",
+      "source": "rfi.fr",
+      "published": 1769204231
+    },
+    {
+      "id": "43e02dc0a3c9",
+      "title": "【網戀陷阱】為愛瘋狂！四川男貸款6萬挖空書本藏現金寄「女友」 警方及時攔截",
+      "url": "https://www.singtaousa.com/2026/01/23/news/china/online-dating-scam-loan-cash-books/",
+      "source": "singtaousa.com",
+      "published": 1769204088
+    },
+    {
+      "id": "4e8b94b61cc9",
+      "title": "明尼蘇達州爆發反ICE浪潮 商家集體罷市抗議聯邦執法",
+      "url": "https://www.singtaousa.com/2026/01/23/news/usa/businesses-in-minneapolis-are-planning-to-close-friday-to-protest-ice/",
+      "source": "singtaousa.com",
+      "published": 1769203800
+    },
+    {
+      "id": "e47ef7b3be7b",
+      "title": "美國自由攀岩名將霍諾德挑戰赤手攀台北101　Netflix設10秒延遲防意外",
+      "url": "https://www.singtaousa.com/2026/01/23/news/china/american-free-climbing-star-honnold-challenges-to-climb-taipei-101-with-bare-hands-netflix-sets-a-10-second-delay-to-prevent-accidents/",
+      "source": "singtaousa.com",
+      "published": 1769202881
+    },
     {
       "id": "3741c999a92d",
       "title": "NVIDIA黃仁勳2026年首度訪華 內部對話聚焦新晶片 卻避談H200",
@@ -70,27 +98,6 @@
       "url": "https://www.singtaousa.com/2026/01/23/news/usa/5-arrested-in-connection-with-shooting-of-indiana-judge-and-his-wife/",
       "source": "singtaousa.com",
       "published": 1769198274
-    },
-    {
-      "id": "b7e2c11d8b8c",
-      "title": "頑童變身「牛魔王」！密碼鎖卡鼻動彈不得 消防員神救援後靈魂拷問",
-      "url": "https://www.singtaousa.com/2026/01/23/news/china/child-locked-nose-firefighters-rescue/",
-      "source": "singtaousa.com",
-      "published": 1769196889
-    },
-    {
-      "id": "e33e93a1d017",
-      "title": "男子成功將薯仔註冊為槍械消音器 序號TATE001抗議槍管法",
-      "url": "https://www.singtaousa.com/2026/01/23/news/usa/man-successfully-registers-potato-as-silencer/",
-      "source": "singtaousa.com",
-      "published": 1769196600
-    },
-    {
-      "id": "3dc054be036d",
-      "title": "【有片直擊】荃灣街頭全武行！兩批工人泊車爭執爆混戰 警拘4男",
-      "url": "https://www.singtaousa.com/2026/01/23/news/china/street-brawl-workers-parking-dispute/",
-      "source": "singtaousa.com",
-      "published": 1769195086
     },
     {
       "id": "2988c52a3ce9",
@@ -511,13 +518,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260122-%E4%BD%8E%E6%B0%91%E8%B0%83%E4%BB%A4%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%81%E5%88%86%E6%81%BC%E7%81%AB",
       "source": "rfi.fr",
       "published": 1769116589
-    },
-    {
-      "id": "38b1d1b58895",
-      "title": "法海军截获另一艘来自俄油轮",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260122-%E6%B3%95%E6%B5%B7%E5%86%9B%E6%88%AA%E8%8E%B7%E5%8F%A6%E4%B8%80%E8%89%98%E6%9D%A5%E8%87%AA%E4%BF%84%E6%B2%B9%E8%BD%AE",
-      "source": "rfi.fr",
-      "published": 1769116338
     },
     {
       "id": "3523cb2fd57d",
@@ -1367,5 +1367,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769202666
+  "build_id": 1769204376
 }
