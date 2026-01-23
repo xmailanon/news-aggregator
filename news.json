@@ -1,6 +1,13 @@
 {
-  "updated": 1769161721,
+  "updated": 1769163228,
   "items": [
+    {
+      "id": "5ca4f9d80473",
+      "title": "日眾院選戰開打  「萬歲三唱」聲中高市矢志贏回國會",
+      "url": "https://money.udn.com/money/story/5599/9284954",
+      "source": "money.udn.com",
+      "published": 1769162069
+    },
     {
       "id": "65da07939eb7",
       "title": "日本解散众议院举行大选",
@@ -168,13 +175,6 @@
       "url": "https://money.udn.com/money/story/122381/9273405",
       "source": "money.udn.com",
       "published": 1769157706
-    },
-    {
-      "id": "0c31bd61247e",
-      "title": "紐約市政府徵才 年輕人搶破頭",
-      "url": "https://money.udn.com/money/story/122381/9273529",
-      "source": "money.udn.com",
-      "published": 1769157703
     },
     {
       "id": "4b42133f81ba",
@@ -457,6 +457,20 @@
       "published": 1769098050
     },
     {
+      "id": "c0cfd146bec6",
+      "title": "特朗普版TikTok协议落槌：组建美资控股实体，字节跳动保留核心业务",
+      "url": "https://www.ftchinese.com/story/001108788",
+      "source": "ftchinese.com",
+      "published": 1769097600
+    },
+    {
+      "id": "f3542efc2168",
+      "title": "“唐罗主义”不是“门罗主义”的简单升级",
+      "url": "https://www.ftchinese.com/story/001108783",
+      "source": "ftchinese.com",
+      "published": 1769097600
+    },
+    {
       "id": "7b6f312a9687",
       "title": "特朗普的TikTok协议为中国送上大礼",
       "url": "https://www.ftchinese.com/story/001108787",
@@ -481,13 +495,6 @@
       "id": "b0f346436213",
       "title": "2026年中国货币政策组合拳与楼市价值再发现",
       "url": "https://www.ftchinese.com/story/001108784",
-      "source": "ftchinese.com",
-      "published": 1769097600
-    },
-    {
-      "id": "f3542efc2168",
-      "title": "“唐罗主义”不是“门罗主义”的简单升级",
-      "url": "https://www.ftchinese.com/story/001108783",
       "source": "ftchinese.com",
       "published": 1769097600
     },
@@ -803,13 +810,6 @@
       "id": "92b13ed2fda6",
       "title": "内塔尼亚胡拟加入特朗普“和平委员会”",
       "url": "https://www.ftchinese.com/story/001108774",
-      "source": "ftchinese.com",
-      "published": 1769011200
-    },
-    {
-      "id": "e5e128472f5e",
-      "title": "斯塔默：英国在格陵兰问题上“不会退让”",
-      "url": "https://www.ftchinese.com/story/001108773",
       "source": "ftchinese.com",
       "published": 1769011200
     },
@@ -1381,5 +1381,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769161721
+  "build_id": 1769163228
 }
