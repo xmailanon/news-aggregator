@@ -1,6 +1,27 @@
 {
-  "updated": 1769209905,
+  "updated": 1769211575,
   "items": [
+    {
+      "id": "8520b193598f",
+      "title": "英格蘭海灘變「黃金海岸」？貨輪洩漏萬袋薯條洋蔥",
+      "url": "https://www.singtaousa.com/2026/01/23/news/world/english-beach-covered-in-french-fries-and-onions-after-cargo-ship-spill-cnn-2/",
+      "source": "singtaousa.com",
+      "published": 1769211000
+    },
+    {
+      "id": "cef183396ac7",
+      "title": "F1開跑倒數 各隊跑車陸續揭幕",
+      "url": "https://www.singtaousa.com/2026/01/23/news/usa/major-changes-inside-and-outside-f1-in-the-new-season/",
+      "source": "singtaousa.com",
+      "published": 1769210766
+    },
+    {
+      "id": "870563871bc1",
+      "title": "德国与意大利加强经济和军事合作",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260123-%E5%BE%B7%E5%9B%BD%E4%B8%8E%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8A%A0%E5%BC%BA%E7%BB%8F%E6%B5%8E%E5%92%8C%E5%86%9B%E4%BA%8B%E5%90%88%E4%BD%9C",
+      "source": "rfi.fr",
+      "published": 1769209907
+    },
     {
       "id": "7abee2e02826",
       "title": "Snapchat懸賞萬金殺高官？芝加哥男子獲判無罪 司法部再受挫",
@@ -140,20 +161,6 @@
       "url": "https://www.singtaousa.com/2026/01/23/news/china/nvidia-ceo-jensen-huang-china-visit-2026/",
       "source": "singtaousa.com",
       "published": 1769202352
-    },
-    {
-      "id": "9098649e3578",
-      "title": "反制俄國假資訊 美國退群後德意高調接手",
-      "url": "https://www.singtaousa.com/2026/01/23/news/world/merz-meloni-rally-behind-disinfo-center-that-trump-thinks-is-wasteful/",
-      "source": "singtaousa.com",
-      "published": 1769202000
-    },
-    {
-      "id": "6c717913b966",
-      "title": "談胡瓜與民視糾紛 徐乃麟讚「很有智慧」",
-      "url": "https://www.singtaousa.com/2026/01/23/entertainment/jacky-wu-ftv-dispute-wisdom/",
-      "source": "singtaousa.com",
-      "published": 1769202000
     },
     {
       "id": "68789372fde5",
@@ -532,13 +539,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260122-%E5%8F%B2%E5%AF%86%E6%96%AF%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E4%BD%9C%E8%AF%81%E6%8D%8D%E5%8D%AB%E8%B0%83%E6%9F%A5%E6%AD%A3%E5%BD%93%E6%80%A7-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%87%BB%E6%96%A5%E6%94%BF%E6%B2%BB%E8%BF%AB%E5%AE%B3",
       "source": "rfi.fr",
       "published": 1769115819
-    },
-    {
-      "id": "286860808bf4",
-      "title": "特朗普达沃斯讲演对瑞士前任女总统不敬 令该国舆论不满",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260122-%E7%89%B9%E6%9C%97%E6%99%AE%E8%BE%BE%E6%B2%83%E6%96%AF%E8%AE%B2%E6%BC%94%E5%98%B2%E8%AE%BD%E7%91%9E%E5%A3%AB%E5%89%8D%E4%BB%BB%E5%A5%B3%E6%80%BB%E7%BB%9F-%E4%BB%A4%E8%AF%A5%E5%9B%BD%E8%88%86%E8%AE%BA%E4%B8%8D%E6%BB%A1",
-      "source": "rfi.fr",
-      "published": 1769113228
     },
     {
       "id": "4ed1890acc98",
@@ -1367,5 +1367,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769209905
+  "build_id": 1769211575
 }
