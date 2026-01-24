@@ -1,6 +1,34 @@
 {
-  "updated": 1769230297,
+  "updated": 1769231593,
   "items": [
+    {
+      "id": "4f5b6a220955",
+      "title": "賭盤顯示李德接任Fed主席的勝率領先",
+      "url": "https://money.udn.com/money/story/5599/9286170",
+      "source": "money.udn.com",
+      "published": 1769231172
+    },
+    {
+      "id": "e4ad6ba2c67a",
+      "title": "美疫苗主席倡議廢除強制接種 小兒麻痺、麻疹恐再爆發？",
+      "url": "https://www.singtaousa.com/2026/01/23/news/usa/vaccine-panel-chair-says-polio-and-other-shots-should-be-optional-rejecting-decades-of-science/",
+      "source": "singtaousa.com",
+      "published": 1769230800
+    },
+    {
+      "id": "743d50a8cb90",
+      "title": "Disney+晒冷韓節目 朱智勳李世榮玩曖昧",
+      "url": "https://www.singtaousa.com/2026/01/23/entertainment/disney-plus-korean-shows-romance/",
+      "source": "singtaousa.com",
+      "published": 1769230800
+    },
+    {
+      "id": "62024650623e",
+      "title": "日本最強寒流來襲  北海道-28.1度創入冬新低",
+      "url": "https://money.udn.com/money/story/5599/9286153",
+      "source": "money.udn.com",
+      "published": 1769230467
+    },
     {
       "id": "09a1c7a34f16",
       "title": "貝克漢一家公開決裂 DJ還原婚禮「尷尬」母子共舞現場",
@@ -156,13 +184,6 @@
       "published": 1769218249
     },
     {
-      "id": "83f1f39dbac1",
-      "title": "德州黑人被處決70年後獲平反 屈打成招釀司法悲劇",
-      "url": "https://www.singtaousa.com/2026/01/23/news/usa/tommy-lee-walker-exonerated-70-years-after-execution-for-rape-and-murder-of-venice-parker/",
-      "source": "singtaousa.com",
-      "published": 1769218200
-    },
-    {
       "id": "557a9c482e71",
       "title": "維爾紐斯燈光節照亮寒冬　老城區化身當代藝術舞台",
       "url": "https://money.udn.com/money/story/5599/9285778",
@@ -191,13 +212,6 @@
       "published": 1769216422
     },
     {
-      "id": "6f4a3a985b18",
-      "title": "AI歌手騙倒270萬粉絲！西娜羅斯爆紅後揭驚人真相",
-      "url": "https://www.singtaousa.com/2026/01/23/news/world/a-breakout-pop-artist-went-viral-with-2-7-million-fans-before-anyone-realized-she-never-actually-existed/",
-      "source": "singtaousa.com",
-      "published": 1769216400
-    },
-    {
       "id": "9ed50a183b20",
       "title": "白宮吹捧過頭 川普牽企鵝漫步格陵蘭合成圖鬧大笑話",
       "url": "https://money.udn.com/money/story/5599/9285755",
@@ -212,25 +226,11 @@
       "published": 1769215870
     },
     {
-      "id": "9562907a18d1",
-      "title": "黎智英女兒黎采：擔憂父親健康　信仰帶來力量",
-      "url": "https://money.udn.com/money/story/5599/9285734",
-      "source": "money.udn.com",
-      "published": 1769214172
-    },
-    {
       "id": "30e10fd6d425",
       "title": "中国：一个巨大的婴幼儿奶粉污染丑闻正在孕育",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260124-%E4%B8%AD%E5%9B%BD-%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E5%A9%B4%E5%B9%BC%E5%84%BF%E5%A5%B6%E7%B2%89%E6%B1%A1%E6%9F%93%E4%B8%91%E9%97%BB%E6%AD%A3%E5%9C%A8%E5%AD%95%E8%82%B2",
       "source": "rfi.fr",
       "published": 1769213757
-    },
-    {
-      "id": "e8c27d0caddf",
-      "title": "還記恨卡尼？川普嗆中國將「吃掉」加拿大 貝森特拋亞伯達獨立",
-      "url": "https://money.udn.com/money/story/5599/9285725",
-      "source": "money.udn.com",
-      "published": 1769213358
     },
     {
       "id": "b41edc1a5987",
@@ -1367,5 +1367,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769230297
+  "build_id": 1769231593
 }
