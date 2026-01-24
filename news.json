@@ -1,6 +1,34 @@
 {
-  "updated": 1769240251,
+  "updated": 1769242446,
   "items": [
+    {
+      "id": "6a93dfca8362",
+      "title": "京大畢業「美女刺客」出擊　挑戰日眾院選舉引熱議",
+      "url": "https://money.udn.com/money/story/5599/9286404",
+      "source": "money.udn.com",
+      "published": 1769242348
+    },
+    {
+      "id": "46b7f6276e67",
+      "title": "天雨攪局！攀岩傳奇Alex Honnold徒手登台北101挑戰延期",
+      "url": "https://www.singtaousa.com/2026/01/24/news/china/alex-honnold-taipei-101-climb-delayed/",
+      "source": "singtaousa.com",
+      "published": 1769241911
+    },
+    {
+      "id": "651c7a791e99",
+      "title": "中国官宣：张又侠、刘振立因涉严重违纪违法被立案审查",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260124-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AE%A3-%E5%BC%A0%E5%8F%88%E4%BE%A0-%E5%88%98%E6%8C%AF%E7%AB%8B%E5%9B%A0%E6%B6%89%E4%B8%A5%E9%87%8D%E8%BF%9D%E7%BA%AA%E8%BF%9D%E6%B3%95%E8%A2%AB%E7%AB%8B%E6%A1%88%E5%AE%A1%E6%9F%A5",
+      "source": "rfi.fr",
+      "published": 1769241840
+    },
+    {
+      "id": "be5c6f190af5",
+      "title": "印尼西爪哇省豪雨引發山崩　至少7死83失蹤",
+      "url": "https://money.udn.com/money/story/5599/9286385",
+      "source": "money.udn.com",
+      "published": 1769241646
+    },
     {
       "id": "d1258cd29259",
       "title": "李亞鵬直播帶貨一晚銷售額或達1億！鞠躬感謝網民助嫣然醫院渡難關",
@@ -142,13 +170,6 @@
       "published": 1769230329
     },
     {
-      "id": "1411809c1463",
-      "title": "粵語特朗普聲稱自己最愛和平，如何用「和平」作為新帝國的招牌？｜從格陵蘭的「一塊冰」到十億美元的「和平委員會」，誰有資格定義和平主義？",
-      "url": "https://www.singtaousa.com/2026/01/23/opinion/how-to-brand-a-new-empire-under-the-banner-of-peace/",
-      "source": "singtaousa.com",
-      "published": 1769230233
-    },
-    {
       "id": "373a1da21b7a",
       "title": "強權競逐太空作戰　美國定2026為關鍵準備年",
       "url": "https://money.udn.com/money/story/5599/9286127",
@@ -210,20 +231,6 @@
       "url": "https://money.udn.com/money/story/5599/9285871",
       "source": "money.udn.com",
       "published": 1769221836
-    },
-    {
-      "id": "d3e43ac7f11e",
-      "title": "川普稱北約盟軍避開前線　英首相與哈利王子譴責",
-      "url": "https://money.udn.com/money/story/10511/9285786",
-      "source": "money.udn.com",
-      "published": 1769218250
-    },
-    {
-      "id": "624bd7757283",
-      "title": "韓國國務總理訪美　范斯盼酷澎爭議妥善解決",
-      "url": "https://money.udn.com/money/story/10511/9285787",
-      "source": "money.udn.com",
-      "published": 1769218249
     },
     {
       "id": "30e10fd6d425",
@@ -532,13 +539,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c99kkx1p37go/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1769127739
-    },
-    {
-      "id": "a980839b3dc7",
-      "title": "特朗普抛弃美国价值观，中国乐见其成！",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260123-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%9B%E5%BC%83%E7%BE%8E%E5%9B%BD%E4%BB%B7%E5%80%BC%E8%A7%82%EF%BC%8C%E4%B8%AD%E5%9B%BD%E4%B9%90%E8%A7%81%E5%85%B6%E6%88%90",
-      "source": "rfi.fr",
-      "published": 1769126459
     },
     {
       "id": "773a7ab432a4",
@@ -1358,14 +1358,7 @@
       "url": "https://www.bbc.com/zhongwen/articles/cvg1d0d0z0zo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1766738357
-    },
-    {
-      "id": "0ceadc4baf00",
-      "title": "特朗普准軍事行動封鎖委內瑞拉清理拉美後院  是否危及中國石油供應？",
-      "url": "https://www.bbc.com/zhongwen/articles/cy47zx35lx1o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1766648355
     }
   ],
-  "build_id": 1769240251
+  "build_id": 1769242446
 }
