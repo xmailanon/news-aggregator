@@ -1,6 +1,13 @@
 {
-  "updated": 1769288936,
+  "updated": 1769290573,
   "items": [
+    {
+      "id": "80b2e1d56799",
+      "title": "美司法部突削經費 兒童保護網現漏洞 執法人員感心寒",
+      "url": "https://www.singtaousa.com/2026/01/24/news/usa/disheartening-us-justice-department-slashes-funding-to-programs-combating-child-sex-trafficking/",
+      "source": "singtaousa.com",
+      "published": 1769290200
+    },
     {
       "id": "b381cb176303",
       "title": "解放軍反腐風暴！中央軍委6高層5人落馬，網民直呼「觸目驚心」",
@@ -9,9 +16,9 @@
       "published": 1769288686
     },
     {
-      "id": "53524f3ecfa2",
+      "id": "b6bbbc01c5e1",
       "title": "美明尼蘇達州再爆執法衝突釀死　灰狼對勇士之戰延期",
-      "url": "https://money.udn.com/money/story/5599/9287004",
+      "url": "https://money.udn.com/money/story/10511/9287004",
       "source": "money.udn.com",
       "published": 1769288446
     },
@@ -89,13 +96,6 @@
       "id": "a7fde596bda4",
       "title": "俄軍邊談邊打空襲基輔 烏克蘭怒斥：普京應上法庭",
       "url": "https://www.singtaousa.com/2026/01/24/news/world/russia-launches-brutal-attack-on-ukraine-as-peace-talks-continue/",
-      "source": "singtaousa.com",
-      "published": 1769281200
-    },
-    {
-      "id": "428eaf685293",
-      "title": "5年未為公司註冊 CL被不拘留送檢",
-      "url": "https://www.singtaousa.com/2026/01/24/entertainment/cl-company-registration-prosecution/",
       "source": "singtaousa.com",
       "published": 1769281200
     },
@@ -1353,5 +1353,5 @@
       "published": 1766738357
     }
   ],
-  "build_id": 1769288936
+  "build_id": 1769290573
 }
