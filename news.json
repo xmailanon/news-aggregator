@@ -1,6 +1,20 @@
 {
-  "updated": 1769273111,
+  "updated": 1769274537,
   "items": [
+    {
+      "id": "d25bd23b5247",
+      "title": "丁禹兮鄧恩熙再次搭檔 上演俠客熱戀落難千金",
+      "url": "https://www.singtaousa.com/2026/01/24/entertainment/ding-yuxi-deng-enxi-reunite-for-new-drama/",
+      "source": "singtaousa.com",
+      "published": 1769274000
+    },
+    {
+      "id": "9496a4903f0e",
+      "title": "美国2026年国防战略：优先国内安全 遏制中国 第一岛链防御 以实力求和平",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260124-%E7%BE%8E%E5%9B%BD%E6%96%B0%E5%9B%BD%E9%98%B2%E6%88%98%E7%95%A5-%E4%BC%98%E5%85%88%E5%9B%BD%E5%86%85%E5%AE%89%E5%85%A8-%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9B%BD-%E7%AC%AC%E4%B8%80%E5%B2%9B%E9%93%BE%E9%98%B2%E5%BE%A1-%E4%BB%A5%E5%AE%9E%E5%8A%9B%E6%B1%82%E5%92%8C%E5%B9%B3",
+      "source": "rfi.fr",
+      "published": 1769273157
+    },
     {
       "id": "3aba22ea0907",
       "title": "美加關係急凍 特朗普威脅對加拿大徵100%關稅 嘲諷總理為「省長」",
@@ -194,13 +208,6 @@
       "id": "a33d7a2a1fca",
       "title": "遊騎兵補強先發 5換1搶戈爾",
       "url": "https://www.singtaousa.com/2026/01/24/news/usa/rangers-acquire-gore-in-5-for-1-trade/",
-      "source": "singtaousa.com",
-      "published": 1769263200
-    },
-    {
-      "id": "befb020049db",
-      "title": "遭道奇指定讓渡   西亞尼轉投揚基",
-      "url": "https://www.singtaousa.com/2026/01/24/news/usa/xiani-joins-yankees-after-dodgers-waivers/",
       "source": "singtaousa.com",
       "published": 1769263200
     },
@@ -504,13 +511,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260123-%E4%B8%AD%E5%9B%BD%E5%BD%93%E5%B1%80%E6%96%A5%E8%81%94%E5%90%88%E5%9B%BD9%E5%90%8D%E4%B8%93%E5%AE%B6%E5%AF%B9%E6%96%B0%E7%96%86%E5%AD%98%E5%9C%A8%E5%BC%BA%E8%BF%AB%E5%8A%B3%E5%8A%A8%E7%9A%84%E6%8B%85%E5%BF%A7%E6%AF%AB%E6%97%A0%E6%A0%B9%E6%8D%AE%E6%98%AF%E8%AF%BD%E8%B0%A4",
       "source": "rfi.fr",
       "published": 1769172010
-    },
-    {
-      "id": "11d68c2d4ac8",
-      "title": "苏林连任越共总书记五年 或成越南的“习近平”？",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260123-%E8%8B%8F%E6%9E%97%E8%BF%9E%E4%BB%BB%E8%B6%8A%E5%85%B1%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%BA%94%E5%B9%B4-%E6%88%96%E6%88%90%E8%B6%8A%E5%8D%97%E7%9A%84-%E4%B9%A0%E8%BF%91%E5%B9%B3",
-      "source": "rfi.fr",
-      "published": 1769171135
     },
     {
       "id": "6e02fb541f33",
@@ -1353,5 +1353,5 @@
       "published": 1766738357
     }
   ],
-  "build_id": 1769273111
+  "build_id": 1769274537
 }
