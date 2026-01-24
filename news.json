@@ -1,9 +1,30 @@
 {
-  "updated": 1769231593,
+  "updated": 1769233314,
   "items": [
     {
+      "id": "5b814e64b6cc",
+      "title": "【1月25日生效】巴士乘客強制戴安全帶 違例最高罰$5000兼監禁 常見疑問逐個答",
+      "url": "https://www.singtaousa.com/2026/01/23/news/china/mandatory-seatbelt-law-faq-penalty/",
+      "source": "singtaousa.com",
+      "published": 1769232888
+    },
+    {
+      "id": "f61694214cf6",
+      "title": "美司法部政策大轉彎！柴油卡車改裝排放免刑責 僅保留民事罰款",
+      "url": "https://www.singtaousa.com/2026/01/23/news/usa/doj-will-no-longer-pursue-criminal-charges-for-diesel-deletes-and-tunes/",
+      "source": "singtaousa.com",
+      "published": 1769232600
+    },
+    {
+      "id": "7abfdedb5f18",
+      "title": "不再視中國威脅為優先要務　川普2.0國防戰略大轉向",
+      "url": "https://money.udn.com/money/story/10511/9286210",
+      "source": "money.udn.com",
+      "published": 1769232084
+    },
+    {
       "id": "4f5b6a220955",
-      "title": "賭盤顯示李德接任Fed主席的勝率領先",
+      "title": "賭盤顯示李德接任 Fed 主席的勝率領先",
       "url": "https://money.udn.com/money/story/5599/9286170",
       "source": "money.udn.com",
       "published": 1769231172
@@ -156,20 +177,6 @@
       "published": 1769221800
     },
     {
-      "id": "4c01278d8a18",
-      "title": "俄亥俄州男子揚言槍殺ICE探員 聯邦探員上門搜出多支步槍",
-      "url": "https://www.singtaousa.com/2026/01/23/news/usa/alright-you-got-me-columbus-man-facing-federal-charges-over-alleged-online-ice-threats/",
-      "source": "singtaousa.com",
-      "published": 1769220000
-    },
-    {
-      "id": "6124d8ecac49",
-      "title": "徐冬冬親人病重 婚禮宣布延期",
-      "url": "https://www.singtaousa.com/2026/01/23/entertainment/xu-dongdong-wedding-postponed-due-to-family-illness/",
-      "source": "singtaousa.com",
-      "published": 1769220000
-    },
-    {
       "id": "d3e43ac7f11e",
       "title": "川普稱北約盟軍避開前線　英首相與哈利王子譴責",
       "url": "https://money.udn.com/money/story/10511/9285786",
@@ -217,13 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/9285755",
       "source": "money.udn.com",
       "published": 1769216377
-    },
-    {
-      "id": "cace0db8a81d",
-      "title": "川普嘲諷盟軍「躲後方」 兩度赴阿富汗作戰的哈利發聲了",
-      "url": "https://money.udn.com/money/story/5599/9285747",
-      "source": "money.udn.com",
-      "published": 1769215870
     },
     {
       "id": "30e10fd6d425",
@@ -324,16 +324,16 @@
       "published": 1769183965
     },
     {
-      "id": "9cf495a91fd1",
-      "title": "美国正式退出WHO 专家称只会让中国受益",
-      "url": "https://www.dw.com/zh/美国正式退出who-专家称只会让中国受益/a-75627497?maca=chi-rss-chi-all-1127-rdf",
+      "id": "51a2413ca35e",
+      "title": "货船在争议水域遇险 中国海警救起17名菲律宾船员",
+      "url": "https://www.dw.com/zh/货船在争议水域遇险-中国海警救起17名菲律宾船员/a-75627009?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1769181300
     },
     {
-      "id": "51a2413ca35e",
-      "title": "货船在争议水域遇险 中国海警救起17名菲律宾船员",
-      "url": "https://www.dw.com/zh/货船在争议水域遇险-中国海警救起17名菲律宾船员/a-75627009?maca=chi-rss-chi-all-1127-rdf",
+      "id": "9cf495a91fd1",
+      "title": "美国正式退出WHO 专家称只会让中国受益",
+      "url": "https://www.dw.com/zh/美国正式退出who-专家称只会让中国受益/a-75627497?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1769181300
     },
@@ -1367,5 +1367,5 @@
       "published": 1766648355
     }
   ],
-  "build_id": 1769231593
+  "build_id": 1769233314
 }
