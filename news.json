@@ -1,6 +1,20 @@
 {
-  "updated": 1769357553,
+  "updated": 1769359564,
   "items": [
+    {
+      "id": "172c4ad507eb",
+      "title": "烏克蘭嚴冬告急！俄軍猛攻能源設施 波蘭緊急馳援數百發電機",
+      "url": "https://www.singtaousa.com/2026/01/25/news/world/poland-to-send-hundreds-of-generators-to-ukraine-amid-winter-heating-crisis/",
+      "source": "singtaousa.com",
+      "published": 1769358600
+    },
+    {
+      "id": "2f939b23a5c7",
+      "title": "帆船：法国航海家托马斯·科维尔及其船员们打破环球航海绝对纪录",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260125-%E5%B8%86%E8%88%B9-%E6%B3%95%E5%9B%BD%E8%88%AA%E6%B5%B7%E5%AE%B6%E6%89%98%E9%A9%AC%E6%96%AF%C2%B7%E7%A7%91%E7%BB%B4%E5%B0%94%E5%8F%8A%E5%85%B6%E8%88%B9%E5%91%98%E4%BB%AC%E6%89%93%E7%A0%B4%E7%8E%AF%E7%90%83%E8%88%AA%E6%B5%B7%E7%BB%9D%E5%AF%B9%E7%BA%AA%E5%BD%95",
+      "source": "rfi.fr",
+      "published": 1769358241
+    },
     {
       "id": "a91860acd521",
       "title": "吳偉豪孖游嘉欣重現胸壓名場面",
@@ -159,13 +173,6 @@
       "id": "d93e2dde7b2f",
       "title": "挺身而出監督ICE   明州百姓冒死保家",
       "url": "https://www.singtaousa.com/2026/01/25/news/usa/minnesota-citizens-monitor-ice-fearlessly/",
-      "source": "singtaousa.com",
-      "published": 1769349600
-    },
-    {
-      "id": "baa29338ee98",
-      "title": "平民喪生慘劇接二連三   民主黨誓阻國安部撥款",
-      "url": "https://www.singtaousa.com/2026/01/25/news/usa/democrats-block-dhs-funding-after-civilian-deaths/",
       "source": "singtaousa.com",
       "published": 1769349600
     },
@@ -595,13 +602,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260124-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E6%96%87%E4%BB%B6-%E7%BE%8E%E5%9B%BD%E6%8B%9F%E7%BC%A9%E5%87%8F%E5%A8%81%E6%85%91%E6%9C%9D%E9%B2%9C%E5%8A%9B%E5%BA%A6-%E7%94%B1%E9%9F%A9%E5%9B%BD%E4%B8%BB%E8%A6%81%E6%89%BF%E6%8B%85",
       "source": "rfi.fr",
       "published": 1769245880
-    },
-    {
-      "id": "cad66fa69fb1",
-      "title": "日本众议院选举 各党争相拿外国人说事",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260124-%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE-%E5%90%84%E5%85%9A%E4%BA%89%E7%9B%B8%E6%8B%BF%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%AF%B4%E4%BA%8B",
-      "source": "rfi.fr",
-      "published": 1769242479
     },
     {
       "id": "651c7a791e99",
@@ -1395,5 +1395,5 @@
       "published": 1766842440
     }
   ],
-  "build_id": 1769357553
+  "build_id": 1769359564
 }
