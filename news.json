@@ -1,6 +1,41 @@
 {
-  "updated": 1769362769,
+  "updated": 1769364922,
   "items": [
+    {
+      "id": "689a3965543e",
+      "title": "華爾街日報盤點2026年六大震 重塑全球政經局勢",
+      "url": "https://money.udn.com/money/story/5599/9288162",
+      "source": "money.udn.com",
+      "published": 1769364843
+    },
+    {
+      "id": "a1912984d102",
+      "title": "川普喊對加國課100%關稅",
+      "url": "https://money.udn.com/money/story/5599/9288166",
+      "source": "money.udn.com",
+      "published": 1769364646
+    },
+    {
+      "id": "b8c445a9066d",
+      "title": "美總統心腹爆料「唐羅主義」意在削弱大陸",
+      "url": "https://money.udn.com/money/story/5599/9288169",
+      "source": "money.udn.com",
+      "published": 1769364578
+    },
+    {
+      "id": "632d9859490a",
+      "title": "旺角鳳姐驚魂！假嫖客入屋叉頸搶錢 掠走千四蚊現金",
+      "url": "https://www.singtaousa.com/2026/01/25/news/china/mongkok-prostitute-robbery-strangled-cash/",
+      "source": "singtaousa.com",
+      "published": 1769364290
+    },
+    {
+      "id": "1734d48f74ab",
+      "title": "破解怪案並萌生情愫 千金邂逅狐妖 上演荒誕戲碼",
+      "url": "https://www.singtaousa.com/2026/01/25/entertainment/fox-spirit-and-heiress-comedy/",
+      "source": "singtaousa.com",
+      "published": 1769364000
+    },
     {
       "id": "17035468ebae",
       "title": "新例首日即拉人！深圳灣放蛇揭的士司機車頭擺「手機陣」",
@@ -212,13 +247,6 @@
       "published": 1769350987
     },
     {
-      "id": "18f941b280e1",
-      "title": "歐洲3國總統紀念反俄帝起義  暴力鎮壓凝聚抵抗意志",
-      "url": "https://money.udn.com/money/story/5599/9288028",
-      "source": "money.udn.com",
-      "published": 1769350353
-    },
-    {
       "id": "bb60a3b6c23b",
       "title": "羅斯1號球衣退役",
       "url": "https://www.singtaousa.com/2026/01/25/news/usa/derrick-rose-jersey-retirement/",
@@ -233,39 +261,11 @@
       "published": 1769349600
     },
     {
-      "id": "b75c69daa139",
-      "title": "希弗林兩年磨一劍",
-      "url": "https://www.singtaousa.com/2026/01/25/news/usa/shiffrin-returns-to-podium-after-two-years/",
-      "source": "singtaousa.com",
-      "published": 1769349600
-    },
-    {
-      "id": "e3d6a23c7ae5",
-      "title": "花滑組合逆轉奪冠 冬奧陣容留憾",
-      "url": "https://www.singtaousa.com/2026/01/25/news/usa/figure-skating-pair-wins-gold-olympic-dream-dashed/",
-      "source": "singtaousa.com",
-      "published": 1769349600
-    },
-    {
       "id": "4e455a4643e4",
       "title": "最后两只：日本数千粉丝抽签在最后一天向大熊猫道别",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260125-%E6%9C%80%E5%90%8E%E4%B8%A4%E5%8F%AA-%E6%97%A5%E6%9C%AC%E6%95%B0%E5%8D%83%E7%B2%89%E4%B8%9D%E6%8A%BD%E7%AD%BE%E5%9C%A8%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E5%90%91%E5%A4%A7%E7%86%8A%E7%8C%AB%E9%81%93%E5%88%AB",
       "source": "rfi.fr",
       "published": 1769345812
-    },
-    {
-      "id": "fb92e22bee32",
-      "title": "川普指盟軍在阿富汗躲後方 引眾怒後改口讚英軍偉大勇敢",
-      "url": "https://money.udn.com/money/story/5599/9287975",
-      "source": "money.udn.com",
-      "published": 1769345248
-    },
-    {
-      "id": "dcd37ecaebc4",
-      "title": "美國男護理師遭執法人員擊斃　影片曝光似打臉川普政府",
-      "url": "https://money.udn.com/money/story/10511/9287972",
-      "source": "money.udn.com",
-      "published": 1769345113
     },
     {
       "id": "0ff75c0d718b",
@@ -1395,5 +1395,5 @@
       "published": 1766842440
     }
   ],
-  "build_id": 1769362769
+  "build_id": 1769364922
 }
