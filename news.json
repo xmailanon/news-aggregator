@@ -1,6 +1,20 @@
 {
-  "updated": 1769405131,
+  "updated": 1769406701,
   "items": [
+    {
+      "id": "e879c81e810f",
+      "title": "政治金童皮塔：民意與權力結構拉鋸牽動泰國命運",
+      "url": "https://money.udn.com/money/story/5599/9289214",
+      "source": "money.udn.com",
+      "published": 1769406855
+    },
+    {
+      "id": "cb41b2f9c3a0",
+      "title": "夏寶龍提醒議員：市民與中央都在看着你！特首對三權有「指引權」",
+      "url": "https://www.singtaousa.com/2026/01/25/news/china/xia-baolong-reminds-legislators-public-image/",
+      "source": "singtaousa.com",
+      "published": 1769405688
+    },
     {
       "id": "cd2f2029a6e3",
       "title": "墨西哥球場變屠場 球賽結束遭槍手掃射 釀11死12傷",
@@ -191,11 +205,11 @@
       "published": 1769395058
     },
     {
-      "id": "6e54bb79894a",
-      "title": "高盛調高台股目標至34,600點 看好 AI 資本支出 資金輪動至供應鏈",
-      "url": "https://money.udn.com/money/story/5599/9288650",
-      "source": "money.udn.com",
-      "published": 1769394573
+      "id": "559efc2e62f0",
+      "title": "薯蛋頭先生車牌恐成絕響？孩之寶出走羅德島引發反彈",
+      "url": "https://www.singtaousa.com/2026/01/25/news/usa/rhode-island-might-ditch-mr-potato-head-license-plates-after-hasbro-moves-to-boston/",
+      "source": "singtaousa.com",
+      "published": 1769394470
     },
     {
       "id": "c2d12429eb54",
@@ -259,20 +273,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260125-%E5%BC%A0%E5%8F%88%E4%BE%A0%E7%9A%84-%E4%BA%94%E4%B8%AA%E4%B8%A5%E9%87%8D-%E4%B8%8E%E6%A0%B8%E6%9C%BA%E5%AF%86%E7%9A%84%E6%B3%84%E6%BC%8F",
       "source": "rfi.fr",
       "published": 1769382925
-    },
-    {
-      "id": "1d625489c93e",
-      "title": "特朗普怒斥「中國正接管加拿大」 卡尼急澄清：無意簽自貿協議",
-      "url": "https://www.singtaousa.com/2026/01/25/news/world/no-plans-for-china-free-trade-deal-carney-says-as-trump-fixates-on-canada-cbc-news/",
-      "source": "singtaousa.com",
-      "published": 1769382000
-    },
-    {
-      "id": "8178ec14a017",
-      "title": "歐洲早春之約：3月2日出發，文景假期 九國十四日大巡禮，限時禮遇價$3299",
-      "url": "https://www.singtaousa.com/2026/01/25/lifestyle/early-spring-appointment-in-europe-departing-on-march-2nd-wenjing-holiday-nine-kingdoms-and-fourteenth-day-tour-limited-time-discount-price-3299-2/",
-      "source": "singtaousa.com",
-      "published": 1769382000
     },
     {
       "id": "fcd249aa7257",
@@ -1395,5 +1395,5 @@
       "published": 1766842440
     }
   ],
-  "build_id": 1769405131
+  "build_id": 1769406701
 }
