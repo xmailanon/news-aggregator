@@ -1,6 +1,13 @@
 {
-  "updated": 1769548156,
+  "updated": 1769549947,
   "items": [
+    {
+      "id": "75b80849a207",
+      "title": "醫學新發現 癌症與阿茲海默症罕見共存之謎或破解 蛋白TREM2成關鍵",
+      "url": "https://www.singtaousa.com/2026/01/27/lifestyle/health/study-uncovers-a-possible-explanation-for-why-cancer-and-alzheimers-disease-rarely-occur-in-the-same-individuals/",
+      "source": "singtaousa.com",
+      "published": 1769549910
+    },
     {
       "id": "42bf37da0dcc",
       "title": "2025年加密洗錢2.5兆　華語犯罪網絡崛起成主要推手",
@@ -44,9 +51,9 @@
       "published": 1769546528
     },
     {
-      "id": "292b4c6855e7",
+      "id": "f2a0571d3c5b",
       "title": "美國亞利桑那州移民執法傳槍響　1人重傷送醫",
-      "url": "https://money.udn.com/money/story/5599/9292876",
+      "url": "https://money.udn.com/money/story/10511/9292876",
       "source": "money.udn.com",
       "published": 1769546167
     },
@@ -91,13 +98,6 @@
       "url": "https://www.singtaousa.com/2026/01/27/news/usa/news-trump-noem-response/",
       "source": "singtaousa.com",
       "published": 1769543872
-    },
-    {
-      "id": "874ff1f3a082",
-      "title": "極地冷空氣續襲美南　全美至少42死",
-      "url": "https://www.singtaousa.com/2026/01/27/news/usa/news-arctic-cold-southern-states/",
-      "source": "singtaousa.com",
-      "published": 1769543161
     },
     {
       "id": "be9655382662",
@@ -1325,5 +1325,5 @@
       "published": 1767005520
     }
   ],
-  "build_id": 1769548156
+  "build_id": 1769549947
 }
