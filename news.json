@@ -1,6 +1,27 @@
 {
-  "updated": 1769528901,
+  "updated": 1769530636,
   "items": [
+    {
+      "id": "d580782b1c4c",
+      "title": "東京警方起訴兩名中國人涉違日本民宿法　為法例實施7年半以來首次",
+      "url": "https://www.singtaousa.com/2026/01/27/news/world/tokyo-police-charged-two-chinese-nationals-for-violating-japans-bb-law-the-first-time-since-the-law-was-implemented-seven-and-a-half-years-ago/",
+      "source": "singtaousa.com",
+      "published": 1769530380
+    },
+    {
+      "id": "81a6a2026fe9",
+      "title": "Tyson回應「響喉」： 原意是為自嘲",
+      "url": "https://www.singtaousa.com/2026/01/27/entertainment/tyson-responds-to-throat-noise-self-mockery/",
+      "source": "singtaousa.com",
+      "published": 1769529600
+    },
+    {
+      "id": "25397baf0b99",
+      "title": "共和黨內訌錄音流出　參議員諫言遭川普飆罵髒話",
+      "url": "https://money.udn.com/money/story/10511/9292793",
+      "source": "money.udn.com",
+      "published": 1769529330
+    },
     {
       "id": "f5a44e9b6288",
       "title": "西班牙失業率降至10%以下　2008年金融危機以來首見",
@@ -198,20 +219,6 @@
       "published": 1769522400
     },
     {
-      "id": "e524b42814a0",
-      "title": "電信巨頭Verizon擴版圖",
-      "url": "https://www.singtaousa.com/2026/01/27/news/usa/verizon-buys-frontier-fiber-network/",
-      "source": "singtaousa.com",
-      "published": 1769522400
-    },
-    {
-      "id": "f0bc8d97af6e",
-      "title": "Netflix廣告營收有望翻倍",
-      "url": "https://www.singtaousa.com/2026/01/27/news/usa/netflix-ad-revenue-to-double/",
-      "source": "singtaousa.com",
-      "published": 1769522400
-    },
-    {
       "id": "2bdc3875611f",
       "title": "阿斯夫拉將宣誓就任宏都拉斯總統　曾承諾與台復交",
       "url": "https://money.udn.com/money/story/5599/9292492",
@@ -292,13 +299,6 @@
       "id": "3f582d76bbfa",
       "title": "歐盟越南升級全面戰略夥伴  強化基建、貿易與安全",
       "url": "https://money.udn.com/money/story/5599/9292426",
-      "source": "money.udn.com",
-      "published": 1769518480
-    },
-    {
-      "id": "f23e1fab0797",
-      "title": "伊朗血腥鎮壓逾6千死　國家貨幣里亞爾貶至新低",
-      "url": "https://money.udn.com/money/story/5599/9292425",
       "source": "money.udn.com",
       "published": 1769518480
     },
@@ -583,6 +583,13 @@
       "published": 1769455508
     },
     {
+      "id": "f03f0743678c",
+      "title": "以色列驻华大使贝以理：确保哈马斯不再对以色列构成威胁",
+      "url": "https://www.ftchinese.com/story/001108816",
+      "source": "ftchinese.com",
+      "published": 1769443200
+    },
+    {
       "id": "325b2a748c79",
       "title": "讨论巴以问题应尊重法理框架，不应陷入“反巴勒斯坦主义”",
       "url": "https://www.ftchinese.com/story/001108820",
@@ -593,13 +600,6 @@
       "id": "8df5104aba67",
       "title": "英国计划加强对中国在英国施加影响活动的审查",
       "url": "https://www.ftchinese.com/story/001108821",
-      "source": "ftchinese.com",
-      "published": 1769443200
-    },
-    {
-      "id": "f03f0743678c",
-      "title": "以色列驻华大使贝以理：确保哈马斯不再对以色列构成威胁",
-      "url": "https://www.ftchinese.com/story/001108816",
       "source": "ftchinese.com",
       "published": 1769443200
     },
@@ -1325,5 +1325,5 @@
       "published": 1767005520
     }
   ],
-  "build_id": 1769528901
+  "build_id": 1769530636
 }
