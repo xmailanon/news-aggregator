@@ -1,6 +1,20 @@
 {
-  "updated": 1769532819,
+  "updated": 1769534373,
   "items": [
+    {
+      "id": "5ad7306128e4",
+      "title": "報道指CIA擬在委內瑞拉設立永久據點",
+      "url": "https://www.singtaousa.com/2026/01/27/news/world/report-cia-plans-to-establish-permanent-base-in-venezuela/",
+      "source": "singtaousa.com",
+      "published": 1769533560
+    },
+    {
+      "id": "536ef706cb0c",
+      "title": "Lisa捧巨型應援棒 Rosé飲奶茶勁享受",
+      "url": "https://www.singtaousa.com/2026/01/27/entertainment/blackpink-hong-kong-concert-lisa-rose/",
+      "source": "singtaousa.com",
+      "published": 1769533200
+    },
     {
       "id": "e28403d67f11",
       "title": "英報指美國促烏克蘭割地以換取安全保障",
@@ -208,20 +222,6 @@
       "id": "69cc045cbcab",
       "title": "耐克加速自動化 裁員775人",
       "url": "https://www.singtaousa.com/2026/01/27/news/usa/nike-automation-layoffs-775/",
-      "source": "singtaousa.com",
-      "published": 1769522400
-    },
-    {
-      "id": "9ce633a67c1e",
-      "title": "擔憂資產泡沫 橋水基金避開債券",
-      "url": "https://www.singtaousa.com/2026/01/27/news/usa/bridgewater-avoids-bonds-asset-bubble-fears/",
-      "source": "singtaousa.com",
-      "published": 1769522400
-    },
-    {
-      "id": "e77881d9a2b3",
-      "title": "CoreWeave負債高   英偉達注資20億",
-      "url": "https://www.singtaousa.com/2026/01/27/news/usa/nvidia-invests-2b-coreweave/",
       "source": "singtaousa.com",
       "published": 1769522400
     },
@@ -1325,5 +1325,5 @@
       "published": 1767005520
     }
   ],
-  "build_id": 1769532819
+  "build_id": 1769534373
 }
