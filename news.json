@@ -1,6 +1,27 @@
 {
-  "updated": 1769544768,
+  "updated": 1769546616,
   "items": [
+    {
+      "id": "ec21d5fcb408",
+      "title": "亞利桑那州邊境巡邏隊涉槍擊 1人中槍危殆並被拘捕",
+      "url": "https://www.singtaousa.com/2026/01/27/news/usa/u-s-border-patrol-involved-in-arizona-shooting-authorities-join-forces-with-federal-agencies-to-investigate/",
+      "source": "singtaousa.com",
+      "published": 1769546528
+    },
+    {
+      "id": "292b4c6855e7",
+      "title": "美國亞利桑那州移民執法傳槍響　1人重傷送醫",
+      "url": "https://money.udn.com/money/story/5599/9292876",
+      "source": "money.udn.com",
+      "published": 1769546167
+    },
+    {
+      "id": "84afb6e7cd52",
+      "title": "【抗疫突破】武漢病毒研究所宣布：發現可有效抑制尼帕病毒的口服藥物",
+      "url": "https://www.singtaousa.com/2026/01/27/news/china/wuhan-institute-nipah-virus-drug-discovery/",
+      "source": "singtaousa.com",
+      "published": 1769546090
+    },
     {
       "id": "f563f058ccdb",
       "title": "日本熊貓時代落幕！「曉曉」「蕾蕾」啟程返中，半世紀來首次零熊貓",
@@ -77,20 +98,6 @@
       "url": "https://money.udn.com/money/story/5599/9292861",
       "source": "money.udn.com",
       "published": 1769541161
-    },
-    {
-      "id": "bcbbba7bc7e3",
-      "title": "【深圳驚天騙局】水貝珠寶商涉「黃金對賭」爆煲 百億資金蒸發 苦主全家被騙逾500萬",
-      "url": "https://www.singtaousa.com/2026/01/27/news/china/shenzhen-gold-scam-billions-victims/",
-      "source": "singtaousa.com",
-      "published": 1769540691
-    },
-    {
-      "id": "6a161e07f011",
-      "title": "傳曾與特朗普互嗆 克魯茲祕密錄音曝光",
-      "url": "https://www.singtaousa.com/2026/01/27/news/usa/news-cruz-2028/",
-      "source": "singtaousa.com",
-      "published": 1769540558
     },
     {
       "id": "b7834efa111f",
@@ -252,13 +259,6 @@
       "url": "https://www.dw.com/zh/德语媒体：制造恐惧-习近平的治国之道/a-75682400?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1769525940
-    },
-    {
-      "id": "a3b2de2564ca",
-      "title": "大雪癱瘓交通  JR停駛札幌站晚間列車全力除雪",
-      "url": "https://money.udn.com/money/story/5599/9292585",
-      "source": "money.udn.com",
-      "published": 1769525653
     },
     {
       "id": "90aaf297df7e",
@@ -1325,5 +1325,5 @@
       "published": 1767005520
     }
   ],
-  "build_id": 1769544768
+  "build_id": 1769546616
 }
