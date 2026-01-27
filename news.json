@@ -1,6 +1,27 @@
 {
-  "updated": 1769530636,
+  "updated": 1769532819,
   "items": [
+    {
+      "id": "e28403d67f11",
+      "title": "英報指美國促烏克蘭割地以換取安全保障",
+      "url": "https://www.singtaousa.com/2026/01/27/news/world/british-newspaper-says-us-urges-ukraine-to-cede-territory-in-exchange-for-security-guarantees/",
+      "source": "singtaousa.com",
+      "published": 1769532092
+    },
+    {
+      "id": "2304faba3ed1",
+      "title": "釐清去年華府附近致命空中相撞肇因 國家運輸安全委員會召開聽證會",
+      "url": "https://www.singtaousa.com/2026/01/27/news/usa/news-tuesday2026-1-27/",
+      "source": "singtaousa.com",
+      "published": 1769531982
+    },
+    {
+      "id": "6115600c0336",
+      "title": "華府智庫學者：台灣以「走後門」方式操縱貨幣",
+      "url": "https://money.udn.com/money/story/5599/9292822",
+      "source": "money.udn.com",
+      "published": 1769531928
+    },
     {
       "id": "d580782b1c4c",
       "title": "東京警方起訴兩名中國人涉違日本民宿法　為法例實施7年半以來首次",
@@ -37,16 +58,16 @@
       "published": 1769527492
     },
     {
-      "id": "27e5999953ef",
-      "title": "特朗普的“软硬兼施”与公关危机",
-      "url": "https://www.dw.com/zh/特朗普的-软硬兼施-与公关危机/a-75682823?maca=chi-rss-chi-all-1127-rdf",
+      "id": "047acc8f4bfa",
+      "title": "中俄防长通话 芬兰总理喊话结束战争",
+      "url": "https://www.dw.com/zh/中俄防长通话-芬兰总理喊话结束战争/a-75682827?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1769527080
     },
     {
-      "id": "047acc8f4bfa",
-      "title": "中俄防长通话 芬兰总理喊话结束战争",
-      "url": "https://www.dw.com/zh/中俄防长通话-芬兰总理喊话结束战争/a-75682827?maca=chi-rss-chi-all-1127-rdf",
+      "id": "27e5999953ef",
+      "title": "特朗普的“软硬兼施”与公关危机",
+      "url": "https://www.dw.com/zh/特朗普的-软硬兼施-与公关危机/a-75682823?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1769527080
     },
@@ -205,20 +226,6 @@
       "published": 1769522400
     },
     {
-      "id": "6862a7e5d9ed",
-      "title": "微軟推二代AI芯片   較勁亞馬遜和谷歌",
-      "url": "https://www.singtaousa.com/2026/01/27/news/usa/microsoft-ai-chip-competes-cloud/",
-      "source": "singtaousa.com",
-      "published": 1769522400
-    },
-    {
-      "id": "ed8126672a23",
-      "title": "神準押注金銀 Entrata創始人賺翻",
-      "url": "https://www.singtaousa.com/2026/01/27/news/usa/entrata-founder-bets-big-on-gold-silver/",
-      "source": "singtaousa.com",
-      "published": 1769522400
-    },
-    {
       "id": "2bdc3875611f",
       "title": "阿斯夫拉將宣誓就任宏都拉斯總統　曾承諾與台復交",
       "url": "https://money.udn.com/money/story/5599/9292492",
@@ -294,13 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9292428",
       "source": "money.udn.com",
       "published": 1769518528
-    },
-    {
-      "id": "3f582d76bbfa",
-      "title": "歐盟越南升級全面戰略夥伴  強化基建、貿易與安全",
-      "url": "https://money.udn.com/money/story/5599/9292426",
-      "source": "money.udn.com",
-      "published": 1769518480
     },
     {
       "id": "723dfa430c12",
@@ -1325,5 +1325,5 @@
       "published": 1767005520
     }
   ],
-  "build_id": 1769530636
+  "build_id": 1769532819
 }
