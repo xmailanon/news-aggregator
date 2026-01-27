@@ -1,9 +1,30 @@
 {
-  "updated": 1769553789,
+  "updated": 1769555501,
   "items": [
     {
+      "id": "4401214e78c0",
+      "title": "美派ICE探員協防冬奧惹議 意國市長怒轟：殺人部隊不受歡迎",
+      "url": "https://www.singtaousa.com/2026/01/27/news/world/italians-furious-over-deployment-of-ice-agents-to-bolster-us-security-at-winter-olympics-cnn/",
+      "source": "singtaousa.com",
+      "published": 1769554800
+    },
+    {
+      "id": "9e29a1c459cf",
+      "title": "楊穎黃曉明 陪兒子遊迪士尼",
+      "url": "https://www.singtaousa.com/2026/01/27/entertainment/angelababy-huang-xiaoming-accompany-son-disney/",
+      "source": "singtaousa.com",
+      "published": 1769554800
+    },
+    {
+      "id": "797d514f9d66",
+      "title": "科技股領軍標普 500 指數逼近 7,000 點大關 連五漲再創新高",
+      "url": "https://money.udn.com/money/story/5599/9292939",
+      "source": "money.udn.com",
+      "published": 1769554628
+    },
+    {
       "id": "5483b5b96909",
-      "title": "沙加緬度縣啟動2026年無家者點算　逾千義工兩晚走訪橫街細巷｜細燊語",
+      "title": "沙加緬度縣啟動2026年無家者點算　逾千義工兩晚走訪橫街細巷｜細說燊語",
       "url": "https://www.singtaousa.com/2026/01/27/news/usa/sacramento-county-launches-2026-homeless-count-with-more-than-a-thousand-volunteers-visiting-the-county-for-two-consecutive-nights/",
       "source": "singtaousa.com",
       "published": 1769553862
@@ -45,7 +66,7 @@
     },
     {
       "id": "ee4bd6548fc2",
-      "title": "粵語時事觀察—陳煐傑：格陵蘭島論與自戀狂",
+      "title": "粵語格陵蘭島論與自戀狂",
       "url": "https://www.singtaousa.com/2026/01/27/opinion/current-affairs-observation-chen-yongjie-greenland-theory-and-narcissism/",
       "source": "singtaousa.com",
       "published": 1769551500
@@ -163,20 +184,6 @@
       "published": 1769547888
     },
     {
-      "id": "cac4fab647e5",
-      "title": "南卡州麻疹疫情擴大 25年來最大規模",
-      "url": "https://www.singtaousa.com/2026/01/27/news/usa/measles-outbreak-expands-in-south-carolina-25/",
-      "source": "singtaousa.com",
-      "published": 1769547808
-    },
-    {
-      "id": "90dd0ce8841f",
-      "title": "Grok「一鍵脫衣」掀恐慌 評論反指小題大作 籲女性勿成弱者",
-      "url": "https://www.singtaousa.com/2026/01/27/news/world/does-it-really-matter-if-grok-undresses-us-all/",
-      "source": "singtaousa.com",
-      "published": 1769547600
-    },
-    {
       "id": "f2a0571d3c5b",
       "title": "美國亞利桑那州移民執法傳槍響　1人重傷送醫",
       "url": "https://money.udn.com/money/story/10511/9292876",
@@ -268,11 +275,46 @@
       "published": 1769535009
     },
     {
-      "id": "be8fbccda77c",
-      "title": "押注 TACO …韓股沒在怕",
-      "url": "https://money.udn.com/money/story/5599/9292706",
-      "source": "money.udn.com",
-      "published": 1769534846
+      "id": "e5c3dfff93b6",
+      "title": "AI狂欢是“赢家的诅咒”么？",
+      "url": "https://www.ftchinese.com/story/001108822",
+      "source": "ftchinese.com",
+      "published": 1769529600
+    },
+    {
+      "id": "c8fca08d2778",
+      "title": "高市早苗、石桥湛山与 “小日本主义”",
+      "url": "https://www.ftchinese.com/story/001108793",
+      "source": "ftchinese.com",
+      "published": 1769529600
+    },
+    {
+      "id": "c174e4e3bf22",
+      "title": "展望2026：美联储如何平衡独立性和可信性？",
+      "url": "https://www.ftchinese.com/story/001108794",
+      "source": "ftchinese.com",
+      "published": 1769529600
+    },
+    {
+      "id": "05b1a5b591d2",
+      "title": "“加密已死”讨论背后的深意何在？",
+      "url": "https://www.ftchinese.com/story/001108807",
+      "source": "ftchinese.com",
+      "published": 1769529600
+    },
+    {
+      "id": "d1a1cb9828c7",
+      "title": "阿联酋发布开源AI模型，叫板中国竞争对手",
+      "url": "https://www.ftchinese.com/story/001108824",
+      "source": "ftchinese.com",
+      "published": 1769529600
+    },
+    {
+      "id": "b5a683577518",
+      "title": "12月欧洲电动汽车销量首超汽油车",
+      "url": "https://www.ftchinese.com/story/001108823",
+      "source": "ftchinese.com",
+      "published": 1769529600
     },
     {
       "id": "047acc8f4bfa",
@@ -814,48 +856,6 @@
       "published": 1769366350
     },
     {
-      "id": "a4192f7e0c23",
-      "title": "先导智能获监管放行，欲成为下一个宁德时代",
-      "url": "https://www.ftchinese.com/story/001108804",
-      "source": "ftchinese.com",
-      "published": 1769356800
-    },
-    {
-      "id": "cd434f96531d",
-      "title": "中国财政吃紧，税务部门大量招录公务员",
-      "url": "https://www.ftchinese.com/story/001108803",
-      "source": "ftchinese.com",
-      "published": 1769356800
-    },
-    {
-      "id": "5cda297e333a",
-      "title": "今天的孩子，还有“人生目标”吗？",
-      "url": "https://www.ftchinese.com/story/001108796",
-      "source": "ftchinese.com",
-      "published": 1769356800
-    },
-    {
-      "id": "7dbaff9575fe",
-      "title": "FT社评：预测市场如何不被滥用？",
-      "url": "https://www.ftchinese.com/story/001108802",
-      "source": "ftchinese.com",
-      "published": 1769356800
-    },
-    {
-      "id": "d34fab04f796",
-      "title": "英国商务大臣建议将议员工资与GDP挂钩",
-      "url": "https://www.ftchinese.com/story/001108801",
-      "source": "ftchinese.com",
-      "published": 1769356800
-    },
-    {
-      "id": "91ce8f1cafba",
-      "title": "英国政府被迫暂停查戈斯群岛协议立法程序",
-      "url": "https://www.ftchinese.com/story/001108800",
-      "source": "ftchinese.com",
-      "published": 1769356800
-    },
-    {
       "id": "1d374a4c1f3a",
       "title": "墙外文摘：《芳华》招魂？“文革就是中国人的大屠杀”",
       "url": "https://www.dw.com/zh/墙外文摘：《芳华》招魂？-文革就是中国人的大屠杀/a-75651031?maca=chi-rss-chi-all-1127-rdf",
@@ -1325,5 +1325,5 @@
       "published": 1767005520
     }
   ],
-  "build_id": 1769553789
+  "build_id": 1769555501
 }
