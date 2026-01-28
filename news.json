@@ -1,6 +1,34 @@
 {
-  "updated": 1769586268,
+  "updated": 1769588253,
   "items": [
+    {
+      "id": "4d0d1e9c2d0e",
+      "title": "相隔十年再啟動！國共智庫論壇下周二北京復辦 聚焦兩岸交流合作",
+      "url": "https://www.singtaousa.com/2026/01/28/news/china/kmt-cpc-think-tank-forum-beijing/",
+      "source": "singtaousa.com",
+      "published": 1769587488
+    },
+    {
+      "id": "f9d9e93e10eb",
+      "title": "為圓醫生夢出奇招 印度青年自斷腳掌圖騙殘疾學額",
+      "url": "https://www.singtaousa.com/2026/01/28/news/world/uttar-pradesh-youth-amputates-foot-to-seek-disability-quota-in-admission-to-medical-college/",
+      "source": "singtaousa.com",
+      "published": 1769587200
+    },
+    {
+      "id": "ce8c304dba3d",
+      "title": "NHS電池配給制惹民怨 英國聽障者陷無聲困境",
+      "url": "https://www.singtaousa.com/2026/01/28/news/world/deaf-forced-to-turn-off-hearing-aids-amid-nhs-battery-shortage/",
+      "source": "singtaousa.com",
+      "published": 1769587200
+    },
+    {
+      "id": "57738f5d8833",
+      "title": "敗血症併發腎衰竭 胡婉玲母親病逝",
+      "url": "https://www.singtaousa.com/2026/01/28/entertainment/media-veteran-hu-wanling-mother-passes-away/",
+      "source": "singtaousa.com",
+      "published": 1769587200
+    },
     {
       "id": "9313476bf4df",
       "title": "日職廣島鯉魚選手涉使用喪屍煙彈被捕  球團致歉",
@@ -163,32 +191,11 @@
       "published": 1769580773
     },
     {
-      "id": "a451015bd98b",
-      "title": "元朗魚塘驚現1米長「食魚巨獸」！專家警告：鱷龜幾乎無天敵，切勿當寵物養",
-      "url": "https://www.singtaousa.com/2026/01/27/news/china/abandoned-alligator-snapping-turtle-hong-kong/",
-      "source": "singtaousa.com",
-      "published": 1769580288
-    },
-    {
       "id": "5856b4f8d78e",
       "title": "中国奢侈品消费预计2026年将下降4%",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260128-%E4%B8%AD%E5%9B%BD%E5%A5%A2%E4%BE%88%E5%93%81%E6%B6%88%E8%B4%B9%E9%A2%84%E8%AE%A12026%E5%B9%B4%E5%B0%86%E4%B8%8B%E9%99%8D4",
       "source": "rfi.fr",
       "published": 1769580018
-    },
-    {
-      "id": "f30ddf329c72",
-      "title": "林志玲時隔8年再拍戲",
-      "url": "https://www.singtaousa.com/2026/01/27/entertainment/lin-chiling-returns-to-filming-after-8-years/",
-      "source": "singtaousa.com",
-      "published": 1769580000
-    },
-    {
-      "id": "49af9a7e32a4",
-      "title": "孟加拉勞工赴俄淘金夢碎 慘遭賣上烏克蘭前線當炮灰",
-      "url": "https://www.singtaousa.com/2026/01/27/news/world/workers-from-bangladesh-sought-jobs-in-russia-but-got-sent-to-combat-in-ukraine/",
-      "source": "singtaousa.com",
-      "published": 1769579872
     },
     {
       "id": "ee2c5d7b24a7",
@@ -238,13 +245,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cy4q21z8nj2o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1769579051
-    },
-    {
-      "id": "a307c4b53f10",
-      "title": "【直擊主教山】霸地20年建球枱神壇 搭建者認違法 怒轟政府無視居民康體需求",
-      "url": "https://www.singtaousa.com/2026/01/27/news/china/bishop-hill-unauthorized-structures-sports-facilities/",
-      "source": "singtaousa.com",
-      "published": 1769578490
     },
     {
       "id": "43d37f791f36",
@@ -380,6 +380,13 @@
       "published": 1769537515
     },
     {
+      "id": "e5a847c1dfe2",
+      "title": "声浪逐渐扩大的呼声：废除ICE",
+      "url": "https://www.ftchinese.com/story/001108826",
+      "source": "ftchinese.com",
+      "published": 1769529600
+    },
+    {
       "id": "de2b71f304e1",
       "title": "特朗普正在破坏全球经济秩序",
       "url": "https://www.ftchinese.com/story/001108828",
@@ -390,13 +397,6 @@
       "id": "0169180595e1",
       "title": "苏林高龄连任 越南加速前行",
       "url": "https://www.ftchinese.com/story/001108827",
-      "source": "ftchinese.com",
-      "published": 1769529600
-    },
-    {
-      "id": "e5a847c1dfe2",
-      "title": "声浪逐渐扩大的呼声：废除ICE",
-      "url": "https://www.ftchinese.com/story/001108826",
       "source": "ftchinese.com",
       "published": 1769529600
     },
@@ -1318,5 +1318,5 @@
       "published": 1767005520
     }
   ],
-  "build_id": 1769586268
+  "build_id": 1769588253
 }
