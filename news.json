@@ -1,6 +1,27 @@
 {
-  "updated": 1769593953,
+  "updated": 1769595448,
   "items": [
+    {
+      "id": "08a559100b56",
+      "title": "泰國未出現立百病毒病例　當局加強機場邊境防疫措施",
+      "url": "https://money.udn.com/money/story/5599/9294648",
+      "source": "money.udn.com",
+      "published": 1769595162
+    },
+    {
+      "id": "9d191a25fd81",
+      "title": "川普樂見走貶美元欲振乏力　科技股領軍亞股多收漲",
+      "url": "https://money.udn.com/money/story/5599/9294614",
+      "source": "money.udn.com",
+      "published": 1769594442
+    },
+    {
+      "id": "873bec21a2ba",
+      "title": "川普揚言調高關稅 韓總統幕僚：美方不滿完全源自法案延遲",
+      "url": "https://money.udn.com/money/story/5599/9294601",
+      "source": "money.udn.com",
+      "published": 1769594439
+    },
     {
       "id": "190d2e645a5d",
       "title": "美菲在黄岩岛附近海空域举行今年首次联演",
@@ -10,7 +31,7 @@
     },
     {
       "id": "c3cfe8a2855b",
-      "title": "AI需求續噴 ASML訂單創新高 上調全年財測",
+      "title": "AI 需求續噴 ASML 訂單創新高 上調全年財測",
       "url": "https://money.udn.com/money/story/5599/9294555",
       "source": "money.udn.com",
       "published": 1769593181
@@ -30,9 +51,9 @@
       "published": 1769592885
     },
     {
-      "id": "48e0264a02e5",
+      "id": "071c8b008563",
       "title": "青瓦台強調積極與美方溝通　29日緊急派員訪美",
-      "url": "https://money.udn.com/money/story/10511/9294519",
+      "url": "https://money.udn.com/money/story/5599/9294519",
       "source": "money.udn.com",
       "published": 1769592640
     },
@@ -261,27 +282,6 @@
       "published": 1769583639
     },
     {
-      "id": "b6abe3fc27dd",
-      "title": "俄國士兵「穿企鵝裝」防偵測 下秒遭烏軍無人機炸死",
-      "url": "https://money.udn.com/money/story/5599/9294063",
-      "source": "money.udn.com",
-      "published": 1769582378
-    },
-    {
-      "id": "4c6ece9029c0",
-      "title": "川普有意提升關稅　韓國朝野政黨展開激烈攻防",
-      "url": "https://money.udn.com/money/story/10511/9294049",
-      "source": "money.udn.com",
-      "published": 1769582197
-    },
-    {
-      "id": "a88d492d20bf",
-      "title": "5歲童放學被抓掀輿論關注　美法官暫擋驅逐令",
-      "url": "https://money.udn.com/money/story/10511/9294053",
-      "source": "money.udn.com",
-      "published": 1769582197
-    },
-    {
       "id": "5856b4f8d78e",
       "title": "中国奢侈品消费预计2026年将下降4%",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260128-%E4%B8%AD%E5%9B%BD%E5%A5%A2%E4%BE%88%E5%93%81%E6%B6%88%E8%B4%B9%E9%A2%84%E8%AE%A12026%E5%B9%B4%E5%B0%86%E4%B8%8B%E9%99%8D4",
@@ -434,6 +434,13 @@
       "url": "https://cn.nytimes.com/world/20260128/spain-undocumented-migrants-residency/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1769537515
+    },
+    {
+      "id": "faaac732227e",
+      "title": "旧秩序终结后世界何去何从",
+      "url": "https://www.ftchinese.com/story/001108831",
+      "source": "ftchinese.com",
+      "published": 1769529600
     },
     {
       "id": "b4cb864db3df",
@@ -782,13 +789,6 @@
       "id": "741ed9f1c2c0",
       "title": "俄乌和谈有进展 但领土仍是症结",
       "url": "https://www.ftchinese.com/story/001108815",
-      "source": "ftchinese.com",
-      "published": 1769443200
-    },
-    {
-      "id": "82c6411f8d01",
-      "title": "紫金黄金以40亿美元收购加拿大同行",
-      "url": "https://www.ftchinese.com/story/001108814",
       "source": "ftchinese.com",
       "published": 1769443200
     },
@@ -1318,5 +1318,5 @@
       "published": 1767005520
     }
   ],
-  "build_id": 1769593953
+  "build_id": 1769595448
 }
