@@ -1,6 +1,20 @@
 {
-  "updated": 1769615705,
+  "updated": 1769617355,
   "items": [
+    {
+      "id": "0ab8c517b145",
+      "title": "盧慧敏預告下月和Jennie同台",
+      "url": "https://www.singtaousa.com/2026/01/28/entertainment/amy-lo-to-share-stage-with-jennie/",
+      "source": "singtaousa.com",
+      "published": 1769616000
+    },
+    {
+      "id": "1353ad9ff977",
+      "title": "亞馬遜全球再炒16000人　三個月內第二次大裁員",
+      "url": "https://www.singtaousa.com/2026/01/28/news/usa/amazon-lays-off-another-16000-people-globally-second-major-layoff-in-three-months/",
+      "source": "singtaousa.com",
+      "published": 1769615871
+    },
     {
       "id": "5f0a0888b107",
       "title": "貝森特：美國奉行強勢美元政策 「絕對沒有」干預日圓",
@@ -21,6 +35,13 @@
       "url": "https://money.udn.com/money/story/5599/9295276",
       "source": "money.udn.com",
       "published": 1769614589
+    },
+    {
+      "id": "699ba0007246",
+      "title": "「视频」专家评论：张又侠落马可能提升解放军未来对台动武风险",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260128-%E8%A7%86%E9%A2%91-%E4%B8%93%E5%AE%B6%E8%AF%84%E8%AE%BA-%E5%BC%A0%E5%8F%88%E4%BE%A0%E8%90%BD%E9%A9%AC%E5%8F%AF%E8%83%BD%E6%8F%90%E5%8D%87%E8%A7%A3%E6%94%BE%E5%86%9B%E6%9C%AA%E6%9D%A5%E5%AF%B9%E5%8F%B0%E5%8A%A8%E6%AD%A6%E9%A3%8E%E9%99%A9",
+      "source": "rfi.fr",
+      "published": 1769614457
     },
     {
       "id": "96a3a97684eb",
@@ -180,20 +201,6 @@
       "id": "527e33742685",
       "title": "快船戰績改善 運營總裁續約",
       "url": "https://www.singtaousa.com/2026/01/28/news/usa/clippers-record-improves-president-re-signs/",
-      "source": "singtaousa.com",
-      "published": 1769608800
-    },
-    {
-      "id": "ffe2dc7e7550",
-      "title": "尼克斯發力國王六連敗",
-      "url": "https://www.singtaousa.com/2026/01/28/news/usa/knicks-beat-kings-six-game-losing-streak/",
-      "source": "singtaousa.com",
-      "published": 1769608800
-    },
-    {
-      "id": "dd671bbef773",
-      "title": "超級碗票價持續走高",
-      "url": "https://www.singtaousa.com/2026/01/28/news/usa/super-bowl-ticket-prices-soar/",
       "source": "singtaousa.com",
       "published": 1769608800
     },
@@ -653,13 +660,6 @@
       "published": 1769527080
     },
     {
-      "id": "c161725577fc",
-      "title": "支联会案：港府指宣扬结束专政就是「煽颠」 突借何俊仁认罪推论其他被告共谋",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260127-%E6%94%AF%E8%81%94%E4%BC%9A%E6%A1%88-%E6%B8%AF%E5%BA%9C%E6%8C%87%E5%AE%A3%E6%89%AC%E7%BB%93%E6%9D%9F%E4%B8%93%E6%94%BF%E5%B0%B1%E6%98%AF-%E7%85%BD%E9%A2%A0-%E7%AA%81%E5%80%9F%E4%BD%95%E4%BF%8A%E4%BB%81%E8%AE%A4%E7%BD%AA%E6%8E%A8%E8%AE%BA%E5%85%B6%E4%BB%96%E8%A2%AB%E5%91%8A%E5%85%B1%E8%B0%8B",
-      "source": "rfi.fr",
-      "published": 1769526244
-    },
-    {
       "id": "318c4acc9d66",
       "title": "德语媒体：制造恐惧 - 习近平的治国之道",
       "url": "https://www.dw.com/zh/德语媒体：制造恐惧-习近平的治国之道/a-75682400?maca=chi-rss-chi-all-1127-rdf",
@@ -840,13 +840,6 @@
       "url": "https://www.ftchinese.com/story/001108815",
       "source": "ftchinese.com",
       "published": 1769443200
-    },
-    {
-      "id": "043a2e3b8cda",
-      "title": "完成谈判! 印度和欧盟即将达成自由贸易协议",
-      "url": "https://www.dw.com/zh/完成谈判-印度和欧盟即将达成自由贸易协议/a-75667037?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1769442420
     },
     {
       "id": "4a6f5d2e17c5",
@@ -1346,5 +1339,5 @@
       "published": 1767026760
     }
   ],
-  "build_id": 1769615705
+  "build_id": 1769617355
 }
