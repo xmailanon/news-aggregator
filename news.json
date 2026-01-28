@@ -1,6 +1,27 @@
 {
-  "updated": 1769640613,
+  "updated": 1769642191,
   "items": [
+    {
+      "id": "b0694c6ae7d1",
+      "title": "標普7,000 點大關得而復失 Fed鮑爾暗示不急於重啟降息",
+      "url": "https://money.udn.com/money/story/5599/9295475",
+      "source": "money.udn.com",
+      "published": 1769642444
+    },
+    {
+      "id": "7cd7c31a3047",
+      "title": "AI偵測器錯殺無辜？美大學生被迫用AI改寫論文自保",
+      "url": "https://www.singtaousa.com/2026/01/28/news/usa/to-avoid-accusations-of-ai-cheating-college-students-are-turning-to-ai/",
+      "source": "singtaousa.com",
+      "published": 1769641200
+    },
+    {
+      "id": "bacc485df020",
+      "title": "張雨綺錯失 遼寧春晚舞台",
+      "url": "https://www.singtaousa.com/2026/01/28/entertainment/actress-zhang-yuqi-misses-liaoning-spring-festival-gala/",
+      "source": "singtaousa.com",
+      "published": 1769641200
+    },
     {
       "id": "b05251231cbe",
       "title": "Fed 決策／ 聯準會刪就業走下坡風險 表明不急於重啟降息",
@@ -133,20 +154,6 @@
       "url": "https://www.singtaousa.com/2026/01/28/news/china/chongqing-hotpot-restaurant-labor-fee/",
       "source": "singtaousa.com",
       "published": 1769634284
-    },
-    {
-      "id": "d2db6f713ed1",
-      "title": "訪日乘的士戙高雙腳  全昭彌被轟「勁不雅」",
-      "url": "https://www.singtaousa.com/2026/01/28/entertainment/somi-criticized-for-feet-up-in-taxi/",
-      "source": "singtaousa.com",
-      "published": 1769634000
-    },
-    {
-      "id": "0db0b0192a06",
-      "title": "明州槍案怒火燒至灣區！東灣六校高中生罷課癱瘓交通 | 有影片",
-      "url": "https://www.singtaousa.com/2026/01/28/news/usa/large-student-walkout-protesting-ice-takes-over-busy-east-bay-road/",
-      "source": "singtaousa.com",
-      "published": 1769633208
     },
     {
       "id": "91a13fc68f28",
@@ -303,13 +310,6 @@
       "published": 1769623436
     },
     {
-      "id": "712cfb2bafcd",
-      "title": "美在中東軍艦增至10艘　川普警告伊朗時間所剩無幾",
-      "url": "https://money.udn.com/money/story/5599/9295369",
-      "source": "money.udn.com",
-      "published": 1769623434
-    },
-    {
       "id": "6484fba5cc25",
       "title": "涉数千万美元加密货币洗钱案　美国法院判中国籍男子46个月监禁",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260128-%E6%B6%89%E6%95%B0%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88-%E7%BE%8E%E5%9B%BD%E6%B3%95%E9%99%A2%E5%88%A4%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E5%AD%9046%E4%B8%AA%E6%9C%88%E7%9B%91%E7%A6%81",
@@ -329,6 +329,34 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260128-%E8%A2%AB%E6%8C%87%E6%8E%A7%E5%8F%82%E4%B8%8E%E7%AA%83%E5%8F%96%E7%BE%8E%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E7%A0%94%E7%A9%B6-%E4%B8%8A%E8%AF%89%E6%B3%95%E9%99%A2%E5%90%8C%E6%84%8F%E5%BC%95%E6%B8%A1%E5%9C%A8%E7%B1%B3%E5%85%B0%E6%9C%BA%E5%9C%BA%E8%A2%AB%E6%8D%95%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88",
       "source": "rfi.fr",
       "published": 1769617171
+    },
+    {
+      "id": "f26b52270d66",
+      "title": "深度剖析CLARITY法案的分歧：加密世界的曙光，还是华尔街的招安？",
+      "url": "https://www.ftchinese.com/story/001108808",
+      "source": "ftchinese.com",
+      "published": 1769616000
+    },
+    {
+      "id": "b6cb62548711",
+      "title": "卡尼之问：中等强国能否抱团成为重要国际力量？",
+      "url": "https://www.ftchinese.com/story/001108829",
+      "source": "ftchinese.com",
+      "published": 1769616000
+    },
+    {
+      "id": "c9fcc2672740",
+      "title": "暴走的ICE——特朗普还能控制住局面吗？",
+      "url": "https://www.ftchinese.com/story/001108832",
+      "source": "ftchinese.com",
+      "published": 1769616000
+    },
+    {
+      "id": "d73de825139e",
+      "title": "中国汽车正在欧洲市场寻求高端突围",
+      "url": "https://www.ftchinese.com/story/001108833",
+      "source": "ftchinese.com",
+      "published": 1769616000
     },
     {
       "id": "699ba0007246",
@@ -810,34 +838,6 @@
       "id": "8df5104aba67",
       "title": "英国计划加强对中国在英国施加影响活动的审查",
       "url": "https://www.ftchinese.com/story/001108821",
-      "source": "ftchinese.com",
-      "published": 1769443200
-    },
-    {
-      "id": "c25f9ae02e58",
-      "title": "美国移民执法与不在行的独裁者",
-      "url": "https://www.ftchinese.com/story/001108819",
-      "source": "ftchinese.com",
-      "published": 1769443200
-    },
-    {
-      "id": "0febc7910953",
-      "title": "中国如何实现科技逆转",
-      "url": "https://www.ftchinese.com/story/001108817",
-      "source": "ftchinese.com",
-      "published": 1769443200
-    },
-    {
-      "id": "901b9192aa91",
-      "title": "德国总理默茨为何2026年首访选择印度？",
-      "url": "https://www.ftchinese.com/story/001108812",
-      "source": "ftchinese.com",
-      "published": 1769443200
-    },
-    {
-      "id": "741ed9f1c2c0",
-      "title": "俄乌和谈有进展 但领土仍是症结",
-      "url": "https://www.ftchinese.com/story/001108815",
       "source": "ftchinese.com",
       "published": 1769443200
     },
@@ -1332,5 +1332,5 @@
       "published": 1767104760
     }
   ],
-  "build_id": 1769640613
+  "build_id": 1769642191
 }
