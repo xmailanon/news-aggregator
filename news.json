@@ -1,6 +1,41 @@
 {
-  "updated": 1769662799,
+  "updated": 1769665542,
   "items": [
+    {
+      "id": "a2b175f6ba0b",
+      "title": "屯馬綫特別安排｜紅磡站2.1及3.8需過對面月台轉車 港鐵：站站有車坐",
+      "url": "https://www.singtaousa.com/2026/01/28/news/china/tuen-ma-line-special-arrangement-hung-hom-transfer/",
+      "source": "singtaousa.com",
+      "published": 1769664889
+    },
+    {
+      "id": "4bbc91b8ddca",
+      "title": "川普威脅對伊朗動武　黃金飆破每盎司5500美元",
+      "url": "https://money.udn.com/money/story/10511/9296344",
+      "source": "money.udn.com",
+      "published": 1769664640
+    },
+    {
+      "id": "2f46394a25b6",
+      "title": "荷蘭淪「公廁荒漠」？數百萬人外出如廁難 團體促改善",
+      "url": "https://www.singtaousa.com/2026/01/28/news/world/far-too-few-public-toilets-in-the-netherlands-causing-unacceptable-problems-for-many/",
+      "source": "singtaousa.com",
+      "published": 1769664600
+    },
+    {
+      "id": "f32708cf98f8",
+      "title": "川普擬打擊伊朗以點燃示威 中東盟友遊說反對：我們承擔後果",
+      "url": "https://money.udn.com/money/story/5599/9296332",
+      "source": "money.udn.com",
+      "published": 1769664493
+    },
+    {
+      "id": "a644e7d68ee1",
+      "title": "川普威脅斷援助　伊拉克前總理馬里奇批干涉內政",
+      "url": "https://money.udn.com/money/story/5599/9296292",
+      "source": "money.udn.com",
+      "published": 1769663542
+    },
     {
       "id": "d0947f110497",
       "title": "誰綁架了石頭？加拿大攀岩地標「便攜石」失蹤奇案終落幕",
@@ -16,16 +51,16 @@
       "published": 1769662800
     },
     {
-      "id": "5cf2bfcf259d",
-      "title": "盧比歐搭空軍一號「木乃伊式偷睡」 怕被川普嫌弱",
-      "url": "https://money.udn.com/money/story/10511/9296254",
+      "id": "d3d11e7f9585",
+      "title": "明州致命槍擊惹議　ICE要執法人員避免與抗議者互動",
+      "url": "https://money.udn.com/money/story/10511/9296256",
       "source": "money.udn.com",
       "published": 1769662471
     },
     {
-      "id": "d3d11e7f9585",
-      "title": "明州致命槍擊惹議　ICE要執法人員避免與抗議者互動",
-      "url": "https://money.udn.com/money/story/10511/9296256",
+      "id": "5cf2bfcf259d",
+      "title": "盧比歐搭空軍一號「木乃伊式偷睡」 怕被川普嫌弱",
+      "url": "https://money.udn.com/money/story/10511/9296254",
       "source": "money.udn.com",
       "published": 1769662471
     },
@@ -52,7 +87,7 @@
     },
     {
       "id": "75e25ab7c434",
-      "title": "AI永動機再擴大 輝達、微軟、亞馬遜傳擬投資OpenAI上看600億美元",
+      "title": "AI 永動機再擴大 輝達、微軟、亞馬遜傳擬投資 OpenAI 上看600億美元",
       "url": "https://money.udn.com/money/story/5599/9296227",
       "source": "money.udn.com",
       "published": 1769661808
@@ -87,7 +122,7 @@
     },
     {
       "id": "ba3d115a0d85",
-      "title": "銅價飆7%創新高 快攻破1.4萬美元 高盛卻警告生產第一線需求放緩",
+      "title": "銅價飆7%創新高 首度攻破1.4萬美元 高盛卻警告生產第一線需求放緩",
       "url": "https://money.udn.com/money/story/5599/9296149",
       "source": "money.udn.com",
       "published": 1769659875
@@ -191,32 +226,11 @@
       "published": 1769656344
     },
     {
-      "id": "2b1f04a2543b",
-      "title": "川普MAGA基本盤轉向？民調顯示挺對外動武 中國與台灣支持比例曝光",
-      "url": "https://money.udn.com/money/story/5599/9295896",
-      "source": "money.udn.com",
-      "published": 1769656162
-    },
-    {
-      "id": "2c3933084c44",
-      "title": "挪威主權基金減碼台積電、輝達 縮減八大科技巨頭持股 但增持「這家」",
-      "url": "https://money.udn.com/money/story/5599/9295894",
-      "source": "money.udn.com",
-      "published": 1769656115
-    },
-    {
       "id": "4d588f6767ff",
       "title": "黃子韜徐藝洋滑雪零互動 引發吵架猜測火速闢謠",
       "url": "https://www.singtaousa.com/2026/01/28/entertainment/huang-zi-tao-xu-yi-yang-ski-fight/",
       "source": "singtaousa.com",
       "published": 1769655600
-    },
-    {
-      "id": "0a13efc35f13",
-      "title": "美議員質疑輝達支援DeepSeek　憂AI成果流向中國軍方",
-      "url": "https://money.udn.com/money/story/5599/9295845",
-      "source": "money.udn.com",
-      "published": 1769655247
     },
     {
       "id": "a52b86cd2c87",
@@ -245,20 +259,6 @@
       "url": "https://cn.nytimes.com/usa/20260129/heng-guan-china-uyghurs-asylum/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1769653818
-    },
-    {
-      "id": "7ca82d6cd63f",
-      "title": "國語16天內兩名美國公民被ICE當街擊斃｜官方說法遭多角度影片打臉，美國執法已失控？",
-      "url": "https://www.singtaousa.com/2026/01/28/opinion/mandarin-two-american-citizens-were-killed-in-the-street-by-ice-within-16-days-the-official-statement-was-slapped-in-the-face-by-multiple-angle-videos-has-american-law-enforcement-lost-control/",
-      "source": "singtaousa.com",
-      "published": 1769652300
-    },
-    {
-      "id": "e4779aac3d12",
-      "title": "王玉雯控被劇組造謠 《突然的喜歡》道歉",
-      "url": "https://www.singtaousa.com/2026/01/28/entertainment/wang-yuwen-accuses-drama-of-defamation/",
-      "source": "singtaousa.com",
-      "published": 1769652000
     },
     {
       "id": "5a7725526652",
@@ -359,6 +359,13 @@
       "published": 1769624176
     },
     {
+      "id": "606fb94cd00e",
+      "title": "特朗普如何意识到他在明尼阿波利斯遇到了大麻烦",
+      "url": "https://cn.nytimes.com/usa/20260129/trump-minnesota-noem-bovino-homan-miller/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1769621076
+    },
+    {
       "id": "6484fba5cc25",
       "title": "涉数千万美元加密货币洗钱案　美国法院判中国籍男子46个月监禁",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260128-%E6%B6%89%E6%95%B0%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E6%B4%97%E9%92%B1%E6%A1%88-%E7%BE%8E%E5%9B%BD%E6%B3%95%E9%99%A2%E5%88%A4%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E5%AD%9046%E4%B8%AA%E6%9C%88%E7%9B%91%E7%A6%81",
@@ -378,6 +385,20 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260128-%E8%A2%AB%E6%8C%87%E6%8E%A7%E5%8F%82%E4%B8%8E%E7%AA%83%E5%8F%96%E7%BE%8E%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%E7%A0%94%E7%A9%B6-%E4%B8%8A%E8%AF%89%E6%B3%95%E9%99%A2%E5%90%8C%E6%84%8F%E5%BC%95%E6%B8%A1%E5%9C%A8%E7%B1%B3%E5%85%B0%E6%9C%BA%E5%9C%BA%E8%A2%AB%E6%8D%95%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B7%A5%E7%A8%8B%E5%B8%88",
       "source": "rfi.fr",
       "published": 1769617171
+    },
+    {
+      "id": "4b677addc57f",
+      "title": "斯塔默访华：英国正在重新计算什么？",
+      "url": "https://www.ftchinese.com/story/001108844",
+      "source": "ftchinese.com",
+      "published": 1769616000
+    },
+    {
+      "id": "e711688d4d80",
+      "title": "福特扩大与宁德时代的合作，引发美国议员不满",
+      "url": "https://www.ftchinese.com/story/001108843",
+      "source": "ftchinese.com",
+      "published": 1769616000
     },
     {
       "id": "f26b52270d66",
@@ -604,13 +625,6 @@
       "published": 1769579051
     },
     {
-      "id": "43d37f791f36",
-      "title": "印度近兩百人遭隔離 關於尼帕病毒你該知道什麼？",
-      "url": "https://www.dw.com/zh/印度近兩百人遭隔離-關於尼帕病毒你該知道什麼？/a-75687057?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1769575860
-    },
-    {
       "id": "723dfa430c12",
       "title": "分析：張又俠「七宗罪」和 「紅二代」世交神話的破滅",
       "url": "https://www.bbc.com/zhongwen/articles/cp80pl999gjo/trad?at_medium=RSS&at_campaign=rss",
@@ -619,7 +633,7 @@
     },
     {
       "id": "ca6a10961a7e",
-      "title": "馬年將至，這隻「哭哭馬」玩具在中國春節前意外走红",
+      "title": "馬年將至，這隻「哭哭馬」玩具在中國春節前意外走紅",
       "url": "https://www.bbc.com/zhongwen/articles/c3ed2xzlz9ko/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1769573813
@@ -726,20 +740,6 @@
       "id": "c8fca08d2778",
       "title": "高市早苗、石桥湛山与 “小日本主义”",
       "url": "https://www.ftchinese.com/story/001108793",
-      "source": "ftchinese.com",
-      "published": 1769529600
-    },
-    {
-      "id": "c174e4e3bf22",
-      "title": "展望2026：美联储如何平衡独立性和可信性？",
-      "url": "https://www.ftchinese.com/story/001108794",
-      "source": "ftchinese.com",
-      "published": 1769529600
-    },
-    {
-      "id": "05b1a5b591d2",
-      "title": "“加密已死”讨论背后的深意何在？",
-      "url": "https://www.ftchinese.com/story/001108807",
       "source": "ftchinese.com",
       "published": 1769529600
     },
@@ -1115,13 +1115,6 @@
       "published": 1769069027
     },
     {
-      "id": "2bee1181e131",
-      "title": "特朗普在达沃斯：美国与盟友上演戏剧性“决裂”",
-      "url": "https://cn.nytimes.com/world/20260122/davos-trump-speech-greenland-deal/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1769026943
-    },
-    {
       "id": "0d476f2628e2",
       "title": "德语媒体：欧洲应认真对待中国的合作信号",
       "url": "https://www.dw.com/zh/德语媒体：欧洲应认真对待中国的合作信号/a-75594572?maca=chi-rss-chi-all-1127-rdf",
@@ -1318,5 +1311,5 @@
       "published": 1767104760
     }
   ],
-  "build_id": 1769662799
+  "build_id": 1769665542
 }
