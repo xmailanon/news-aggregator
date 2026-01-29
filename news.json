@@ -1,6 +1,55 @@
 {
-  "updated": 1769684522,
+  "updated": 1769687370,
   "items": [
+    {
+      "id": "855c78dfb29a",
+      "title": "布倫特原油價格觸及每桶70美元 此前川普對伊朗加大威脅",
+      "url": "https://money.udn.com/money/story/5599/9297153",
+      "source": "money.udn.com",
+      "published": 1769687237
+    },
+    {
+      "id": "d4b43a1726e3",
+      "title": "Information 稱輝達等公司正在商談向 OpenAI 投資至多600億美元",
+      "url": "https://money.udn.com/money/story/5599/9296103",
+      "source": "money.udn.com",
+      "published": 1769687174
+    },
+    {
+      "id": "9fec4d9fec2d",
+      "title": "美國打擊伊朗恐一觸即發  越南：盼各方克制避免武力",
+      "url": "https://money.udn.com/money/story/5599/9297259",
+      "source": "money.udn.com",
+      "published": 1769686599
+    },
+    {
+      "id": "9d7e25b37cfc",
+      "title": "聯準會利率維持不變　亞股走勢不一",
+      "url": "https://money.udn.com/money/story/5599/9297235",
+      "source": "money.udn.com",
+      "published": 1769685943
+    },
+    {
+      "id": "b0e859b27b80",
+      "title": "去年央行購買黃金力度減弱 散戶和機構投資者成為主力",
+      "url": "https://money.udn.com/money/story/5599/9296712",
+      "source": "money.udn.com",
+      "published": 1769685810
+    },
+    {
+      "id": "9a5ee61056ce",
+      "title": "黄仁勋对H200中国订单获批表示乐观",
+      "url": "https://www.dw.com/zh/黄仁勋对h200中国订单获批表示乐观/a-75712526?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1769685240
+    },
+    {
+      "id": "c70248a925d7",
+      "title": "婴儿奶粉：我们为何会变得依赖“逐利轻忽食安”的中国？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%81%A5%E5%BA%B7%E6%97%B6%E9%97%B4/20260129-%E5%A9%B4%E5%84%BF%E5%A5%B6%E7%B2%89-%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%8F%98%E5%BE%97%E4%BE%9D%E8%B5%96-%E9%80%90%E5%88%A9%E8%BD%BB%E5%BF%BD%E9%A3%9F%E5%AE%89-%E7%9A%84%E4%B8%AD%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1769684877
+    },
     {
       "id": "10320fa2b2b7",
       "title": "斯塔默会见习近平称望与中方建立“更加老成”的关系 提黎智英案等关切",
@@ -280,41 +329,6 @@
       "url": "https://money.udn.com/money/story/5599/9296840",
       "source": "money.udn.com",
       "published": 1769674366
-    },
-    {
-      "id": "62d2089e41d9",
-      "title": "紐約猶太中心遭人駕車蓄意衝撞　警方朝仇恨犯罪偵辦",
-      "url": "https://money.udn.com/money/story/10511/9296814",
-      "source": "money.udn.com",
-      "published": 1769673723
-    },
-    {
-      "id": "41d28a5fe34b",
-      "title": "8年來首位英相訪中　施凱爾：與北京建立更成熟關係",
-      "url": "https://money.udn.com/money/story/5599/9296815",
-      "source": "money.udn.com",
-      "published": 1769673722
-    },
-    {
-      "id": "ea977a1e68ec",
-      "title": "川普擬發動精準打擊　專家：單靠空襲難動搖伊朗",
-      "url": "https://money.udn.com/money/story/5599/9296723",
-      "source": "money.udn.com",
-      "published": 1769671920
-    },
-    {
-      "id": "4e827c9ceba9",
-      "title": "立百病毒疫情國際關注　印度稱已控制不見緊張氣氛",
-      "url": "https://money.udn.com/money/story/5599/9296720",
-      "source": "money.udn.com",
-      "published": 1769671918
-    },
-    {
-      "id": "cfe13811a67b",
-      "title": "川普點名施壓！南韓官員急赴美 韓媒曝總理未獲國務院隨扈",
-      "url": "https://money.udn.com/money/story/5599/9296687",
-      "source": "money.udn.com",
-      "published": 1769671551
     },
     {
       "id": "c548afe2e87b",
@@ -597,13 +611,6 @@
       "published": 1769616000
     },
     {
-      "id": "699ba0007246",
-      "title": "「视频」专家评论：张又侠落马可能提升解放军未来对台动武风险",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260128-%E8%A7%86%E9%A2%91-%E4%B8%93%E5%AE%B6%E8%AF%84%E8%AE%BA-%E5%BC%A0%E5%8F%88%E4%BE%A0%E8%90%BD%E9%A9%AC%E5%8F%AF%E8%83%BD%E6%8F%90%E5%8D%87%E8%A7%A3%E6%94%BE%E5%86%9B%E6%9C%AA%E6%9D%A5%E5%AF%B9%E5%8F%B0%E5%8A%A8%E6%AD%A6%E9%A3%8E%E9%99%A9",
-      "source": "rfi.fr",
-      "published": 1769614457
-    },
-    {
       "id": "0b9cfebd11c7",
       "title": "分析：“美国优先”导致盟友转向中国",
       "url": "https://www.dw.com/zh/分析：-美国优先-导致盟友转向中国/a-75699166?maca=chi-rss-chi-all-1127-rdf",
@@ -812,13 +819,6 @@
       "url": "https://www.dw.com/zh/纳粹集中营幸存者：-我们被剥夺了人性/a-75666411?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1769520900
-    },
-    {
-      "id": "b83fd131f655",
-      "title": "印欧达成自贸协定 中国忧心",
-      "url": "https://www.dw.com/zh/印欧达成自贸协定-中国忧心/a-75678839?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1769519100
     },
     {
       "id": "ef8dfc8b3483",
@@ -1304,5 +1304,5 @@
       "published": 1767104760
     }
   ],
-  "build_id": 1769684522
+  "build_id": 1769687370
 }
