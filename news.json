@@ -1,6 +1,27 @@
 {
-  "updated": 1769717828,
+  "updated": 1769719852,
   "items": [
+    {
+      "id": "8faeb3b77419",
+      "title": "川普下令重開委內瑞拉空域　美航擬恢復飛往該國航班",
+      "url": "https://money.udn.com/money/story/10511/9297897",
+      "source": "money.udn.com",
+      "published": 1769719002
+    },
+    {
+      "id": "45f6d42b569f",
+      "title": "【諧音風波】恒生廣告翻版？內地商場「踏馬來了」宣傳語掀熱議！",
+      "url": "https://www.singtaousa.com/2026/01/29/news/china/chinese-new-year-slogan-controversy-goes-viral/",
+      "source": "singtaousa.com",
+      "published": 1769718889
+    },
+    {
+      "id": "7ef7a41cf46e",
+      "title": "汽車兩度猛撞紐約猶太總部 警方定調仇恨犯罪 全市戒備",
+      "url": "https://www.singtaousa.com/2026/01/29/news/usa/driver-crashes-into-chabad-lubavitch-headquarters-in-brooklyn-nypd/",
+      "source": "singtaousa.com",
+      "published": 1769718600
+    },
     {
       "id": "072af248c83a",
       "title": "美伊面对面：十艘美舰入中东 以色列沙特并不看好",
@@ -86,6 +107,13 @@
       "published": 1769713200
     },
     {
+      "id": "6dd427389a93",
+      "title": "美副司令：向印太夥伴派駐聯絡官　與台日聯手抗網攻",
+      "url": "https://money.udn.com/money/story/5599/9297868",
+      "source": "money.udn.com",
+      "published": 1769712866
+    },
+    {
       "id": "a06551508246",
       "title": "几内亚不再因2021年政变受制裁",
       "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260129-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%87%A0%E5%86%85%E4%BA%9A%E4%B8%8D%E5%86%8D%E5%9B%A02021%E5%B9%B4%E6%94%BF%E5%8F%98%E5%8F%97%E5%88%B6%E8%A3%81",
@@ -100,25 +128,11 @@
       "published": 1769711768
     },
     {
-      "id": "b255d9908473",
-      "title": "【機場販毒案】海關閃電偵破！拘3人檢420萬大麻花 揭馬來西亞來港販毒鏈",
-      "url": "https://www.singtaousa.com/2026/01/29/news/china/airport-customs-arrests-drugs-marijuana/",
-      "source": "singtaousa.com",
-      "published": 1769711685
-    },
-    {
       "id": "d0086b8d27cc",
       "title": "霍曼明州上任放低身段　改善移民掃蕩究責探員",
       "url": "https://money.udn.com/money/story/10511/9297864",
       "source": "money.udn.com",
       "published": 1769711444
-    },
-    {
-      "id": "0c1cc3a7276d",
-      "title": "報稅季攻略：電子報稅最快三周到手 善用兩大抵免可增退稅",
-      "url": "https://www.singtaousa.com/2026/01/29/lifestyle/finance/heres-when-youll-get-your-tax-refund-from-the-irs/",
-      "source": "singtaousa.com",
-      "published": 1769710816
     },
     {
       "id": "867a2eaafe65",
@@ -233,25 +247,11 @@
       "published": 1769703033
     },
     {
-      "id": "fc6c7b04e3a7",
-      "title": "特斯拉超大晶圓廠 藍圖浮現",
-      "url": "https://money.udn.com/money/story/123398/9297698",
-      "source": "money.udn.com",
-      "published": 1769702790
-    },
-    {
       "id": "1cfd68c442e4",
       "title": "欧盟指定伊斯兰革命卫队为恐怖组织 传美国或封锁伊朗石油出口",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260129-%E6%AC%A7%E7%9B%9F%E6%8C%87%E5%AE%9A%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E4%B8%BA%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87-%E4%BC%A0%E7%BE%8E%E5%9B%BD%E6%88%96%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E5%87%BA%E5%8F%A3",
       "source": "rfi.fr",
       "published": 1769701786
-    },
-    {
-      "id": "80abe67603b6",
-      "title": "歐盟與印度簽FTA有何意義？克魯曼：世界訴請與美國「離婚」",
-      "url": "https://money.udn.com/money/story/5599/9297713",
-      "source": "money.udn.com",
-      "published": 1769700391
     },
     {
       "id": "c1cee30baa7b",
@@ -1311,5 +1311,5 @@
       "published": 1767270900
     }
   ],
-  "build_id": 1769717828
+  "build_id": 1769719852
 }
