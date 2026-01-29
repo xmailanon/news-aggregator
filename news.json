@@ -1,6 +1,27 @@
 {
-  "updated": 1769713593,
+  "updated": 1769716088,
   "items": [
+    {
+      "id": "541e4ebca523",
+      "title": "特朗普下令重開委內瑞拉商業空域  美國航空擬恢復直航",
+      "url": "https://www.singtaousa.com/2026/01/29/news/usa/american-airlines-plans-resume-us-flights-venezuela-pending-government-approval/",
+      "source": "singtaousa.com",
+      "published": 1769715502
+    },
+    {
+      "id": "d8ab0cb801c4",
+      "title": "西貢鹹田灣驚現巨型腐爛鯨屍 漁護署：屬鬚鯨非本地物種",
+      "url": "https://www.singtaousa.com/2026/01/29/news/china/decomposed-whale-carcass-ham-tin-wan/",
+      "source": "singtaousa.com",
+      "published": 1769715288
+    },
+    {
+      "id": "6c0f1941d98b",
+      "title": "普雷蒂遭邊境巡警射殺案 弗洛伊德案檢察官助家屬追責",
+      "url": "https://www.singtaousa.com/2026/01/29/news/usa/family-of-alex-pretti-retains-lawyers-who-helped-prosecute-the-george-floyd-case/",
+      "source": "singtaousa.com",
+      "published": 1769715000
+    },
     {
       "id": "022e447bee84",
       "title": "尖沙咀狂亂駕駛撞警逃逸 司機事隔一周落網 女友及母親同被捕",
@@ -72,9 +93,9 @@
       "published": 1769710476
     },
     {
-      "id": "c641f10ba65a",
+      "id": "867a2eaafe65",
       "title": "川普政府與以色列沙烏地官員談伊朗　增派軍艦赴中東",
-      "url": "https://money.udn.com/money/story/10511/9297860",
+      "url": "https://money.udn.com/money/story/5599/9297860",
       "source": "money.udn.com",
       "published": 1769710350
     },
@@ -149,32 +170,11 @@
       "published": 1769709571
     },
     {
-      "id": "da398e5cb65d",
-      "title": "三藩市記者都中招！TikTok找房遇到「完美經紀人」，聲音、長相全是真的，真相卻讓人毛骨悚然！",
-      "url": "https://www.singtaousa.com/2026/01/29/news/usa/kron4-reporter-falls-victim-to-ai-apartment-scam-what-to-know-to-avoid-it-happening-to-you/",
-      "source": "singtaousa.com",
-      "published": 1769709475
-    },
-    {
-      "id": "f25493e8024e",
-      "title": "政府關門危機迫在眉睫 民主黨提交換條件 劍指特朗普移民鐵腕政策",
-      "url": "https://www.singtaousa.com/2026/01/29/news/usa/senate-democrats-considering-deal-to-head-off-partial-government-shutdown/",
-      "source": "singtaousa.com",
-      "published": 1769708840
-    },
-    {
       "id": "6c59750c9c04",
       "title": "歐股多收漲　思愛普、德銀重挫拖累法蘭克福股市",
       "url": "https://money.udn.com/money/story/5599/9297844",
       "source": "money.udn.com",
       "published": 1769708176
-    },
-    {
-      "id": "3633250cff37",
-      "title": "有線寬頻高層大地震！杜之克、余詠珊、何哲圖齊辭任 黃雅芬接棒CEO",
-      "url": "https://www.singtaousa.com/2026/01/29/news/china/cable-broadband-leadership-shakeup-new-ceo-appointed/",
-      "source": "singtaousa.com",
-      "published": 1769708088
     },
     {
       "id": "ab7da8553dd3",
@@ -233,13 +233,6 @@
       "published": 1769701786
     },
     {
-      "id": "9775df4b9f31",
-      "title": "英首相府：中國確認開放英民眾赴中30天內免簽",
-      "url": "https://money.udn.com/money/story/5599/9297731",
-      "source": "money.udn.com",
-      "published": 1769700629
-    },
-    {
       "id": "80abe67603b6",
       "title": "歐盟與印度簽FTA有何意義？克魯曼：世界訴請與美國「離婚」",
       "url": "https://money.udn.com/money/story/5599/9297713",
@@ -259,6 +252,13 @@
       "url": "https://www.dw.com/zh/德语媒体：中资收购德国企业的热情为何久盛不衰？/a-75717522?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1769700240
+    },
+    {
+      "id": "fb173ec374bc",
+      "title": "投資人消化科技巨頭財報　美股開盤走勢分歧",
+      "url": "https://money.udn.com/money/story/123398/9297686",
+      "source": "money.udn.com",
+      "published": 1769700104
     },
     {
       "id": "3167aecb4b2b",
@@ -1311,5 +1311,5 @@
       "published": 1767270900
     }
   ],
-  "build_id": 1769713593
+  "build_id": 1769716088
 }
