@@ -1,10 +1,24 @@
 {
-  "updated": 1769797756,
+  "updated": 1769800036,
   "items": [
     {
-      "id": "e0cba2b65680",
+      "id": "1fbc40f8f428",
+      "title": "加州社區大學爆「幽靈學生」詐騙案！每年竊取數百萬助學金",
+      "url": "https://www.singtaousa.com/2026/01/30/news/usa/ghost-students-stealing-millions-financial-aid-california-community-colleges-investigation-finds/",
+      "source": "singtaousa.com",
+      "published": 1769799938
+    },
+    {
+      "id": "03795d2fb386",
+      "title": "茱迪丹茲傳幾乎失明  罕有現身見英皇",
+      "url": "https://www.singtaousa.com/2026/01/30/entertainment/judi-dench-almost-blind-king-charles/",
+      "source": "singtaousa.com",
+      "published": 1769799600
+    },
+    {
+      "id": "3b9b2d2fc89d",
       "title": "川普Fed主席人選安撫市場　歐股震盪後收紅",
-      "url": "https://money.udn.com/money/story/10511/9300057",
+      "url": "https://money.udn.com/money/story/5599/9300057",
       "source": "money.udn.com",
       "published": 1769797842
     },
@@ -30,9 +44,9 @@
       "published": 1769795764
     },
     {
-      "id": "c73633b49e35",
+      "id": "1fcde7a7178a",
       "title": "AI推升記憶體需求　Sandisk財測亮眼激勵股價大漲",
-      "url": "https://money.udn.com/money/story/5599/9300041",
+      "url": "https://money.udn.com/money/story/123398/9300041",
       "source": "money.udn.com",
       "published": 1769795133
     },
@@ -303,13 +317,6 @@
       "published": 1769783683
     },
     {
-      "id": "ca2a77bfda9c",
-      "title": "多州持續受冬季風暴吹襲　30萬戶居民及商店無電力供應",
-      "url": "https://www.singtaousa.com/2026/01/30/news/usa/winter-storms-continue-to-hit-many-states-leaving-300000-homes-and-stores-without-power/",
-      "source": "singtaousa.com",
-      "published": 1769783196
-    },
-    {
       "id": "8af3a02d4b61",
       "title": "中国有条件地批准了DeepSeek购买英伟达H200芯片",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E7%BB%8F%E6%B5%8E/20260130-%E4%B8%AD%E5%9B%BD%E6%9C%89%E6%9D%A1%E4%BB%B6%E5%9C%B0%E6%89%B9%E5%87%86%E4%BA%86deepseek%E8%B4%AD%E4%B9%B0%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E8%8A%AF%E7%89%87",
@@ -322,13 +329,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260130-%E8%8B%B1%E5%9B%BD%E9%A6%96%E7%9B%B8%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%A7%A3%E9%99%A4%E5%AF%B9%E8%8B%B1%E5%9B%BD%E8%AE%AE%E5%91%98%E7%9A%84%E5%88%B6%E8%A3%81",
       "source": "rfi.fr",
       "published": 1769781664
-    },
-    {
-      "id": "0f71222b9c6f",
-      "title": "亞馬遜擬向OpenAI投資至多500億",
-      "url": "https://www.singtaousa.com/2026/01/30/news/usa/amazon-invest-openai-50b/",
-      "source": "singtaousa.com",
-      "published": 1769781600
     },
     {
       "id": "5348adda2cbe",
@@ -1318,5 +1318,5 @@
       "published": 1767439020
     }
   ],
-  "build_id": 1769797756
+  "build_id": 1769800036
 }
