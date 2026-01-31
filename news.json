@@ -1,6 +1,27 @@
 {
-  "updated": 1769840665,
+  "updated": 1769842916,
   "items": [
+    {
+      "id": "de0c4616e5eb",
+      "title": "香港音樂劇節2026｜父女聯手創作優勝作品《My Voice, Your Score》首演 靈感源自經典《歌聲魅影》",
+      "url": "https://www.singtaousa.com/2026/01/30/news/china/musical-festival-winning-composition-premiere/",
+      "source": "singtaousa.com",
+      "published": 1769841623
+    },
+    {
+      "id": "b05f7c3e5188",
+      "title": "星專家：台灣半導體動能助東南亞 區域經濟受惠",
+      "url": "https://money.udn.com/money/story/5599/9300750",
+      "source": "money.udn.com",
+      "published": 1769841371
+    },
+    {
+      "id": "5e55628cce99",
+      "title": "川普擬利誘格陵蘭人  當地作家：金錢難買重要價值",
+      "url": "https://money.udn.com/money/story/10511/9300744",
+      "source": "money.udn.com",
+      "published": 1769841022
+    },
     {
       "id": "afdc8cb832a1",
       "title": "美國參議院通過撥款法案仍來不及 聯邦政府還是局部停擺",
@@ -10,7 +31,7 @@
     },
     {
       "id": "061f68ddc29a",
-      "title": "美勞工統計局長懸缺數月　川普提名新人選",
+      "title": "美勞工統計局長懸缺數月 川普提名新人選",
       "url": "https://money.udn.com/money/story/10511/9300736",
       "source": "money.udn.com",
       "published": 1769840694
@@ -191,20 +212,6 @@
       "published": 1769832924
     },
     {
-      "id": "a8c94274c53a",
-      "title": "研究：格陵蘭冰層「黑化」　藻類大量繁殖加速融冰",
-      "url": "https://money.udn.com/money/story/5599/9300503",
-      "source": "money.udn.com",
-      "published": 1769832815
-    },
-    {
-      "id": "a0f23e6b9eb6",
-      "title": "蘋果人工智能團隊再現離職潮 多名研究員轉投 Meta 和谷歌",
-      "url": "https://money.udn.com/money/story/5599/9300135",
-      "source": "money.udn.com",
-      "published": 1769832774
-    },
-    {
       "id": "48e0bfb9330b",
       "title": "美企推「熊糞啤酒」挑戰味蕾極限 創辦人堅稱：味道好極了",
       "url": "https://www.singtaousa.com/2026/01/30/news/usa/get-a-load-of-this-columbia-breakside-unveil-beer-made-from-bear-poop/",
@@ -217,13 +224,6 @@
       "url": "https://www.singtaousa.com/2026/01/30/entertainment/lin-hsiang-exhausted-health-issues/",
       "source": "singtaousa.com",
       "published": 1769832000
-    },
-    {
-      "id": "9ee402f8e6d2",
-      "title": "明州護士遭警槍殺案情逆轉？司法部介入 FBI接手調查",
-      "url": "https://www.singtaousa.com/2026/01/30/news/usa/the-justice-department-has-opened-a-federal-civil-rights-probe-into-the-killing-of-alex-pretti/",
-      "source": "singtaousa.com",
-      "published": 1769830200
     },
     {
       "id": "304744f04797",
@@ -1318,5 +1318,5 @@
       "published": 1767439020
     }
   ],
-  "build_id": 1769840665
+  "build_id": 1769842916
 }
