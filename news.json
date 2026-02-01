@@ -1,6 +1,20 @@
 {
-  "updated": 1769954169,
+  "updated": 1769955478,
   "items": [
+    {
+      "id": "2fdd34f106ed",
+      "title": "美公布文件顯示 淫魔富豪匯款逾200萬至英國前駐美大使曼德森帳戶",
+      "url": "https://money.udn.com/money/story/5599/9302529",
+      "source": "money.udn.com",
+      "published": 1769955167
+    },
+    {
+      "id": "273db1950011",
+      "title": "伊朗官員否認將在荷莫茲海峽實彈演習　駁斥報導不實",
+      "url": "https://money.udn.com/money/story/5599/9302515",
+      "source": "money.udn.com",
+      "published": 1769954453
+    },
     {
       "id": "21869bf22bf1",
       "title": "喬治涉藥禁賽25場",
@@ -77,6 +91,20 @@
       "url": "https://www.singtaousa.com/2026/02/01/news/usa/ice-mexican-immigrant-injury-dispute/",
       "source": "singtaousa.com",
       "published": 1769954400
+    },
+    {
+      "id": "e168d007b5ba",
+      "title": "朝日新聞眾院大選調查：自維聯盟有望突破300席",
+      "url": "https://money.udn.com/money/story/5599/9302506",
+      "source": "money.udn.com",
+      "published": 1769954081
+    },
+    {
+      "id": "574b7bf8b4f0",
+      "title": "路透：印度調整外企提供代工廠設備法規　蘋果受惠",
+      "url": "https://money.udn.com/money/story/5599/9302505",
+      "source": "money.udn.com",
+      "published": 1769954081
     },
     {
       "id": "04048ba914c8",
@@ -268,27 +296,6 @@
       "published": 1769936086
     },
     {
-      "id": "809a96d204fe",
-      "title": "柬埔寨掃蕩詐騙園區逮逾2,000外國人 5人是台人",
-      "url": "https://money.udn.com/money/story/5599/9302163",
-      "source": "money.udn.com",
-      "published": 1769935077
-    },
-    {
-      "id": "567e53ca8383",
-      "title": "川普揚言調升關稅　韓執政黨：國會最快2月底處理",
-      "url": "https://money.udn.com/money/story/5599/9302159",
-      "source": "money.udn.com",
-      "published": 1769934615
-    },
-    {
-      "id": "cc23c8517b73",
-      "title": "解放軍高層遭整肅影響台灣？ 川普回應3度讚習近平是中國「老大」",
-      "url": "https://money.udn.com/money/story/5599/9302143",
-      "source": "money.udn.com",
-      "published": 1769933192
-    },
-    {
       "id": "07180563c26b",
       "title": "馬斯克的SpaceX準備將100萬顆AI算力衛星送入太空",
       "url": "https://www.bbc.com/zhongwen/articles/cn0y72184yko/trad?at_medium=RSS&at_campaign=rss",
@@ -357,13 +364,6 @@
       "url": "https://www.dw.com/zh/阿拉伯国家和以色列如何看待美国可能对伊朗发动攻击？/a-75742900?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1769931540
-    },
-    {
-      "id": "d5f8c0aa1825",
-      "title": "美伊談判才傳有進展 伊朗開嗆歐洲：歐盟全部軍隊列恐怖組織",
-      "url": "https://money.udn.com/money/story/5599/9302110",
-      "source": "money.udn.com",
-      "published": 1769931334
     },
     {
       "id": "8780f61af7d3",
@@ -1360,5 +1360,5 @@
       "published": 1767453600
     }
   ],
-  "build_id": 1769954169
+  "build_id": 1769955478
 }
