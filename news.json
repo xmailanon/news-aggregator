@@ -1,6 +1,20 @@
 {
-  "updated": 1770047846,
+  "updated": 1770049953,
   "items": [
+    {
+      "id": "20b37c52d9e3",
+      "title": "日本宣布从海底6000米挖出含稀土沉积物 寻求减少对中国稀土依赖",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260202-%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%E4%BB%8E%E6%B5%B7%E5%BA%956000%E7%B1%B3%E6%8C%96%E5%87%BA%E5%90%AB%E7%A8%80%E5%9C%9F%E6%B2%89%E7%A7%AF%E7%89%A9-%E5%AF%BB%E6%B1%82%E5%87%8F%E5%B0%91%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E4%BE%9D%E8%B5%96",
+      "source": "rfi.fr",
+      "published": 1770049412
+    },
+    {
+      "id": "a3b06de13b8a",
+      "title": "拉斯維加斯民居疑變非法生物實驗室　FBI與警方大舉搜查",
+      "url": "https://www.singtaousa.com/2026/02/02/news/usa/las-vegas-residence-suspected-to-be-an-illegal-biological-laboratory-fbi-and-police-conduct-massive-search/",
+      "source": "singtaousa.com",
+      "published": 1770048391
+    },
     {
       "id": "a7693d413f6d",
       "title": "節目談大S老公具俊曄近況 張度妍淚流不止",
@@ -187,13 +201,6 @@
       "id": "36c624ceb520",
       "title": "詹皇入選全明星惹議",
       "url": "https://www.singtaousa.com/2026/02/02/news/usa/lebron-all-star-controversy/",
-      "source": "singtaousa.com",
-      "published": 1770040800
-    },
-    {
-      "id": "213eb5c7ecd1",
-      "title": "道奇再次補強   簽下32歲左投",
-      "url": "https://www.singtaousa.com/2026/02/02/news/usa/dodgers-sign-32-year-old-lefty/",
       "source": "singtaousa.com",
       "published": 1770040800
     },
@@ -644,13 +651,6 @@
       "url": "https://www.dw.com/zh/美俄乌三方会谈推迟-关键分歧仍无解/a-75751444?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1769958360
-    },
-    {
-      "id": "6613c4eb99c5",
-      "title": "哈梅内伊称抗议活动堪比“政变”已被镇压 以军总参谋长秘密访问华盛顿",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260201-%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E7%A7%B0%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%E5%A0%AA%E6%AF%94-%E6%94%BF%E5%8F%98-%E5%B7%B2%E8%A2%AB%E9%95%87%E5%8E%8B-%E4%BB%A5%E5%86%9B%E6%80%BB%E5%8F%82%E8%B0%8B%E9%95%BF%E7%A7%98%E5%AF%86%E8%AE%BF%E9%97%AE%E5%8D%8E%E7%9B%9B%E9%A1%BF",
-      "source": "rfi.fr",
-      "published": 1769956038
     },
     {
       "id": "fed66fcefabb",
@@ -1374,5 +1374,5 @@
       "published": 1767517800
     }
   ],
-  "build_id": 1770047846
+  "build_id": 1770049953
 }
