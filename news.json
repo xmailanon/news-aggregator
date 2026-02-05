@@ -1,6 +1,41 @@
 {
-  "updated": 1770276580,
+  "updated": 1770278565,
   "items": [
+    {
+      "id": "7cdcc5bcd033",
+      "title": "威州家長推動新法案 爭取小學生課間休息時間翻倍",
+      "url": "https://www.singtaousa.com/2026/02/05/news/usa/madison-parents-lobby-for-wisconsin-bill-to-increase-recess-time/",
+      "source": "singtaousa.com",
+      "published": 1770278400
+    },
+    {
+      "id": "28f20f8e212e",
+      "title": "賓州醫院深夜大火 烈焰吞噬骨科大樓 病人職員緊急疏散",
+      "url": "https://www.singtaousa.com/2026/02/05/news/usa/pennsylvania-hospital-fire-lehigh-valley/",
+      "source": "singtaousa.com",
+      "published": 1770278134
+    },
+    {
+      "id": "8f8b39fe0151",
+      "title": "春節北上注意！深圳地鐵延長服務11天 羅湖、福田、深圳灣口岸尾班車時間一覽",
+      "url": "https://www.singtaousa.com/2026/02/05/news/china/shenzhen-metro-extended-service-lunar-new-year/",
+      "source": "singtaousa.com",
+      "published": 1770278053
+    },
+    {
+      "id": "c7965ec0ab89",
+      "title": "AUKUS計畫恐變　美擬讓澳洲省下核潛艦另助美軍",
+      "url": "https://money.udn.com/money/story/5599/9311307",
+      "source": "money.udn.com",
+      "published": 1770277513
+    },
+    {
+      "id": "0949c54fd55c",
+      "title": "Lil Jon兒子喬治亞州離奇失蹤 警指其跑出家門未帶手機",
+      "url": "https://www.singtaousa.com/2026/02/05/news/usa/rapper-lil-jons-son-reported-missing-in-georgia/",
+      "source": "singtaousa.com",
+      "published": 1770276600
+    },
     {
       "id": "c33f2ccc0ee5",
       "title": "商場機械人表演失控撞傷長者 揭公共場所應用安全隱患",
@@ -121,32 +156,11 @@
       "published": 1770269400
     },
     {
-      "id": "3d3255deb62d",
-      "title": "麥樂雞配魚子醬？麥當勞情人節限定禮盒免費送 獲取方式公開",
-      "url": "https://www.singtaousa.com/2026/02/04/lifestyle/mcdonalds-launches-mcnugget-caviar-kit-valentines-day-heres-how-to-get-one/",
-      "source": "singtaousa.com",
-      "published": 1770269268
-    },
-    {
-      "id": "4976b37d2e5c",
-      "title": "【宏福苑大火】獨立委員會今開指示會議 主席陸啟康：3.19舉行聽證會 公眾可申請旁聽",
-      "url": "https://www.singtaousa.com/2026/02/04/news/china/independent-committee-briefing-hearing-march-19/",
-      "source": "singtaousa.com",
-      "published": 1770269056
-    },
-    {
       "id": "2cce635ab37e",
       "title": "搶先全球設台灣代表處下場「被火車撞」 立陶宛總理坦言可能犯下大錯",
       "url": "https://money.udn.com/money/story/5599/9310841",
       "source": "money.udn.com",
       "published": 1770269025
-    },
-    {
-      "id": "23c96153be58",
-      "title": "聯邦法官下令ICE在俄勒岡州不得無證逮捕 除非疑犯有潛逃風險",
-      "url": "https://www.singtaousa.com/2026/02/04/news/usa/ice-agents-cant-make-warrantless-arrests-in-oregon-unless-theres-a-risk-of-escape-us-judge-rules/",
-      "source": "singtaousa.com",
-      "published": 1770268956
     },
     {
       "id": "08010ed3c67b",
@@ -161,13 +175,6 @@
       "url": "https://money.udn.com/money/story/10511/9310806",
       "source": "money.udn.com",
       "published": 1770267696
-    },
-    {
-      "id": "e2d827aa62a9",
-      "title": "貝佐斯《華郵》大裁員 基輔分社戰時突遭關閉惹議",
-      "url": "https://www.singtaousa.com/2026/02/04/news/world/kyiv-bureau-among-those-axed-by-jeff-bezos-washington-post-hundreds-of-journalists-laid-off/",
-      "source": "singtaousa.com",
-      "published": 1770267600
     },
     {
       "id": "355a7b64334e",
@@ -254,13 +261,6 @@
       "published": 1770264367
     },
     {
-      "id": "0f909aa13dc8",
-      "title": "先把話說清楚！川習通話後都提台灣 美專家：北京正為川習會鋪陳",
-      "url": "https://money.udn.com/money/story/5599/9310583",
-      "source": "money.udn.com",
-      "published": 1770264053
-    },
-    {
       "id": "d861a8df7ce4",
       "title": "中国和世界的人口下降：人越少，问题就越少？",
       "url": "https://cn.nytimes.com/world/20260205/population-decline-climate-change-ukraine-minneapolis/?utm_source=RSS",
@@ -343,6 +343,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260204-%E7%BE%8E%E5%9B%BD%E5%8F%AC%E9%9B%8650%E5%A4%9A%E5%9B%BD%E4%B8%BE%E8%A1%8C%E5%85%B3%E9%94%AE%E7%9F%BF%E4%BA%A7%E5%B3%B0%E4%BC%9A-%E6%8C%91%E6%88%98%E4%B8%AD%E5%9B%BD%E4%B8%BB%E5%AF%BC%E5%9C%B0%E4%BD%8D",
       "source": "rfi.fr",
       "published": 1770241387
+    },
+    {
+      "id": "a1fcddae8304",
+      "title": "在上海，重新思考莎士比亚",
+      "url": "https://cn.nytimes.com/china/20260205/rethinking-shakespeare-in-shanghai/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1770233369
     },
     {
       "id": "24fe2e6b1221",
@@ -1150,13 +1157,6 @@
       "published": 1769739925
     },
     {
-      "id": "2f3591c9090f",
-      "title": "斯塔默与习近平会晤，中英关系为何“破冰”？",
-      "url": "https://cn.nytimes.com/world/20260130/china-starmer-xi-jinping/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1769737898
-    },
-    {
       "id": "a7b8c5a96a46",
       "title": "中國歸化運動員：谷愛凌們的現況、起伏與走向",
       "url": "https://www.bbc.com/zhongwen/articles/cy7mvvrv1peo/trad?at_medium=RSS&at_campaign=rss",
@@ -1374,5 +1374,5 @@
       "published": 1767935188
     }
   ],
-  "build_id": 1770276580
+  "build_id": 1770278565
 }
