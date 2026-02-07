@@ -1,6 +1,13 @@
 {
-  "updated": 1770452228,
+  "updated": 1770454362,
   "items": [
+    {
+      "id": "97e89fb07481",
+      "title": "山西生物科技廠房凌晨爆炸 5名被困人員全數遇難",
+      "url": "https://www.singtaousa.com/2026/02/07/news/china/shanxi-biotech-plant-explosion-five-dead/",
+      "source": "singtaousa.com",
+      "published": 1770452652
+    },
     {
       "id": "d86c89da1d6f",
       "title": "NVIDIA股價躍漲逾7%！黃仁勳這番話驅散AI支出疑慮",
@@ -133,13 +140,6 @@
       "url": "https://www.singtaousa.com/2026/02/06/news/china/marco-fu-147-break-snooker-performance/",
       "source": "singtaousa.com",
       "published": 1770445453
-    },
-    {
-      "id": "15d972551f50",
-      "title": "憂特朗普掀法西斯統治 馬州男圖謀襲擊白宮高官被控",
-      "url": "https://www.singtaousa.com/2026/02/06/news/usa/rockville-man-accused-of-plotting-attack-against-member-of-trump-administration/",
-      "source": "singtaousa.com",
-      "published": 1770444925
     },
     {
       "id": "88821a067d11",
@@ -1367,5 +1367,5 @@
       "published": 1767935188
     }
   ],
-  "build_id": 1770452228
+  "build_id": 1770454362
 }
