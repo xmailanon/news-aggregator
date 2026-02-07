@@ -1,6 +1,34 @@
 {
-  "updated": 1770493301,
+  "updated": 1770495205,
   "items": [
+    {
+      "id": "2818c800ab54",
+      "title": "米蘭萬人上街抗議冬奧　與警方爆衝突6人被拘留",
+      "url": "https://money.udn.com/money/story/5599/9316058",
+      "source": "money.udn.com",
+      "published": 1770495142
+    },
+    {
+      "id": "0f4a4fff6fb3",
+      "title": "武動新春 韻傳中華— 首屆「2026 華體春晚」春節期間隆重登場",
+      "url": "https://www.singtaousa.com/2026/02/07/lifestyle/the-chinese-new-year-the-rhythm-of-china-the-first-2026-huati-spring-festival-gala-makes-its-grand-debut-during-the-spring-festival/",
+      "source": "singtaousa.com",
+      "published": 1770494400
+    },
+    {
+      "id": "95be64448174",
+      "title": "佘詩曼頒獎禮跌倒 從容化解尷尬",
+      "url": "https://www.singtaousa.com/2026/02/07/entertainment/charmaine-sheh-falls-at-awards-ceremony/",
+      "source": "singtaousa.com",
+      "published": 1770494400
+    },
+    {
+      "id": "da972ec90850",
+      "title": "驚！5個月大B仔被餵酒險喪命 醫生警告：幾滴就足以致命",
+      "url": "https://www.singtaousa.com/2026/02/07/news/china/baby-liver-failure-alcohol-dip/",
+      "source": "singtaousa.com",
+      "published": 1770494060
+    },
     {
       "id": "aec8c60949d8",
       "title": "大漠江湖，刀已出鞘—《鏢人：?起大漠》北美中美同步賀歲上映",
@@ -100,27 +128,6 @@
       "published": 1770487715
     },
     {
-      "id": "6ca66fb5822f",
-      "title": "「搖滾鄉村」音樂節突取消！多樂團憂政治分裂退出 MAGA色彩太濃？",
-      "url": "https://www.singtaousa.com/2026/02/07/news/usa/maga-friendly-rock-the-country-event-in-anderson-sc-canceled-after-bands-drop-out-politics-cited/",
-      "source": "singtaousa.com",
-      "published": 1770487200
-    },
-    {
-      "id": "30a3e320fda4",
-      "title": "鍾柔美喊爆認講大話 網民唔收貨",
-      "url": "https://www.singtaousa.com/2026/02/07/entertainment/yumi-admits-lying-after-dating-rumors/",
-      "source": "singtaousa.com",
-      "published": 1770487200
-    },
-    {
-      "id": "57ce79360400",
-      "title": "佛州25歲女子假扮14歲少女誘姦5名中學生！其父稱女兒「心智缺陷」才是真正受害者",
-      "url": "https://www.singtaousa.com/2026/02/07/news/usa/fla-woman-charged-with-posing-as-teen-to-molest-five-middle-school-age-boys-is-the-real-victim-her-dad/",
-      "source": "singtaousa.com",
-      "published": 1770487200
-    },
-    {
       "id": "8ff440ba1cbb",
       "title": "SIA 看旺全球市場 半導體今年銷售1兆美元",
       "url": "https://money.udn.com/money/story/123398/9315930",
@@ -142,16 +149,16 @@
       "published": 1770484995
     },
     {
-      "id": "71c7d8c12610",
-      "title": "川普：軍售先給高軍費國家",
-      "url": "https://money.udn.com/money/story/5599/9315933",
+      "id": "0c3199ba0179",
+      "title": "美對與伊朗交易國加稅25% 遏制石油出口",
+      "url": "https://money.udn.com/money/story/5599/9315935",
       "source": "money.udn.com",
       "published": 1770484926
     },
     {
-      "id": "0c3199ba0179",
-      "title": "美對與伊朗交易國加稅25% 遏制石油出口",
-      "url": "https://money.udn.com/money/story/5599/9315935",
+      "id": "71c7d8c12610",
+      "title": "川普：軍售先給高軍費國家",
+      "url": "https://money.udn.com/money/story/5599/9315933",
       "source": "money.udn.com",
       "published": 1770484926
     },
@@ -287,13 +294,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260207-%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E6%88%98%E7%BB%88%E7%9B%98%E8%87%AA%E6%B0%91%E5%85%9A%E4%BE%9D%E6%97%A7%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88-%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E5%86%B3%E6%88%98%E4%B8%9C%E4%BA%AC",
       "source": "rfi.fr",
       "published": 1770465806
-    },
-    {
-      "id": "e4932ffdd7f2",
-      "title": "美伊核談判　伊朗外長稱雙方人員握手致意",
-      "url": "https://money.udn.com/money/story/5599/9315671",
-      "source": "money.udn.com",
-      "published": 1770465258
     },
     {
       "id": "a0e7f45d164a",
@@ -1346,5 +1346,5 @@
       "published": 1767935188
     }
   ],
-  "build_id": 1770493301
+  "build_id": 1770495205
 }
