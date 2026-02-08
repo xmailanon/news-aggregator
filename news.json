@@ -1,12 +1,40 @@
 {
-  "updated": 1770565588,
+  "updated": 1770567403,
   "items": [
+    {
+      "id": "1d360dfd6ec0",
+      "title": "蔡一傑生日派對 粉絲嗌「加場」",
+      "url": "https://www.singtaousa.com/2026/02/08/entertainment/jeremy-choi-birthday-party-fans-request-encore/",
+      "source": "singtaousa.com",
+      "published": 1770566400
+    },
+    {
+      "id": "77b33825ca9a",
+      "title": "日媒：自民黨內「高市獨大」 黨內權力平衡丕變",
+      "url": "https://money.udn.com/money/story/5599/9317446",
+      "source": "money.udn.com",
+      "published": 1770565884
+    },
+    {
+      "id": "5c1a5b4b4e8c",
+      "title": "日本大選後高市擴張財政？ 日圓恐貶到180",
+      "url": "https://money.udn.com/money/story/5599/9317449",
+      "source": "money.udn.com",
+      "published": 1770565883
+    },
     {
       "id": "1cdc15fd4c33",
       "title": "高市早苗站台助威　台灣女婿山口晉重返眾議院",
       "url": "https://money.udn.com/money/story/5599/9317380",
       "source": "money.udn.com",
       "published": 1770564972
+    },
+    {
+      "id": "152fed304b32",
+      "title": "墙外文摘：国共交流反对台独，不谈政治？",
+      "url": "https://www.dw.com/zh/墙外文摘：国共交流反对台独，不谈政治？/a-75861828?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1770564960
     },
     {
       "id": "03510bd37f78",
@@ -65,16 +93,16 @@
       "published": 1770561943
     },
     {
-      "id": "c05f2e2e913e",
-      "title": "日本自民黨可望大勝　專家：對股市和財政穩定有利",
-      "url": "https://money.udn.com/money/story/5599/9317237",
+      "id": "7ad72c8c814b",
+      "title": "日眾院選舉自民黨大勝　高市個人選區得票率高達85%",
+      "url": "https://money.udn.com/money/story/5599/9317238",
       "source": "money.udn.com",
       "published": 1770561388
     },
     {
-      "id": "7ad72c8c814b",
-      "title": "日眾院選舉自民黨大勝　高市個人選區得票率高達85%",
-      "url": "https://money.udn.com/money/story/5599/9317238",
+      "id": "c05f2e2e913e",
+      "title": "日本自民黨可望大勝　專家：對股市和財政穩定有利",
+      "url": "https://money.udn.com/money/story/5599/9317237",
       "source": "money.udn.com",
       "published": 1770561388
     },
@@ -177,13 +205,6 @@
       "published": 1770559200
     },
     {
-      "id": "e7c63b47e7d3",
-      "title": "需培養戰士而非覺醒派 國防部終止與哈佛合作",
-      "url": "https://www.singtaousa.com/2026/02/08/news/usa/defense-department-cuts-harvard-cooperation/",
-      "source": "singtaousa.com",
-      "published": 1770559200
-    },
-    {
       "id": "3b66f1a91374",
       "title": "日本大選自民黨大勝 高市早苗：內閣人事不會大幅變動",
       "url": "https://money.udn.com/money/story/5599/9317162",
@@ -252,20 +273,6 @@
       "url": "https://www.dw.com/zh/裁员潮引发动荡：《华盛顿邮报》发行人辞职/a-75860989?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1770553200
-    },
-    {
-      "id": "6e6d68d9666f",
-      "title": "中道重量級人物雙雙落馬　轉拚比例代表「復活」",
-      "url": "https://money.udn.com/money/story/5599/9317041",
-      "source": "money.udn.com",
-      "published": 1770552750
-    },
-    {
-      "id": "e0eac4ddb8f1",
-      "title": "南海緊張之際  菲美完成5天轟炸機投彈演習",
-      "url": "https://money.udn.com/money/story/5599/9317039",
-      "source": "money.udn.com",
-      "published": 1770552750
     },
     {
       "id": "da00ca19a525",
@@ -1269,13 +1276,6 @@
       "published": 1769437140
     },
     {
-      "id": "cf319eac9950",
-      "title": "客座评论：习近平反腐为何必然撕裂权力共同体",
-      "url": "https://www.dw.com/zh/客座评论：习近平反腐为何必然撕裂权力共同体/a-75660042?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1769421180
-    },
-    {
       "id": "434712634cee",
       "title": "中國生育率破1新生數回到乾隆年間水平  預測失準後的斷崖式下跌",
       "url": "https://www.bbc.com/zhongwen/articles/cr4kkydv75ro/trad?at_medium=RSS&at_campaign=rss",
@@ -1360,5 +1360,5 @@
       "published": 1768390680
     }
   ],
-  "build_id": 1770565588
+  "build_id": 1770567403
 }
