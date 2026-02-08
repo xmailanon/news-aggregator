@@ -1,6 +1,20 @@
 {
-  "updated": 1770587220,
+  "updated": 1770588898,
   "items": [
+    {
+      "id": "18316adc63c4",
+      "title": "《咆哮山莊》借古諷今",
+      "url": "https://www.singtaousa.com/2026/02/08/entertainment/wuthering-heights-echoes-contemporary-relationships/",
+      "source": "singtaousa.com",
+      "published": 1770588000
+    },
+    {
+      "id": "2a2a6d510bde",
+      "title": "葡萄牙總統決選出口民調：中間偏左席古擊敗極右派",
+      "url": "https://money.udn.com/money/story/5599/9317563",
+      "source": "money.udn.com",
+      "published": 1770587680
+    },
     {
       "id": "feec88d46363",
       "title": "冬奧開幕蒙陰影 米蘭街頭爆衝突 總理怒斥示威者為國敵",
@@ -149,13 +163,6 @@
       "published": 1770580777
     },
     {
-      "id": "5110220b3173",
-      "title": "日本眾議院選舉｜自民黨大勝過半議席 中國學者警告：對抗姿態將更強硬",
-      "url": "https://www.singtaousa.com/2026/02/08/news/china/japan-election-ldp-wins-majority-anti-china-stance/",
-      "source": "singtaousa.com",
-      "published": 1770580558
-    },
-    {
       "id": "b17e690f577d",
       "title": "選後談台灣合作　泰國總理：遵循國家「行為準則」",
       "url": "https://money.udn.com/money/story/5599/9317547",
@@ -280,13 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/9317303",
       "source": "money.udn.com",
       "published": 1770573568
-    },
-    {
-      "id": "e06ad6742c20",
-      "title": "泰國大選阿努廷宣布勝選　泰自豪黨將繼續執政",
-      "url": "https://money.udn.com/money/story/5599/9317523",
-      "source": "money.udn.com",
-      "published": 1770572172
     },
     {
       "id": "86a678ca5dea",
@@ -1353,5 +1353,5 @@
       "published": 1768390680
     }
   ],
-  "build_id": 1770587220
+  "build_id": 1770588898
 }
