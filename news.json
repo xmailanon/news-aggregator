@@ -1,6 +1,13 @@
 {
-  "updated": 1770592774,
+  "updated": 1770594629,
   "items": [
+    {
+      "id": "6afb23e8ccb6",
+      "title": "Wegovy廉價仿製藥震撼市場，諾和諾德股價重挫後誓言提告",
+      "url": "https://www.singtaousa.com/2026/02/08/news/usa/novo-nordisk-says-it-will-take-legal-action-after-hims-hers-reveals-49-copy-of-wegovy-pill/",
+      "source": "singtaousa.com",
+      "published": 1770593400
+    },
     {
       "id": "9911da153e8d",
       "title": "特朗普称将于2026年底在白宫接待习近平",
@@ -23,9 +30,9 @@
       "published": 1770591600
     },
     {
-      "id": "9c0ab705a009",
+      "id": "c4a2c829da9d",
       "title": "刚果(金)将收其遭英国驱逐国民",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260208-rfi-%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E5%B0%86%E6%94%B6%E5%85%B6%E9%81%AD%E8%8B%B1%E5%9B%BD%E9%A9%B1%E9%80%90%E5%9B%BD%E6%B0%91",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260208-%E5%88%9A%E6%9E%9C-%E9%87%91-%E5%B0%86%E6%94%B6%E5%85%B6%E9%81%AD%E8%8B%B1%E5%9B%BD%E9%A9%B1%E9%80%90%E5%9B%BD%E6%B0%91",
       "source": "rfi.fr",
       "published": 1770591496
     },
@@ -210,13 +217,6 @@
       "url": "https://money.udn.com/money/story/5599/9317552",
       "source": "money.udn.com",
       "published": 1770581127
-    },
-    {
-      "id": "d1606908eb29",
-      "title": "米蘭冬奧蒙陰影 抗議環保與美特工爆衝突 警射催淚瓦斯",
-      "url": "https://www.singtaousa.com/2026/02/08/news/world/italian-police-fire-tear-gas-as-protesters-clash-near-winter-olympics-hockey-venue/",
-      "source": "singtaousa.com",
-      "published": 1770580800
     },
     {
       "id": "b17e690f577d",
@@ -1353,5 +1353,5 @@
       "published": 1768390680
     }
   ],
-  "build_id": 1770592774
+  "build_id": 1770594629
 }
