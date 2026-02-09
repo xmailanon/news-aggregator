@@ -1,6 +1,20 @@
 {
-  "updated": 1770674422,
+  "updated": 1770676699,
   "items": [
+    {
+      "id": "8fad67c1ea69",
+      "title": "佛羅里達州天降「鬣蜥雨」？寒流凍僵逾5000隻遭人道毀滅",
+      "url": "https://www.singtaousa.com/2026/02/09/news/usa/florida-euthanizes-5000-iguanas-after-cold-snap-stuns-the-invasive-reptiles/",
+      "source": "singtaousa.com",
+      "published": 1770676202
+    },
+    {
+      "id": "17f66ea622e9",
+      "title": "美國建議船隻遠離伊朗水域　國際油價走揚",
+      "url": "https://money.udn.com/money/story/5599/9320061",
+      "source": "money.udn.com",
+      "published": 1770675208
+    },
     {
       "id": "5b4d23413c68",
       "title": "為專輯舉辦3日試聽會 MISAMO首唱新歌《Confetti》",
@@ -16,18 +30,11 @@
       "published": 1770674095
     },
     {
-      "id": "a866557cf51f",
+      "id": "cf7bc5c150b4",
       "title": "美媒：川普4月初訪北京晤習近平　今年可望會面4次",
-      "url": "https://money.udn.com/money/story/10511/9320030",
+      "url": "https://money.udn.com/money/story/5599/9320030",
       "source": "money.udn.com",
       "published": 1770674055
-    },
-    {
-      "id": "29ba08d4d9c2",
-      "title": "高市早苗時代來臨 他指勝選意味日本更清楚看待台灣重要性",
-      "url": "https://money.udn.com/money/story/5599/9320029",
-      "source": "money.udn.com",
-      "published": 1770674007
     },
     {
       "id": "cd339a64443b",
@@ -182,13 +189,6 @@
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260209-rfi-%E6%B3%95%E5%B9%BF-%E9%9D%9E%E6%B4%B2-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E7%BE%8E%E5%9B%BD%E5%8F%AC%E9%9B%86%E9%9D%9E%E6%B4%B2%E8%A5%BF%E6%92%92%E5%93%88%E6%8B%89%E9%97%AE%E9%A2%98%E4%BC%9A%E8%AE%AE",
       "source": "rfi.fr",
       "published": 1770668695
-    },
-    {
-      "id": "351ffb5e5ed4",
-      "title": "驅逐數據曝光：僅14%捕移涉暴力犯罪四成無前科",
-      "url": "https://www.singtaousa.com/2026/02/09/news/usa/news-trump-immigration-deportation-statistics/",
-      "source": "singtaousa.com",
-      "published": 1770667323
     },
     {
       "id": "4d0d5018fd24",
@@ -1325,5 +1325,5 @@
       "published": 1768390680
     }
   ],
-  "build_id": 1770674422
+  "build_id": 1770676699
 }
