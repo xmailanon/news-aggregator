@@ -1,6 +1,97 @@
 {
-  "updated": 1770806267,
+  "updated": 1770809744,
   "items": [
+    {
+      "id": "731122438ae1",
+      "title": "伊斯蘭革命47周年 伊朗總統承認鎮壓抗議釀「巨大悲痛」",
+      "url": "https://money.udn.com/money/story/5599/9324688",
+      "source": "money.udn.com",
+      "published": 1770809001
+    },
+    {
+      "id": "fe64be82290d",
+      "title": "视频 美国向伊朗施压 再扣一艘逃离的油轮",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260211-%E8%A7%86%E9%A2%91-%E7%BE%8E%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%96%BD%E5%8E%8B-%E5%86%8D%E6%89%A3%E4%B8%80%E8%89%98%E9%80%83%E7%A6%BB%E7%9A%84%E6%B2%B9%E8%BD%AE",
+      "source": "rfi.fr",
+      "published": 1770808991
+    },
+    {
+      "id": "24ddebbaae07",
+      "title": "中國大陸減持已連綿多年 折射出美國國債面臨的更大風險",
+      "url": "https://money.udn.com/money/story/5599/9322885",
+      "source": "money.udn.com",
+      "published": 1770808798
+    },
+    {
+      "id": "be4960a19080",
+      "title": "美國眾議院通過涉台法案 尋求將大陸排除在六大國際組織之外",
+      "url": "https://money.udn.com/money/story/5599/9323341",
+      "source": "money.udn.com",
+      "published": 1770808639
+    },
+    {
+      "id": "12b5dde81c02",
+      "title": "加拿大發生校園槍擊案 造成10人死亡",
+      "url": "https://money.udn.com/money/story/5599/9323340",
+      "source": "money.udn.com",
+      "published": 1770808509
+    },
+    {
+      "id": "7361719078e1",
+      "title": "股市連漲三年後 精選全球大型優質股因應輪動行情",
+      "url": "https://money.udn.com/money/story/5599/9324682",
+      "source": "money.udn.com",
+      "published": 1770808415
+    },
+    {
+      "id": "7921b7f00bcb",
+      "title": "在中国电动卡车占比29%而法国仅2%：欧洲未来会将市场拱手让给中国制造商？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260211-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6%E5%8D%A0%E6%AF%9429-%EF%BC%8C%E8%80%8C%E6%B3%95%E5%9B%BD%E4%BB%852-%E6%AC%A7%E6%B4%B2%E6%9C%AA%E6%9D%A5%E4%BC%9A%E5%B0%86%E5%B8%82%E5%9C%BA%E6%8B%B1%E6%89%8B%E8%AE%A9%E7%BB%99%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%95%86",
+      "source": "rfi.fr",
+      "published": 1770808034
+    },
+    {
+      "id": "411ad2b718eb",
+      "title": "黑石參投 Anthropic 融資輪 持股規模升至10億美元",
+      "url": "https://money.udn.com/money/story/123398/9323437",
+      "source": "money.udn.com",
+      "published": 1770807865
+    },
+    {
+      "id": "cdb4d74371e9",
+      "title": "北歐貢獻北約1/3烏克蘭軍援  瑞典籲盟國同等努力",
+      "url": "https://money.udn.com/money/story/5599/9324664",
+      "source": "money.udn.com",
+      "published": 1770807708
+    },
+    {
+      "id": "32b246f7c5ea",
+      "title": "法國外交官涉艾普斯坦案　外長下令徹查",
+      "url": "https://money.udn.com/money/story/5599/9324637",
+      "source": "money.udn.com",
+      "published": 1770806766
+    },
+    {
+      "id": "9d53954cf601",
+      "title": "歐盟想拚經濟　執委會主席籲「拆除障礙」",
+      "url": "https://money.udn.com/money/story/5599/9324636",
+      "source": "money.udn.com",
+      "published": 1770806766
+    },
+    {
+      "id": "17728e8676cd",
+      "title": "黎智英遭判20年  芬蘭：關切香港言論自由受限",
+      "url": "https://money.udn.com/money/story/5599/9324640",
+      "source": "money.udn.com",
+      "published": 1770806765
+    },
+    {
+      "id": "30f3731b9712",
+      "title": "美中贸易战拖累法葡萄酒和烈酒出口，欧洲如何摆脱对美国的依赖...",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260211-%E7%BE%8E%E4%B8%AD%E8%B4%B8%E6%98%93%E6%88%98%E6%8B%96%E7%B4%AF%E6%B3%95%E8%91%A1%E8%90%84%E9%85%92%E5%92%8C%E7%83%88%E9%85%92%E5%87%BA%E5%8F%A3%EF%BC%8C%E6%AC%A7%E6%B4%B2%E5%A6%82%E4%BD%95%E6%91%86%E8%84%B1%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%BE%9D%E8%B5%96",
+      "source": "rfi.fr",
+      "published": 1770806392
+    },
     {
       "id": "9bd77de31cd8",
       "title": "黃仁勳、SK會長崔泰源會面  選在美國韓式炸雞店",
@@ -30,9 +121,86 @@
       "published": 1770804038
     },
     {
-      "id": "b13c12b851a5",
-      "title": "40歲李毓芬罕見露面 與友人熱舞活力四射",
-      "url": "https://www.singtaousa.com/2026/02/11/entertainment/40-year-old-lee-yu-fen-dances/",
+      "id": "f3e316ba1c0c",
+      "title": "亞裔長者新年提防在提款時遭搶",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/asian-seniors-robbery-atm/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "2784587be536",
+      "title": "鑽石吧新春園遊會熱鬧登場 社區同歡迎新歲",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/diamond-bar-chinese-new-year-fair/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "992dd5bd26d3",
+      "title": "世華橙縣分會第二屆會長典禮   女力傳承開啟新篇章",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/world-chinese-business-women-oc-leadership-transition/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "035f058b90a4",
+      "title": "全球購屋最難城市 南加三市赫然上榜",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/hardest-cities-to-buy-home/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "9faf1073ca95",
+      "title": "洛縣擬公投提高銷售稅 支持醫療保健",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/la-county-sales-tax-healthcare/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "872ba7b4fb2f",
+      "title": "艾姆赫斯特火災1死多傷",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/elmhurst-fire-1-dead-multiple-injured/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "7b3e3130c5ea",
+      "title": "SBA修訂貸款資格規定   孟昭文指綠卡持有人被排除在外",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/sba-loan-eligibility-green-card-holders-excluded/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "4cc5c1fbf2bb",
+      "title": "韓裔進步派朴卓挑戰孟昭文   首場論政會近200人到場",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/park-challenges-meng-election/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "85669817b6bb",
+      "title": "籲 2027州財政納入5,435萬予亞裔平權預算",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/asian-advocacy-budget-demand-2027/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "e306ecfcac04",
+      "title": "非法移民不列人口普查？   多家亞裔機構告商務部",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/asian-groups-sue-commerce-census/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "0c93131ae9db",
+      "title": "全市房客訴苦大會   馬姆達尼公布時間表",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/tenants-speak-out-sessions-schedule-announced/",
+      "source": "singtaousa.com",
+      "published": 1770804000
+    },
+    {
+      "id": "bc96c12a71b0",
+      "title": "帝國大廈與中領館揭幕馬年櫥窗",
+      "url": "https://www.singtaousa.com/2026/02/11/news/usa/empire-state-building-chinese-consulate-unveil-year-of-horse-window/",
       "source": "singtaousa.com",
       "published": 1770804000
     },
@@ -42,13 +210,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260211-%E5%8C%97%E6%9E%81%E5%AE%89%E5%85%A8-%E6%8C%AA%E5%A8%81%E8%AD%A6%E5%91%8A%E4%BF%84%E7%BD%97%E6%96%AF%E5%A8%81%E8%83%81%EF%BC%8C%E8%8B%B1%E5%9B%BD%E5%A2%9E%E5%8A%A0%E9%A9%BB%E5%86%9B",
       "source": "rfi.fr",
       "published": 1770803920
-    },
-    {
-      "id": "b005cefd88e9",
-      "title": "【中國載人登月】關鍵一步！長征十號火箭與夢舟飛船極端逃逸試驗成功",
-      "url": "https://www.singtaousa.com/2026/02/11/news/china/china-manned-moon-landing-rocket-escape-test/",
-      "source": "singtaousa.com",
-      "published": 1770802743
     },
     {
       "id": "615e4550b30f",
@@ -63,13 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/9324439",
       "source": "money.udn.com",
       "published": 1770802314
-    },
-    {
-      "id": "844fbd285bca",
-      "title": "特朗普下令移除石牆紀念碑彩虹旗 紐約官員怒轟抹殺歷史",
-      "url": "https://www.singtaousa.com/2026/02/11/news/usa/trump-administration-removes-pride-flag-from-stonewall-national-monument-a-major-lgbtq-landmark/",
-      "source": "singtaousa.com",
-      "published": 1770802200
     },
     {
       "id": "b7bce2707dce",
@@ -100,13 +254,6 @@
       "published": 1770801150
     },
     {
-      "id": "8f61b0dfe59f",
-      "title": "賴清德祝賀高市早苗勝選 國台辦怒斥「媚日諂媚」",
-      "url": "https://www.singtaousa.com/2026/02/11/news/china/lai-ching-te-congratulates-takaechi-sanae/",
-      "source": "singtaousa.com",
-      "published": 1770800942
-    },
-    {
       "id": "1ee0d9b0b429",
       "title": "英國將加倍駐挪威兵力　因應俄羅斯威脅強化北極安全",
       "url": "https://money.udn.com/money/story/5599/9324386",
@@ -119,27 +266,6 @@
       "url": "https://money.udn.com/money/story/5599/9324381",
       "source": "money.udn.com",
       "published": 1770800604
-    },
-    {
-      "id": "38094cda54b5",
-      "title": "AI偽造身份證太猖狂？費城酒吧收到「富蘭克林」假證後怒改規定",
-      "url": "https://www.singtaousa.com/2026/02/11/news/usa/bar-owner-blames-chatgpt-tiktok-after-finding-fake-id-of-former-president-dexerto/",
-      "source": "singtaousa.com",
-      "published": 1770800400
-    },
-    {
-      "id": "68a77f444d27",
-      "title": "東京親子行變驚魂記 歐陽妮妮兒子患腸胃炎",
-      "url": "https://www.singtaousa.com/2026/02/11/entertainment/ouyang-nini-son-gets-sick-in-tokyo/",
-      "source": "singtaousa.com",
-      "published": 1770800400
-    },
-    {
-      "id": "fc3e6f8fd337",
-      "title": "【深圳花市2026】羅湖愛國路花市人氣爆棚！一文睇清全城花市地點、交通攻略",
-      "url": "https://www.singtaousa.com/2026/02/11/news/china/shenzhen-lunar-new-year-flower-market-guide/",
-      "source": "singtaousa.com",
-      "published": 1770799143
     },
     {
       "id": "a3a31384223f",
@@ -156,39 +282,11 @@
       "published": 1770797617
     },
     {
-      "id": "34dae6ff27c7",
-      "title": "【離譜動物園】河南動物園隱瞞老虎BB死訊 職員用舊片扮直播呃粉絲打賞",
-      "url": "https://www.singtaousa.com/2026/02/11/news/china/zoo-conceals-tiger-cub-death-fake-livestream/",
-      "source": "singtaousa.com",
-      "published": 1770797341
-    },
-    {
       "id": "dbf21baca992",
       "title": "首例：在港老父为流亡海外女儿处理保险 裁定罪犯国安 评论称打压升级 吁阻止",
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260211-%E9%A6%96%E4%BE%8B-%E5%9C%A8%E6%B8%AF%E8%80%81%E7%88%B6%E4%B8%BA%E6%B5%81%E4%BA%A1%E6%B5%B7%E5%A4%96%E5%A5%B3%E5%84%BF%E5%A4%84%E7%90%86%E4%BF%9D%E9%99%A9-%E8%A3%81%E5%AE%9A%E7%BD%AA%E7%8A%AF%E5%9B%BD%E5%AE%89-%E8%AF%84%E8%AE%BA%E7%A7%B0%E6%89%93%E5%8E%8B%E5%8D%87%E7%BA%A7-%E5%90%81%E9%98%BB%E6%AD%A2",
       "source": "rfi.fr",
       "published": 1770797185
-    },
-    {
-      "id": "f7a33bfaa1a3",
-      "title": "泰國大選違規爭議延燒　公信力遭質疑可能重新計票",
-      "url": "https://money.udn.com/money/story/5599/9324202",
-      "source": "money.udn.com",
-      "published": 1770796850
-    },
-    {
-      "id": "ab1381a99f5a",
-      "title": "YouTube Music新政惹議 免費看歌詞設限額 用戶怒轟貪婪",
-      "url": "https://www.singtaousa.com/2026/02/11/news/usa/youtube-music-now-makes-you-pay-to-see-song-lyrics-dexerto/",
-      "source": "singtaousa.com",
-      "published": 1770796800
-    },
-    {
-      "id": "c1d9078bc6ad",
-      "title": "明金成逝世4年 妻子悼念：想你了",
-      "url": "https://www.singtaousa.com/2026/02/11/entertainment/remembering-ming-jin-cheng-4-years-later/",
-      "source": "singtaousa.com",
-      "published": 1770796800
     },
     {
       "id": "deb948d59643",
@@ -198,62 +296,6 @@
       "published": 1770796189
     },
     {
-      "id": "3f9fec4231f0",
-      "title": "特朗普怒罵美國冬奧選手「失敗者」 谷愛凌發聲力挺：違背奧運精神",
-      "url": "https://www.singtaousa.com/2026/02/11/news/china/trump-calls-us-skier-loser-gu-supports/",
-      "source": "singtaousa.com",
-      "published": 1770795542
-    },
-    {
-      "id": "b52987926de1",
-      "title": "涉損波羅的海天然氣管線和電纜 中國籍船長拒認罪",
-      "url": "https://money.udn.com/money/story/5599/9324091",
-      "source": "money.udn.com",
-      "published": 1770795416
-    },
-    {
-      "id": "a57102d6cde6",
-      "title": "范斯貼文稱亞美尼亞種族滅絕後刪除　幕僚：誤發",
-      "url": "https://money.udn.com/money/story/5599/9324069",
-      "source": "money.udn.com",
-      "published": 1770795036
-    },
-    {
-      "id": "0f491fa95020",
-      "title": "古巴油荒影響全島　德國發布旅行警示",
-      "url": "https://money.udn.com/money/story/5599/9324068",
-      "source": "money.udn.com",
-      "published": 1770795036
-    },
-    {
-      "id": "392ad6bbea83",
-      "title": "谷愛凌批川普被炎上！最挺台NBA球星轟「批中國戰袍的叛徒」",
-      "url": "https://money.udn.com/money/story/5599/9324062",
-      "source": "money.udn.com",
-      "published": 1770794886
-    },
-    {
-      "id": "aab5a830a2b0",
-      "title": "川普政府撤下石牆紀念碑彩虹旗　引發同志社群抗議",
-      "url": "https://money.udn.com/money/story/10511/9324045",
-      "source": "money.udn.com",
-      "published": 1770794790
-    },
-    {
-      "id": "32b412d507aa",
-      "title": "飛行員迅速應變！索馬利亞客機衝出跑道滑進海邊 現場照片曝光",
-      "url": "https://money.udn.com/money/story/5599/9324032",
-      "source": "money.udn.com",
-      "published": 1770794359
-    },
-    {
-      "id": "b099ca741381",
-      "title": "港鐵灣仔站事故！路軌受阻近一小時 陳美寶要求港鐵一個月內交報告",
-      "url": "https://www.singtaousa.com/2026/02/11/news/china/mtr-wan-chai-incident-service-disruption-report/",
-      "source": "singtaousa.com",
-      "published": 1770793741
-    },
-    {
       "id": "2e257dede69b",
       "title": "英國女孩在得州和父親「爭論特朗普」後被開槍打死",
       "url": "https://www.bbc.com/zhongwen/articles/c4gj011d5gdo/trad?at_medium=RSS&at_campaign=rss",
@@ -261,32 +303,11 @@
       "published": 1770793698
     },
     {
-      "id": "03d11008e6d0",
-      "title": "日航訂位系統遭駭　2.8萬用戶個資恐外洩",
-      "url": "https://money.udn.com/money/story/5599/9323983",
-      "source": "money.udn.com",
-      "published": 1770793232
-    },
-    {
-      "id": "ec4e11fc88ee",
-      "title": "加拿大高中槍擊案釀10死　女犯嫌行兇後自盡",
-      "url": "https://money.udn.com/money/story/5599/9323923",
-      "source": "money.udn.com",
-      "published": 1770792321
-    },
-    {
       "id": "b946eab17fdf",
       "title": "被遺棄的油輪，陰影下的世界",
       "url": "https://www.bbc.com/zhongwen/articles/c1jkd3e0en7o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1770792063
-    },
-    {
-      "id": "7d2866f80b2d",
-      "title": "馬斯克談願景：xAI 月球設廠造 AI 衛星、X 目標日活躍用戶破10億",
-      "url": "https://money.udn.com/money/story/5599/9323817",
-      "source": "money.udn.com",
-      "published": 1770790314
     },
     {
       "id": "0204eff5d580",
@@ -625,25 +646,11 @@
       "published": 1770728076
     },
     {
-      "id": "71b05322ecc7",
-      "title": "加拿大人对特朗普吞并北极岛屿的担忧",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%8C%97%E7%BE%8E%E6%9D%A5%E9%B8%BF/20260210-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BA%BA%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%9E%E5%B9%B6%E5%8C%97%E6%9E%81%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%8B%85%E5%BF%A7",
-      "source": "rfi.fr",
-      "published": 1770727640
-    },
-    {
       "id": "ffc6e6efe0b9",
       "title": "警告美国\"恐吓\"并未结束 马克龙力推“欧洲优先”与共同债务",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260210-%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD-%E6%81%90%E5%90%93-%E5%B9%B6%E6%9C%AA%E7%BB%93%E6%9D%9F-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%8A%9B%E6%8E%A8-%E6%AC%A7%E6%B4%B2%E4%BC%98%E5%85%88-%E4%B8%8E%E5%85%B1%E5%90%8C%E5%80%BA%E5%8A%A1",
       "source": "rfi.fr",
       "published": 1770725326
-    },
-    {
-      "id": "7740f4a749d6",
-      "title": "赖清德：呼吁立即释放黎智英，停止借司法之名政治迫害",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260210-%E8%B5%96%E6%B8%85%E5%BE%B7-%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E9%87%8A%E6%94%BE%E9%BB%8E%E6%99%BA%E8%8B%B1%EF%BC%8C%E5%81%9C%E6%AD%A2%E5%80%9F%E5%8F%B8%E6%B3%95%E4%B9%8B%E5%90%8D%E6%94%BF%E6%B2%BB%E8%BF%AB%E5%AE%B3",
-      "source": "rfi.fr",
-      "published": 1770724506
     },
     {
       "id": "15657e6d36cc",
@@ -658,13 +665,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c33jv54086ro/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1770720401
-    },
-    {
-      "id": "54d244e45637",
-      "title": "菲大使指可寻求将经济合作与争议海域局势隔离 北京：奉劝菲方停止自导自演海上闹剧",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260210-%E8%8F%B2%E5%A4%A7%E4%BD%BF%E6%8C%87%E5%8F%AF%E5%AF%BB%E6%B1%82%E5%B0%86%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E4%B8%8E%E4%BA%89%E8%AE%AE%E6%B5%B7%E5%9F%9F%E5%B1%80%E5%8A%BF%E9%9A%94%E7%A6%BB-%E5%8C%97%E4%BA%AC-%E5%A5%89%E5%8A%9D%E8%8F%B2%E6%96%B9%E5%81%9C%E6%AD%A2%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%B5%B7%E4%B8%8A%E9%97%B9%E5%89%A7",
-      "source": "rfi.fr",
-      "published": 1770720074
     },
     {
       "id": "3706807aa11b",
@@ -1325,5 +1325,5 @@
       "published": 1768390680
     }
   ],
-  "build_id": 1770806267
+  "build_id": 1770809744
 }
