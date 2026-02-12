@@ -1,9 +1,86 @@
 {
-  "updated": 1770892374,
+  "updated": 1770895877,
   "items": [
     {
+      "id": "a364ecf88b72",
+      "title": "《费加罗报》：中国竞争加剧，法国逾三成制造业面临冲击",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260212-%E8%B4%B9%E5%8A%A0%E7%BD%97%E6%8A%A5-%E4%B8%AD%E5%9B%BD%E7%AB%9E%E4%BA%89%E5%8A%A0%E5%89%A7%EF%BC%8C%E6%B3%95%E5%9B%BD%E9%80%BE%E4%B8%89%E6%88%90%E5%88%B6%E9%80%A0%E4%B8%9A%E9%9D%A2%E4%B8%B4%E5%86%B2%E5%87%BB",
+      "source": "rfi.fr",
+      "published": 1770895798
+    },
+    {
+      "id": "673d26806d65",
+      "title": "軟銀連續四個季度實現盈利 對 OpenAI 的投資估值收益帶來提振",
+      "url": "https://money.udn.com/money/story/5599/9326929",
+      "source": "money.udn.com",
+      "published": 1770895075
+    },
+    {
+      "id": "a17b0d00cd97",
+      "title": "日本對美投資基金據悉接近敲定首批項目 涉及能源和晶片領域",
+      "url": "https://money.udn.com/money/story/5599/9326758",
+      "source": "money.udn.com",
+      "published": 1770894691
+    },
+    {
+      "id": "a44467e25991",
+      "title": "华裔小伙代表几内亚比绍首次出征冬奥",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260212-%E5%8D%8E%E8%A3%94%E5%B0%8F%E4%BC%99%E4%BB%A3%E8%A1%A8%E5%87%A0%E5%86%85%E4%BA%9A%E6%AF%94%E7%BB%8D%E9%A6%96%E6%AC%A1%E5%87%BA%E5%BE%81%E5%86%AC%E5%A5%A5",
+      "source": "rfi.fr",
+      "published": 1770894459
+    },
+    {
+      "id": "8e8029a3474a",
+      "title": "南海言語交鋒加劇 菲軍方：捍衛主權不畏犧牲",
+      "url": "https://money.udn.com/money/story/5599/9327186",
+      "source": "money.udn.com",
+      "published": 1770894407
+    },
+    {
+      "id": "aada937eaaa2",
+      "title": "三星宣布開始量產出貨HBM4 搶先一步爭奪AI運算市場",
+      "url": "https://money.udn.com/money/story/5599/9327169",
+      "source": "money.udn.com",
+      "published": 1770893669
+    },
+    {
+      "id": "5b44c4bee0a8",
+      "title": "孟加拉起義後首場大選 前總理之子迎戰伊斯蘭黨受矚",
+      "url": "https://money.udn.com/money/story/5599/9327154",
+      "source": "money.udn.com",
+      "published": 1770893130
+    },
+    {
+      "id": "7825aa6e4a25",
+      "title": "台湾总统赖清德接受法新社专访  北京方面称他是“危机制造者和战争煽动者”",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260212-%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E8%B5%96%E6%B8%85%E5%BE%B7%E6%8E%A5%E5%8F%97%E6%B3%95%E6%96%B0%E7%A4%BE%E4%B8%93%E8%AE%BF-%E5%8C%97%E4%BA%AC%E6%96%B9%E9%9D%A2%E7%A7%B0%E4%BB%96%E6%98%AF-%E5%8D%B1%E6%9C%BA%E5%88%B6%E9%80%A0%E8%80%85%E5%92%8C%E6%88%98%E4%BA%89%E7%85%BD%E5%8A%A8%E8%80%85",
+      "source": "rfi.fr",
+      "published": 1770893091
+    },
+    {
+      "id": "6a4f52ca0680",
+      "title": "赖清德总统：强化国防目的是为确保对中国而言，永远没有一天是攻打台湾的吉日",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260212-%E8%B5%96%E6%B8%85%E5%BE%B7%E6%80%BB%E7%BB%9F-%E5%BC%BA%E5%8C%96%E5%9B%BD%E9%98%B2%E7%9B%AE%E7%9A%84%E6%98%AF%E4%B8%BA%E7%A1%AE%E4%BF%9D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%80%8C%E8%A8%80%EF%BC%8C%E6%B0%B8%E8%BF%9C%E6%B2%A1%E6%9C%89%E4%B8%80%E5%A4%A9%E6%98%AF%E6%94%BB%E6%89%93%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%90%89%E6%97%A5",
+      "source": "rfi.fr",
+      "published": 1770892910
+    },
+    {
+      "id": "c6a1a66b5c56",
+      "title": "英超曼聯老闆稱英國被移民殖民 英相施凱爾：錯誤且冒犯應道歉",
+      "url": "https://money.udn.com/money/story/5599/9327147",
+      "source": "money.udn.com",
+      "published": 1770892637
+    },
+    {
+      "id": "99e9a49a1171",
+      "title": "日本经产大臣到达美国 日美欲投资人工钻石对抗中国",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260212-%E6%97%A5%E6%9C%AC%E7%BB%8F%E4%BA%A7%E5%A4%A7%E8%87%A3%E5%88%B0%E8%BE%BE%E7%BE%8E%E5%9B%BD-%E6%97%A5%E7%BE%8E%E6%AC%B2%E6%8A%95%E8%B5%84%E4%BA%BA%E5%B7%A5%E9%92%BB%E7%9F%B3%E5%AF%B9%E6%8A%97%E4%B8%AD%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1770892441
+    },
+    {
       "id": "56e7d5a73fa1",
-      "title": "曾與艾普斯坦有一面之緣　愛馬仕執行長：他名聲爛透了",
+      "title": "曾與艾普斯坦有一面之緣 愛馬仕執行長：他名聲爛透了",
       "url": "https://money.udn.com/money/story/5599/9327129",
       "source": "money.udn.com",
       "published": 1770892234
@@ -21,6 +98,90 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260212-%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A8%E5%8A%A8%E6%81%A2%E5%A4%8D%E6%B3%95%E4%BF%84%E9%AB%98%E5%B1%82%E5%AF%B9%E8%AF%9D%EF%BC%8C%E6%AC%A7%E6%B4%B2%E5%B0%B1%E6%98%AF%E5%90%A6%E9%87%8D%E5%90%AF%E5%AF%B9%E4%BF%84%E6%B2%9F%E9%80%9A%E5%88%86%E6%AD%A7%E5%8A%A0%E5%89%A7",
       "source": "rfi.fr",
       "published": 1770891223
+    },
+    {
+      "id": "242764c081ab",
+      "title": "洛杉磯市新法  釋放數千住宅供應",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/los-angeles-new-law-unlocks-housing/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "5f83ee95f461",
+      "title": "洛市議會批准提案公投   奧運期間擬提高酒店稅",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/la-council-hotel-tax-olympics/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "652fa2c21d9c",
+      "title": "LA28力挺沃瑟曼續任主席",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/la28-wasserman-chair/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "947dbc8c1b08",
+      "title": "南加男子性侵多童重判118年",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/south-california-man-sex-assault-children-sentenced/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "7539205947e7",
+      "title": "暴雨襲南加公路積水   山火災區發山洪警報",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/socal-heavy-rain-flooding-mudslide-watch/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "c745329a97bf",
+      "title": "市長稱赤字縮減仍主張向富人加稅",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/mayor-wants-tax-hike-on-wealthy/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "314a5ab5872e",
+      "title": "2電動車搶匪連肇22起案",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/2-electric-scooter-thieves-commit-22-crimes/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "256f8d0759f0",
+      "title": "聯合廣場紛爭捅人案   涉案嫌歸案獲訴",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/union-square-stabbing-suspect-arrested/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "9dbd3c12b01b",
+      "title": "紐約等多州促國會   通過兒童網絡安全法案",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/congress-pass-child-online-safety-act/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "abbbca902c2f",
+      "title": "鄭永佳與陳學理辦移民法律講座",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/chang-chan-immigration-law-seminar-2/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "06f552ea516a",
+      "title": "男乘客時報廣場地鐵站   無端遭玻璃瓶砸頭",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/man-hit-head-times-square-subway/",
+      "source": "singtaousa.com",
+      "published": 1770890400
+    },
+    {
+      "id": "c60d72aaa94c",
+      "title": "亞裔社團聯合總會等新春團拜",
+      "url": "https://www.singtaousa.com/2026/02/12/news/usa/asian-american-assoc-chinese-new-year/",
+      "source": "singtaousa.com",
+      "published": 1770890400
     },
     {
       "id": "9ed9fd138d0c",
@@ -42,13 +203,6 @@
       "url": "https://money.udn.com/money/story/5599/9327042",
       "source": "money.udn.com",
       "published": 1770889540
-    },
-    {
-      "id": "8b4a5ecdbcbb",
-      "title": "奇蹟！湖南1200年古樟樹遭爆竹焚燒近7小時，竟能倖存！",
-      "url": "https://www.singtaousa.com/2026/02/12/news/china/ancient-tree-firecracker-survival/",
-      "source": "singtaousa.com",
-      "published": 1770889149
     },
     {
       "id": "75b0495dcf93",
@@ -77,13 +231,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/crm8zd2y9vmo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1770887488
-    },
-    {
-      "id": "ef73f3109312",
-      "title": "內蒙古前主席王莉霞遭「雙開」移送司法 官方詳列六宗罪：貪慕虛榮、家風不正",
-      "url": "https://www.singtaousa.com/2026/02/12/news/china/inner-mongolia-chairman-expelled-party-six-charges/",
-      "source": "singtaousa.com",
-      "published": 1770887345
     },
     {
       "id": "657fb35fe839",
@@ -128,25 +275,11 @@
       "published": 1770885932
     },
     {
-      "id": "b819d5e4d4ee",
-      "title": "13歲體操冠軍遭教練長期打罵索財 絕望跳樓重傷 兩教練被停職調查",
-      "url": "https://www.singtaousa.com/2026/02/12/news/china/teen-gymnast-coach-abuse-extortion-suicide-attempt/",
-      "source": "singtaousa.com",
-      "published": 1770885542
-    },
-    {
       "id": "80e711cc44a5",
       "title": "Meta 砸100億美元 印第安納州建 1GW 資料中心",
       "url": "https://money.udn.com/money/story/5599/9326855",
       "source": "money.udn.com",
       "published": 1770885522
-    },
-    {
-      "id": "7c716b0bbe06",
-      "title": "樓市奇聞！杭州業主買樓獲贈1公斤黃金，樓價跌金價升，賬面反賺25萬",
-      "url": "https://www.singtaousa.com/2026/02/12/news/china/hangzhou-homebuyer-gold-gift-offsets-property-loss/",
-      "source": "singtaousa.com",
-      "published": 1770883954
     },
     {
       "id": "27490d1ab9cb",
@@ -156,109 +289,11 @@
       "published": 1770883279
     },
     {
-      "id": "450e0cdedccb",
-      "title": "思科毛利展望不佳 掩蓋營收亮點 盤後大跌近8%",
-      "url": "https://money.udn.com/money/story/5599/9326731",
-      "source": "money.udn.com",
-      "published": 1770882570
-    },
-    {
-      "id": "7d981df60521",
-      "title": "薛劍發表斬首言論惹議　似睽違3個月公開露面",
-      "url": "https://money.udn.com/money/story/5599/9326714",
-      "source": "money.udn.com",
-      "published": 1770882363
-    },
-    {
-      "id": "db2e6acd2f68",
-      "title": "恐怖前男友槍殺28歲華女 死者生前報警稱遭跟蹤性侵",
-      "url": "https://www.singtaousa.com/2026/02/12/news/china/chinese-woman-killed-ex-boyfriend-stalking/",
-      "source": "singtaousa.com",
-      "published": 1770881947
-    },
-    {
-      "id": "5b90a47ab798",
-      "title": "德州機場關閉陷疑雲　政府指遭無人機入侵議員質疑",
-      "url": "https://money.udn.com/money/story/10511/9326657",
-      "source": "money.udn.com",
-      "published": 1770881156
-    },
-    {
-      "id": "108c38621ef2",
-      "title": "投資人了結獲利 日經指數微幅收低",
-      "url": "https://money.udn.com/money/story/5599/9326658",
-      "source": "money.udn.com",
-      "published": 1770881155
-    },
-    {
-      "id": "f0404399a5af",
-      "title": "將軍澳工地竹棚離奇起火！警方列作縱火案調查",
-      "url": "https://www.singtaousa.com/2026/02/12/news/china/tseung-kwan-o-bamboo-scaffolding-fire-arson-investigation/",
-      "source": "singtaousa.com",
-      "published": 1770880144
-    },
-    {
-      "id": "54be1b789a3a",
-      "title": "才說設台灣代表處「被火車撞」 立陶宛總理：改名「台北」不是大問題",
-      "url": "https://money.udn.com/money/story/5599/9326617",
-      "source": "money.udn.com",
-      "published": 1770879989
-    },
-    {
-      "id": "2a0a5bba50d6",
-      "title": "蘋果新聞遭控偏好左派媒體　聯邦貿易委員會表達關切",
-      "url": "https://money.udn.com/money/story/10511/9326603",
-      "source": "money.udn.com",
-      "published": 1770879644
-    },
-    {
-      "id": "923b891c57ce",
-      "title": "【農曆新年天氣】年廿八新界或飆28°C！天文台：潮濕有霧，大掃除要趁早",
-      "url": "https://www.singtaousa.com/2026/02/11/news/china/lunar-new-year-weather-forecast-humidity/",
-      "source": "singtaousa.com",
-      "published": 1770878343
-    },
-    {
-      "id": "302cbfc3d7a0",
-      "title": "NFL前球星李達倫涉殺女友 警揭駭人細節：幾乎每個房間都有血",
-      "url": "https://www.singtaousa.com/2026/02/11/news/usa/blood-in-just-about-every-room-gruesome-testimony-in-darron-lee-girlfriend-death/",
-      "source": "singtaousa.com",
-      "published": 1770877800
-    },
-    {
-      "id": "fd696668b412",
-      "title": "洛杉磯奧運主席陷愛潑斯坦醜聞 鹹濕電郵曝光仍獲力撐",
-      "url": "https://www.singtaousa.com/2026/02/11/news/usa/la-olympics-committee-backs-chairman-casey-wasserman-amid-epstein-scrutiny/",
-      "source": "singtaousa.com",
-      "published": 1770877800
-    },
-    {
-      "id": "7f4d16558187",
-      "title": "卡爾潘憶《留級之王》試鏡秘辛 驚見白人對手「塗棕臉」搶角",
-      "url": "https://www.singtaousa.com/2026/02/11/news/usa/kal-penn-reveals-he-won-van-wilder-role-of-taj-mahal-over-a-white-actor-in-brownface-he-is-not-allowed-to-get-that-part/",
-      "source": "singtaousa.com",
-      "published": 1770877253
-    },
-    {
-      "id": "5ef7133cca0a",
-      "title": "【全運會回顧】香港健兒創歷史！十五運及殘特奧勇奪佳績，展現不屈精神",
-      "url": "https://www.singtaousa.com/2026/02/11/news/china/national-games-paralympics-hong-kong-athletes-record/",
-      "source": "singtaousa.com",
-      "published": 1770876541
-    },
-    {
       "id": "5c537554ae01",
       "title": "荷蘭人喜歡每週工作四天，但這可持續嗎？",
       "url": "https://www.bbc.com/zhongwen/articles/cgmlvzw13r1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1770875751
-    },
-    {
-      "id": "9fbbf4618e45",
-      "title": "《哈洛與茂德》男星巴德科特逝世 享年77歲 曾稱經典角色是詛咒",
-      "url": "https://www.singtaousa.com/2026/02/11/entertainment/bud-cort-dies-harold-and-maude-actor-was-77/",
-      "source": "singtaousa.com",
-      "published": 1770875453
     },
     {
       "id": "74bb920a6786",
@@ -429,6 +464,27 @@
       "published": 1770827492
     },
     {
+      "id": "7c9b283ddf39",
+      "title": "比亚迪力撑 伯镭智能赶风口抢上市",
+      "url": "https://www.ftchinese.com/story/001108995",
+      "source": "ftchinese.com",
+      "published": 1770825600
+    },
+    {
+      "id": "d0bb3902a56e",
+      "title": "市场看好数字银行前景 汇立银行获2.2亿美元“信任票”",
+      "url": "https://www.ftchinese.com/story/001108994",
+      "source": "ftchinese.com",
+      "published": 1770825600
+    },
+    {
+      "id": "c45d2128275c",
+      "title": "为什么AI广告铺天盖地？",
+      "url": "https://www.ftchinese.com/story/001108993",
+      "source": "ftchinese.com",
+      "published": 1770825600
+    },
+    {
       "id": "08be0d2084ef",
       "title": "小野寺 修：建设和安定的日中关系的关键是对话",
       "url": "https://www.ftchinese.com/story/001108990",
@@ -506,13 +562,6 @@
       "published": 1770824400
     },
     {
-      "id": "6aeb44d00e64",
-      "title": "美国在孟加拉国采取行动对抗中国",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260211-%E7%BE%8E%E5%9B%BD%E5%9C%A8%E5%AD%9F%E5%8A%A0%E6%8B%89%E5%9B%BD%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8%E5%AF%B9%E6%8A%97%E4%B8%AD%E5%9B%BD",
-      "source": "rfi.fr",
-      "published": 1770823880
-    },
-    {
       "id": "c8e2dfa9f0c8",
       "title": "视频 佛教僧侣完成“和平游行”徒步穿越美国",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260211-%E8%A7%86%E9%A2%91-%E4%BD%9B%E6%95%99%E5%83%A7%E4%BE%A3%E5%AE%8C%E6%88%90-%E5%92%8C%E5%B9%B3%E6%B8%B8%E8%A1%8C-%E5%BE%92%E6%AD%A5%E7%A9%BF%E8%B6%8A%E7%BE%8E%E5%9B%BD",
@@ -588,34 +637,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260211-%E8%A7%86%E9%A2%91-%E7%BE%8E%E5%9B%BD%E5%90%91%E4%BC%8A%E6%9C%97%E6%96%BD%E5%8E%8B-%E5%86%8D%E6%89%A3%E4%B8%80%E8%89%98%E9%80%83%E7%A6%BB%E7%9A%84%E6%B2%B9%E8%BD%AE",
       "source": "rfi.fr",
       "published": 1770808991
-    },
-    {
-      "id": "7921b7f00bcb",
-      "title": "在中国电动卡车占比29%而法国仅2%：欧洲未来会将市场拱手让给中国制造商？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260211-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6%E5%8D%A0%E6%AF%9429-%EF%BC%8C%E8%80%8C%E6%B3%95%E5%9B%BD%E4%BB%852-%E6%AC%A7%E6%B4%B2%E6%9C%AA%E6%9D%A5%E4%BC%9A%E5%B0%86%E5%B8%82%E5%9C%BA%E6%8B%B1%E6%89%8B%E8%AE%A9%E7%BB%99%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%95%86",
-      "source": "rfi.fr",
-      "published": 1770808034
-    },
-    {
-      "id": "30f3731b9712",
-      "title": "美中贸易战拖累法葡萄酒和烈酒出口，欧洲如何摆脱对美国的依赖...",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260211-%E7%BE%8E%E4%B8%AD%E8%B4%B8%E6%98%93%E6%88%98%E6%8B%96%E7%B4%AF%E6%B3%95%E8%91%A1%E8%90%84%E9%85%92%E5%92%8C%E7%83%88%E9%85%92%E5%87%BA%E5%8F%A3%EF%BC%8C%E6%AC%A7%E6%B4%B2%E5%A6%82%E4%BD%95%E6%91%86%E8%84%B1%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%BE%9D%E8%B5%96",
-      "source": "rfi.fr",
-      "published": 1770806392
-    },
-    {
-      "id": "69f1f87a8573",
-      "title": "黎智英遭重判20年再次证明一国两制名存实亡 台湾应以此警惕被中共统治的下场",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20260211-%E9%BB%8E%E6%99%BA%E8%8B%B1%E9%81%AD%E9%87%8D%E5%88%A420%E5%B9%B4%E5%86%8D%E6%AC%A1%E8%AF%81%E6%98%8E%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6%E5%90%8D%E5%AD%98%E5%AE%9E%E4%BA%A1-%E5%8F%B0%E6%B9%BE%E5%BA%94%E4%BB%A5%E6%AD%A4%E8%AD%A6%E6%83%95%E8%A2%AB%E4%B8%AD%E5%85%B1%E7%BB%9F%E6%B2%BB%E7%9A%84%E4%B8%8B%E5%9C%BA",
-      "source": "rfi.fr",
-      "published": 1770805089
-    },
-    {
-      "id": "d5945701186f",
-      "title": "北极安全：挪威警告俄罗斯威胁，英国增加驻军",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260211-%E5%8C%97%E6%9E%81%E5%AE%89%E5%85%A8-%E6%8C%AA%E5%A8%81%E8%AD%A6%E5%91%8A%E4%BF%84%E7%BD%97%E6%96%AF%E5%A8%81%E8%83%81%EF%BC%8C%E8%8B%B1%E5%9B%BD%E5%A2%9E%E5%8A%A0%E9%A9%BB%E5%86%9B",
-      "source": "rfi.fr",
-      "published": 1770803920
     },
     {
       "id": "2e257dede69b",
@@ -747,27 +768,6 @@
       "id": "f717fc1e70c6",
       "title": "Lex专栏：“SaaS末日”重创私募股权",
       "url": "https://www.ftchinese.com/story/001108969",
-      "source": "ftchinese.com",
-      "published": 1770739200
-    },
-    {
-      "id": "f6a1417a55fb",
-      "title": "展望2026：高市财政冲击与“去美元”之辩",
-      "url": "https://www.ftchinese.com/story/001108863",
-      "source": "ftchinese.com",
-      "published": 1770739200
-    },
-    {
-      "id": "f75bbfd8c3f1",
-      "title": "德国已经到了负担不起社会福利的地步了吗？",
-      "url": "https://www.ftchinese.com/story/001108933",
-      "source": "ftchinese.com",
-      "published": 1770739200
-    },
-    {
-      "id": "2eec7b9ea92a",
-      "title": "亚洲市场再迎高光时刻",
-      "url": "https://www.ftchinese.com/story/001108946",
       "source": "ftchinese.com",
       "published": 1770739200
     },
@@ -1346,5 +1346,5 @@
       "published": 1768390680
     }
   ],
-  "build_id": 1770892374
+  "build_id": 1770895877
 }
