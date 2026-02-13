@@ -1,6 +1,48 @@
 {
-  "updated": 1771003963,
+  "updated": 1771007410,
   "items": [
+    {
+      "id": "48a3eb395b47",
+      "title": "美伊緊張急劇升溫 特朗普下令全球最大航母馳援中東",
+      "url": "https://www.singtaousa.com/2026/02/13/news/world/second-us-aircraft-carrier-is-being-sent-to-the-middle-east-ap-source-says-as-iran-tensions-grow-2/",
+      "source": "singtaousa.com",
+      "published": 1771006913
+    },
+    {
+      "id": "ddc46bda27cc",
+      "title": "【掃興之旅】麗星郵輪「領航星號」突發故障取消行程 過千旅客苦等5小時 廣州客、長者齊齊受罪",
+      "url": "https://www.singtaousa.com/2026/02/13/news/china/star-cruise-breakdown-passengers-stranded/",
+      "source": "singtaousa.com",
+      "published": 1771006141
+    },
+    {
+      "id": "d24c78a933b5",
+      "title": "3年前已爆合約糾紛 CBX遭SM娛樂申請扣押物業",
+      "url": "https://www.singtaousa.com/2026/02/13/entertainment/cbx-sm-entertainment-asset-seizure/",
+      "source": "singtaousa.com",
+      "published": 1771005600
+    },
+    {
+      "id": "89c9596dc55f",
+      "title": "长江十年禁鱼政策成绩显著  却难使灭绝物种起死回生",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20260213-%E9%95%BF%E6%B1%9F%E5%8D%81%E5%B9%B4%E7%A6%81%E9%B1%BC%E6%94%BF%E7%AD%96%E6%88%90%E7%BB%A9%E6%98%BE%E8%91%97-%E5%8D%B4%E9%9A%BE%E9%81%8F%E5%88%B6%E6%BF%92%E5%8D%B1%E7%89%A9%E7%A7%8D%E7%9A%84%E6%B6%88%E5%A4%B1",
+      "source": "rfi.fr",
+      "published": 1771005264
+    },
+    {
+      "id": "180239288d83",
+      "title": "美核發許可　英國石油等五大油商恢復在委內瑞拉營運",
+      "url": "https://money.udn.com/money/story/5599/9329931",
+      "source": "money.udn.com",
+      "published": 1771005261
+    },
+    {
+      "id": "de2bf44fe2bd",
+      "title": "【農曆新年過關必讀】海關食安中心邊境派「錦囊」 提醒市民勿非法攜帶受規管食物",
+      "url": "https://www.singtaousa.com/2026/02/13/news/china/lunar-newyear-border-food-import-warning/",
+      "source": "singtaousa.com",
+      "published": 1771004342
+    },
     {
       "id": "c3bd93df3ca3",
       "title": "【車Cam直擊】粉嶺私家車高速衝紅燈 單車男被撞飛凌空翻轉 巴裔司機涉危駕被捕",
@@ -191,32 +233,11 @@
       "published": 1770994470
     },
     {
-      "id": "53298cf64222",
-      "title": "泰國親軍方自豪泰黨與為泰黨將籌組聯合政府",
-      "url": "https://www.singtaousa.com/2026/02/13/news/world/thailands-pro-military-pheu-thai-party-and-pheu-thai-party-will-form-a-coalition-government/",
-      "source": "singtaousa.com",
-      "published": 1770994089
-    },
-    {
       "id": "21f057e33c87",
       "title": "烏俄戰事將滿4年　雙方下週日內瓦展開第3輪會談",
       "url": "https://money.udn.com/money/story/5599/9329687",
       "source": "money.udn.com",
       "published": 1770993388
-    },
-    {
-      "id": "0c590fecbe05",
-      "title": "特朗普撤銷「溫室氣體危害認定」　冀節省監管成本降低美製汽車價格",
-      "url": "https://www.singtaousa.com/2026/02/13/news/usa/trump-withdraws-greenhouse-gas-hazard-determination-in-hopes-of-saving-regulatory-costs-and-lowering-the-price-of-american-made-cars/",
-      "source": "singtaousa.com",
-      "published": 1770992914
-    },
-    {
-      "id": "613f5c71bb9e",
-      "title": "CIA發佈影片公開招募解放軍做線人　中方強烈譴責嚴打反華勢力滲透",
-      "url": "https://www.singtaousa.com/2026/02/13/news/usa/cia-releases-video-openly-recruiting-peoples-liberation-army-as-informants-china-strongly-condemns-crackdown-on-infiltration-by-anti-china-forces/",
-      "source": "singtaousa.com",
-      "published": 1770992428
     },
     {
       "id": "61bbab458f64",
@@ -238,13 +259,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260213-%E6%85%95%E5%B0%BC%E9%BB%91-%E7%BE%8E%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%A9%AC%E5%8F%AF%C2%B7%E5%8D%A2%E6%AF%94%E5%A5%A5%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%95%BF%E7%8E%8B%E6%AF%85%E4%BC%9A%E6%99%A4",
       "source": "rfi.fr",
       "published": 1770991287
-    },
-    {
-      "id": "72a59d72882f",
-      "title": "應用材料財測意外報喜",
-      "url": "https://www.singtaousa.com/2026/02/13/news/usa/applied-materials-beats-expectations/",
-      "source": "singtaousa.com",
-      "published": 1770991200
     },
     {
       "id": "65092ffc82f0",
@@ -301,13 +315,6 @@
       "url": "https://money.udn.com/money/story/5599/9329609",
       "source": "money.udn.com",
       "published": 1770987298
-    },
-    {
-      "id": "66818fc77dd0",
-      "title": "羅浮宮厄運沒完 展廳漏水傳有畫作受損",
-      "url": "https://money.udn.com/money/story/5599/9329605",
-      "source": "money.udn.com",
-      "published": 1770987297
     },
     {
       "id": "b6146961b5e9",
@@ -728,13 +735,6 @@
       "url": "https://www.ftchinese.com/story/001108991",
       "source": "ftchinese.com",
       "published": 1770912000
-    },
-    {
-      "id": "47648a7a9537",
-      "title": "“讲好中国故事”：北京如何在全球传媒中执行习近平的意志",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%AD%E5%8D%8E%E4%B8%96%E7%95%8C/20260212-%E8%AE%B2%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B-%E5%8C%97%E4%BA%AC%E5%A6%82%E4%BD%95%E5%9C%A8%E5%85%A8%E7%90%83%E5%AA%92%E4%BC%A0%E4%B8%AD%E6%89%A7%E8%A1%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%84%8F%E5%BF%97",
-      "source": "rfi.fr",
-      "published": 1770911315
     },
     {
       "id": "b8cc1b59955e",
@@ -1339,5 +1339,5 @@
       "published": 1768552080
     }
   ],
-  "build_id": 1771003963
+  "build_id": 1771007410
 }
