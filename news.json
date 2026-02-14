@@ -1,6 +1,13 @@
 {
-  "updated": 1771103605,
+  "updated": 1771105414,
   "items": [
+    {
+      "id": "c90f7abc5624",
+      "title": "呂特憶述與烏克蘭英雄犬會面 稱其眼神承諾「絕不投降」",
+      "url": "https://www.singtaousa.com/2026/02/14/news/world/natos-secretary-general-said-a-ukrainian-dog-promised-not-to-surrender/",
+      "source": "singtaousa.com",
+      "published": 1771104600
+    },
     {
       "id": "5796ce22515e",
       "title": "【馬年爆紅】萬元做迷你馬主？ 過來人踢爆驚人開銷：養得起買唔起！",
@@ -9,9 +16,9 @@
       "published": 1771103347
     },
     {
-      "id": "8db97432d7a5",
+      "id": "137f1fa1a8b7",
       "title": "盧比歐：美中貿易議題影響全球　需控管分歧避免衝突",
-      "url": "https://money.udn.com/money/story/10511/9331201",
+      "url": "https://money.udn.com/money/story/5599/9331201",
       "source": "money.udn.com",
       "published": 1771102835
     },
@@ -105,13 +112,6 @@
       "url": "https://money.udn.com/money/story/5599/9331186",
       "source": "money.udn.com",
       "published": 1771096353
-    },
-    {
-      "id": "c19c35aaeb03",
-      "title": "王毅慕尼火力斥日本軍國主義陰魂不散 警告台海言論極度危險",
-      "url": "https://www.singtaousa.com/2026/02/14/news/china/munich-security-conference-wang-yi-japan-militarism/",
-      "source": "singtaousa.com",
-      "published": 1771096143
     },
     {
       "id": "6f146dc51512",
@@ -1332,5 +1332,5 @@
       "published": 1768724100
     }
   ],
-  "build_id": 1771103605
+  "build_id": 1771105414
 }
