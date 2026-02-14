@@ -1,6 +1,20 @@
 {
-  "updated": 1771089407,
+  "updated": 1771091228,
   "items": [
+    {
+      "id": "73ec68caac1c",
+      "title": "馬鞍山24歲女子寓所燒炭亡 友人揭發惜為時已晚",
+      "url": "https://www.singtaousa.com/2026/02/14/news/china/ma-on-shan-woman-suicide-charcoal-burning/",
+      "source": "singtaousa.com",
+      "published": 1771090748
+    },
+    {
+      "id": "610cf58b1f7e",
+      "title": "美國務卿魯比奧向歐洲示好 軟化言詞背後堅持特朗普路線",
+      "url": "https://www.singtaousa.com/2026/02/14/news/world/rubios-speech-to-european-allies-takes-a-softer-tone-but-sticks-to-trumps-firm-stance/",
+      "source": "singtaousa.com",
+      "published": 1771089787
+    },
     {
       "id": "659c24544e66",
       "title": "驚險！牛頭角Tesla猛撼燈柱毀8米欄杆 深水埗「辣椒仔」剷安全島",
@@ -63,6 +77,13 @@
       "url": "https://www.singtaousa.com/2026/02/14/entertainment/charine-chung-admits-spending-valentines-day-with-rumored-boyfriend/",
       "source": "singtaousa.com",
       "published": 1771084800
+    },
+    {
+      "id": "927cdec017f9",
+      "title": "網上批ICE遭起底？美國安部向Google、Meta索用戶資料",
+      "url": "https://www.singtaousa.com/2026/02/14/news/usa/homeland-security-demands-social-media-sites-reveal-names-behind-anti-ice-posts/",
+      "source": "singtaousa.com",
+      "published": 1771081898
     },
     {
       "id": "0dccb067b076",
@@ -184,27 +205,6 @@
       "published": 1771077600
     },
     {
-      "id": "ac63d7e4ccdf",
-      "title": "「失利的感覺並不好受  我無法改變結果」",
-      "url": "https://www.singtaousa.com/2026/02/14/news/usa/marinin-disappointing-olympic-dream/",
-      "source": "singtaousa.com",
-      "published": 1771077600
-    },
-    {
-      "id": "818a7c9d0d96",
-      "title": "夏季冬季皆摘金   伊根成唯一",
-      "url": "https://www.singtaousa.com/2026/02/14/news/usa/edward-egan-olympic-gold-medalist/",
-      "source": "singtaousa.com",
-      "published": 1771077600
-    },
-    {
-      "id": "10eb608e5d39",
-      "title": "40歲保羅深情告別NBA",
-      "url": "https://www.singtaousa.com/2026/02/14/news/usa/chris-paul-retires-nba/",
-      "source": "singtaousa.com",
-      "published": 1771077600
-    },
-    {
       "id": "db054458758f",
       "title": "李逸洋拜會自民黨「黨三役」要角 討論深化台日合作",
       "url": "https://money.udn.com/money/story/5599/9330965",
@@ -261,16 +261,16 @@
       "published": 1771072245
     },
     {
-      "id": "ebc44162bc12",
-      "title": "陸經濟低迷新證據…外資不來內資出海 投資落差20多年最大",
-      "url": "https://money.udn.com/money/story/5599/9330926",
+      "id": "e4bf13a5018f",
+      "title": "印度 AI 峰會將登場 輝達：黃仁勳不克出席",
+      "url": "https://money.udn.com/money/story/5599/9330927",
       "source": "money.udn.com",
       "published": 1771071701
     },
     {
-      "id": "e4bf13a5018f",
-      "title": "印度 AI 峰會將登場 輝達：黃仁勳不克出席",
-      "url": "https://money.udn.com/money/story/5599/9330927",
+      "id": "ebc44162bc12",
+      "title": "陸經濟低迷新證據…外資不來內資出海 投資落差20多年最大",
+      "url": "https://money.udn.com/money/story/5599/9330926",
       "source": "money.udn.com",
       "published": 1771071701
     },
@@ -1325,5 +1325,5 @@
       "published": 1768724100
     }
   ],
-  "build_id": 1771089407
+  "build_id": 1771091228
 }
