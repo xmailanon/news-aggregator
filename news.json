@@ -1,6 +1,13 @@
 {
-  "updated": 1771083922,
+  "updated": 1771085738,
   "items": [
+    {
+      "id": "9920e38800b9",
+      "title": "陳瀅大方承認 孖緋聞男友過情人節",
+      "url": "https://www.singtaousa.com/2026/02/14/entertainment/charine-chung-admits-spending-valentines-day-with-rumored-boyfriend/",
+      "source": "singtaousa.com",
+      "published": 1771084800
+    },
     {
       "id": "0dccb067b076",
       "title": "中国高院：辅助驾驶系统不能代替驾驶人",
@@ -23,11 +30,32 @@
       "published": 1771080628
     },
     {
+      "id": "449e371ffbbc",
+      "title": "波蘭崛起 人均GDP追趕英國",
+      "url": "https://money.udn.com/money/story/5599/9331029",
+      "source": "money.udn.com",
+      "published": 1771080552
+    },
+    {
+      "id": "7e3921233666",
+      "title": "南韓電玩外銷額 超車K-pop",
+      "url": "https://money.udn.com/money/story/5599/9331028",
+      "source": "money.udn.com",
+      "published": 1771080455
+    },
+    {
       "id": "e5140659c95a",
       "title": "特朗普对伊朗军事压力加码，不再排除政权更迭",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260214-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E5%8E%8B%E5%8A%9B%E5%8A%A0%E7%A0%81%EF%BC%8C%E4%B8%8D%E5%86%8D%E6%8E%92%E9%99%A4%E6%94%BF%E6%9D%83%E6%9B%B4%E8%BF%AD",
       "source": "rfi.fr",
       "published": 1771080406
+    },
+    {
+      "id": "b61a792063d1",
+      "title": "1分鐘看世界／日本春節前夕大陸遊客銳減 飯店訂房取消率達53%",
+      "url": "https://money.udn.com/money/story/5599/9330994",
+      "source": "money.udn.com",
+      "published": 1771079748
     },
     {
       "id": "94342978c0e6",
@@ -131,13 +159,6 @@
       "id": "9c7df6716dbd",
       "title": "二刀流全面復活   大谷挑戰塞揚獎",
       "url": "https://www.singtaousa.com/2026/02/14/news/usa/ohtani-two-way-cy-young/",
-      "source": "singtaousa.com",
-      "published": 1771077600
-    },
-    {
-      "id": "894eedaebc69",
-      "title": "政府擲4000萬遣數百移民往第三國",
-      "url": "https://www.singtaousa.com/2026/02/14/news/usa/us-government-deports-immigrants-third-countries/",
       "source": "singtaousa.com",
       "published": 1771077600
     },
@@ -252,27 +273,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260214-%E8%AE%A9%E7%8B%AC%E7%AB%8B%E5%87%BA%E7%89%88%E7%9A%84%E6%B5%B7%E5%86%85%E5%A4%96%E5%8D%8E%E8%AF%AD%E4%B9%A6%E7%B1%8D%E8%A2%AB%E7%9C%8B%E8%A7%81-%EF%BC%8D-%E8%AE%BF%E9%97%AE%E4%BB%8E%E4%B8%AD%E5%9B%BD%E4%B8%B6%E9%A6%99%E6%B8%AF%E4%B8%B6%E5%8F%B0%E6%B9%BE%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C%E7%9A%84%E5%BC%A0%E6%B4%81%E5%B9%B3",
       "source": "rfi.fr",
       "published": 1771066512
-    },
-    {
-      "id": "e067c1274e5f",
-      "title": "美國援助委內瑞拉　運送逾6公噸醫療物資",
-      "url": "https://money.udn.com/money/story/10511/9330905",
-      "source": "money.udn.com",
-      "published": 1771066446
-    },
-    {
-      "id": "f14e10db9d74",
-      "title": "翻轉國家1／從強迫少年斷網到大力扶持 南韓如何成為電競強國？",
-      "url": "https://money.udn.com/money/story/122381/9330901",
-      "source": "money.udn.com",
-      "published": 1771066061
-    },
-    {
-      "id": "69cba6ec40bf",
-      "title": "翻轉國家2／前共產國出頭天…波蘭人均 GDP 即將超越英國 怎辦到的？",
-      "url": "https://money.udn.com/money/story/122381/9330899",
-      "source": "money.udn.com",
-      "published": 1771065989
     },
     {
       "id": "4014b71dad4b",
@@ -1339,5 +1339,5 @@
       "published": 1768724100
     }
   ],
-  "build_id": 1771083922
+  "build_id": 1771085738
 }
