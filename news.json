@@ -1,6 +1,27 @@
 {
-  "updated": 1771188433,
+  "updated": 1771190050,
   "items": [
+    {
+      "id": "dac64f29aae9",
+      "title": "泽连斯基表示乌克兰与欧洲盟国达成新的军事援助协议",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260215-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%A1%A8%E7%A4%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8E%E6%AC%A7%E6%B4%B2%E7%9B%9F%E5%9B%BD%E8%BE%BE%E6%88%90%E6%96%B0%E7%9A%84%E5%86%9B%E4%BA%8B%E6%8F%B4%E5%8A%A9%E5%8D%8F%E8%AE%AE",
+      "source": "rfi.fr",
+      "published": 1771189917
+    },
+    {
+      "id": "f16f0fb02852",
+      "title": "【綠色航運新里程】中國首艘全甲醇燃料江海船「創新19」號成功首航，減排二氧化碳逾90%！",
+      "url": "https://www.singtaousa.com/2026/02/15/news/china/china-first-methanol-fueled-river-sea-ship-maiden-voyage/",
+      "source": "singtaousa.com",
+      "published": 1771189745
+    },
+    {
+      "id": "98ae6107854c",
+      "title": "王幸貽演技靈動 天真無邪惹人憐",
+      "url": "https://www.singtaousa.com/2026/02/15/entertainment/wang-xing-yi-acting-childhood-role/",
+      "source": "singtaousa.com",
+      "published": 1771189200
+    },
     {
       "id": "2e16873fea65",
       "title": "港人遊日熱情不減反增！無懼政治風波，今年赴日旅客料飆升四成",
@@ -91,20 +112,6 @@
       "url": "https://www.singtaousa.com/2026/02/15/news/world/britain-s-high-court-says-government-acted-illegally-in-outlawing-protest-group-palestine-action/",
       "source": "singtaousa.com",
       "published": 1771178400
-    },
-    {
-      "id": "47d69f249c18",
-      "title": "落魄郡主涅磐歸來復仇奪權",
-      "url": "https://www.singtaousa.com/2026/02/15/entertainment/revenge-of-the-fallen-princess/",
-      "source": "singtaousa.com",
-      "published": 1771178400
-    },
-    {
-      "id": "ced4c248a4fb",
-      "title": "【突發】葵涌邨夏葵樓喉管滲水引致大停電！逾800戶摸黑疏散，有長者呼吸機受影響",
-      "url": "https://www.singtaousa.com/2026/02/15/news/china/pipe-leakage-power-outage-evacuation-kwai-chung-estate/",
-      "source": "singtaousa.com",
-      "published": 1771177146
     },
     {
       "id": "0e1eef87bd70",
@@ -532,13 +539,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260214-%E6%85%95%E5%B0%BC%E9%BB%91-20%E4%B8%87%E4%BA%BA%E9%9B%86%E4%BC%9A%E5%8F%8D%E4%BC%8A%E6%9C%97%E5%BD%93%E5%B1%80-%E5%89%8D%E5%9B%BD%E7%8E%8B%E4%B9%8B%E5%AD%90%E6%89%BF%E8%AF%BA%E5%8A%A9%E4%BC%8A%E6%9C%97%E8%BD%AC%E5%9E%8B%E6%B0%91%E4%B8%BB",
       "source": "rfi.fr",
       "published": 1771095705
-    },
-    {
-      "id": "899fafc4ea5d",
-      "title": "习近平宣布对非洲53个邦交国实施“零关税”",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260214-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%AE%A3%E5%B8%83%E5%AF%B9%E9%9D%9E%E6%B4%B253%E4%B8%AA%E9%82%A6%E4%BA%A4%E5%9B%BD%E5%AE%9E%E6%96%BD-%E9%9B%B6%E5%85%B3%E7%A8%8E",
-      "source": "rfi.fr",
-      "published": 1771093271
     },
     {
       "id": "f5db38f48429",
@@ -1339,5 +1339,5 @@
       "published": 1768724100
     }
   ],
-  "build_id": 1771188433
+  "build_id": 1771190050
 }
