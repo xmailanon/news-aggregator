@@ -1,6 +1,111 @@
 {
-  "updated": 1771155704,
+  "updated": 1771158249,
   "items": [
+    {
+      "id": "3194313a26e2",
+      "title": "中国宣布：2月17日大年初一起加拿大和英国游客免签",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260215-%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83-2%E6%9C%8817%E6%97%A5%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E8%B5%B7%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%92%8C%E8%8B%B1%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%85%8D%E7%AD%BE",
+      "source": "rfi.fr",
+      "published": 1771157685
+    },
+    {
+      "id": "de7f57d7e939",
+      "title": "AI驅動「電力時代」來臨 各國政壇與政策將面臨重大轉變",
+      "url": "https://money.udn.com/money/story/5599/9331908",
+      "source": "money.udn.com",
+      "published": 1771157307
+    },
+    {
+      "id": "0ccc0d12e74b",
+      "title": "英首席捕鼠官就職15週年歷6任首相 政壇動盪中穩定象徵",
+      "url": "https://money.udn.com/money/story/5599/9331903",
+      "source": "money.udn.com",
+      "published": 1771156842
+    },
+    {
+      "id": "5bac53af38ab",
+      "title": "多哈Art Basel",
+      "url": "https://www.singtaousa.com/2026/02/15/opinion/doha-art-basel-qatar-culture/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "368e1e23d60b",
+      "title": "大女的潘多拉盒子",
+      "url": "https://www.singtaousa.com/2026/02/15/opinion/daughter-pandora-box-football/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "7599a9f0caa0",
+      "title": "藝術共融無限亮",
+      "url": "https://www.singtaousa.com/2026/02/15/opinion/art-inclusion-unlimited-light/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "827973f25b17",
+      "title": "情人節替刮穿煲封刀",
+      "url": "https://www.singtaousa.com/2026/02/15/opinion/valentines-day-guakuanbao-farewell/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "a36f15c40c6b",
+      "title": "三妻四妾",
+      "url": "https://www.singtaousa.com/2026/02/15/opinion/three-wives-four-concubines/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "1c73ba58b14e",
+      "title": "魯比奧：避免與中國衝突",
+      "url": "https://www.singtaousa.com/2026/02/15/news/usa/rubio-avoid-china-conflict/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "718bfac45e44",
+      "title": "美國伊朗本周舉行第二輪會談",
+      "url": "https://www.singtaousa.com/2026/02/15/news/world/us-iran-talks-geneva/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "d4eed71d8c51",
+      "title": "英國部署航母戰鬥群威懾俄羅斯",
+      "url": "https://www.singtaousa.com/2026/02/15/news/world/uk-deploys-carrier-strike-group-deter-russia/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "4a375ceac611",
+      "title": "競爭算力  中美AI鬥上宇宙",
+      "url": "https://www.singtaousa.com/2026/02/15/news/world/competing-for-computing-power-china-and-the-united-states-ai-battle-to-take-over-the-universe/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "5a05996145a0",
+      "title": "眾院選舉看似大勝  其實並非代表民意",
+      "url": "https://www.singtaousa.com/2026/02/15/news/world/election-victory-not-public-opinion/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "fb7af4a227a3",
+      "title": "高市早苗手指發炎關節變形",
+      "url": "https://www.singtaousa.com/2026/02/15/news/world/japanese-pm-takaichi-finger-inflammation-joint-deformation/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
+    {
+      "id": "7e82b831dadc",
+      "title": "日本擬最快於夏季設「國家情報局」",
+      "url": "https://www.singtaousa.com/2026/02/15/news/world/japan-plans-national-intelligence-agency-summer/",
+      "source": "singtaousa.com",
+      "published": 1771156800
+    },
     {
       "id": "9d8687e973f3",
       "title": "「電力時代」正式揭幕 各國政府面臨重大政策轉變",
@@ -49,90 +154,6 @@
       "url": "https://money.udn.com/money/story/5599/9331845",
       "source": "money.udn.com",
       "published": 1771149714
-    },
-    {
-      "id": "ac6a059f73d5",
-      "title": "LA28主席沃瑟曼將出售經紀公司",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/wasserman-sells-agency-amid-epstein-files/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "6cef62961d21",
-      "title": "國航北美多城啟動「歡樂春節」文旅推廣",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/air-china-launches-happy-chinese-new-year-tourism-promotion/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "7d27cf50a65f",
-      "title": "《鏢人：風起大漠》北美春節檔上映",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/blades-guardians-north-america-release/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "3c39835e1d60",
-      "title": "執法部門搗破賣淫集團拘兩華裔",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/police-bust-prostitution-ring-arrest-two-chinese/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "2f42f6fd52dd",
-      "title": "與示威者爆衝突 3聯邦人員受傷",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/protesters-clash-feds-injured/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "946668bcf132",
-      "title": "申姓兇嫌潛逃24載南韓落網引渡回美",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/suspect-arrested-south-korea-extradited-us/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "c766456f430a",
-      "title": "2歹徒持棒球棍搶劫 26歲男子被打昏迷",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/robbers-beat-man-unconscious-baseball-bat/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "760511e3c9ff",
-      "title": "一周砸2車竊近萬元 警緝涉案團夥",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/two-cars-smashed-thousands-stolen-police-hunt-gang/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "53a09d437d4c",
-      "title": "皇后區公共圖書館 辦慶祝農曆馬年系列活動",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/queens-library-lunar-new-year-celebration/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "ab2c4f1b8d17",
-      "title": "逾萬護士結束罷工重返崗位",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/nurses-end-strike-return-to-work/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "fb8abaaab6f3",
-      "title": "8旬翁遭無端毆打致傷",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/80-year-old-man-assaulted/",
-      "source": "singtaousa.com",
-      "published": 1771149600
-    },
-    {
-      "id": "5cbba368c841",
-      "title": "內政部堅拒石牆紀念區掛彩虹旗",
-      "url": "https://www.singtaousa.com/2026/02/15/news/usa/stonewall-monument-rainbow-flag-ban/",
-      "source": "singtaousa.com",
-      "published": 1771149600
     },
     {
       "id": "1c38ffdce068",
@@ -205,16 +226,16 @@
       "published": 1771144740
     },
     {
-      "id": "d0828656e09d",
-      "title": "消费主义在中国打败了民族主义",
-      "url": "https://www.dw.com/zh/消费主义在中国打败了民族主义/a-75895833?maca=chi-rss-chi-all-1127-rdf",
+      "id": "284506296201",
+      "title": "有恐高症的跳台滑雪奥运冠军",
+      "url": "https://www.dw.com/zh/有恐高症的跳台滑雪奥运冠军/a-75912230?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1771144680
     },
     {
-      "id": "284506296201",
-      "title": "有恐高症的跳台滑雪奥运冠军",
-      "url": "https://www.dw.com/zh/有恐高症的跳台滑雪奥运冠军/a-75912230?maca=chi-rss-chi-all-1127-rdf",
+      "id": "d0828656e09d",
+      "title": "消费主义在中国打败了民族主义",
+      "url": "https://www.dw.com/zh/消费主义在中国打败了民族主义/a-75895833?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1771144680
     },
@@ -294,20 +315,6 @@
       "url": "https://money.udn.com/money/story/5599/9331737",
       "source": "money.udn.com",
       "published": 1771138834
-    },
-    {
-      "id": "3c43626487f9",
-      "title": "泰國大選落幕　民調：民眾質疑選委會懲處舞弊能力",
-      "url": "https://money.udn.com/money/story/5599/9331736",
-      "source": "money.udn.com",
-      "published": 1771138834
-    },
-    {
-      "id": "655913b0007f",
-      "title": "美法聯手緝毒　太平洋海域查獲2.4噸古柯鹼",
-      "url": "https://money.udn.com/money/story/5599/9331732",
-      "source": "money.udn.com",
-      "published": 1771138468
     },
     {
       "id": "0ec6bd7d35b0",
@@ -562,13 +569,6 @@
       "published": 1771027156
     },
     {
-      "id": "33cef1629742",
-      "title": "欧洲力图抹去万斯留下的不良印象",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260213-%E6%AC%A7%E6%B4%B2%E5%8A%9B%E5%9B%BE%E6%8A%B9%E5%8E%BB%E4%B8%87%E6%96%AF%E7%95%99%E4%B8%8B%E7%9A%84%E4%B8%8D%E8%89%AF%E5%BD%B1%E5%93%8D",
-      "source": "rfi.fr",
-      "published": 1771023742
-    },
-    {
       "id": "cc5eac211f53",
       "title": "中央情报局为何公开招募中国军方线人？",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260213-%E4%B8%AD%E5%A4%AE%E6%83%85%E6%8A%A5%E5%B1%80%E4%B8%BA%E4%BD%95%E5%85%AC%E5%BC%80%E6%8B%9B%E5%8B%9F%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E7%BA%BF%E4%BA%BA",
@@ -581,6 +581,62 @@
       "url": "https://www.dw.com/zh/阿里巴巴或被列入五角大楼-黑名单/a-75957889?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1771000680
+    },
+    {
+      "id": "27302d02b717",
+      "title": "AI时代，大学还教什么？——英美路径之比较",
+      "url": "https://www.ftchinese.com/story/001109012",
+      "source": "ftchinese.com",
+      "published": 1770998400
+    },
+    {
+      "id": "120ad0a38679",
+      "title": "印度尼赫鲁大学教授狄伯杰：印度和中国不能彼此忽视",
+      "url": "https://www.ftchinese.com/story/001109011",
+      "source": "ftchinese.com",
+      "published": 1770998400
+    },
+    {
+      "id": "564cc7596db0",
+      "title": "美国将阿里巴巴和比亚迪加入涉军企业名单",
+      "url": "https://www.ftchinese.com/story/001109010",
+      "source": "ftchinese.com",
+      "published": 1770998400
+    },
+    {
+      "id": "ea46935c7ef9",
+      "title": "数字人的情感幻觉与权力游戏",
+      "url": "https://www.ftchinese.com/story/001109009",
+      "source": "ftchinese.com",
+      "published": 1770998400
+    },
+    {
+      "id": "78d29451e6f1",
+      "title": "先教与先资——全球现代化路径的深层分野",
+      "url": "https://www.ftchinese.com/story/001109008",
+      "source": "ftchinese.com",
+      "published": 1770998400
+    },
+    {
+      "id": "8a4557419e81",
+      "title": "丹麦首相：欧洲需要有“紧迫感”以求生存",
+      "url": "https://www.ftchinese.com/story/001109007",
+      "source": "ftchinese.com",
+      "published": 1770998400
+    },
+    {
+      "id": "7e1995a26f1e",
+      "title": "央行官员异议告诉我们什么？",
+      "url": "https://www.ftchinese.com/story/001109006",
+      "source": "ftchinese.com",
+      "published": 1770998400
+    },
+    {
+      "id": "3a60ff0872a2",
+      "title": "2.4%：美国1月通胀率低于预期",
+      "url": "https://www.ftchinese.com/story/001109005",
+      "source": "ftchinese.com",
+      "published": 1770998400
     },
     {
       "id": "c3e91ffc3c76",
@@ -609,13 +665,6 @@
       "url": "https://www.dw.com/zh/民调：三分之二德国人认为美国对世界和平构成威胁/a-75957859?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1770994740
-    },
-    {
-      "id": "0f5cbbd65da0",
-      "title": "孟加拉国民族主义党赢得大选 新总理是何人？",
-      "url": "https://www.dw.com/zh/孟加拉国民族主义党赢得大选-新总理是何人？/a-75950291?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1770982380
     },
     {
       "id": "246fc677cfd1",
@@ -707,6 +756,90 @@
       "url": "https://cn.nytimes.com/asia-pacific/20260213/japan-seizes-chinese-boat/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1770919758
+    },
+    {
+      "id": "7934333b15d8",
+      "title": "不要让英国国内政治的“魔咒”再次左右中英关系",
+      "url": "https://www.ftchinese.com/story/001109003",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "53a99b05481d",
+      "title": "CES的两面：中国科技企业的“全球热”与“地缘冷”",
+      "url": "https://www.ftchinese.com/story/001109004",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "a7a8468e9731",
+      "title": "安踏收购彪马：中企出海最稳妥的模式",
+      "url": "https://www.ftchinese.com/story/001108978",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "0b28fc97a2c0",
+      "title": "美国与台湾签署贸易协议",
+      "url": "https://www.ftchinese.com/story/001109002",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "d00a126c9211",
+      "title": "量化指标的暴政",
+      "url": "https://www.ftchinese.com/story/001109001",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "113b5ac59cee",
+      "title": "好工程的诀窍：消除不利阻碍，保存有益阻碍",
+      "url": "https://www.ftchinese.com/story/001109000",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "d66f6d9ba7fd",
+      "title": "AI浪潮下的员工“再社会化”与效率之外的“社会成本”",
+      "url": "https://www.ftchinese.com/story/001108999",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "7797178505d6",
+      "title": "AI的下一步：智能体",
+      "url": "https://www.ftchinese.com/story/001108947",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "1ead7c8cb9f4",
+      "title": "太空光伏：能源革命，还是新一轮基础设施竞赛？",
+      "url": "https://www.ftchinese.com/story/001108948",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "374dba1d1dcb",
+      "title": "失温的边缘：罗马尼亚与摩尔多瓦的“乡愁”",
+      "url": "https://www.ftchinese.com/story/001108992",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "26023737645a",
+      "title": "AI不至于淘汰电子游戏",
+      "url": "https://www.ftchinese.com/story/001108998",
+      "source": "ftchinese.com",
+      "published": 1770912000
+    },
+    {
+      "id": "1ba5e99d4eaf",
+      "title": "杯中之物不言，时间已在其中",
+      "url": "https://www.ftchinese.com/story/001108975",
+      "source": "ftchinese.com",
+      "published": 1770912000
     },
     {
       "id": "f1b709ace9ff",
@@ -1213,5 +1346,5 @@
       "published": 1768724100
     }
   ],
-  "build_id": 1771155704
+  "build_id": 1771158249
 }
