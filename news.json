@@ -1,6 +1,13 @@
 {
-  "updated": 1771149100,
+  "updated": 1771150486,
   "items": [
+    {
+      "id": "78d44998f226",
+      "title": "華爾街分析師「堅定看多」台積電ADR  股價後市看漲",
+      "url": "https://money.udn.com/money/story/5599/9331845",
+      "source": "money.udn.com",
+      "published": 1771149714
+    },
     {
       "id": "1c38ffdce068",
       "title": "越南春節傳統必備鮮花盆栽  河內民眾搶購添年味",
@@ -287,13 +294,6 @@
       "url": "https://www.singtaousa.com/2026/02/14/entertainment/li-qian-na-controversy-affects-show/",
       "source": "singtaousa.com",
       "published": 1771135200
-    },
-    {
-      "id": "467bff6ef31d",
-      "title": "奈及利亞西北部3村莊遇襲　至少46人喪命",
-      "url": "https://money.udn.com/money/story/10511/9331678",
-      "source": "money.udn.com",
-      "published": 1771134870
     },
     {
       "id": "0ec6bd7d35b0",
@@ -1353,5 +1353,5 @@
       "published": 1768724100
     }
   ],
-  "build_id": 1771149100
+  "build_id": 1771150486
 }
