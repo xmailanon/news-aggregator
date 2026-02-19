@@ -1,6 +1,27 @@
 {
-  "updated": 1771543281,
+  "updated": 1771545027,
   "items": [
+    {
+      "id": "3ca4599bff43",
+      "title": "台積電ADR連五跌  較台北交易溢價18.77%",
+      "url": "https://money.udn.com/money/story/5599/9335109",
+      "source": "money.udn.com",
+      "published": 1771544011
+    },
+    {
+      "id": "dccb2a564b46",
+      "title": "馬桶竟是AI概念股？投資者力促日本東陶揭開半導體業務面紗",
+      "url": "https://www.singtaousa.com/2026/02/19/news/world/investor-says-toilet-maker-toto-is-an-overlooked-ai-play/",
+      "source": "singtaousa.com",
+      "published": 1771543800
+    },
+    {
+      "id": "22fcc8ad6b03",
+      "title": "北星滑雪場驚現熊群 滑雪客急煞停",
+      "url": "https://www.singtaousa.com/2026/02/19/news/usa/bears-spotted-at-north-star-ski-resort-halting-skiers-schedules/",
+      "source": "singtaousa.com",
+      "published": 1771543671
+    },
     {
       "id": "f8c38de94ff6",
       "title": "美股三大股指齊收低 私募股權公司急挫 地緣政治擔憂加劇",
@@ -126,20 +147,6 @@
       "url": "https://money.udn.com/money/story/5599/9335065",
       "source": "money.udn.com",
       "published": 1771535171
-    },
-    {
-      "id": "866f82941db9",
-      "title": "澳洲主播冬奧連線語無倫次 致歉稱「誤判」高山飲酒風險",
-      "url": "https://www.singtaousa.com/2026/02/19/news/world/danika-mason-australian-presenter-apologises-for-drinking-before-slurred-winter-olympics-report/",
-      "source": "singtaousa.com",
-      "published": 1771534800
-    },
-    {
-      "id": "07ebf0c3bf3c",
-      "title": "陳建斌早年角色曝光 曾演不起眼獄卒",
-      "url": "https://www.singtaousa.com/2026/02/19/entertainment/chen-jianbin-early-role-exposed-as-jailer/",
-      "source": "singtaousa.com",
-      "published": 1771534800
     },
     {
       "id": "6bcfd74d9010",
@@ -294,13 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9334870",
       "source": "money.udn.com",
       "published": 1771510396
-    },
-    {
-      "id": "7402bbc83a99",
-      "title": "Fed會議紀錄 鷹派現蹤 6月前利率估按兵不動",
-      "url": "https://money.udn.com/money/story/5599/9334861",
-      "source": "money.udn.com",
-      "published": 1771510021
     },
     {
       "id": "11a629264eee",
@@ -1346,5 +1346,5 @@
       "published": 1768992180
     }
   ],
-  "build_id": 1771543281
+  "build_id": 1771545027
 }
