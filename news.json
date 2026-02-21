@@ -1,6 +1,27 @@
 {
-  "updated": 1771694150,
+  "updated": 1771696040,
   "items": [
+    {
+      "id": "fc0d164465ea",
+      "title": "包括紐約市在內的美國東岸大片地區發布暴雪警報",
+      "url": "https://www.singtaousa.com/2026/02/21/news/usa/blizzard-warnings-issued-for-swath-of-east-coast-including-n-y-c/",
+      "source": "singtaousa.com",
+      "published": 1771696263
+    },
+    {
+      "id": "5a3acebebcf4",
+      "title": "賀歲盃變身巨星演唱會！COLLAR、Anson Lo、Ian陳卓賢熱唱 14,089球迷High爆大球場",
+      "url": "https://www.singtaousa.com/2026/02/21/news/china/lunar-new-year-cup-football-idol-concert/",
+      "source": "singtaousa.com",
+      "published": 1771695800
+    },
+    {
+      "id": "cc613b9d4465",
+      "title": "俄罗斯幽灵船队油轮中国籍船长面临法国司法审判",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260221-%E4%BF%84%E7%BD%97%E6%96%AF%E5%B9%BD%E7%81%B5%E8%88%B9%E9%98%9F%E6%B2%B9%E8%BD%AE%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%88%B9%E9%95%BF%E9%9D%A2%E4%B8%B4%E6%B3%95%E5%9B%BD%E5%8F%B8%E6%B3%95%E5%AE%A1%E5%88%A4",
+      "source": "rfi.fr",
+      "published": 1771695188
+    },
     {
       "id": "761d46fd6c38",
       "title": "旺角驚傳墮樓慘劇！癮君子攀爬棚架失足 送院搶救不治",
@@ -101,7 +122,7 @@
     },
     {
       "id": "5a1e283e8849",
-      "title": "川普改用122條款加徵10%關稅 外媒：這條法律超猛 可「無限輪迴」",
+      "title": "川普改用122條款加徵關稅 外媒：這條法律超猛 可「無限輪迴」",
       "url": "https://money.udn.com/money/story/5599/9337055",
       "source": "money.udn.com",
       "published": 1771688254
@@ -173,20 +194,6 @@
       "id": "fc71edf2e3d4",
       "title": "CoreWeave CEO   套現772萬美元",
       "url": "https://www.singtaousa.com/2026/02/21/news/usa/coreweave-ceo-cashes-out-7-7m/",
-      "source": "singtaousa.com",
-      "published": 1771682400
-    },
-    {
-      "id": "e66f21c3fb4e",
-      "title": "Lucid裁員12%   以推動盈利",
-      "url": "https://www.singtaousa.com/2026/02/21/news/usa/lucid-cuts-12-workers-to-boost-profit/",
-      "source": "singtaousa.com",
-      "published": 1771682400
-    },
-    {
-      "id": "35b2b0291da7",
-      "title": "英偉達擲300億 投資OpenAI",
-      "url": "https://www.singtaousa.com/2026/02/21/news/usa/nvidia-invests-30b-in-openai/",
       "source": "singtaousa.com",
       "published": 1771682400
     },
@@ -532,13 +539,6 @@
       "url": "https://www.dw.com/zh/过去5年中国核潜艇年度下水数量首超美国/a-76057578?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1771586940
-    },
-    {
-      "id": "a84a1d338236",
-      "title": "高市发表就任后首次施政方针演说，未来她将如何处理国内经济难题和对中关系？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260220-%E9%AB%98%E5%B8%82%E5%8F%91%E8%A1%A8%E5%B0%B1%E4%BB%BB%E5%90%8E%E9%A6%96%E6%AC%A1%E6%96%BD%E6%94%BF%E6%96%B9%E9%92%88%E6%BC%94%E8%AF%B4%EF%BC%8C%E6%9C%AA%E6%9D%A5%E5%A5%B9%E5%B0%86%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%E5%9B%BD%E5%86%85%E7%BB%8F%E6%B5%8E%E9%9A%BE%E9%A2%98%E5%92%8C%E5%AF%B9%E4%B8%AD%E5%85%B3%E7%B3%BB",
-      "source": "rfi.fr",
-      "published": 1771584614
     },
     {
       "id": "d53194b38679",
@@ -1374,5 +1374,5 @@
       "published": 1769332980
     }
   ],
-  "build_id": 1771694150
+  "build_id": 1771696040
 }
