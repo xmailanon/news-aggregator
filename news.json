@@ -1,6 +1,13 @@
 {
-  "updated": 1771667393,
+  "updated": 1771668839,
   "items": [
+    {
+      "id": "c971c38b64db",
+      "title": "馬克宏談美關稅：有權力制衡與法治是好事",
+      "url": "https://money.udn.com/money/story/10511/9336796",
+      "source": "money.udn.com",
+      "published": 1771668368
+    },
     {
       "id": "2b3f88fd22d2",
       "title": "美最高院裁定川普關稅無效　專家：短期難解經濟壓力",
@@ -10,7 +17,7 @@
     },
     {
       "id": "ae997e7945a5",
-      "title": "美車廠將因關稅違法判決減輕巨額稅負  川普怒加的10%目前豁免",
+      "title": "美車廠將因關稅違法判決減輕巨額稅負 川普怒加的10%目前豁免",
       "url": "https://money.udn.com/money/story/5599/9336776",
       "source": "money.udn.com",
       "published": 1771666291
@@ -231,13 +238,6 @@
       "url": "https://money.udn.com/money/story/5599/9336575",
       "source": "money.udn.com",
       "published": 1771651842
-    },
-    {
-      "id": "3603f577d274",
-      "title": "最高法院收走川普「關稅大棒」 中國恐縮手不再大買美國黃豆",
-      "url": "https://money.udn.com/money/story/5599/9336551",
-      "source": "money.udn.com",
-      "published": 1771650818
     },
     {
       "id": "da8a1df31fb2",
@@ -1360,5 +1360,5 @@
       "published": 1769332980
     }
   ],
-  "build_id": 1771667393
+  "build_id": 1771668839
 }
