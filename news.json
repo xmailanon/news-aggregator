@@ -1,12 +1,26 @@
 {
-  "updated": 1771683389,
+  "updated": 1771685333,
   "items": [
+    {
+      "id": "bbde3de61130",
+      "title": "CoreWeave股價一度重挫13% 因傳出資料中心建設籌不到錢",
+      "url": "https://money.udn.com/money/story/5599/9336947",
+      "source": "money.udn.com",
+      "published": 1771685200
+    },
     {
       "id": "2715574c61f0",
       "title": "前線17公里的拳館　烏東少年在戰火鍛鍊韌性",
       "url": "https://money.udn.com/money/story/5599/9336920",
       "source": "money.udn.com",
       "published": 1771683208
+    },
+    {
+      "id": "1f8853e024e7",
+      "title": "德国总理呼吁人们更多工作 但小孩儿谁来照顾呢？",
+      "url": "https://www.dw.com/zh/德国总理呼吁人们更多工作-但小孩儿谁来照顾呢？/a-76072575?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1771683120
     },
     {
       "id": "f7b852f9a17a",
@@ -280,13 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9336711",
       "source": "money.udn.com",
       "published": 1771660838
-    },
-    {
-      "id": "fee9ac82994a",
-      "title": "最高院判決後美平均關稅大降至8.3% 20大進口國台灣關稅排第5高",
-      "url": "https://money.udn.com/money/story/5599/9336691",
-      "source": "money.udn.com",
-      "published": 1771660095
     },
     {
       "id": "da8a1df31fb2",
@@ -786,16 +793,16 @@
       "published": 1771160400
     },
     {
-      "id": "d0828656e09d",
-      "title": "消费主义在中国打败了民族主义",
-      "url": "https://www.dw.com/zh/消费主义在中国打败了民族主义/a-75895833?maca=chi-rss-chi-all-1127-rdf",
+      "id": "284506296201",
+      "title": "有恐高症的跳台滑雪奥运冠军",
+      "url": "https://www.dw.com/zh/有恐高症的跳台滑雪奥运冠军/a-75912230?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1771144680
     },
     {
-      "id": "284506296201",
-      "title": "有恐高症的跳台滑雪奥运冠军",
-      "url": "https://www.dw.com/zh/有恐高症的跳台滑雪奥运冠军/a-75912230?maca=chi-rss-chi-all-1127-rdf",
+      "id": "d0828656e09d",
+      "title": "消费主义在中国打败了民族主义",
+      "url": "https://www.dw.com/zh/消费主义在中国打败了民族主义/a-75895833?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1771144680
     },
@@ -1367,5 +1374,5 @@
       "published": 1769332980
     }
   ],
-  "build_id": 1771683389
+  "build_id": 1771685333
 }
