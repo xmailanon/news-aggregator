@@ -1,6 +1,27 @@
 {
-  "updated": 1771800421,
+  "updated": 1771802060,
   "items": [
+    {
+      "id": "2cfa8afd6b6e",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/9338389",
+      "source": "money.udn.com",
+      "published": 1771801546
+    },
+    {
+      "id": "0d3ac59537c0",
+      "title": "奧特曼印度峰會發言：訓練AI耗能如養人20年，警告權力集中",
+      "url": "https://www.singtaousa.com/2026/02/22/news/world/training-a-human-takes-20-years-of-food-sam-altman-on-how-much-power-ai-consumes/",
+      "source": "singtaousa.com",
+      "published": 1771801200
+    },
+    {
+      "id": "2ff82d417d0e",
+      "title": "在相處中曖昧升溫 屈楚蕭邱天浪漫邂逅",
+      "url": "https://www.singtaousa.com/2026/02/22/entertainment/love-letter-from-tibet-romance/",
+      "source": "singtaousa.com",
+      "published": 1771801200
+    },
     {
       "id": "1885ae098e3f",
       "title": "持枪男子擅闯特朗普海湖庄园被击毙 白宫称特勤局果断应对",
@@ -133,20 +154,6 @@
       "url": "https://www.singtaousa.com/2026/02/22/news/usa/the-chinese-new-year-reunion-and-celebration-of-the-sanyi-general-association-of-the-united-states-was-held-grandly-yang-shouzheng-acting-consul-general-of-the-chinese-consulate-state-and-municipal/",
       "source": "singtaousa.com",
       "published": 1771790400
-    },
-    {
-      "id": "bd53ced48f08",
-      "title": "三人組隊闖江湖笑料不斷",
-      "url": "https://www.singtaousa.com/2026/02/22/entertainment/three-adventurers-hilarious-journey/",
-      "source": "singtaousa.com",
-      "published": 1771790400
-    },
-    {
-      "id": "aa5b94f294f5",
-      "title": "【瘋狂挖寶】山東荒山驚現三葉蟲化石？民眾蜂擁挖掘 當局急封山：再挖就塌！",
-      "url": "https://www.singtaousa.com/2026/02/22/news/china/trilobite-fossil-frenzy-hill-sealed-off/",
-      "source": "singtaousa.com",
-      "published": 1771789400
     },
     {
       "id": "1c4b9e798249",
@@ -315,13 +322,6 @@
       "url": "https://money.udn.com/money/story/5599/9338209",
       "source": "money.udn.com",
       "published": 1771772789
-    },
-    {
-      "id": "c84657fc38b6",
-      "title": "東京晴空塔電梯故障　日媒：22人受困",
-      "url": "https://money.udn.com/money/story/5599/9338178",
-      "source": "money.udn.com",
-      "published": 1771772068
     },
     {
       "id": "f0f52dacd6ac",
@@ -1374,5 +1374,5 @@
       "published": 1769332980
     }
   ],
-  "build_id": 1771800421
+  "build_id": 1771802060
 }
