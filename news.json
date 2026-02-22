@@ -1,6 +1,27 @@
 {
-  "updated": 1771796618,
+  "updated": 1771798335,
   "items": [
+    {
+      "id": "9a4dfd0b7ff9",
+      "title": "伊州高中生舉牌挺ICE遭毆 施暴者僅停學兩天引議",
+      "url": "https://www.singtaousa.com/2026/02/22/news/usa/student-who-punched-another-student-holding-pro-ice-sign-at-lake-zurich-high-school-received-2-day-suspension/",
+      "source": "singtaousa.com",
+      "published": 1771797600
+    },
+    {
+      "id": "1840fa0be53f",
+      "title": "為查明哥哥被害真相 以身入局不畏艱險",
+      "url": "https://www.singtaousa.com/2026/02/22/entertainment/investigating-brothers-murder-in-southern-song/",
+      "source": "singtaousa.com",
+      "published": 1771797600
+    },
+    {
+      "id": "c788ca02670a",
+      "title": "2026米兰冬奥会歌舞辉映中落幕 2030法国阿尔卑斯承接奥运薪火",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260222-2026%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%AD%8C%E8%88%9E%E8%BE%89%E6%98%A0%E4%B8%AD%E8%90%BD%E5%B9%95-2030%E6%B3%95%E5%9B%BD%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E6%89%BF%E6%8E%A5%E5%A5%A5%E8%BF%90%E8%96%AA%E7%81%AB",
+      "source": "rfi.fr",
+      "published": 1771796840
+    },
     {
       "id": "87d9d69f5353",
       "title": "【湛江媽祖巡遊風波】官方通報澄清：無50萬換童、無靈異事件、無資本介入",
@@ -105,20 +126,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260222-%E7%89%B9%E6%9C%97%E6%99%AE%E7%AC%AC%E4%BA%8C%E4%BB%BB%E6%9C%9F%E9%A6%96%E5%9C%BA%E5%9B%BD%E6%83%85%E5%92%A8%E6%96%87%E8%80%83%E9%AA%8C%E4%B8%8D%E5%B0%91",
       "source": "rfi.fr",
       "published": 1771788970
-    },
-    {
-      "id": "dee66dd103ee",
-      "title": "德州參院初選激烈 共和黨憂恐釀秋季失守",
-      "url": "https://www.singtaousa.com/2026/02/22/news/usa/news-texas-senate-primary-cornyn-paxton-trump/",
-      "source": "singtaousa.com",
-      "published": 1771788796
-    },
-    {
-      "id": "869a5b6dda13",
-      "title": "美國小兒麻痺威脅隱現 專家警告拒種疫苗風險",
-      "url": "https://www.singtaousa.com/2026/02/22/news/usa/news-polio-vaccine-risk-health-safety/",
-      "source": "singtaousa.com",
-      "published": 1771788133
     },
     {
       "id": "aca7b896dc5d",
@@ -539,13 +546,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260221-%E5%8D%B0%E5%BA%A6ai%E5%B3%B0%E4%BC%9A%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E5%87%BA%E7%82%89-%E6%95%B0%E5%8D%81%E5%9B%BD%E5%91%BC%E5%90%81%E6%89%93%E9%80%A0-%E5%AE%89%E5%85%A8-%E5%8F%AF%E4%BF%A1-%E5%BC%BA%E5%A4%A7%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
       "source": "rfi.fr",
       "published": 1771692385
-    },
-    {
-      "id": "27419627528f",
-      "title": "法国总统马克龙评美国最高法推翻特朗普总统对等关税：“在民主制度下拥有权力与制衡是件好事情”",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260221-%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AF%84%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E6%8E%A8%E7%BF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E-%E5%9C%A8%E6%B0%91%E4%B8%BB%E5%88%B6%E5%BA%A6%E4%B8%8B%E6%8B%A5%E6%9C%89%E6%9D%83%E5%8A%9B%E4%B8%8E%E5%88%B6%E8%A1%A1%E6%98%AF%E4%BB%B6%E5%A5%BD%E4%BA%8B%E6%83%85",
-      "source": "rfi.fr",
-      "published": 1771689412
     },
     {
       "id": "d816e73a2ac3",
@@ -1374,5 +1374,5 @@
       "published": 1769332980
     }
   ],
-  "build_id": 1771796618
+  "build_id": 1771798335
 }
