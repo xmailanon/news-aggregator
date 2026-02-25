@@ -1,6 +1,27 @@
 {
-  "updated": 1772051051,
+  "updated": 1772053128,
   "items": [
+    {
+      "id": "3cf58b4ca53e",
+      "title": "纽时：中国人工智能产业发展势头依然强劲",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260225-%E7%BA%BD%E6%97%B6-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BA%A7%E4%B8%9A%E5%8F%91%E5%B1%95%E5%8A%BF%E5%A4%B4%E4%BE%9D%E7%84%B6%E5%BC%BA%E5%8A%B2",
+      "source": "rfi.fr",
+      "published": 1772052671
+    },
+    {
+      "id": "d2eabd222676",
+      "title": "美國心臟協會警告：2050年近六成女性將面臨心血管風險",
+      "url": "https://www.singtaousa.com/2026/02/25/news/usa/news-aha-women-cardiovascular-disease-risk-factors-obesity/",
+      "source": "singtaousa.com",
+      "published": 1772051761
+    },
+    {
+      "id": "517d11c7bd75",
+      "title": "德國總理默茨首訪北京 中德聯合聲明為雙邊關係注入新動力",
+      "url": "https://www.singtaousa.com/2026/02/25/news/china/german-chancellor-merz-china-visit-joint-statement/",
+      "source": "singtaousa.com",
+      "published": 1772051467
+    },
     {
       "id": "8a467d466d49",
       "title": "路口驚現天坑吞車　內布拉斯加州民眾衝上前救人",
@@ -35,6 +56,13 @@
       "url": "https://www.singtaousa.com/2026/02/25/entertainment/zhao-lusi-says-no-more-acting-if-problems-arise/",
       "source": "singtaousa.com",
       "published": 1772049600
+    },
+    {
+      "id": "77da2513fcb0",
+      "title": "艾泼斯坦档案：涉及特朗普性侵记录疑似消失？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260225-%E8%89%BE%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%A3%E6%A1%88-%E6%B6%89%E5%8F%8A%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A7%E4%BE%B5%E8%AE%B0%E5%BD%95%E7%96%91%E4%BC%BC%E6%B6%88%E5%A4%B1",
+      "source": "rfi.fr",
+      "published": 1772049089
     },
     {
       "id": "aa385831d309",
@@ -128,13 +156,6 @@
       "published": 1772045023
     },
     {
-      "id": "73b2bdd86809",
-      "title": "上水地下竹館被搗破！警拘女主持及10賭客 檢電動麻雀枱",
-      "url": "https://www.singtaousa.com/2026/02/25/news/china/underground-mahjong-den-raided-in-sheung-shui/",
-      "source": "singtaousa.com",
-      "published": 1772044999
-    },
-    {
       "id": "431f44fb3adc",
       "title": "Anthropic 推新 AI  救援軟體業",
       "url": "https://money.udn.com/money/story/5599/9345093",
@@ -154,13 +175,6 @@
       "url": "https://money.udn.com/money/story/5599/9345096",
       "source": "money.udn.com",
       "published": 1772044884
-    },
-    {
-      "id": "07ffefe170e8",
-      "title": "洛杉磯機器人淹水惹人憐，科技業競推「萌寵」設計搶佔人心",
-      "url": "https://www.singtaousa.com/2026/02/25/news/usa/tech-companies-are-making-their-robots-cute-to-try-to-win-over-humans/",
-      "source": "singtaousa.com",
-      "published": 1772044200
     },
     {
       "id": "34033f2d100b",
@@ -513,13 +527,6 @@
       "published": 1771977621
     },
     {
-      "id": "0e65e75a8274",
-      "title": "纽时：CIA警告2027中国攻台风险　苹果等科技巨头曾收机密简报",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260224-%E7%BA%BD%E6%97%B6-cia%E8%AD%A6%E5%91%8A2027%E4%B8%AD%E5%9B%BD%E6%94%BB%E5%8F%B0%E9%A3%8E%E9%99%A9-%E8%8B%B9%E6%9E%9C%E7%AD%89%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E6%9B%BE%E6%94%B6%E6%9C%BA%E5%AF%86%E7%AE%80%E6%8A%A5",
-      "source": "rfi.fr",
-      "published": 1771972405
-    },
-    {
       "id": "205dfacc2b4a",
       "title": "希音进驻法国五家外省BHV百货 继巴黎之后再扩线下版图",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260224-%E5%B8%8C%E9%9F%B3%E8%BF%9B%E9%A9%BB%E6%B3%95%E5%9B%BD%E4%BA%94%E5%AE%B6%E5%A4%96%E7%9C%81bhv%E7%99%BE%E8%B4%A7-%E7%BB%A7%E5%B7%B4%E9%BB%8E%E4%B9%8B%E5%90%8E%E5%86%8D%E6%89%A9%E7%BA%BF%E4%B8%8B%E7%89%88%E5%9B%BE",
@@ -546,13 +553,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260224-%E8%B7%AF%E9%80%8F-%E4%BC%8A%E6%9C%97%E6%8E%A5%E8%BF%91%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%BE%BE%E6%88%90%E8%B6%85%E9%9F%B3%E9%80%9F%E5%8F%8D%E8%88%B0%E5%AF%BC%E5%BC%B9%E9%87%87%E8%B4%AD%E5%8D%8F%E8%AE%AE",
       "source": "rfi.fr",
       "published": 1771970004
-    },
-    {
-      "id": "32cfd4d6c3f7",
-      "title": "新国际环境中的中德对话：默茨访华聚焦合作与竞争",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260224-%E6%96%B0%E5%9B%BD%E9%99%85%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84%E4%B8%AD%E5%BE%B7%E5%AF%B9%E8%AF%9D-%E9%BB%98%E8%8C%A8%E8%AE%BF%E5%8D%8E%E8%81%9A%E7%84%A6%E5%90%88%E4%BD%9C%E4%B8%8E%E7%AB%9E%E4%BA%89",
-      "source": "rfi.fr",
-      "published": 1771969487
     },
     {
       "id": "ad140b3c6246",
@@ -1381,5 +1381,5 @@
       "published": 1769573889
     }
   ],
-  "build_id": 1772051051
+  "build_id": 1772053128
 }
