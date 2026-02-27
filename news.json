@@ -1,6 +1,146 @@
 {
-  "updated": 1772200269,
+  "updated": 1772202688,
   "items": [
+    {
+      "id": "9d501c5049fd",
+      "title": "中国宣布自3月1日起暂时取消对部分加拿大产品的反歧视关税",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260227-%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%87%AA3%E6%9C%881%E6%97%A5%E8%B5%B7%E6%9A%82%E6%97%B6%E5%8F%96%E6%B6%88%E5%AF%B9%E9%83%A8%E5%88%86%E5%8A%A0%E6%8B%BF%E5%A4%A7%E4%BA%A7%E5%93%81%E7%9A%84%E5%8F%8D%E6%AD%A7%E8%A7%86%E5%85%B3%E7%A8%8E",
+      "source": "rfi.fr",
+      "published": 1772202595
+    },
+    {
+      "id": "3e1bf016dd2f",
+      "title": "Hugging Face公布：千問3.5成全球最受歡迎AI開源大模型",
+      "url": "https://www.singtaousa.com/2026/02/27/news/china/hugging-face-announces-qianwen-3-5-becomes-the-worlds-most-popular-ai-open-source-large-model/",
+      "source": "singtaousa.com",
+      "published": 1772202347
+    },
+    {
+      "id": "3d5689b725ed",
+      "title": "美日菲軍演範圍擴至巴士海峽　解放軍加強巡航應對",
+      "url": "https://www.singtaousa.com/2026/02/27/news/world/the-scope-of-the-us-japan-philippines-military-exercises-is-expanded-to-the-bashi-strait-and-the-peoples-liberation-army-strengthens-cruise-response/",
+      "source": "singtaousa.com",
+      "published": 1772201768
+    },
+    {
+      "id": "27328413ab39",
+      "title": "聯合國人權事務首長批評中國　改善新疆維族人權不力",
+      "url": "https://money.udn.com/money/story/5599/9349004",
+      "source": "money.udn.com",
+      "published": 1772201528
+    },
+    {
+      "id": "490fe47b84b9",
+      "title": "Anthropic：不同意美國軍方無限制使用AI",
+      "url": "https://money.udn.com/money/story/5599/9348999",
+      "source": "money.udn.com",
+      "published": 1772201168
+    },
+    {
+      "id": "ac17b3a1138f",
+      "title": "日本棺材冥想掀風潮　藉覺察死亡反思生命意義",
+      "url": "https://money.udn.com/money/story/5599/9348993",
+      "source": "money.udn.com",
+      "published": 1772200833
+    },
+    {
+      "id": "d7204d306092",
+      "title": "三年內三度裁員   eBay再減800人",
+      "url": "https://www.singtaousa.com/2026/02/27/news/usa/ebay-layoffs-800-jobs/",
+      "source": "singtaousa.com",
+      "published": 1772200800
+    },
+    {
+      "id": "336478db7e16",
+      "title": "英偉達暴跌近5.5%",
+      "url": "https://www.singtaousa.com/2026/02/27/news/usa/nvidia-stock-plunges-5-5-percent/",
+      "source": "singtaousa.com",
+      "published": 1772200800
+    },
+    {
+      "id": "f28779d6ef3f",
+      "title": "Block AI重組   裁員超4000人",
+      "url": "https://www.singtaousa.com/2026/02/27/news/usa/block-ai-restructure-layoffs-4000/",
+      "source": "singtaousa.com",
+      "published": 1772200800
+    },
+    {
+      "id": "2db22397a060",
+      "title": "傳Meta租用Google TPU簽AI芯片協議",
+      "url": "https://www.singtaousa.com/2026/02/27/news/usa/meta-reportedly-rents-google-tpu-to-sign-ai-chip-agreement/",
+      "source": "singtaousa.com",
+      "published": 1772200800
+    },
+    {
+      "id": "3e65b0ff8202",
+      "title": "「大賣空」貝瑞看空Palantir",
+      "url": "https://www.singtaousa.com/2026/02/27/news/usa/big-short-burry-palantir-bearish/",
+      "source": "singtaousa.com",
+      "published": 1772200800
+    },
+    {
+      "id": "2ff97589aa9f",
+      "title": "銷售大增勞氏財報超預期",
+      "url": "https://www.singtaousa.com/2026/02/27/news/usa/lowes-sales-beat-expectations/",
+      "source": "singtaousa.com",
+      "published": 1772200800
+    },
+    {
+      "id": "85accf32d003",
+      "title": "甲骨文暴跌分析師仍樂觀",
+      "url": "https://www.singtaousa.com/2026/02/27/news/usa/oracle-stock-analysts-optimistic/",
+      "source": "singtaousa.com",
+      "published": 1772200800
+    },
+    {
+      "id": "8ee89238f1ba",
+      "title": "新任CEO推動重組   C3.ai將裁員26%",
+      "url": "https://www.singtaousa.com/2026/02/27/news/usa/c3ai-layoffs-restructuring/",
+      "source": "singtaousa.com",
+      "published": 1772200800
+    },
+    {
+      "id": "86066895ba47",
+      "title": "Cava銷售預測上升   多家分析機構樂觀",
+      "url": "https://www.singtaousa.com/2026/02/27/news/usa/cava-sales-forecast-raised-analysts-optimistic/",
+      "source": "singtaousa.com",
+      "published": 1772200800
+    },
+    {
+      "id": "156b2eaeec99",
+      "title": "馬刺破網豪取11連勝",
+      "url": "https://www.singtaousa.com/2026/02/27/news/usa/spurs-extend-win-streak/",
+      "source": "singtaousa.com",
+      "published": 1772200800
+    },
+    {
+      "id": "31429989cdfa",
+      "title": "雜音雖多 OpenAI仍募得1,100億美元 輝達軟銀各投300億 亞馬遜出500億",
+      "url": "https://money.udn.com/money/story/5599/9348990",
+      "source": "money.udn.com",
+      "published": 1772200615
+    },
+    {
+      "id": "6f8bc3f900b2",
+      "title": "美國1月PPI升溫 高於預期 關稅轉嫁幅度擴大 美股期指挫逾500點",
+      "url": "https://money.udn.com/money/story/5599/9348989",
+      "source": "money.udn.com",
+      "published": 1772200348
+    },
+    {
+      "id": "a7445137b7be",
+      "title": "“老师变学生”、“一起赚钱”？德、中网民看默茨访华行",
+      "url": "https://www.dw.com/zh/老师变学生-、-一起赚钱-？德、中网民看默茨访华行/a-76152680?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1772199420
+    },
+    {
+      "id": "e080732ca274",
+      "title": "中東情勢緊張　美國福特號航艦抵以色列",
+      "url": "https://money.udn.com/money/story/5599/9348980",
+      "source": "money.udn.com",
+      "published": 1772199391
+    },
     {
       "id": "2151149faf36",
       "title": "誰的「黃金時代」？美國人多不認同川普說法 只感到「繁榮衰退」",
@@ -23,90 +163,6 @@
       "published": 1772197666
     },
     {
-      "id": "c7bd588f0554",
-      "title": "囚終身男子獲假釋 受害人檢察官震怒",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/sex-offender-parole-victims-outraged/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "0f186f6c4f33",
-      "title": "兩萬移民貨車司機駕照 暫維持生效",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/immigrant-truck-driver-licenses-remain-valid/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "19218edab120",
-      "title": "卡邁爾破百年傳統 居民將有門牌地址",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/carmel-by-the-sea-gets-addresses/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "9e0146920ed9",
-      "title": "加州制定目標保護水資源   2040年前增900萬畝呎",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/california-water-plan-2028/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "65e23b4953be",
-      "title": "三藩市機場工人要求時薪加至30元",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/sfo-airport-workers-demand-30-dollar-wage/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "316274a83663",
-      "title": "屋崙聯合校區通過裁減400多個職位",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/oakland-school-cuts-400-jobs/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "9247feec98f9",
-      "title": "柏克萊申請激增 加大招生創新高",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/uc-berkeley-applications-surge-record-enrollment/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "87dda3d1c2b5",
-      "title": "三藩市交通局搞「坐纜車慶新年」   邀華裔領袖市府代表及媒體同歡",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/cable-car-celebrates-chinese-new-year/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "97d7534fb23d",
-      "title": "通勤高峰出設備故障   灣區捷運一周停兩次",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/bart-service-disruptions-twice-week/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "688ed6abe960",
-      "title": "3D列印製作鬼槍 南灣18歲男子被捕",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/3d-print-ghost-gun-arrest/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "7db30fa5d770",
-      "title": "服務績效與經費掛鉤 金山「重設中心」4月啟用",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/san-francisco-reset-center-opens/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
-      "id": "351b97df71fa",
-      "title": "聖荷西將清理最後大型露營地",
-      "url": "https://www.singtaousa.com/2026/02/27/news/usa/san-jose-clears-coyote-creek-camp/",
-      "source": "singtaousa.com",
-      "published": 1772197200
-    },
-    {
       "id": "fe52baa24502",
       "title": "中国政府呼吁公民“尽快撤离”伊朗",
       "url": "https://www.dw.com/zh/中国政府呼吁公民-尽快撤离-伊朗/a-76152064?maca=chi-rss-chi-all-1127-rdf",
@@ -126,13 +182,6 @@
       "url": "https://www.dw.com/zh/比尔·盖茨承认同两名俄国女性有过婚外情/a-76150015?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1772195700
-    },
-    {
-      "id": "6ae20e2f4e22",
-      "title": "台灣援助烏克蘭尼古拉耶夫市　強化弱勢婦幼庇護",
-      "url": "https://money.udn.com/money/story/5599/9348924",
-      "source": "money.udn.com",
-      "published": 1772195433
     },
     {
       "id": "fbca8ea9779d",
@@ -219,39 +268,11 @@
       "published": 1772191398
     },
     {
-      "id": "540e7f0beadd",
+      "id": "227e633316e9",
       "title": "ABC：美軍中央司令部已向川普簡報對伊朗軍事選項",
-      "url": "https://money.udn.com/money/story/10511/9348832",
+      "url": "https://money.udn.com/money/story/5599/9348832",
       "source": "money.udn.com",
       "published": 1772190035
-    },
-    {
-      "id": "549881ac86be",
-      "title": "雪梨外送員醞釀罷工　中國公安施壓家人伸長臂跨境恐嚇",
-      "url": "https://money.udn.com/money/story/5599/9348833",
-      "source": "money.udn.com",
-      "published": 1772190033
-    },
-    {
-      "id": "e9a839894f8b",
-      "title": "中東安全風險升高　美國駐以色列大使館允非緊急人員離境",
-      "url": "https://money.udn.com/money/story/10511/9348824",
-      "source": "money.udn.com",
-      "published": 1772189645
-    },
-    {
-      "id": "3449e75ae91c",
-      "title": "川普關稅被判無效…調查點名美元將淪大輸家 贏家可能是它",
-      "url": "https://money.udn.com/money/story/5599/9348800",
-      "source": "money.udn.com",
-      "published": 1772188665
-    },
-    {
-      "id": "630a4ee1031a",
-      "title": "民調：美國人同情對象轉移　巴勒斯坦首超以色列",
-      "url": "https://money.udn.com/money/story/10511/9348798",
-      "source": "money.udn.com",
-      "published": 1772188591
     },
     {
       "id": "dfdb8201b4dc",
@@ -259,13 +280,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/ckg2z486eeeo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1772186476
-    },
-    {
-      "id": "cf2f1d2d042d",
-      "title": "科技股勁揚帶動　亞股多收漲",
-      "url": "https://money.udn.com/money/story/5599/9348755",
-      "source": "money.udn.com",
-      "published": 1772186437
     },
     {
       "id": "70a097c37342",
@@ -679,13 +693,6 @@
       "url": "https://www.dw.com/zh/涉嫌训练中国飞行员-美军前战斗机教官被逮捕/a-76138503?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1772113860
-    },
-    {
-      "id": "ce4ac278ea83",
-      "title": "非洲最大锂生产国津巴布韦提前实施矿产出口禁令 中国矿企加速在当地布局锂精炼厂",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260226-%E9%9D%9E%E6%B4%B2%E6%9C%80%E5%A4%A7%E9%94%82%E7%94%9F%E4%BA%A7%E5%9B%BD%E6%B4%A5%E5%B7%B4%E5%B8%83%E9%9F%A6%E6%8F%90%E5%89%8D%E5%AE%9E%E6%96%BD%E7%9F%BF%E4%BA%A7%E5%87%BA%E5%8F%A3%E7%A6%81%E4%BB%A4-%E4%B8%AD%E5%9B%BD%E7%9F%BF%E4%BC%81%E5%8A%A0%E9%80%9F%E5%9C%A8%E5%BD%93%E5%9C%B0%E5%B8%83%E5%B1%80%E9%94%82%E7%B2%BE%E7%82%BC%E5%8E%82",
-      "source": "rfi.fr",
-      "published": 1772107456
     },
     {
       "id": "e386c5b73cf3",
@@ -1374,5 +1381,5 @@
       "published": 1769666899
     }
   ],
-  "build_id": 1772200269
+  "build_id": 1772202688
 }
