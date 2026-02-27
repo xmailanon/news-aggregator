@@ -1,10 +1,115 @@
 {
-  "updated": 1772168921,
+  "updated": 1772172532,
   "items": [
     {
-      "id": "82cd3cebda49",
+      "id": "8529191141fb",
+      "title": "素食更健康？大型研究揭癌症風險差異 純素罹腸癌風險反高於肉食者",
+      "url": "https://money.udn.com/money/story/5599/9348452",
+      "source": "money.udn.com",
+      "published": 1772172530
+    },
+    {
+      "id": "48499ed2eb65",
+      "title": "陶藝結合國安教育 透過中華文化提升市民國家認同",
+      "url": "https://www.singtaousa.com/2026/02/26/news/china/ceramics-national-security-education-cultural-identity/",
+      "source": "singtaousa.com",
+      "published": 1772172264
+    },
+    {
+      "id": "eca03aa68db7",
+      "title": "美國Netflix退出競購華納兄弟，為派拉蒙千億收購案鋪路",
+      "url": "https://www.singtaousa.com/2026/02/26/news/usa/netflix-backs-out-of-bid-for-warner-bros-paving-way-for-paramount-takeover/",
+      "source": "singtaousa.com",
+      "published": 1772172000
+    },
+    {
+      "id": "aa0398798dcb",
+      "title": "陳奕凡戀情穩定街頭約會同回住所",
+      "url": "https://www.singtaousa.com/2026/02/26/entertainment/chen-yi-fans-stable-relationship-street-date/",
+      "source": "singtaousa.com",
+      "published": 1772172000
+    },
+    {
+      "id": "da03be90b3c0",
+      "title": "引進 AI 但不裁員？瑞穗金融集團計劃10年取代5,000行政職 盤算曝光",
+      "url": "https://money.udn.com/money/story/5599/9348432",
+      "source": "money.udn.com",
+      "published": 1772171962
+    },
+    {
+      "id": "52e0c4027aa2",
+      "title": "北約認證！iPhone搭載iOS 26可處理「限制級」機密 現行3C首例",
+      "url": "https://money.udn.com/money/story/5599/9348403",
+      "source": "money.udn.com",
+      "published": 1772170661
+    },
+    {
+      "id": "66a04398fb68",
+      "title": "日本政府擴大投資「國家隊」晶片商 Rapidus  成最大股東",
+      "url": "https://money.udn.com/money/story/5599/9348396",
+      "source": "money.udn.com",
+      "published": 1772170478
+    },
+    {
+      "id": "2d1c1ef57f1b",
+      "title": "SEVENTEEN 2026啟德演唱會入場攻略 交通門票行李寄存須知",
+      "url": "https://www.singtaousa.com/2026/02/26/news/china/seventeen-concert-2026-kai-tak-guide/",
+      "source": "singtaousa.com",
+      "published": 1772170464
+    },
+    {
+      "id": "18eb042ba8f0",
+      "title": "金主愛站 C 位、金正恩下樓走側邊！閱兵強化金氏王朝接班布局",
+      "url": "https://money.udn.com/money/story/5599/9348378",
+      "source": "money.udn.com",
+      "published": 1772170124
+    },
+    {
+      "id": "a04136b2faa4",
+      "title": "美國西部將迎歷史性冬季天氣 鳳凰城與南加州氣溫或達90華氏度以上",
+      "url": "https://www.singtaousa.com/2026/02/26/news/usa/western-u-s-is-about-to-see-historic-winter-weather-with-90-degree-temps-in-forecast/",
+      "source": "singtaousa.com",
+      "published": 1772169963
+    },
+    {
+      "id": "2b2caafb8640",
+      "title": "去南極的工作機會又來了，但你適合在那裡生活和工作嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/ckgl4333kjzo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1772169950
+    },
+    {
+      "id": "7ea8ef81da80",
+      "title": "艾普斯坦性犯罪　希拉蕊稱確信丈夫柯林頓不知情",
+      "url": "https://money.udn.com/money/story/10511/9348330",
+      "source": "money.udn.com",
+      "published": 1772169150
+    },
+    {
+      "id": "09ee513a8756",
+      "title": "Rapidus拚量產晶片　日本政府首度出資成最大股東",
+      "url": "https://money.udn.com/money/story/5599/9348329",
+      "source": "money.udn.com",
+      "published": 1772169148
+    },
+    {
+      "id": "8fbc6503edc9",
+      "title": "加拿大保守黨議員發起調查，徹查政府與軍隊中的「反法西斯」人士",
+      "url": "https://www.singtaousa.com/2026/02/26/news/world/conservative-mp-searches-for-antifa-in-federal-government-canadian-armed-forces/",
+      "source": "singtaousa.com",
+      "published": 1772169119
+    },
+    {
+      "id": "f2182ee6be61",
+      "title": "金融巨頭Block震撼裁員40% 創辦人多爾西稱AI將重塑職場",
+      "url": "https://www.singtaousa.com/2026/02/26/news/usa/block-lays-off-nearly-half-its-staff-because-of-ai-its-ceo-said-most-companies-will-do-the-same-cnn-business/",
+      "source": "singtaousa.com",
+      "published": 1772169106
+    },
+    {
+      "id": "8f5a8562ff36",
       "title": "金正恩遞橄欖枝　白宮稱川普願不設條件展開對話",
-      "url": "https://money.udn.com/money/story/10511/9348302",
+      "url": "https://money.udn.com/money/story/5599/9348302",
       "source": "money.udn.com",
       "published": 1772168468
     },
@@ -31,17 +136,24 @@
     },
     {
       "id": "9a92adcde0e3",
-      "title": "全球最大主權基金曝AI戰績：多次提前揪出風險 搶先市場出脫避損",
+      "title": "全球最大主權基金曝 AI 戰績：多次提前揪出風險 搶先市場出脫避損",
       "url": "https://money.udn.com/money/story/5599/9348285",
       "source": "money.udn.com",
       "published": 1772168195
     },
     {
-      "id": "e436be392052",
+      "id": "6704e8eecb48",
       "title": "運河爭議延燒　長江和記實業巴拿馬子公司被搜查",
-      "url": "https://money.udn.com/money/story/10511/9348283",
+      "url": "https://money.udn.com/money/story/5599/9348283",
       "source": "money.udn.com",
       "published": 1772168056
+    },
+    {
+      "id": "6455adad3dbe",
+      "title": "Coupang 酷澎財報／去年台灣業務三位數成長 12月75%訂單可次日達",
+      "url": "https://money.udn.com/money/story/123398/9348277",
+      "source": "money.udn.com",
+      "published": 1772167765
     },
     {
       "id": "b229648a46d9",
@@ -128,41 +240,6 @@
       "published": 1772165228
     },
     {
-      "id": "30f3320a9ca4",
-      "title": "劉亦菲曬新照 抱著愛犬外出散步",
-      "url": "https://www.singtaousa.com/2026/02/26/entertainment/crystal-liu-walks-dog/",
-      "source": "singtaousa.com",
-      "published": 1772164800
-    },
-    {
-      "id": "0942eabaa261",
-      "title": "派拉蒙收購華納撼動美新聞界！川普勢力拿下CNN恐裁他厭惡主播",
-      "url": "https://money.udn.com/money/story/5599/9348188",
-      "source": "money.udn.com",
-      "published": 1772164270
-    },
-    {
-      "id": "5360b9cbd14f",
-      "title": "加州女狀告Meta、YouTube　控訴損害心理健康",
-      "url": "https://money.udn.com/money/story/10511/9348171",
-      "source": "money.udn.com",
-      "published": 1772163936
-    },
-    {
-      "id": "f6a9a2b0b9ed",
-      "title": "傳Meta簽數十億美元協議　向Google租用AI晶片",
-      "url": "https://money.udn.com/money/story/5599/9348172",
-      "source": "money.udn.com",
-      "published": 1772163934
-    },
-    {
-      "id": "3b227e1effe7",
-      "title": "美國房貸利率跌破6%　創2022年以來新低",
-      "url": "https://money.udn.com/money/story/10511/9348103",
-      "source": "money.udn.com",
-      "published": 1772162607
-    },
-    {
       "id": "a54df733b836",
       "title": "欧洲领导人希望减少对中美的依赖，商界领袖却不这样想",
       "url": "https://cn.nytimes.com/world/20260227/germany-china-merz-europe-business/?utm_source=RSS",
@@ -170,81 +247,11 @@
       "published": 1772161990
     },
     {
-      "id": "abe25652d8df",
-      "title": "挺身抗川普後聲望漲　丹麥總理宣布3月提前大選",
-      "url": "https://money.udn.com/money/story/5599/9348091",
-      "source": "money.udn.com",
-      "published": 1772161936
-    },
-    {
-      "id": "9f052e026871",
-      "title": "佛州快艇駁火死傷含美公民　古巴批美國縱容",
-      "url": "https://money.udn.com/money/story/5599/9348088",
-      "source": "money.udn.com",
-      "published": 1772161935
-    },
-    {
-      "id": "6a8468e1268f",
-      "title": "澳洲警方試用中國無人機執勤  專家籲防國安風險",
-      "url": "https://money.udn.com/money/story/5599/9348090",
-      "source": "money.udn.com",
-      "published": 1772161934
-    },
-    {
-      "id": "24dd60b0c6a7",
-      "title": "日本人口警鐘！2025年新生兒數僅70.6萬再創歷史新低",
-      "url": "https://www.singtaousa.com/2026/02/26/news/world/births-in-japan-fall-in-2025-to-706-000-record-low-for-10th-straight-year-the-mainichi/",
-      "source": "singtaousa.com",
-      "published": 1772161893
-    },
-    {
       "id": "975f545ba704",
       "title": "社運人士郭鳳儀：香港當局監禁我父親，企圖令我噤聲",
       "url": "https://www.bbc.com/zhongwen/articles/c98qd00rdpjo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1772161606
-    },
-    {
-      "id": "fe8e1a8e4535",
-      "title": "AI 雲端明星 CoreWeave 財測遜色又大增資本支出 引發疑慮股價摔9%",
-      "url": "https://money.udn.com/money/story/123398/9348056",
-      "source": "money.udn.com",
-      "published": 1772161254
-    },
-    {
-      "id": "d8dd6030bc9e",
-      "title": "撒貝寧返京復工 老婆李白長腿搶鏡",
-      "url": "https://www.singtaousa.com/2026/02/26/entertainment/sibeining-returns-to-beijing-to-work/",
-      "source": "singtaousa.com",
-      "published": 1772161200
-    },
-    {
-      "id": "7454f9c6b66d",
-      "title": "粵語時事觀察—梁燕城：諾貝爾和平獎主席竟和愛潑斯坦罪惡共同體勾結？",
-      "url": "https://www.singtaousa.com/2026/02/26/opinion/current-affairs-observation-liang-yancheng-the-nobel-peace-prize-chairman-actually-colluded-with-epsteins-criminal-community/",
-      "source": "singtaousa.com",
-      "published": 1772157900
-    },
-    {
-      "id": "f3cce296cc0f",
-      "title": "粵語解密資料顯示美引發中國西藏暴亂，達賴卻得和平獎，竟和愛潑集团相關？",
-      "url": "https://www.singtaousa.com/2026/02/26/opinion/declassified-information-shows-that-the-united-states-triggered-the-riots-in-tibet-china-but-the-dalai-lama-won-the-peace-prize-is-it-related-to-the-epoch-group/",
-      "source": "singtaousa.com",
-      "published": 1772157900
-    },
-    {
-      "id": "8df4c0712ab6",
-      "title": "《成何體統》吸31家廣告贊助 王楚然丞磊有望二搭談虐戀",
-      "url": "https://www.singtaousa.com/2026/02/26/entertainment/cheng-he-ti-tong-drama-earns-sponsors/",
-      "source": "singtaousa.com",
-      "published": 1772157600
-    },
-    {
-      "id": "1b85c2dbdd2a",
-      "title": "BART老化設備故障造成早繁忙時段混亂",
-      "url": "https://www.singtaousa.com/2026/02/26/news/usa/failure-of-barts-old-router-causes-chaos-during-early-rush-hours/",
-      "source": "singtaousa.com",
-      "published": 1772156562
     },
     {
       "id": "ddd9870bd757",
@@ -357,6 +364,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260226-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%B8%B8%E5%A7%94%E4%BC%9A%E4%BC%9A%E8%AE%AE%E9%97%AD%E5%B9%95-%E5%BC%A0%E5%8F%88%E4%BE%A0%E6%9A%82%E6%9C%AA%E8%A2%AB%E7%BD%A2%E5%85%8D",
       "source": "rfi.fr",
       "published": 1772121625
+    },
+    {
+      "id": "52dd17d0ab57",
+      "title": "“资本换乩童”，资本成了万能负面主语，才是真问题",
+      "url": "https://www.ftchinese.com/story/001109060",
+      "source": "ftchinese.com",
+      "published": 1772121600
     },
     {
       "id": "16084e8ccbf2",
@@ -856,13 +870,6 @@
       "published": 1771961890
     },
     {
-      "id": "ca164d4687f7",
-      "title": "默茨访华目标：恢复双方贸易关系平衡",
-      "url": "https://www.ftchinese.com/story/001109043",
-      "source": "ftchinese.com",
-      "published": 1771948800
-    },
-    {
       "id": "7dbb3c2c5af4",
       "title": "德语媒体： 千万不要示弱叩头",
       "url": "https://www.dw.com/zh/德语媒体：-千万不要示弱叩头/a-76106797?maca=chi-rss-chi-all-1127-rdf",
@@ -1136,13 +1143,6 @@
       "published": 1771507620
     },
     {
-      "id": "cef05697338a",
-      "title": "僅耗時20分鐘，我駭入了ChatGPT和Google的AI系統",
-      "url": "https://www.bbc.com/zhongwen/articles/c2k8vnpyk15o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1771469232
-    },
-    {
       "id": "ae1a708cc0c3",
       "title": "德语媒体：自由香港的终结",
       "url": "https://www.dw.com/zh/德语媒体：自由香港的终结/a-76024118?maca=chi-rss-chi-all-1127-rdf",
@@ -1367,5 +1367,5 @@
       "published": 1769666899
     }
   ],
-  "build_id": 1772168921
+  "build_id": 1772172532
 }
