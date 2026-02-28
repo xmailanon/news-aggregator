@@ -1,6 +1,13 @@
 {
-  "updated": 1772256307,
+  "updated": 1772257955,
   "items": [
+    {
+      "id": "e8a46557e434",
+      "title": "運輸署轄下11個停車場明起調整收費 私家車月租上調150元",
+      "url": "https://www.singtaousa.com/2026/02/27/news/china/transport-department-parking-fee-increase/",
+      "source": "singtaousa.com",
+      "published": 1772256862
+    },
     {
       "id": "34f506afbbbc",
       "title": "美國保險巨頭 State Farm 宣布派發50億美元股息 車主平均可獲百元退款",
@@ -196,13 +203,6 @@
       "url": "https://money.udn.com/money/story/5599/9349518",
       "source": "money.udn.com",
       "published": 1772247034
-    },
-    {
-      "id": "dd05acdfe92e",
-      "title": "巴阿邊境衝突升級 巴基斯坦防長宣布進入「公開戰爭」",
-      "url": "https://www.singtaousa.com/2026/02/27/news/world/pakistan-s-defence-minister-says-there-is-now-open-war-with-afghanistan-cbc-news/",
-      "source": "singtaousa.com",
-      "published": 1772245800
     },
     {
       "id": "4649686cfe80",
@@ -1374,5 +1374,5 @@
       "published": 1769666899
     }
   ],
-  "build_id": 1772256307
+  "build_id": 1772257955
 }
