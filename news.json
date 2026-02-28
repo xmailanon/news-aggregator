@@ -1,9 +1,30 @@
 {
-  "updated": 1772309598,
+  "updated": 1772311441,
   "items": [
     {
+      "id": "939e0c559de3",
+      "title": "椰樹集團宣傳標語再惹爭議 被指內容低俗物化女性",
+      "url": "https://www.singtaousa.com/2026/02/28/news/china/coconut-palm-ad-slogan-controversy-vulgar/",
+      "source": "singtaousa.com",
+      "published": 1772310863
+    },
+    {
+      "id": "622935f546d0",
+      "title": "以色列證實伊朗最高領袖哈梅內伊在空襲中身亡 遺體已被尋獲",
+      "url": "https://www.singtaousa.com/2026/02/28/news/world/israel-confirms-the-death-of-irans-supreme-leader-ayatollah-ali-khamenei-body-found-in-airstrike-on-official-residence/",
+      "source": "singtaousa.com",
+      "published": 1772310459
+    },
+    {
+      "id": "3efed2e0ec4b",
+      "title": "美軍中央司令部稱空襲伊朗零傷亡 首次動用「神風」無人機",
+      "url": "https://www.singtaousa.com/2026/02/28/news/world/trump-calls-for-regime-change-in-iran-after-us-and-israel-launch-major-attack/",
+      "source": "singtaousa.com",
+      "published": 1772309720
+    },
+    {
       "id": "49d20e04b527",
-      "title": "内塔尼亚胡：很多迹象表明伊朗最高领导人哈梅内伊已被击毙",
+      "title": "内塔尼亚胡：有迹象显示伊朗最高领导人哈梅内伊已被击毙",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260228-%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1-%E5%BE%88%E5%A4%9A%E8%BF%B9%E8%B1%A1%E8%A1%A8%E6%98%8E%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%B7%B2%E8%A2%AB%E5%87%BB%E6%AF%99",
       "source": "rfi.fr",
       "published": 1772309449
@@ -93,13 +114,6 @@
       "published": 1772301864
     },
     {
-      "id": "567f3e8afbc4",
-      "title": "BLACKPINK主打歌MV 半小時吸200萬點擊",
-      "url": "https://www.singtaousa.com/2026/02/28/entertainment/blackpink-mv-hits-2-million-views/",
-      "source": "singtaousa.com",
-      "published": 1772301600
-    },
-    {
       "id": "edc9239f43f0",
       "title": "科摩罗宣布2026年斋月利民措施",
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260228-%E6%B3%95%E5%B9%BFrfi-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E7%A7%91%E6%91%A9%E7%BD%97%E5%AE%A3%E5%B8%832026%E5%B9%B4%E6%96%8B%E6%9C%88%E5%88%A9%E6%B0%91%E6%8E%AA%E6%96%BD",
@@ -112,20 +126,6 @@
       "url": "https://money.udn.com/money/story/5599/9350555",
       "source": "money.udn.com",
       "published": 1772300790
-    },
-    {
-      "id": "740fb06c2f57",
-      "title": "在 Peninsula Del Rey, 找到貼心照顧與安心生活",
-      "url": "https://www.singtaousa.com/2026/02/28/lifestyle/find-caring-care-and-peace-of-mind-at-peninsula-del-rey/",
-      "source": "singtaousa.com",
-      "published": 1772300069
-    },
-    {
-      "id": "0898fc820c9d",
-      "title": "中東局勢影響香港航班 機管局公布今明兩日9班航班受影響",
-      "url": "https://www.singtaousa.com/2026/02/28/news/china/iran-situation-hong-kong-flights-affected/",
-      "source": "singtaousa.com",
-      "published": 1772300063
     },
     {
       "id": "b70e5e0bc27d",
@@ -1353,5 +1353,5 @@
       "published": 1769772300
     }
   ],
-  "build_id": 1772309598
+  "build_id": 1772311441
 }
