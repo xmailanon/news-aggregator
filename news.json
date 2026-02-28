@@ -1,6 +1,34 @@
 {
-  "updated": 1772261964,
+  "updated": 1772263611,
   "items": [
+    {
+      "id": "f0a9ed41dd60",
+      "title": "開戰了！以色列今日空襲產油大國伊朗",
+      "url": "https://money.udn.com/money/story/5599/9349969",
+      "source": "money.udn.com",
+      "published": 1772263753
+    },
+    {
+      "id": "ffb9c9aa1ade",
+      "title": "港鐵九龍塘站扶手電梯發生意外 兩名長者跌倒受傷",
+      "url": "https://www.singtaousa.com/2026/02/28/news/china/mtr-kowloon-tong-escalator-elderly-injured/",
+      "source": "singtaousa.com",
+      "published": 1772262262
+    },
+    {
+      "id": "ab87a1757534",
+      "title": "評估談判無望！美國與以色列聯手空襲伊朗 哈米尼辦公室遭攻擊",
+      "url": "https://money.udn.com/money/story/5599/9349942",
+      "source": "money.udn.com",
+      "published": 1772262194
+    },
+    {
+      "id": "3038dd377d92",
+      "title": "以色列防長：已對伊朗發動預防性飛彈攻擊",
+      "url": "https://money.udn.com/money/story/5599/9349938",
+      "source": "money.udn.com",
+      "published": 1772262021
+    },
     {
       "id": "80c3f4429587",
       "title": "潘慧如寵物館歇業",
@@ -205,34 +233,6 @@
       "published": 1772251891
     },
     {
-      "id": "c19f3279491a",
-      "title": "金正恩贈高官步槍 金主愛靶場持槍亮相",
-      "url": "https://www.singtaousa.com/2026/02/27/news/world/north-koreas-kim-gifts-rifles-to-officials-and-his-daughter-takes-aim-after-party-congress/",
-      "source": "singtaousa.com",
-      "published": 1772251862
-    },
-    {
-      "id": "91214945345c",
-      "title": "台灣女童在澀谷遭撞飛 日本網紅痛心：我感到非常抱歉",
-      "url": "https://money.udn.com/money/story/5599/9349638",
-      "source": "money.udn.com",
-      "published": 1772250752
-    },
-    {
-      "id": "e80211b8a152",
-      "title": "拖延關稅退款戰！川普政府阻企業討錢 申請延後4個月審理",
-      "url": "https://money.udn.com/money/story/5599/9349597",
-      "source": "money.udn.com",
-      "published": 1772249795
-    },
-    {
-      "id": "e6db4c922dcf",
-      "title": "台灣女童在澀谷被撞　日本律師分析撞人女恐觸法",
-      "url": "https://money.udn.com/money/story/5599/9349587",
-      "source": "money.udn.com",
-      "published": 1772249419
-    },
-    {
       "id": "31db4f10c34d",
       "title": "中国外交部提醒中国公民暂勿前往伊朗",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260228-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
@@ -329,6 +329,13 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260227-%E8%81%94%E5%90%88%E5%9B%BD%E6%89%B9%E8%AF%84%E4%B8%AD%E5%9B%BD-%E6%9C%AA%E8%83%BD%E5%85%85%E5%88%86%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8%E6%94%B9%E5%96%84%E6%96%B0%E7%96%86%E5%9C%B0%E5%8C%BA%E7%BB%B4%E5%90%BE%E5%B0%94%E6%97%8F%E4%BA%BA%E7%9A%84%E5%A4%84%E5%A2%83",
       "source": "rfi.fr",
       "published": 1772208137
+    },
+    {
+      "id": "e1719d340605",
+      "title": "中国高校如何跻身全球顶尖行列",
+      "url": "https://www.ftchinese.com/story/001109072",
+      "source": "ftchinese.com",
+      "published": 1772208000
     },
     {
       "id": "c134d562cc83",
@@ -840,13 +847,6 @@
       "url": "https://cn.nytimes.com/usa/20260226/trump-state-of-the-union-takeaways/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1772044390
-    },
-    {
-      "id": "b8c305c9afa9",
-      "title": "让大陆游客重回台湾",
-      "url": "https://www.ftchinese.com/story/001109057",
-      "source": "ftchinese.com",
-      "published": 1772035200
     },
     {
       "id": "2d77b18b14dc",
@@ -1367,5 +1367,5 @@
       "published": 1769772300
     }
   ],
-  "build_id": 1772261964
+  "build_id": 1772263611
 }
