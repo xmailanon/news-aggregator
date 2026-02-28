@@ -1,6 +1,20 @@
 {
-  "updated": 1772313042,
+  "updated": 1772314760,
   "items": [
+    {
+      "id": "ac9a26835645",
+      "title": "美以聯手對伊朗發動軍事打擊 中方籲立即停止行動",
+      "url": "https://www.singtaousa.com/2026/02/28/news/china/us-israel-strike-iran-china-concern/",
+      "source": "singtaousa.com",
+      "published": 1772314461
+    },
+    {
+      "id": "8862e6dd83c6",
+      "title": "保險業者取消波灣及荷莫茲海峽船隻保單 並將提高費率最高達50%",
+      "url": "https://money.udn.com/money/story/5599/9351326",
+      "source": "money.udn.com",
+      "published": 1772313227
+    },
     {
       "id": "d284a40d637b",
       "title": "為「習特會」鋪路 美方據報暫緩對台軍售",
@@ -80,7 +94,7 @@
     },
     {
       "id": "622935f546d0",
-      "title": "以色列證實伊朗最高領袖哈梅內伊在空襲中身亡 遺體已被尋獲",
+      "title": "以色列官員稱：伊朗最高領袖哈梅內伊在空襲中身亡 遺體已被尋獲",
       "url": "https://www.singtaousa.com/2026/02/28/news/world/israel-confirms-the-death-of-irans-supreme-leader-ayatollah-ali-khamenei-body-found-in-airstrike-on-official-residence/",
       "source": "singtaousa.com",
       "published": 1772310459
@@ -161,13 +175,6 @@
       "url": "https://www.singtaousa.com/2026/02/28/news/world/airspace-closed-airlines-halt-flights-as-us-israel-attack-iran-responds/",
       "source": "singtaousa.com",
       "published": 1772304214
-    },
-    {
-      "id": "76bd61ca7429",
-      "title": "簡樸房條例生效 房屋局鼓勵業主登記 未來五年增公屋供應應對劏房問題",
-      "url": "https://www.singtaousa.com/2026/02/28/news/china/subdivided-flats-registration-public-housing-supply/",
-      "source": "singtaousa.com",
-      "published": 1772303664
     },
     {
       "id": "edc9239f43f0",
@@ -322,13 +329,6 @@
       "url": "https://money.udn.com/money/story/5599/9350474",
       "source": "money.udn.com",
       "published": 1772293417
-    },
-    {
-      "id": "504351998189",
-      "title": "輝達傳推出新處理器 將重塑 AI 競賽格局",
-      "url": "https://money.udn.com/money/story/123398/9350476",
-      "source": "money.udn.com",
-      "published": 1772293341
     },
     {
       "id": "def29646b5a7",
@@ -1353,5 +1353,5 @@
       "published": 1769772300
     }
   ],
-  "build_id": 1772313042
+  "build_id": 1772314760
 }
