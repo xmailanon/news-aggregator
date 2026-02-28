@@ -1,6 +1,34 @@
 {
-  "updated": 1772316700,
+  "updated": 1772318639,
   "items": [
+    {
+      "id": "8172b04da89c",
+      "title": "逃不過美國追蹤！川普稱伊朗最高領袖已身亡",
+      "url": "https://money.udn.com/money/story/5599/9351799",
+      "source": "money.udn.com",
+      "published": 1772318302
+    },
+    {
+      "id": "37ce8d901bea",
+      "title": "巴士海峽首度聯合軍演 日本海上自衛隊與美菲部隊集結",
+      "url": "https://www.singtaousa.com/2026/02/28/news/world/japan-joins-us-philippines-for-military-exercises-in-waters-near-taiwan/",
+      "source": "singtaousa.com",
+      "published": 1772317800
+    },
+    {
+      "id": "931d8d0cb13e",
+      "title": "美國以色列聯手攻擊伊朗，特朗普稱「哈梅內伊已死」——我們目前知道什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/c87549gz8vwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1772317639
+    },
+    {
+      "id": "e6438427929c",
+      "title": "特朗普称伊朗最高领袖哈梅内伊已死",
+      "url": "https://cn.nytimes.com/world/20260301/iran-strikes-us/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1772317512
+    },
     {
       "id": "bcbf16db3a7b",
       "title": "五糧液集團董事長曾從欽涉嚴重違紀違法 正接受紀律審查",
@@ -163,25 +191,11 @@
       "published": 1772307061
     },
     {
-      "id": "630637565e27",
-      "title": "巴基斯坦空襲阿富汗邊境，國防部長宣稱進入「公開戰爭」",
-      "url": "https://www.singtaousa.com/2026/02/28/news/world/pakistan-carries-out-airstrikes-inside-afghanistan-as-open-war-on-border-continues/",
-      "source": "singtaousa.com",
-      "published": 1772305914
-    },
-    {
       "id": "ba061d05d23a",
       "title": "為何美國以色列此刻出手？伊朗進入「生存模式」，結局仍充滿變數",
       "url": "https://www.bbc.com/zhongwen/articles/cy57glv45lgo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1772305895
-    },
-    {
-      "id": "931d8d0cb13e",
-      "title": "美國以色列聯合攻擊、伊朗反擊與最高領袖官邸遭襲——我們目前知道什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/c87549gz8vwo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1772304419
     },
     {
       "id": "edc9239f43f0",
@@ -329,13 +343,6 @@
       "url": "https://money.udn.com/money/story/5599/9350465",
       "source": "money.udn.com",
       "published": 1772293836
-    },
-    {
-      "id": "afaa1e6d0ee8",
-      "title": "OpenAI 募得1,100億美元 與五角大廈達成協議導入模型",
-      "url": "https://money.udn.com/money/story/5599/9350474",
-      "source": "money.udn.com",
-      "published": 1772293417
     },
     {
       "id": "def29646b5a7",
@@ -835,13 +842,6 @@
       "published": 1771875289
     },
     {
-      "id": "0828e9742327",
-      "title": "股价下跌、销量下滑：中国电动车市场怎么了",
-      "url": "https://cn.nytimes.com/business/20260224/china-electric-vehicle-troubles/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1771872465
-    },
-    {
       "id": "83d8bf0588e4",
       "title": "乌克兰被俘朝鲜士兵想去韩国 首尔态度迟疑",
       "url": "https://www.dw.com/zh/乌克兰被俘朝鲜士兵想去韩国-首尔态度迟疑/a-76094690?maca=chi-rss-chi-all-1127-rdf",
@@ -1213,5 +1213,5 @@
       "published": 1769772300
     }
   ],
-  "build_id": 1772316700
+  "build_id": 1772318639
 }
