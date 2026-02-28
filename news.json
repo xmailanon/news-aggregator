@@ -1,6 +1,27 @@
 {
-  "updated": 1772302632,
+  "updated": 1772304737,
   "items": [
+    {
+      "id": "931d8d0cb13e",
+      "title": "美國以色列聯合攻擊、伊朗反擊與最高領袖官邸遭襲——我們目前知道什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/c87549gz8vwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1772304419
+    },
+    {
+      "id": "db70f926896f",
+      "title": "美以空襲伊朗引爆中東空域危機 至少八國關閉領空 全球航班大亂",
+      "url": "https://www.singtaousa.com/2026/02/28/news/world/airspace-closed-airlines-halt-flights-as-us-israel-attack-iran-responds/",
+      "source": "singtaousa.com",
+      "published": 1772304214
+    },
+    {
+      "id": "76bd61ca7429",
+      "title": "簡樸房條例生效 房屋局鼓勵業主登記 未來五年增公屋供應應對劏房問題",
+      "url": "https://www.singtaousa.com/2026/02/28/news/china/subdivided-flats-registration-public-housing-supply/",
+      "source": "singtaousa.com",
+      "published": 1772303664
+    },
     {
       "id": "ed66a755ecb4",
       "title": "伊朗米納布市女子小學遭以色列空襲 官方稱85人死亡",
@@ -163,13 +184,6 @@
       "published": 1772294574
     },
     {
-      "id": "bb457d803fa7",
-      "title": "孫燕姿化身太空人預熱巡演",
-      "url": "https://www.singtaousa.com/2026/02/28/entertainment/stefanie-sun-astronaut-tour-promo/",
-      "source": "singtaousa.com",
-      "published": 1772294400
-    },
-    {
       "id": "36d08f22f22f",
       "title": "美伊開戰／伊朗最高領袖哈米尼 強硬外交決策者",
       "url": "https://money.udn.com/money/story/5599/9350426",
@@ -259,20 +273,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260228-%E5%A4%9A%E5%9B%BD%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97-%E4%B8%AD%E5%9B%BD%E5%91%BC%E5%90%81%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%81%AB",
       "source": "rfi.fr",
       "published": 1772288981
-    },
-    {
-      "id": "ed2d56d8af61",
-      "title": "列斯酒吧25便士啤酒促銷遭禁，奇招反擊改為免費贈送",
-      "url": "https://www.singtaousa.com/2026/02/28/news/world/leeds-pub-offers-free-beer-after-25p-pint-deemed-irresponsible/",
-      "source": "singtaousa.com",
-      "published": 1772287897
-    },
-    {
-      "id": "931d8d0cb13e",
-      "title": "美國、以色列聯合襲擊伊朗，我們目前知道什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/c87549gz8vwo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1772281657
     },
     {
       "id": "b4780e74f88b",
@@ -1360,5 +1360,5 @@
       "published": 1769772300
     }
   ],
-  "build_id": 1772302632
+  "build_id": 1772304737
 }
