@@ -1,6 +1,20 @@
 {
-  "updated": 1772320306,
+  "updated": 1772322043,
   "items": [
+    {
+      "id": "775904f5bd9b",
+      "title": "美以空襲伊朗全球反應兩極：歐美多國支持 俄羅斯譴責侵略",
+      "url": "https://www.singtaousa.com/2026/02/28/news/world/world-leaders-reaction-operation-epic-fury/",
+      "source": "singtaousa.com",
+      "published": 1772321528
+    },
+    {
+      "id": "4bed84850ac4",
+      "title": "全球勒索軟件攻擊激增，受害者支付率卻創下28%歷史新低",
+      "url": "https://www.singtaousa.com/2026/02/28/news/world/ransomware-payment-rate-drops-to-record-low-as-attacks-surge/",
+      "source": "singtaousa.com",
+      "published": 1772321400
+    },
     {
       "id": "27ebd0edbbcd",
       "title": "中東局勢告急：美以聯手空襲伊朗，德黑蘭迅猛反擊",
@@ -161,20 +175,6 @@
       "url": "https://www.singtaousa.com/2026/02/28/news/china/coconut-palm-ad-slogan-controversy-vulgar/",
       "source": "singtaousa.com",
       "published": 1772310863
-    },
-    {
-      "id": "622935f546d0",
-      "title": "以色列官員稱：伊朗最高領袖哈梅內伊在空襲中身亡 遺體已被尋獲",
-      "url": "https://www.singtaousa.com/2026/02/28/news/world/israel-confirms-the-death-of-irans-supreme-leader-ayatollah-ali-khamenei-body-found-in-airstrike-on-official-residence/",
-      "source": "singtaousa.com",
-      "published": 1772310459
-    },
-    {
-      "id": "3efed2e0ec4b",
-      "title": "美軍中央司令部稱空襲伊朗零傷亡 首次動用「神風」無人機",
-      "url": "https://www.singtaousa.com/2026/02/28/news/world/trump-calls-for-regime-change-in-iran-after-us-and-israel-launch-major-attack/",
-      "source": "singtaousa.com",
-      "published": 1772309720
     },
     {
       "id": "49d20e04b527",
@@ -1353,5 +1353,5 @@
       "published": 1769772300
     }
   ],
-  "build_id": 1772320306
+  "build_id": 1772322043
 }
