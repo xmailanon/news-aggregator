@@ -1,6 +1,27 @@
 {
-  "updated": 1772305965,
+  "updated": 1772307493,
   "items": [
+    {
+      "id": "45c943fc6b09",
+      "title": "大埔汀角路客貨車自炒反車 司機乘客一度被困 交通受阻",
+      "url": "https://www.singtaousa.com/2026/02/28/news/china/dapu-van-overturned-driver-passenger-trapped/",
+      "source": "singtaousa.com",
+      "published": 1772307266
+    },
+    {
+      "id": "ee363d264349",
+      "title": "两名伊朗高官死于美以空袭 伊朗小学遭波及罹难者或增至85人 以军对伊朗西部目标发动新一波打击",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260228-%E4%B8%A4%E5%90%8D%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E6%AD%BB%E4%BA%8E%E7%BE%8E%E4%BB%A5%E7%A9%BA%E8%A2%AD-%E4%BC%8A%E6%9C%97%E5%B0%8F%E5%AD%A6%E9%81%AD%E6%B3%A2%E5%8F%8A%E7%BD%B9%E9%9A%BE%E8%80%85%E6%88%96%E5%A2%9E%E8%87%B385%E4%BA%BA-%E4%BB%A5%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E8%A5%BF%E9%83%A8%E7%9B%AE%E6%A0%87%E5%8F%91%E5%8A%A8%E6%96%B0%E4%B8%80%E6%B3%A2%E6%89%93%E5%87%BB",
+      "source": "rfi.fr",
+      "published": 1772307061
+    },
+    {
+      "id": "ba061d05d23a",
+      "title": "為何美國以色列此刻出手？伊朗進入「生存模式」，結局仍充滿變數",
+      "url": "https://www.bbc.com/zhongwen/articles/cy57glv45lgo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1772305895
+    },
     {
       "id": "a54748863a3f",
       "title": "《簡樸房條例》生效 房屋局支援義華大廈劏房戶搬遷 79戶申請過渡性房屋",
@@ -105,13 +126,6 @@
       "url": "https://money.udn.com/money/story/5599/9350551",
       "source": "money.udn.com",
       "published": 1772299836
-    },
-    {
-      "id": "66a1bcd98ce4",
-      "title": "中國外交部回應美以空襲伊朗 表達「深切關注」籲各方克制",
-      "url": "https://www.singtaousa.com/2026/02/28/news/china/global-powers-divided-china-expresses-deep-concern-over-us-israel-strikes-iran/",
-      "source": "singtaousa.com",
-      "published": 1772299114
     },
     {
       "id": "9c60b3c330f1",
@@ -534,13 +548,6 @@
       "published": 1772208000
     },
     {
-      "id": "eaf5bc2e9875",
-      "title": "德黑兰警告华盛顿必须放弃“过分的要求”, 关于伊朗核计划的技术磋商下周在维也纳举行",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260227-%E5%BE%B7%E9%BB%91%E5%85%B0%E8%AD%A6%E5%91%8A%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%BF%85%E9%A1%BB%E6%94%BE%E5%BC%83-%E8%BF%87%E5%88%86%E7%9A%84%E8%A6%81%E6%B1%82-%E5%85%B3%E4%BA%8E%E4%BC%8A%E6%9C%97%E6%A0%B8%E8%AE%A1%E5%88%92%E7%9A%84%E6%8A%80%E6%9C%AF%E7%A3%8B%E5%95%86%E4%B8%8B%E5%91%A8%E5%9C%A8%E7%BB%B4%E4%B9%9F%E7%BA%B3%E4%B8%BE%E8%A1%8C",
-      "source": "rfi.fr",
-      "published": 1772207159
-    },
-    {
       "id": "763662f671d7",
       "title": "专访：以关税应对中国产能过剩",
       "url": "https://www.dw.com/zh/专访：以关税应对中国产能过剩/a-76155597?maca=chi-rss-chi-all-1127-rdf",
@@ -947,13 +954,6 @@
       "published": 1771916340
     },
     {
-      "id": "fa09e22f1ab3",
-      "title": "對華逆差超千億美元，默茨首次訪華能否反轉中德「零和」競爭？",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yvl7g1epdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1771906923
-    },
-    {
       "id": "6f8bfb00ccd3",
       "title": "記錄「新疆再教育營」的中國青年關恆在美被關押半年後獲釋：「失去自由之後，才更意識到它的重要性」",
       "url": "https://www.bbc.com/zhongwen/articles/cd6zjll5w75o/trad?at_medium=RSS&at_campaign=rss",
@@ -1353,5 +1353,5 @@
       "published": 1769772300
     }
   ],
-  "build_id": 1772305965
+  "build_id": 1772307493
 }
