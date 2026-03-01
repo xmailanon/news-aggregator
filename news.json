@@ -1,6 +1,34 @@
 {
-  "updated": 1772392484,
+  "updated": 1772394016,
   "items": [
+    {
+      "id": "836aea0f3140",
+      "title": "中東局勢驟變 滯留杜拜中國旅客航班接連取消歸期未定",
+      "url": "https://www.singtaousa.com/2026/03/01/news/china/stranded-chinese-tourists-dubai-flight-cancellations/",
+      "source": "singtaousa.com",
+      "published": 1772393666
+    },
+    {
+      "id": "50707010701a",
+      "title": "美伊戰事／中東空運大亂數千航班取消 數以萬計旅客滯留",
+      "url": "https://money.udn.com/money/story/5599/9352911",
+      "source": "money.udn.com",
+      "published": 1772393239
+    },
+    {
+      "id": "078df849f517",
+      "title": "薩克斯評美以襲擊伊朗行動：憂慮區域衝突擴大",
+      "url": "https://www.singtaousa.com/2026/03/01/news/usa/sachs-comments-on-the-u-s-s-attack-on-iran-worrying-about-the-expansion-of-regional-conflicts/",
+      "source": "singtaousa.com",
+      "published": 1772393225
+    },
+    {
+      "id": "e2590d68287b",
+      "title": "非洲多方对美以打击伊朗的反应",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260301-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E5%A4%9A%E6%96%B9%E5%AF%B9%E7%BE%8E%E4%BB%A5%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E7%9A%84%E5%8F%8D%E5%BA%94",
+      "source": "rfi.fr",
+      "published": 1772392318
+    },
     {
       "id": "6b7f1bdb7008",
       "title": "中東戰火致多國領空關閉 數十萬旅客滯留海內外",
@@ -198,13 +226,6 @@
       "published": 1772387163
     },
     {
-      "id": "e201f8d748a7",
-      "title": "戰爭部證實：史詩怒火行動已致美軍3死5重傷",
-      "url": "https://money.udn.com/money/story/5599/9353052",
-      "source": "money.udn.com",
-      "published": 1772387140
-    },
-    {
       "id": "1d9d8184acb4",
       "title": "柴灣環翠邨溜冰場爭議 男子不滿兒童玩滑板淋油破壞",
       "url": "https://www.singtaousa.com/2026/03/01/news/china/man-pours-oil-skating-rink-revenge/",
@@ -217,20 +238,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260301-%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F%E6%B1%87%E6%8A%A5-%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%90%E4%BA%86%E5%B9%B2%E9%A2%84%E4%B8%BB%E4%B9%89%E8%80%85",
       "source": "rfi.fr",
       "published": 1772384778
-    },
-    {
-      "id": "53a59faa54b7",
-      "title": "加沙地帶告急！以色列關閉人道救援過境點，包含拉法口岸",
-      "url": "https://www.singtaousa.com/2026/03/01/news/world/israel-closes-crossings-into-gaza-strip-including-for-humanitarian-aid-workers-israeli-government-agency-says/",
-      "source": "singtaousa.com",
-      "published": 1772384400
-    },
-    {
-      "id": "94306356d757",
-      "title": "Jeremy難忘「瞓」隧道拍MV",
-      "url": "https://www.singtaousa.com/2026/03/01/entertainment/jeremy-remembers-sleeping-in-tunnel-for-mv/",
-      "source": "singtaousa.com",
-      "published": 1772384400
     },
     {
       "id": "c330a6fd6747",
@@ -553,13 +560,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cy57glv45lgo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1772305895
-    },
-    {
-      "id": "edc9239f43f0",
-      "title": "科摩罗宣布2026年斋月利民措施",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260228-%E6%B3%95%E5%B9%BFrfi-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E7%A7%91%E6%91%A9%E7%BD%97%E5%AE%A3%E5%B8%832026%E5%B9%B4%E6%96%8B%E6%9C%88%E5%88%A9%E6%B0%91%E6%8E%AA%E6%96%BD",
-      "source": "rfi.fr",
-      "published": 1772301294
     },
     {
       "id": "9c60b3c330f1",
@@ -1332,5 +1332,5 @@
       "published": 1769869680
     }
   ],
-  "build_id": 1772392484
+  "build_id": 1772394016
 }
