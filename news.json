@@ -1,6 +1,27 @@
 {
-  "updated": 1772406769,
+  "updated": 1772408529,
   "items": [
+    {
+      "id": "e6438427929c",
+      "title": "特朗普称伊朗最高领袖哈梅内伊在袭击中身亡",
+      "url": "https://cn.nytimes.com/world/20260301/iran-strikes-us/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1772407459
+    },
+    {
+      "id": "dcbb75338ce9",
+      "title": "川普：將持續轟炸伊朗直到實現目標 美軍傷亡在所難免",
+      "url": "https://money.udn.com/money/story/5599/9353129",
+      "source": "money.udn.com",
+      "published": 1772407028
+    },
+    {
+      "id": "ab60a385b907",
+      "title": "非洲古巴音乐的马里名笛手逝世",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260301-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E5%8F%A4%E5%B7%B4%E9%9F%B3%E4%B9%90%E7%9A%84%E9%A9%AC%E9%87%8C%E5%90%8D%E7%AC%9B%E6%89%8B%E9%80%9D%E4%B8%96",
+      "source": "rfi.fr",
+      "published": 1772406709
+    },
     {
       "id": "02e14bd637ae",
       "title": "虞書欣何與再合作 上演人妖虐戀",
@@ -268,13 +289,6 @@
       "published": 1772397037
     },
     {
-      "id": "feeb3ed01236",
-      "title": "伊朗國安首長稱將啟動過渡程序　波灣多地再傳爆炸聲",
-      "url": "https://money.udn.com/money/story/5599/9352384",
-      "source": "money.udn.com",
-      "published": 1772397035
-    },
-    {
       "id": "f2b808012b7f",
       "title": "特朗普對伊開戰恐推高油價 威脅全球經濟引發通脹",
       "url": "https://www.singtaousa.com/2026/03/01/news/usa/news-trump-iran-war-oil-prices-inflation-energy-market/",
@@ -471,13 +485,6 @@
       "published": 1772356087
     },
     {
-      "id": "af2c3d6608cd",
-      "title": "伊朗寻求报复：多哈、迪拜等多地遭导弹袭击，阿联酋至少2人死亡",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260301-%E4%BC%8A%E6%9C%97%E5%AF%BB%E6%B1%82%E6%8A%A5%E5%A4%8D-%E5%A4%9A%E5%93%88-%E8%BF%AA%E6%8B%9C%E7%AD%89%E5%A4%9A%E5%9C%B0%E9%81%AD%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%EF%BC%8C%E9%98%BF%E8%81%94%E9%85%8B%E8%87%B3%E5%B0%912%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-      "source": "rfi.fr",
-      "published": 1772356023
-    },
-    {
       "id": "a2f008ad0f82",
       "title": "韩国出生率略有回升 但人口危机依旧严峻",
       "url": "https://www.dw.com/zh/韩国出生率略有回升-但人口危机依旧严峻/a-76154841?maca=chi-rss-chi-all-1127-rdf",
@@ -567,13 +574,6 @@
       "url": "https://cn.nytimes.com/usa/20260301/iran-attacks-what-to-know/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1772328822
-    },
-    {
-      "id": "e6438427929c",
-      "title": "特朗普称伊朗最高领袖哈梅内伊在袭击中身亡",
-      "url": "https://cn.nytimes.com/world/20260301/iran-strikes-us/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1772328356
     },
     {
       "id": "d78c596bb788",
@@ -1332,5 +1332,5 @@
       "published": 1769869680
     }
   ],
-  "build_id": 1772406769
+  "build_id": 1772408529
 }
