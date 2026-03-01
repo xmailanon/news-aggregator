@@ -1,6 +1,13 @@
 {
-  "updated": 1772351370,
+  "updated": 1772353053,
   "items": [
+    {
+      "id": "e22daa3a2df6",
+      "title": "新華社評論：美以軍事打擊伊朗 分析指霸權行徑無助地區安全",
+      "url": "https://www.singtaousa.com/2026/03/01/news/china/us-iran-conflict-military-strike-hegemony/",
+      "source": "singtaousa.com",
+      "published": 1772352266
+    },
     {
       "id": "3efcde081ede",
       "title": "連結安德魯與愛潑斯坦的第三人曝光",
@@ -189,13 +196,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn0z9g50rpvo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1772335425
-    },
-    {
-      "id": "545e27aa285f",
-      "title": "拍廣告活力十足 小S年後開工狀態佳",
-      "url": "https://www.singtaousa.com/2026/02/28/entertainment/s-returns-to-work-full-of-energy/",
-      "source": "singtaousa.com",
-      "published": 1772334000
     },
     {
       "id": "6a0b5c011d30",
@@ -1360,5 +1360,5 @@
       "published": 1769772300
     }
   ],
-  "build_id": 1772351370
+  "build_id": 1772353053
 }
