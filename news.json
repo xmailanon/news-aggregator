@@ -1,6 +1,48 @@
 {
-  "updated": 1772491885,
+  "updated": 1772493306,
   "items": [
+    {
+      "id": "4fe0fa46613b",
+      "title": "美股收盤／標普500收平 無懼中東戰火 AI與能源股助大盤收復跌幅",
+      "url": "https://money.udn.com/money/story/5599/9355414",
+      "source": "money.udn.com",
+      "published": 1772493304
+    },
+    {
+      "id": "b2f4b8fbcef5",
+      "title": "史詩怒火行動時間不明 美國防部預期會有更多傷亡",
+      "url": "https://money.udn.com/money/story/5599/9355412",
+      "source": "money.udn.com",
+      "published": 1772493201
+    },
+    {
+      "id": "25c84c937e4d",
+      "title": "粵語平頂山打人的是否孝子？豆包竟然反婚反育？",
+      "url": "https://www.singtaousa.com/2026/03/02/opinion/is-the-person-who-beats-someone-in-pingdingshan-a-filial-son-doubao-actually-opposes-marriage-and-childbearing/",
+      "source": "singtaousa.com",
+      "published": 1772492700
+    },
+    {
+      "id": "eb35cce9d885",
+      "title": "堪薩斯州取消逾千跨性別居民駕照及出生證明",
+      "url": "https://www.singtaousa.com/2026/03/02/news/usa/kansas-cancels-drivers-licenses-and-birth-certificates-of-more-than-1000-transgender-residents/",
+      "source": "singtaousa.com",
+      "published": 1772492425
+    },
+    {
+      "id": "b3438ee95b0e",
+      "title": "喬治亞州婦人殺夫偽裝自殺，歷經三審二度定罪終身監禁",
+      "url": "https://www.singtaousa.com/2026/03/02/news/usa/she-convinced-police-her-husband-died-by-suicide-his-family-helped-convict-her-twice/",
+      "source": "singtaousa.com",
+      "published": 1772492400
+    },
+    {
+      "id": "948f29608b6d",
+      "title": "暴君死了 伊朗政体依旧在顽抗",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260302-%E6%9A%B4%E5%90%9B%E6%AD%BB%E4%BA%86-%E4%BC%8A%E6%9C%97%E6%94%BF%E4%BD%93%E4%BE%9D%E6%97%A7%E5%9C%A8%E9%A1%BD%E6%8A%97",
+      "source": "rfi.fr",
+      "published": 1772492254
+    },
     {
       "id": "85dd3f49f4e0",
       "title": "特朗普不排除对伊朗派遣地面部队　称美军伤亡恐将增加",
@@ -121,27 +163,6 @@
       "published": 1772485900
     },
     {
-      "id": "49f16f702b62",
-      "title": "粵語李嘉誠長和系既賣碼頭又賣英國電力資產，反映甚麼？",
-      "url": "https://www.singtaousa.com/2026/03/02/opinion/li-ka-shings-ckh-group-sells-both-terminals-and-british-power-assets-what-does-this-reflect/",
-      "source": "singtaousa.com",
-      "published": 1772485380
-    },
-    {
-      "id": "0561ad8bbab1",
-      "title": "一日前才就襲擊案上庭 沙拉保夫再涉傷人被捕",
-      "url": "https://www.singtaousa.com/2026/03/02/entertainment/shia-labeouf-arrested-assault/",
-      "source": "singtaousa.com",
-      "published": 1772485200
-    },
-    {
-      "id": "275026b3f660",
-      "title": "「半永久日光節約時間」是什麼？美國國會醞釀《2026 日光法案》，每年撥兩次時鐘即將終結？",
-      "url": "https://www.singtaousa.com/2026/03/02/news/usa/daylight-act-of-2026/",
-      "source": "singtaousa.com",
-      "published": 1772484176
-    },
-    {
       "id": "49de4a2c69fa",
       "title": "川普：攻打伊朗有4大目標　美軍有能力打超過4週",
       "url": "https://money.udn.com/money/story/5599/9355342",
@@ -254,25 +275,25 @@
       "published": 1772475570
     },
     {
-      "id": "4d099c1dff53",
-      "title": "歐盟動搖 氣候政策倒退嚕 部分成員國要求削弱排放交易體系、延後收碳費",
-      "url": "https://money.udn.com/money/story/5599/9355138",
-      "source": "money.udn.com",
-      "published": 1772475543
-    },
-    {
-      "id": "6cf7ff17aaf2",
-      "title": "澳洲網路年齡管制盯上 AI 違者最高罰3,500萬美元",
-      "url": "https://money.udn.com/money/story/5599/9355125",
-      "source": "money.udn.com",
-      "published": 1772475499
-    },
-    {
       "id": "864f8d64db11",
       "title": "马克龙：将加强核武库，并让欧洲盟友参与核战略革新",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260302-%E9%A9%AC%E5%85%8B%E9%BE%99-%E5%B0%86%E5%8A%A0%E5%BC%BA%E6%A0%B8%E6%AD%A6%E5%BA%93%EF%BC%8C%E5%B9%B6%E8%AE%A9%E6%AC%A7%E6%B4%B2%E7%9B%9F%E5%8F%8B%E5%8F%82%E4%B8%8E%E6%A0%B8%E6%88%98%E7%95%A5%E9%9D%A9%E6%96%B0",
       "source": "rfi.fr",
       "published": 1772467720
+    },
+    {
+      "id": "a19e68f45b26",
+      "title": "房地产市场对中国经济的启示",
+      "url": "https://www.ftchinese.com/story/001109078",
+      "source": "ftchinese.com",
+      "published": 1772467200
+    },
+    {
+      "id": "91874431b03c",
+      "title": "特朗普为何敢直言已选好伊朗接班的“合适人选”",
+      "url": "https://www.ftchinese.com/story/001109088",
+      "source": "ftchinese.com",
+      "published": 1772467200
     },
     {
       "id": "57e217a4137a",
@@ -539,13 +560,6 @@
       "url": "https://cn.nytimes.com/usa/20260302/trump-peace-president-war/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1772416850
-    },
-    {
-      "id": "18c541d9ff61",
-      "title": "法英德采取“防御行动”以“摧毁”伊朗的军力",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260301-%E6%B3%95%E8%8B%B1%E5%BE%B7%E9%87%87%E5%8F%96-%E9%98%B2%E5%BE%A1%E8%A1%8C%E5%8A%A8-%E4%BB%A5-%E6%91%A7%E6%AF%81-%E4%BC%8A%E6%9C%97%E7%9A%84%E5%86%9B%E5%8A%9B",
-      "source": "rfi.fr",
-      "published": 1772399642
     },
     {
       "id": "3755e2c51864",
@@ -838,20 +852,6 @@
       "id": "79c5ce1cfde0",
       "title": "FT社评：撼动英国政治的一场补选",
       "url": "https://www.ftchinese.com/story/001109069",
-      "source": "ftchinese.com",
-      "published": 1772208000
-    },
-    {
-      "id": "1ec23bdc8f7e",
-      "title": "库迪咖啡进入德国：低价是种什么力量？",
-      "url": "https://www.ftchinese.com/story/001109064",
-      "source": "ftchinese.com",
-      "published": 1772208000
-    },
-    {
-      "id": "ffb47272b902",
-      "title": "OpenAI获得创纪录1100亿美元融资",
-      "url": "https://www.ftchinese.com/story/001109068",
       "source": "ftchinese.com",
       "published": 1772208000
     },
@@ -1318,5 +1318,5 @@
       "published": 1769931780
     }
   ],
-  "build_id": 1772491885
+  "build_id": 1772493306
 }
