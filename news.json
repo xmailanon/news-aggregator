@@ -1,6 +1,13 @@
 {
-  "updated": 1772488578,
+  "updated": 1772489948,
   "items": [
+    {
+      "id": "cda5d7705887",
+      "title": "英国保证，其在塞浦路斯的基地不会被美国用于对伊朗采取行动",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260302-%E8%8B%B1%E5%9B%BD%E4%BF%9D%E8%AF%81%EF%BC%8C%E5%85%B6%E5%9C%A8%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E7%9A%84%E5%9F%BA%E5%9C%B0%E4%B8%8D%E4%BC%9A%E8%A2%AB%E7%BE%8E%E5%9B%BD%E7%94%A8%E4%BA%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%87%87%E5%8F%96%E8%A1%8C%E5%8A%A8",
+      "source": "rfi.fr",
+      "published": 1772489758
+    },
     {
       "id": "d3446abad649",
       "title": "沙加緬度示威抗議美以空襲伊朗 網絡留言呈現高度撕裂｜細說燊語",
@@ -525,13 +532,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260301-%E9%A9%AC%E5%85%8B%E9%BE%99-%E6%B3%95%E5%9B%BD%E5%B0%86%E6%8F%90%E5%8D%87%E5%85%B6%E5%9C%A8%E6%B5%B7%E6%B9%BE%E5%9C%B0%E5%8C%BA%E7%9A%84%E5%86%9B%E4%BA%8B-%E6%80%81%E5%8A%BF",
       "source": "rfi.fr",
       "published": 1772399226
-    },
-    {
-      "id": "cf5f1836c577",
-      "title": "三名美军在对伊朗的行动中丧生",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260301-%E4%B8%89%E5%90%8D%E7%BE%8E%E5%86%9B%E5%9C%A8%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E8%A1%8C%E5%8A%A8%E4%B8%AD%E4%B8%A7%E7%94%9F",
-      "source": "rfi.fr",
-      "published": 1772398880
     },
     {
       "id": "d4a19317f9f0",
@@ -1318,5 +1318,5 @@
       "published": 1769931780
     }
   ],
-  "build_id": 1772488578
+  "build_id": 1772489948
 }
