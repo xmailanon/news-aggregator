@@ -1,96 +1,131 @@
 {
-  "updated": 1772541082,
+  "updated": 1772545851,
   "items": [
+    {
+      "id": "672809640b8a",
+      "title": "中美貿易談判代表據悉擬於3月中旬會晤 為兩國領導人峰會做準備",
+      "url": "https://money.udn.com/money/story/5599/9356258",
+      "source": "money.udn.com",
+      "published": 1772544143
+    },
+    {
+      "id": "8349b4e2bb3c",
+      "title": "伊朗戰事重燃通膨威脅 全球政府債券市場淒風苦雨",
+      "url": "https://money.udn.com/money/story/5599/9356345",
+      "source": "money.udn.com",
+      "published": 1772543827
+    },
+    {
+      "id": "c11393b3e28d",
+      "title": "欧洲对美国打伊朗存分歧 不遣责将自食其果？",
+      "url": "https://www.dw.com/zh/欧洲对美国打伊朗存分歧-不遣责将自食其果？/a-76196189?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1772543760
+    },
+    {
+      "id": "f28267bacf87",
+      "title": "專家警告 戰爭再持續數天 全球能源市場恐大亂 顛覆供應鏈 推升通膨",
+      "url": "https://money.udn.com/money/story/5599/9357409",
+      "source": "money.udn.com",
+      "published": 1772543681
+    },
+    {
+      "id": "830bc8449a71",
+      "title": "冰川专家呼吁关注冰川消融问题",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20260303-%E5%86%B0%E5%B7%9D%E4%B8%93%E5%AE%B6%E5%91%BC%E5%90%81%E5%85%B3%E6%B3%A8%E5%86%B0%E5%B7%9D%E6%B6%88%E8%9E%8D%E9%97%AE%E9%A2%98",
+      "source": "rfi.fr",
+      "published": 1772543223
+    },
+    {
+      "id": "93167507017a",
+      "title": "助精神病患無家者 紐森檢討各縣成敗",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/newsom-reviews-county-success-mental-illness-homeless/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "5d2fbd9a96d6",
+      "title": "「投保加州」受保者 降級應對保費激增",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/covered-california-plan-downgrade-premiums/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "4228f4799765",
+      "title": "選舉身份證明提案 有望11月公投",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/election-id-proposal-november-vote/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "a1c0e15f0e7c",
+      "title": "共和黨聯邦眾議員基尼 選擇新選區競逐連任",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/gop-rep-kiley-seeks-re-election-new-district/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "3b8159fd608a",
+      "title": "伊朗戰事衝擊灣區航班油價受影響",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/iran-war-impacts-bay-area-flights-oil/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "891e2b5b256e",
+      "title": "Waymo無人車停電應變受質疑   司機嘆收入腰斬工會要求監管",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/waymo-autonomous-cars-halt-protest/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "bc6c279ebfc4",
+      "title": "紐森批三藩市「照護法庭」計劃績效差",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/newsom-slams-sf-care-court-performance/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "63456e656cdf",
+      "title": "史丹福猶太社群遭威脅 FBI介入調查",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/stanford-jewish-community-threatened-fbi-investigates/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "6c19e7308517",
+      "title": "南灣公寓結構問題   逾百住客被迫撤離",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/south-bay-apartments-evacuated-structural-issues/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "341db09868ce",
+      "title": "當打人搶金鑽項鍊 地檢不滿七嫌獲釋",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/robbery-assault-suspects-released/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "eed3fed3502e",
+      "title": "富裕小城治安良好 警方教防罪費心思",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/wealthy-town-crime-prevention-police-strategy/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
+    {
+      "id": "7565ed0bf362",
+      "title": "黃建成接任中華總會館新總董",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/huang-jiancheng-takes-over-chinese-consulate/",
+      "source": "singtaousa.com",
+      "published": 1772542800
+    },
     {
       "id": "7c5b86e80430",
       "title": "法國巴黎銀行財富管理：美伊戰事三大情境 油價短期目標上修至80美元",
       "url": "https://money.udn.com/money/story/5599/9356760",
       "source": "money.udn.com",
       "published": 1772540073
-    },
-    {
-      "id": "2292c7c93970",
-      "title": "2026月蝕｜沙加緬度小編直擊紅月當空",
-      "url": "https://www.singtaousa.com/2026/03/03/news/usa/a-total-lunar-eclipse-appears-in-the-night-sky-in-sacramento-the-editor-directly-takes-a-look-at-the-red-moon-in-the-sky/",
-      "source": "singtaousa.com",
-      "published": 1772540048
-    },
-    {
-      "id": "91448e936452",
-      "title": "放對位置才會發光",
-      "url": "https://www.singtaousa.com/2026/03/03/opinion/find-your-right-place-shine/",
-      "source": "singtaousa.com",
-      "published": 1772539200
-    },
-    {
-      "id": "d59ab51921dc",
-      "title": "彈指之間",
-      "url": "https://www.singtaousa.com/2026/03/03/opinion/a-snap-of-the-fingers/",
-      "source": "singtaousa.com",
-      "published": 1772539200
-    },
-    {
-      "id": "8fda6da62f78",
-      "title": "邊緣人",
-      "url": "https://www.singtaousa.com/2026/03/03/opinion/borderline-health-urban-life-cost/",
-      "source": "singtaousa.com",
-      "published": 1772539200
-    },
-    {
-      "id": "90988b99c4ca",
-      "title": "馬會快開「造星部」",
-      "url": "https://www.singtaousa.com/2026/03/03/opinion/hkjc-create-star-department/",
-      "source": "singtaousa.com",
-      "published": 1772539200
-    },
-    {
-      "id": "fd66bc5d2be3",
-      "title": "從中國紅到國際潮流",
-      "url": "https://www.singtaousa.com/2026/03/03/opinion/chinese-new-year-fashion-trends/",
-      "source": "singtaousa.com",
-      "published": 1772539200
-    },
-    {
-      "id": "4ff8d476813f",
-      "title": "或派遣地面部隊到伊朗",
-      "url": "https://www.singtaousa.com/2026/03/03/news/usa/trump-send-ground-troops-iran/",
-      "source": "singtaousa.com",
-      "published": 1772539200
-    },
-    {
-      "id": "6554a80fae2c",
-      "title": "駐沙特使館受襲 促公民急撤離中東",
-      "url": "https://www.singtaousa.com/2026/03/03/news/usa/the-embassy-in-saudi-arabia-was-attacked-urging-citizens-to-evacuate-the-middle-east/",
-      "source": "singtaousa.com",
-      "published": 1772539200
-    },
-    {
-      "id": "09738c56f8cf",
-      "title": "師出無名 失道者寡助",
-      "url": "https://www.singtaousa.com/2026/03/03/news/world/the-teacher-has-no-name-and-the-unjust-person-has-little-help/",
-      "source": "singtaousa.com",
-      "published": 1772539200
-    },
-    {
-      "id": "b4296d7955bc",
-      "title": "已攻擊上千目標 六美軍士兵身亡",
-      "url": "https://www.singtaousa.com/2026/03/03/news/world/us-soldiers-killed-iran-attacks/",
-      "source": "singtaousa.com",
-      "published": 1772539200
-    },
-    {
-      "id": "43178aaaa5da",
-      "title": "伊朗擴大攻擊油輪及石油設施",
-      "url": "https://www.singtaousa.com/2026/03/03/news/world/iran-expands-oil-tanker-attack/",
-      "source": "singtaousa.com",
-      "published": 1772539200
-    },
-    {
-      "id": "0110e9819a71",
-      "title": "誰當新領導人 霍梅尼之孫成焦點",
-      "url": "https://www.singtaousa.com/2026/03/03/news/world/iran-new-leader-khamenei-grandson-focus/",
-      "source": "singtaousa.com",
-      "published": 1772539200
     },
     {
       "id": "345422f4d6bd",
@@ -308,27 +343,6 @@
       "url": "https://money.udn.com/money/story/5599/9356626",
       "source": "money.udn.com",
       "published": 1772522380
-    },
-    {
-      "id": "49518d0a983e",
-      "title": "美股面臨地緣政治風險與高估值的雙重考驗",
-      "url": "https://money.udn.com/money/story/123398/9356104",
-      "source": "money.udn.com",
-      "published": 1772520035
-    },
-    {
-      "id": "22c03e3d9fb9",
-      "title": "路透：台灣推家族辦公室稅賦享優惠有譜 台商資金回流專法2.0入列",
-      "url": "https://money.udn.com/money/story/5599/9356527",
-      "source": "money.udn.com",
-      "published": 1772520003
-    },
-    {
-      "id": "416138a0c152",
-      "title": "伊朗衝突影響擴大 韓媒：美國空襲若超過5周 恐抽調駐韓美軍裝備",
-      "url": "https://money.udn.com/money/story/5599/9356499",
-      "source": "money.udn.com",
-      "published": 1772519267
     },
     {
       "id": "13fc363b7ffd",
@@ -618,13 +632,6 @@
       "published": 1772450370
     },
     {
-      "id": "ef36a6505a34",
-      "title": "霍尔木兹海峡邮轮遭袭，若被封专家：伊朗“无异拿石头砸自己的脚”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260302-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%82%AE%E8%BD%AE%E9%81%AD%E8%A2%AD%EF%BC%8C%E8%8B%A5%E8%A2%AB%E5%B0%81%E4%B8%93%E5%AE%B6-%E4%BC%8A%E6%9C%97-%E6%97%A0%E5%BC%82%E6%8B%BF%E7%9F%B3%E5%A4%B4%E7%A0%B8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%84%9A",
-      "source": "rfi.fr",
-      "published": 1772446756
-    },
-    {
       "id": "7899c4e433a3",
       "title": "1986年来首次！同意美军使用基地后，英军塞浦路斯基地遭无人机袭击",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260302-1986%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1-%E8%8B%B1%E5%86%9B%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%E5%9F%BA%E5%9C%B0%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB",
@@ -840,13 +847,6 @@
       "url": "https://www.dw.com/zh/北京谴责美以：-鼓动政权更迭不可接受/a-76175609?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1772371440
-    },
-    {
-      "id": "bd14b925243f",
-      "title": "铁腕统治者、自封的“真主代理人”：伊朗最高领袖哈梅内伊的一生",
-      "url": "https://www.dw.com/zh/铁腕统治者、自封的-真主代理人-：伊朗最高领袖哈梅内伊的一生/a-76175377?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1772366160
     },
     {
       "id": "f08542663857",
@@ -1304,5 +1304,5 @@
       "published": 1770118800
     }
   ],
-  "build_id": 1772541082
+  "build_id": 1772545851
 }
