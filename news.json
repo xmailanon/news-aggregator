@@ -1,6 +1,41 @@
 {
-  "updated": 1772569273,
+  "updated": 1772571179,
   "items": [
+    {
+      "id": "01c52dc78c54",
+      "title": "油價上揚衝擊通勤城市　沙加緬度民生成本受壓｜細說燊語",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/summer-fuel-switch-adds-to-iran-situation-oil-prices-in-sacramento-may-continue-to-rise/",
+      "source": "singtaousa.com",
+      "published": 1772570450
+    },
+    {
+      "id": "1e88728e6b3c",
+      "title": "王毅與以色列外長通話 促立即停止對伊朗軍事行動",
+      "url": "https://www.singtaousa.com/2026/03/03/news/china/wang-yi-israel-iran-ceasefire-call/",
+      "source": "singtaousa.com",
+      "published": 1772570065
+    },
+    {
+      "id": "7c7cb9d41160",
+      "title": "五角大樓禁用令反助長人氣 AI戰爭可靠性引發質疑",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/news-anthropic-claude-pentagon-dispute-ai-war-ethics-safety/",
+      "source": "singtaousa.com",
+      "published": 1772569989
+    },
+    {
+      "id": "43d82a05c2a8",
+      "title": "中東戰事旅客受困　各國派專機展開撤離行動",
+      "url": "https://money.udn.com/money/story/5599/9357827",
+      "source": "money.udn.com",
+      "published": 1772569858
+    },
+    {
+      "id": "3d31899100fc",
+      "title": "中期選舉初選開戰 德州兩黨內鬥升溫爭奪參院門票",
+      "url": "https://www.singtaousa.com/2026/03/03/news/usa/news-texas-primary-senate-cornyn-crockett-talarico-midterms/",
+      "source": "singtaousa.com",
+      "published": 1772569491
+    },
     {
       "id": "60df3b055f8e",
       "title": "沙加緬度成立跨部門專責小組 聯手打擊郵件盜竊｜細說燊語",
@@ -149,13 +184,6 @@
       "published": 1772564382
     },
     {
-      "id": "6397e4dfb1b7",
-      "title": "習特會前景受考驗　伊朗衝突為中美貿易峰會添變數",
-      "url": "https://www.singtaousa.com/2026/03/03/news/usa/news-us-iran-china-summit-trade-war-truce-uncertainty/",
-      "source": "singtaousa.com",
-      "published": 1772564371
-    },
-    {
       "id": "8abfa5cf69ac",
       "title": "荷莫茲海峽封鎖市場震撼 原油升破85美元 美元指數漲向100",
       "url": "https://money.udn.com/money/story/5599/9357665",
@@ -168,13 +196,6 @@
       "url": "https://money.udn.com/money/story/5599/9357600",
       "source": "money.udn.com",
       "published": 1772563177
-    },
-    {
-      "id": "3969b2503a80",
-      "title": "海關屯門搗破工廈私煙倉庫 檢獲市值675萬元未完稅香煙拘6人",
-      "url": "https://www.singtaousa.com/2026/03/03/news/china/customs-raids-three-illicit-cigarette-warehouses/",
-      "source": "singtaousa.com",
-      "published": 1772562865
     },
     {
       "id": "39822836cff3",
@@ -203,27 +224,6 @@
       "url": "https://money.udn.com/money/story/5599/9357640",
       "source": "money.udn.com",
       "published": 1772562384
-    },
-    {
-      "id": "3aab7e1d4e42",
-      "title": "中東衝突擴大 百艘船舶滯留 塞港憂慮再起",
-      "url": "https://money.udn.com/money/story/5599/9357649",
-      "source": "money.udn.com",
-      "published": 1772561879
-    },
-    {
-      "id": "54980fd32e25",
-      "title": "特朗普抨擊卡爾森與凱利批評伊朗行動 稱「MAGA即特朗普」",
-      "url": "https://www.singtaousa.com/2026/03/03/news/usa/news-trump-tucker-carlson-megyn-kelly-iran-maga-conflict/",
-      "source": "singtaousa.com",
-      "published": 1772561864
-    },
-    {
-      "id": "335bf9a96e58",
-      "title": "西班牙拒絕美國借道攻伊朗，譴責特朗普單邊行動",
-      "url": "https://www.singtaousa.com/2026/03/03/news/world/spain-denies-us-permission-to-use-jointly-operated-bases-to-attack-iran/",
-      "source": "singtaousa.com",
-      "published": 1772561494
     },
     {
       "id": "c87160aee000",
@@ -1276,5 +1276,5 @@
       "published": 1770118800
     }
   ],
-  "build_id": 1772569273
+  "build_id": 1772571179
 }
