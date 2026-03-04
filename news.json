@@ -1,6 +1,132 @@
 {
-  "updated": 1772651355,
+  "updated": 1772654018,
   "items": [
+    {
+      "id": "595bc1edde18",
+      "title": "伊爾艾朗示警 全球恐陷停滯性通膨",
+      "url": "https://money.udn.com/money/story/5599/9360061",
+      "source": "money.udn.com",
+      "published": 1772654310
+    },
+    {
+      "id": "01a817855c12",
+      "title": "委國2月石油出口下滑",
+      "url": "https://money.udn.com/money/story/5599/9360063",
+      "source": "money.udn.com",
+      "published": 1772654227
+    },
+    {
+      "id": "84ee0e80edbb",
+      "title": "澳洲維多利亞省訂居家上班法",
+      "url": "https://money.udn.com/money/story/5599/9360000",
+      "source": "money.udn.com",
+      "published": 1772654173
+    },
+    {
+      "id": "bb7fbcf8c666",
+      "title": "Anthropic 年營收衝200億美元",
+      "url": "https://money.udn.com/money/story/5599/9360001",
+      "source": "money.udn.com",
+      "published": 1772654143
+    },
+    {
+      "id": "99e1870f9030",
+      "title": "越南破產法 復活殭屍企業 拚躋身全球金融中心",
+      "url": "https://money.udn.com/money/story/5599/9359998",
+      "source": "money.udn.com",
+      "published": 1772654108
+    },
+    {
+      "id": "fa5b5a8e0a6b",
+      "title": "軟體商 Palantir  重獲華爾街青睞",
+      "url": "https://money.udn.com/money/story/123398/9359999",
+      "source": "money.udn.com",
+      "published": 1772654012
+    },
+    {
+      "id": "49a7cefc2af7",
+      "title": "1分鐘看世界／馬來西亞政府與安謀協議涉弊 反貪委員會進行調查",
+      "url": "https://money.udn.com/money/story/5599/9360005",
+      "source": "money.udn.com",
+      "published": 1772653919
+    },
+    {
+      "id": "353234795aa2",
+      "title": "以色列空襲鎖定伊朗國家警察機器　為民眾起義鋪路",
+      "url": "https://money.udn.com/money/story/5599/9360245",
+      "source": "money.udn.com",
+      "published": 1772653428
+    },
+    {
+      "id": "24955e43117a",
+      "title": "美財長貝森特：15%關稅本周生效 力拚五個月內回到原先稅率",
+      "url": "https://money.udn.com/money/story/5599/9360066",
+      "source": "money.udn.com",
+      "published": 1772653161
+    },
+    {
+      "id": "7e685a604112",
+      "title": "參院辯論伊朗戰爭決議案 國會首次表決開戰權",
+      "url": "https://www.singtaousa.com/2026/03/04/news/usa/news-senate-iran-war-powers-resolution-trump-hegseth/",
+      "source": "singtaousa.com",
+      "published": 1772653086
+    },
+    {
+      "id": "532fa866f413",
+      "title": "特朗普要用关税报复西班牙拒绝美国使用军事基地，欧盟宣布捍卫自身及成员国的利益",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260304-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E7%94%A8%E5%85%B3%E7%A8%8E%E6%8A%A5%E5%A4%8D%E8%A5%BF%E7%8F%AD%E7%89%99%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%E4%BD%BF%E7%94%A8%E5%86%9B%E4%BA%8B%E5%9F%BA%E5%9C%B0%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%AE%A3%E5%B8%83%E6%8D%8D%E5%8D%AB%E8%87%AA%E8%BA%AB%E5%8F%8A%E6%88%90%E5%91%98%E5%9B%BD%E7%9A%84%E5%88%A9%E7%9B%8A",
+      "source": "rfi.fr",
+      "published": 1772653026
+    },
+    {
+      "id": "43bf47b85c7f",
+      "title": "歐洲亞洲爆新一波能源危機 天然氣價格衝上三年高點 通膨蠢動",
+      "url": "https://money.udn.com/money/story/5599/9360067",
+      "source": "money.udn.com",
+      "published": 1772653009
+    },
+    {
+      "id": "ce30c47635eb",
+      "title": "現金為王 股債金三殺",
+      "url": "https://money.udn.com/money/story/5599/9360069",
+      "source": "money.udn.com",
+      "published": 1772652894
+    },
+    {
+      "id": "932c351a0a97",
+      "title": "香港女足安全撤離杜拜抵達曼谷 預計周六啟程返港",
+      "url": "https://www.singtaousa.com/2026/03/04/news/china/hong-kong-women-football-team-safe-dubai-bangkok/",
+      "source": "singtaousa.com",
+      "published": 1772652861
+    },
+    {
+      "id": "8f18d21cdc7a",
+      "title": "伊朗襲擊導致機場關閉 國務院緊急援助受困美國公民",
+      "url": "https://www.singtaousa.com/2026/03/04/news/usa/news-state-department-stranded-americans-middle-east-iran-war/",
+      "source": "singtaousa.com",
+      "published": 1772652707
+    },
+    {
+      "id": "f1db916f26f3",
+      "title": "川普喊護航油輪 仍未緩解市場憂慮 油價照漲布蘭特一度漲到84美元",
+      "url": "https://money.udn.com/money/story/5599/9360068",
+      "source": "money.udn.com",
+      "published": 1772652606
+    },
+    {
+      "id": "0f510c9ff726",
+      "title": "特朗普貿易威脅奏效 白宮稱西班牙態度軟化 同意合作美軍中東行動",
+      "url": "https://www.singtaousa.com/2026/03/04/news/world/white-house-claims-that-spain-has-agreed-to-cooperate-with-us-operations-in-mideast/",
+      "source": "singtaousa.com",
+      "published": 1772652115
+    },
+    {
+      "id": "57984a4ae7c2",
+      "title": "印度向法國提議共研六代戰機，同時推銷國產「皮納卡」火箭系統",
+      "url": "https://www.singtaousa.com/2026/03/04/news/world/india-pitches-to-join-future-combat-air-system-with-france/",
+      "source": "singtaousa.com",
+      "published": 1772651493
+    },
     {
       "id": "dea64b3d4fce",
       "title": "傳哈米尼之子將接班 川普談最壞情況 政權更替落空",
@@ -86,46 +212,11 @@
       "published": 1772647462
     },
     {
-      "id": "f79c8b836951",
-      "title": "伊朗衝突推高油價 恐引發選民對經濟不滿",
-      "url": "https://www.singtaousa.com/2026/03/04/news/usa/news-economy-gas-prices-iran-strikes-trump/",
-      "source": "singtaousa.com",
-      "published": 1772647248
-    },
-    {
-      "id": "a6c3c4da5d30",
-      "title": "《東周刊》直擊拉姑做軍師 棄譚輝智力捧張與辰做一哥",
-      "url": "https://www.singtaousa.com/2026/03/04/entertainment/tai-pak-cheung-yu-chan-successor/",
-      "source": "singtaousa.com",
-      "published": 1772647200
-    },
-    {
-      "id": "6cd50a952ad6",
-      "title": "美防長稱無法攔截伊朗所有攻擊 但已掌控空域",
-      "url": "https://www.singtaousa.com/2026/03/04/news/usa/news-pentagon-iran-airstrikes-defense-hegseth-trump/",
-      "source": "singtaousa.com",
-      "published": 1772646174
-    },
-    {
       "id": "35e3881dba01",
-      "title": "美军击毙欲暗杀总统的伊朗官员 特朗普谈战局：若接班人“同样糟糕”可能是最坏情况！",
+      "title": "美军击毙欲暗杀总统的伊朗官员 特朗普谈战局：若哈梅内伊接班人“同样糟糕”可能是最坏情况！",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260304-%E7%BE%8E%E5%86%9B%E5%87%BB%E6%AF%99%E6%AC%B2%E6%9A%97%E6%9D%80%E6%80%BB%E7%BB%9F%E7%9A%84%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98-%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E6%88%98%E5%B1%80-%E8%8B%A5%E6%8E%A5%E7%8F%AD%E4%BA%BA-%E5%90%8C%E6%A0%B7%E7%B3%9F%E7%B3%95-%E5%8F%AF%E8%83%BD%E6%98%AF%E6%9C%80%E5%9D%8F%E6%83%85%E5%86%B5",
       "source": "rfi.fr",
       "published": 1772645948
-    },
-    {
-      "id": "4339e84cd3dd",
-      "title": "中東局勢緊張 滯留港人平安返港",
-      "url": "https://www.singtaousa.com/2026/03/04/news/china/iran-situation-hongkongers-return-safely/",
-      "source": "singtaousa.com",
-      "published": 1772645664
-    },
-    {
-      "id": "a78c4d381ce4",
-      "title": "德州參院初選進入決選 共和黨內鬥恐愈演愈烈",
-      "url": "https://www.singtaousa.com/2026/03/04/news/usa/news-texas-senate-runoff-cornyn-paxton/",
-      "source": "singtaousa.com",
-      "published": 1772645488
     },
     {
       "id": "b5b30499c6f9",
@@ -149,46 +240,11 @@
       "published": 1772644935
     },
     {
-      "id": "c63eb1d772b7",
-      "title": "印度街頭彩粉四射　歡慶繽紛荷麗節",
-      "url": "https://money.udn.com/money/story/5599/9360128",
-      "source": "money.udn.com",
-      "published": 1772644720
-    },
-    {
       "id": "fec1b038cc1e",
       "title": "2万美元廉价无人机与400万美元昂贵拦截弹，哪个先耗尽或决定中东战局",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260304-2%E4%B8%87%E7%BE%8E%E5%85%83%E5%BB%89%E4%BB%B7%E6%97%A0%E4%BA%BA%E6%9C%BA%E4%B8%8E400%E4%B8%87%E7%BE%8E%E5%85%83%E6%98%82%E8%B4%B5%E6%8B%A6%E6%88%AA%E5%BC%B9%EF%BC%8C%E5%93%AA%E4%B8%AA%E5%85%88%E8%80%97%E5%B0%BD%E6%88%96%E5%86%B3%E5%AE%9A%E4%B8%AD%E4%B8%9C%E6%88%98%E5%B1%80",
       "source": "rfi.fr",
       "published": 1772641739
-    },
-    {
-      "id": "4b404afaa4a0",
-      "title": "伊朗無人機襲擊在美國駐杜拜領館附近造成火情",
-      "url": "https://money.udn.com/money/story/5599/9357900",
-      "source": "money.udn.com",
-      "published": 1772641071
-    },
-    {
-      "id": "433f9f9ad9a2",
-      "title": "油價企穩 交易員評估美國對途徑荷姆茲海峽船隻的護航和保險計畫",
-      "url": "https://money.udn.com/money/story/5599/9357935",
-      "source": "money.udn.com",
-      "published": 1772640772
-    },
-    {
-      "id": "605db818d934",
-      "title": "是以色列迫使美國出手？盧比歐為對伊行動提出的最新理由引發反彈",
-      "url": "https://money.udn.com/money/story/5599/9357993",
-      "source": "money.udn.com",
-      "published": 1772640479
-    },
-    {
-      "id": "1c8fdd579b49",
-      "title": "法國派航母赴地中海 保障歐洲經濟利益",
-      "url": "https://money.udn.com/money/story/5599/9357994",
-      "source": "money.udn.com",
-      "published": 1772640060
     },
     {
       "id": "997c36b49900",
@@ -205,20 +261,6 @@
       "published": 1772639940
     },
     {
-      "id": "c4a38e708603",
-      "title": "高盛董事長稱市場迄今為止對中東戰火的反應尚屬「溫和」",
-      "url": "https://money.udn.com/money/story/5599/9358044",
-      "source": "money.udn.com",
-      "published": 1772638663
-    },
-    {
-      "id": "7327da78fc02",
-      "title": "多家銀行表示遭「風險價值衝擊」的韓元料面臨進一步下跌",
-      "url": "https://money.udn.com/money/story/5599/9358277",
-      "source": "money.udn.com",
-      "published": 1772638339
-    },
-    {
       "id": "d9b94c3aa562",
       "title": "德语媒体：科技自主压倒一切",
       "url": "https://www.dw.com/zh/德语媒体：科技自主压倒一切/a-76217357?maca=chi-rss-chi-all-1127-rdf",
@@ -226,22 +268,8 @@
       "published": 1772638020
     },
     {
-      "id": "557c6540e785",
-      "title": "傳伊朗私下向美國尋求談判　美股開盤上漲",
-      "url": "https://money.udn.com/money/story/123398/9360096",
-      "source": "money.udn.com",
-      "published": 1772637855
-    },
-    {
-      "id": "97ebf058229c",
-      "title": "英西不挺攻伊 川普惱怒",
-      "url": "https://money.udn.com/money/story/5599/9357882",
-      "source": "money.udn.com",
-      "published": 1772637106
-    },
-    {
       "id": "2daaec30a518",
-      "title": "伊媒：哈梅内伊告别式因吊唁者过多推迟 已确定几名候选人接班 穆杰塔巴“最有可能”",
+      "title": "伊媒：哈梅内伊告别式因吊唁者过多推迟 已确定几名候选人 穆杰塔巴“最有可能”",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260304-%E4%BC%8A%E5%AA%92-%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%91%8A%E5%88%AB%E5%BC%8F%E5%9B%A0%E5%90%8A%E5%94%81%E8%80%85%E8%BF%87%E5%A4%9A%E6%8E%A8%E8%BF%9F-%E5%B7%B2%E7%A1%AE%E5%AE%9A%E5%87%A0%E5%90%8D%E5%80%99%E9%80%89%E4%BA%BA%E6%8E%A5%E7%8F%AD-%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E6%9C%80%E6%9C%89%E5%8F%AF%E8%83%BD",
       "source": "rfi.fr",
       "published": 1772637048
@@ -254,32 +282,11 @@
       "published": 1772636963
     },
     {
-      "id": "9a7fdca4c705",
-      "title": "黑石高層據悉自掏腰包 應對旗艦級基金 BCRED 的贖回壓力",
-      "url": "https://money.udn.com/money/story/5599/9358278",
-      "source": "money.udn.com",
-      "published": 1772636488
-    },
-    {
       "id": "f6a69c223f04",
       "title": "距离2026足球世界杯不足百日，伊朗国足去还是不去？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E4%BD%93%E8%82%B2/20260304-%E8%B7%9D%E7%A6%BB2026%E8%B6%B3%E7%90%83%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8D%E8%B6%B3%E7%99%BE%E6%97%A5%EF%BC%8C%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E5%8E%BB%E8%BF%98%E6%98%AF%E4%B8%8D%E5%8E%BB",
       "source": "rfi.fr",
       "published": 1772636340
-    },
-    {
-      "id": "50cb195768e5",
-      "title": "美元勢創近一年來最大兩日漲幅 通膨憂慮高企且降息預期降溫",
-      "url": "https://money.udn.com/money/story/5599/9358281",
-      "source": "money.udn.com",
-      "published": 1772636213
-    },
-    {
-      "id": "8028968478c6",
-      "title": "惠譽將印尼評級展望下調至負面 反映政策不確定性增加",
-      "url": "https://money.udn.com/money/story/5599/9359482",
-      "source": "money.udn.com",
-      "published": 1772636019
     },
     {
       "id": "19cf476d9a76",
@@ -546,13 +553,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%85%AC%E6%B0%91%E8%AE%BA%E5%9D%9B/20260303-%E6%B3%95%E5%9B%BD%E5%AD%A6%E8%80%85%E5%BC%A0%E4%BC%A6-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E7%9A%84%E9%87%8D%E8%A6%81%E8%83%8C%E6%99%AF%E4%B8%8E%E4%B8%AD%E7%BE%8E%E5%8D%9A%E5%BC%88%E6%9C%89%E5%85%B3",
       "source": "rfi.fr",
       "published": 1772576674
-    },
-    {
-      "id": "185cf2cd8167",
-      "title": "霍尔木兹海峡受阻：美军或护航油轮 马克龙推动组建联盟 保障海上通道安全",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260303-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%8F%97%E9%98%BB-%E7%BE%8E%E5%86%9B%E6%88%96%E6%8A%A4%E8%88%AA%E6%B2%B9%E8%BD%AE-%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8E%A8%E5%8A%A8%E7%BB%84%E5%BB%BA%E8%81%94%E7%9B%9F-%E4%BF%9D%E9%9A%9C%E6%B5%B7%E4%B8%8A%E9%80%9A%E9%81%93%E5%AE%89%E5%85%A8",
-      "source": "rfi.fr",
-      "published": 1772576626
     },
     {
       "id": "708fce464178",
@@ -1290,5 +1290,5 @@
       "published": 1770118800
     }
   ],
-  "build_id": 1772651355
+  "build_id": 1772654018
 }
