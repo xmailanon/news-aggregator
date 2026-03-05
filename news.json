@@ -1,6 +1,34 @@
 {
-  "updated": 1772740938,
+  "updated": 1772744221,
   "items": [
+    {
+      "id": "d7722fb55232",
+      "title": "特朗普繞過最高法院祭15%全球關稅 逾20州聯手告上法庭",
+      "url": "https://www.singtaousa.com/2026/03/05/news/usa/more-than-20-states-sue-over-new-global-tariffs-trump-imposed-after-his-stinging-supreme-court-loss/",
+      "source": "singtaousa.com",
+      "published": 1772744089
+    },
+    {
+      "id": "045ef580cbb8",
+      "title": "諾姆遭開除！川普宣布共和黨參議員任新國土安全部長",
+      "url": "https://money.udn.com/money/story/5599/9362760",
+      "source": "money.udn.com",
+      "published": 1772743911
+    },
+    {
+      "id": "178e094e50fb",
+      "title": "河北9歲女童泰國學泳曬黑 返滬過關被問是否中國人",
+      "url": "https://www.singtaousa.com/2026/03/05/news/china/chocolate-girl-thailand-training-customs-question/",
+      "source": "singtaousa.com",
+      "published": 1772742862
+    },
+    {
+      "id": "41f27f2b98c0",
+      "title": "美伊戰火衝擊全球 美國關閉駐科威特大使館 華爾街暴跌逾千點",
+      "url": "https://www.singtaousa.com/2026/03/05/news/world/live-updates-us-closes-its-embassy-in-kuwait-as-iran-war-escalates/",
+      "source": "singtaousa.com",
+      "published": 1772742819
+    },
     {
       "id": "9f5178308c6c",
       "title": "習近平參加江蘇團審議 強調經濟大省須練好內功穩大盤",
@@ -45,7 +73,7 @@
     },
     {
       "id": "241e88dd72b9",
-      "title": "突發特朗普宣布撤換國土安全部長諾姆 提名共和黨參議員穆林接任",
+      "title": "特朗普宣布撤換國土安全部長諾姆 提名共和黨參議員穆林接任",
       "url": "https://www.singtaousa.com/2026/03/05/news/usa/trump-homeland-security-noem-mullin/",
       "source": "singtaousa.com",
       "published": 1772737742
@@ -142,32 +170,11 @@
       "published": 1772734158
     },
     {
-      "id": "a0ba2ad81259",
-      "title": "北角女子家中暈倒昏迷 送院搶救",
-      "url": "https://www.singtaousa.com/2026/03/05/news/china/north-point-woman-faints-at-home/",
-      "source": "singtaousa.com",
-      "published": 1772733867
-    },
-    {
-      "id": "9b0a7ac9db4c",
-      "title": "華府劃紅線！美國防部副部長明言反對波蘭、德國發展獨立核武",
-      "url": "https://www.singtaousa.com/2026/03/05/news/world/usa-strongly-opposes-poland-developing-nuclear-capabilities/",
-      "source": "singtaousa.com",
-      "published": 1772733720
-    },
-    {
       "id": "1cfd5b886b7c",
       "title": "能源緊張 卡達關天然氣產線 航運業大買石油選擇權避險",
       "url": "https://money.udn.com/money/story/5599/9362541",
       "source": "money.udn.com",
       "published": 1772732205
-    },
-    {
-      "id": "c876c418b9e5",
-      "title": "厄瓜多爾驅逐古巴大使 限48小時內離境",
-      "url": "https://www.singtaousa.com/2026/03/05/news/world/ecuador-expels-cuban-ambassador-gives-48-hours-to-leave/",
-      "source": "singtaousa.com",
-      "published": 1772732132
     },
     {
       "id": "af4a0c4c5319",
@@ -294,13 +301,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260305-%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E7%A7%B0%E4%B8%8E%E5%9F%BA%E8%BE%85%E5%B0%86%E4%BA%A4%E6%8D%A2500%E5%90%8D%E6%88%98%E4%BF%98",
       "source": "rfi.fr",
       "published": 1772720916
-    },
-    {
-      "id": "5b1aa4550fb9",
-      "title": "坐擁16噸黃金的印度大亨稱金價還會漲 地緣政治和經濟風險使然",
-      "url": "https://money.udn.com/money/story/5599/9361238",
-      "source": "money.udn.com",
-      "published": 1772720682
     },
     {
       "id": "de01b160b980",
@@ -1276,5 +1276,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1772740938
+  "build_id": 1772744221
 }
