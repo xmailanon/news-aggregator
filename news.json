@@ -1,6 +1,27 @@
 {
-  "updated": 1772817938,
+  "updated": 1772819777,
   "items": [
+    {
+      "id": "4e8aac955da3",
+      "title": "伊朗政权在遭战争损失和最高领袖哈梅内伊去世后如何依然屹立不倒",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260306-%E4%BC%8A%E6%9C%97%E6%94%BF%E6%9D%83%E5%9C%A8%E9%81%AD%E5%8F%97%E6%8D%9F%E5%A4%B1%E5%92%8C%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%8E%BB%E4%B8%96%E5%90%8E%E5%A6%82%E4%BD%95%E4%BE%9D%E7%84%B6%E5%B1%B9%E7%AB%8B%E4%B8%8D%E5%80%92",
+      "source": "rfi.fr",
+      "published": 1772818681
+    },
+    {
+      "id": "287ce19b1c7a",
+      "title": "伊朗警告庫爾德武裝停止滲透 60艘法國貨船滯留中東",
+      "url": "https://www.singtaousa.com/2026/03/06/news/world/iran-warns-kurdish-forces-to-stop-infiltration-60-french-cargo-ships-stranded-in-middle-east/",
+      "source": "singtaousa.com",
+      "published": 1772818587
+    },
+    {
+      "id": "8d530cf75947",
+      "title": "憂原油供應恐持續中斷　西德州中級原油價飆漲逾11%",
+      "url": "https://money.udn.com/money/story/5599/9364879",
+      "source": "money.udn.com",
+      "published": 1772818221
+    },
     {
       "id": "00a69bd737d3",
       "title": "波灣原油斷供 油價衝90美元 卡達示警原油出口恐中斷好幾周",
@@ -219,13 +240,6 @@
       "published": 1772809200
     },
     {
-      "id": "f603f579e22d",
-      "title": "衛詩雅 盲撐陳家樂爭影帝",
-      "url": "https://www.singtaousa.com/2026/03/06/entertainment/nicole-wu-cheung-ka-lok-best-actor/",
-      "source": "singtaousa.com",
-      "published": 1772809200
-    },
-    {
       "id": "9994ee861fa9",
       "title": "战争第七日以军空袭启动“新阶段”  特朗普：除非无条件投降 别无协议可能",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260306-%E6%88%98%E4%BA%89%E7%AC%AC%E4%B8%83%E6%97%A5%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%90%AF%E5%8A%A8-%E6%96%B0%E9%98%B6%E6%AE%B5-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%99%A4%E9%9D%9E%E6%97%A0%E6%9D%A1%E4%BB%B6%E6%8A%95%E9%99%8D-%E5%88%AB%E6%97%A0%E5%8D%8F%E8%AE%AE%E5%8F%AF%E8%83%BD",
@@ -287,13 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9363398",
       "source": "money.udn.com",
       "published": 1772807760
-    },
-    {
-      "id": "975c1b36968b",
-      "title": "富貴險中求? 想買便宜點的黃金 或許可以考慮去杜拜",
-      "url": "https://money.udn.com/money/story/5599/9364608",
-      "source": "money.udn.com",
-      "published": 1772807466
     },
     {
       "id": "c5e81e11408f",
@@ -511,13 +518,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260305-%E4%B8%A4%E4%BC%9A%E5%BC%80%E5%B9%95-%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%96%B9%E4%BB%A3%E8%A1%A8%E6%9C%80%E5%B0%B4%E5%B0%AC",
       "source": "rfi.fr",
       "published": 1772749593
-    },
-    {
-      "id": "c33e7a4ed6c9",
-      "title": "中东战事持续　国际油价创近两年新高",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260305-%E4%B8%AD%E4%B8%9C%E6%88%98%E4%BA%8B%E6%8C%81%E7%BB%AD-%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%88%9B%E8%BF%91%E4%B8%A4%E5%B9%B4%E6%96%B0%E9%AB%98",
-      "source": "rfi.fr",
-      "published": 1772747097
     },
     {
       "id": "9a76eaec71ce",
@@ -1276,5 +1276,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1772817938
+  "build_id": 1772819777
 }
