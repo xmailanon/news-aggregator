@@ -1,12 +1,33 @@
 {
-  "updated": 1772902016,
+  "updated": 1772903512,
   "items": [
+    {
+      "id": "bf706b3a665e",
+      "title": "So Ching客串音樂劇  孖Kakit驚喜共舞",
+      "url": "https://www.singtaousa.com/2026/03/07/entertainment/so-ching-kakit-musical-dance/",
+      "source": "singtaousa.com",
+      "published": 1772902800
+    },
     {
       "id": "2d228a16743d",
       "title": "​​伊朗總統釋放停火信號後再射導彈 特朗普威脅將「徹底摧毀」",
       "url": "https://www.singtaousa.com/2026/03/07/news/world/iran-sends-first-significant-message-of-de-escalation-but-with-a-major-caveat/",
       "source": "singtaousa.com",
       "published": 1772901288
+    },
+    {
+      "id": "b15efba8bcdb",
+      "title": "講錯就超尷尬！那天我竟然叫客戶「脫光衣服」...5句講錯會很失禮的英文",
+      "url": "https://money.udn.com/money/story/5601/9267535",
+      "source": "money.udn.com",
+      "published": 1772900204
+    },
+    {
+      "id": "ec3426884b44",
+      "title": "這樣用「Please」反而不禮貌，或是不專業？英文的「Please」其實是把雙面刃",
+      "url": "https://money.udn.com/money/story/5601/9180305",
+      "source": "money.udn.com",
+      "published": 1772899883
     },
     {
       "id": "142384664a02",
@@ -21,6 +42,13 @@
       "url": "https://money.udn.com/money/story/122979/9308890",
       "source": "money.udn.com",
       "published": 1772899392
+    },
+    {
+      "id": "b9aef156f198",
+      "title": "「您先忙」，說成You go busy first.外國人聽不懂",
+      "url": "https://money.udn.com/money/story/5601/9048892",
+      "source": "money.udn.com",
+      "published": 1772899224
     },
     {
       "id": "a109ef0cc8e6",
@@ -149,13 +177,6 @@
       "published": 1772892000
     },
     {
-      "id": "8936fc728105",
-      "title": "Nike重整求生   裁員費用落在Q3",
-      "url": "https://www.singtaousa.com/2026/03/07/news/usa/nike-restructures-cuts-costs/",
-      "source": "singtaousa.com",
-      "published": 1772892000
-    },
-    {
       "id": "3f1f4eb7770d",
       "title": "肯亞首都遭暴洪侵襲　至少23人喪命",
       "url": "https://money.udn.com/money/story/5599/9365981",
@@ -247,32 +268,11 @@
       "published": 1772884860
     },
     {
-      "id": "b215cd588ba0",
-      "title": "川普：美以猛攻之下 伊朗向中東鄰國「投降」",
-      "url": "https://money.udn.com/money/story/5599/9365894",
-      "source": "money.udn.com",
-      "published": 1772884064
-    },
-    {
-      "id": "9a8e131c7d56",
-      "title": "AI世代與台灣合作擁利多　立委盼印度增投資誘因",
-      "url": "https://money.udn.com/money/story/5599/9365877",
-      "source": "money.udn.com",
-      "published": 1772883411
-    },
-    {
       "id": "f954f605caa3",
       "title": "法国年3月15日起举行市政选举，将对未来的总统选举和立法选举带来前瞻性民意信息",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260307-%E6%B3%95%E5%9B%BD%E5%B9%B43%E6%9C%8815%E6%97%A5%E8%B5%B7%E4%B8%BE%E8%A1%8C%E5%B8%82%E6%94%BF%E9%80%89%E4%B8%BE%EF%BC%8C%E5%B0%86%E5%AF%B9%E6%9C%AA%E6%9D%A5%E7%9A%84%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E5%92%8C%E7%AB%8B%E6%B3%95%E9%80%89%E4%B8%BE%E5%B8%A6%E6%9D%A5%E5%89%8D%E7%9E%BB%E6%80%A7%E6%B0%91%E6%84%8F%E4%BF%A1%E6%81%AF",
       "source": "rfi.fr",
       "published": 1772882919
-    },
-    {
-      "id": "680d9a3b3dc4",
-      "title": "中東陷戰火金價反下跌 「川普交易」沒戲唱了？",
-      "url": "https://money.udn.com/money/story/122381/9365173",
-      "source": "money.udn.com",
-      "published": 1772881967
     },
     {
       "id": "d3db30809b67",
@@ -1297,5 +1297,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1772902016
+  "build_id": 1772903512
 }
