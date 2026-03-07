@@ -1,6 +1,27 @@
 {
-  "updated": 1772909580,
+  "updated": 1772910795,
   "items": [
+    {
+      "id": "34e80f4cc14c",
+      "title": "西高山郊遊男子突感不適 警方出動無人機高效定位救援",
+      "url": "https://www.singtaousa.com/2026/03/07/news/china/hiker-dizzy-police-drone-rescue/",
+      "source": "singtaousa.com",
+      "published": 1772910266
+    },
+    {
+      "id": "578d84bfc0ea",
+      "title": "Britney涉醉駕被捕  激動爆喊",
+      "url": "https://www.singtaousa.com/2026/03/07/entertainment/britney-spears-arrested-for-drunk-driving/",
+      "source": "singtaousa.com",
+      "published": 1772910000
+    },
+    {
+      "id": "123b78d9f948",
+      "title": "費半暴跌 台積 ADR 重挫 本周聚焦中東戰事發展、能源供應衝擊",
+      "url": "https://money.udn.com/money/story/123398/9366098",
+      "source": "money.udn.com",
+      "published": 1772909408
+    },
     {
       "id": "06ed3e2bede1",
       "title": "研究表明：夏令時對我們的健康有害 為什麼至今仍未改變？",
@@ -84,6 +105,13 @@
       "url": "https://www.singtaousa.com/2026/03/07/news/world/soham-murderer-ian-huntley-dies-after-prison-attack/",
       "source": "singtaousa.com",
       "published": 1772907102
+    },
+    {
+      "id": "113f5bb61647",
+      "title": "美國中部龍捲風肆虐，密西根與俄州房屋遭撕碎釀8死",
+      "url": "https://www.singtaousa.com/2026/03/07/news/usa/severe-storms-that-spawned-destructive-tornadoes-leave-8-dead-across-the-central-us-cnn/",
+      "source": "singtaousa.com",
+      "published": 1772907095
     },
     {
       "id": "36c657f131ed",
@@ -170,32 +198,11 @@
       "published": 1772905569
     },
     {
-      "id": "939597af16fb",
-      "title": "九龍城一樓一鳳單位發生持刀行劫案 疑犯掠走500元現金",
-      "url": "https://www.singtaousa.com/2026/03/07/news/china/kowloon-city-sex-worker-robbed-knife/",
-      "source": "singtaousa.com",
-      "published": 1772904865
-    },
-    {
       "id": "3bd6650a1863",
       "title": "阿聯元首首談伊朗攻擊　稱國家安好、絕非易與之輩",
       "url": "https://money.udn.com/money/story/5599/9366182",
       "source": "money.udn.com",
       "published": 1772904083
-    },
-    {
-      "id": "bf706b3a665e",
-      "title": "So Ching客串音樂劇  孖Kakit驚喜共舞",
-      "url": "https://www.singtaousa.com/2026/03/07/entertainment/so-ching-kakit-musical-dance/",
-      "source": "singtaousa.com",
-      "published": 1772902800
-    },
-    {
-      "id": "2d228a16743d",
-      "title": "​​伊朗總統釋放停火信號後再射導彈 特朗普威脅將「徹底摧毀」",
-      "url": "https://www.singtaousa.com/2026/03/07/news/world/iran-sends-first-significant-message-of-de-escalation-but-with-a-major-caveat/",
-      "source": "singtaousa.com",
-      "published": 1772901288
     },
     {
       "id": "b15efba8bcdb",
@@ -231,13 +238,6 @@
       "url": "https://money.udn.com/money/story/5601/9048892",
       "source": "money.udn.com",
       "published": 1772899224
-    },
-    {
-      "id": "925af4aa2a57",
-      "title": "華郵：美陸軍精銳空降隊司令部取消訓練　引發出兵中東揣測",
-      "url": "https://money.udn.com/money/story/5599/9366146",
-      "source": "money.udn.com",
-      "published": 1772898866
     },
     {
       "id": "184f9eab1570",
@@ -1297,5 +1297,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1772909580
+  "build_id": 1772910795
 }
