@@ -1,6 +1,20 @@
 {
-  "updated": 1772903512,
+  "updated": 1772905337,
   "items": [
+    {
+      "id": "939597af16fb",
+      "title": "九龍城一樓一鳳單位發生持刀行劫案 疑犯掠走500元現金",
+      "url": "https://www.singtaousa.com/2026/03/07/news/china/kowloon-city-sex-worker-robbed-knife/",
+      "source": "singtaousa.com",
+      "published": 1772904865
+    },
+    {
+      "id": "3bd6650a1863",
+      "title": "阿聯元首首談伊朗攻擊　稱國家安好、絕非易與之輩",
+      "url": "https://money.udn.com/money/story/5599/9366182",
+      "source": "money.udn.com",
+      "published": 1772904083
+    },
     {
       "id": "bf706b3a665e",
       "title": "So Ching客串音樂劇  孖Kakit驚喜共舞",
@@ -142,6 +156,20 @@
       "published": 1772892720
     },
     {
+      "id": "61842e697128",
+      "title": "雪梨海灘「胖胎車」之亂：青少年非法改裝橫行，急診室重傷飆升350%",
+      "url": "https://www.singtaousa.com/2026/03/07/news/world/australia-fatbikes-are-wreaking-havoc-in-sydneys-wealthy-beach-suburbs/",
+      "source": "singtaousa.com",
+      "published": 1772892705
+    },
+    {
+      "id": "9225313bab79",
+      "title": "伊朗戰爭AI假影片氾濫，創作者藉X平台流量變現成「印鈔機」",
+      "url": "https://www.singtaousa.com/2026/03/07/news/world/ai-generated-iran-war-videos-surge-as-creators-use-new-tech-to-cash-in/",
+      "source": "singtaousa.com",
+      "published": 1772892698
+    },
+    {
       "id": "989d345d042b",
       "title": "邁威爾業績亮眼股價大漲",
       "url": "https://www.singtaousa.com/2026/03/07/news/usa/marvell-q4-earnings-beat-ai-demand/",
@@ -152,27 +180,6 @@
       "id": "90ee499e7d4b",
       "title": "甲骨文與OpenAI放棄德州數據中心擴建計劃",
       "url": "https://www.singtaousa.com/2026/03/07/news/usa/oracle-openai-drop-texas-data-center-expansion/",
-      "source": "singtaousa.com",
-      "published": 1772892000
-    },
-    {
-      "id": "dfc3859f365e",
-      "title": "Wedbush看好蘋果   上調目標價",
-      "url": "https://www.singtaousa.com/2026/03/07/news/usa/apple-target-price-raised/",
-      "source": "singtaousa.com",
-      "published": 1772892000
-    },
-    {
-      "id": "0c3a29955bf0",
-      "title": "亞馬遜推AI平台   改善患者就醫服務",
-      "url": "https://www.singtaousa.com/2026/03/07/news/usa/amazon-ai-platform-improves-patient-care/",
-      "source": "singtaousa.com",
-      "published": 1772892000
-    },
-    {
-      "id": "8c976bbcc80a",
-      "title": "Costco季度利潤超預期",
-      "url": "https://www.singtaousa.com/2026/03/07/news/usa/costco-quarterly-profit-beats-expectations/",
       "source": "singtaousa.com",
       "published": 1772892000
     },
@@ -252,13 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9365915",
       "source": "money.udn.com",
       "published": 1772886080
-    },
-    {
-      "id": "d09599c4e842",
-      "title": "殺紅眼了？川普：美國將考慮攻擊伊朗未被列為目標過的地區和人民",
-      "url": "https://money.udn.com/money/story/5599/9365908",
-      "source": "money.udn.com",
-      "published": 1772885539
     },
     {
       "id": "4159b2347ef2",
@@ -1297,5 +1297,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1772903512
+  "build_id": 1772905337
 }
