@@ -1,6 +1,20 @@
 {
-  "updated": 1773011582,
+  "updated": 1773013337,
   "items": [
+    {
+      "id": "0f3db8238b67",
+      "title": "美伊戰火推升油價飆破110美元 美股道瓊期指重挫800點",
+      "url": "https://money.udn.com/money/story/123398/9367607",
+      "source": "money.udn.com",
+      "published": 1773012906
+    },
+    {
+      "id": "423a600c3894",
+      "title": "國際油價飆破每桶100美元近4年首見！川普強硬表態了",
+      "url": "https://money.udn.com/money/story/5599/9367602",
+      "source": "money.udn.com",
+      "published": 1773012456
+    },
     {
       "id": "2172cc0ec4f5",
       "title": "本周開盤前 五件國際事不可不知",
@@ -310,18 +324,11 @@
       "published": 1772991782
     },
     {
-      "id": "55278910a836",
-      "title": "歷史經驗顯示 美換夏令時間 股市隔日下挫",
-      "url": "https://money.udn.com/money/story/123398/9367356",
-      "source": "money.udn.com",
-      "published": 1772991757
-    },
-    {
-      "id": "d96848b19942",
-      "title": "日拚晶片銷售訂「八倍」目標 2040年前要衝上40兆日圓",
-      "url": "https://money.udn.com/money/story/5599/9367341",
-      "source": "money.udn.com",
-      "published": 1772991714
+      "id": "6e8f658e1e8a",
+      "title": "英外交大臣捍卫不参与对伊朗开战决定",
+      "url": "https://www.ftchinese.com/story/001109136",
+      "source": "ftchinese.com",
+      "published": 1772985600
     },
     {
       "id": "e3a24641499a",
@@ -796,13 +803,6 @@
       "id": "52e2a6bef47b",
       "title": "《夜王》：世界艰难，我哋照行",
       "url": "https://www.ftchinese.com/story/001109117",
-      "source": "ftchinese.com",
-      "published": 1772726400
-    },
-    {
-      "id": "ae1032bf1b5a",
-      "title": "美国伊朗冲突，走向何方",
-      "url": "https://www.ftchinese.com/story/001109115",
       "source": "ftchinese.com",
       "published": 1772726400
     },
@@ -1297,5 +1297,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1773011582
+  "build_id": 1773013337
 }
