@@ -1,6 +1,20 @@
 {
-  "updated": 1772964851,
+  "updated": 1772966806,
   "items": [
+    {
+      "id": "5de2bb191491",
+      "title": "伊朗專家會議選定新領袖接班人　以色列放話繼續追殺",
+      "url": "https://money.udn.com/money/story/5599/9367031",
+      "source": "money.udn.com",
+      "published": 1772965827
+    },
+    {
+      "id": "1be575809ec3",
+      "title": "路透：沙烏地警告伊朗勿再攻擊　否則展開報復",
+      "url": "https://money.udn.com/money/story/5599/9367023",
+      "source": "money.udn.com",
+      "published": 1772965281
+    },
     {
       "id": "035c16ca8092",
       "title": "王毅兩會談伊朗局勢 強調「拳頭硬不等於道理硬」",
@@ -9,8 +23,15 @@
       "published": 1772964266
     },
     {
+      "id": "f0a0e1fd16b9",
+      "title": "中东战况：德黑兰油库起火  伊朗再袭海湾国家",
+      "url": "https://www.dw.com/zh/中东战况：德黑兰油库起火-伊朗再袭海湾国家/a-76266659?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1772964180
+    },
+    {
       "id": "395167bcf708",
-      "title": "伊朗飛彈來襲　以色列各地防空警報大作",
+      "title": "伊朗飛彈來襲 以色列各地防空警報大作",
       "url": "https://money.udn.com/money/story/5599/9367009",
       "source": "money.udn.com",
       "published": 1772964094
@@ -280,20 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9366659",
       "source": "money.udn.com",
       "published": 1772945357
-    },
-    {
-      "id": "b10e5778ed36",
-      "title": "阿根廷車禍喪妻 台灣整脊師38年後捐救護車回饋醫院",
-      "url": "https://money.udn.com/money/story/5599/9366652",
-      "source": "money.udn.com",
-      "published": 1772945139
-    },
-    {
-      "id": "6864895b9312",
-      "title": "美駐奧斯陸大使館爆炸未傳傷亡 警方：疑人為事件",
-      "url": "https://money.udn.com/money/story/5599/9366641",
-      "source": "money.udn.com",
-      "published": 1772944722
     },
     {
       "id": "86a6a1960545",
@@ -1129,13 +1136,6 @@
       "published": 1772295600
     },
     {
-      "id": "763662f671d7",
-      "title": "专访：以关税应对中国产能过剩",
-      "url": "https://www.dw.com/zh/专访：以关税应对中国产能过剩/a-76155597?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1772206680
-    },
-    {
       "id": "367d9fe8ff97",
       "title": "德语媒体：成功的访华之行",
       "url": "https://www.dw.com/zh/德语媒体：成功的访华之行/a-76155503?maca=chi-rss-chi-all-1127-rdf",
@@ -1290,5 +1290,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1772964851
+  "build_id": 1772966806
 }
