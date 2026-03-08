@@ -1,9 +1,16 @@
 {
-  "updated": 1773004380,
+  "updated": 1773006108,
   "items": [
     {
+      "id": "b37ce40b3ebc",
+      "title": "美以开战伊朗：美军阵亡添一人 以军首度有士兵阵亡",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260308-%E7%BE%8E%E4%BB%A5%E5%BC%80%E6%88%98%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%86%9B%E9%98%B5%E4%BA%A1%E6%B7%BB%E4%B8%80%E4%BA%BA-%E4%BB%A5%E5%86%9B%E9%A6%96%E5%BA%A6%E6%9C%89%E5%A3%AB%E5%85%B5%E9%98%B5%E4%BA%A1",
+      "source": "rfi.fr",
+      "published": 1773004887
+    },
+    {
       "id": "b716af9b3a67",
-      "title": "马克龙与特朗普和伊朗总统通电话",
+      "title": "伊官宣：哈梅内伊的儿子为新一届精神领袖",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260308-%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E9%80%9A%E7%94%B5%E8%AF%9D",
       "source": "rfi.fr",
       "published": 1773003746
@@ -490,13 +497,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260307-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E5%9C%A3%E5%AE%B6%E5%A0%82%E5%BB%BA%E9%80%A0144%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%B0%81%E9%A1%B6",
       "source": "rfi.fr",
       "published": 1772917618
-    },
-    {
-      "id": "458478119683",
-      "title": "以色列密集轰炸     黎巴嫩发生逃难潮",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260307-%E4%BB%A5%E8%89%B2%E5%88%97%E5%AF%86%E9%9B%86%E8%BD%B0%E7%82%B8-%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8F%91%E7%94%9F%E9%80%83%E9%9A%BE%E6%BD%AE",
-      "source": "rfi.fr",
-      "published": 1772916051
     },
     {
       "id": "4f51c0604142",
@@ -1297,5 +1297,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1773004380
+  "build_id": 1773006108
 }
