@@ -1,6 +1,27 @@
 {
-  "updated": 1772997317,
+  "updated": 1772998881,
   "items": [
+    {
+      "id": "a5b004a3266c",
+      "title": "格倫峽谷驚現流沙 國家公園管理局籲遊客當心",
+      "url": "https://www.singtaousa.com/2026/03/08/news/usa/news-glen-canyon-quicksand-warning-arizona-utah/",
+      "source": "singtaousa.com",
+      "published": 1772998803
+    },
+    {
+      "id": "44d67b4f82d4",
+      "title": "深圳地鐵便衣警員執勤 及時制止偷拍行為",
+      "url": "https://www.singtaousa.com/2026/03/08/news/china/shenzhen-metro-plainclothes-police-arrest-peeping-tom/",
+      "source": "singtaousa.com",
+      "published": 1772998465
+    },
+    {
+      "id": "ca2ebc8cb711",
+      "title": "幫助高齡父母應對AI等科技挑戰 電腦科學家提建言",
+      "url": "https://www.singtaousa.com/2026/03/08/news/usa/news-technology-caregiving-seniors-ai-design/",
+      "source": "singtaousa.com",
+      "published": 1772997708
+    },
     {
       "id": "370343ec906f",
       "title": "伊朗戰爭波及民用基礎設施　沙烏地發布首宗死亡通報",
@@ -149,13 +170,6 @@
       "published": 1772991782
     },
     {
-      "id": "a5bcac3c76be",
-      "title": "奧運金牌得主劉美賢退出世界花式滑冰錦標賽",
-      "url": "https://www.singtaousa.com/2026/03/08/news/usa/news-alysa-liu-withdraws-world-figure-skating-championships/",
-      "source": "singtaousa.com",
-      "published": 1772991779
-    },
-    {
       "id": "55278910a836",
       "title": "歷史經驗顯示 美換夏令時間 股市隔日下挫",
       "url": "https://money.udn.com/money/story/123398/9367356",
@@ -196,20 +210,6 @@
       "url": "https://money.udn.com/money/story/5599/9367319",
       "source": "money.udn.com",
       "published": 1772991530
-    },
-    {
-      "id": "f1485dce6c6f",
-      "title": "屯馬綫路軌改道工程 港鐵目標明早恢復正常列車服務",
-      "url": "https://www.singtaousa.com/2026/03/08/news/china/mtr-tuen-ma-line-track-works-service-restoration/",
-      "source": "singtaousa.com",
-      "published": 1772991264
-    },
-    {
-      "id": "e5f41d1af002",
-      "title": "美以密謀派遣特種部隊入伊朗 奪取其高濃縮鈾庫存",
-      "url": "https://www.singtaousa.com/2026/03/08/news/world/u-s-weighs-sending-special-forces-to-seize-irans-nuclear-stockpile/",
-      "source": "singtaousa.com",
-      "published": 1772990866
     },
     {
       "id": "5ab30af5ef26",
@@ -1297,5 +1297,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1772997317
+  "build_id": 1772998881
 }
