@@ -1,6 +1,20 @@
 {
-  "updated": 1773007940,
+  "updated": 1773009941,
   "items": [
+    {
+      "id": "314fd6acc9f8",
+      "title": "美軍公布伊朗戰爭第七名陣亡士兵",
+      "url": "https://www.singtaousa.com/2026/03/08/news/usa/news-us-military-seventh-death-iran-war-trump-dover/",
+      "source": "singtaousa.com",
+      "published": 1773009559
+    },
+    {
+      "id": "509bf4b9a7c3",
+      "title": "伊朗專家會議：任命穆吉塔巴．哈米尼為最高領袖",
+      "url": "https://money.udn.com/money/story/5599/9367584",
+      "source": "money.udn.com",
+      "published": 1773009026
+    },
     {
       "id": "ebdf19769ab0",
       "title": "莫傑塔巴繼任伊朗最高領袖 統領軍政核武大權",
@@ -28,6 +42,13 @@
       "url": "https://www.singtaousa.com/2026/03/08/entertainment/di-ren-jie-phantom-pagoda-reborn/",
       "source": "singtaousa.com",
       "published": 1773007200
+    },
+    {
+      "id": "ec7e01ab512a",
+      "title": "特朗普称赞梅洛尼是“伟大领袖” 从何说起",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260308-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%B5%9E%E6%A2%85%E6%B4%9B%E5%B0%BC%E6%98%AF-%E4%BC%9F%E5%A4%A7%E9%A2%86%E8%A2%96-%E4%BB%8E%E4%BD%95%E8%AF%B4%E8%B5%B7",
+      "source": "rfi.fr",
+      "published": 1773006448
     },
     {
       "id": "b37ce40b3ebc",
@@ -191,13 +212,6 @@
       "published": 1772996824
     },
     {
-      "id": "1b2995376de3",
-      "title": "聯邦法官裁定美國之音裁員無效 萊克無權代理",
-      "url": "https://www.singtaousa.com/2026/03/08/news/usa/news-kari-lake-usagm-voa-court-ruling-void-actions/",
-      "source": "singtaousa.com",
-      "published": 1772996794
-    },
-    {
       "id": "a1463d0e0f4a",
       "title": "選擇權市場風向明顯變了 國際油價衝向120美元",
       "url": "https://money.udn.com/money/story/5599/9367392",
@@ -308,13 +322,6 @@
       "url": "https://money.udn.com/money/story/5599/9367345",
       "source": "money.udn.com",
       "published": 1772991607
-    },
-    {
-      "id": "8ff771fff564",
-      "title": "1分鐘看世界／挪威美大使館爆炸 無人員傷亡 可能與伊朗有關",
-      "url": "https://money.udn.com/money/story/5599/9367319",
-      "source": "money.udn.com",
-      "published": 1772991530
     },
     {
       "id": "bc98c17db08e",
@@ -490,13 +497,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/ckg88wddg28o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1772935692
-    },
-    {
-      "id": "621361616475",
-      "title": "西班牙巴塞罗那圣家堂建造144年终于封顶",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260307-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E5%9C%A3%E5%AE%B6%E5%A0%82%E5%BB%BA%E9%80%A0144%E5%B9%B4%E7%BB%88%E4%BA%8E%E5%B0%81%E9%A1%B6",
-      "source": "rfi.fr",
-      "published": 1772917618
     },
     {
       "id": "4f51c0604142",
@@ -1297,5 +1297,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1773007940
+  "build_id": 1773009941
 }
