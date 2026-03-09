@@ -1,6 +1,20 @@
 {
-  "updated": 1773094629,
+  "updated": 1773096661,
   "items": [
+    {
+      "id": "1076530ffbf2",
+      "title": "Live Nation壟斷案與司法部和解，逾20州拒絕怒批「爛交易」",
+      "url": "https://www.singtaousa.com/2026/03/09/news/usa/justice-department-and-live-nation-reach-settlement-over-illegal-monopoly-case/",
+      "source": "singtaousa.com",
+      "published": 1773095456
+    },
+    {
+      "id": "bc961a24f519",
+      "title": "中東情勢動盪　國際油價上揚",
+      "url": "https://money.udn.com/money/story/5599/9369779",
+      "source": "money.udn.com",
+      "published": 1773094879
+    },
     {
       "id": "f3903c82893c",
       "title": "美國截獲伊朗神秘電波，疑為啟動海外「休眠細胞」報復行動",
@@ -9,9 +23,9 @@
       "published": 1773094336
     },
     {
-      "id": "b63384200fc8",
+      "id": "3c5c7e7f6b04",
       "title": "川普暗示伊朗戰爭可能快結束　華爾街股市收漲",
-      "url": "https://money.udn.com/money/story/5599/9369753",
+      "url": "https://money.udn.com/money/story/123398/9369753",
       "source": "money.udn.com",
       "published": 1773093622
     },
@@ -70,6 +84,13 @@
       "url": "https://money.udn.com/money/story/5599/9369742",
       "source": "money.udn.com",
       "published": 1773090865
+    },
+    {
+      "id": "e5690c5f3068",
+      "title": "華爾街上演反轉！油價自120美元高位回落，伊朗衝突陰影下市場劇震",
+      "url": "https://www.singtaousa.com/2026/03/09/news/usa/wall-street-erases-a-big-loss-and-closes-higher-as-oil-prices-fall-after-surging-near-120-a-barrel/",
+      "source": "singtaousa.com",
+      "published": 1773090723
     },
     {
       "id": "6fa1ad956c8b",
@@ -154,20 +175,6 @@
       "url": "https://www.singtaousa.com/2026/03/09/opinion/current-affairs-observation-yu-fei-facing-iran-which-is-targeted-by-israel-and-the-united-states-observe-the-positioning-and-actions-of-china-and-russia/",
       "source": "singtaousa.com",
       "published": 1773089096
-    },
-    {
-      "id": "f56ab4e46711",
-      "title": "武漢住宅區逾十隻流浪貓離奇死亡 警方介入調查死因",
-      "url": "https://www.singtaousa.com/2026/03/09/news/china/wuhan-estate-stray-cats-suspected-poisoning/",
-      "source": "singtaousa.com",
-      "published": 1773088464
-    },
-    {
-      "id": "c85c7a1e4d79",
-      "title": "若能與妻子最後對話您會說什麼？12位年長男士的真情告白揭示長久婚姻的智慧",
-      "url": "https://www.singtaousa.com/2026/03/09/lifestyle/i-asked-older-men-what-theyd-say-if-they-had-one-last-conversation-with-their-spouse-and-their-answers-revealed-these-12-quiet-truths-about-long-marriages/",
-      "source": "singtaousa.com",
-      "published": 1773088390
     },
     {
       "id": "cb550b5c1f5b",
@@ -308,13 +315,6 @@
       "url": "https://money.udn.com/money/story/5599/9369571",
       "source": "money.udn.com",
       "published": 1773069810
-    },
-    {
-      "id": "3c0e616025ee",
-      "title": "父母妻兒全亡、家族共8死！伊朗新領導人未來恐怕只會「更強硬」",
-      "url": "https://money.udn.com/money/story/5599/9369569",
-      "source": "money.udn.com",
-      "published": 1773069759
     },
     {
       "id": "54d0d0c960dd",
@@ -1318,5 +1318,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1773094629
+  "build_id": 1773096661
 }
