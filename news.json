@@ -1,6 +1,27 @@
 {
-  "updated": 1773091400,
+  "updated": 1773093110,
   "items": [
+    {
+      "id": "27b07c733f8b",
+      "title": "克宮：普丁與川普通話　商討伊朗和烏克蘭議題",
+      "url": "https://money.udn.com/money/story/5599/9369748",
+      "source": "money.udn.com",
+      "published": 1773092184
+    },
+    {
+      "id": "e91b211b24f9",
+      "title": "美國勞工部發布新指引 推動學徒制度擴張與透明化",
+      "url": "https://www.singtaousa.com/2026/03/09/news/usa/u-s-department-of-labor-issues-new-guidance-to-promote-expansion-and-transparency-of-apprenticeship-system/",
+      "source": "singtaousa.com",
+      "published": 1773091826
+    },
+    {
+      "id": "5f40c16b590c",
+      "title": "F1首站平治包冠亞 咸美頓確信法拉利有實力爭最終錦標",
+      "url": "https://www.singtaousa.com/2026/03/09/news/world/f1-first-race-wins-hamilton-is-convinced-that-ferrari-has-the-strength-to-win-the-f1-championship/",
+      "source": "singtaousa.com",
+      "published": 1773091635
+    },
     {
       "id": "abd087c79e2d",
       "title": "马克龙：“仅仅通过轰炸”无法实现政权更迭",
@@ -24,7 +45,7 @@
     },
     {
       "id": "95376905ebeb",
-      "title": "川普接受CBS訪問　宣稱伊朗戰爭「差不多」結束",
+      "title": "川普接受 CBS 訪問 宣稱伊朗戰爭「差不多」結束",
       "url": "https://money.udn.com/money/story/5599/9369742",
       "source": "money.udn.com",
       "published": 1773090865
@@ -38,7 +59,7 @@
     },
     {
       "id": "6214b4406a28",
-      "title": "伊朗新最高領袖穆杰塔巴·哈梅內伊是誰？強硬派世襲繼位恐加劇衝突",
+      "title": "伊朗新最高領袖穆杰塔巴·哈梅內伊是誰？",
       "url": "https://www.singtaousa.com/2026/03/09/news/world/who-is-mojtaba-khamenei-irans-new-supreme-leader/",
       "source": "singtaousa.com",
       "published": 1773090443
@@ -140,20 +161,6 @@
       "url": "https://www.singtaousa.com/2026/03/09/news/world/trump-tells-cbs-news-that-mideast-war-could-end-soon/",
       "source": "singtaousa.com",
       "published": 1773087797
-    },
-    {
-      "id": "24dad63ae868",
-      "title": "揭露水門事件錄音帶尼克遜的助手巴特菲爾德逝世 享年99歲",
-      "url": "https://www.singtaousa.com/2026/03/09/news/usa/alexander-butterfield-death-watergate-tapes-nixon/",
-      "source": "singtaousa.com",
-      "published": 1773087090
-    },
-    {
-      "id": "2eb3045c96b4",
-      "title": "內地油價將迎年內最大漲幅 多地加油站現排隊加油潮",
-      "url": "https://www.singtaousa.com/2026/03/09/news/china/fuel-price-surge-china-adjustment-queues/",
-      "source": "singtaousa.com",
-      "published": 1773086663
     },
     {
       "id": "cb550b5c1f5b",
@@ -329,13 +336,6 @@
       "url": "https://www.dw.com/zh/德语媒体：中国为何甘当中东冲突的观望者/a-76280517?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1773068280
-    },
-    {
-      "id": "8aac4bb32ee0",
-      "title": "伊朗女足拒唱國歌被指叛徒　傳5人逃脫獲澳洲警方保護",
-      "url": "https://money.udn.com/money/story/5599/9369465",
-      "source": "money.udn.com",
-      "published": 1773068063
     },
     {
       "id": "ed800d980e75",
@@ -1318,5 +1318,5 @@
       "published": 1770552300
     }
   ],
-  "build_id": 1773091400
+  "build_id": 1773093110
 }
