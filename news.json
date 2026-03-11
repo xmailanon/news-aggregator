@@ -1,6 +1,188 @@
 {
-  "updated": 1773232399,
+  "updated": 1773237434,
   "items": [
+    {
+      "id": "be44736e7aae",
+      "title": "美國能源部長鬧烏龍 白宮否認美軍在荷莫茲海峽護航油輪",
+      "url": "https://money.udn.com/money/story/5599/9372474",
+      "source": "money.udn.com",
+      "published": 1773237330
+    },
+    {
+      "id": "e6d843804d0c",
+      "title": "Google Cloud完成收購Wiz　提供AI驅動資安平台",
+      "url": "https://money.udn.com/money/story/5599/9374511",
+      "source": "money.udn.com",
+      "published": 1773237262
+    },
+    {
+      "id": "79109b6e2785",
+      "title": "西班牙召回駐以色列大使 美國稱已打擊伊朗擊逾5500目標",
+      "url": "https://www.singtaousa.com/2026/03/11/news/world/spain-recalls-ambassador-to-israel-us-says-it-has-struck-more-than-5500-targets-in-iran/",
+      "source": "singtaousa.com",
+      "published": 1773237242
+    },
+    {
+      "id": "49af0ea3e0ac",
+      "title": "油價劇烈震盪後反彈 市場竭力梳理美國就荷莫茲海峽發出的混亂訊息",
+      "url": "https://money.udn.com/money/story/5599/9372475",
+      "source": "money.udn.com",
+      "published": 1773236908
+    },
+    {
+      "id": "59584bb19d45",
+      "title": "伊朗南部學校遇襲傷亡慘重　義大利總理發聲譴責",
+      "url": "https://money.udn.com/money/story/5599/9374495",
+      "source": "money.udn.com",
+      "published": 1773236741
+    },
+    {
+      "id": "7a8ec8963bf9",
+      "title": "美股早盤／油價重回90美元 指數漲跌互見 甲骨文飆14%",
+      "url": "https://money.udn.com/money/story/123398/9374492",
+      "source": "money.udn.com",
+      "published": 1773236718
+    },
+    {
+      "id": "284cfbe8f2ba",
+      "title": "伊朗威脅攻擊輝達 報復德黑蘭銀行遇襲",
+      "url": "https://money.udn.com/money/story/5599/9374479",
+      "source": "money.udn.com",
+      "published": 1773236103
+    },
+    {
+      "id": "47fd22c82392",
+      "title": "伊朗總統之子：新最高領導人受傷　但安全無虞",
+      "url": "https://money.udn.com/money/story/5599/9374473",
+      "source": "money.udn.com",
+      "published": 1773235849
+    },
+    {
+      "id": "ada88cd01d9d",
+      "title": "中远暂停在巴拿马巴尔博亚港的运营",
+      "url": "https://www.dw.com/zh/中远暂停在巴拿马巴尔博亚港的运营/a-76306924?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1773235140
+    },
+    {
+      "id": "da68d5d0c9f4",
+      "title": "中国警告美国：人工智能军事化或令世界陷入“终结者”式末日",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260311-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%86%9B%E4%BA%8B%E5%8C%96%E6%88%96%E4%BB%A4%E4%B8%96%E7%95%8C%E9%99%B7%E5%85%A5-%E7%BB%88%E7%BB%93%E8%80%85-%E5%BC%8F%E6%9C%AB%E6%97%A5",
+      "source": "rfi.fr",
+      "published": 1773234323
+    },
+    {
+      "id": "9bc71e01921e",
+      "title": "伊朗戰爭敏感時刻　廂型車華府衝撞護欄白宮附近封鎖",
+      "url": "https://money.udn.com/money/story/5599/9374437",
+      "source": "money.udn.com",
+      "published": 1773234068
+    },
+    {
+      "id": "efde7f5cceaf",
+      "title": "中東戰爭致能源價格飆漲　日本、德國將釋出石油儲備",
+      "url": "https://money.udn.com/money/story/5599/9374435",
+      "source": "money.udn.com",
+      "published": 1773234046
+    },
+    {
+      "id": "21d0bda036a6",
+      "title": "車管局未盡責調查   奪命司機續發駕照",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/dmv-failed-investigation-driver-license/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "e3ddee3acd66",
+      "title": "無證者白卡福利  面臨進一步削減",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/undocumented-immigrants-medi-cal-cuts/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "7ff51cf2be63",
+      "title": "尤洛縣執行州法  刪除千餘歧視性房產契約",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/yolo-county-removes-discriminatory-property-covenants/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "46a30094b6ff",
+      "title": "億萬富豪徵新稅  暫獲五成支持率",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/billionaire-tax-plan-50-support/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "b3fe415b0a8d",
+      "title": "華埠持刀傷人被告出庭否認控罪",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/chinatown-stabbing-suspect-pleads-not-guilty/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "ba385c808651",
+      "title": "羅偉推動市憲章三大改革   選票提案增高門檻惹批評",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/mayor-london-breed-charter-reform-criticism/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "8161c078ad65",
+      "title": "市長羅偉隨扈遇襲案   控方稱被告出言恐嚇",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/mayor-london-breed-bodyguard-attack/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "54273b944786",
+      "title": "推路邊充電設施  助居民轉用電動車",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/curbside-charging-facilities-for-evs/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "e0b4bd4b3de0",
+      "title": "洛威爾數學題內容惹議  家長學生意見分歧",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/lowell-math-controversy-parents-divided/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "4be6d493f573",
+      "title": "聖馬刁Safeway超市  擬建400戶大型公寓",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/san-mateo-safeway-apartments-plan/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "104527bb63b3",
+      "title": "都柏林教師罷工第二日  校區工會續談",
+      "url": "https://www.singtaousa.com/2026/03/11/news/usa/dublin-teachers-strike-day-two-talks-continue/",
+      "source": "singtaousa.com",
+      "published": 1773234000
+    },
+    {
+      "id": "4c9b1f8862b9",
+      "title": "美2月 CPI 年增2.4% 符合市場預期...但統計時尚未爆發美伊戰爭",
+      "url": "https://money.udn.com/money/story/10511/9374430",
+      "source": "money.udn.com",
+      "published": 1773233923
+    },
+    {
+      "id": "1dde784762ca",
+      "title": "Anthropic 告知法官其 AI 工具被列入黑名單 或致公司損失數十億美元",
+      "url": "https://money.udn.com/money/story/5599/9372838",
+      "source": "money.udn.com",
+      "published": 1773233767
+    },
+    {
+      "id": "60c4301a83c7",
+      "title": "投資者大舉撤資  Cliffwater 私募信貸基金面臨超7%贖回申請",
+      "url": "https://money.udn.com/money/story/5599/9373043",
+      "source": "money.udn.com",
+      "published": 1773233381
+    },
     {
       "id": "c31e06516f44",
       "title": "大陸國債在油價風險前彰顯韌性 菲律賓債券在亞洲或受最大衝擊",
@@ -58,90 +240,6 @@
       "published": 1773230449
     },
     {
-      "id": "955ad959e631",
-      "title": "歲月留聲",
-      "url": "https://www.singtaousa.com/2026/03/11/opinion/sound-of-time-voice-memory/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "96f3c2479082",
-      "title": "AI是對手還是助手？",
-      "url": "https://www.singtaousa.com/2026/03/11/opinion/ai-opponent-or-assistant/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "2b85f09af3d3",
-      "title": "美國邊有得輸",
-      "url": "https://www.singtaousa.com/2026/03/11/opinion/us-ai-edge-china/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "de29a53e8539",
-      "title": "沉浸式《童話帝國》",
-      "url": "https://www.singtaousa.com/2026/03/11/opinion/fairytale-empire-immersive-musical/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "eed0a6a78415",
-      "title": "《犯罪101》具型格",
-      "url": "https://www.singtaousa.com/2026/03/11/opinion/crime-101-style/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "1a23e9a1832e",
-      "title": "美軍摧毀16艘伊朗布雷船",
-      "url": "https://www.singtaousa.com/2026/03/11/news/usa/us-navy-destroys-iranian-mine-boats/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "3789d3ed54ab",
-      "title": "逾4萬美國公民從中東回國",
-      "url": "https://www.singtaousa.com/2026/03/11/news/world/us-citizens-return-middle-east/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "45800c1aaffd",
-      "title": "開戰就是燒錢  超過百名軍人死傷",
-      "url": "https://www.singtaousa.com/2026/03/11/news/world/war-burning-money-casualties/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "6bfacf2ba2ec",
-      "title": "開始遭受反噬  「狂人」露怯",
-      "url": "https://www.singtaousa.com/2026/03/11/news/world/trump-iraq-war-backlash/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "e41d038076c0",
-      "title": "四十柱宮難敵戰火碎片滿地",
-      "url": "https://www.singtaousa.com/2026/03/11/news/world/40-pillar-palace-damaged-war/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "5b0bf80022e5",
-      "title": "環保組織提醒：「黑雨」酸性極強",
-      "url": "https://www.singtaousa.com/2026/03/11/news/world/iran-oil-facilities-attack-acid-rain/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
-      "id": "c98870ee0fe9",
-      "title": "是否談判  美國伊朗各說各話",
-      "url": "https://www.singtaousa.com/2026/03/11/news/world/us-iran-differ-on-talks/",
-      "source": "singtaousa.com",
-      "published": 1773230400
-    },
-    {
       "id": "82153b595fc7",
       "title": "美国对伊朗战争目标不明，与以同盟裂痕渐明！海湾国家深感不安",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260311-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E7%9B%AE%E6%A0%87%E4%B8%8D%E6%98%8E%EF%BC%8C%E4%B8%8E%E4%BB%A5%E5%90%8C%E7%9B%9F%E8%A3%82%E7%97%95%E6%B8%90%E6%98%8E-%E6%B5%B7%E6%B9%BE%E5%9B%BD%E5%AE%B6%E6%B7%B1%E6%84%9F%E4%B8%8D%E5%AE%89",
@@ -177,20 +275,6 @@
       "published": 1773229888
     },
     {
-      "id": "899183fb9931",
-      "title": "中遠海運集團暫停在巴拿馬港口的運營",
-      "url": "https://money.udn.com/money/story/5599/9373420",
-      "source": "money.udn.com",
-      "published": 1773229781
-    },
-    {
-      "id": "4896043aaef9",
-      "title": "巴基斯坦表示 會在沙烏地阿拉伯需要時提供援助",
-      "url": "https://money.udn.com/money/story/5599/9373421",
-      "source": "money.udn.com",
-      "published": 1773229682
-    },
-    {
       "id": "653f82263efc",
       "title": "消息人士：国际能源署将建议释放战略石油储备",
       "url": "https://www.dw.com/zh/消息人士：国际能源署将建议释放战略石油储备/a-76303787?maca=chi-rss-chi-all-1127-rdf",
@@ -198,81 +282,11 @@
       "published": 1773229560
     },
     {
-      "id": "c3581a8e21f9",
-      "title": "七國集團表示 原則上支持使用戰略石油儲備",
-      "url": "https://money.udn.com/money/story/5599/9373873",
-      "source": "money.udn.com",
-      "published": 1773229484
-    },
-    {
-      "id": "54747c17284a",
-      "title": "國際能源署據悉提議大規模釋放緊急石油儲備",
-      "url": "https://money.udn.com/money/story/5599/9373956",
-      "source": "money.udn.com",
-      "published": 1773229323
-    },
-    {
-      "id": "5c65e1ca20e4",
-      "title": "Pimco 將私募信貸市場「清算」歸咎於鬆懈的承銷標準",
-      "url": "https://money.udn.com/money/story/5599/9374041",
-      "source": "money.udn.com",
-      "published": 1773229225
-    },
-    {
-      "id": "8d625e8015a9",
-      "title": "IEA擬釋出4億桶石油戰略儲備 日、德、奧都將釋出",
-      "url": "https://money.udn.com/money/story/5599/9374245",
-      "source": "money.udn.com",
-      "published": 1773228644
-    },
-    {
-      "id": "7c99ff827d8e",
-      "title": "歐洲央行管委 Kazimir 表示 央行或較預期更早升息",
-      "url": "https://money.udn.com/money/story/5599/9373793",
-      "source": "money.udn.com",
-      "published": 1773228359
-    },
-    {
-      "id": "a2287bace638",
-      "title": "日本首相高市早苗：最快3月16日釋出石油儲備",
-      "url": "https://money.udn.com/money/story/5599/9374231",
-      "source": "money.udn.com",
-      "published": 1773228094
-    },
-    {
-      "id": "7e434c7cdae2",
-      "title": "傳IEA將釋石油儲備油價卻攀漲　亞股普遍收高",
-      "url": "https://money.udn.com/money/story/5599/9374211",
-      "source": "money.udn.com",
-      "published": 1773227520
-    },
-    {
-      "id": "1e66905a996b",
-      "title": "台灣題材劇在法上演遭中國阻撓 導演：無權禁演",
-      "url": "https://money.udn.com/money/story/5599/9374196",
-      "source": "money.udn.com",
-      "published": 1773226837
-    },
-    {
       "id": "4d4568d57c32",
       "title": "是否与美国沟通伊朗战事？中国外交部回避提问",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260311-%E6%98%AF%E5%90%A6%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%B2%9F%E9%80%9A%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E9%81%BF%E6%8F%90%E9%97%AE",
       "source": "rfi.fr",
       "published": 1773226604
-    },
-    {
-      "id": "eb3fb198d702",
-      "title": "歐盟入會公投開跑 冰島外長：可能一年半與歐盟談妥入盟",
-      "url": "https://money.udn.com/money/story/5599/9374168",
-      "source": "money.udn.com",
-      "published": 1773226110
-    },
-    {
-      "id": "01ba95def023",
-      "title": "TI擴展MCU產品組合與軟體開發生態系 全面推動邊緣AI在各類裝置落地",
-      "url": "https://money.udn.com/money/story/5599/9374160",
-      "source": "money.udn.com",
-      "published": 1773225953
     },
     {
       "id": "ad2c56c0dd1c",
@@ -553,13 +567,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260310-%E8%B7%9F%E8%B8%AA%E6%81%90%E5%90%93-%E6%9D%8E%E8%80%81%E5%B8%88-%E7%9A%84%E6%95%B0%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A9%B1%E9%80%90",
       "source": "rfi.fr",
       "published": 1773173286
-    },
-    {
-      "id": "241cc3680f93",
-      "title": "【视频】面对俄罗斯的威胁  波罗的海三国加强防御",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260310-%E8%A7%86%E9%A2%91-%E9%9D%A2%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E7%9A%84%E5%A8%81%E8%83%81-%E6%B3%A2%E7%BD%97%E7%9A%84%E6%B5%B7%E4%B8%89%E5%9B%BD%E5%8A%A0%E5%BC%BA%E9%98%B2%E5%BE%A1",
-      "source": "rfi.fr",
-      "published": 1773165447
     },
     {
       "id": "efa097617772",
@@ -1318,5 +1325,5 @@
       "published": 1770775140
     }
   ],
-  "build_id": 1773232399
+  "build_id": 1773237434
 }
