@@ -1,6 +1,34 @@
 {
-  "updated": 1773442160,
+  "updated": 1773443846,
   "items": [
+    {
+      "id": "d5eb5e64f8ff",
+      "title": "粵語中東戰事是否很快結束 & 香港文憑試國際認受提高",
+      "url": "https://www.singtaousa.com/2026/03/13/opinion/will-the-war-in-the-middle-east-end-soon-the-international-recognition-of-the-hong-kong-diploma-examination-will-increase/",
+      "source": "singtaousa.com",
+      "published": 1773443100
+    },
+    {
+      "id": "0e3093703c60",
+      "title": "華盛頓地區三大機場因「強烈化學氣味」暫停起降",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/three-major-airports-in-the-washington-area-suspend-takeoffs-and-landings-due-to-strong-chemical-smell/",
+      "source": "singtaousa.com",
+      "published": 1773442902
+    },
+    {
+      "id": "07218735ed99",
+      "title": "白敬亭章若楠參加活動 零互動場面尷尬",
+      "url": "https://www.singtaousa.com/2026/03/13/entertainment/bai-jingting-zhang-ruonan-no-interaction/",
+      "source": "singtaousa.com",
+      "published": 1773442800
+    },
+    {
+      "id": "319a9e0b8a4a",
+      "title": "法广采访非洲科特迪瓦防务顾问",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C/20260313-%E6%B3%95%E5%B9%BFrfi-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C-%E7%AC%AC147%E9%9B%86-%E6%B3%95%E5%B9%BF%E9%87%87%E8%AE%BF%E9%9D%9E%E6%B4%B2%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6%E9%98%B2%E5%8A%A1%E9%A1%BE%E9%97%AE",
+      "source": "rfi.fr",
+      "published": 1773442189
+    },
     {
       "id": "b7a55e1b0b74",
       "title": "美國懸賞1000萬美元　尋求伊朗高層情報",
@@ -147,27 +175,6 @@
       "url": "https://www.singtaousa.com/2026/03/13/news/usa/frigatriska-idkaphobia-will-have-a-triple-sting-this-year/",
       "source": "singtaousa.com",
       "published": 1773434357
-    },
-    {
-      "id": "53c12329f97f",
-      "title": "虎皮鸚鵡背誦《蘭亭集序》成網絡熱話 飼主分享訓練秘訣",
-      "url": "https://www.singtaousa.com/2026/03/13/news/china/parrot-recites-orchid-pavilion-preface/",
-      "source": "singtaousa.com",
-      "published": 1773434063
-    },
-    {
-      "id": "129f95144b38",
-      "title": "五角大樓披露對伊朗戰果：導彈庫存銳減九成，新領袖傳「容貌受損」",
-      "url": "https://www.singtaousa.com/2026/03/13/news/world/watch-hesgeth-says-more-than-15000-enemy-targets-have-been-hit-in-iran-conflict/",
-      "source": "singtaousa.com",
-      "published": 1773432713
-    },
-    {
-      "id": "66a5f716468c",
-      "title": "北京外交破冰？中國將英國加拿大納入免簽國，總數增至79國",
-      "url": "https://www.singtaousa.com/2026/03/13/news/world/china-grants-uk-and-canada-visa-free-entry-raising-total-to-79-countries/",
-      "source": "singtaousa.com",
-      "published": 1773432706
     },
     {
       "id": "e1312692f29c",
@@ -574,13 +581,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260312-%E4%B9%A0%E7%89%B9%E4%BC%9A%E9%80%BC%E8%BF%91-%E4%B8%AD%E6%96%B9%E7%9A%84%E6%9C%9F%E5%BE%85%E4%BC%9A%E5%90%A6%E8%90%BD%E7%A9%BA",
       "source": "rfi.fr",
       "published": 1773354224
-    },
-    {
-      "id": "03bdafbbcc43",
-      "title": "特习会前奏 中美主管经贸高官周日在巴黎会谈",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260312-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%89%8D%E5%A5%8F-%E4%B8%AD%E7%BE%8E%E4%B8%BB%E7%AE%A1%E7%BB%8F%E8%B4%B8%E9%AB%98%E5%AE%98%E5%91%A8%E6%97%A5%E5%9C%A8%E5%B7%B4%E9%BB%8E%E4%BC%9A%E8%B0%88",
-      "source": "rfi.fr",
-      "published": 1773351297
     },
     {
       "id": "660dc4149b9f",
@@ -1304,5 +1304,5 @@
       "published": 1771144560
     }
   ],
-  "build_id": 1773442160
+  "build_id": 1773443846
 }
