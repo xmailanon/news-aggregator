@@ -1,6 +1,202 @@
 {
-  "updated": 1773405101,
+  "updated": 1773409900,
   "items": [
+    {
+      "id": "156543ab0fac",
+      "title": "美軍調防中東 引大陸近鄰忐忑 憂心亞太失去對華制衡",
+      "url": "https://money.udn.com/money/story/5599/9377542",
+      "source": "money.udn.com",
+      "published": 1773409142
+    },
+    {
+      "id": "7fa40748c4ad",
+      "title": "全球債券抹去2026年以來漲幅 戰爭加劇通膨擔憂",
+      "url": "https://money.udn.com/money/story/5599/9378213",
+      "source": "money.udn.com",
+      "published": 1773408834
+    },
+    {
+      "id": "d455a96e731f",
+      "title": "美戰爭部長稱伊朗新最高領袖受傷  臉恐毀容",
+      "url": "https://money.udn.com/money/story/5599/9379066",
+      "source": "money.udn.com",
+      "published": 1773408629
+    },
+    {
+      "id": "d86c0ff8f08d",
+      "title": "美國第4季經濟成長率較原估腰斬 下修至0.7%",
+      "url": "https://money.udn.com/money/story/10511/9379059",
+      "source": "money.udn.com",
+      "published": 1773408236
+    },
+    {
+      "id": "d74ee4a64cef",
+      "title": "中東戰火延燒 買能源股卻沒賺？背後兩大因素作祟",
+      "url": "https://money.udn.com/money/story/123398/9379053",
+      "source": "money.udn.com",
+      "published": 1773407758
+    },
+    {
+      "id": "11b4e3ccef7b",
+      "title": "CNN：开战前美国低估伊朗封锁霍尔木兹海峡的冲击 贝森特：若条件具备美军可与国际联盟为邮轮护航",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260313-cnn-%E5%BC%80%E6%88%98%E5%89%8D%E7%BE%8E%E5%9B%BD%E4%BD%8E%E4%BC%B0%E4%BC%8A%E6%9C%97%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%9A%84%E5%86%B2%E5%87%BB",
+      "source": "rfi.fr",
+      "published": 1773407413
+    },
+    {
+      "id": "22dd1aa28006",
+      "title": "禁止AI生成性化不雅影像　歐洲國家支持",
+      "url": "https://money.udn.com/money/story/5599/9379042",
+      "source": "money.udn.com",
+      "published": 1773406891
+    },
+    {
+      "id": "cc1155faa3dc",
+      "title": "8颱風名稱遭除名　樺加沙、鳳凰在列",
+      "url": "https://money.udn.com/money/story/5599/9379034",
+      "source": "money.udn.com",
+      "published": 1773406826
+    },
+    {
+      "id": "12b914e9bf54",
+      "title": "化學防曬物危害海洋生態   加州通過禁不實產品標語",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/california-bans-reef-unsafe-sunscreen/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "73593ef240ab",
+      "title": "北加尤洛縣誘拐兒童未遂被捕   男子涉嫌8年前同類案遭通緝",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/yolo-county-child-kidnapping-arrest/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "3762ab88dc84",
+      "title": "紐森64億心理健康發債案無一實行",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/newsom-6-4b-mental-health-bond-projects-delayed/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "72397d543256",
+      "title": "加州擬禁用致癌風險BPA和BPS顯色劑",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/california-bans-bpa-bps-thermal-receipts/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "c8db01525115",
+      "title": "中華慧妍總會換屆交接  同慶三八國際婦女節   滿任會長張曉春 新任會長楊鄭玉英順利交接",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/chinese-women-association-leadership-transition-international-womens-day/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "5de8c4982454",
+      "title": "2026年度全美華埠小姐眾佳麗  拜會肇慶總會館",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/chinese-beauty-queens-visit-zhaoqing-association/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "63131d527092",
+      "title": "劉美賢凱旋回家喜獲「屋崙市鑰」",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/alysa-liu-oakland-key-olympics/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "2e69f13f68ef",
+      "title": "4歲華童方翰泓遭車撞斃  父母告伯嶺甘市   亦起訴多名涉事者「讓同樣的事不再發生」",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/child-killed-burlingame-lawsuit/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "b4a325643ed8",
+      "title": "油價飆升  灣區民眾難改開車習慣",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/oil-price-surge-bay-area-driving-habit/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "fb95aa5cae9b",
+      "title": "特朗普提告加州  阻汽車排放標準",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/trump-sues-california-car-emissions/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "409121fb6ae0",
+      "title": "金山縣警屢傳醜聞  市參事促全面審計",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/sf-sheriff-scandals-audit-call/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "7c984d087e59",
+      "title": "三藩市獲近億元助戒毒及精神健康",
+      "url": "https://www.singtaousa.com/2026/03/13/news/usa/sf-gets-100m-drug-mental-health/",
+      "source": "singtaousa.com",
+      "published": 1773406800
+    },
+    {
+      "id": "ac4668abcd87",
+      "title": "美1月核心PCE通膨小幅增溫 消費支出熱絡 料Fed維持利率不變",
+      "url": "https://money.udn.com/money/story/5599/9379031",
+      "source": "money.udn.com",
+      "published": 1773406689
+    },
+    {
+      "id": "6e8a34cd9c63",
+      "title": "中国新五年计划聚焦未来科技：加速自主研发 应对地缘挑战",
+      "url": "https://www.dw.com/zh/中国新五年计划聚焦未来科技：加速自主研发-应对地缘挑战/a-76348410?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1773406680
+    },
+    {
+      "id": "c3f5dc1ecb90",
+      "title": "戰爭擔憂籠罩市場 美債恐慌指標升至九個月高位",
+      "url": "https://money.udn.com/money/story/5599/9378472",
+      "source": "money.udn.com",
+      "published": 1773406034
+    },
+    {
+      "id": "20cffdc776da",
+      "title": "美國的臨時豁免讓1,900萬桶俄羅斯原油可供購買",
+      "url": "https://money.udn.com/money/story/5599/9378473",
+      "source": "money.udn.com",
+      "published": 1773405795
+    },
+    {
+      "id": "069825f39829",
+      "title": "男子被控替中蒐集情資遭定罪　澳魯莽外國干預罪首例",
+      "url": "https://money.udn.com/money/story/5599/9379006",
+      "source": "money.udn.com",
+      "published": 1773405515
+    },
+    {
+      "id": "34aefd51be8e",
+      "title": "美軍一架參與對伊軍事行動的 KC-135 加油機墜毀",
+      "url": "https://money.udn.com/money/story/5599/9377471",
+      "source": "money.udn.com",
+      "published": 1773405294
+    },
+    {
+      "id": "7b85950bbc70",
+      "title": "美歐日據悉將談判關鍵礦產貿易協議 包含價格下限和關稅內容",
+      "url": "https://money.udn.com/money/story/5599/9377603",
+      "source": "money.udn.com",
+      "published": 1773405199
+    },
+    {
+      "id": "1579ca7a15b0",
+      "title": "路透独家：特朗普将在访华后批准对台军售案 台立法院今授权先签四种武器合同",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260313-%E8%B7%AF%E9%80%8F%E7%8B%AC%E5%AE%B6-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%9C%A8%E8%AE%BF%E5%8D%8E%E5%90%8E%E6%89%B9%E5%87%86%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E6%A1%88-%E5%8F%B0%E7%AB%8B%E6%B3%95%E9%99%A2%E4%BB%8A%E6%8E%88%E6%9D%83%E5%85%88%E7%AD%BE%E5%9B%9B%E7%A7%8D%E6%AD%A6%E5%99%A8%E5%90%88%E5%90%8C",
+      "source": "rfi.fr",
+      "published": 1773405193
+    },
     {
       "id": "a5a85ccab05d",
       "title": "美國財政部再頒發許可證 為更多俄羅斯石油銷售開綠燈",
@@ -51,186 +247,11 @@
       "published": 1773403699
     },
     {
-      "id": "4143db4dfc8f",
-      "title": "先兵後禮？美貿易代表：希望確保美中關係持續穩定",
-      "url": "https://money.udn.com/money/story/5599/9378950",
-      "source": "money.udn.com",
-      "published": 1773403520
-    },
-    {
-      "id": "c5ed78419510",
-      "title": "馬來西亞表示燃油成本如果大幅上漲 航司可能要暫停部分航班",
-      "url": "https://money.udn.com/money/story/5599/9377673",
-      "source": "money.udn.com",
-      "published": 1773403355
-    },
-    {
-      "id": "43a169f0ef1c",
-      "title": "內唐亞胡表示不能保證伊朗會發生政權更迭",
-      "url": "https://money.udn.com/money/story/5599/9377738",
-      "source": "money.udn.com",
-      "published": 1773403334
-    },
-    {
-      "id": "c62c4ea246e6",
-      "title": "伊朗最高領袖誓言繼續封鎖荷莫茲海峽 威脅或開闢其他戰線",
-      "url": "https://money.udn.com/money/story/5599/9377739",
-      "source": "money.udn.com",
-      "published": 1773403309
-    },
-    {
-      "id": "80a7187c2a39",
-      "title": "赴美訪問在即 日本首相高市早苗因感冒症狀而取消部分公務活動",
-      "url": "https://money.udn.com/money/story/5599/9377994",
-      "source": "money.udn.com",
-      "published": 1773403224
-    },
-    {
-      "id": "0cf744803082",
-      "title": "中東戰事撼動數十年來的傳統避險策略 投資者急尋新避險方舟",
-      "url": "https://money.udn.com/money/story/5599/9377996",
-      "source": "money.udn.com",
-      "published": 1773403209
-    },
-    {
-      "id": "6c0fc81ee88e",
-      "title": "半空的精湛",
-      "url": "https://www.singtaousa.com/2026/03/13/opinion/half-air-exquisite-design/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "f648a87cb403",
-      "title": "鬼馬砵砵車",
-      "url": "https://www.singtaousa.com/2026/03/13/opinion/quirky-hybrid-car-experience/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "fc7d28691470",
-      "title": "美國真偉大",
-      "url": "https://www.singtaousa.com/2026/03/13/opinion/america-great-us-vs-china/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "fc1982bd9f7e",
-      "title": "總有留下來的理由",
-      "url": "https://www.singtaousa.com/2026/03/13/opinion/reasons-to-stay-alive/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "c5014903e434",
-      "title": "存記「豪邁先登」",
-      "url": "https://www.singtaousa.com/2026/03/13/opinion/bold-king-wins-big/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "4c06b6c17945",
-      "title": "美軍加油機在伊拉克墜毀",
-      "url": "https://www.singtaousa.com/2026/03/13/news/usa/us-tanker-crashes-iraq/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "fddf4664d10b",
-      "title": "貝森特：戰爭成本仍可承受",
-      "url": "https://www.singtaousa.com/2026/03/13/news/usa/mnuchin-war-cost-bearable/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "70c1ebea144e",
-      "title": "一場沒有局外人的複合危機",
-      "url": "https://www.singtaousa.com/2026/03/13/news/world/compound-crisis-no-bystanders/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "6f97b3ac27aa",
-      "title": "穆傑塔巴首發聲明  繼續封鎖霍爾木茲海峽",
-      "url": "https://www.singtaousa.com/2026/03/13/news/world/iran-new-leader-hormuz-strait-blockade/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "b2c0786df050",
-      "title": "特朗普認為油價飆升是好事",
-      "url": "https://www.singtaousa.com/2026/03/13/news/world/trump-oil-prices-iran-nuclear-deal/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "b429faea451b",
-      "title": "氦氣設施停工9天  韓國芯片業面臨倒數危機",
-      "url": "https://www.singtaousa.com/2026/03/13/news/world/helium-shortage-korea-chip-crisis/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "82a335a444f8",
-      "title": "擬暫停百年法案  放寬航運限制",
-      "url": "https://www.singtaousa.com/2026/03/13/news/world/jones-act-shipping-ban-iran/",
-      "source": "singtaousa.com",
-      "published": 1773403200
-    },
-    {
-      "id": "9f665d23ca65",
-      "title": "印度總理莫迪與伊朗總統磋商 尋求確保滯留油輪通過荷莫茲海峽",
-      "url": "https://money.udn.com/money/story/5599/9378076",
-      "source": "money.udn.com",
-      "published": 1773403184
-    },
-    {
-      "id": "2770464c3b21",
-      "title": "路透：幕僚相互角力川普立場反覆　伊朗戰爭難退場",
-      "url": "https://money.udn.com/money/story/5599/9378893",
-      "source": "money.udn.com",
-      "published": 1773401446
-    },
-    {
-      "id": "117be6bed008",
-      "title": "中國男子涉走私近2000隻蟻后赴中　肯亞機場落網",
-      "url": "https://money.udn.com/money/story/5599/9378891",
-      "source": "money.udn.com",
-      "published": 1773401421
-    },
-    {
-      "id": "3c5d907ed5af",
-      "title": "布蘭特原油價格在每桶100美元附近 伊朗誓言繼續關閉荷莫茲海峽",
-      "url": "https://money.udn.com/money/story/5599/9377672",
-      "source": "money.udn.com",
-      "published": 1773401129
-    },
-    {
-      "id": "d53ace0a12d1",
-      "title": "戰火狂燒彈藥費 美六天耗113億美元 波灣產油國「這方面損失」更重",
-      "url": "https://money.udn.com/money/story/5599/9378885",
-      "source": "money.udn.com",
-      "published": 1773400888
-    },
-    {
-      "id": "f0da061a0cef",
-      "title": "伊朗最高領袖放話封鎖荷莫茲海峽　油價反彈亞股全倒",
-      "url": "https://money.udn.com/money/story/5599/9378857",
-      "source": "money.udn.com",
-      "published": 1773399662
-    },
-    {
       "id": "3899bbd2fc9e",
       "title": "卡拉斯称美国不喜欢欧盟并希望它分裂",
       "url": "https://www.dw.com/zh/卡拉斯称美国不喜欢欧盟并希望它分裂/a-76347210?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1773399660
-    },
-    {
-      "id": "96fd5d8c809d",
-      "title": "美軍加油機墜毀伊拉克　軍方證實4人罹難",
-      "url": "https://money.udn.com/money/story/5599/9378848",
-      "source": "money.udn.com",
-      "published": 1773399291
     },
     {
       "id": "ed19d202f33d",
@@ -611,13 +632,6 @@
       "published": 1773331200
     },
     {
-      "id": "9e1e9e97401c",
-      "title": "台湾总统赖清德收到非洲友邦斯威士兰邀访 或四月出行",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260312-%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E8%B5%96%E6%B8%85%E5%BE%B7%E6%94%B6%E5%88%B0%E9%9D%9E%E6%B4%B2%E5%8F%8B%E9%82%A6%E6%96%AF%E5%A8%81%E5%A3%AB%E5%85%B0%E9%82%80%E8%AE%BF-%E6%88%96%E5%9B%9B%E6%9C%88%E5%87%BA%E8%A1%8C",
-      "source": "rfi.fr",
-      "published": 1773330082
-    },
-    {
       "id": "cc9acef7b99f",
       "title": "德语媒体：以“民族团结”之名 行“民族同化”之实",
       "url": "https://www.dw.com/zh/德语媒体：以-民族团结-之名-行-民族同化-之实/a-76334578?maca=chi-rss-chi-all-1127-rdf",
@@ -651,13 +665,6 @@
       "url": "https://www.dw.com/zh/中国人大通过-民族团结进步促进法-引发少数民族人权担忧/a-76331516?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1773318840
-    },
-    {
-      "id": "2a81badbc9b1",
-      "title": "美对伊朗战争首周已耗逾113亿美元 特朗普豪称“赢了”但“不想提前撤军”",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260312-%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E9%A6%96%E5%91%A8%E5%B7%B2%E8%80%97%E9%80%BE113%E4%BA%BF%E7%BE%8E%E5%85%83-%E7%89%B9%E6%9C%97%E6%99%AE%E8%B1%AA%E7%A7%B0-%E8%B5%A2%E4%BA%86-%E4%BD%86-%E4%B8%8D%E6%83%B3%E6%8F%90%E5%89%8D%E6%92%A4%E5%86%9B",
-      "source": "rfi.fr",
-      "published": 1773316600
     },
     {
       "id": "3453244c144a",
@@ -1290,27 +1297,6 @@
       "published": 1771507560
     },
     {
-      "id": "71c87a028474",
-      "title": "被吐槽“最没人味春晚” 机器人组团亮相求“破圈”",
-      "url": "https://www.dw.com/zh/被吐槽-最没人味春晚-机器人组团亮相求-破圈/a-76006636?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1771337100
-    },
-    {
-      "id": "4d71ca106fc4",
-      "title": "传砸1亿出场费 人形机器人再登马年春晚",
-      "url": "https://www.dw.com/zh/传砸1亿出场费-人形机器人再登马年春晚/a-75993738?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1771258020
-    },
-    {
-      "id": "d0828656e09d",
-      "title": "消费主义在中国打败了民族主义",
-      "url": "https://www.dw.com/zh/消费主义在中国打败了民族主义/a-75895833?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1771144680
-    },
-    {
       "id": "4f4d8f2fb01e",
       "title": "东南亚大多国家减少死刑 新加坡是例外",
       "url": "https://www.dw.com/zh/东南亚大多国家减少死刑-新加坡是例外/a-75938959?maca=chi-rss-chi-news-3224-rdf",
@@ -1318,5 +1304,5 @@
       "published": 1771144560
     }
   ],
-  "build_id": 1773405101
+  "build_id": 1773409900
 }
