@@ -1,6 +1,13 @@
 {
-  "updated": 1773503228,
+  "updated": 1773505062,
   "items": [
+    {
+      "id": "41b032dfb0bc",
+      "title": "森美未聞側田聯乘騷入座率低",
+      "url": "https://www.singtaousa.com/2026/03/14/entertainment/sammy-choi-chim-side-tan-concert-low-attendance/",
+      "source": "singtaousa.com",
+      "published": 1773504000
+    },
     {
       "id": "d08cc9161d3f",
       "title": "德國哲學大師哈伯瑪斯逝世　享壽96歲",
@@ -166,13 +173,6 @@
       "id": "9164b650f665",
       "title": "騎士33分大勝獨行俠",
       "url": "https://www.singtaousa.com/2026/03/14/news/usa/cavs-crush-mavericks-big-win/",
-      "source": "singtaousa.com",
-      "published": 1773496800
-    },
-    {
-      "id": "d67e62c4585e",
-      "title": "杜蘭特再當關鍵先生  火箭險勝鵜鶘",
-      "url": "https://www.singtaousa.com/2026/03/14/news/usa/durant-leads-rockets-past-pelicans/",
       "source": "singtaousa.com",
       "published": 1773496800
     },
@@ -1311,5 +1311,5 @@
       "published": 1771144560
     }
   ],
-  "build_id": 1773503228
+  "build_id": 1773505062
 }
