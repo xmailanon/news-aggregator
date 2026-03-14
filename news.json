@@ -1,6 +1,41 @@
 {
-  "updated": 1773512465,
+  "updated": 1773514814,
   "items": [
+    {
+      "id": "8b1a679adb01",
+      "title": "Ian籲市民守護自然環境 洪嘉豪揭減碳足跡妙招",
+      "url": "https://www.singtaousa.com/2026/03/14/entertainment/ian-hong-jiahao-earth-hour-reduce-carbon/",
+      "source": "singtaousa.com",
+      "published": 1773514800
+    },
+    {
+      "id": "d5b11e2a2ce4",
+      "title": "美軍空襲伊朗哈爾克島 該島是伊朗石油經濟的核心",
+      "url": "https://www.singtaousa.com/2026/03/14/news/world/the-us-hit-irans-kharg-island-key-to-its-economy-and-security-what-to-know-about-irans-islands/",
+      "source": "singtaousa.com",
+      "published": 1773514586
+    },
+    {
+      "id": "8a44a3fa1eb4",
+      "title": "輝達 GTC 來了「推論晶片」上秀 市場關注整合 Groq 技術新產品",
+      "url": "https://money.udn.com/money/story/123398/9380510",
+      "source": "money.udn.com",
+      "published": 1773513677
+    },
+    {
+      "id": "109dc74fb2c4",
+      "title": "唐英年於兩會精神分享會倡議 香港應把握「十五五」規劃機遇 貢獻國家發展",
+      "url": "https://www.singtaousa.com/2026/03/14/news/china/npc-cppcc-session-insights-hong-kong-opportunities/",
+      "source": "singtaousa.com",
+      "published": 1773513264
+    },
+    {
+      "id": "fda1d539a34e",
+      "title": "傳川普回絕中東盟國停戰協議　伊朗要求美以停止空襲",
+      "url": "https://money.udn.com/money/story/5599/9380647",
+      "source": "money.udn.com",
+      "published": 1773513023
+    },
     {
       "id": "78bf1c33ce0b",
       "title": "2026灣區菊花會春宴暨獎學金 頒獎圓滿舉行，嘉賓雲集氣氛熱烈",
@@ -79,6 +114,13 @@
       "published": 1773509423
     },
     {
+      "id": "54b0d16eaab5",
+      "title": "佛羅里達州兩少女策劃「血祭」謀殺同學，被捕後竟在警車內嬉笑",
+      "url": "https://www.singtaousa.com/2026/03/14/news/usa/florida-teens-charged-in-alleged-murder-plot-seen-laughing-in-patrol-vehicle-following-arrest/",
+      "source": "singtaousa.com",
+      "published": 1773508295
+    },
+    {
       "id": "645f8eeb4010",
       "title": "深井迴旋處私家車失控撞欄 車頭冚飛脫 司機輕傷送院",
       "url": "https://www.singtaousa.com/2026/03/14/news/china/car-crash-roundabout-tsing-lung-tau/",
@@ -105,13 +147,6 @@
       "url": "https://www.singtaousa.com/2026/03/14/news/china/mongkok-fight-foreign-women-mainland-man-arrested/",
       "source": "singtaousa.com",
       "published": 1773506064
-    },
-    {
-      "id": "41b032dfb0bc",
-      "title": "森美未聞側田聯乘騷入座率低",
-      "url": "https://www.singtaousa.com/2026/03/14/entertainment/sammy-choi-chim-side-tan-concert-low-attendance/",
-      "source": "singtaousa.com",
-      "published": 1773504000
     },
     {
       "id": "d08cc9161d3f",
@@ -154,20 +189,6 @@
       "url": "https://money.udn.com/money/story/5599/9380515",
       "source": "money.udn.com",
       "published": 1773500796
-    },
-    {
-      "id": "929974533bd1",
-      "title": "伊朗襲阿聯酋港口富查伊拉港 中方反對軍事打擊主權國家",
-      "url": "https://www.singtaousa.com/2026/03/14/news/world/iran-attacks-uae-port-fujairah-china-opposes-military-attack-on-sovereign-countries/",
-      "source": "singtaousa.com",
-      "published": 1773500559
-    },
-    {
-      "id": "4332656ce48c",
-      "title": "李金凱否認《中聲》家族搶資源",
-      "url": "https://www.singtaousa.com/2026/03/14/entertainment/li-jinkai-denies-resource-competition/",
-      "source": "singtaousa.com",
-      "published": 1773500400
     },
     {
       "id": "94570aec406d",
@@ -219,13 +240,6 @@
       "published": 1773496823
     },
     {
-      "id": "2ca05e414cf1",
-      "title": "IBM攜手泛林集團劍指1奈米芯片技術",
-      "url": "https://www.singtaousa.com/2026/03/14/news/usa/ibm-lam-research-1nm-chip/",
-      "source": "singtaousa.com",
-      "published": 1773496800
-    },
-    {
       "id": "82572518baca",
       "title": "伊朗媒體敦促民眾撤離阿聯3港口 預告幾小時內將打擊",
       "url": "https://money.udn.com/money/story/5599/9380426",
@@ -252,20 +266,6 @@
       "url": "https://money.udn.com/money/story/5599/9380396",
       "source": "money.udn.com",
       "published": 1773495034
-    },
-    {
-      "id": "4eafcefbce01",
-      "title": "美軍中央司令部：已轟炸伊朗哈格島逾90個軍事目標",
-      "url": "https://money.udn.com/money/story/5599/9380395",
-      "source": "money.udn.com",
-      "published": 1773495024
-    },
-    {
-      "id": "476c6e9953bc",
-      "title": "世代財富洗牌1／爸媽那輩比較好賺？嬰兒潮世代比後輩更有錢原因曝光",
-      "url": "https://money.udn.com/money/story/122381/9380384",
-      "source": "money.udn.com",
-      "published": 1773494010
     },
     {
       "id": "a48a80b882d2",
@@ -1311,5 +1311,5 @@
       "published": 1771144560
     }
   ],
-  "build_id": 1773512465
+  "build_id": 1773514814
 }
