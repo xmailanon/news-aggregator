@@ -1,6 +1,13 @@
 {
-  "updated": 1773611266,
+  "updated": 1773612923,
   "items": [
+    {
+      "id": "494bc3c6ba73",
+      "title": "商海波譎雲詭 攜手化險為夷",
+      "url": "https://www.singtaousa.com/2026/03/15/entertainment/business-battle-love-suspense/",
+      "source": "singtaousa.com",
+      "published": 1773612000
+    },
     {
       "id": "82c5afed4650",
       "title": "伊朗媒體：勞工部長宣布最低工資將調漲逾6成",
@@ -147,13 +154,6 @@
       "url": "https://www.singtaousa.com/2026/03/15/news/usa/news-ai-data-centers-local-opposition-us-power-demand/",
       "source": "singtaousa.com",
       "published": 1773599632
-    },
-    {
-      "id": "bd6fef235ec2",
-      "title": "特朗普攪亂共和黨中選選戰主軸",
-      "url": "https://www.singtaousa.com/2026/03/15/news/usa/news-trump-republicans-midterm-strategy-gas-prices-iran-war/",
-      "source": "singtaousa.com",
-      "published": 1773599056
     },
     {
       "id": "a9fa3fd4b554",
@@ -1311,5 +1311,5 @@
       "published": 1771144560
     }
   ],
-  "build_id": 1773611266
+  "build_id": 1773612923
 }
