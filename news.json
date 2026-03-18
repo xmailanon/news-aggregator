@@ -1,12 +1,40 @@
 {
-  "updated": 1773872482,
+  "updated": 1773874398,
   "items": [
+    {
+      "id": "306f9f5ad22c",
+      "title": "特朗普敦促日本介入中东冲突，高市早苗陷入两难",
+      "url": "https://cn.nytimes.com/world/20260319/trump-japan-takaichi-iran-hormuz/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1773873894
+    },
+    {
+      "id": "7e6d5b194941",
+      "title": "國土安全部長提名接任人出席參議院接受質詢",
+      "url": "https://www.singtaousa.com/2026/03/18/news/usa/trumps-homeland-security-secretary-nominee-mullin-faces-questions-from-senators/",
+      "source": "singtaousa.com",
+      "published": 1773873817
+    },
+    {
+      "id": "200a6d4c8cb7",
+      "title": "Fed 決策／鮑爾強調通膨降溫若無進展就不降息 表明將留任至調查落幕",
+      "url": "https://money.udn.com/money/story/5599/9389262",
+      "source": "money.udn.com",
+      "published": 1773873460
+    },
     {
       "id": "e982b6c7e8d3",
       "title": "南加回收廠輸送帶發現男子遺體",
       "url": "https://www.singtaousa.com/2026/03/18/news/usa/mans-body-found-on-conveyor-belt-at-fullerner-recycling-plant/",
       "source": "singtaousa.com",
       "published": 1773872421
+    },
+    {
+      "id": "fb250014ba3d",
+      "title": "【專家之眼】美以伊戰爭的歷史終結：反噬與苦撐",
+      "url": "https://money.udn.com/money/story/5599/9389256",
+      "source": "money.udn.com",
+      "published": 1773872298
     },
     {
       "id": "fb9be965c482",
@@ -191,13 +219,6 @@
       "published": 1773864024
     },
     {
-      "id": "fd2531d2fb23",
-      "title": "傳新劇如期首播 車銀優將缺席宣傳",
-      "url": "https://www.singtaousa.com/2026/03/18/entertainment/cha-eun-woo-miss-drama-promotion/",
-      "source": "singtaousa.com",
-      "published": 1773864000
-    },
-    {
       "id": "527ed399fd05",
       "title": "巴基斯坦宣布在开斋节期间与阿富汗停火",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260318-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AE%A3%E5%B8%83%E5%9C%A8%E5%BC%80%E6%96%8B%E8%8A%82%E6%9C%9F%E9%97%B4%E4%B8%8E%E9%98%BF%E5%AF%8C%E6%B1%97%E5%81%9C%E7%81%AB",
@@ -301,20 +322,6 @@
       "url": "https://money.udn.com/money/story/123398/9388944",
       "source": "money.udn.com",
       "published": 1773857700
-    },
-    {
-      "id": "a7cf5c7e720e",
-      "title": "英國軍工業與中東國家研商強化防衛　烏克蘭也有角色",
-      "url": "https://money.udn.com/money/story/5599/9389143",
-      "source": "money.udn.com",
-      "published": 1773857617
-    },
-    {
-      "id": "d04f6285d10b",
-      "title": "BTS 巡演效益 將超車泰勒絲",
-      "url": "https://money.udn.com/money/story/5599/9388952",
-      "source": "money.udn.com",
-      "published": 1773857616
     },
     {
       "id": "ab3e9c4da838",
@@ -1059,13 +1066,6 @@
       "published": 1773337074
     },
     {
-      "id": "f08ae4e6e208",
-      "title": "谷爱凌出席旧金山春节大游行：掌声与争议中的华裔明星",
-      "url": "https://cn.nytimes.com/usa/20260313/eileen-gu-olympics-chinese-american/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1773336539
-    },
-    {
       "id": "cc9acef7b99f",
       "title": "德语媒体：以“民族团结”之名 行“民族同化”之实",
       "url": "https://www.dw.com/zh/德语媒体：以-民族团结-之名-行-民族同化-之实/a-76334578?maca=chi-rss-chi-all-1127-rdf",
@@ -1276,5 +1276,5 @@
       "published": 1771507620
     }
   ],
-  "build_id": 1773872482
+  "build_id": 1773874398
 }
