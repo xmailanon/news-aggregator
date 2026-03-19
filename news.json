@@ -1,6 +1,27 @@
 {
-  "updated": 1773958567,
+  "updated": 1773960715,
   "items": [
+    {
+      "id": "e821649a665d",
+      "title": "美股收盤／中東戰雲和通膨隱憂揮之不去 三大指數跌破200日均線",
+      "url": "https://money.udn.com/money/story/123398/9391869",
+      "source": "money.udn.com",
+      "published": 1773960471
+    },
+    {
+      "id": "ff0fd1640302",
+      "title": "桑德斯推動參議院就反對向以色列出售軍備進行投票",
+      "url": "https://www.singtaousa.com/2026/03/19/news/usa/sanders-pushes-for-senate-vote-against-arms-sales-to-israel/",
+      "source": "singtaousa.com",
+      "published": 1773959669
+    },
+    {
+      "id": "327491b53969",
+      "title": "伊朗戰爭錢坑深不見底：美國開戰六日狂燒127億美元，五角大廈承認昂貴彈藥告急",
+      "url": "https://www.singtaousa.com/2026/03/19/news/world/the-war-on-iran-cost-the-us-12-7bn-by-day-six-heres-how-its-been-spent-in-charts/",
+      "source": "singtaousa.com",
+      "published": 1773959400
+    },
     {
       "id": "e03e645eafa7",
       "title": "伊朗盛大歡迎女足歸國　庇護風波引發國際關注",
@@ -191,20 +212,6 @@
       "published": 1773950834
     },
     {
-      "id": "33bd69d9779d",
-      "title": "沙加緬度疑對閒置物業徵費 有效管制？還是填赤字｜細說燊語",
-      "url": "https://www.singtaousa.com/2026/03/19/news/usa/sacramento-considers-levying-fees-on-vacant-properties-as-controversy-over-development-impacts-heats-up/",
-      "source": "singtaousa.com",
-      "published": 1773950765
-    },
-    {
-      "id": "ab6f07ca1957",
-      "title": "愛妻為布斯慶生 成立基金會關注失智症",
-      "url": "https://www.singtaousa.com/2026/03/19/entertainment/bruce-willis-71st-birthday-dementia-foundation/",
-      "source": "singtaousa.com",
-      "published": 1773950400
-    },
-    {
       "id": "d159fc88f8bd",
       "title": "以色列能源部：伊朗射彈擊中煉油廠　無重大損害",
       "url": "https://money.udn.com/money/story/5599/9391786",
@@ -301,13 +308,6 @@
       "url": "https://money.udn.com/money/story/123398/9391511",
       "source": "money.udn.com",
       "published": 1773942688
-    },
-    {
-      "id": "89ca545b0e7c",
-      "title": "CNN：美軍F-35緊急降落中東基地　疑遭伊朗擊中",
-      "url": "https://money.udn.com/money/story/5599/9391736",
-      "source": "money.udn.com",
-      "published": 1773941838
     },
     {
       "id": "da0abb271c84",
@@ -1304,5 +1304,5 @@
       "published": 1771507620
     }
   ],
-  "build_id": 1773958567
+  "build_id": 1773960715
 }
