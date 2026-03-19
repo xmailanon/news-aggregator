@@ -1,6 +1,20 @@
 {
-  "updated": 1773957088,
+  "updated": 1773958567,
   "items": [
+    {
+      "id": "e03e645eafa7",
+      "title": "伊朗盛大歡迎女足歸國　庇護風波引發國際關注",
+      "url": "https://money.udn.com/money/story/5599/9391819",
+      "source": "money.udn.com",
+      "published": 1773957625
+    },
+    {
+      "id": "48930df5cc28",
+      "title": "加州Cybertruck致命車禍，倖存者怒告特斯拉電子門鎖殺人",
+      "url": "https://www.singtaousa.com/2026/03/19/news/usa/sole-survivor-piedmont-cybertruck-crash-latest-sue-tesla-over-door-design/",
+      "source": "singtaousa.com",
+      "published": 1773957600
+    },
     {
       "id": "4d811ef5ba6c",
       "title": "傳美國防部追加2000億美元預算支援伊朗 川普：很小的代價",
@@ -198,13 +212,6 @@
       "published": 1773950062
     },
     {
-      "id": "6a67daf14197",
-      "title": "美國郵政一年內恐「斷炊」！署長提議郵票漲價至95美分",
-      "url": "https://www.singtaousa.com/2026/03/19/news/usa/usps-stamp-price-hike-proposed-first-class/",
-      "source": "singtaousa.com",
-      "published": 1773950010
-    },
-    {
       "id": "45bc3ba71f79",
       "title": "油輪疑採欺瞞方式航行　載運俄柴油數日內抵古巴",
       "url": "https://money.udn.com/money/story/5599/9391777",
@@ -301,13 +308,6 @@
       "url": "https://money.udn.com/money/story/5599/9391736",
       "source": "money.udn.com",
       "published": 1773941838
-    },
-    {
-      "id": "119f94d1688d",
-      "title": "伊朗打能源毀滅戰 油價恐慌式暴衝",
-      "url": "https://money.udn.com/money/story/5599/9391555",
-      "source": "money.udn.com",
-      "published": 1773941584
     },
     {
       "id": "da0abb271c84",
@@ -1304,5 +1304,5 @@
       "published": 1771507620
     }
   ],
-  "build_id": 1773957088
+  "build_id": 1773958567
 }
