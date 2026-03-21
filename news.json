@@ -1,12 +1,33 @@
 {
-  "updated": 1774090137,
+  "updated": 1774091621,
   "items": [
+    {
+      "id": "208bf46591d2",
+      "title": "韓國大田汽車工廠火災 釀14死60輕重傷",
+      "url": "https://money.udn.com/money/story/5599/9394710",
+      "source": "money.udn.com",
+      "published": 1774090820
+    },
+    {
+      "id": "4f0f2d95b761",
+      "title": "中東戰火第4週　伊朗官媒：納坦茲核設施遭空襲",
+      "url": "https://money.udn.com/money/story/5599/9394707",
+      "source": "money.udn.com",
+      "published": 1774090459
+    },
     {
       "id": "adc0ddc9ac0e",
       "title": "中資借名持股衝擊泰國經濟　不只椰農受害將擴大調查",
       "url": "https://money.udn.com/money/story/5599/9394701",
       "source": "money.udn.com",
       "published": 1774089923
+    },
+    {
+      "id": "53e039341673",
+      "title": "中东战火持续 特朗普要“逐步减少”对伊军事行动 但排除停火",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260321-%E4%B8%AD%E4%B8%9C%E6%88%98%E7%81%AB%E6%8C%81%E7%BB%AD-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81-%E9%80%90%E6%AD%A5%E5%87%8F%E5%B0%91-%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8-%E4%BD%86%E6%8E%92%E9%99%A4%E5%81%9C%E7%81%AB",
+      "source": "rfi.fr",
+      "published": 1774089788
     },
     {
       "id": "168aff9bcf1f",
@@ -261,20 +282,6 @@
       "published": 1774076437
     },
     {
-      "id": "1ae5bc37c3da",
-      "title": "傳川普研議奪取伊朗濃縮鈾　可能出動精英特種部隊",
-      "url": "https://money.udn.com/money/story/5599/9394457",
-      "source": "money.udn.com",
-      "published": 1774075531
-    },
-    {
-      "id": "2c12bda407d0",
-      "title": "加拿大愛城放映「造山者」 台灣半導體傳奇感動觀眾",
-      "url": "https://money.udn.com/money/story/5599/9394445",
-      "source": "money.udn.com",
-      "published": 1774074629
-    },
-    {
       "id": "4b5b89b1f7b4",
       "title": "伊朗战争凸显美国对中国的战略依赖",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260320-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%87%B8%E6%98%BE%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%88%98%E7%95%A5%E4%BE%9D%E8%B5%96",
@@ -413,13 +420,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260320-%E6%B3%95%E6%96%B0%E7%A4%BE-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E9%99%B7%E4%B8%AD%E4%B8%9C%E4%B9%B1%E5%B1%80-%E5%8F%AF%E8%83%BD%E6%AD%A3%E4%B8%AD%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8B%E6%80%80",
       "source": "rfi.fr",
       "published": 1774017816
-    },
-    {
-      "id": "ec82e814239c",
-      "title": "伊朗战争：美以战略注定失败吗？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260320-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89-%E7%BE%8E%E4%BB%A5%E6%88%98%E7%95%A5%E6%B3%A8%E5%AE%9A%E5%A4%B1%E8%B4%A5%E5%90%97",
-      "source": "rfi.fr",
-      "published": 1774016997
     },
     {
       "id": "222ffc08370d",
@@ -1311,5 +1311,5 @@
       "published": 1771507620
     }
   ],
-  "build_id": 1774090137
+  "build_id": 1774091621
 }
