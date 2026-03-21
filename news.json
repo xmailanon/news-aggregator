@@ -1,6 +1,20 @@
 {
-  "updated": 1774127673,
+  "updated": 1774129417,
   "items": [
+    {
+      "id": "7ffb629a945d",
+      "title": "機場大混亂！特朗普威脅派ICE進駐機場 馬斯克願自掏腰包付TSA薪水",
+      "url": "https://www.singtaousa.com/2026/03/21/news/usa/trump-threatens-to-deploy-ice-agents-to-airports-if-dhs-shutdown-doesnt-end-while-elon-musk-offers-to-cover-tsa-agents-pay/",
+      "source": "singtaousa.com",
+      "published": 1774128186
+    },
+    {
+      "id": "b11c41c78029",
+      "title": "Axios：川普團隊研擬與伊朗和談策略",
+      "url": "https://money.udn.com/money/story/5599/9395123",
+      "source": "money.udn.com",
+      "published": 1774128085
+    },
     {
       "id": "580b130a385c",
       "title": "伊朗庫姆市處決三名年輕人 19歲摔跤明星遭絞刑",
@@ -142,13 +156,6 @@
       "published": 1774116812
     },
     {
-      "id": "3698536366e5",
-      "title": "夏威夷歐胡島暴雨成災，州長格林下令關閉政府部門應對洪水威脅",
-      "url": "https://www.singtaousa.com/2026/03/21/news/usa/gov-green-orders-closure-of-state-offices-on-oahu-amid-severe-weather/",
-      "source": "singtaousa.com",
-      "published": 1774116000
-    },
-    {
       "id": "c3166ee603c3",
       "title": "美國監管 AI 公布法律框架 川普政府爭取數個月後在國會通過",
       "url": "https://money.udn.com/money/story/10511/9394992",
@@ -280,13 +287,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260321-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC-%E7%BE%8E%E5%86%9B%E5%B0%86%E9%95%BF%E6%9C%9F%E7%94%A8palantir%E7%A0%94%E5%8F%91%E7%9A%84maven-ai%E8%BF%9B%E8%A1%8C%E7%B2%BE%E7%A1%AE%E6%89%93%E5%87%BB",
       "source": "rfi.fr",
       "published": 1774102210
-    },
-    {
-      "id": "af5480048d84",
-      "title": "澤倫斯基：烏克蘭已派200多名專家至中東5國協助攔截無人機",
-      "url": "https://money.udn.com/money/story/5599/9394873",
-      "source": "money.udn.com",
-      "published": 1774101264
     },
     {
       "id": "f4eb417c1589",
@@ -1283,5 +1283,5 @@
       "published": 1771753680
     }
   ],
-  "build_id": 1774127673
+  "build_id": 1774129417
 }
