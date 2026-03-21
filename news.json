@@ -1,6 +1,27 @@
 {
-  "updated": 1774111857,
+  "updated": 1774113370,
   "items": [
+    {
+      "id": "96697eca9328",
+      "title": "哪些船隻仍在通過霍爾木茲海峽？",
+      "url": "https://www.bbc.com/zhongwen/articles/c17vg9e8xv9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1774113198
+    },
+    {
+      "id": "8ee34f68d656",
+      "title": "長期照護保險理賠：報銷型和直接付款型哪個好？",
+      "url": "https://www.singtaousa.com/2026/03/21/lifestyle/long-term-care-insurance-claims-which-is-better-reimbursement-or-direct-payment/",
+      "source": "singtaousa.com",
+      "published": 1774112419
+    },
+    {
+      "id": "ac0e07060e65",
+      "title": "高Ling自爆甘願為愛離港",
+      "url": "https://www.singtaousa.com/2026/03/21/entertainment/gaoling-leave-hong-kong-love/",
+      "source": "singtaousa.com",
+      "published": 1774112400
+    },
     {
       "id": "44478c9b84c2",
       "title": "紀律部門飛鏢聯賽正式啟動 海關隊伍首戰告捷",
@@ -38,7 +59,7 @@
     },
     {
       "id": "7fb7dc3e72df",
-      "title": "K-pop王者归来：防弹少年团首尔开唱 全球粉丝泪目嗨欢",
+      "title": "K-pop王者归来：防弹少年首尔开唱 全球粉丝泪目嗨欢",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260321-k-pop%E7%8E%8B%E8%80%85%E5%BD%92%E6%9D%A5-%E9%98%B2%E5%BC%B9%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%A6%96%E5%B0%94%E5%BC%80%E5%94%B1-%E5%85%A8%E7%90%83%E7%B2%89%E4%B8%9D%E6%B3%AA%E7%9B%AE%E5%97%A8%E6%AC%A2",
       "source": "rfi.fr",
       "published": 1774106729
@@ -138,20 +159,6 @@
       "id": "b25e3a7f1c91",
       "title": "聯邦快遞財報勝預期",
       "url": "https://www.singtaousa.com/2026/03/21/news/usa/fedex-financial-report-beats-expectations/",
-      "source": "singtaousa.com",
-      "published": 1774101600
-    },
-    {
-      "id": "961a2031b871",
-      "title": "美超微股價重挫30%市值蒸發60億美元",
-      "url": "https://www.singtaousa.com/2026/03/21/news/usa/amd-stock-price-plummets-30/",
-      "source": "singtaousa.com",
-      "published": 1774101600
-    },
-    {
-      "id": "266def6925fb",
-      "title": "Palantir前景好   分析師上調目標價",
-      "url": "https://www.singtaousa.com/2026/03/21/news/usa/palantir-analysts-upgrade-price/",
       "source": "singtaousa.com",
       "published": 1774101600
     },
@@ -567,13 +574,6 @@
       "url": "https://www.dw.com/zh/川普會晤高市早苗稱：將在習近平面前為日本美言/a-76443357?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1773986160
-    },
-    {
-      "id": "96697eca9328",
-      "title": "哪些船隻在通過霍爾木茲海峽？",
-      "url": "https://www.bbc.com/zhongwen/articles/c17vg9e8xv9o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1773982401
     },
     {
       "id": "0ee8c12a21ee",
@@ -1283,5 +1283,5 @@
       "published": 1771753680
     }
   ],
-  "build_id": 1774111857
+  "build_id": 1774113370
 }
