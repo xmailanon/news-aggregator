@@ -1,6 +1,27 @@
 {
-  "updated": 1774221391,
+  "updated": 1774223248,
   "items": [
+    {
+      "id": "d9a17c2c4439",
+      "title": "義大利舉行司改公投  正反派激鬥成政黨勢力指標",
+      "url": "https://money.udn.com/money/story/5599/9396507",
+      "source": "money.udn.com",
+      "published": 1774223122
+    },
+    {
+      "id": "e79026e79f85",
+      "title": "美股期指開盤後激烈多空拉鋸 原油急漲後轉跌 川普與伊朗互相烙狠話",
+      "url": "https://money.udn.com/money/story/5599/9396504",
+      "source": "money.udn.com",
+      "published": 1774222080
+    },
+    {
+      "id": "74340ec4d225",
+      "title": "油价飙升、航班取消：航空燃油危机席卷亚洲",
+      "url": "https://cn.nytimes.com/business/20260323/oil-jetfuel-asia/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1774221711
+    },
     {
       "id": "e5af618f2fec",
       "title": "以色列稱伊朗飛彈可威脅歐洲　英國態度保留",
@@ -252,20 +273,6 @@
       "url": "https://money.udn.com/money/story/5599/9396323",
       "source": "money.udn.com",
       "published": 1774201728
-    },
-    {
-      "id": "7916f8048840",
-      "title": "外國旅客搶購美妝、生活雜貨、時尚商品 南韓掀 Ol-Da-Mu 熱潮",
-      "url": "https://money.udn.com/money/story/5599/9396255",
-      "source": "money.udn.com",
-      "published": 1774201690
-    },
-    {
-      "id": "e4b7fbf8c6ba",
-      "title": "BTS 經濟學效益驚人 鄰近主要超商營收大增逾五倍",
-      "url": "https://money.udn.com/money/story/5599/9396279",
-      "source": "money.udn.com",
-      "published": 1774201600
     },
     {
       "id": "0b604f525271",
@@ -1080,13 +1087,6 @@
       "published": 1773722220
     },
     {
-      "id": "168fe9b3aaae",
-      "title": "特朗普：“我确信我会有幸拿下古巴”",
-      "url": "https://cn.nytimes.com/world/20260317/cuba-us-foreign-investment-businesses/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1773721519
-    },
-    {
       "id": "bdaf256397a1",
       "title": "「誰不想發篇學術垃圾」：從《新青年》到性別意識，中國年輕人自建學術自娛平台潮始末",
       "url": "https://www.bbc.com/zhongwen/articles/c0ljr423x9wo/trad?at_medium=RSS&at_campaign=rss",
@@ -1297,5 +1297,5 @@
       "published": 1771753680
     }
   ],
-  "build_id": 1774221391
+  "build_id": 1774223248
 }
