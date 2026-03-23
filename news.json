@@ -1,5 +1,5 @@
 {
-  "updated": 1774304396,
+  "updated": 1774306551,
   "items": [
     {
       "id": "2600563ff96e",
@@ -7,13 +7,6 @@
       "url": "https://www.singtaousa.com/2026/03/23/news/usa/opinion-polls-indicate-that-the-united-states-evaluation-of-the-war-in-iraq-is-negative-more-than-half-believe-that-the-development-of-the-situation-is-unfavorable/",
       "source": "singtaousa.com",
       "published": 1774304136
-    },
-    {
-      "id": "25bf2dc9fbd2",
-      "title": "紐約機場事故｜ 涉事跑道最少封至周五 大量航班延誤及取消",
-      "url": "https://www.singtaousa.com/2026/03/23/news/usa/air-canada-accident-involving-2-fatalities-investigation-into-incomplete-runway-restoration-focuses-on-air-traffic-control-errors/",
-      "source": "singtaousa.com",
-      "published": 1774303607
     },
     {
       "id": "36c090123bae",
@@ -30,9 +23,16 @@
       "published": 1774303500
     },
     {
-      "id": "7a78235d2119",
+      "id": "25bf2dc9fbd2",
+      "title": "加航2死事故｜涉事跑道最少封致周五 大量航班延誤及取消",
+      "url": "https://www.singtaousa.com/2026/03/23/news/usa/air-canada-accident-involving-2-fatalities-investigation-into-incomplete-runway-restoration-focuses-on-air-traffic-control-errors/",
+      "source": "singtaousa.com",
+      "published": 1774303450
+    },
+    {
+      "id": "62858af5caa3",
       "title": "中東衝突可能緩和 美國股市收盤勁揚",
-      "url": "https://money.udn.com/money/story/5599/9398666",
+      "url": "https://money.udn.com/money/story/123398/9398666",
       "source": "money.udn.com",
       "published": 1774302856
     },
@@ -1325,5 +1325,5 @@
       "published": 1771753680
     }
   ],
-  "build_id": 1774304396
+  "build_id": 1774306551
 }
