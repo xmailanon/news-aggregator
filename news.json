@@ -1,6 +1,41 @@
 {
-  "updated": 1774291037,
+  "updated": 1774294761,
   "items": [
+    {
+      "id": "1b55091a8e6c",
+      "title": "蘋果計劃在 Apple Maps 推出廣告 加強服務收入",
+      "url": "https://www.singtaousa.com/2026/03/23/news/usa/apple-plans-to-launch-ads-on-apple-maps-to-boost-service-revenue/",
+      "source": "singtaousa.com",
+      "published": 1774294317
+    },
+    {
+      "id": "25accf7882c0",
+      "title": "最高法院審查郵寄選票時效性 拖延票或遭拒計入",
+      "url": "https://www.singtaousa.com/2026/03/23/news/usa/supreme-court-examines-timeliness-of-mail-in-ballots-delayed-votes-may-be-refused-to-be-counted/",
+      "source": "singtaousa.com",
+      "published": 1774293923
+    },
+    {
+      "id": "4970f8db1e83",
+      "title": "日本首相訪美表現引發國內批評 中國外交部回應",
+      "url": "https://www.singtaousa.com/2026/03/23/news/china/takachi-trump-meeting-criticism-china/",
+      "source": "singtaousa.com",
+      "published": 1774293750
+    },
+    {
+      "id": "04098888f7d5",
+      "title": "北京再辦人機共跑半馬 香港隊伍首度參賽",
+      "url": "https://www.singtaousa.com/2026/03/23/news/china/humanoid-robot-half-marathon-beijing-hong-kong/",
+      "source": "singtaousa.com",
+      "published": 1774291948
+    },
+    {
+      "id": "e5b177c90bf8",
+      "title": "三藩市國際機場 ICE 便衣探員拘捕一名女子 市長羅偉發表聲明",
+      "url": "https://www.singtaousa.com/2026/03/23/news/usa/lawmakers-respond-ice-agents-detain-woman-sfo/",
+      "source": "singtaousa.com",
+      "published": 1774291863
+    },
     {
       "id": "78d544e72cd6",
       "title": "印度最大科技博覽會 與台灣AI合作成焦點",
@@ -114,13 +149,6 @@
       "published": 1774288774
     },
     {
-      "id": "6ee220519d82",
-      "title": "ICE進駐機場引發旅客恐慌，三藩市灣區機場情況如何？",
-      "url": "https://www.singtaousa.com/2026/03/23/news/usa/ice-agents-deployed-airports-none-so-far-bay-area/",
-      "source": "singtaousa.com",
-      "published": 1774288470
-    },
-    {
       "id": "92d5cd726196",
       "title": "哥倫比亞運輸機墜毀 傳約80軍人據信罹難",
       "url": "https://money.udn.com/money/story/5599/9398614",
@@ -133,20 +161,6 @@
       "url": "https://money.udn.com/money/story/5599/9398447",
       "source": "money.udn.com",
       "published": 1774288462
-    },
-    {
-      "id": "f722ee3da41b",
-      "title": "食環署周末多區執法 打擊無牌熟食小販拘4人",
-      "url": "https://www.singtaousa.com/2026/03/23/news/china/food-department-crackdown-unlicensed-vendors/",
-      "source": "singtaousa.com",
-      "published": 1774288350
-    },
-    {
-      "id": "7f2439603a1e",
-      "title": "特朗普指伊朗「想達成協議」 德黑蘭：假的",
-      "url": "https://www.singtaousa.com/2026/03/23/news/usa/news-trump-iran-strait-of-hormuz-nuclear-deal-deadline-extension-khameinei/",
-      "source": "singtaousa.com",
-      "published": 1774288082
     },
     {
       "id": "630c9761396d",
@@ -196,20 +210,6 @@
       "url": "https://money.udn.com/money/story/5599/9398481",
       "source": "money.udn.com",
       "published": 1774287139
-    },
-    {
-      "id": "7a8b5d9932d2",
-      "title": "紐約機場致命撞機：加航客機撞毀消防車，管制員錄音中崩潰自責「我搞砸了」",
-      "url": "https://www.singtaousa.com/2026/03/23/news/usa/air-traffic-controller-heard-telling-truck-to-stop-moments-before-deadly-air-canada-crash/",
-      "source": "singtaousa.com",
-      "published": 1774287115
-    },
-    {
-      "id": "de616068255c",
-      "title": "再有過百青少年踏單車闖高速公路 交通風險與監管失衡並存｜細說燊語",
-      "url": "https://www.singtaousa.com/2026/03/23/news/usa/more-than-a-hundred-teenagers-rode-bicycles-on-the-highway-again-traffic-risks-and-regulatory-imbalances-coexist-lets-talk-about-shens-words-in-detail/",
-      "source": "singtaousa.com",
-      "published": 1774287076
     },
     {
       "id": "f03d918fb33a",
@@ -1325,5 +1325,5 @@
       "published": 1771753680
     }
   ],
-  "build_id": 1774291037
+  "build_id": 1774294761
 }
