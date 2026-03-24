@@ -1,6 +1,41 @@
 {
-  "updated": 1774391040,
+  "updated": 1774392905,
   "items": [
+    {
+      "id": "afdb603cb146",
+      "title": "美股震盪收低 投資人在戰火疑慮和談判希望之間拉鋸",
+      "url": "https://money.udn.com/money/story/5599/9401178",
+      "source": "money.udn.com",
+      "published": 1774392490
+    },
+    {
+      "id": "9c63f0dcefc7",
+      "title": "川普稱伊朗送上大禮 與荷莫茲海峽石油運輸有關",
+      "url": "https://money.udn.com/money/story/5599/9401172",
+      "source": "money.udn.com",
+      "published": 1774391784
+    },
+    {
+      "id": "2cea56ca58c0",
+      "title": "投資人謹慎觀察中東戰爭後續 美股多收黑",
+      "url": "https://money.udn.com/money/story/123398/9401168",
+      "source": "money.udn.com",
+      "published": 1774391418
+    },
+    {
+      "id": "41c4651cb547",
+      "title": "LA28奧運新視覺形象亮相 色彩絢麗奪目",
+      "url": "https://www.singtaousa.com/2026/03/24/news/usa/news-la28-unveils-california-inspired-superbloom-branding-olympic-paralympic-games/",
+      "source": "singtaousa.com",
+      "published": 1774391293
+    },
+    {
+      "id": "2c2220b6f1de",
+      "title": "法国外长：以色列应该避免向黎巴嫩南部地区派遣军队",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260324-%E6%B3%95%E5%9B%BD%E5%A4%96%E9%95%BF-%E4%BB%A5%E8%89%B2%E5%88%97%E5%BA%94%E8%AF%A5%E9%81%BF%E5%85%8D%E5%90%91%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%97%E9%83%A8%E5%9C%B0%E5%8C%BA%E6%B4%BE%E9%81%A3%E5%86%9B%E9%98%9F",
+      "source": "rfi.fr",
+      "published": 1774391222
+    },
     {
       "id": "0d15ad4eb9dd",
       "title": "因醉酒事件遭解僱 LAPD女指揮官勝訴獲賠570萬元",
@@ -9,11 +44,25 @@
       "published": 1774391062
     },
     {
+      "id": "a31a1a30ba6b",
+      "title": "马克龙呼吁以色列抓住与黎巴嫩直接对话的契机，防止冲突进一步升级",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260324-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%91%BC%E5%90%81%E4%BB%A5%E8%89%B2%E5%88%97%E6%8A%93%E4%BD%8F%E4%B8%8E%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%9B%B4%E6%8E%A5%E5%AF%B9%E8%AF%9D%E7%9A%84%E5%A5%91%E6%9C%BA%EF%BC%8C%E9%98%B2%E6%AD%A2%E5%86%B2%E7%AA%81%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8D%87%E7%BA%A7",
+      "source": "rfi.fr",
+      "published": 1774391042
+    },
+    {
       "id": "80c00afbd808",
       "title": "美國農業部發布警示：牛絞肉疑含金屬污染",
       "url": "https://www.singtaousa.com/2026/03/24/news/usa/usda-issues-warning-ground-beef-may-contain-metal-contamination/",
       "source": "singtaousa.com",
       "published": 1774390902
+    },
+    {
+      "id": "b02f77020079",
+      "title": "特朗普说，伊朗向华盛顿送上了一份“非常大的礼物”， 涉及石油与天然气",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260324-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%EF%BC%8C%E4%BC%8A%E6%9C%97%E5%90%91%E5%8D%8E%E7%9B%9B%E9%A1%BF%E9%80%81%E4%B8%8A%E4%BA%86%E4%B8%80%E4%BB%BD-%E9%9D%9E%E5%B8%B8%E5%A4%A7%E7%9A%84%E7%A4%BC%E7%89%A9-%EF%BC%8C-%E6%B6%89%E5%8F%8A%E7%9F%B3%E6%B2%B9%E4%B8%8E%E5%A4%A9%E7%84%B6%E6%B0%94",
+      "source": "rfi.fr",
+      "published": 1774390759
     },
     {
       "id": "7f0060fe5a01",
@@ -105,13 +154,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260324-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%8A%E6%9C%97%E8%AF%B4%E6%B3%95%E7%9B%B8%E6%82%96%E6%B2%B9%E4%BB%B7%E8%82%A1%E5%B8%82%E9%9C%87%E8%8D%A1-%E4%BA%A4%E6%98%93%E5%91%98%E7%96%91%E6%8F%90%E5%89%8D%E5%A4%A7%E4%B8%BE%E6%8A%BC%E6%B3%A8",
       "source": "rfi.fr",
       "published": 1774385349
-    },
-    {
-      "id": "21740de06cd0",
-      "title": "天水圍貨櫃場致命意外 七旬司機遭兩車夾困送院不治",
-      "url": "https://www.singtaousa.com/2026/03/24/news/china/septuagenarian-driver-crushed-between-container-trucks/",
-      "source": "singtaousa.com",
-      "published": 1774384931
     },
     {
       "id": "9520f802e8e3",
@@ -231,27 +273,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260324-%E6%97%A5%E6%9C%AC2026%E5%A4%96%E4%BA%A4%E8%93%9D%E7%9A%AE%E4%B9%A6%E6%8B%9F%E8%B0%83%E6%95%B4%E4%B8%AD%E5%9B%BD%E5%AE%9A%E4%BD%8D-%E4%B8%8D%E5%86%8D%E6%98%AF-%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%85%B3%E7%B3%BB%E4%B9%8B%E4%B8%80",
       "source": "rfi.fr",
       "published": 1774369645
-    },
-    {
-      "id": "0ab07d7b730d",
-      "title": "中東衝擊 美歐日 PMI 下滑 美3月初估值降至51.4 寫去年4月來最低水位",
-      "url": "https://money.udn.com/money/story/5599/9400986",
-      "source": "money.udn.com",
-      "published": 1774368658
-    },
-    {
-      "id": "f16d65f36f96",
-      "title": "預測未來關鍵字 2／直擊日本建設公司：人和機器人一起工作，「狗」在工地監工？",
-      "url": "https://money.udn.com/money/story/122979/9344766",
-      "source": "money.udn.com",
-      "published": 1774368416
-    },
-    {
-      "id": "8e2d0cd7a461",
-      "title": "預測未來關鍵字 1／吸引人潮的吉祥物 人型機器人日薪2萬元便宜嗎？",
-      "url": "https://money.udn.com/money/story/122979/9344763",
-      "source": "money.udn.com",
-      "published": 1774368238
     },
     {
       "id": "8f560beb60b8",
@@ -548,13 +569,6 @@
       "published": 1774299102
     },
     {
-      "id": "21e7f9416063",
-      "title": "法国紧急加速炼油产能保障燃料，中东战争引发全球经济风险",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260323-%E6%B3%95%E5%9B%BD%E7%B4%A7%E6%80%A5%E5%8A%A0%E9%80%9F%E7%82%BC%E6%B2%B9%E4%BA%A7%E8%83%BD%E4%BF%9D%E9%9A%9C%E7%87%83%E6%96%99%EF%BC%8C%E4%B8%AD%E4%B8%9C%E6%88%98%E4%BA%89%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E9%A3%8E%E9%99%A9",
-      "source": "rfi.fr",
-      "published": 1774296360
-    },
-    {
       "id": "8c25ae5324dc",
       "title": "中国官方调控油价，限制涨幅减轻用油负担",
       "url": "https://cn.nytimes.com/business/20260324/china-gasoline-prices/?utm_source=RSS",
@@ -574,83 +588,6 @@
       "url": "https://cn.nytimes.com/business/20260324/oil-importers-middle-east-iran-war/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1774285678
-    },
-    {
-      "id": "d101f08cb8a1",
-      "title": "以媒消息指：如何停战...... 白宫的交涉对象为伊朗议长",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260323-%E4%BB%A5%E5%AA%92%E6%B6%88%E6%81%AF%E6%8C%87-%E5%A6%82%E4%BD%95%E5%81%9C%E6%88%98-%E7%99%BD%E5%AE%AB%E7%9A%84%E4%BA%A4%E6%B6%89%E5%AF%B9%E8%B1%A1%E4%B8%BA%E4%BC%8A%E6%9C%97%E8%AE%AE%E9%95%BF",
-      "source": "rfi.fr",
-      "published": 1774281661
-    },
-    {
-      "id": "801be7f307aa",
-      "title": "美国参议员要求暂停对华出口英伟达AI芯片",
-      "url": "https://www.ftchinese.com/story/001109272",
-      "source": "ftchinese.com",
-      "published": 1774281600
-    },
-    {
-      "id": "0b838c512fb2",
-      "title": "美国在伊朗陷入泥潭将为中国送上战略利好？",
-      "url": "https://www.ftchinese.com/story/001109271",
-      "source": "ftchinese.com",
-      "published": 1774281600
-    },
-    {
-      "id": "dec8d8475dd0",
-      "title": "当AI成为战略资产，中国需要怎样的“关键技术护栏”？",
-      "url": "https://www.ftchinese.com/story/001109269",
-      "source": "ftchinese.com",
-      "published": 1774281600
-    },
-    {
-      "id": "9ac35493fe01",
-      "title": "专访许玲玲：失去托举的年轻人，只能怪上一代不够努力吗？",
-      "url": "https://www.ftchinese.com/story/001109260",
-      "source": "ftchinese.com",
-      "published": 1774281600
-    },
-    {
-      "id": "bb393e572752",
-      "title": "比AI幻觉更危险的事：财经新闻教育的前线观察",
-      "url": "https://www.ftchinese.com/story/001109267",
-      "source": "ftchinese.com",
-      "published": 1774281600
-    },
-    {
-      "id": "ff887ebe77ed",
-      "title": "AI代理热潮下，滴普科技能否成为下个Manus？",
-      "url": "https://www.ftchinese.com/story/001109266",
-      "source": "ftchinese.com",
-      "published": 1774281600
-    },
-    {
-      "id": "b9f4515a9b0b",
-      "title": "内塔尼亚胡的豪赌将给以色列带来灾难",
-      "url": "https://www.ftchinese.com/story/001109265",
-      "source": "ftchinese.com",
-      "published": 1774281600
-    },
-    {
-      "id": "70b557a85c5d",
-      "title": "特朗普考虑邀请卢卡申科访美",
-      "url": "https://www.ftchinese.com/story/001109264",
-      "source": "ftchinese.com",
-      "published": 1774281600
-    },
-    {
-      "id": "5b1f07a32b15",
-      "title": "特朗普宣布暂缓攻击伊朗能源设施后市场反弹",
-      "url": "https://www.ftchinese.com/story/001109263",
-      "source": "ftchinese.com",
-      "published": 1774281600
-    },
-    {
-      "id": "9bf90d70e5e3",
-      "title": "油价冲击的中国传导",
-      "url": "https://www.ftchinese.com/story/001109230",
-      "source": "ftchinese.com",
-      "published": 1774281600
     },
     {
       "id": "9502bc9b28ca",
@@ -679,13 +616,6 @@
       "url": "https://www.dw.com/zh/美国车主-眼红-中国廉价电动车/a-76492396?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1774277460
-    },
-    {
-      "id": "9dc693d77b8f",
-      "title": "最后通牒的“惊喜”！特朗普：结束伊战谈判“进展顺利”军事行动推迟五天",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260323-%E5%8F%B7%E5%A4%96-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E8%BE%BE%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%E5%90%8E%E4%BB%8A%E7%A7%B0-%E7%BB%93%E6%9D%9F%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E7%9A%84%E8%B0%88%E5%88%A4-%E8%BF%9B%E5%B1%95%E9%9D%9E%E5%B8%B8%E9%A1%BA%E5%88%A9",
-      "source": "rfi.fr",
-      "published": 1774270158
     },
     {
       "id": "4c0e7c21a49f",
@@ -786,69 +716,6 @@
       "published": 1774202324
     },
     {
-      "id": "59662148c95d",
-      "title": "石油冲击可能继续蔓延",
-      "url": "https://www.ftchinese.com/story/001109261",
-      "source": "ftchinese.com",
-      "published": 1774195200
-    },
-    {
-      "id": "17d2b6f5d0f4",
-      "title": "一周世界舆论聚焦：高市早苗的为难和李在明的转向",
-      "url": "https://www.ftchinese.com/story/001109259",
-      "source": "ftchinese.com",
-      "published": 1774195200
-    },
-    {
-      "id": "beab2374db26",
-      "title": "“特朗普式外交带来赤裸裸的交易性”",
-      "url": "https://www.ftchinese.com/story/001109253",
-      "source": "ftchinese.com",
-      "published": 1774195200
-    },
-    {
-      "id": "d0a8a702e764",
-      "title": "伊朗战争可能终结AI繁荣",
-      "url": "https://www.ftchinese.com/story/001109258",
-      "source": "ftchinese.com",
-      "published": 1774195200
-    },
-    {
-      "id": "7e73917bffd0",
-      "title": "日本对印度金融业投资创纪录",
-      "url": "https://www.ftchinese.com/story/001109257",
-      "source": "ftchinese.com",
-      "published": 1774195200
-    },
-    {
-      "id": "94fbccb915b7",
-      "title": "古巴几天里两次全国停电",
-      "url": "https://www.ftchinese.com/story/001109256",
-      "source": "ftchinese.com",
-      "published": 1774195200
-    },
-    {
-      "id": "248732371995",
-      "title": "李强：中国致力成为“稳定性港湾”",
-      "url": "https://www.ftchinese.com/story/001109255",
-      "source": "ftchinese.com",
-      "published": 1774195200
-    },
-    {
-      "id": "f3ad3be617f0",
-      "title": "中国矿企或将面临更严格的环保标准",
-      "url": "https://www.ftchinese.com/story/001109252",
-      "source": "ftchinese.com",
-      "published": 1774195200
-    },
-    {
-      "id": "1093131319ae",
-      "title": "“数读”朝鲜劳动党九大",
-      "url": "https://www.ftchinese.com/story/001109254",
-      "source": "ftchinese.com",
-      "published": 1774195200
-    },
-    {
       "id": "4fd2550d5b25",
       "title": "墙外文摘：打不打台湾，多少中国人说“不”？",
       "url": "https://www.dw.com/zh/墙外文摘：打不打台湾，多少中国人说-不-？/a-76476294?maca=chi-rss-chi-all-1127-rdf",
@@ -917,13 +784,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c17vg9e8xv9o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1774113198
-    },
-    {
-      "id": "6aa580efc5ee",
-      "title": "伊朗战争下，欧盟呼吁家庭走上“能源自主”之路",
-      "url": "https://www.ftchinese.com/story/001109251",
-      "source": "ftchinese.com",
-      "published": 1774108800
     },
     {
       "id": "086ba7aceee3",
@@ -1311,5 +1171,5 @@
       "published": 1771855920
     }
   ],
-  "build_id": 1774391040
+  "build_id": 1774392905
 }
