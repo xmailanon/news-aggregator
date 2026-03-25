@@ -1,12 +1,166 @@
 {
-  "updated": 1774396286,
+  "updated": 1774400912,
   "items": [
+    {
+      "id": "61af2b5aa481",
+      "title": "OpenAI 推出才六個月便跟 Sora AI 影片生成器說拜拜",
+      "url": "https://money.udn.com/money/story/5599/9401306",
+      "source": "money.udn.com",
+      "published": 1774400576
+    },
+    {
+      "id": "40941077f493",
+      "title": "王鷗公開情史  五年緋聞畫上句號",
+      "url": "https://www.singtaousa.com/2026/03/24/entertainment/wang-ou-public-love-history/",
+      "source": "singtaousa.com",
+      "published": 1774400400
+    },
+    {
+      "id": "b1eba8b4a935",
+      "title": "聯準會理事巴爾稱利率可能需在「一段時間內」維持不變",
+      "url": "https://money.udn.com/money/story/5599/9401205",
+      "source": "money.udn.com",
+      "published": 1774400198
+    },
+    {
+      "id": "2f047b5a3762",
+      "title": "蘋果擬借 Siri 應用程式、全新界面及「Ask」按鈕重啟 AI 戰略",
+      "url": "https://money.udn.com/money/story/5599/9401206",
+      "source": "money.udn.com",
+      "published": 1774400017
+    },
+    {
+      "id": "147a88494c64",
+      "title": "等伊朗回應！美媒：美擬26日啟動談判 以色列憂「美伊似在醞釀某事」",
+      "url": "https://money.udn.com/money/story/5599/9401287",
+      "source": "money.udn.com",
+      "published": 1774399816
+    },
+    {
+      "id": "cd88ad6c2483",
+      "title": "官员称美国向伊朗提交结束战争计划",
+      "url": "https://cn.nytimes.com/world/20260325/us-iran-peace-plan/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1774399782
+    },
+    {
+      "id": "f029f1e8b772",
+      "title": "美解除委內瑞拉駐美使館制裁 雙方關係持續回溫",
+      "url": "https://money.udn.com/money/story/5599/9401283",
+      "source": "money.udn.com",
+      "published": 1774399543
+    },
+    {
+      "id": "7b9333cadf76",
+      "title": "日本自衛隊少尉持刀闖中國駐東京使館 中方嚴正交涉",
+      "url": "https://www.singtaousa.com/2026/03/24/news/china/japan-self-defense-force-officer-chinese-embassy-tokyo/",
+      "source": "singtaousa.com",
+      "published": 1774399334
+    },
+    {
+      "id": "8a5d515b430f",
+      "title": "債市風向變！平倉潮退場 多空決戰 利率上行壓力未減 轉折點逼近",
+      "url": "https://money.udn.com/money/story/5599/9401272",
+      "source": "money.udn.com",
+      "published": 1774399139
+    },
+    {
+      "id": "6ec1ca32d835",
+      "title": "義政府推司改公投失敗 梅洛尼內閣2官員下台",
+      "url": "https://money.udn.com/money/story/5599/9401267",
+      "source": "money.udn.com",
+      "published": 1774399009
+    },
+    {
+      "id": "5185e1cfa7c9",
+      "title": "路透：美預計增派第82空降師數千兵力赴中東",
+      "url": "https://money.udn.com/money/story/5599/9401265",
+      "source": "money.udn.com",
+      "published": 1774398994
+    },
+    {
+      "id": "5da05f4bc9a8",
+      "title": "美國封鎖下能源危機加劇 國際援助船抵達古巴",
+      "url": "https://money.udn.com/money/story/5599/9401264",
+      "source": "money.udn.com",
+      "published": 1774398982
+    },
+    {
+      "id": "41dec72caaa5",
+      "title": "雪佛龍警告伊朗戰局若不緩解 加利福尼亞將面臨成品油危機",
+      "url": "https://money.udn.com/money/story/5599/9401259",
+      "source": "money.udn.com",
+      "published": 1774398885
+    },
+    {
+      "id": "a2cf5d42c9b2",
+      "title": "油價飆漲及民眾反對伊朗戰爭 川普支持率創回任新低",
+      "url": "https://money.udn.com/money/story/5599/9401258",
+      "source": "money.udn.com",
+      "published": 1774398633
+    },
+    {
+      "id": "f29e27f26175",
+      "title": "川普自爆伊朗送「價值連城大禮」！白宮已和伊朗「對的人」接上線",
+      "url": "https://money.udn.com/money/story/5599/9401257",
+      "source": "money.udn.com",
+      "published": 1774398595
+    },
+    {
+      "id": "8ac9b25af295",
+      "title": "美伊停戰現曙光？ 以媒曝特朗普提15點協議換停火一月",
+      "url": "https://www.singtaousa.com/2026/03/24/news/world/israeli-media-revealed-the-united-states-plans-to-promote-a-january-ceasefire-and-negotiate-a-15-point-agreement-with-iran/",
+      "source": "singtaousa.com",
+      "published": 1774397928
+    },
+    {
+      "id": "6239d8eb22b2",
+      "title": "別一味計算卡路里了，吃得聰明一些更有用",
+      "url": "https://www.bbc.com/zhongwen/articles/cde570879eyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1774397884
+    },
+    {
+      "id": "b841c85a6466",
+      "title": "「保姆車」和「流量明星」：中國影視監管當局為何要打擊「撕番位」？",
+      "url": "https://www.bbc.com/zhongwen/articles/c8r4lzp4m2do/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1774397823
+    },
+    {
+      "id": "04d123058547",
+      "title": "麵包連鎖店即棄手套包裝惹爭議 品牌方回應現分歧",
+      "url": "https://www.singtaousa.com/2026/03/24/news/china/bakery-chain-disposable-glove-controversy/",
+      "source": "singtaousa.com",
+      "published": 1774397532
+    },
+    {
+      "id": "f2184dc76553",
+      "title": "螢幕丈夫證實死訊 《狙魔人》Carrie上月病逝",
+      "url": "https://www.singtaousa.com/2026/03/24/entertainment/carrie-anne-fleming-dies/",
+      "source": "singtaousa.com",
+      "published": 1774396800
+    },
+    {
+      "id": "75bbab5e1101",
+      "title": "SK 海力士證實計劃今年赴美上市 傳籌集百億美元",
+      "url": "https://money.udn.com/money/story/5599/9401228",
+      "source": "money.udn.com",
+      "published": 1774396742
+    },
     {
       "id": "e6dccfaf376c",
       "title": "洛杉磯國際機場行李員粗暴拋擲吉他！400萬人次觀看影片引爆眾怒",
       "url": "https://www.singtaousa.com/2026/03/24/news/usa/airline-baggage-handler-sparks-fury-for-tossing-guitars-on-tarmac/",
       "source": "singtaousa.com",
       "published": 1774396426
+    },
+    {
+      "id": "6273d54c87c3",
+      "title": "知情人士称沙特王储敦促特朗普继续对伊朗战争",
+      "url": "https://cn.nytimes.com/world/20260325/saudi-prince-iran-trump/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1774396321
     },
     {
       "id": "a9dfb6211973",
@@ -93,13 +247,6 @@
       "published": 1774393943
     },
     {
-      "id": "c76f9dae8265",
-      "title": "未上市公司債基金大失血 Ares將旗下基金贖回率限制在每季5%",
-      "url": "https://money.udn.com/money/story/5599/9401191",
-      "source": "money.udn.com",
-      "published": 1774393933
-    },
-    {
       "id": "c10b6860453f",
       "title": "東京外交風向大轉彎！高市早苗擬降級對華關係，不再稱「最重要」鄰國",
       "url": "https://www.singtaousa.com/2026/03/24/news/world/japan-to-drop-most-important-tag-for-china-ties/",
@@ -114,46 +261,11 @@
       "published": 1774393500
     },
     {
-      "id": "4811dba0bd5f",
-      "title": "美國傳外交斡旋結束伊戰 WTI 油價應聲重挫近5%跌破88美元",
-      "url": "https://money.udn.com/money/story/5599/9401188",
-      "source": "money.udn.com",
-      "published": 1774393426
-    },
-    {
       "id": "30c99d618488",
       "title": "網民留言想死 廣瀨愛麗絲暖舉獲讚",
       "url": "https://www.singtaousa.com/2026/03/24/entertainment/gorgeous-alice-warm-response/",
       "source": "singtaousa.com",
       "published": 1774393200
-    },
-    {
-      "id": "28728a81f31c",
-      "title": "美能源部啟動核能復興：3或4座小型反應爐7月臨界運轉",
-      "url": "https://money.udn.com/money/story/5599/9401182",
-      "source": "money.udn.com",
-      "published": 1774393085
-    },
-    {
-      "id": "afdb603cb146",
-      "title": "美股收盤／三大指數震盪收低 投資人在戰火疑慮和談判希望之間拉鋸",
-      "url": "https://money.udn.com/money/story/5599/9401178",
-      "source": "money.udn.com",
-      "published": 1774392490
-    },
-    {
-      "id": "9c63f0dcefc7",
-      "title": "川普稱伊朗送上大禮 與荷莫茲海峽石油運輸有關",
-      "url": "https://money.udn.com/money/story/5599/9401172",
-      "source": "money.udn.com",
-      "published": 1774391784
-    },
-    {
-      "id": "2cea56ca58c0",
-      "title": "投資人謹慎觀察中東戰爭後續 美股多收黑",
-      "url": "https://money.udn.com/money/story/123398/9401168",
-      "source": "money.udn.com",
-      "published": 1774391418
     },
     {
       "id": "41c4651cb547",
@@ -170,25 +282,11 @@
       "published": 1774391222
     },
     {
-      "id": "0d15ad4eb9dd",
-      "title": "因醉酒事件遭解僱 LAPD女指揮官勝訴獲賠570萬元",
-      "url": "https://www.singtaousa.com/2026/03/24/news/usa/news-lapd-commander-discrimination-lawsuit-verdict-mehringer/",
-      "source": "singtaousa.com",
-      "published": 1774391062
-    },
-    {
       "id": "a31a1a30ba6b",
       "title": "马克龙呼吁以色列抓住与黎巴嫩直接对话的契机，防止冲突进一步升级",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260324-%E9%A9%AC%E5%85%8B%E9%BE%99%E5%91%BC%E5%90%81%E4%BB%A5%E8%89%B2%E5%88%97%E6%8A%93%E4%BD%8F%E4%B8%8E%E9%BB%8E%E5%B7%B4%E5%AB%A9%E7%9B%B4%E6%8E%A5%E5%AF%B9%E8%AF%9D%E7%9A%84%E5%A5%91%E6%9C%BA%EF%BC%8C%E9%98%B2%E6%AD%A2%E5%86%B2%E7%AA%81%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8D%87%E7%BA%A7",
       "source": "rfi.fr",
       "published": 1774391042
-    },
-    {
-      "id": "80c00afbd808",
-      "title": "美國農業部發布警示：牛絞肉疑含金屬污染",
-      "url": "https://www.singtaousa.com/2026/03/24/news/usa/usda-issues-warning-ground-beef-may-contain-metal-contamination/",
-      "source": "singtaousa.com",
-      "published": 1774390902
     },
     {
       "id": "b02f77020079",
@@ -198,48 +296,6 @@
       "published": 1774390759
     },
     {
-      "id": "7f0060fe5a01",
-      "title": "南京大屠殺紀念館去年接待逾1.6萬港人 館方強調歷史研究持續進行",
-      "url": "https://www.singtaousa.com/2026/03/24/news/china/nanjing-massacre-memorial-hong-kong-visitors/",
-      "source": "singtaousa.com",
-      "published": 1774390330
-    },
-    {
-      "id": "92e550cd66df",
-      "title": "Trader Joe’s炒飯召回令再度擴大！官方警告：這 43 州的顧客請立即檢查購買日期",
-      "url": "https://www.singtaousa.com/2026/03/24/news/usa/trader-joes-recall-states-glass-contamination/",
-      "source": "singtaousa.com",
-      "published": 1774390053
-    },
-    {
-      "id": "4f2b96713198",
-      "title": "Chappell澄清對保安罵人不知情 佐真奴太太反指應管好員工",
-      "url": "https://www.singtaousa.com/2026/03/24/entertainment/chappell-security-incident-jorginho/",
-      "source": "singtaousa.com",
-      "published": 1774389600
-    },
-    {
-      "id": "3811bf29a1af",
-      "title": "市場謹慎評估中東戰爭結束前景 國際油價上揚",
-      "url": "https://money.udn.com/money/story/5599/9401141",
-      "source": "money.udn.com",
-      "published": 1774389259
-    },
-    {
-      "id": "09dfcdb4ba4d",
-      "title": "美伊談判有突破？川普聲稱伊朗已經同意永遠不擁核武",
-      "url": "https://money.udn.com/money/story/5599/9401134",
-      "source": "money.udn.com",
-      "published": 1774388345
-    },
-    {
-      "id": "50ba0a4cdf1b",
-      "title": "黎巴嫩下令驅逐伊朗大使 真主黨籲收回成命",
-      "url": "https://money.udn.com/money/story/5599/9401127",
-      "source": "money.udn.com",
-      "published": 1774386744
-    },
-    {
       "id": "1bad09f826ce",
       "title": "特朗普伊朗说法相悖油价股市震荡 交易员疑提前大举押注",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260324-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%8A%E6%9C%97%E8%AF%B4%E6%B3%95%E7%9B%B8%E6%82%96%E6%B2%B9%E4%BB%B7%E8%82%A1%E5%B8%82%E9%9C%87%E8%8D%A1-%E4%BA%A4%E6%98%93%E5%91%98%E7%96%91%E6%8F%90%E5%89%8D%E5%A4%A7%E4%B8%BE%E6%8A%BC%E6%B3%A8",
@@ -247,39 +303,11 @@
       "published": 1774385349
     },
     {
-      "id": "9520f802e8e3",
-      "title": "聯合國人權機構將辯論 聚焦伊朗襲波灣國家",
-      "url": "https://money.udn.com/money/story/5599/9401107",
-      "source": "money.udn.com",
-      "published": 1774380984
-    },
-    {
       "id": "f6c030e6f5a1",
       "title": "乌克兰罕见日间遭大规模空袭 泽连斯基呼吁盟友加大对俄施压",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260324-%E4%B9%8C%E5%85%8B%E5%85%B0%E7%BD%95%E8%A7%81%E6%97%A5%E9%97%B4%E9%81%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%91%BC%E5%90%81%E7%9B%9F%E5%8F%8B%E5%8A%A0%E5%A4%A7%E5%AF%B9%E4%BF%84%E6%96%BD%E5%8E%8B",
       "source": "rfi.fr",
       "published": 1774380386
-    },
-    {
-      "id": "d9bd33497066",
-      "title": "巴基斯坦總理稱願意主辦和談 促伊朗戰爭結束",
-      "url": "https://money.udn.com/money/story/5599/9401098",
-      "source": "money.udn.com",
-      "published": 1774378465
-    },
-    {
-      "id": "79cb0bf75917",
-      "title": "市場觀望美國與伊朗談判前景 歐股多收高",
-      "url": "https://money.udn.com/money/story/5599/9401086",
-      "source": "money.udn.com",
-      "published": 1774376034
-    },
-    {
-      "id": "d96cb3dae2b5",
-      "title": "南韓發起全國節能運動",
-      "url": "https://money.udn.com/money/story/5599/9400910",
-      "source": "money.udn.com",
-      "published": 1774375646
     },
     {
       "id": "6a910fbb5e7a",
@@ -294,6 +322,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260324-%E6%97%A5%E6%9C%AC2026%E5%A4%96%E4%BA%A4%E8%93%9D%E7%9A%AE%E4%B9%A6%E6%8B%9F%E8%B0%83%E6%95%B4%E4%B8%AD%E5%9B%BD%E5%AE%9A%E4%BD%8D-%E4%B8%8D%E5%86%8D%E6%98%AF-%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E5%85%B3%E7%B3%BB%E4%B9%8B%E4%B8%80",
       "source": "rfi.fr",
       "published": 1774369645
+    },
+    {
+      "id": "f53f5ead7602",
+      "title": "伊朗战火可能引发网络叛乱",
+      "url": "https://www.ftchinese.com/story/001109276",
+      "source": "ftchinese.com",
+      "published": 1774368000
     },
     {
       "id": "728f1e4fec9c",
@@ -849,13 +884,6 @@
       "published": 1774195200
     },
     {
-      "id": "7e73917bffd0",
-      "title": "日本对印度金融业投资创纪录",
-      "url": "https://www.ftchinese.com/story/001109257",
-      "source": "ftchinese.com",
-      "published": 1774195200
-    },
-    {
       "id": "4fd2550d5b25",
       "title": "墙外文摘：打不打台湾，多少中国人说“不”？",
       "url": "https://www.dw.com/zh/墙外文摘：打不打台湾，多少中国人说-不-？/a-76476294?maca=chi-rss-chi-all-1127-rdf",
@@ -954,13 +982,6 @@
       "published": 1774088820
     },
     {
-      "id": "c3ec31ec3b3a",
-      "title": "AI的世代鴻溝：家長自以為了解子女用它做什麼，事實卻非如此",
-      "url": "https://www.bbc.com/zhongwen/articles/c78rly80zk1o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1774031641
-    },
-    {
       "id": "06effb145e83",
       "title": "澳門國安委法案：國安案可閉門審訊、律師須審查，學者憂未來被告「以一敵眾」",
       "url": "https://www.bbc.com/zhongwen/articles/czj1rz8g0nvo/trad?at_medium=RSS&at_campaign=rss",
@@ -1038,20 +1059,6 @@
       "published": 1773973539
     },
     {
-      "id": "5f1ba542783f",
-      "title": "特朗普用珍珠港事件开玩笑，高市早苗面露尴尬",
-      "url": "https://cn.nytimes.com/world/20260320/trump-japan-pearl-harbor-oval-office-takaichi/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1773968559
-    },
-    {
-      "id": "bb3cfab20c59",
-      "title": "谁来判断伊朗构成的威胁？美国情报总监“甩锅”特朗普",
-      "url": "https://cn.nytimes.com/usa/20260320/tulsi-gabbard-iran-trump/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1773964374
-    },
-    {
       "id": "bccfef8b3abe",
       "title": "德语媒体：中国“五年计划” - 欧洲工业的警钟亦或丧钟？",
       "url": "https://www.dw.com/zh/德语媒体：中国-五年计划-欧洲工业的警钟亦或丧钟？/a-76436536?maca=chi-rss-chi-all-1127-rdf",
@@ -1113,13 +1120,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c39w9xm01w7o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1773824366
-    },
-    {
-      "id": "f8644c082a8b",
-      "title": "戰爭期間，民航客機如何維持飛行？",
-      "url": "https://www.bbc.com/zhongwen/articles/c4g0gkzmd8mo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1773822303
     },
     {
       "id": "78cf10a2cc57",
@@ -1311,5 +1311,5 @@
       "published": 1771855920
     }
   ],
-  "build_id": 1774396286
+  "build_id": 1774400912
 }
