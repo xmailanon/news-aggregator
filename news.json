@@ -1,6 +1,41 @@
 {
-  "updated": 1774560072,
+  "updated": 1774561813,
   "items": [
+    {
+      "id": "fa87eef0ecae",
+      "title": "美國邊境人口增長急劇放緩，特朗普移民政策與佛州颶風重塑人口版圖",
+      "url": "https://www.singtaousa.com/2026/03/26/news/usa/growth-rate-slowed-in-us-metro-areas-in-2025-with-steepest-drops-along-the-southern-border/",
+      "source": "singtaousa.com",
+      "published": 1774561828
+    },
+    {
+      "id": "f09722906fb3",
+      "title": "馬克吐溫獎頒予比爾・馬赫，甘迺迪中心六月舉行典禮",
+      "url": "https://www.singtaousa.com/2026/03/26/news/usa/the-kennedy-center-is-giving-bill-maher-the-mark-twain-prize/",
+      "source": "singtaousa.com",
+      "published": 1774561247
+    },
+    {
+      "id": "35490493c5f5",
+      "title": "卑詩省氣候秘書處遭解散，核心員工轉調支援油管，減排承諾恐成空談",
+      "url": "https://www.singtaousa.com/2026/03/26/news/world/bc-cuts-climate-agency-sends-some-staff-to-work-on-pipelines/",
+      "source": "singtaousa.com",
+      "published": 1774560885
+    },
+    {
+      "id": "08f22e3bd63a",
+      "title": "馬杜洛2度出庭受審 美法官拒撤案訴訟費成僵局",
+      "url": "https://money.udn.com/money/story/5599/9405931",
+      "source": "money.udn.com",
+      "published": 1774560639
+    },
+    {
+      "id": "b4d9469ca25b",
+      "title": "伊朗戰爭不確定性升溫 美股收盤重挫",
+      "url": "https://money.udn.com/money/story/123398/9405927",
+      "source": "money.udn.com",
+      "published": 1774560084
+    },
     {
       "id": "f83f063e9281",
       "title": "日內瓦拍板：國際奧委會新政禁止跨性別女性參賽，強制基因檢測引爆爭議",
@@ -142,20 +177,6 @@
       "published": 1774554322
     },
     {
-      "id": "d707bcfc79f8",
-      "title": "油尖警區聯同入境處展開「烽火」行動 尖沙咀發利大廈搗破賣淫場所拘128人",
-      "url": "https://www.singtaousa.com/2026/03/26/news/china/tsim-sha-tsui-prostitution-raid-128-arrested/",
-      "source": "singtaousa.com",
-      "published": 1774554133
-    },
-    {
-      "id": "528d44a67319",
-      "title": "以色列稱伊朗革命衛隊海軍司令在一次攻擊中喪生",
-      "url": "https://www.singtaousa.com/2026/03/26/news/world/israel-says-iranian-revolutionary-guards-navy-chief-is-killed-in-a-strike/",
-      "source": "singtaousa.com",
-      "published": 1774553739
-    },
-    {
       "id": "91dc7b305bd9",
       "title": "美財長擬強化監督 Fed 有意仿照英國央行模式",
       "url": "https://money.udn.com/money/story/5599/9405725",
@@ -219,13 +240,6 @@
       "published": 1774552410
     },
     {
-      "id": "002ffd2fc237",
-      "title": "前台北市長柯文哲涉京華城案 一審判處17年徒刑",
-      "url": "https://www.singtaousa.com/2026/03/26/news/china/former-taipei-mayor-sentenced-17-years/",
-      "source": "singtaousa.com",
-      "published": 1774552330
-    },
-    {
       "id": "c18ff5ccc138",
       "title": "英國打擊陳志犯罪網絡 李添負責在台洗錢列制裁名單",
       "url": "https://money.udn.com/money/story/5599/9405895",
@@ -280,20 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9405746",
       "source": "money.udn.com",
       "published": 1774546758
-    },
-    {
-      "id": "89b76964f422",
-      "title": "伊朗拒美終戰方案 歐股收黑",
-      "url": "https://money.udn.com/money/story/5599/9405860",
-      "source": "money.udn.com",
-      "published": 1774546592
-    },
-    {
-      "id": "7c9c67f65ac5",
-      "title": "川普再施壓伊朗 警告談判「最好快點認真點 以免為時已晚」 油價飆升",
-      "url": "https://money.udn.com/money/story/5599/9405757",
-      "source": "money.udn.com",
-      "published": 1774546370
     },
     {
       "id": "6bb052403470",
@@ -1304,5 +1304,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774560072
+  "build_id": 1774561813
 }
