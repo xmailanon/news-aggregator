@@ -1,6 +1,13 @@
 {
-  "updated": 1774607795,
+  "updated": 1774611201,
   "items": [
+    {
+      "id": "bf05a46a2c69",
+      "title": "法菲防长签署《访问部队地位协定》强化军事合作",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260327-%E6%B3%95%E8%8F%B2%E9%98%B2%E9%95%BF%E7%AD%BE%E7%BD%B2-%E8%AE%BF%E9%97%AE%E9%83%A8%E9%98%9F%E5%9C%B0%E4%BD%8D%E5%8D%8F%E5%AE%9A-%E5%BC%BA%E5%8C%96%E5%86%9B%E4%BA%8B%E5%90%88%E4%BD%9C",
+      "source": "rfi.fr",
+      "published": 1774607925
+    },
     {
       "id": "f53302fdb2ff",
       "title": "小孩點擊「已滿18」就能看A片 歐盟恐重罰4大成人平台",
@@ -667,13 +674,6 @@
       "published": 1774519338
     },
     {
-      "id": "c75a7a0c786e",
-      "title": "柯文哲判17年、褫夺公权6年 求解除电子脚环降保 柯妈：政治迫害",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260326-%E4%BA%AC%E5%8D%8E%E5%9F%8E%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4-%E6%9F%AF%E6%96%87%E5%93%B2%E5%88%A417%E5%B9%B4-%E8%A4%AB%E5%A4%BA%E5%85%AC%E6%9D%836%E5%B9%B4",
-      "source": "rfi.fr",
-      "published": 1774513931
-    },
-    {
       "id": "c9eebf345fe5",
       "title": "分析：伊朗拒絕與美國談判，反映不信任",
       "url": "https://www.bbc.com/zhongwen/articles/cgld9rj5w8yo/trad?at_medium=RSS&at_campaign=rss",
@@ -1290,5 +1290,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774607795
+  "build_id": 1774611201
 }
