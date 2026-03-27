@@ -1,6 +1,13 @@
 {
-  "updated": 1774648465,
+  "updated": 1774649961,
   "items": [
+    {
+      "id": "77070ba97363",
+      "title": "預料中東戰事持續衝擊能源供應 油價勁揚",
+      "url": "https://money.udn.com/money/story/5599/9408068",
+      "source": "money.udn.com",
+      "published": 1774649220
+    },
     {
       "id": "d9289ec52419",
       "title": "加州頒行政命令 禁官員利用內幕押注預測市場",
@@ -350,13 +357,6 @@
       "url": "https://money.udn.com/money/story/5599/9405982",
       "source": "money.udn.com",
       "published": 1774623228
-    },
-    {
-      "id": "07c48329219a",
-      "title": "川普稱將簽署行政命令 在政府部分停擺期間向 TSA 人員發薪",
-      "url": "https://money.udn.com/money/story/10511/9406001",
-      "source": "money.udn.com",
-      "published": 1774622285
     },
     {
       "id": "f29e705ec054",
@@ -1269,5 +1269,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774648465
+  "build_id": 1774649961
 }
