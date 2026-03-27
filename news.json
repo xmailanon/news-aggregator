@@ -1,6 +1,48 @@
 {
-  "updated": 1774643104,
+  "updated": 1774645264,
   "items": [
+    {
+      "id": "96f950195ce4",
+      "title": "法国电视台采访俄外长被指助俄“大外宣”，乌克兰抗议，法外交部表关切",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260327-%E6%B3%95%E5%9B%BD%E7%94%B5%E8%A7%86%E5%8F%B0%E9%87%87%E8%AE%BF%E4%BF%84%E5%A4%96%E9%95%BF%E5%BC%95%E4%BA%89%E8%AE%AE%EF%BC%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8A%97%E8%AE%AE%EF%BC%8C%E6%B3%95%E5%A4%96%E4%BA%A4%E9%83%A8%E8%A1%A8%E5%85%B3%E5%88%87",
+      "source": "rfi.fr",
+      "published": 1774645081
+    },
+    {
+      "id": "54059a7ed263",
+      "title": "科羅多州雪旱熱浪夾擊，丹佛發布史上最早限水令",
+      "url": "https://www.singtaousa.com/2026/03/27/news/usa/colorado-residents-face-earliest-water-restrictions-ever-a-harbinger-of-worse-to-come/",
+      "source": "singtaousa.com",
+      "published": 1774644833
+    },
+    {
+      "id": "cacf2d966a07",
+      "title": "FBI局長私人電郵被入侵 親伊朗黑客組織承認責任",
+      "url": "https://www.singtaousa.com/2026/03/27/news/usa/iran-linked-hackers-hack-into-fbi-directors-private-email-release-photos-and-documents-attracting-attention/",
+      "source": "singtaousa.com",
+      "published": 1774644352
+    },
+    {
+      "id": "b6727354193a",
+      "title": "伊朗核設施遭精準打擊，以色列轟炸阿拉克與阿爾達坎，德黑蘭誓言報復",
+      "url": "https://www.singtaousa.com/2026/03/27/news/world/israel-strikes-iranian-nuclear-development-facilities-tehran-vows-retaliation/",
+      "source": "singtaousa.com",
+      "published": 1774644189
+    },
+    {
+      "id": "1b1608788598",
+      "title": "懲教署電腦系統遭黑客入侵 約6800職員個人資料受影響",
+      "url": "https://www.singtaousa.com/2026/03/27/news/china/correctional-services-hack-staff-data-breach/",
+      "source": "singtaousa.com",
+      "published": 1774644135
+    },
+    {
+      "id": "42fd3daf6535",
+      "title": "伊朗戰爭切斷全球肥料供應，恐引爆新一輪糧食危機",
+      "url": "https://www.singtaousa.com/2026/03/27/news/world/the-war-in-iran-sparks-a-global-fertilizer-shortage-and-threatens-food-prices/",
+      "source": "singtaousa.com",
+      "published": 1774643638
+    },
     {
       "id": "53a2a5ef8531",
       "title": "全美「不要國王」抗議浪潮再起，週末逾三千場示威劍指特朗普",
@@ -100,34 +142,6 @@
       "published": 1774637749
     },
     {
-      "id": "df3725ca2d28",
-      "title": "《奔跑吧14》海口錄影 餐廳保留明星剩飯供打卡惹衛生爭議",
-      "url": "https://www.singtaousa.com/2026/03/27/news/china/running-man-14-restaurant-keeps-leftovers/",
-      "source": "singtaousa.com",
-      "published": 1774636945
-    },
-    {
-      "id": "6a5bd604b8dc",
-      "title": "2026 颶風季預測曝光：這六個州被列入「高風險名單」，專家警告：最可怕的不是風暴數量",
-      "url": "https://www.singtaousa.com/2026/03/27/news/usa/2026-atlantic-hurricane-forecast-strikes/",
-      "source": "singtaousa.com",
-      "published": 1774635492
-    },
-    {
-      "id": "2edfaa1a0062",
-      "title": "NASA 宇航員在太空突然失語 稱其醫療驚魂仍是個謎",
-      "url": "https://www.singtaousa.com/2026/03/27/news/usa/nasa-astronaut-suddenly-lost-speech-in-space-his-medical-shock-remains-a-mystery/",
-      "source": "singtaousa.com",
-      "published": 1774635447
-    },
-    {
-      "id": "b1b3b5cf7622",
-      "title": "2026中山旅遊攻略：8大商場食玩買全指南，深中通道便捷直達",
-      "url": "https://www.singtaousa.com/2026/03/27/news/china/zhongshan-shopping-malls-guide-2026/",
-      "source": "singtaousa.com",
-      "published": 1774635133
-    },
-    {
       "id": "a2a8612c219f",
       "title": "以色列威胁攻击“将升级和扩大”后，伊朗称核设施遭袭，但“未导致任何放射性物质外泄”",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260327-%E4%BB%A5%E8%89%B2%E5%88%97%E5%A8%81%E8%83%81%E6%94%BB%E5%87%BB-%E5%B0%86%E5%8D%87%E7%BA%A7%E5%92%8C%E6%89%A9%E5%A4%A7-%E5%90%8E%EF%BC%8C%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%A0%B8%E8%AE%BE%E6%96%BD%E9%81%AD%E8%A2%AD%EF%BC%8C%E4%BD%86-%E6%9C%AA%E5%AF%BC%E8%87%B4%E4%BB%BB%E4%BD%95%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8%E5%A4%96%E6%B3%84",
@@ -154,13 +168,6 @@
       "url": "https://money.udn.com/money/story/123398/9407909",
       "source": "money.udn.com",
       "published": 1774634512
-    },
-    {
-      "id": "863881b66c04",
-      "title": "AL新歌晒「八變」造型 高難度吊帶舞被考起",
-      "url": "https://www.singtaousa.com/2026/03/27/entertainment/anson-lo-new-song-dance/",
-      "source": "singtaousa.com",
-      "published": 1774634400
     },
     {
       "id": "0b211017cdf7",
@@ -525,13 +532,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260326-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E5%B0%86%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%E5%BB%B6%E9%95%BF%E8%87%B34%E6%9C%886%E6%97%A5%EF%BC%8C%E7%A7%B0%E8%BF%99%E6%98%AF-%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E7%9A%84%E8%A6%81%E6%B1%82",
       "source": "rfi.fr",
       "published": 1774565127
-    },
-    {
-      "id": "4e633cbd9a14",
-      "title": "鲁比奥缺席G7外长首日会议，但表示帮助重新开放霍尔木兹海峡符合G7国家利益，同时重申美国对盟友的失望",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260326-%E9%B2%81%E6%AF%94%E5%A5%A5%E7%BC%BA%E5%B8%ADg7%E5%A4%96%E9%95%BF%E9%A6%96%E6%97%A5%E4%BC%9A%E8%AE%AE%EF%BC%8C%E4%BD%86%E8%A1%A8%E7%A4%BA%E5%B8%AE%E5%8A%A9%E9%87%8D%E6%96%B0%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%AC%A6%E5%90%88g7%E5%9B%BD%E5%AE%B6%E5%88%A9%E7%9B%8A%EF%BC%8C%E5%90%8C%E6%97%B6%E9%87%8D%E7%94%B3%E7%BE%8E%E5%9B%BD%E5%AF%B9%E7%9B%9F%E5%8F%8B%E7%9A%84%E5%A4%B1%E6%9C%9B",
-      "source": "rfi.fr",
-      "published": 1774557986
     },
     {
       "id": "2c34e725d357",
@@ -1269,5 +1269,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774643104
+  "build_id": 1774645264
 }
