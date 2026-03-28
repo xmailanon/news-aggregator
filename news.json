@@ -1,6 +1,48 @@
 {
-  "updated": 1774732754,
+  "updated": 1774734595,
   "items": [
+    {
+      "id": "3a4d7ddf8996",
+      "title": "台灣漁船疑涉海上售油遭大陸扣留 船員滯留漳州港",
+      "url": "https://www.singtaousa.com/2026/03/28/news/china/taiwan-fishing-vessel-detained-fuel-sale/",
+      "source": "singtaousa.com",
+      "published": 1774734070
+    },
+    {
+      "id": "96c4113189fa",
+      "title": "Axios：盧比歐稱伊朗戰事還要再2到4週",
+      "url": "https://money.udn.com/money/story/5599/9409384",
+      "source": "money.udn.com",
+      "published": 1774733785
+    },
+    {
+      "id": "46bc10270610",
+      "title": "马克龙：勿让伊拉克“被卷入持续升级的冲突”",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260328-%E9%A9%AC%E5%85%8B%E9%BE%99-%E5%8B%BF%E8%AE%A9%E4%BC%8A%E6%8B%89%E5%85%8B-%E8%A2%AB%E5%8D%B7%E5%85%A5%E6%8C%81%E7%BB%AD%E5%8D%87%E7%BA%A7%E7%9A%84%E5%86%B2%E7%AA%81",
+      "source": "rfi.fr",
+      "published": 1774733250
+    },
+    {
+      "id": "6f19e9b4357b",
+      "title": "巴基斯坦：继续外交斡旋努力",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260328-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6-%E7%BB%A7%E7%BB%AD%E5%A4%96%E4%BA%A4%E6%96%A1%E6%97%8B%E5%8A%AA%E5%8A%9B",
+      "source": "rfi.fr",
+      "published": 1774733038
+    },
+    {
+      "id": "e39ef8a2b337",
+      "title": "特朗普让农民     “去买更大的拖拉机”",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260328-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%86%9C%E6%B0%91-%E5%8E%BB%E4%B9%B0%E6%9B%B4%E5%A4%A7%E7%9A%84%E6%8B%96%E6%8B%89%E6%9C%BA",
+      "source": "rfi.fr",
+      "published": 1774732784
+    },
+    {
+      "id": "81d99ae6684b",
+      "title": "中东最大的铝生产基地遭伊朗袭击",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260328-%E4%B8%AD%E4%B8%9C%E6%9C%80%E5%A4%A7%E7%9A%84%E9%93%9D%E7%94%9F%E4%BA%A7%E5%9F%BA%E5%9C%B0%E9%81%AD%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB",
+      "source": "rfi.fr",
+      "published": 1774732623
+    },
     {
       "id": "9fe5331bf323",
       "title": "國際鑑證權威李昌鈺辭世 享壽87歲",
@@ -9,11 +51,32 @@
       "published": 1774732270
     },
     {
+      "id": "6b29b6cf501d",
+      "title": "教宗在摩纳哥谴责贫富分化加剧",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260328-%E6%95%99%E5%AE%97%E5%9C%A8%E6%91%A9%E7%BA%B3%E5%93%A5%E8%B0%B4%E8%B4%A3%E8%B4%AB%E5%AF%8C%E5%88%86%E5%8C%96%E5%8A%A0%E5%89%A7",
+      "source": "rfi.fr",
+      "published": 1774731825
+    },
+    {
       "id": "913998c0783a",
       "title": "「CLS」感激公司力撐",
       "url": "https://www.singtaousa.com/2026/03/28/entertainment/cls-gratitude-company-support/",
       "source": "singtaousa.com",
       "published": 1774731600
+    },
+    {
+      "id": "df33f8f2c383",
+      "title": "以空袭黎巴嫩南部    三名记者殉职",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260328-%E4%BB%A5%E7%A9%BA%E8%A2%AD%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%97%E9%83%A8-%E4%B8%89%E5%90%8D%E8%AE%B0%E8%80%85%E6%AE%89%E8%81%8C",
+      "source": "rfi.fr",
+      "published": 1774731521
+    },
+    {
+      "id": "d4d824ae6817",
+      "title": "抽水蓄能：中国又领先于西方国家",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260328-%E6%8A%BD%E6%B0%B4%E8%93%84%E8%83%BD-%E4%B8%AD%E5%9B%BD%E5%8F%88%E9%A2%86%E5%85%88%E4%BA%8E%E8%A5%BF%E6%96%B9%E5%9B%BD%E5%AE%B6",
+      "source": "rfi.fr",
+      "published": 1774731380
     },
     {
       "id": "c35b90e92f55",
@@ -119,13 +182,6 @@
       "url": "https://www.singtaousa.com/2026/03/28/news/world/bbc-breakfast-in-chaos-as-surreal-segment-leaves-hosts-in-hysterics/",
       "source": "singtaousa.com",
       "published": 1774724178
-    },
-    {
-      "id": "4b6a27c68f55",
-      "title": "伊朗戰火擾亂全球航運，英國恐爆藥物短缺，專家警告：癌症治療或在數週內中斷",
-      "url": "https://www.singtaousa.com/2026/03/28/news/world/uk-weeks-away-from-medicine-shortages-if-iran-war-continues-experts-say/",
-      "source": "singtaousa.com",
-      "published": 1774723912
     },
     {
       "id": "71ab32d7504f",
@@ -273,13 +329,6 @@
       "url": "https://money.udn.com/money/story/5599/9409151",
       "source": "money.udn.com",
       "published": 1774708734
-    },
-    {
-      "id": "edba71445f2f",
-      "title": "印尼16歲以下兒少禁用社群媒體上路 東南亞國家首例",
-      "url": "https://money.udn.com/money/story/5599/9409138",
-      "source": "money.udn.com",
-      "published": 1774707698
     },
     {
       "id": "46d84a1c5ce2",
@@ -434,55 +483,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260327-%E4%BC%8A%E6%9C%97%E6%8C%87%E7%BE%8E%E4%BB%A5%E7%A9%BA%E8%A2%AD%E5%AD%A6%E6%A0%A1-%E9%9D%9E%E8%AF%AF%E7%82%B8-%EF%BC%8C%E8%81%94%E5%90%88%E5%9B%BD%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD%E5%B0%BD%E5%BF%AB%E5%AE%8C%E6%88%90%E8%B0%83%E6%9F%A5",
       "source": "rfi.fr",
       "published": 1774641235
-    },
-    {
-      "id": "95397ed0b76a",
-      "title": "G7会议结束各国重申：必须永久恢复霍尔木兹海峡的通航自由   鲁比奥表示：美国在伊朗的军事行动可能将在“两周内”结束",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260327-g7%E4%BC%9A%E8%AE%AE%E5%90%8E%E5%90%84%E5%9B%BD%E5%8F%91%E8%A1%A8%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E-%E5%BF%85%E9%A1%BB%E6%B0%B8%E4%B9%85%E6%81%A2%E5%A4%8D%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%9A%84%E9%80%9A%E8%88%AA%E8%87%AA%E7%94%B1-%E9%B2%81%E6%AF%94%E5%A5%A5%E7%A6%BB%E5%BC%80%E5%89%8D%E8%AF%B4-%E7%BE%8E%E5%9B%BD%E5%9C%A8%E4%BC%8A%E6%9C%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%8F%AF%E8%83%BD%E5%B0%86%E5%9C%A8-%E4%B8%A4%E5%91%A8%E5%86%85-%E7%BB%93%E6%9D%9F",
-      "source": "rfi.fr",
-      "published": 1774640610
-    },
-    {
-      "id": "78c24bcfd435",
-      "title": "美股连跌恐创四年最长纪录 中东战火与油价飙升加剧衰退忧虑",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260327-%E7%BE%8E%E8%82%A1%E8%BF%9E%E8%B7%8C%E6%81%90%E5%88%9B%E5%9B%9B%E5%B9%B4%E6%9C%80%E9%95%BF%E7%BA%AA%E5%BD%95-%E4%B8%AD%E4%B8%9C%E6%88%98%E7%81%AB%E4%B8%8E%E6%B2%B9%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8A%A0%E5%89%A7%E8%A1%B0%E9%80%80%E5%BF%A7%E8%99%91",
-      "source": "rfi.fr",
-      "published": 1774639307
-    },
-    {
-      "id": "a2a8612c219f",
-      "title": "以色列威胁攻击“将升级和扩大”后，伊朗称核设施遭袭，但“未导致任何放射性物质外泄”",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260327-%E4%BB%A5%E8%89%B2%E5%88%97%E5%A8%81%E8%83%81%E6%94%BB%E5%87%BB-%E5%B0%86%E5%8D%87%E7%BA%A7%E5%92%8C%E6%89%A9%E5%A4%A7-%E5%90%8E%EF%BC%8C%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%A0%B8%E8%AE%BE%E6%96%BD%E9%81%AD%E8%A2%AD%EF%BC%8C%E4%BD%86-%E6%9C%AA%E5%AF%BC%E8%87%B4%E4%BB%BB%E4%BD%95%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8%E5%A4%96%E6%B3%84",
-      "source": "rfi.fr",
-      "published": 1774634792
-    },
-    {
-      "id": "a2850a79d634",
-      "title": "美媒：FBI局长邮箱遭黑客入侵，疑似与伊朗有关",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260327-%E7%BE%8E%E5%AA%92-fbi%E5%B1%80%E9%95%BF%E9%82%AE%E7%AE%B1%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5%EF%BC%8C%E7%96%91%E4%BC%BC%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%9C%89%E5%85%B3",
-      "source": "rfi.fr",
-      "published": 1774632830
-    },
-    {
-      "id": "c25cbf803841",
-      "title": "挪威称“安全局势恶化”，将在2035年前额外投入超100亿欧元用于国防",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260327-%E6%8C%AA%E5%A8%81%E7%A7%B0-%E5%AE%89%E5%85%A8%E5%B1%80%E5%8A%BF%E6%81%B6%E5%8C%96-%EF%BC%8C%E5%B0%86%E5%9C%A82035%E5%B9%B4%E5%89%8D%E9%A2%9D%E5%A4%96%E6%8A%95%E5%85%A5%E8%B6%85100%E4%BA%BF%E6%AC%A7%E5%85%83%E7%94%A8%E4%BA%8E%E5%9B%BD%E9%98%B2",
-      "source": "rfi.fr",
-      "published": 1774632364
-    },
-    {
-      "id": "99399831ccee",
-      "title": "印度批准价值250亿美元的军购计划 包括购买俄S-400防空系统等",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260327-%E5%8D%B0%E5%BA%A6%E6%89%B9%E5%87%86%E4%BB%B7%E5%80%BC250%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E5%86%9B%E8%B4%AD%E8%AE%A1%E5%88%92-%E5%8C%85%E6%8B%AC%E8%B4%AD%E4%B9%B0%E4%BF%84s-400%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F%E7%AD%89",
-      "source": "rfi.fr",
-      "published": 1774627791
-    },
-    {
-      "id": "d35fae0ee0cf",
-      "title": "美能确信伊朗约三分之一的导弹库存被摧毁 美军据报已发射850多枚战斧导弹",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260327-%E7%BE%8E%E8%83%BD%E7%A1%AE%E4%BF%A1%E4%BC%8A%E6%9C%97%E7%BA%A6%E4%B8%89%E5%88%86%E4%B9%8B%E4%B8%80%E7%9A%84%E5%AF%BC%E5%BC%B9%E5%BA%93%E5%AD%98%E8%A2%AB%E6%91%A7%E6%AF%81-%E7%BE%8E%E5%86%9B%E6%8D%AE%E6%8A%A5%E5%B7%B2%E5%8F%91%E5%B0%84%E9%80%BE850%E6%9E%9A%E6%88%98%E6%96%A7%E5%AF%BC%E5%BC%B9",
-      "source": "rfi.fr",
-      "published": 1774625989
     },
     {
       "id": "3a03716f97cb",
@@ -1269,5 +1269,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774732754
+  "build_id": 1774734595
 }
