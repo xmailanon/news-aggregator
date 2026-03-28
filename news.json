@@ -1,6 +1,13 @@
 {
-  "updated": 1774716960,
+  "updated": 1774718437,
   "items": [
+    {
+      "id": "ff41cc5b2cd7",
+      "title": "中東佔全球鋁供應量9% 最大鋁廠遭伊朗空襲",
+      "url": "https://money.udn.com/money/story/5599/9409338",
+      "source": "money.udn.com",
+      "published": 1774717666
+    },
     {
       "id": "790bf244a402",
       "title": "張與辰認獲拉姑愛錫：會指點我",
@@ -315,13 +322,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260328-%E6%94%B6%E5%88%B0%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B4%BA%E7%94%B5-%E9%87%91%E6%AD%A3%E6%81%A9-%E6%84%9F%E5%8F%97%E5%88%B0%E4%B8%8D%E5%8F%98%E6%94%AF%E6%8C%81%E5%92%8C%E5%8F%8B%E5%A5%BD%E6%83%85%E8%B0%8A",
       "source": "rfi.fr",
       "published": 1774693022
-    },
-    {
-      "id": "f3c5558328db",
-      "title": "高市拚月底通過預算案落空 日媒：執政黨內不同調",
-      "url": "https://money.udn.com/money/story/5599/9408942",
-      "source": "money.udn.com",
-      "published": 1774692743
     },
     {
       "id": "5aae19d0823d",
@@ -1269,5 +1269,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774716960
+  "build_id": 1774718437
 }
