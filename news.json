@@ -1,6 +1,13 @@
 {
-  "updated": 1774738337,
+  "updated": 1774739974,
   "items": [
+    {
+      "id": "0e6fa7640a50",
+      "title": "絲芭傳媒否認和解 鞠婧禕新劇撤檔",
+      "url": "https://www.singtaousa.com/2026/03/28/entertainment/ju-jing-yi-drama-withdrawn/",
+      "source": "singtaousa.com",
+      "published": 1774738800
+    },
     {
       "id": "889b4d0eb616",
       "title": "抗議川普 全美3000地響應「無王」示威",
@@ -189,13 +196,6 @@
       "url": "https://www.singtaousa.com/2026/03/28/entertainment/ang-lee-chapter-25-collaboration/",
       "source": "singtaousa.com",
       "published": 1774724400
-    },
-    {
-      "id": "9fb5a771225f",
-      "title": "美國銀行支付7250萬美元和解，切割愛潑斯坦性販運指控但堅稱清白",
-      "url": "https://www.singtaousa.com/2026/03/28/news/usa/epstein-victims-to-get-72-5m-from-bank-of-america-settlement/",
-      "source": "singtaousa.com",
-      "published": 1774724336
     },
     {
       "id": "71ab32d7504f",
@@ -1269,5 +1269,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774738337
+  "build_id": 1774739974
 }
