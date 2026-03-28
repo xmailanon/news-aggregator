@@ -1,6 +1,20 @@
 {
-  "updated": 1774713064,
+  "updated": 1774714802,
   "items": [
+    {
+      "id": "710679465bd0",
+      "title": "田納西州校巴嚴重車禍 肯伍德中學戶外教學釀2死7傷",
+      "url": "https://www.singtaousa.com/2026/03/28/news/usa/2-students-dead-and-at-least-7-other-people-injured-in-tennessee-school-bus-crash/",
+      "source": "singtaousa.com",
+      "published": 1774714493
+    },
+    {
+      "id": "4ce49fc26cc2",
+      "title": "任達華笑言被演戲耽誤 生日收愛女自製短片",
+      "url": "https://www.singtaousa.com/2026/03/28/entertainment/ren-da-hua-birthday-video/",
+      "source": "singtaousa.com",
+      "published": 1774713600
+    },
     {
       "id": "9bf98acb57bc",
       "title": "胡塞武裝加入戰團 導彈攻擊以色列撼動中東",
@@ -138,20 +152,6 @@
       "id": "588e76d318aa",
       "title": "客場作戰 火箭送灰熊五連敗",
       "url": "https://www.singtaousa.com/2026/03/28/news/usa/rockets-defeat-grizzlies-five-straight-losses/",
-      "source": "singtaousa.com",
-      "published": 1774706400
-    },
-    {
-      "id": "1457abd43955",
-      "title": "領先優勢穩定   騎士力克熱火",
-      "url": "https://www.singtaousa.com/2026/03/28/news/usa/cavaliers-defeat-heat/",
-      "source": "singtaousa.com",
-      "published": 1774706400
-    },
-    {
-      "id": "63ba4d402de9",
-      "title": "莫蘭特賽季報銷",
-      "url": "https://www.singtaousa.com/2026/03/28/news/usa/morant-season-injury/",
       "source": "singtaousa.com",
       "published": 1774706400
     },
@@ -511,13 +511,6 @@
       "url": "https://www.dw.com/zh/北航、哈工大等近期入手搭载敏感、高端ai芯片的超微服务器/a-76562789?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1774610700
-    },
-    {
-      "id": "96cea002ab75",
-      "title": "美智庫：解放軍部署改造無人機　恐在台海首波攻勢形成壓力",
-      "url": "https://www.dw.com/zh/美智庫：解放軍部署改造無人機　恐在台海首波攻勢形成壓力/a-76557436?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1774604040
     },
     {
       "id": "8b6ec368875c",
@@ -1276,5 +1269,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774713064
+  "build_id": 1774714802
 }
