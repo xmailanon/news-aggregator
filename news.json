@@ -1,6 +1,27 @@
 {
-  "updated": 1774709694,
+  "updated": 1774711201,
   "items": [
+    {
+      "id": "3c41114a8c82",
+      "title": "北京出台无人机新规：所有室外飞行活动均需申请，所有者需在4月30日前实名登记",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260328-%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%96%B0%E8%A7%84-%E6%89%80%E6%9C%89%E5%AE%A4%E5%A4%96%E9%A3%9E%E8%A1%8C%E6%B4%BB%E5%8A%A8%E5%9D%87%E9%9C%80%E7%94%B3%E8%AF%B7%EF%BC%8C%E6%89%80%E6%9C%89%E8%80%85%E9%9C%80%E5%9C%A84%E6%9C%8830%E6%97%A5%E5%89%8D%E5%AE%9E%E5%90%8D%E7%99%BB%E8%AE%B0",
+      "source": "rfi.fr",
+      "published": 1774710308
+    },
+    {
+      "id": "ffd54990c28a",
+      "title": "與反川普或反對美國打伊朗有關？ 「美國銀行」巴黎分行外遭放置炸彈",
+      "url": "https://money.udn.com/money/story/5599/9409209",
+      "source": "money.udn.com",
+      "published": 1774710293
+    },
+    {
+      "id": "27254aafa459",
+      "title": "蔡俊彥「跨界」做歌手 自爆已收呂爵安Demo",
+      "url": "https://www.singtaousa.com/2026/03/28/entertainment/cai-jun-yan-cross-border-singer/",
+      "source": "singtaousa.com",
+      "published": 1774710000
+    },
     {
       "id": "744490262527",
       "title": "中远船只试图通行霍尔木兹海峡 随后折返",
@@ -124,13 +145,6 @@
       "id": "58145a695280",
       "title": "NBA反擺爛改革方案   選秀公平性迎巨變",
       "url": "https://www.singtaousa.com/2026/03/28/news/usa/nba-reform-draft-fairness/",
-      "source": "singtaousa.com",
-      "published": 1774706400
-    },
-    {
-      "id": "37481e0016f2",
-      "title": "連續缺陣23場 庫里下周將復查",
-      "url": "https://www.singtaousa.com/2026/03/28/news/usa/curry-return-injury-update/",
       "source": "singtaousa.com",
       "published": 1774706400
     },
@@ -301,13 +315,6 @@
       "url": "https://money.udn.com/money/story/5599/9408942",
       "source": "money.udn.com",
       "published": 1774692743
-    },
-    {
-      "id": "f1996d7b0bda",
-      "title": "KPMG 計劃在審計部門裁員數百人",
-      "url": "https://money.udn.com/money/story/5599/9408079",
-      "source": "money.udn.com",
-      "published": 1774692651
     },
     {
       "id": "5aae19d0823d",
@@ -490,13 +497,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260327-%E4%BA%8B%E5%8F%91%E4%B8%AD%E4%B8%9A%E5%B2%9B%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F-%E8%8F%B2%E5%86%9B%E6%96%B9%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0-%E6%95%85%E6%84%8F-%E4%B8%BE%E5%8A%A8%E8%AE%A9%E4%B8%A4%E5%9B%BD%E5%86%9B%E8%88%B0%E9%99%A9%E4%BA%9B%E7%9B%B8%E6%92%9E",
       "source": "rfi.fr",
       "published": 1774620640
-    },
-    {
-      "id": "2b5299e28ee4",
-      "title": "乌克兰和沙特签署防空合作协议",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260327-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%92%8C%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E7%AD%BE%E7%BD%B2%E4%BA%86%E9%98%B2%E7%A9%BA%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1774619503
     },
     {
       "id": "d0120e22a131",
@@ -1276,5 +1276,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774709694
+  "build_id": 1774711201
 }
