@@ -1,6 +1,20 @@
 {
-  "updated": 1774803509,
+  "updated": 1774805297,
   "items": [
+    {
+      "id": "05e61b08cf5a",
+      "title": "霍曼稱ICE是否撤出機場 視乎TSA員工復工情況",
+      "url": "https://www.singtaousa.com/2026/03/29/news/usa/news-ice-officers-tsa-airports-paycheck-homeland-security-shutdown/",
+      "source": "singtaousa.com",
+      "published": 1774804504
+    },
+    {
+      "id": "6fe9f830c5c9",
+      "title": "伊朗海軍司令 威脅打擊美林肯號航母",
+      "url": "https://www.singtaousa.com/2026/03/29/news/usa/news-iran-vows-strike-us-aircraft-carrier-avenge-sinking-warship/",
+      "source": "singtaousa.com",
+      "published": 1774803683
+    },
     {
       "id": "e2a04e0b8c8a",
       "title": "家燕姐生日提男友口窒窒",
@@ -98,20 +112,6 @@
       "url": "https://money.udn.com/money/story/122381/9410489",
       "source": "money.udn.com",
       "published": 1774799960
-    },
-    {
-      "id": "c15574f66887",
-      "title": "美國FTC嚴打車商「幽靈廣告」，刊登已售車輛恐遭重罰5萬美元",
-      "url": "https://www.singtaousa.com/2026/03/29/news/usa/the-u-s-federal-trade-commission-is-targeting-dealerships-for-advertising-unavailable-cars/",
-      "source": "singtaousa.com",
-      "published": 1774799831
-    },
-    {
-      "id": "9115f5ad32c9",
-      "title": "屯門驚現「兒童司機」 男童坐司機大腿操控軚盤行駛",
-      "url": "https://www.singtaousa.com/2026/03/29/news/china/child-on-lap-driving-lesson/",
-      "source": "singtaousa.com",
-      "published": 1774798873
     },
     {
       "id": "5d6865c453d7",
@@ -1290,5 +1290,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774803509
+  "build_id": 1774805297
 }
