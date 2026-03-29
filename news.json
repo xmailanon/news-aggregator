@@ -1,12 +1,40 @@
 {
-  "updated": 1774781953,
+  "updated": 1774783725,
   "items": [
+    {
+      "id": "e10b8f810a57",
+      "title": "伊朗的飛彈還能打多久？ 專家說分明",
+      "url": "https://money.udn.com/money/story/5599/9410230",
+      "source": "money.udn.com",
+      "published": 1774782945
+    },
+    {
+      "id": "eecfea6d7831",
+      "title": "伊朗安全部隊招募12歲孩童 恐違反兒童權利公約",
+      "url": "https://money.udn.com/money/story/5599/9410224",
+      "source": "money.udn.com",
+      "published": 1774782463
+    },
+    {
+      "id": "cde1b5f7020c",
+      "title": "中東戰雲密布 教宗罕見嚴詞：任何戰爭皆不能假借天主之名",
+      "url": "https://money.udn.com/money/story/5599/9410222",
+      "source": "money.udn.com",
+      "published": 1774782025
+    },
     {
       "id": "82e449796f78",
       "title": "南非4月柴油漲近新台幣20元破紀錄 限購防民眾搶買",
       "url": "https://money.udn.com/money/story/5599/9410217",
       "source": "money.udn.com",
       "published": 1774781675
+    },
+    {
+      "id": "0cad8bfdb74b",
+      "title": "非洲偷渡客尝试潜入中东遭海难",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260329-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E5%81%B7%E6%B8%A1%E5%AE%A2%E5%B0%9D%E8%AF%95%E6%BD%9C%E5%85%A5%E4%B8%AD%E4%B8%9C%E9%81%AD%E6%B5%B7%E9%9A%BE",
+      "source": "rfi.fr",
+      "published": 1774781338
     },
     {
       "id": "743993e61e78",
@@ -303,32 +331,11 @@
       "published": 1774767649
     },
     {
-      "id": "f6511f49dbeb",
-      "title": "現任伊朗政權不可信 流亡王儲：須再號召群眾抗爭",
-      "url": "https://money.udn.com/money/story/5599/9409975",
-      "source": "money.udn.com",
-      "published": 1774766722
-    },
-    {
       "id": "2b3b4245341f",
       "title": "我與母親逃離了朝鮮，如今害怕她會被中國遣返",
       "url": "https://www.bbc.com/zhongwen/articles/cwykg2er991o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1774766580
-    },
-    {
-      "id": "a449031b01d2",
-      "title": "全球海運哪裡最脆弱？經濟學人推演曝光 台海戰爭恐釀航程暴增58%",
-      "url": "https://money.udn.com/money/story/5599/9409968",
-      "source": "money.udn.com",
-      "published": 1774765774
-    },
-    {
-      "id": "96bfee6cb90c",
-      "title": "航油價格一天一變 非洲航班落地才報價",
-      "url": "https://money.udn.com/money/story/5599/9409948",
-      "source": "money.udn.com",
-      "published": 1774764429
     },
     {
       "id": "b8c83b6bc4b9",
@@ -518,13 +525,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260328-%E6%94%B6%E5%88%B0%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B4%BA%E7%94%B5-%E9%87%91%E6%AD%A3%E6%81%A9-%E6%84%9F%E5%8F%97%E5%88%B0%E4%B8%8D%E5%8F%98%E6%94%AF%E6%8C%81%E5%92%8C%E5%8F%8B%E5%A5%BD%E6%83%85%E8%B0%8A",
       "source": "rfi.fr",
       "published": 1774693022
-    },
-    {
-      "id": "5aae19d0823d",
-      "title": "胡塞证实在当前战争中首次对以色列发动袭击 沙土埃三国外长访巴基斯坦",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260328-%E8%83%A1%E5%A1%9E%E8%AF%81%E5%AE%9E%E5%9C%A8%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E4%B8%AD%E9%A6%96%E6%AC%A1%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB-%E6%B2%99%E5%9C%9F%E5%9F%83%E4%B8%89%E5%9B%BD%E5%A4%96%E9%95%BF%E8%AE%BF%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6",
-      "source": "rfi.fr",
-      "published": 1774691994
     },
     {
       "id": "e5f7a0b71a0c",
@@ -1276,5 +1276,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774781953
+  "build_id": 1774783725
 }
