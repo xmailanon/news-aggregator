@@ -1,6 +1,111 @@
 {
-  "updated": 1774909362,
+  "updated": 1774911654,
   "items": [
+    {
+      "id": "76adbfd9422b",
+      "title": "台積電ADR大跌3.1% 較台北交易溢價縮為13.8%",
+      "url": "https://money.udn.com/money/story/5599/9412978",
+      "source": "money.udn.com",
+      "published": 1774911945
+    },
+    {
+      "id": "6babd7523f05",
+      "title": "莫斯科指控間諜活動，下令驅逐英國外交官，英俄關係再陷冰點",
+      "url": "https://www.singtaousa.com/2026/03/30/news/world/russia-expels-british-diplomat-over-spying-allegations/",
+      "source": "singtaousa.com",
+      "published": 1774911794
+    },
+    {
+      "id": "d615bbcdbcce",
+      "title": "Stanley自爆曾因壓力 唔敢直望觀眾",
+      "url": "https://www.singtaousa.com/2026/03/30/entertainment/stanley-pressure-audience/",
+      "source": "singtaousa.com",
+      "published": 1774911600
+    },
+    {
+      "id": "d99c7c3cd6fd",
+      "title": "特朗普威胁摧毁哈尔克岛目的何在",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260330-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%91%A7%E6%AF%81%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%E7%9B%AE%E7%9A%84%E4%BD%95%E5%9C%A8",
+      "source": "rfi.fr",
+      "published": 1774911360
+    },
+    {
+      "id": "367d248b3e1d",
+      "title": "一批俄罗斯石油即将抵达古巴，当地民众谨慎欢迎",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260330-%E4%B8%80%E6%89%B9%E4%BF%84%E7%BD%97%E6%96%AF%E7%9F%B3%E6%B2%B9%E5%8D%B3%E5%B0%86%E6%8A%B5%E8%BE%BE%E5%8F%A4%E5%B7%B4%EF%BC%8C%E5%BD%93%E5%9C%B0%E6%B0%91%E4%BC%97%E8%B0%A8%E6%85%8E%E6%AC%A2%E8%BF%8E",
+      "source": "rfi.fr",
+      "published": 1774911107
+    },
+    {
+      "id": "a69f6a56a7f1",
+      "title": "美股收盤／中東戰雲密布掩蓋談判希望 標普寫去年8月以來新低 費半重挫逾4%",
+      "url": "https://money.udn.com/money/story/123398/9412973",
+      "source": "money.udn.com",
+      "published": 1774910973
+    },
+    {
+      "id": "75017086f243",
+      "title": "Manus：中国的“科技新星”被卖给美国巨头，北京难以接受",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260330-manus-%E4%B8%AD%E5%9B%BD%E7%9A%84-%E7%A7%91%E6%8A%80%E6%96%B0%E6%98%9F-%E8%A2%AB%E5%8D%96%E7%BB%99%E7%BE%8E%E5%9B%BD%E5%B7%A8%E5%A4%B4%EF%BC%8C%E5%8C%97%E4%BA%AC%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97",
+      "source": "rfi.fr",
+      "published": 1774910908
+    },
+    {
+      "id": "2240312fd5a8",
+      "title": "川習會談什麼？專家：川普恐怕還沒決定好交換條件",
+      "url": "https://money.udn.com/money/story/5599/9412970",
+      "source": "money.udn.com",
+      "published": 1774910522
+    },
+    {
+      "id": "854ac1d7b305",
+      "title": "Costco推出10磅巨型復活節巧克力兔 售價140美元",
+      "url": "https://www.singtaousa.com/2026/03/30/news/usa/costco-launches-10-pound-giant-easter-chocolate-bunny-for-140/",
+      "source": "singtaousa.com",
+      "published": 1774910479
+    },
+    {
+      "id": "bb4d548992ac",
+      "title": "英國BBC王牌主持突遭解僱，史葛米爾斯陷「過往關係」指控風暴",
+      "url": "https://www.singtaousa.com/2026/03/30/news/world/scott-mills-sacked-from-bbc-radio-2-after-allegations-over-historic-relationship/",
+      "source": "singtaousa.com",
+      "published": 1774910048
+    },
+    {
+      "id": "6539332d3953",
+      "title": "法国、西班牙、意大利领导人谴责以色列阻止了耶路撒冷拉丁礼宗主教进入圣墓教堂",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260330-%E6%B3%95%E5%9B%BD%EF%BC%8C%E8%A5%BF%E7%8F%AD%E7%89%99%EF%BC%8C%E6%84%8F%E5%A4%A7%E5%88%A9%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%B0%B4%E8%B4%A3%E4%BB%A5%E8%89%B2%E5%88%97%E9%98%BB%E6%AD%A2%E4%BA%86%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E6%8B%89%E4%B8%81%E7%A4%BC%E5%AE%97%E4%B8%BB%E6%95%99",
+      "source": "rfi.fr",
+      "published": 1774909963
+    },
+    {
+      "id": "1eb75d680140",
+      "title": "以色列國會通過死刑法案 涉致命攻擊巴人將判死",
+      "url": "https://money.udn.com/money/story/5599/9412962",
+      "source": "money.udn.com",
+      "published": 1774909822
+    },
+    {
+      "id": "9d157e45c0eb",
+      "title": "能源價格飆升推高通脹壓力 鮑威爾稱聯儲局工具有限難即時應對",
+      "url": "https://www.singtaousa.com/2026/03/30/news/usa/soaring-energy-prices-push-up-inflationary-pressures-powell-says-the-fed-has-limited-tools-to-respond-immediately/",
+      "source": "singtaousa.com",
+      "published": 1774909727
+    },
+    {
+      "id": "c365b52953e0",
+      "title": "耶路撒冷聖墓教堂風波：意大利外交施壓奏效，以色列收回禁令",
+      "url": "https://www.singtaousa.com/2026/03/30/news/world/israel-backtracks-after-italy-leads-outrage-at-denied-access-to-holy-sepulchre/",
+      "source": "singtaousa.com",
+      "published": 1774909704
+    },
+    {
+      "id": "b332c57ac866",
+      "title": "美国国务卿卢比奥： 希望与伊朗政府内部的一些人士合作，美国私下收到了积极的信息",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260330-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%8D%A2%E6%AF%94%E5%A5%A5-%E5%B8%8C%E6%9C%9B%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%94%BF%E5%BA%9C%E5%86%85%E9%83%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BA%BA%E5%A3%AB%E5%90%88%E4%BD%9C%EF%BC%8C%E7%BE%8E%E5%9B%BD%E7%A7%81%E4%B8%8B%E6%94%B6%E5%88%B0%E4%BA%86%E7%A7%AF%E6%9E%81%E7%9A%84%E4%BF%A1%E6%81%AF",
+      "source": "rfi.fr",
+      "published": 1774909648
+    },
     {
       "id": "dc8740fd61d1",
       "title": "川普5月中旬訪問北京 白宮：內閣官員擬出發前訪中",
@@ -21,6 +126,13 @@
       "url": "https://www.singtaousa.com/2026/03/30/news/world/trophy-turns-up-in-german-teams-own-basement-after-being-reported-stolen/",
       "source": "singtaousa.com",
       "published": 1774909511
+    },
+    {
+      "id": "ba0eda6a5b52",
+      "title": "特朗普： 如果德黑兰不接受和平协议，美国将摧毁伊朗的油井、发电厂和主要出口码头",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260330-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%A6%82%E6%9E%9C%E5%BE%B7%E9%BB%91%E5%85%B0%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E7%9A%84%E6%B2%B9%E4%BA%95-%E5%8F%91%E7%94%B5%E5%8E%82%E5%92%8C%E4%B8%BB%E8%A6%81%E5%87%BA%E5%8F%A3%E7%A0%81%E5%A4%B4",
+      "source": "rfi.fr",
+      "published": 1774909302
     },
     {
       "id": "1ef7a064995a",
@@ -79,53 +191,11 @@
       "published": 1774906877
     },
     {
-      "id": "89adbeb507af",
-      "title": "國會暴動案逆轉？數十名參與者提告，反控警方「無差別」過度執法",
-      "url": "https://www.singtaousa.com/2026/03/30/news/usa/jan-6-capitol-riot-participants-file-lawsuit-accusing-police-of-excessive-force/",
-      "source": "singtaousa.com",
-      "published": 1774906730
-    },
-    {
-      "id": "ae03b268f056",
-      "title": "遊客人數下降 拉斯維加斯酒店推優惠新招",
-      "url": "https://www.singtaousa.com/2026/03/30/news/usa/two-well-known-resorts-in-las-vegas-launch-all-inclusive-package-deals/",
-      "source": "singtaousa.com",
-      "published": 1774906514
-    },
-    {
-      "id": "13f6f8a6386f",
-      "title": "阿提米絲2號下周發射 揭秘太空人救援團隊",
-      "url": "https://www.singtaousa.com/2026/03/30/news/usa/artemis-2-launches-next-week-to-reveal-astronaut-rescue-team/",
-      "source": "singtaousa.com",
-      "published": 1774906433
-    },
-    {
-      "id": "ca53cb75379f",
-      "title": "俄羅斯經濟告急！億萬富翁德里帕斯卡籲「每周72小時」工作制救國",
-      "url": "https://www.singtaousa.com/2026/03/30/news/world/russian-billionaire-deripaska-proposes-12-hour-workday-to-save-economy/",
-      "source": "singtaousa.com",
-      "published": 1774906290
-    },
-    {
-      "id": "12fdae813230",
-      "title": "美國主要機場恢復正常運作 TSA人員獲支付薪酬",
-      "url": "https://www.singtaousa.com/2026/03/30/news/usa/major-u-s-airports-resume-normal-operations-tsa-officers-are-paid/",
-      "source": "singtaousa.com",
-      "published": 1774906146
-    },
-    {
       "id": "9eafafd26ac4",
       "title": "白宮稱伊朗新政權理性 派兵為川普提供更多選擇",
       "url": "https://money.udn.com/money/story/5599/9412929",
       "source": "money.udn.com",
       "published": 1774905685
-    },
-    {
-      "id": "9e6c0222ca77",
-      "title": "飛鵝山青年攀爬電塔 消防員霧中展開高空救援",
-      "url": "https://www.singtaousa.com/2026/03/30/news/china/youth-suicide-attempt-rescue-flying-goose-hill/",
-      "source": "singtaousa.com",
-      "published": 1774904488
     },
     {
       "id": "b2f9ac68d1f7",
@@ -212,39 +282,11 @@
       "published": 1774892240
     },
     {
-      "id": "51a059060c34",
-      "title": "鋁廠挨轟供應中斷 恐變長期危機",
-      "url": "https://money.udn.com/money/story/5599/9412758",
-      "source": "money.udn.com",
-      "published": 1774892144
-    },
-    {
-      "id": "6f1727f3b484",
-      "title": "投資人關注中東戰事結束可能性 歐股收盤勁揚",
-      "url": "https://money.udn.com/money/story/5599/9412874",
-      "source": "money.udn.com",
-      "published": 1774890883
-    },
-    {
-      "id": "f871a94f1b0f",
-      "title": "中東戰火持續延燒 可能導致國內經濟急劇放緩 小摩、品浩預期美債反彈",
-      "url": "https://money.udn.com/money/story/5599/9412696",
-      "source": "money.udn.com",
-      "published": 1774887035
-    },
-    {
       "id": "6a749983493c",
       "title": "伊朗革命卫队证实负责封锁霍尔木兹海峡的海军司令坦格西里去世",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260330-%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E8%AF%81%E5%AE%9E%E8%B4%9F%E8%B4%A3%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%9A%84%E6%B5%B7%E5%86%9B%E5%8F%B8%E4%BB%A4%E5%9D%A6%E6%A0%BC%E8%A5%BF%E9%87%8C%E5%8E%BB%E4%B8%96",
       "source": "rfi.fr",
       "published": 1774886735
-    },
-    {
-      "id": "32a6fbff0138",
-      "title": "Fed 主席鮑爾暗示無需為油價大漲調整政策 美債殖利率下挫",
-      "url": "https://money.udn.com/money/story/5599/9412808",
-      "source": "money.udn.com",
-      "published": 1774884878
     },
     {
       "id": "e3172107007f",
@@ -485,27 +527,6 @@
       "published": 1774817920
     },
     {
-      "id": "683d7fe564d5",
-      "title": "耶路撒冷棕枝主日弥撒受阻",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260329-%E8%80%B6%E8%B7%AF%E6%92%92%E5%86%B7%E6%A3%95%E6%9E%9D%E4%B8%BB%E6%97%A5%E5%BC%A5%E6%92%92%E5%8F%97%E9%98%BB",
-      "source": "rfi.fr",
-      "published": 1774817616
-    },
-    {
-      "id": "16c19a1b1048",
-      "title": "伊朗发电设施遭到袭击   多地停电",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260329-%E4%BC%8A%E6%9C%97%E5%8F%91%E7%94%B5%E8%AE%BE%E6%96%BD%E9%81%AD%E5%88%B0%E8%A2%AD%E5%87%BB-%E5%A4%9A%E5%9C%B0%E5%81%9C%E7%94%B5",
-      "source": "rfi.fr",
-      "published": 1774817385
-    },
-    {
-      "id": "722a8afa3662",
-      "title": "伊朗：迎战美地面军事行动",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260329-%E4%BC%8A%E6%9C%97-%E8%BF%8E%E6%88%98%E7%BE%8E%E5%9C%B0%E9%9D%A2%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
-      "source": "rfi.fr",
-      "published": 1774817195
-    },
-    {
       "id": "61c96f8f8789",
       "title": "伊朗战争：特朗普批评默茨并威胁北约",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260329-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89-%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E8%AF%84%E9%BB%98%E8%8C%A8%E5%B9%B6%E5%A8%81%E8%83%81%E5%8C%97%E7%BA%A6",
@@ -513,32 +534,11 @@
       "published": 1774817111
     },
     {
-      "id": "8792b1c5f2cf",
-      "title": "受益俄领空      中航新增飞往欧洲的航班、航线",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260329-%E5%8F%97%E7%9B%8A%E4%BF%84%E9%A2%86%E7%A9%BA-%E4%B8%AD%E8%88%AA%E6%96%B0%E5%A2%9E%E9%A3%9E%E5%BE%80%E6%AC%A7%E6%B4%B2%E7%9A%84%E8%88%AA%E7%8F%AD-%E8%88%AA%E7%BA%BF",
-      "source": "rfi.fr",
-      "published": 1774817062
-    },
-    {
-      "id": "e7f98e194656",
-      "title": "一艘俄油轮靠近古巴港口     考验美国的禁运措施",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260329-%E4%B8%80%E8%89%98%E4%BF%84%E6%B2%B9%E8%BD%AE%E9%9D%A0%E8%BF%91%E5%8F%A4%E5%B7%B4%E6%B8%AF%E5%8F%A3-%E8%80%83%E9%AA%8C%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%A6%81%E8%BF%90%E6%8E%AA%E6%96%BD",
-      "source": "rfi.fr",
-      "published": 1774816736
-    },
-    {
       "id": "89238791539b",
       "title": "伊朗议长：要把登陆美军烧成灰并彻底惩罚美海湾盟友",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260329-%E4%BC%8A%E6%9C%97%E8%AE%AE%E9%95%BF-%E8%A6%81%E6%8A%8A%E7%99%BB%E9%99%86%E7%BE%8E%E5%86%9B%E7%83%A7%E6%88%90%E7%81%B0%E5%B9%B6%E5%BD%BB%E5%BA%95%E6%83%A9%E7%BD%9A%E7%BE%8E%E6%B5%B7%E6%B9%BE%E7%9B%9F%E5%8F%8B",
       "source": "rfi.fr",
       "published": 1774816709
-    },
-    {
-      "id": "a7cfef87e137",
-      "title": "人权观察组织促请萨尔瓦多打击黑帮勿殃及无辜",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260329-%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F%E7%BB%84%E7%BB%87%E4%BF%83%E8%AF%B7%E8%90%A8%E5%B0%94%E7%93%A6%E5%A4%9A%E6%89%93%E5%87%BB%E9%BB%91%E5%B8%AE%E5%8B%BF%E6%AE%83%E5%8F%8A%E6%97%A0%E8%BE%9C",
-      "source": "rfi.fr",
-      "published": 1774816473
     },
     {
       "id": "da5bdc4f6b6f",
@@ -1297,5 +1297,5 @@
       "published": 1772355660
     }
   ],
-  "build_id": 1774909362
+  "build_id": 1774911654
 }
