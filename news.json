@@ -1,96 +1,264 @@
 {
-  "updated": 1775045179,
+  "updated": 1775052546,
   "items": [
     {
-      "id": "3465e2c29b3f",
-      "title": "高鐵車廂現蚊群 官方指與粵港持續降雨悶熱有關",
-      "url": "https://www.singtaousa.com/2026/04/01/news/china/high-speed-rail-mosquito-infestation-explanation/",
-      "source": "singtaousa.com",
-      "published": 1775044990
-    },
-    {
-      "id": "e8963857bce5",
-      "title": "Chinamaxxing：中式生活這麼酷",
-      "url": "https://www.singtaousa.com/2026/04/01/opinion/chinamaxxing-chinese-lifestyle-cool/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "26fa9eee7d2a",
-      "title": "Coffee BOATS",
-      "url": "https://www.singtaousa.com/2026/04/01/opinion/coffee-based-on-a-true-story/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "bc719b95b586",
-      "title": "中國之路，掂呀",
-      "url": "https://www.singtaousa.com/2026/04/01/opinion/china-path-plan/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "047398954416",
-      "title": "中國速度",
-      "url": "https://www.singtaousa.com/2026/04/01/opinion/china-speed/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "efabb2de6771",
-      "title": "腦袋的奧妙",
-      "url": "https://www.singtaousa.com/2026/04/01/opinion/brain-secrets-intelligence-pigs/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "4cc7dd997eb0",
-      "title": "華裔夫婦竊醫學機密  失公民身分",
-      "url": "https://www.singtaousa.com/2026/04/01/news/usa/chinese-couple-steals-medical-secrets/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "a0af34959fca",
-      "title": "中國留學生遭美約談後自盡  中領館促徹查",
-      "url": "https://www.singtaousa.com/2026/04/01/news/world/china-student-suicide-us-interview/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "fe7405b7f4d7",
-      "title": "特朗普：兩三周內結束對伊戰事",
-      "url": "https://www.singtaousa.com/2026/04/01/news/usa/trump-ending-war-iran/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "ac86e4e697e7",
-      "title": "復活節假期  旅客歷劫",
-      "url": "https://www.singtaousa.com/2026/04/01/news/world/easter-holiday-travel-challenges/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "50a8560b58ce",
-      "title": "資源豐富  多國參與太空探索",
-      "url": "https://www.singtaousa.com/2026/04/01/news/world/space-exploration-multi-countries/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "2912c264feb6",
-      "title": "NASA  載人繞月之旅將啟",
-      "url": "https://www.singtaousa.com/2026/04/01/news/world/nasa-manned-moon-mission/",
-      "source": "singtaousa.com",
-      "published": 1775044800
-    },
-    {
-      "id": "9293ee596a55",
-      "title": "金價連日上漲 但仍錄得2008年以來最大月跌幅",
-      "url": "https://money.udn.com/money/story/5599/9416198",
+      "id": "1901a9846bde",
+      "title": "渾水創始人在做空公司債 ETF 以避險 AI 衝擊就業和經濟的風險",
+      "url": "https://money.udn.com/money/story/5599/9415753",
       "source": "money.udn.com",
-      "published": 1775044384
+      "published": 1775052421
+    },
+    {
+      "id": "865ca0f46925",
+      "title": "入境處130名學員結業 儀仗隊以步操砌出「65」賀部門成立65周年",
+      "url": "https://www.singtaousa.com/2026/04/01/news/china/immigration-department-cadets-graduation-65th-anniversary/",
+      "source": "singtaousa.com",
+      "published": 1775052227
+    },
+    {
+      "id": "3c67d9f8f7bb",
+      "title": "投資者一年來對川普關稅政策的押注 都因一場伊朗戰爭冰消瓦解",
+      "url": "https://money.udn.com/money/story/5599/9415754",
+      "source": "money.udn.com",
+      "published": 1775052105
+    },
+    {
+      "id": "8d17bbc677dc",
+      "title": "Claude Code誤洩原始碼",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/claude-code-source-code-leak/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "84126a7b1405",
+      "title": "又是因為AI  甲骨文傳大裁員數千人",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/oracle-ai-layoffs/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "52986c92b71d",
+      "title": "激進股東要改革   Snap飆漲14%",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/snap-stock-surge-reform/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "8a48ea0b72c0",
+      "title": "湖人  提前鎖定季後賽",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/lakers-secure-playoffs-berth/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "24ede7ea52e2",
+      "title": "火箭擊退尼克斯  力爭西部前四",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/rockets-defeat-knicks-playoff-push/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "381a8860d587",
+      "title": "名人堂名單揭曉   斯塔德邁爾入選",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/hall-of-fame-stoudemire-induction/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "ee9cce510a42",
+      "title": "美國  兩球完敗葡萄牙",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/usa-defeats-portugal/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "af6440ee29e6",
+      "title": "41歲薛哲仍舊猛   6局好投摘首勝",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/xue-zhe-first-win-pitching/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "81cc079c0e62",
+      "title": "「冰人」綽號引商標大戰  威廉姆斯搶註遭格文反制",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/ice-man-trademark-war/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "f6e87b2b9efe",
+      "title": "特朗普簽署行政命令推全國選民名冊",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/trump-signs-executive-order-voter-rolls/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "ccc3fff5b311",
+      "title": "「總統非白宮所有者」  法官喊停國宴廳項目",
+      "url": "https://www.singtaousa.com/2026/04/01/news/usa/president-white-house-owner/",
+      "source": "singtaousa.com",
+      "published": 1775052000
+    },
+    {
+      "id": "4893c4adb4ba",
+      "title": "美股早盤／油價跌回100美元 指數續紅 英特爾衝高",
+      "url": "https://money.udn.com/money/story/123398/9417508",
+      "source": "money.udn.com",
+      "published": 1775051763
+    },
+    {
+      "id": "f07c834ff2e2",
+      "title": "Perplexity AI 在美國被指控植入追蹤軟體 將用戶對話傳給 Meta 與 Google",
+      "url": "https://money.udn.com/money/story/5599/9415966",
+      "source": "money.udn.com",
+      "published": 1775051321
+    },
+    {
+      "id": "ab732c69ac62",
+      "title": "川普：將「相當快」從伊朗戰爭抽身 「絕對」考慮退出北約",
+      "url": "https://money.udn.com/money/story/5599/9417500",
+      "source": "money.udn.com",
+      "published": 1775051218
+    },
+    {
+      "id": "f86f6c139759",
+      "title": "中国夫妇因窃医疗商业机密定罪被撤销美国公民身份",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260401-%E4%B8%AD%E5%9B%BD%E5%A4%AB%E5%A6%87%E5%9B%A0%E7%AA%83%E5%8C%BB%E7%96%97%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86%E5%AE%9A%E7%BD%AA%E8%A2%AB%E6%92%A4%E9%94%80%E7%BE%8E%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BA%AB%E4%BB%BD",
+      "source": "rfi.fr",
+      "published": 1775051131
+    },
+    {
+      "id": "75f197226e58",
+      "title": "特朗普：“出生公民权不是给中国富翁后代的”",
+      "url": "https://www.dw.com/zh/特朗普：-出生公民权不是给中国富翁后代的/a-76625958?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1775050260
+    },
+    {
+      "id": "d891214eb64a",
+      "title": "法媒熱議高山離婚 學者稱荒野遺棄伴侶涉羞辱與支配",
+      "url": "https://money.udn.com/money/story/5599/9417480",
+      "source": "money.udn.com",
+      "published": 1775050232
+    },
+    {
+      "id": "813cee6481b1",
+      "title": "美2月零售銷售挺升0.6% 優於預期",
+      "url": "https://money.udn.com/money/story/10511/9417471",
+      "source": "money.udn.com",
+      "published": 1775049827
+    },
+    {
+      "id": "a0c684729862",
+      "title": "美國獨立250週年 英王4/28赴美國會發表演說",
+      "url": "https://money.udn.com/money/story/5599/9417465",
+      "source": "money.udn.com",
+      "published": 1775049741
+    },
+    {
+      "id": "aada12a292d8",
+      "title": "俄稱全面掌控烏東盧甘斯克州 基輔駁戰場半年來沒變化",
+      "url": "https://money.udn.com/money/story/5599/9417464",
+      "source": "money.udn.com",
+      "published": 1775049721
+    },
+    {
+      "id": "c5a94099db52",
+      "title": "美國3月小非農 遠優預期",
+      "url": "https://money.udn.com/money/story/10511/9417452",
+      "source": "money.udn.com",
+      "published": 1775049304
+    },
+    {
+      "id": "94c4d15f94f0",
+      "title": "毛泽东秘书私人档案司法争讼判留在美国",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260401-%E6%AF%9B%E6%B3%BD%E4%B8%9C%E7%A7%98%E4%B9%A6%E7%A7%81%E4%BA%BA%E6%A1%A3%E6%A1%88%E5%8F%B8%E6%B3%95%E4%BA%89%E8%AE%BC%E5%88%A4%E7%95%99%E5%9C%A8%E7%BE%8E%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1775048437
+    },
+    {
+      "id": "3412192cd369",
+      "title": "高盛告知急於做空槓桿貸款的客戶 其產品尚未準備就緒",
+      "url": "https://money.udn.com/money/story/5599/9415967",
+      "source": "money.udn.com",
+      "published": 1775048429
+    },
+    {
+      "id": "f73a84b07abb",
+      "title": "川普：荷莫茲海峽一旦開放 就考慮停火",
+      "url": "https://money.udn.com/money/story/5599/9417432",
+      "source": "money.udn.com",
+      "published": 1775048413
+    },
+    {
+      "id": "5e17c24d74df",
+      "title": "川普聲稱強烈考慮退出北約 美媒：法律上恐難辦到",
+      "url": "https://money.udn.com/money/story/5599/9417382",
+      "source": "money.udn.com",
+      "published": 1775046648
+    },
+    {
+      "id": "e184ccddddeb",
+      "title": "歐洲股市勁揚 受伊朗戰爭即將結束的樂觀情緒提振",
+      "url": "https://money.udn.com/money/story/5599/9416806",
+      "source": "money.udn.com",
+      "published": 1775046367
+    },
+    {
+      "id": "459aa5561cc2",
+      "title": "伊朗战争——中东核军备竞赛的开始？",
+      "url": "https://www.dw.com/zh/伊朗战争-中东核军备竞赛的开始？/a-76624475?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1775046360
+    },
+    {
+      "id": "9dc9cc0ebce7",
+      "title": "Balyasny 亞太營運長 Eddie Lo 據悉將離職 距離加入不到兩年",
+      "url": "https://money.udn.com/money/story/5599/9416199",
+      "source": "money.udn.com",
+      "published": 1775046239
+    },
+    {
+      "id": "6f8d29ca8c7a",
+      "title": "原油期貨小升且成交偏低 「數周內結束戰爭」說並未讓市場吃下定心丸",
+      "url": "https://money.udn.com/money/story/5599/9416807",
+      "source": "money.udn.com",
+      "published": 1775046206
+    },
+    {
+      "id": "773c7105076b",
+      "title": "聯準會理事 Bowman 希望銀行加大對小企業的貸款力度",
+      "url": "https://money.udn.com/money/story/10511/9416201",
+      "source": "money.udn.com",
+      "published": 1775046144
+    },
+    {
+      "id": "1bc884c4d9bb",
+      "title": "日法領袖就關鍵礦產供應鏈達協議 同意稀土採購合作",
+      "url": "https://money.udn.com/money/story/5599/9417373",
+      "source": "money.udn.com",
+      "published": 1775046123
+    },
+    {
+      "id": "4fc0c24f8a40",
+      "title": "油價漲太兇 全球航空業大舉調高燃油附加費",
+      "url": "https://money.udn.com/money/story/5599/9417372",
+      "source": "money.udn.com",
+      "published": 1775046121
+    },
+    {
+      "id": "e5cf0bd2261d",
+      "title": "習川會拖延易創造中美矛盾滋生空間 兩國維持關係穩定的能力面臨考驗",
+      "url": "https://money.udn.com/money/story/5599/9416287",
+      "source": "money.udn.com",
+      "published": 1775046118
+    },
+    {
+      "id": "407c89cdb7c3",
+      "title": "法国专家谈穿山甲走私为何禁不住？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20260401-%E6%B3%95%E5%9B%BD%E4%B8%93%E5%AE%B6%E8%B0%88%E7%A9%BF%E5%B1%B1%E7%94%B2%E8%B5%B0%E7%A7%81%E4%B8%BA%E4%BD%95%E7%A6%81%E4%B8%8D%E4%BD%8F",
+      "source": "rfi.fr",
+      "published": 1775045212
     },
     {
       "id": "e8f879db8405",
@@ -100,53 +268,11 @@
       "published": 1775044289
     },
     {
-      "id": "8bb4b8fb289e",
-      "title": "美債及歐洲國債全線上揚 市場猜測伊朗戰爭或將很快結束",
-      "url": "https://money.udn.com/money/story/5599/9416881",
-      "source": "money.udn.com",
-      "published": 1775044265
-    },
-    {
-      "id": "777aca37a2d1",
-      "title": "美軍機飛越歌手搖滾小子家附近 戰爭部不懲處飛行員",
-      "url": "https://money.udn.com/money/story/10511/9417287",
-      "source": "money.udn.com",
-      "published": 1775043474
-    },
-    {
-      "id": "c795f490e4da",
-      "title": "川普要北約打通荷莫茲 施凱爾：30國本周開會討論如何重啟海峽",
-      "url": "https://money.udn.com/money/story/5599/9417273",
-      "source": "money.udn.com",
-      "published": 1775043130
-    },
-    {
-      "id": "6837705c3a21",
-      "title": "李在明主持經濟檢查會議 指示不要限購垃圾袋",
-      "url": "https://money.udn.com/money/story/5599/9417241",
-      "source": "money.udn.com",
-      "published": 1775041248
-    },
-    {
       "id": "e1cae924c4b5",
       "title": "2028年洛杉矶奥运会将重新恢复“性别检测”引发争议   特朗普表示欢迎，法国批评是“倒退”",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E4%BD%93%E8%82%B2/20260401-2028%E5%B9%B4%E6%B4%9B%E6%9D%89%E7%9F%B6%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%B0%86%E9%87%8D%E6%96%B0%E6%81%A2%E5%A4%8D-%E6%80%A7%E5%88%AB%E6%A3%80%E6%B5%8B-%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA%E6%AC%A2%E8%BF%8E%EF%BC%8C%E6%B3%95%E5%9B%BD%E6%89%B9%E8%AF%84%E6%98%AF-%E5%80%92%E9%80%80",
       "source": "rfi.fr",
       "published": 1775041199
-    },
-    {
-      "id": "b003402a73ec",
-      "title": "整理包／美國貿易報告細說台灣貿易承諾 最關切這三件事",
-      "url": "https://money.udn.com/money/story/5599/9417239",
-      "source": "money.udn.com",
-      "published": 1775041121
-    },
-    {
-      "id": "9bb1c7f69d78",
-      "title": "美擬全面封殺陸車進入市場 共和黨參議員籲盟友跟進",
-      "url": "https://money.udn.com/money/story/5599/9417236",
-      "source": "money.udn.com",
-      "published": 1775041026
     },
     {
       "id": "ed63e62d37aa",
@@ -163,60 +289,11 @@
       "published": 1775040360
     },
     {
-      "id": "814a370bd91d",
-      "title": "川普揚言考慮退出北約 英相施凱爾回應：「雜音」不影響決策",
-      "url": "https://money.udn.com/money/story/5599/9417212",
-      "source": "money.udn.com",
-      "published": 1775040309
-    },
-    {
-      "id": "fd66290cf8e7",
-      "title": "輝達去年營收超越2至10名總和 穩居全球IC設計龍頭",
-      "url": "https://money.udn.com/money/story/5599/9417187",
-      "source": "money.udn.com",
-      "published": 1775038962
-    },
-    {
-      "id": "04e00d41bdf6",
-      "title": "盟友拒挺對伊朗軍事行動 英媒：川普考慮退出北約",
-      "url": "https://money.udn.com/money/story/5599/9417181",
-      "source": "money.udn.com",
-      "published": 1775038887
-    },
-    {
-      "id": "c72a8ce5e7ec",
-      "title": "中東終戰現曙光 日韓股暴漲、油價挫跌",
-      "url": "https://money.udn.com/money/story/5599/9417165",
-      "source": "money.udn.com",
-      "published": 1775038583
-    },
-    {
       "id": "dcb3ea41db00",
       "title": "高兟案：习近平意图为“伟大舵手”遗产正名、北京出台新规严打“骨灰房”",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260401-%E9%AB%98%E5%85%9F%E6%A1%88-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%84%8F%E5%9B%BE%E4%B8%BA-%E4%BC%9F%E5%A4%A7%E8%88%B5%E6%89%8B-%E9%81%97%E4%BA%A7%E6%AD%A3%E5%90%8D-%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%B0%E6%96%B0%E8%A7%84%E4%B8%A5%E6%89%93-%E9%AA%A8%E7%81%B0%E6%88%BF",
       "source": "rfi.fr",
       "published": 1775038106
-    },
-    {
-      "id": "eb733decd6e9",
-      "title": "日法領袖會談逢花季 高市與馬克宏開會前先賞櫻",
-      "url": "https://money.udn.com/money/story/5599/9417128",
-      "source": "money.udn.com",
-      "published": 1775037690
-    },
-    {
-      "id": "d630607ccf7e",
-      "title": "韓國因應能源危機 上調原油資源警報至「警戒」",
-      "url": "https://money.udn.com/money/story/5599/9417115",
-      "source": "money.udn.com",
-      "published": 1775037426
-    },
-    {
-      "id": "1fad4c57d373",
-      "title": "西方盟邦不幫忙打伊朗 川普：考慮退出北約",
-      "url": "https://money.udn.com/money/story/5599/9417113",
-      "source": "money.udn.com",
-      "published": 1775037400
     },
     {
       "id": "a5ed5074f72a",
@@ -226,53 +303,11 @@
       "published": 1775037120
     },
     {
-      "id": "8cead1b1b619",
-      "title": "傳阿聯欲迫使荷莫茲海峽開放 恐成首個參戰波灣國家",
-      "url": "https://money.udn.com/money/story/5599/9417077",
-      "source": "money.udn.com",
-      "published": 1775036818
-    },
-    {
-      "id": "4061a26edca3",
-      "title": "CNN：川普想一走了之 全球背伊朗戰爭黑鍋",
-      "url": "https://money.udn.com/money/story/5599/9417064",
-      "source": "money.udn.com",
-      "published": 1775036568
-    },
-    {
       "id": "06b0b861de10",
       "title": "伊朗战争让美国与欧洲关系裂痕更深：  鲁比奥称中东冲突结束后，要重新评估北约对美国的意义",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260401-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E8%AE%A9%E7%BE%8E%E5%9B%BD%E4%B8%8E%E6%AC%A7%E6%B4%B2%E5%85%B3%E7%B3%BB%E8%A3%82%E7%97%95%E6%9B%B4%E6%B7%B1-%E9%B2%81%E6%AF%94%E5%A5%A5%E7%A7%B0%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E7%BB%93%E6%9D%9F%E5%90%8E%EF%BC%8C%E8%A6%81%E9%87%8D%E6%96%B0%E8%AF%84%E4%BC%B0%E5%8C%97%E7%BA%A6%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E6%84%8F%E4%B9%89",
       "source": "rfi.fr",
       "published": 1775036459
-    },
-    {
-      "id": "386b19ef26ba",
-      "title": "中東戰爭致區域情勢惡化 美國女記者在伊拉克遭綁架",
-      "url": "https://money.udn.com/money/story/5599/9417054",
-      "source": "money.udn.com",
-      "published": 1775036265
-    },
-    {
-      "id": "472d19c21da8",
-      "title": "報復法國禁止運彈藥飛機通過領空 以色列將軍購降至零",
-      "url": "https://money.udn.com/money/story/5599/9417039",
-      "source": "money.udn.com",
-      "published": 1775035970
-    },
-    {
-      "id": "e81d8260584f",
-      "title": "21位捷克主流媒體總編聯合聲明 籲總理尊重新聞業",
-      "url": "https://money.udn.com/money/story/5599/9417037",
-      "source": "money.udn.com",
-      "published": 1775035947
-    },
-    {
-      "id": "4c72c08a6056",
-      "title": "市場期待中東停戰 韓元兌美元回升、股市氛圍好轉",
-      "url": "https://money.udn.com/money/story/5599/9417033",
-      "source": "money.udn.com",
-      "published": 1775035897
     },
     {
       "id": "66fd42d1cfc8",
@@ -464,6 +499,20 @@
       "published": 1774977520
     },
     {
+      "id": "206d0c96271b",
+      "title": "股债金“三杀”下的美联储降息预期",
+      "url": "https://www.ftchinese.com/story/001109346",
+      "source": "ftchinese.com",
+      "published": 1774972800
+    },
+    {
+      "id": "8901b530778b",
+      "title": "伊朗驻上海总领事穆罕默迪：伊朗抵抗意志坚定",
+      "url": "https://www.ftchinese.com/story/001109347",
+      "source": "ftchinese.com",
+      "published": 1774972800
+    },
+    {
       "id": "e754aaa5d288",
       "title": "人工智能时代，美国必须重估劳动与资本的税负分配",
       "url": "https://www.ftchinese.com/story/001109348",
@@ -639,13 +688,6 @@
       "published": 1774959077
     },
     {
-      "id": "34549aca1d37",
-      "title": "伊朗首都德黑兰和中部军事设施遭袭击发生巨大爆炸",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260331-%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%92%8C%E4%B8%AD%E9%83%A8%E5%86%9B%E4%BA%8B%E8%AE%BE%E6%96%BD%E9%81%AD%E8%A2%AD%E5%87%BB%E5%8F%91%E7%94%9F%E5%B7%A8%E5%A4%A7%E7%88%86%E7%82%B8",
-      "source": "rfi.fr",
-      "published": 1774958774
-    },
-    {
       "id": "8429e0658375",
       "title": "中巴欲协力推动结束伊朗战争 中方船只通过霍尔木兹",
       "url": "https://www.dw.com/zh/中巴欲协力推动结束伊朗战争-中方船只通过霍尔木兹/a-76607715?maca=chi-rss-chi-all-1127-rdf",
@@ -658,13 +700,6 @@
       "url": "https://www.dw.com/zh/华盛顿要重新评估北约-卢比奥称不能是单行道/a-76606574?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1774954560
-    },
-    {
-      "id": "d9c3bc90f6b8",
-      "title": "马克龙访日韩：中东危机、G7筹备与亚太战略的新机遇",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260331-%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E6%97%A5%E9%9F%A9-%E4%B8%AD%E4%B8%9C%E5%8D%B1%E6%9C%BA-g7%E7%AD%B9%E5%A4%87%E4%B8%8E%E4%BA%9A%E5%A4%AA%E6%88%98%E7%95%A5%E7%9A%84%E6%96%B0%E6%9C%BA%E9%81%87",
-      "source": "rfi.fr",
-      "published": 1774954054
     },
     {
       "id": "b46e8f53c280",
@@ -765,13 +800,6 @@
       "published": 1774916394
     },
     {
-      "id": "f5c575aa4355",
-      "title": "温家宝公开露面为何引发关注",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260330-%E6%B8%A9%E5%AE%B6%E5%AE%9D%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8",
-      "source": "rfi.fr",
-      "published": 1774906877
-    },
-    {
       "id": "ff9423a75c2a",
       "title": "伊朗战争导致全球氦气供应短缺，威胁芯片行业",
       "url": "https://cn.nytimes.com/business/20260331/helium-chips-iran-war/?utm_source=RSS",
@@ -789,20 +817,6 @@
       "id": "52bef922ec0c",
       "title": "中国新兴的REITs市场为全球投资者提供退出房地产投资的渠道",
       "url": "https://www.ftchinese.com/story/001109330",
-      "source": "ftchinese.com",
-      "published": 1774886400
-    },
-    {
-      "id": "f147d6a9ca51",
-      "title": "中国成为“全球领导者”的剧本",
-      "url": "https://www.ftchinese.com/story/001109331",
-      "source": "ftchinese.com",
-      "published": 1774886400
-    },
-    {
-      "id": "e2ae132b49b9",
-      "title": "“中国冲击2.0”，还是绿色转型的机会？",
-      "url": "https://www.ftchinese.com/story/001109328",
       "source": "ftchinese.com",
       "published": 1774886400
     },
@@ -1024,13 +1038,6 @@
       "published": 1774536118
     },
     {
-      "id": "ba636a7fe5c3",
-      "title": "德防长访日、新、澳：扩大印太影响力 加强军备合作",
-      "url": "https://www.dw.com/zh/德防长访日、新、澳：扩大印太影响力-加强军备合作/a-76544215?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1774528020
-    },
-    {
       "id": "6f3b2814c2a7",
       "title": "明陽集團計劃：中國公司在高地港口計劃被英國政府阻止",
       "url": "https://www.bbc.com/zhongwen/articles/c5yj41r1y00o/trad?at_medium=RSS&at_campaign=rss",
@@ -1141,13 +1148,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/crm8mmg0y3eo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1774320314
-    },
-    {
-      "id": "9502bc9b28ca",
-      "title": "国安法港警再扩权：拒交手机密码可判刑一年",
-      "url": "https://www.dw.com/zh/国安法港警再扩权：拒交手机密码可判刑一年/a-76493208?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1774279080
     },
     {
       "id": "d8a7e6256986",
@@ -1297,5 +1297,5 @@
       "published": 1772583648
     }
   ],
-  "build_id": 1775045179
+  "build_id": 1775052546
 }
