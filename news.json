@@ -1,6 +1,41 @@
 {
-  "updated": 1775258974,
+  "updated": 1775260594,
   "items": [
+    {
+      "id": "77897b5c3d6f",
+      "title": "特朗普提2027財政預算 國防支出飆至1萬5000億 同步削減國內計劃",
+      "url": "https://www.singtaousa.com/2026/04/03/news/usa/president-trump-proposed-the-2027-fiscal-budget-defense-spending-soared-to-1-5-trillion-and-domestic-plans-were-simultaneously-cut/",
+      "source": "singtaousa.com",
+      "published": 1775260606
+    },
+    {
+      "id": "cbd99f4ba289",
+      "title": "美軍急搜F-15E失聯機組員再傳戰損！A-10遭擊落、2架黑鷹直升機遇襲",
+      "url": "https://money.udn.com/money/story/5599/9421779",
+      "source": "money.udn.com",
+      "published": 1775260245
+    },
+    {
+      "id": "540c2b17726d",
+      "title": "拉斯維加斯兩大報章決裂 《評論報》停止代印《太陽報》",
+      "url": "https://www.singtaousa.com/2026/04/03/news/usa/two-major-las-vegas-newspapers-break-up-the-review-stops-printing-the-sun/",
+      "source": "singtaousa.com",
+      "published": 1775259925
+    },
+    {
+      "id": "734f34f545ac",
+      "title": "義總理無預警出訪中東3國 盼緩解能源危機",
+      "url": "https://money.udn.com/money/story/5599/9421773",
+      "source": "money.udn.com",
+      "published": 1775259388
+    },
+    {
+      "id": "62da6341bbbd",
+      "title": "美軍戰機伊朗墜毀引發搜救 伊朗開出$10萬懸賞令",
+      "url": "https://www.singtaousa.com/2026/04/03/news/world/us-warplane-crashes-in-iran-triggers-search-and-rescue-tehran-issues-reward/",
+      "source": "singtaousa.com",
+      "published": 1775259271
+    },
     {
       "id": "fccc239ffef2",
       "title": "才喊打殘伊朗！美軍F-15E遭擊落1人獲救1失聯 川普回應了",
@@ -86,13 +121,6 @@
       "published": 1775255295
     },
     {
-      "id": "2ba9265cd4b2",
-      "title": "去年涉危駕被捕 廣末涼子宣布本月復出",
-      "url": "https://www.singtaousa.com/2026/04/03/entertainment/ryoko-hirai-resumes-activities/",
-      "source": "singtaousa.com",
-      "published": 1775253600
-    },
-    {
       "id": "623372816ed4",
       "title": "傳美軍A-10墜毀飛行員獲救 伊朗擊落F-15一獲救一失聯",
       "url": "https://money.udn.com/money/story/5599/9421689",
@@ -100,25 +128,11 @@
       "published": 1775253270
     },
     {
-      "id": "ede2eea94a12",
-      "title": "美國家庭餐桌告急！碎牛肉價格飆漲，正式超越聯邦最低時薪7.25美元",
-      "url": "https://www.singtaousa.com/2026/04/03/news/usa/a-pound-of-ground-beef-now-costs-more-than-the-federal-minimum-wage/",
-      "source": "singtaousa.com",
-      "published": 1775250130
-    },
-    {
       "id": "cb3bc9b26083",
       "title": "法媒：中国是一个稳定力量……但也是幕后操纵者",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260403-%E6%B3%95%E5%AA%92-%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E7%A8%B3%E5%AE%9A%E5%8A%9B%E9%87%8F-%E4%BD%86%E4%B9%9F%E6%98%AF%E5%B9%95%E5%90%8E%E6%93%8D%E7%BA%B5%E8%80%85",
       "source": "rfi.fr",
       "published": 1775250021
-    },
-    {
-      "id": "ed0ceca5251f",
-      "title": "內田有紀與柏原崇拍拖16年 終拉埋天窗",
-      "url": "https://www.singtaousa.com/2026/04/03/entertainment/uchida-yuki-kabayashi-taka-relationship/",
-      "source": "singtaousa.com",
-      "published": 1775250000
     },
     {
       "id": "3a2611982f65",
@@ -315,20 +329,6 @@
       "url": "https://money.udn.com/money/story/5599/9421528",
       "source": "money.udn.com",
       "published": 1775230604
-    },
-    {
-      "id": "334f97211601",
-      "title": "美國3月大增17.8萬名就業人口 失業率略降至4.3%",
-      "url": "https://money.udn.com/money/story/5599/9421524",
-      "source": "money.udn.com",
-      "published": 1775230221
-    },
-    {
-      "id": "dc7bb9485012",
-      "title": "美國安戰略可以不算數 學者重砲抨擊川普恣意妄為",
-      "url": "https://money.udn.com/money/story/5599/9421491",
-      "source": "money.udn.com",
-      "published": 1775229137
     },
     {
       "id": "11d1b99d499e",
@@ -1262,5 +1262,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775258974
+  "build_id": 1775260594
 }
