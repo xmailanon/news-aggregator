@@ -1,6 +1,41 @@
 {
-  "updated": 1775231790,
+  "updated": 1775233847,
   "items": [
+    {
+      "id": "771586ca98e0",
+      "title": "「阿爾忒彌斯二號」太空船脫離地球軌道奔向太空",
+      "url": "https://www.singtaousa.com/2026/04/03/news/world/artemis-2-spacecraft-leaves-earth-orbit-and-heads-into-space/",
+      "source": "singtaousa.com",
+      "published": 1775233526
+    },
+    {
+      "id": "8c1001cdecbe",
+      "title": "2027財政年度案將揭露 川普新預算案 擬增國防支出",
+      "url": "https://money.udn.com/money/story/5599/9421466",
+      "source": "money.udn.com",
+      "published": 1775233355
+    },
+    {
+      "id": "42c2745f2c06",
+      "title": "OpenAI進軍媒體傳播 收購當紅播客TBPN",
+      "url": "https://money.udn.com/money/story/5599/9421471",
+      "source": "money.udn.com",
+      "published": 1775233165
+    },
+    {
+      "id": "8f5f9baddc04",
+      "title": "SpaceX IPO估值拚2兆美元",
+      "url": "https://money.udn.com/money/story/123398/9421470",
+      "source": "money.udn.com",
+      "published": 1775233061
+    },
+    {
+      "id": "e564ab9125e6",
+      "title": "王淨認怕醜唔主動 想同袁澧林劉俊謙合作",
+      "url": "https://www.singtaousa.com/2026/04/03/entertainment/wang-jing-collaborate-yuan-li-lai-liu-jun-qian/",
+      "source": "singtaousa.com",
+      "published": 1775232000
+    },
     {
       "id": "ffd2aa9e5678",
       "title": "影／伊朗宣稱二度獵殺美軍F-35背後功臣？陸工程師教學影片爆紅",
@@ -163,20 +198,6 @@
       "published": 1775224800
     },
     {
-      "id": "72337f3baa9b",
-      "title": "亞馬遜洽購Globalstar",
-      "url": "https://www.singtaousa.com/2026/04/03/news/usa/amazon-acquires-globalstar/",
-      "source": "singtaousa.com",
-      "published": 1775224800
-    },
-    {
-      "id": "5083cd950503",
-      "title": "分析師：甲骨文裁員將有助節約成本",
-      "url": "https://www.singtaousa.com/2026/04/03/news/usa/oracle-layoffs-cost-savings/",
-      "source": "singtaousa.com",
-      "published": 1775224800
-    },
-    {
       "id": "0fac2fabdbf6",
       "title": "德语媒体：急需孩子的中国",
       "url": "https://www.dw.com/zh/德语媒体：急需孩子的中国/a-76654734?maca=chi-rss-chi-all-1127-rdf",
@@ -273,27 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9421312",
       "source": "money.udn.com",
       "published": 1775218934
-    },
-    {
-      "id": "8fcd7b44d8df",
-      "title": "3月聯合國糧價指數漲2.4% 穀物供應足緩和植物油漲價衝擊",
-      "url": "https://money.udn.com/money/story/5599/9421311",
-      "source": "money.udn.com",
-      "published": 1775218905
-    },
-    {
-      "id": "c69b7e77ebdd",
-      "title": "澤倫斯基：前線守住 烏克蘭近10個月最佳形勢",
-      "url": "https://money.udn.com/money/story/5599/9421310",
-      "source": "money.udn.com",
-      "published": 1775218885
-    },
-    {
-      "id": "39585d9aa868",
-      "title": "俄軍一架蘇-30戰機墜毀克里米亞 失事原因不明",
-      "url": "https://money.udn.com/money/story/5599/9421299",
-      "source": "money.udn.com",
-      "published": 1775218373
     },
     {
       "id": "84134d3adc22",
@@ -1262,5 +1262,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775231790
+  "build_id": 1775233847
 }
