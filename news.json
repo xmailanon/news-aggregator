@@ -1,6 +1,83 @@
 {
-  "updated": 1775293459,
+  "updated": 1775296722,
   "items": [
+    {
+      "id": "0b371bd5fd32",
+      "title": "伊朗大橋被炸 中國警告在以公民遠離重要設施",
+      "url": "https://money.udn.com/money/story/5599/9422515",
+      "source": "money.udn.com",
+      "published": 1775296845
+    },
+    {
+      "id": "288654c6a65c",
+      "title": "馬克宏批評川普 呼籲中等國家團結以制衡美國",
+      "url": "https://money.udn.com/money/story/5599/9422248",
+      "source": "money.udn.com",
+      "published": 1775296830
+    },
+    {
+      "id": "6253de2e79a2",
+      "title": "醫管局逾5.6萬病人資料外洩 議員促交代成因並重建市民對數碼平台信心",
+      "url": "https://www.singtaousa.com/2026/04/04/news/china/hospital-authority-patient-data-leak/",
+      "source": "singtaousa.com",
+      "published": 1775296697
+    },
+    {
+      "id": "71175c93765d",
+      "title": "一艘液化天然氣船沿阿曼海岸駛出荷莫茲海峽 為伊朗戰爭以來首艘",
+      "url": "https://money.udn.com/money/story/5599/9422102",
+      "source": "money.udn.com",
+      "published": 1775296485
+    },
+    {
+      "id": "055c89b40f71",
+      "title": "伊朗布什爾核電廠附近遇襲、1保全喪命 伊朗警告：恐構成戰爭罪",
+      "url": "https://money.udn.com/money/story/5599/9422507",
+      "source": "money.udn.com",
+      "published": 1775296407
+    },
+    {
+      "id": "b06766c0c01f",
+      "title": "美國加徵汽車關稅滿1年 日本車廠迎「新常態」",
+      "url": "https://money.udn.com/money/story/5599/9422503",
+      "source": "money.udn.com",
+      "published": 1775295949
+    },
+    {
+      "id": "f610d75635da",
+      "title": "中東戰火延燒5週 美戰爭部：13官兵亡、365人傷",
+      "url": "https://money.udn.com/money/story/5599/9422501",
+      "source": "money.udn.com",
+      "published": 1775295924
+    },
+    {
+      "id": "7bee482820fb",
+      "title": "美國K型經濟變「E型」了！專家解釋為何有經濟衰退之虞",
+      "url": "https://money.udn.com/money/story/5599/9422491",
+      "source": "money.udn.com",
+      "published": 1775295241
+    },
+    {
+      "id": "cc21d6a3e539",
+      "title": "東涌酒家遭爆竊失車 警拘兩無業漢起回贓車",
+      "url": "https://www.singtaousa.com/2026/04/04/news/china/restaurant-theft-arrests-stolen-cars-recovered/",
+      "source": "singtaousa.com",
+      "published": 1775294897
+    },
+    {
+      "id": "f5de2abcf4b7",
+      "title": "高市拟月底访问澳大利亚 探讨稀土合作、“自由开放的印太”倡议",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260404-%E9%AB%98%E5%B8%82%E6%8B%9F%E6%9C%88%E5%BA%95%E8%AE%BF%E9%97%AE%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A-%E6%8E%A2%E8%AE%A8%E7%A8%80%E5%9C%9F%E5%90%88%E4%BD%9C-%E8%87%AA%E7%94%B1%E5%BC%80%E6%94%BE%E7%9A%84%E5%8D%B0%E5%A4%AA-%E5%80%A1%E8%AE%AE",
+      "source": "rfi.fr",
+      "published": 1775294400
+    },
+    {
+      "id": "5efacbfa1eb5",
+      "title": "西方竞逐乌克兰无人机合作，乌拟在欧洲设立约十个军工出口中心",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260404-%E8%A5%BF%E6%96%B9%E7%AB%9E%E9%80%90%E4%B9%8C%E5%85%8B%E5%85%B0%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%88%E4%BD%9C%EF%BC%8C%E4%B9%8C%E6%8B%9F%E5%9C%A8%E6%AC%A7%E6%B4%B2%E8%AE%BE%E7%AB%8B%E7%BA%A6%E5%8D%81%E4%B8%AA%E5%86%9B%E5%B7%A5%E5%87%BA%E5%8F%A3%E4%B8%AD%E5%BF%83",
+      "source": "rfi.fr",
+      "published": 1775294297
+    },
     {
       "id": "94b525ebe1c6",
       "title": "香港機管局訪鄂州花湖機場 深化航空物流與口岸合作",
@@ -163,74 +240,11 @@
       "published": 1775282381
     },
     {
-      "id": "ac40af183113",
-      "title": "蘇黎世湖高中AI裸照風暴：學生濫用技術生成女同學色情圖，警方已展開調查",
-      "url": "https://www.singtaousa.com/2026/04/03/news/usa/disturbing-incident-police-investigating-after-lake-zurich-high-school-students-distribute-ai-generated-nude-images-of-classmates/",
-      "source": "singtaousa.com",
-      "published": 1775282246
-    },
-    {
       "id": "7ef4459a1835",
       "title": "華郵：美以不解殉道文化 斬首反促伊朗堅定抵抗",
       "url": "https://money.udn.com/money/story/5599/9422285",
       "source": "money.udn.com",
       "published": 1775282099
-    },
-    {
-      "id": "f44ce52944fe",
-      "title": "中東鋁業龍頭 EGA 遭襲大廠恐需長達一年才能全面復工",
-      "url": "https://money.udn.com/money/story/5599/9422282",
-      "source": "money.udn.com",
-      "published": 1775281923
-    },
-    {
-      "id": "079989cebe7a",
-      "title": "政府備戰、民間先閃？CNN：中國動武陰影 台灣掀辦新護照與資產外移潮",
-      "url": "https://money.udn.com/money/story/5599/9422275",
-      "source": "money.udn.com",
-      "published": 1775281478
-    },
-    {
-      "id": "c474e2dba0c7",
-      "title": "剛果宣布猴痘疫情結束，兩年大流行釀逾2200人疑似死亡",
-      "url": "https://www.singtaousa.com/2026/04/03/news/world/congo-says-its-mpox-outbreak-is-over-after-2-years-and-more-than-2200-suspected-deaths/",
-      "source": "singtaousa.com",
-      "published": 1775280989
-    },
-    {
-      "id": "94be19f82827",
-      "title": "美伊開戰後 首艘日本相關船隻通過荷莫茲海峽",
-      "url": "https://money.udn.com/money/story/5599/9422145",
-      "source": "money.udn.com",
-      "published": 1775277028
-    },
-    {
-      "id": "87262471ba37",
-      "title": "分析：美軍機1天內接連折翼 伊朗戰力保存策略奏效",
-      "url": "https://money.udn.com/money/story/5599/9422131",
-      "source": "money.udn.com",
-      "published": 1775276541
-    },
-    {
-      "id": "c20e29e9b4f8",
-      "title": "荷莫茲海峽成籌碼 美情報稱伊朗短期難解封",
-      "url": "https://money.udn.com/money/story/5599/9422129",
-      "source": "money.udn.com",
-      "published": 1775276501
-    },
-    {
-      "id": "b04fb3314929",
-      "title": "投資人寄望荷莫茲海峽開通 下周美通膨數據成戰爭影響首要檢驗",
-      "url": "https://money.udn.com/money/story/5599/9422122",
-      "source": "money.udn.com",
-      "published": 1775276281
-    },
-    {
-      "id": "d9fb3913547b",
-      "title": "F-15E被擊落如何搜救？美軍「CSAR」救援部隊直闖敵境搶人",
-      "url": "https://money.udn.com/money/story/5599/9422120",
-      "source": "money.udn.com",
-      "published": 1775276144
     },
     {
       "id": "1a8b02fbef30",
@@ -422,13 +436,6 @@
       "published": 1775219799
     },
     {
-      "id": "27c5bdd3944a",
-      "title": "伊朗战争冲击美国中期选举 民意反弹、共和党内部分裂加剧",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260403-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%86%B2%E5%87%BB%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE-%E6%B0%91%E6%84%8F%E5%8F%8D%E5%BC%B9-%E5%85%B1%E5%92%8C%E5%85%9A%E5%86%85%E9%83%A8%E5%88%86%E8%A3%82%E5%8A%A0%E5%89%A7",
-      "source": "rfi.fr",
-      "published": 1775215442
-    },
-    {
       "id": "26f7c53e9d4f",
       "title": "美媒：中国正在悄悄扩大核武库",
       "url": "https://www.dw.com/zh/美媒：中国正在悄悄扩大核武库/a-76653627?maca=chi-rss-chi-all-1127-rdf",
@@ -469,13 +476,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260403-%E4%B8%AD%E5%9B%BD%EF%BC%8C%E6%9C%89%E6%9C%9B%E6%88%90%E7%BE%8E%E5%9B%BD%E5%86%92%E9%99%A9%E6%94%BB%E6%89%93%E4%BC%8A%E6%9C%97%E8%87%B4%E5%85%B6%E5%8D%B0%E5%A4%AA%E5%9C%B0%E4%BD%8D%E8%A1%B0%E9%80%80%E7%9A%84%E6%9C%80%E5%A4%A7%E8%B5%A2%E5%AE%B6",
       "source": "rfi.fr",
       "published": 1775210933
-    },
-    {
-      "id": "3bdd51a92204",
-      "title": "美议员提新法案收紧荷日对华芯片设备出口管制 浸没式DUV也全禁",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260403-%E7%BE%8E%E8%AE%AE%E5%91%98%E6%8F%90%E6%96%B0%E6%B3%95%E6%A1%88%E6%94%B6%E7%B4%A7%E8%8D%B7%E6%97%A5%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E8%AE%BE%E5%A4%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6-%E6%B5%B8%E6%B6%A6%E5%BC%8Fduv%E4%B9%9F%E5%85%A8%E7%A6%81",
-      "source": "rfi.fr",
-      "published": 1775209283
     },
     {
       "id": "9fb7de41a219",
@@ -1262,5 +1262,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775293459
+  "build_id": 1775296722
 }
