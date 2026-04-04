@@ -1,6 +1,27 @@
 {
-  "updated": 1775312616,
+  "updated": 1775314549,
   "items": [
+    {
+      "id": "5c30ecb822e5",
+      "title": "啟德綠色運輸系統將提速 運物局擬推新規管框架加快項目落地",
+      "url": "https://www.singtaousa.com/2026/04/04/news/china/kaitak-green-transport-regulatory-framework/",
+      "source": "singtaousa.com",
+      "published": 1775314698
+    },
+    {
+      "id": "dea97fdaaefb",
+      "title": "育老新商機２／訂製聰明兒！矽谷日益迷戀「胚胎智商篩選」",
+      "url": "https://money.udn.com/money/story/122381/9422703",
+      "source": "money.udn.com",
+      "published": 1775314018
+    },
+    {
+      "id": "2266fe624395",
+      "title": "育老新商機３／別再只盯暑假！旅遊旺季正消失 這群人改寫旅宿定位",
+      "url": "https://money.udn.com/money/story/122381/9422702",
+      "source": "money.udn.com",
+      "published": 1775313912
+    },
     {
       "id": "0087f32e88d0",
       "title": "六合彩復活節金多寶今晚攪珠 頭獎基金高達8000萬",
@@ -9,8 +30,15 @@
       "published": 1775312895
     },
     {
+      "id": "27966280b876",
+      "title": "伊朗的“不对称军事战略”还能坚持多久？",
+      "url": "https://www.dw.com/zh/伊朗的-不对称军事战略-还能坚持多久？/a-76662524?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1775312880
+    },
+    {
       "id": "d5d5cc999e7b",
-      "title": "川普再度警告伊朗：時間所剩無幾 48小時內「地獄降臨」",
+      "title": "川普再度警告伊朗：時間所剩無幾 48小時後「地獄降臨」",
       "url": "https://money.udn.com/money/story/5599/9422693",
       "source": "money.udn.com",
       "published": 1775312579
@@ -89,13 +117,6 @@
       "id": "2b4aad5e6e07",
       "title": "紐約人40分大勝   送公牛6連敗",
       "url": "https://www.singtaousa.com/2026/04/04/news/usa/new-york-knicks-defeat-bulls/",
-      "source": "singtaousa.com",
-      "published": 1775311200
-    },
-    {
-      "id": "c3ec5ff3340b",
-      "title": "TSA經費削5200萬 小機場安檢或私有化",
-      "url": "https://www.singtaousa.com/2026/04/04/news/usa/tsa-budget-cuts-privatization/",
       "source": "singtaousa.com",
       "published": 1775311200
     },
@@ -280,20 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9422503",
       "source": "money.udn.com",
       "published": 1775295949
-    },
-    {
-      "id": "f610d75635da",
-      "title": "中東戰火延燒5週 美戰爭部：13官兵亡、365人傷",
-      "url": "https://money.udn.com/money/story/5599/9422501",
-      "source": "money.udn.com",
-      "published": 1775295924
-    },
-    {
-      "id": "7bee482820fb",
-      "title": "美國K型經濟變「E型」了！專家解釋為何有經濟衰退之虞",
-      "url": "https://money.udn.com/money/story/5599/9422491",
-      "source": "money.udn.com",
-      "published": 1775295241
     },
     {
       "id": "f5de2abcf4b7",
@@ -1178,13 +1185,6 @@
       "published": 1774104480
     },
     {
-      "id": "ce28822c76ab",
-      "title": "川普會晤高市早苗稱：將在習近平面前為日本美言",
-      "url": "https://www.dw.com/zh/川普會晤高市早苗稱：將在習近平面前為日本美言/a-76443357?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1773986160
-    },
-    {
       "id": "95b4d26f990e",
       "title": "世界幸福报告出炉：社交媒体让人不快乐",
       "url": "https://www.dw.com/zh/世界幸福报告出炉：社交媒体让人不快乐/a-76430868?maca=chi-rss-chi-all-1127-rdf",
@@ -1248,5 +1248,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775312616
+  "build_id": 1775314549
 }
