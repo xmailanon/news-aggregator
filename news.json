@@ -1,12 +1,33 @@
 {
-  "updated": 1775317884,
+  "updated": 1775319670,
   "items": [
+    {
+      "id": "85ecaae8b9d4",
+      "title": "能源冲击：中国早有准备，欧盟却没有",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260404-%E8%83%BD%E6%BA%90%E5%86%B2%E5%87%BB-%E4%B8%AD%E5%9B%BD%E6%97%A9%E6%9C%89%E5%87%86%E5%A4%87%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%8D%B4%E6%B2%A1%E6%9C%89",
+      "source": "rfi.fr",
+      "published": 1775319181
+    },
+    {
+      "id": "66e08d2d2c9a",
+      "title": "李家鼎揭被拒探望施明 前妻離世兩日才獲通知",
+      "url": "https://www.singtaousa.com/2026/04/04/entertainment/li-jia-ding-rejects-visit-shi-ming/",
+      "source": "singtaousa.com",
+      "published": 1775318400
+    },
     {
       "id": "df34a8a4194a",
       "title": "日昇汽車服務輪胎總代理 現推出輪胎特別大優惠！",
       "url": "https://www.singtaousa.com/2026/04/04/lifestyle/risheng-auto-service-tire-distributor-is-now-offering-a-special-discount-on-tires/",
       "source": "singtaousa.com",
       "published": 1775317213
+    },
+    {
+      "id": "be4b301e8623",
+      "title": "留美是生活？绿卡被撤销苏莱曼尼外甥女在美被捕 拉里贾尼之女身份被终止",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260404-%E8%B5%B4%E7%BE%8E%E6%98%AF%E7%94%9F%E6%B4%BB-%E7%BB%BF%E5%8D%A1%E8%A2%AB%E6%92%A4%E9%94%80%E8%8B%8F%E8%8E%B1%E6%9B%BC%E5%B0%BC%E5%A4%96%E7%94%A5%E5%A5%B3%E5%9C%A8%E7%BE%8E%E8%A2%AB%E6%8D%95-%E6%8B%89%E9%87%8C%E8%B4%BE%E5%B0%BC%E4%B9%8B%E5%A5%B3%E8%BA%AB%E4%BB%BD%E8%A2%AB%E7%BB%88%E6%AD%A2",
+      "source": "rfi.fr",
+      "published": 1775316597
     },
     {
       "id": "3ff39a9eaa1a",
@@ -159,13 +180,6 @@
       "id": "a3539fd1e434",
       "title": "NBA官方MVP榜   文班亞馬續居榜首",
       "url": "https://www.singtaousa.com/2026/04/04/news/usa/nba-mvp-wembanyama-leads/",
-      "source": "singtaousa.com",
-      "published": 1775311200
-    },
-    {
-      "id": "40841f4639d0",
-      "title": "黃蜂取得三連勝",
-      "url": "https://www.singtaousa.com/2026/04/04/news/usa/hornets-three-game-winning-streak/",
       "source": "singtaousa.com",
       "published": 1775311200
     },
@@ -441,20 +455,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260403-%E7%BE%8E%E5%AA%92-%E6%88%90%E5%8A%9F%E6%90%9C%E6%95%91%E4%B8%A4%E5%90%8D%E4%B8%AD%E4%B8%80%E5%90%8D%E9%A3%9E%E8%A1%8C%E5%91%98",
       "source": "rfi.fr",
       "published": 1775236795
-    },
-    {
-      "id": "a3f7d3094382",
-      "title": "美联邦通信委员会提议扩大禁止进口中国电子设备范围",
-      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260403-%E7%BE%8E%E8%81%94%E9%82%A6%E9%80%9A%E4%BF%A1%E5%A7%94%E5%91%98%E4%BC%9A%E6%8F%90%E8%AE%AE%E6%89%A9%E5%A4%A7%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E8%AE%BE%E5%A4%87%E8%8C%83%E5%9B%B4",
-      "source": "rfi.fr",
-      "published": 1775227840
-    },
-    {
-      "id": "058e27ad3709",
-      "title": "泽连斯基谴责俄罗斯空袭“升级”并表示愿意帮助疏通霍尔木兹海峡",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260403-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%B0%B4%E8%B4%A3%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD-%E5%8D%87%E7%BA%A7-%E5%B9%B6%E8%A1%A8%E7%A4%BA%E6%84%BF%E6%84%8F%E5%B8%AE%E5%8A%A9%E7%96%8F%E9%80%9A%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-      "source": "rfi.fr",
-      "published": 1775226235
     },
     {
       "id": "045e2eb5c007",
@@ -1248,5 +1248,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775317884
+  "build_id": 1775319670
 }
