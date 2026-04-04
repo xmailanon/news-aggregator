@@ -1,6 +1,20 @@
 {
-  "updated": 1775329562,
+  "updated": 1775332179,
   "items": [
+    {
+      "id": "f9d74477164e",
+      "title": "开打五周后美方领教到伊朗战术难缠",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260404-%E5%BC%80%E6%89%93%E4%BA%94%E5%91%A8%E5%90%8E%E7%BE%8E%E6%96%B9%E9%A2%86%E6%95%99%E5%88%B0%E4%BC%8A%E6%9C%97%E6%88%98%E6%9C%AF%E9%9A%BE%E7%BC%A0",
+      "source": "rfi.fr",
+      "published": 1775331895
+    },
+    {
+      "id": "cced1c529f9f",
+      "title": "港人減壓新方式：付費體驗真人拳擊沙包 記者實測成效",
+      "url": "https://www.singtaousa.com/2026/04/04/news/china/pay-to-punch-muscle-man-stress-relief/",
+      "source": "singtaousa.com",
+      "published": 1775330898
+    },
     {
       "id": "ea77fdf94cc5",
       "title": "戴祖儀新劇排住隊出街 望能7度入圍飛躍獎",
@@ -168,13 +182,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260404-%E8%83%BD%E6%BA%90%E5%86%B2%E5%87%BB-%E4%B8%AD%E5%9B%BD%E6%97%A9%E6%9C%89%E5%87%86%E5%A4%87%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%8D%B4%E6%B2%A1%E6%9C%89",
       "source": "rfi.fr",
       "published": 1775319181
-    },
-    {
-      "id": "66e08d2d2c9a",
-      "title": "李家鼎揭被拒探望施明 前妻離世兩日才獲通知",
-      "url": "https://www.singtaousa.com/2026/04/04/entertainment/li-jia-ding-rejects-visit-shi-ming/",
-      "source": "singtaousa.com",
-      "published": 1775318400
     },
     {
       "id": "be4b301e8623",
@@ -448,13 +455,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260403-%E5%A4%8D%E6%B4%BB%E8%8A%82%E5%89%8D-%E7%BD%97%E9%A9%AC%E6%95%99%E5%AE%97%E5%BF%A7%E5%BF%83%E5%92%8C%E5%B9%B3-%E7%BE%8E%E5%9B%BD%E6%80%A5%E5%AF%BB%E8%90%BD%E9%9A%BE%E9%A3%9E%E8%A1%8C%E5%91%98",
       "source": "rfi.fr",
       "published": 1775247224
-    },
-    {
-      "id": "e05d5176d6de",
-      "title": "从4月4日起  巴基斯坦公交免费一个月",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260403-%E4%BB%8E4%E6%9C%884%E6%97%A5%E8%B5%B7-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%85%AC%E4%BA%A4%E5%85%8D%E8%B4%B9%E4%B8%80%E4%B8%AA%E6%9C%88",
-      "source": "rfi.fr",
-      "published": 1775247115
     },
     {
       "id": "164133e3035c",
@@ -1248,5 +1248,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775329562
+  "build_id": 1775332179
 }
