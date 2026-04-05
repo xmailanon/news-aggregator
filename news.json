@@ -1,6 +1,20 @@
 {
-  "updated": 1775406168,
+  "updated": 1775408350,
   "items": [
+    {
+      "id": "83557acc91ea",
+      "title": "吳文忻自爆抽出1升肺積水",
+      "url": "https://www.singtaousa.com/2026/04/05/entertainment/wu-wen-xin-lung-ji-shui/",
+      "source": "singtaousa.com",
+      "published": 1775408400
+    },
+    {
+      "id": "bed00ee46335",
+      "title": "伊朗持續空襲鄰國 阿聯：準備好加入美國為首行動",
+      "url": "https://money.udn.com/money/story/5599/9424061",
+      "source": "money.udn.com",
+      "published": 1775408067
+    },
     {
       "id": "83f61b4ed724",
       "title": "教宗利奧十四世首主持復活節彌撒 籲以對話取代戰爭",
@@ -63,6 +77,13 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260405-%E7%8E%8B%E6%AF%85%E4%B8%8E%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E9%80%9A%E7%94%B5%E8%AF%9D-%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E4%BB%8D%E5%9C%A8%E6%81%B6%E5%8C%96-%E6%88%98%E4%BA%8B%E8%BF%98%E5%9C%A8%E5%8D%87%E7%BA%A7",
       "source": "rfi.fr",
       "published": 1775401849
+    },
+    {
+      "id": "6c5a8781e54c",
+      "title": "中俄外長通話談中東 指聯合國安理會應發揮穩定作用",
+      "url": "https://money.udn.com/money/story/5599/9423913",
+      "source": "money.udn.com",
+      "published": 1775401781
     },
     {
       "id": "ac958075d337",
@@ -152,13 +173,6 @@
       "id": "1e9ceb324477",
       "title": "約基奇技壓文班亞馬",
       "url": "https://www.singtaousa.com/2026/04/05/news/usa/yokic-defeats-wembanyama/",
-      "source": "singtaousa.com",
-      "published": 1775397600
-    },
-    {
-      "id": "e03b134ca933",
-      "title": "康涅狄格進決賽   衝向NCAA第7冠",
-      "url": "https://www.singtaousa.com/2026/04/05/news/usa/connecticut-ncaa-championship/",
       "source": "singtaousa.com",
       "published": 1775397600
     },
@@ -345,25 +359,11 @@
       "published": 1775379645
     },
     {
-      "id": "1be8a28a5f86",
-      "title": "伊朗局部解封荷莫茲海峽 允許基本物資船隻通行",
-      "url": "https://money.udn.com/money/story/5599/9423582",
-      "source": "money.udn.com",
-      "published": 1775379625
-    },
-    {
       "id": "461462ec5350",
       "title": "俄罗斯多地重要能源设施遭无人机袭击，炼油厂起火，出口港受损",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260405-%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E5%9C%B0%E9%87%8D%E8%A6%81%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%EF%BC%8C%E7%82%BC%E6%B2%B9%E5%8E%82%E8%B5%B7%E7%81%AB%EF%BC%8C%E5%87%BA%E5%8F%A3%E6%B8%AF%E5%8F%97%E6%8D%9F",
       "source": "rfi.fr",
       "published": 1775377926
-    },
-    {
-      "id": "0e38315a92bd",
-      "title": "美國營救飛官細節曝光 犧牲兩架MC-130J特戰運輸機",
-      "url": "https://money.udn.com/money/story/5599/9423541",
-      "source": "money.udn.com",
-      "published": 1775377842
     },
     {
       "id": "ad406d987c33",
@@ -563,7 +563,7 @@
     },
     {
       "id": "7c7c502cec78",
-      "title": "馬興瑞落馬：習時代「技術官僚」代表隕落，一屆中共政治局三名委員被查",
+      "title": "馬興瑞落馬：習時代一屆中共政治局三名委員被查",
       "url": "https://www.bbc.com/zhongwen/articles/cy472d80ewwo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1775212386
@@ -1248,5 +1248,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775406168
+  "build_id": 1775408350
 }
