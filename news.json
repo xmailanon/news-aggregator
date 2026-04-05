@@ -1,6 +1,13 @@
 {
-  "updated": 1775401117,
+  "updated": 1775403023,
   "items": [
+    {
+      "id": "291aff7c0847",
+      "title": "旺角彌敦道發生非禮案 17歲少女遇事 48歲男子被捕",
+      "url": "https://www.singtaousa.com/2026/04/05/news/china/mongkok-molestation-arrest/",
+      "source": "singtaousa.com",
+      "published": 1775402898
+    },
     {
       "id": "ac958075d337",
       "title": "福斯新聞：川普稱4/6有機會與伊朗達成協議",
@@ -128,13 +135,6 @@
       "published": 1775397600
     },
     {
-      "id": "1bdc83c7e315",
-      "title": "政府強索大學招生數據  聯邦庭喊停",
-      "url": "https://www.singtaousa.com/2026/04/05/news/usa/government-university-admissions-data-stop/",
-      "source": "singtaousa.com",
-      "published": 1775397600
-    },
-    {
       "id": "c85c0d9b75cc",
       "title": "美媒：幕僚建議川普 打擊伊朗基礎設施為合理手段",
       "url": "https://money.udn.com/money/story/5599/9423793",
@@ -178,7 +178,7 @@
     },
     {
       "id": "dbf6af7288a7",
-      "title": "日本法律大改革：離婚夫妻可共享子女監護權　終結百年「單一親權制」",
+      "title": "日本允離婚夫妻共享子女監護權　終結百年「單一親權制」",
       "url": "https://www.bbc.com/zhongwen/articles/cgk0rl1g54ko/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1775391901
@@ -1248,5 +1248,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775401117
+  "build_id": 1775403023
 }
