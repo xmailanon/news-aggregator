@@ -1,6 +1,27 @@
 {
-  "updated": 1775431407,
+  "updated": 1775433269,
   "items": [
+    {
+      "id": "71bf2d0cac89",
+      "title": "北约再次面临美国退群威胁，特朗普能否单方面退出北约？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%9B%BD%E9%99%85%E7%BA%B5%E6%A8%AA/20260405-%E5%8C%97%E7%BA%A6%E5%86%8D%E6%AC%A1%E9%9D%A2%E4%B8%B4%E7%BE%8E%E5%9B%BD%E9%80%80%E7%BE%A4%E5%A8%81%E8%83%81%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E8%83%BD%E5%90%A6%E5%8D%95%E6%96%B9%E9%9D%A2%E9%80%80%E5%87%BA%E5%8C%97%E7%BA%A6",
+      "source": "rfi.fr",
+      "published": 1775431998
+    },
+    {
+      "id": "9d9d328679fa",
+      "title": "紐約哈德遜河魚類解禁！時隔半世紀終可食用，官員警告：吃之前務必做這一步",
+      "url": "https://www.singtaousa.com/2026/04/05/news/usa/you-can-eat-fish-caught-in-the-hudson-river-for-the-first-time-in-50-years/",
+      "source": "singtaousa.com",
+      "published": 1775431976
+    },
+    {
+      "id": "e722eba33c13",
+      "title": "川普再揚言摧毀伊朗所有電廠和橋樑 最後通牒限周二晚間重啟海峽",
+      "url": "https://money.udn.com/money/story/5599/9424150",
+      "source": "money.udn.com",
+      "published": 1775431823
+    },
     {
       "id": "63b092b30c70",
       "title": "密西根大學研究鬧烏龍，科學家追蹤微塑膠污染竟是測量自己的實驗手套",
@@ -126,13 +147,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260405-%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB-%E4%B8%8D%E8%A6%81%E6%8A%8A-%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92-%E6%8C%82%E5%9C%A8%E5%98%B4%E8%BE%B9",
       "source": "rfi.fr",
       "published": 1775422968
-    },
-    {
-      "id": "75cebd5a5636",
-      "title": "畢安愛女Shiloh初登場  參演多榮MV晒神基因",
-      "url": "https://www.singtaousa.com/2026/04/05/entertainment/shiloh-jolie-debuts-mv/",
-      "source": "singtaousa.com",
-      "published": 1775422800
     },
     {
       "id": "b43a6ddd513b",
@@ -301,13 +315,6 @@
       "url": "https://money.udn.com/money/story/5599/9423903",
       "source": "money.udn.com",
       "published": 1775410012
-    },
-    {
-      "id": "817fa0022ecb",
-      "title": "私募股票火熱 散戶買不到 優質標的投資機會僅提前開放給少數富豪認購",
-      "url": "https://money.udn.com/money/story/5599/9423950",
-      "source": "money.udn.com",
-      "published": 1775409933
     },
     {
       "id": "7872ed48478c",
@@ -490,13 +497,6 @@
       "url": "https://www.rfi.fr/cn/rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E7%A0%B4%E9%98%B4%E8%B0%8B%E5%88%BA%E6%9D%80%E8%BF%87%E6%B8%A1%E6%80%BB%E7%BB%9F",
       "source": "rfi.fr",
       "published": 1775338735
-    },
-    {
-      "id": "8d1ed7ef7f27",
-      "title": "法外交部：惊悉陈森在广州被执行死刑",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260404-%E6%B3%95%E5%A4%96%E4%BA%A4%E9%83%A8-%E6%83%8A%E6%82%89%E9%99%88%E6%A3%AE%E5%9C%A8%E5%B9%BF%E5%B7%9E%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91",
-      "source": "rfi.fr",
-      "published": 1775334244
     },
     {
       "id": "f9d74477164e",
@@ -1248,5 +1248,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775431407
+  "build_id": 1775433269
 }
