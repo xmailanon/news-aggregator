@@ -1,6 +1,20 @@
 {
-  "updated": 1775424049,
+  "updated": 1775425939,
   "items": [
+    {
+      "id": "0a5490f56ee4",
+      "title": "遭烏攻擊中斷運作 傳俄波羅的海港口恢復原油裝載",
+      "url": "https://money.udn.com/money/story/5599/9424108",
+      "source": "money.udn.com",
+      "published": 1775424623
+    },
+    {
+      "id": "0a898d9ef8c2",
+      "title": "伊朗战争迈入第6周 油价飙涨对全球经济产生负面影响",
+      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260405-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E8%BF%88%E5%85%A5%E7%AC%AC6%E5%91%A8-%E6%B2%B9%E4%BB%B7%E9%A3%99%E6%B6%A8%E5%AF%B9%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E4%BA%A7%E7%94%9F%E8%B4%9F%E9%9D%A2%E5%BD%B1%E5%93%8D",
+      "source": "rfi.fr",
+      "published": 1775424618
+    },
     {
       "id": "10bd47f79fed",
       "title": "“最后通牒”又被延后",
@@ -296,13 +310,6 @@
       "published": 1775409852
     },
     {
-      "id": "5f2a5b0c3843",
-      "title": "華盛頓州推「百萬富翁稅」",
-      "url": "https://money.udn.com/money/story/10511/9423117",
-      "source": "money.udn.com",
-      "published": 1775409852
-    },
-    {
       "id": "7872ed48478c",
       "title": "王毅与拉夫罗夫通电话：中东局势仍在恶化、战事还在升级",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260405-%E7%8E%8B%E6%AF%85%E4%B8%8E%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E9%80%9A%E7%94%B5%E8%AF%9D-%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E4%BB%8D%E5%9C%A8%E6%81%B6%E5%8C%96-%E6%88%98%E4%BA%8B%E8%BF%98%E5%9C%A8%E5%8D%87%E7%BA%A7",
@@ -483,13 +490,6 @@
       "url": "https://www.rfi.fr/cn/rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E9%A9%AC%E8%BE%BE%E5%8A%A0%E6%96%AF%E5%8A%A0%E7%A0%B4%E9%98%B4%E8%B0%8B%E5%88%BA%E6%9D%80%E8%BF%87%E6%B8%A1%E6%80%BB%E7%BB%9F",
       "source": "rfi.fr",
       "published": 1775338735
-    },
-    {
-      "id": "d57601ba9a91",
-      "title": "特朗普：都是“欧洲人、法英的错儿”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260404-%E7%89%B9%E6%9C%97%E6%99%AE-%E9%83%BD%E6%98%AF-%E6%AC%A7%E6%B4%B2%E4%BA%BA-%E6%B3%95%E8%8B%B1%E7%9A%84%E9%94%99%E5%84%BF",
-      "source": "rfi.fr",
-      "published": 1775334478
     },
     {
       "id": "8d1ed7ef7f27",
@@ -1248,5 +1248,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775424049
+  "build_id": 1775425939
 }
