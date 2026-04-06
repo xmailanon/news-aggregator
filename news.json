@@ -1,6 +1,48 @@
 {
-  "updated": 1775491467,
+  "updated": 1775495422,
   "items": [
+    {
+      "id": "f0a5cf51d00e",
+      "title": "班農藐視國會罪指控 最高法院撤銷",
+      "url": "https://www.singtaousa.com/2026/04/06/news/usa/news-supreme-court-bannon-contempt-of-congress-vacated/",
+      "source": "singtaousa.com",
+      "published": 1775495632
+    },
+    {
+      "id": "d926545d58b2",
+      "title": "三星將停用自家短信App 用戶需轉用Google Messages",
+      "url": "https://www.singtaousa.com/2026/04/06/news/usa/news-samsung-messages-discontinued-google-messages-android-switch/",
+      "source": "singtaousa.com",
+      "published": 1775494948
+    },
+    {
+      "id": "773043fb3d6a",
+      "title": "毛曉彤惟願 與張曼玉結戲緣",
+      "url": "https://www.singtaousa.com/2026/04/06/entertainment/mao-xiao-tong-wants-cooperate-with-zhang-man-yu/",
+      "source": "singtaousa.com",
+      "published": 1775494800
+    },
+    {
+      "id": "9fd552c06124",
+      "title": "華裔研究員王丹浩墜樓亡事件 密大警方調查",
+      "url": "https://www.singtaousa.com/2026/04/06/news/usa/news-university-of-michigan-researcher-death-china-interrogation/",
+      "source": "singtaousa.com",
+      "published": 1775493419
+    },
+    {
+      "id": "7ad39063d7c6",
+      "title": "無人機飛平壤李在明表遺憾 金正恩稱坦率大方明智之舉",
+      "url": "https://www.singtaousa.com/2026/04/06/news/world/lee-jae-myung-expresses-regret-for-flying-drone-over-pyongyang-kim-jong-un-calls-it-a-wise-move-to-be-frank-and-generous/",
+      "source": "singtaousa.com",
+      "published": 1775492659
+    },
+    {
+      "id": "1b7c1f78cfd0",
+      "title": "川普：與伊朗停火提案是重要進展 調解方正斡旋",
+      "url": "https://money.udn.com/money/story/5599/9425402",
+      "source": "money.udn.com",
+      "published": 1775492124
+    },
     {
       "id": "36a950b34757",
       "title": "晚安莉莉演出遇故障 發揮應變力",
@@ -135,32 +177,11 @@
       "published": 1775486181
     },
     {
-      "id": "33b44f99a3a1",
-      "title": "以軍空襲伊朗最大石油化工設施 革命衛隊情報局長被擊殺",
-      "url": "https://www.singtaousa.com/2026/04/06/news/world/israeli-air-strike-on-irans-largest-petrochemical-facility-kills-revolutionary-guard-intelligence-chief/",
-      "source": "singtaousa.com",
-      "published": 1775485860
-    },
-    {
       "id": "edfbee7fcc47",
       "title": "日伊外長第3度通話 日本敦促正視停火斡旋",
       "url": "https://money.udn.com/money/story/5599/9425189",
       "source": "money.udn.com",
       "published": 1775485836
-    },
-    {
-      "id": "ab324c2356e9",
-      "title": "元朗中一男生疑遭童黨勒索及毆打 警方列多項罪名跟進",
-      "url": "https://www.singtaousa.com/2026/04/06/news/china/yuen-long-form-one-student-bullied-extorted-assaulted/",
-      "source": "singtaousa.com",
-      "published": 1775485696
-    },
-    {
-      "id": "f84ce0e9112b",
-      "title": "中東戰雲密佈：分析特朗普最後通牒與伊朗僵局下的全球危機",
-      "url": "https://www.singtaousa.com/2026/04/06/opinion/war-clouds-loom-in-the-middle-east-analysis-of-global-crisis-amid-trumps-ultimatum-and-iran-standoff/",
-      "source": "singtaousa.com",
-      "published": 1775484676
     },
     {
       "id": "2d9661576973",
@@ -182,20 +203,6 @@
       "url": "https://money.udn.com/money/story/5599/9425156",
       "source": "money.udn.com",
       "published": 1775484026
-    },
-    {
-      "id": "720df87ad1ae",
-      "title": "狀元對決火星撞地球",
-      "url": "https://www.singtaousa.com/2026/04/06/news/usa/james-vs-flagg-legendary-duel/",
-      "source": "singtaousa.com",
-      "published": 1775484000
-    },
-    {
-      "id": "240c94f6c576",
-      "title": "雷霆35分血洗爵士 61勝隊史第3高",
-      "url": "https://www.singtaousa.com/2026/04/06/news/usa/thunder-dominates-jazz/",
-      "source": "singtaousa.com",
-      "published": 1775484000
     },
     {
       "id": "a4ca682fe0e1",
@@ -280,13 +287,6 @@
       "url": "https://money.udn.com/money/story/5599/9425101",
       "source": "money.udn.com",
       "published": 1775478814
-    },
-    {
-      "id": "a45edf10d6cd",
-      "title": "烏軍宣布收復480平方公里失地 夜間突襲俄軍戰艦",
-      "url": "https://money.udn.com/money/story/5599/9425046",
-      "source": "money.udn.com",
-      "published": 1775476871
     },
     {
       "id": "3b7d0d5085a6",
@@ -1241,5 +1241,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775491467
+  "build_id": 1775495422
 }
