@@ -1,6 +1,20 @@
 {
-  "updated": 1775507232,
+  "updated": 1775509273,
   "items": [
+    {
+      "id": "d0e3f9e006f9",
+      "title": "唐藝昕產後患皮膚怪病",
+      "url": "https://www.singtaousa.com/2026/04/06/news/usa/tang-yixin-postpartum-skin-issue/",
+      "source": "singtaousa.com",
+      "published": 1775509200
+    },
+    {
+      "id": "e6268320b7d9",
+      "title": "秀茂坪球場少年持械衝突 匕首與鐵蓮花對峙",
+      "url": "https://www.singtaousa.com/2026/04/06/news/china/youths-clash-dagger-iron-punch/",
+      "source": "singtaousa.com",
+      "published": 1775509097
+    },
     {
       "id": "9f6d3499d1a8",
       "title": "元朗試業網吧遭淋紅油 警方列刑事毀壞調查",
@@ -58,6 +72,13 @@
       "published": 1775505248
     },
     {
+      "id": "53526f149c00",
+      "title": "俄羅斯州長稱人工流產是「奢侈品」，私立診所一年內銳減逾八成",
+      "url": "https://www.singtaousa.com/2026/04/06/news/world/russian-governor-says-abortion-too-much-of-a-luxury-novaya-gazeta-europe/",
+      "source": "singtaousa.com",
+      "published": 1775504481
+    },
+    {
       "id": "338b073d877c",
       "title": "沙加緬度警員槍傷持刀男 警方公開隨身攝錄片段｜細說燊語",
       "url": "https://www.singtaousa.com/2026/04/06/news/usa/sand/",
@@ -84,27 +105,6 @@
       "url": "https://www.singtaousa.com/2026/04/06/news/usa/news-f15e-shot-down-shoulder-missile-us-rescue-operation-trump/",
       "source": "singtaousa.com",
       "published": 1775502558
-    },
-    {
-      "id": "1c9b39365ee1",
-      "title": "哈爾科夫邊境村莊戰況激烈，烏克蘭機械化旅在安巴爾內成功反擊",
-      "url": "https://www.singtaousa.com/2026/04/06/news/world/ukrainian-forces-advance-near-ambarne-northeastern-village-in-kharkiv-oblast/",
-      "source": "singtaousa.com",
-      "published": 1775502225
-    },
-    {
-      "id": "95d10ef8b929",
-      "title": "節目分享代表作是《花樣年華》 偉仔收杜拜朱古力麻糬",
-      "url": "https://www.singtaousa.com/2026/04/06/entertainment/tony-leung-flower-years/",
-      "source": "singtaousa.com",
-      "published": 1775502000
-    },
-    {
-      "id": "820f95f06314",
-      "title": "特朗普稱不擔心戰爭罪 威脅摧毀伊朗基建",
-      "url": "https://www.singtaousa.com/2026/04/06/news/usa/news-trump-war-crimes-iran-infrastructure-threat-un-warning/",
-      "source": "singtaousa.com",
-      "published": 1775501964
     },
     {
       "id": "b1e532fdd1b3",
@@ -185,7 +185,7 @@
     },
     {
       "id": "2a944e143762",
-      "title": "OpenAI、Anthropic 入不敷 訓練模型太燒錢 成為財務致命傷",
+      "title": "OpenAI、Anthropic 入不敷出 訓練模型太燒錢 成為財務致命傷",
       "url": "https://money.udn.com/money/story/5599/9425308",
       "source": "money.udn.com",
       "published": 1775498132
@@ -1241,5 +1241,5 @@
       "published": 1773229560
     }
   ],
-  "build_id": 1775507232
+  "build_id": 1775509273
 }
