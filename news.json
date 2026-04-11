@@ -1,6 +1,20 @@
 {
-  "updated": 1775944398,
+  "updated": 1775945961,
   "items": [
+    {
+      "id": "d9b7605cc1ed",
+      "title": "美媒报道中国准备向伊朗提供便携式防空导弹系统",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260411-%E7%BE%8E%E5%AA%92%E6%8A%A5%E9%81%93%E4%B8%AD%E5%9B%BD%E5%87%86%E5%A4%87%E5%90%91%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E4%BE%BF%E6%90%BA%E5%BC%8F%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9%E7%B3%BB%E7%BB%9F",
+      "source": "rfi.fr",
+      "published": 1775945056
+    },
+    {
+      "id": "f8e1b4f8ad73",
+      "title": "金莎領證結婚 滿面春風",
+      "url": "https://www.singtaousa.com/2026/04/11/entertainment/jin-sha-marriage-registration/",
+      "source": "singtaousa.com",
+      "published": 1775944800
+    },
     {
       "id": "8fd7e832e3b5",
       "title": "新民调：多数欧洲人认为美国比中国构成更大威胁",
@@ -98,13 +112,6 @@
       "url": "https://www.singtaousa.com/2026/04/11/news/world/uk-forced-to-shelve-legislation-to-return-chagos-islands-to-mauritius/",
       "source": "singtaousa.com",
       "published": 1775937609
-    },
-    {
-      "id": "a72e94d9f3de",
-      "title": "前夫曾被爆男女關係混亂 川榮李奈結束7年婚姻",
-      "url": "https://www.singtaousa.com/2026/04/11/entertainment/kawaguchi-rina-divorce/",
-      "source": "singtaousa.com",
-      "published": 1775937600
     },
     {
       "id": "0f331bfd91e6",
@@ -476,13 +483,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C/20260410-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C-%E7%AC%AC151%E9%9B%86-%E9%9D%9E%E6%B4%B2-%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E5%86%85%E5%9C%B0%E6%9C%89%E5%BA%A7-%E6%B3%95%E5%9B%BD%E5%9F%8E",
       "source": "rfi.fr",
       "published": 1775843633
-    },
-    {
-      "id": "8d2d276ae87b",
-      "title": "俄罗斯和乌克兰东正教复活节停火",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260410-%E4%BF%84%E7%BD%97%E6%96%AF%E5%92%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%9C%E6%AD%A3%E6%95%99%E5%A4%8D%E6%B4%BB%E8%8A%82%E5%81%9C%E7%81%AB",
-      "source": "rfi.fr",
-      "published": 1775838159
     },
     {
       "id": "8b9ef12452d8",
@@ -1304,5 +1304,5 @@
       "published": 1773578940
     }
   ],
-  "build_id": 1775944398
+  "build_id": 1775945961
 }
