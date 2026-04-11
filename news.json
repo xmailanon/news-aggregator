@@ -1,6 +1,27 @@
 {
-  "updated": 1775948223,
+  "updated": 1775950031,
   "items": [
+    {
+      "id": "8708c119afeb",
+      "title": "伊朗革命衛隊：對通過荷莫茲海峽軍艦將「嚴厲」處置",
+      "url": "https://money.udn.com/money/story/5599/9436262",
+      "source": "money.udn.com",
+      "published": 1775948805
+    },
+    {
+      "id": "c8f6df9507d6",
+      "title": "陳添祥維護合作夥伴 呼籲支持者停止網暴",
+      "url": "https://www.singtaousa.com/2026/04/11/entertainment/chen-tian-xiang-supports-partners/",
+      "source": "singtaousa.com",
+      "published": 1775948400
+    },
+    {
+      "id": "c48b0e5afbb1",
+      "title": "霍尔木兹海峡：阻碍美伊谈判的绊脚石",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260411-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E9%98%BB%E7%A2%8D%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E7%9A%84%E7%BB%8A%E8%84%9A%E7%9F%B3",
+      "source": "rfi.fr",
+      "published": 1775948203
+    },
     {
       "id": "2a3df95395d1",
       "title": "川普：如果中國提供伊朗武器 將面臨大麻煩",
@@ -149,13 +170,6 @@
       "published": 1775937791
     },
     {
-      "id": "228c6ce3f62c",
-      "title": "查戈斯群島主權移交擱淺 美國撤回支持英國立法觸礁",
-      "url": "https://www.singtaousa.com/2026/04/11/news/world/uk-forced-to-shelve-legislation-to-return-chagos-islands-to-mauritius/",
-      "source": "singtaousa.com",
-      "published": 1775937609
-    },
-    {
       "id": "0f331bfd91e6",
       "title": "教宗良十四世強硬發聲 籲各國領袖展開對話止戰",
       "url": "https://money.udn.com/money/story/5599/9436218",
@@ -280,13 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9436092",
       "source": "money.udn.com",
       "published": 1775920342
-    },
-    {
-      "id": "91be49cf2998",
-      "title": "美伊如何止戰？克魯曼推測最可能結局：荷莫茲成伊朗收費站",
-      "url": "https://money.udn.com/money/story/5599/9436085",
-      "source": "money.udn.com",
-      "published": 1775920195
     },
     {
       "id": "71bc4a035090",
@@ -462,13 +469,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260410-%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E8%83%8C%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%A7%92%E8%89%B2-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%85%B3%E6%B3%A8%E6%88%98%E7%95%A5%E6%84%8F%E5%9B%BE%E4%B8%8E%E7%BB%8F%E6%B5%8E%E5%8A%A8%E6%9C%BA",
       "source": "rfi.fr",
       "published": 1775860283
-    },
-    {
-      "id": "57a96edfb524",
-      "title": "伊朗开出先决条件为美伊谈判蒙上阴影",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260410-%E4%BC%8A%E6%9C%97%E5%BC%80%E5%87%BA%E5%85%88%E5%86%B3%E6%9D%A1%E4%BB%B6%E4%B8%BA%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E8%92%99%E4%B8%8A%E9%98%B4%E5%BD%B1",
-      "source": "rfi.fr",
-      "published": 1775859596
     },
     {
       "id": "ed5aaaf30a6e",
@@ -1304,5 +1304,5 @@
       "published": 1773578940
     }
   ],
-  "build_id": 1775948223
+  "build_id": 1775950031
 }
