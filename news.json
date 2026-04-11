@@ -1,6 +1,27 @@
 {
-  "updated": 1775905164,
+  "updated": 1775907015,
   "items": [
+    {
+      "id": "2797a7536951",
+      "title": "美國與伊朗即將展開談判 范斯會晤巴基斯坦總理",
+      "url": "https://money.udn.com/money/story/5599/9435863",
+      "source": "money.udn.com",
+      "published": 1775907032
+    },
+    {
+      "id": "913842ed50c4",
+      "title": "解放报洞察“和平之旅”：郑丽文上京，习近平满意",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260411-%E8%A7%A3%E6%94%BE%E6%8A%A5%E6%B4%9E%E5%AF%9F-%E5%92%8C%E5%B9%B3%E4%B9%8B%E6%97%85-%E9%83%91%E4%B8%BD%E6%96%87%E8%B5%B4%E4%BA%AC%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%BB%A1%E6%84%8F",
+      "source": "rfi.fr",
+      "published": 1775906418
+    },
+    {
+      "id": "512c4ff9df78",
+      "title": "路透：伊朗最高領袖穆吉塔巴傷勢嚴重且毀容",
+      "url": "https://money.udn.com/money/story/5599/9435853",
+      "source": "money.udn.com",
+      "published": 1775905960
+    },
     {
       "id": "16b420956570",
       "title": "CASA TAIWAN參展米蘭設計週 燈籠點亮義大利",
@@ -238,20 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9435547",
       "source": "money.udn.com",
       "published": 1775886251
-    },
-    {
-      "id": "4a05fd8c3524",
-      "title": "美伊和談在即 伊朗要求履行黎巴嫩與解凍資產承諾",
-      "url": "https://money.udn.com/money/story/5599/9435520",
-      "source": "money.udn.com",
-      "published": 1775884900
-    },
-    {
-      "id": "0faba58eb994",
-      "title": "韓國27日起發放高油價支援金 嘉惠63%國民",
-      "url": "https://money.udn.com/money/story/5599/9435500",
-      "source": "money.udn.com",
-      "published": 1775884182
     },
     {
       "id": "3e9ff244a6f8",
@@ -504,13 +511,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c24862820glo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1775804282
-    },
-    {
-      "id": "f89ee962bb49",
-      "title": "日本天团ONE OK ROCK因「不可抗力因素」取消在港演出  四月内第三宗",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260410-%E6%97%A5%E6%9C%AC%E5%A4%A9%E5%9B%A2one-ok-rock%E5%9B%A0-%E4%B8%8D%E5%8F%AF%E6%8A%97%E5%8A%9B%E5%9B%A0%E7%B4%A0-%E5%8F%96%E6%B6%88%E5%9C%A8%E6%B8%AF%E6%BC%94%E5%87%BA-%E5%9B%9B%E6%9C%88%E5%86%85%E7%AC%AC%E4%B8%89%E5%AE%97",
-      "source": "rfi.fr",
-      "published": 1775800429
     },
     {
       "id": "6d87e09e75df",
@@ -1283,5 +1283,5 @@
       "published": 1773578940
     }
   ],
-  "build_id": 1775905164
+  "build_id": 1775907015
 }
