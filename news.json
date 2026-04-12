@@ -1,6 +1,20 @@
 {
-  "updated": 1776029662,
+  "updated": 1776032466,
   "items": [
+    {
+      "id": "d9e1583ca01c",
+      "title": "美軍：美東4/13上午10時對所有往來伊朗船隻實施封鎖",
+      "url": "https://money.udn.com/money/story/5599/9437669",
+      "source": "money.udn.com",
+      "published": 1776032516
+    },
+    {
+      "id": "a12481c9e4d3",
+      "title": "黃景瑜  否認熱戀王玉雯",
+      "url": "https://www.singtaousa.com/2026/04/12/entertainment/huang-jing-yu-denies-relationship/",
+      "source": "singtaousa.com",
+      "published": 1776031200
+    },
     {
       "id": "df19dd733cb7",
       "title": "匈牙利奧班時代結束 分析：歐洲更緊密合作障礙移除",
@@ -98,13 +112,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260412-%E5%BE%B7%E5%9B%BD%E4%B8%8B%E8%90%A8%E5%85%8B%E6%A3%AE%E5%B7%9E%E5%B7%9E%E9%95%BF%E9%A6%96%E6%AC%A1%E5%87%BA%E8%AE%BF%E7%9B%AE%E7%9A%84%E5%9C%B0-%E4%B8%AD%E5%9B%BD",
       "source": "rfi.fr",
       "published": 1776023511
-    },
-    {
-      "id": "50acb4259070",
-      "title": "北京IT工程師轉戰街頭賣肉蛋堡 月入五萬引發創業討論",
-      "url": "https://www.singtaousa.com/2026/04/12/news/china/beijing-it-engineer-sells-burgers/",
-      "source": "singtaousa.com",
-      "published": 1776022097
     },
     {
       "id": "fe4ea30ddf72",
@@ -245,13 +252,6 @@
       "url": "https://money.udn.com/money/story/5599/9437490",
       "source": "money.udn.com",
       "published": 1776006753
-    },
-    {
-      "id": "a6ec1bccfce0",
-      "title": "匈牙利舉行國會大選 投票率可望創新高",
-      "url": "https://money.udn.com/money/story/5599/9437454",
-      "source": "money.udn.com",
-      "published": 1776005662
     },
     {
       "id": "7104b2c81160",
@@ -1332,5 +1332,5 @@
       "published": 1773578940
     }
   ],
-  "build_id": 1776029662
+  "build_id": 1776032466
 }
