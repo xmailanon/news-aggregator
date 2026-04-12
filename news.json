@@ -1,6 +1,27 @@
 {
-  "updated": 1776009386,
+  "updated": 1776011322,
   "items": [
+    {
+      "id": "839ea7045305",
+      "title": "邁阿密文華東方酒店20秒內夷為平地",
+      "url": "https://www.singtaousa.com/2026/04/12/news/usa/a-23-story-hotel-in-exclusive-miami-locale-vanishes-in-seconds-with-implosion/",
+      "source": "singtaousa.com",
+      "published": 1776010871
+    },
+    {
+      "id": "adfec3a1e531",
+      "title": "特朗普下令海軍封鎖霍爾木茲海峽",
+      "url": "https://www.singtaousa.com/2026/04/12/news/world/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end/",
+      "source": "singtaousa.com",
+      "published": 1776010093
+    },
+    {
+      "id": "61b777d166cc",
+      "title": "盧廣仲紅館致敬老友方大同",
+      "url": "https://www.singtaousa.com/2026/04/12/entertainment/lu-guang-zhong-hong-guan-fang-da-tong/",
+      "source": "singtaousa.com",
+      "published": 1776009600
+    },
     {
       "id": "ea9e4065fabd",
       "title": "VIVA首踏啟德舞台感期待 預告Busking初跳新歌《BABYSavage》",
@@ -100,13 +121,6 @@
       "published": 1776006000
     },
     {
-      "id": "1e0e19f6a451",
-      "title": "尖沙咀寶可夢卡牌失竊案 疑犯提堂在即 店方公開勒索對話",
-      "url": "https://www.singtaousa.com/2026/04/12/news/china/pokemon-card-theft-suspect-court-extortion/",
-      "source": "singtaousa.com",
-      "published": 1776005899
-    },
-    {
       "id": "a6ec1bccfce0",
       "title": "匈牙利舉行國會大選 投票率可望創新高",
       "url": "https://money.udn.com/money/story/5599/9437454",
@@ -133,20 +147,6 @@
       "url": "https://money.udn.com/money/story/5599/9437426",
       "source": "money.udn.com",
       "published": 1776004654
-    },
-    {
-      "id": "3abcf0367694",
-      "title": "國安教育日結合AI科技 小學生沉浸式學習總體國家安全觀",
-      "url": "https://www.singtaousa.com/2026/04/12/news/china/national-security-education-ai-interactive-platform/",
-      "source": "singtaousa.com",
-      "published": 1776004098
-    },
-    {
-      "id": "e4c2f1d38562",
-      "title": "朱敏瀚拍劇變機場活字典 親身示範「經港飛」一站式便利",
-      "url": "https://www.singtaousa.com/2026/04/12/entertainment/brian-chu-promotes-hk-airport/",
-      "source": "singtaousa.com",
-      "published": 1776004079
     },
     {
       "id": "6a5eb76c3db8",
@@ -612,7 +612,7 @@
     },
     {
       "id": "5b23c7180639",
-      "title": "「鄭習會」：國共領袖握手13秒，鄭麗文倡「制度性解決方案」，講話未畢直播被切斷",
+      "title": "「鄭習會」國共領袖握手13秒，鄭麗文講話未畢直播被切斷",
       "url": "https://www.bbc.com/zhongwen/articles/c89580vjvzko/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1775813472
@@ -633,7 +633,7 @@
     },
     {
       "id": "1b8561c9c744",
-      "title": "從全紅嬋的哽咽到網暴和飯圈再現   體育明星遭「侵入式監控」難題待解",
+      "title": "從全紅嬋的哽咽到飯圈再現   體育明星遭「侵入式監控」難題待解",
       "url": "https://www.bbc.com/zhongwen/articles/c8ej921kzj5o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1775806013
@@ -885,7 +885,7 @@
     },
     {
       "id": "9fc0e2e7df4d",
-      "title": "宏福苑火災首輪聽證會復盤：重要證據浮出水面，倖存災民為何開始有所期望",
+      "title": "宏福苑火災首輪聽證會復盤：倖存災民為何開始有所期望",
       "url": "https://www.bbc.com/zhongwen/articles/cvglde51r78o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1775697267
@@ -1332,5 +1332,5 @@
       "published": 1773578940
     }
   ],
-  "build_id": 1776009386
+  "build_id": 1776011322
 }
