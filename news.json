@@ -1,6 +1,55 @@
 {
-  "updated": 1776016580,
+  "updated": 1776018911,
   "items": [
+    {
+      "id": "e0021ba6b806",
+      "title": "深圳大學租用豪宅作研究生宿舍 引發校方需求與業主權益爭議",
+      "url": "https://www.singtaousa.com/2026/04/12/news/china/shenzhen-university-rents-luxury-dorms-sparks-controversy/",
+      "source": "singtaousa.com",
+      "published": 1776018499
+    },
+    {
+      "id": "249e1262bb70",
+      "title": "密西西比州鬧酒荒 政府失誤釀供應危機",
+      "url": "https://www.singtaousa.com/2026/04/12/news/usa/news-mississippi-liquor-shortage-warehouse-failure-economic-impact/",
+      "source": "singtaousa.com",
+      "published": 1776017601
+    },
+    {
+      "id": "28fa98d0e056",
+      "title": "《正義女神》「少年犯」  剖白角色笑與淚",
+      "url": "https://www.singtaousa.com/2026/04/12/entertainment/justice-goddess-juvenile-offenders/",
+      "source": "singtaousa.com",
+      "published": 1776016800
+    },
+    {
+      "id": "0a6538f03777",
+      "title": "1分鐘看世界／SanDisk 將納那斯達克100 預料吸引投資人搶進",
+      "url": "https://money.udn.com/money/story/5599/9437492",
+      "source": "money.udn.com",
+      "published": 1776016789
+    },
+    {
+      "id": "2d670bff1940",
+      "title": "特朗普報稅新制：小費與加班費減稅成焦點",
+      "url": "https://www.singtaousa.com/2026/04/12/news/usa/news-us-state-tax-tips-overtime-deductions/",
+      "source": "singtaousa.com",
+      "published": 1776016786
+    },
+    {
+      "id": "d6373843d650",
+      "title": "廣州甘蔗滯銷 蔗農推低價促銷 景區創新助農變「登山杖」",
+      "url": "https://www.singtaousa.com/2026/04/12/news/china/guangzhou-sugarcane-farmers-discount-sale-scenic-spot-assistance/",
+      "source": "singtaousa.com",
+      "published": 1776016698
+    },
+    {
+      "id": "867abd30cdb8",
+      "title": "加州音樂節星光熠熠 杜魯多與Katy Perry捧場小賈斯汀演唱",
+      "url": "https://www.singtaousa.com/2026/04/12/entertainment/justin-trudeau-katy-perry-coachella-concert/",
+      "source": "singtaousa.com",
+      "published": 1776016641
+    },
     {
       "id": "ecaceaef52ac",
       "title": "美股Q1財報可望報佳音 投資人緊盯戰事、油價是否影響營運展望",
@@ -142,48 +191,6 @@
       "published": 1776013439
     },
     {
-      "id": "942186d73f95",
-      "title": "譚耀文蔣祖曼讚阿佘「真係好香」",
-      "url": "https://www.singtaousa.com/2026/04/12/entertainment/peter-chan-zhang-zhuman-praises/",
-      "source": "singtaousa.com",
-      "published": 1776013200
-    },
-    {
-      "id": "4d79e5961bad",
-      "title": "佘詩曼憶拍《宮心計》失眠半年　閨密公開「佘腰」保持秘訣",
-      "url": "https://www.singtaousa.com/2026/04/12/entertainment/charmaine-sheh-insomnia-news-series/",
-      "source": "singtaousa.com",
-      "published": 1776013089
-    },
-    {
-      "id": "e257c9f88a75",
-      "title": "以色列空襲黎巴嫩南部多個城鎮",
-      "url": "https://www.singtaousa.com/2026/04/12/news/world/israel-storms-the-lebanese-border-town-of-bint-jabal/",
-      "source": "singtaousa.com",
-      "published": 1776012299
-    },
-    {
-      "id": "839ea7045305",
-      "title": "邁阿密文華東方酒店20秒內夷為平地",
-      "url": "https://www.singtaousa.com/2026/04/12/news/usa/a-23-story-hotel-in-exclusive-miami-locale-vanishes-in-seconds-with-implosion/",
-      "source": "singtaousa.com",
-      "published": 1776010871
-    },
-    {
-      "id": "adfec3a1e531",
-      "title": "特朗普下令海軍封鎖霍爾木茲海峽",
-      "url": "https://www.singtaousa.com/2026/04/12/news/world/trump-announces-strait-of-hormuz-blockade-after-us-iran-peace-talks-end/",
-      "source": "singtaousa.com",
-      "published": 1776010093
-    },
-    {
-      "id": "61b777d166cc",
-      "title": "盧廣仲紅館致敬老友方大同",
-      "url": "https://www.singtaousa.com/2026/04/12/entertainment/lu-guang-zhong-hong-guan-fang-da-tong/",
-      "source": "singtaousa.com",
-      "published": 1776009600
-    },
-    {
       "id": "c9215289658b",
       "title": "复活节停火：乌克兰与俄罗斯互相指责对方违反上千次",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260412-%E5%A4%8D%E6%B4%BB%E8%8A%82%E5%81%9C%E7%81%AB-%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E4%BA%92%E7%9B%B8%E6%8C%87%E8%B4%A3%E5%AF%B9%E6%96%B9%E8%BF%9D%E5%8F%8D%E5%8D%8F%E8%AE%AE%E4%B8%8A%E5%8D%83%E6%AC%A1",
@@ -252,13 +259,6 @@
       "url": "https://www.dw.com/zh/墙外文摘：国际媒体助推郑习会-闹剧-？/a-76754971?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1776003540
-    },
-    {
-      "id": "5b9eb6d94407",
-      "title": "美伊談判未果 川普下令海軍立即封鎖荷莫茲海峽摧毀水雷",
-      "url": "https://money.udn.com/money/story/5599/9437384",
-      "source": "money.udn.com",
-      "published": 1776003166
     },
     {
       "id": "df9fc6a247db",
@@ -1332,5 +1332,5 @@
       "published": 1773578940
     }
   ],
-  "build_id": 1776016580
+  "build_id": 1776018911
 }
