@@ -1,6 +1,27 @@
 {
-  "updated": 1776022258,
+  "updated": 1776025341,
   "items": [
+    {
+      "id": "12c202cd9c78",
+      "title": "中島裕翔新木優子結婚 三度合作終修成正果",
+      "url": "https://www.singtaousa.com/2026/04/12/entertainment/nakajima-yuto-shinaki-yuko-marriage/",
+      "source": "singtaousa.com",
+      "published": 1776024000
+    },
+    {
+      "id": "788c656d1da3",
+      "title": "大角咀商場發生襲擊案 男子遭酒杯擊傷頭部送院 警方追緝涉案男子",
+      "url": "https://www.singtaousa.com/2026/04/12/news/china/taikoktsui-mall-glass-assault-injured/",
+      "source": "singtaousa.com",
+      "published": 1776023897
+    },
+    {
+      "id": "bbcc43c0cd8e",
+      "title": "德国下萨克森州州长首次出访目的地：中国",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260412-%E5%BE%B7%E5%9B%BD%E4%B8%8B%E8%90%A8%E5%85%8B%E6%A3%AE%E5%B7%9E%E5%B7%9E%E9%95%BF%E9%A6%96%E6%AC%A1%E5%87%BA%E8%AE%BF%E7%9B%AE%E7%9A%84%E5%9C%B0-%E4%B8%AD%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1776023511
+    },
     {
       "id": "50acb4259070",
       "title": "北京IT工程師轉戰街頭賣肉蛋堡 月入五萬引發創業討論",
@@ -84,20 +105,6 @@
       "url": "https://money.udn.com/money/story/5599/9437492",
       "source": "money.udn.com",
       "published": 1776016789
-    },
-    {
-      "id": "2d670bff1940",
-      "title": "特朗普報稅新制：小費與加班費減稅成焦點",
-      "url": "https://www.singtaousa.com/2026/04/12/news/usa/news-us-state-tax-tips-overtime-deductions/",
-      "source": "singtaousa.com",
-      "published": 1776016786
-    },
-    {
-      "id": "d6373843d650",
-      "title": "廣州甘蔗滯銷 蔗農推低價促銷 景區創新助農變「登山杖」",
-      "url": "https://www.singtaousa.com/2026/04/12/news/china/guangzhou-sugarcane-farmers-discount-sale-scenic-spot-assistance/",
-      "source": "singtaousa.com",
-      "published": 1776016698
     },
     {
       "id": "ecaceaef52ac",
@@ -352,9 +359,9 @@
       "published": 1775989611
     },
     {
-      "id": "6ae35a6cc63d",
-      "title": "美伊谈判无果而终 停火协议岌岌可危",
-      "url": "https://www.dw.com/zh/美伊谈判无果而终-停火协议岌岌可危/a-76752963?maca=chi-rss-chi-all-1127-rdf",
+      "id": "7b8c77d94c3b",
+      "title": "美伊谈判无果而终 特朗普要封锁霍尔木兹海峡",
+      "url": "https://www.dw.com/zh/美伊谈判无果而终-特朗普要封锁霍尔木兹海峡/a-76752963?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1775986860
     },
@@ -567,13 +574,6 @@
       "url": "https://www.dw.com/zh/万斯赴伊斯兰堡与伊朗会谈-分歧巨大互不信任/a-76747534?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1775912040
-    },
-    {
-      "id": "4796e29b18fa",
-      "title": "英国宣布因美国不“支持”暂停向毛里求斯移交查戈斯群岛计划",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260411-%E8%8B%B1%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%9B%A0%E7%BE%8E%E5%9B%BD%E4%B8%8D-%E6%94%AF%E6%8C%81-%E6%9A%82%E5%81%9C%E5%90%91%E6%AF%9B%E9%87%8C%E6%B1%82%E6%96%AF%E7%A7%BB%E4%BA%A4%E6%9F%A5%E6%88%88%E6%96%AF%E7%BE%A4%E5%B2%9B%E8%AE%A1%E5%88%92",
-      "source": "rfi.fr",
-      "published": 1775910006
     },
     {
       "id": "913842ed50c4",
@@ -1332,5 +1332,5 @@
       "published": 1773578940
     }
   ],
-  "build_id": 1776022258
+  "build_id": 1776025341
 }
