@@ -1,6 +1,13 @@
 {
-  "updated": 1776527941,
+  "updated": 1776530355,
   "items": [
+    {
+      "id": "daf61dd96fac",
+      "title": "爾冬陞認金像獎缺資金請海外嘉賓",
+      "url": "https://www.singtaousa.com/2026/04/18/entertainment/film-awards-funding-overseas-guests/",
+      "source": "singtaousa.com",
+      "published": 1776528000
+    },
     {
       "id": "a31ce8e52101",
       "title": "《魔音女團》練習生互補長短 穎喬克服記性挑戰 喬美莎從《聲秀》汲取信心",
@@ -166,13 +173,6 @@
       "id": "1fb618671702",
       "title": "受AI提效推動  Meta擬裁員10%",
       "url": "https://www.singtaousa.com/2026/04/18/news/usa/meta-ai-efficiency-layoffs/",
-      "source": "singtaousa.com",
-      "published": 1776520800
-    },
-    {
-      "id": "939f146175f5",
-      "title": "Stellantis攜微軟   部署逾百款AI工具",
-      "url": "https://www.singtaousa.com/2026/04/18/news/usa/stellantis-microsoft-ai-tools/",
       "source": "singtaousa.com",
       "published": 1776520800
     },
@@ -1304,5 +1304,5 @@
       "published": 1774107300
     }
   ],
-  "build_id": 1776527941
+  "build_id": 1776530355
 }
