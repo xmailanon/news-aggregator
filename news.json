@@ -1,6 +1,27 @@
 {
-  "updated": 1776533244,
+  "updated": 1776535132,
   "items": [
+    {
+      "id": "acabb8cb6489",
+      "title": "俄羅斯旅遊巴翻側 載中國公民2死10傷",
+      "url": "https://www.singtaousa.com/2026/04/18/news/china/russia-bus-crash-chinese-tourists/",
+      "source": "singtaousa.com",
+      "published": 1776535097
+    },
+    {
+      "id": "5df594933894",
+      "title": "Anthropic 有望與超微合作 外界推測將採購新晶片 整合進自家伺服器",
+      "url": "https://money.udn.com/money/story/123398/9450300",
+      "source": "money.udn.com",
+      "published": 1776533472
+    },
+    {
+      "id": "a3ab3cfe77fa",
+      "title": "美資料中心延宕追不上 AI 可能拖累科技公司推出人工智慧進度",
+      "url": "https://money.udn.com/money/story/5599/9450304",
+      "source": "money.udn.com",
+      "published": 1776533371
+    },
     {
       "id": "db4650d39c3c",
       "title": "Meta 大裁員 首波砍8,000人",
@@ -12,6 +33,13 @@
       "id": "fcf0122d4396",
       "title": "AI晶片新創捲土重來 Cerebras 重新申請 IPO",
       "url": "https://money.udn.com/money/story/5599/9450309",
+      "source": "money.udn.com",
+      "published": 1776533248
+    },
+    {
+      "id": "5e1bc39e5968",
+      "title": "AI晶片新創捲土重來 Cerebras 重新申請 IPO",
+      "url": "https://money.udn.com/money/story/123398/9450309",
       "source": "money.udn.com",
       "published": 1776533248
     },
@@ -198,13 +226,6 @@
       "published": 1776522016
     },
     {
-      "id": "f1a50f91c834",
-      "title": "「欣欣工作介紹服務中心」致力打造一個專業 及可信賴的就業服務平台",
-      "url": "https://www.singtaousa.com/2026/04/18/lifestyle/xinxin-job-introduction-service-center-is-committed-to-building-a-professional-and-reliable-employment-service-platform/",
-      "source": "singtaousa.com",
-      "published": 1776521758
-    },
-    {
       "id": "302f54511d05",
       "title": "AI×情欲——中国千亿生意的新赛道",
       "url": "https://www.dw.com/zh/ai×情欲-中国千亿生意的新赛道/a-76841753?maca=chi-rss-chi-all-1127-rdf",
@@ -247,13 +268,6 @@
       "published": 1776515341
     },
     {
-      "id": "b7a9e863e11c",
-      "title": "教宗將抵非洲行第3站油國安哥拉 談論資源開發議題",
-      "url": "https://money.udn.com/money/story/5599/9450153",
-      "source": "money.udn.com",
-      "published": 1776514353
-    },
-    {
       "id": "ea7b4d8cfab5",
       "title": "特朗普称若未达成协议美国将维持对伊朗港口的封锁",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260418-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%8B%A5%E6%9C%AA%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E7%BE%8E%E5%9B%BD%E5%B0%86%E7%BB%B4%E6%8C%81%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E7%9A%84%E5%B0%81%E9%94%81",
@@ -266,20 +280,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260418-%E4%BC%8A%E6%9C%97%E5%91%A8%E5%85%AD%E5%AE%A3%E5%B8%83%E9%87%8D%E6%96%B0%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
       "source": "rfi.fr",
       "published": 1776512528
-    },
-    {
-      "id": "2daa7aa84fbd",
-      "title": "城市變課本 立陶宛用「巨型便利貼」推動語言學習",
-      "url": "https://money.udn.com/money/story/5599/9450108",
-      "source": "money.udn.com",
-      "published": 1776512179
-    },
-    {
-      "id": "c84697285939",
-      "title": "伊朗媒體：德黑蘭尚未批准新一輪伊美會談",
-      "url": "https://money.udn.com/money/story/5599/9450099",
-      "source": "money.udn.com",
-      "published": 1776511819
     },
     {
       "id": "222cb07c2c64",
@@ -1304,5 +1304,5 @@
       "published": 1774107300
     }
   ],
-  "build_id": 1776533244
+  "build_id": 1776535132
 }
