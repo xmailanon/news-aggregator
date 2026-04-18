@@ -1,6 +1,20 @@
 {
-  "updated": 1776550908,
+  "updated": 1776553202,
   "items": [
+    {
+      "id": "93ae2f81fa1f",
+      "title": "趙子琪與《浪姐7》撕破臉",
+      "url": "https://www.singtaousa.com/2026/04/18/entertainment/zhao-ziqi-loses-relationship-wang-jie-7/",
+      "source": "singtaousa.com",
+      "published": 1776553200
+    },
+    {
+      "id": "754ef1c657e4",
+      "title": "霍尔木兹海峡风云突变 谁会让步？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260418-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%A3%8E%E4%BA%91%E7%AA%81%E5%8F%98-%E8%B0%81%E4%BC%9A%E8%AE%A9%E6%AD%A5",
+      "source": "rfi.fr",
+      "published": 1776551545
+    },
     {
       "id": "bdf3eef644c7",
       "title": "堪薩斯州拘留所死亡案：副警長膝跪囚犯背部遭控謀殺",
@@ -133,13 +147,6 @@
       "url": "https://www.singtaousa.com/2026/04/18/entertainment/jisoo-brother-arrested-sexual-assault/",
       "source": "singtaousa.com",
       "published": 1776542400
-    },
-    {
-      "id": "c7ef62b8813a",
-      "title": "香港仔田灣邨噪音爭執釀傷人案 21歲男子手部受傷 兩男在逃",
-      "url": "https://www.singtaousa.com/2026/04/18/news/china/noise-dispute-assault-hong-kong/",
-      "source": "singtaousa.com",
-      "published": 1776542297
     },
     {
       "id": "c08624b12081",
@@ -476,13 +483,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260417-%E8%8B%8F%E6%9E%97%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E-%E5%8C%97%E4%BA%AC%E6%89%BF%E8%AF%BA%E8%9E%8D%E8%B5%84%E4%BF%AE%E5%BB%BA%E8%B6%8A%E5%8D%97%E9%93%81%E8%B7%AF",
       "source": "rfi.fr",
       "published": 1776447467
-    },
-    {
-      "id": "f36dd2961823",
-      "title": "日本自卫队舰艇进入台湾海峡 中国强烈抗议",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260417-%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E8%88%B0%E8%89%87%E8%BF%9B%E5%85%A5%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1-%E4%B8%AD%E5%9B%BD%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1776446122
     },
     {
       "id": "ee1d40249a42",
@@ -1304,5 +1304,5 @@
       "published": 1774107300
     }
   ],
-  "build_id": 1776550908
+  "build_id": 1776553202
 }
