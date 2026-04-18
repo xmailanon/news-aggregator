@@ -1,6 +1,48 @@
 {
-  "updated": 1776497887,
+  "updated": 1776501349,
   "items": [
+    {
+      "id": "1059c2f0e6af",
+      "title": "港大深圳醫院機械臂手術未完全切除腫瘤 病人兩年後離世 鑑定為四級醫療事故",
+      "url": "https://www.singtaousa.com/2026/04/18/news/china/robotic-arm-tumor-removal-failure-death/",
+      "source": "singtaousa.com",
+      "published": 1776500900
+    },
+    {
+      "id": "9208f8c460ba",
+      "title": "否认滋扰指控 新西兰为其巡逻机靠近中国海空域行动辩护",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260418-%E5%90%A6%E8%AE%A4%E6%BB%8B%E6%89%B0%E6%8C%87%E6%8E%A7-%E6%96%B0%E8%A5%BF%E5%85%B0%E4%B8%BA%E5%85%B6%E5%B7%A1%E9%80%BB%E6%9C%BA%E9%9D%A0%E8%BF%91%E4%B8%AD%E5%9B%BD%E6%B5%B7%E7%A9%BA%E5%9F%9F%E8%A1%8C%E5%8A%A8%E8%BE%A9%E6%8A%A4",
+      "source": "rfi.fr",
+      "published": 1776500020
+    },
+    {
+      "id": "4e7651360b77",
+      "title": "上海女子舉報虐貓群組後遭人肉搜索及網絡誹謗",
+      "url": "https://www.singtaousa.com/2026/04/18/news/china/shanghai-woman-reports-cat-abuse-retaliation/",
+      "source": "singtaousa.com",
+      "published": 1776499100
+    },
+    {
+      "id": "3c432027d7ba",
+      "title": "因亡母言論起衝突 Zayn與Louis肢體碰撞 Netflix紀錄片煞停",
+      "url": "https://www.singtaousa.com/2026/04/18/entertainment/zayn-louis-netflix-documentary-fight/",
+      "source": "singtaousa.com",
+      "published": 1776499056
+    },
+    {
+      "id": "58ce98b54ec5",
+      "title": "伊朗開放部分領空 允許國際航班飛越東部空域",
+      "url": "https://money.udn.com/money/story/5599/9449889",
+      "source": "money.udn.com",
+      "published": 1776498363
+    },
+    {
+      "id": "63d926aad905",
+      "title": "日本京都11歲男童命案 警方派員到公廁鑑識",
+      "url": "https://money.udn.com/money/story/5599/9449886",
+      "source": "money.udn.com",
+      "published": 1776498323
+    },
     {
       "id": "9b8754d3591b",
       "title": "「幽靈外賣」產業鏈調查：無實體店鋪轉賣訂單，單筆蛋糕訂單可賺取近半差價",
@@ -156,32 +198,11 @@
       "published": 1776490095
     },
     {
-      "id": "6bd8906d515f",
-      "title": "諸葛紫麒任仁濟總理 專注慈善 親揭與老公聚少離多",
-      "url": "https://www.singtaousa.com/2026/04/17/entertainment/marie-chu-charity-work-family-life/",
-      "source": "singtaousa.com",
-      "published": 1776490079
-    },
-    {
       "id": "ea3c9074b230",
       "title": "荷莫茲海峽開而不通 約20艘船嘗試通行多數折返",
       "url": "https://money.udn.com/money/story/5599/9449734",
       "source": "money.udn.com",
       "published": 1776489150
-    },
-    {
-      "id": "07a10dcb10b7",
-      "title": "微軟總部無奈延長舊版伺服器支援並懇求客戶「快點遷移」",
-      "url": "https://www.singtaousa.com/2026/04/17/news/usa/microsoft-announces-product-it-doesnt-want-anyone-to-buy/",
-      "source": "singtaousa.com",
-      "published": 1776488400
-    },
-    {
-      "id": "968bd4b179e9",
-      "title": "Anthropic AI模型Mythos揭漏洞，IMF會議財長憂金融安全",
-      "url": "https://www.singtaousa.com/2026/04/17/news/world/claude-mythos-finance-ministers-and-top-bankers-raise-serious-concerns-about-ai-model/",
-      "source": "singtaousa.com",
-      "published": 1776488400
     },
     {
       "id": "6ce795a3da28",
@@ -210,20 +231,6 @@
       "url": "https://money.udn.com/money/story/5599/9449651",
       "source": "money.udn.com",
       "published": 1776485560
-    },
-    {
-      "id": "5c4ec148893e",
-      "title": "英法領軍護航任務 力保荷莫茲海峽航行自由",
-      "url": "https://money.udn.com/money/story/5599/9449650",
-      "source": "money.udn.com",
-      "published": 1776485556
-    },
-    {
-      "id": "38c5f483c32e",
-      "title": "挑戰輝達「推論運算」霸權 AI 晶片新創 Cerebras 捲土重來申請 IPO",
-      "url": "https://money.udn.com/money/story/123398/9449636",
-      "source": "money.udn.com",
-      "published": 1776484876
     },
     {
       "id": "f197503c753d",
@@ -574,13 +581,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260416-%E9%9D%A2%E5%AF%B9%E4%B8%AD%E4%B8%9C%E5%8D%B1%E6%9C%BA%EF%BC%8C%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%B1%95%E7%8E%B0%E5%87%BA%E5%BC%BA%E5%8A%B2%E7%9A%84%E9%9F%A7%E6%80%A7",
       "source": "rfi.fr",
       "published": 1776379113
-    },
-    {
-      "id": "534361b00512",
-      "title": "法国:毛里塔尼亚总统历史性访问",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260416-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%B3%95%E5%9B%BD-%E6%AF%9B%E9%87%8C%E5%A1%94%E5%B0%BC%E4%BA%9A%E6%80%BB%E7%BB%9F%E5%8E%86%E5%8F%B2%E6%80%A7%E8%AE%BF%E9%97%AE",
-      "source": "rfi.fr",
-      "published": 1776376198
     },
     {
       "id": "bb70c303d7b9",
@@ -1346,5 +1346,5 @@
       "published": 1773920700
     }
   ],
-  "build_id": 1776497887
+  "build_id": 1776501349
 }
