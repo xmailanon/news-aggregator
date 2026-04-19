@@ -1,6 +1,27 @@
 {
-  "updated": 1776632403,
+  "updated": 1776634684,
   "items": [
+    {
+      "id": "8d48dc8a0ab0",
+      "title": "香港國際七人欖球賽圓滿舉行 啟德體育園展現世界級賽事營運與觀眾素養",
+      "url": "https://www.singtaousa.com/2026/04/19/news/china/hk-sevens-staff-crowd-atmosphere/",
+      "source": "singtaousa.com",
+      "published": 1776634096
+    },
+    {
+      "id": "854cfded69fd",
+      "title": "特朗普宣布派万斯率团赴伊斯兰堡 伊朗称目前无计划参加新一轮谈判",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260419-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%B4%BE%E4%B8%87%E6%96%AF%E7%8E%87%E5%9B%A2%E8%B5%B4%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1-%E4%BC%8A%E6%9C%97%E4%BC%BC%E6%97%A0%E6%84%8F%E5%8F%82%E5%8A%A0%E6%96%B0%E4%B8%80%E8%BD%AE%E8%B0%88%E5%88%A4",
+      "source": "rfi.fr",
+      "published": 1776632462
+    },
+    {
+      "id": "45c77b3c4ca9",
+      "title": "一文一武鬥反派 「雙女主」上演動作爽劇",
+      "url": "https://www.singtaousa.com/2026/04/19/entertainment/dual-heroines-action-drama/",
+      "source": "singtaousa.com",
+      "published": 1776632400
+    },
     {
       "id": "0ea0696bf7a1",
       "title": "將軍澳公園持刀男事件 警方證實為青年角色扮演嬉戲",
@@ -147,20 +168,6 @@
       "url": "https://www.singtaousa.com/2026/04/19/news/china/beijing-robot-half-marathon-record/",
       "source": "singtaousa.com",
       "published": 1776623299
-    },
-    {
-      "id": "cfbce1fd8022",
-      "title": "聯邦資金收緊衝擊科研 美國科學界面臨困境",
-      "url": "https://www.singtaousa.com/2026/04/19/news/usa/news-us-science-funding-cuts-research-impact-trump/",
-      "source": "singtaousa.com",
-      "published": 1776622225
-    },
-    {
-      "id": "96c0e1123fe7",
-      "title": "愛德華王子島男子屢犯就業保險詐騙，竟在判刑庭上被揭穿仍在犯案",
-      "url": "https://www.singtaousa.com/2026/04/19/news/world/pei-man-caught-committing-ei-fraud-while-being-sentenced-for-ei-fraud/",
-      "source": "singtaousa.com",
-      "published": 1776621600
     },
     {
       "id": "e4c5e23a8e47",
@@ -595,13 +602,6 @@
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260418-%E4%B8%AD%E5%85%B1%E5%AF%B9%E5%8F%B0%E8%B5%84%E8%AE%AF%E6%88%98-%E5%88%A9%E7%94%A8%E5%8F%B0%E6%B9%BE%E8%88%86%E8%AE%BA%E8%90%A5%E9%80%A0-%E6%8A%B5%E6%8A%97%E5%BE%92%E5%8A%B3-%E6%84%8F%E8%B1%A1%E5%89%8A%E5%BC%B1%E5%8F%B0%E6%B9%BE%E4%BA%BA%E9%98%B2%E5%8D%AB%E6%84%8F%E5%BF%97",
       "source": "rfi.fr",
       "published": 1776507243
-    },
-    {
-      "id": "c2e0e130add1",
-      "title": "七国集团财长汇聚华盛顿商讨对抗中国稀土垄断",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260418-%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E8%B4%A2%E9%95%BF%E6%B1%87%E8%81%9A%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%95%86%E8%AE%A8%E5%AF%B9%E6%8A%97%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%9E%84%E6%96%AD",
-      "source": "rfi.fr",
-      "published": 1776505069
     },
     {
       "id": "a56e60f2eed9",
@@ -1325,5 +1325,5 @@
       "published": 1774107300
     }
   ],
-  "build_id": 1776632403
+  "build_id": 1776634684
 }
