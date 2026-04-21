@@ -1,54 +1,250 @@
 {
-  "updated": 1776772679,
+  "updated": 1776777461,
   "items": [
+    {
+      "id": "994ee9c05eff",
+      "title": "中國男子涉拍攝美基地軍機 紐約搭機被捕",
+      "url": "https://money.udn.com/money/story/5599/9455945",
+      "source": "money.udn.com",
+      "published": 1776777246
+    },
+    {
+      "id": "5e8c44b6c55d",
+      "title": "川普稱將與伊朗達成「很棒」協議 坦言美股沒跌兩成很意外",
+      "url": "https://money.udn.com/money/story/5599/9455948",
+      "source": "money.udn.com",
+      "published": 1776777244
+    },
+    {
+      "id": "36dbde4131ef",
+      "title": "歐盟擬增美國航空燃油進口 因應荷莫茲海峽封鎖危機",
+      "url": "https://money.udn.com/money/story/5599/9455944",
+      "source": "money.udn.com",
+      "published": 1776777242
+    },
+    {
+      "id": "9707c2168914",
+      "title": "江美儀親解「灰甲海鮮」評論風波　吳業坤健身騷肌回應「轉運」玩笑",
+      "url": "https://www.singtaousa.com/2026/04/21/entertainment/elegant-chow-kenny-kwan-talks-controversy-fitness/",
+      "source": "singtaousa.com",
+      "published": 1776776441
+    },
+    {
+      "id": "747623b440c3",
+      "title": "尼泊爾恢復核發赴中東工作許可 因美伊衝突暫停6週",
+      "url": "https://money.udn.com/money/story/5599/9455907",
+      "source": "money.udn.com",
+      "published": 1776776428
+    },
+    {
+      "id": "6c88b6e73443",
+      "title": "娛樂大麻合法十年   黑市猖獗屢禁不止",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/entertainment-cannabis-legalization-black-market/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "371799c37fe7",
+      "title": "遭ICE槍擊男子 法官令羈押候審",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/ice-shooting-suspect-detained/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "8cd9ecfca54e",
+      "title": "獵鷹中心遭破壞   多隻猛禽失蹤",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/falconry-center-damage-birds-missing/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "13436d14f292",
+      "title": "紐森第二任期外遊頻 佔比達二成",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/newsom-second-term-travel/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "cd17396d12db",
+      "title": "屋崙黃氏宗親會春節聯歡慶會 嘉賓雲集 和諧喜悅 歡樂滿堂",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/wulun-huang-family-spring-festival-gathering/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "f8fa2733942c",
+      "title": "余淑婷退選州長選舉再生變",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/betty-yee-withdraws-governor-election/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "ca7ebe6e92d6",
+      "title": "兩年輕亞裔IT人創公司   成加州最大大麻供應商",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/young-asian-it-entrepreneurs-cannabis/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "044de2a36a74",
+      "title": "矽谷智庫分析油價飆升影響   兩縣家庭收入恐減11億元",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/silicon-valley-oil-price-impact/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "5e40ccdbc622",
+      "title": "重拳整治非法傾倒 屋崙公布新方案",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/illegal-dumping-strategy/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "6bd96c8cf6a5",
+      "title": "擅用執法資料庫 屋崙警員遭起訴",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/wulun-police-officer-indicted/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "cf5c2984c515",
+      "title": "聖荷西州大一月兩宗自殺   校方應對引關注",
+      "url": "https://www.singtaousa.com/2026/04/21/news/usa/san-jose-state-suicides-response/",
+      "source": "singtaousa.com",
+      "published": 1776776400
+    },
+    {
+      "id": "d3b8101fc346",
+      "title": "五角大廈：美軍在印度洋攔截一艘「受制裁」的油輪",
+      "url": "https://money.udn.com/money/story/5599/9455904",
+      "source": "money.udn.com",
+      "published": 1776776348
+    },
+    {
+      "id": "7d7011753a17",
+      "title": "WTI 原油期貨亞洲時段下跌 因伊朗料將參加談判",
+      "url": "https://money.udn.com/money/story/5599/9454333",
+      "source": "money.udn.com",
+      "published": 1776775953
+    },
+    {
+      "id": "6255e1d8f832",
+      "title": "匈牙利法律歧視LGBTQ+群體 歐盟法院裁定違法",
+      "url": "https://money.udn.com/money/story/5599/9455868",
+      "source": "money.udn.com",
+      "published": 1776775541
+    },
+    {
+      "id": "50d7e8286ab7",
+      "title": "三国取消飞航许可 赖清德暂缓访问斯威士兰",
+      "url": "https://www.dw.com/zh/三国取消飞航许可-赖清德暂缓访问斯威士兰/a-76883111?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1776775380
+    },
+    {
+      "id": "c6867b4c9a7c",
+      "title": "韓國股市刷新紀錄高位 AI 樂觀情緒延續",
+      "url": "https://money.udn.com/money/story/5599/9454332",
+      "source": "money.udn.com",
+      "published": 1776775303
+    },
+    {
+      "id": "6f388d661616",
+      "title": "伊朗戰事影響美國彈藥供給 愛沙尼亞評估調整軍購",
+      "url": "https://money.udn.com/money/story/5599/9455843",
+      "source": "money.udn.com",
+      "published": 1776775065
+    },
+    {
+      "id": "8cc1908e7ec5",
+      "title": "紐西蘭通膨率仍高於央行目標區間 圍繞7月升息的預期升溫",
+      "url": "https://money.udn.com/money/story/5599/9454331",
+      "source": "money.udn.com",
+      "published": 1776775057
+    },
+    {
+      "id": "47e93634ac0b",
+      "title": "川普在美國中期選舉前已囤積5.5億美元競選資金",
+      "url": "https://money.udn.com/money/story/10511/9454329",
+      "source": "money.udn.com",
+      "published": 1776774785
+    },
+    {
+      "id": "c33d70521d3c",
+      "title": "MSCI 將印尼股市地位評估期延長至6月 以觀察官方改革措施效果",
+      "url": "https://money.udn.com/money/story/5599/9454252",
+      "source": "money.udn.com",
+      "published": 1776774551
+    },
+    {
+      "id": "327b9d837780",
+      "title": "赖清德暂缓出访史瓦帝尼 台北强力谴责北京粗暴干预",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260421-%E8%B5%96%E6%B8%85%E5%BE%B7%E6%9A%82%E7%BC%93%E5%87%BA%E8%AE%BF%E5%8F%B2%E7%93%A6%E5%B8%9D%E5%B0%BC-%E5%8F%B0%E5%8C%97%E5%BC%BA%E5%8A%9B%E8%B0%B4%E8%B4%A3%E5%8C%97%E4%BA%AC%E7%B2%97%E6%9A%B4%E5%B9%B2%E9%A2%84",
+      "source": "rfi.fr",
+      "published": 1776774327
+    },
+    {
+      "id": "f73fa0c73f80",
+      "title": "併購巴西礦企後 美國稀土企業 USA Rare Earth 尋求更多交易與新項目",
+      "url": "https://money.udn.com/money/story/5599/9454251",
+      "source": "money.udn.com",
+      "published": 1776774303
+    },
+    {
+      "id": "09b5e5eafc1c",
+      "title": "俄羅斯重返大馬防務展 伊朗因物流受阻撤展",
+      "url": "https://money.udn.com/money/story/5599/9455821",
+      "source": "money.udn.com",
+      "published": 1776774086
+    },
+    {
+      "id": "7ff51f0a352d",
+      "title": "中國2名高中生多次赴韓偷拍戰機 遭求刑3至4年",
+      "url": "https://money.udn.com/money/story/5599/9455796",
+      "source": "money.udn.com",
+      "published": 1776773734
+    },
+    {
+      "id": "30a1b10faa59",
+      "title": "紐西蘭總理挺過信任投票 但經濟無起色已衝擊民調",
+      "url": "https://money.udn.com/money/story/5599/9455755",
+      "source": "money.udn.com",
+      "published": 1776772845
+    },
+    {
+      "id": "35cf986e291b",
+      "title": "瑞士百達集團聘請前瑞銀老將 Kelvin Tay 擔任亞太區首席投資官",
+      "url": "https://money.udn.com/money/story/5599/9455123",
+      "source": "money.udn.com",
+      "published": 1776772725
+    },
+    {
+      "id": "0b2dd268d556",
+      "title": "日本取消大部分武器出口限制 二戰後首次鬆綁",
+      "url": "https://money.udn.com/money/story/5599/9454414",
+      "source": "money.udn.com",
+      "published": 1776772719
+    },
+    {
+      "id": "dbcc725cde99",
+      "title": "烏克蘭徵兵人員遇襲事件激增 厭戰與拒服兵役情緒升溫",
+      "url": "https://money.udn.com/money/story/5599/9455125",
+      "source": "money.udn.com",
+      "published": 1776772673
+    },
+    {
+      "id": "bb9b1bf9f616",
+      "title": "三艘船隻試圖在美、伊封鎖未解除下穿越荷莫茲海峽 其中一艘為伊朗籍",
+      "url": "https://money.udn.com/money/story/5599/9454625",
+      "source": "money.udn.com",
+      "published": 1776772186
+    },
     {
       "id": "c3ec329cbeaf",
       "title": "北京车展开幕在即 德国车商摩拳擦掌",
       "url": "https://www.dw.com/zh/北京车展开幕在即-德国车商摩拳擦掌/a-76881498?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1776771960
-    },
-    {
-      "id": "d706c22adaef",
-      "title": "FBI局長狀告大西洋月刊 不滿報導指他酗酒常缺勤",
-      "url": "https://money.udn.com/money/story/5599/9455719",
-      "source": "money.udn.com",
-      "published": 1776771958
-    },
-    {
-      "id": "999961b41b2a",
-      "title": "美勞工部長查韋斯-德雷默將離任 因涉與工作人員存在不當關係遭調查",
-      "url": "https://money.udn.com/money/story/10511/9453971",
-      "source": "money.udn.com",
-      "published": 1776771931
-    },
-    {
-      "id": "6072fc830492",
-      "title": "歐洲央行Guindos稱在利率問題上需要謹慎並保持冷靜",
-      "url": "https://money.udn.com/money/story/5599/9455540",
-      "source": "money.udn.com",
-      "published": 1776771842
-    },
-    {
-      "id": "7069460e2b51",
-      "title": "不只是指導方針！英格蘭將正式立法禁止中小學學生在校使用手機",
-      "url": "https://money.udn.com/money/story/5599/9455714",
-      "source": "money.udn.com",
-      "published": 1776771789
-    },
-    {
-      "id": "46b9ddda5249",
-      "title": "歐洲央行總裁拉加德稱戰爭存在「雙重不確定性」 政策判斷需更多數據",
-      "url": "https://money.udn.com/money/story/5599/9453970",
-      "source": "money.udn.com",
-      "published": 1776771634
-    },
-    {
-      "id": "5262d05b8d45",
-      "title": "德國央行行長主張Mythos模型訪問權理應開放給受影響機構 以確保公平",
-      "url": "https://money.udn.com/money/story/5599/9455462",
-      "source": "money.udn.com",
-      "published": 1776771497
     },
     {
       "id": "ee3e738dcd13",
@@ -58,53 +254,11 @@
       "published": 1776771479
     },
     {
-      "id": "02f49d0ed8cd",
-      "title": "替代海灣石油的供應也開始見底 亞洲大買家中國大陸和印度的變通空間收窄",
-      "url": "https://money.udn.com/money/story/5599/9455412",
-      "source": "money.udn.com",
-      "published": 1776771014
-    },
-    {
       "id": "77686e521b93",
       "title": "日本解禁武器出口:  防务伙伴欢迎 北京警惕升级",
       "url": "https://www.dw.com/zh/日本解禁武器出口-防务伙伴欢迎-北京警惕升级/a-76881479?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1776770940
-    },
-    {
-      "id": "ac7cbccc3814",
-      "title": "主張聯準會亟需「政權更替」 華許提名確認聽證會有哪些看點",
-      "url": "https://money.udn.com/money/story/5599/9454048",
-      "source": "money.udn.com",
-      "published": 1776770560
-    },
-    {
-      "id": "9a0639c03539",
-      "title": "瑞典人一天喝4杯咖啡 Fika時間強化職場凝聚力",
-      "url": "https://money.udn.com/money/story/5599/9455675",
-      "source": "money.udn.com",
-      "published": 1776770486
-    },
-    {
-      "id": "84a64bb009d2",
-      "title": "劇透也會坐牢！東京法院判文字暴雷侵權 39歲男判刑一年半",
-      "url": "https://money.udn.com/money/story/5599/9455671",
-      "source": "money.udn.com",
-      "published": 1776770389
-    },
-    {
-      "id": "6109153999b4",
-      "title": "韓媒：受困荷莫茲海峽韓船 多數已移至附近海域",
-      "url": "https://money.udn.com/money/story/5599/9455663",
-      "source": "money.udn.com",
-      "published": 1776770071
-    },
-    {
-      "id": "c72c191fe933",
-      "title": "亞馬遜加碼投資Anthropic達50億美元 深化雙方合作",
-      "url": "https://money.udn.com/money/story/5599/9455660",
-      "source": "money.udn.com",
-      "published": 1776770064
     },
     {
       "id": "d65123139491",
@@ -121,151 +275,11 @@
       "published": 1776768769
     },
     {
-      "id": "67152815d004",
-      "title": "BTS經紀公司創辦人房時赫涉不當交易 韓警聲請逮捕",
-      "url": "https://money.udn.com/money/story/5599/9455620",
-      "source": "money.udn.com",
-      "published": 1776768317
-    },
-    {
-      "id": "ea2f96b4def6",
-      "title": "荷莫茲海峽通行受阻 船舶滯留波灣遭詐騙分子盯上",
-      "url": "https://money.udn.com/money/story/5599/9455606",
-      "source": "money.udn.com",
-      "published": 1776767908
-    },
-    {
-      "id": "a822e30e4e74",
-      "title": "義大利業界看好新核能技術 估2050年擁20座核電廠",
-      "url": "https://money.udn.com/money/story/5599/9455595",
-      "source": "money.udn.com",
-      "published": 1776767444
-    },
-    {
-      "id": "b2986bde815f",
-      "title": "中國批聯合軍演引火燒身 菲律賓：屬主權行為",
-      "url": "https://money.udn.com/money/story/5599/9455581",
-      "source": "money.udn.com",
-      "published": 1776766904
-    },
-    {
-      "id": "0fdef2471525",
-      "title": "天降13名陌生人比YA 加州熱氣球迫降民宅後院住戶傻眼",
-      "url": "https://money.udn.com/money/story/5599/9455534",
-      "source": "money.udn.com",
-      "published": 1776765684
-    },
-    {
-      "id": "6f6130972ce4",
-      "title": "市場對美伊和談仍抱希望 亞股普遍收漲",
-      "url": "https://money.udn.com/money/story/5599/9455529",
-      "source": "money.udn.com",
-      "published": 1776765677
-    },
-    {
       "id": "30fd5a920896",
       "title": "蘋果15年來首換帥 库克9月卸任CEO 由特纳斯接任",
       "url": "https://www.dw.com/zh/蘋果15年來首換帥-库克9月卸任ceo-由特纳斯接任/a-76879409?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1776765660
-    },
-    {
-      "id": "fe2611aca41c",
-      "title": "你以為寫信給老外，其實是給ChatGPT！AI 時代的英文寫作：人味和機器味能分出來？",
-      "url": "https://money.udn.com/money/story/5601/9314037",
-      "source": "money.udn.com",
-      "published": 1776765633
-    },
-    {
-      "id": "994486f6406a",
-      "title": "南加房價 創2023年來最大跌幅",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/southern-california-home-prices-drop/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "d6666787f5e3",
-      "title": "男子被控從樂高套裝中偷竊公仔 並用乾意麵替換",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/man-steals-lego-figures-replaces-pasta/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "3f0e4a440115",
-      "title": "世華南加州分會企業參訪 茶香搭橋促交流",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/gfcbw-scc-business-visit-tea/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "0568357658c7",
-      "title": "歌手D4vd被控一級謀殺14歲少女",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/d4vd-murder-charges-teen/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "96d566856234",
-      "title": "維權人士集會籲市府預算保護移民",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/immigrant-rights-budget-protection/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "a0a44b2501e6",
-      "title": "皇后區火圈車聚案警方出擊 發布涉案車輛籲協助",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/queens-car-meet-police/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "5adc9b9f54ac",
-      "title": "公路維修警覺周 政府提醒勿闖禁區",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/road-work-safety-awareness/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "4850c1e349c8",
-      "title": "馬斯佩斯連環縱火毀中餐館   女子涉砸窗點火傷兩人面臨重罪起訴",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/maspeth-arson-restaurant-woman-charged/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "6e0bb8dbda98",
-      "title": "表維醫院接收電動自行車事故傷者增加",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/bellevue-hospital-e-bike-injuries/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "1bc8f2be1e61",
-      "title": "父母遭遣返子女監護難題待解 拉莫斯推法案促加快親屬監護程序",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/parents-deported-guardianship-issue/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "02010d979dd8",
-      "title": "駐紐約總領館舉辦「乒乓外交」 55周年友誼賽",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/ping-pong-diplomacy-friendship-match/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "7428987818de",
-      "title": "陳學理和鄭永佳攜亞美醫協慈善基金會   與華人健康協會23日舉行心理健康講座",
-      "url": "https://www.singtaousa.com/2026/04/21/news/usa/chen-xue-li-zheng-yong-jia-psychological-health/",
-      "source": "singtaousa.com",
-      "published": 1776765600
-    },
-    {
-      "id": "35c2ed3db9ad",
-      "title": "捷總理拒供維特齊專機訪台惹議 捷媒：台投資貢獻大",
-      "url": "https://money.udn.com/money/story/5599/9455508",
-      "source": "money.udn.com",
-      "published": 1776764736
     },
     {
       "id": "7b9b0a8f4e8e",
@@ -714,13 +728,6 @@
       "url": "https://www.dw.com/zh/李在明提及大屠殺引爭議-韓以外交摩擦升溫/a-76855265?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1776677220
-    },
-    {
-      "id": "d4624ac6d671",
-      "title": "美菲“肩并肩”年度军演登场 日本首度大规模参加 中国警告勿“引火烧身”",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260420-%E7%BE%8E%E8%8F%B2-%E8%82%A9%E5%B9%B6%E8%82%A9-%E5%B9%B4%E5%BA%A6%E5%86%9B%E6%BC%94%E7%99%BB%E5%9C%BA-%E6%97%A5%E6%9C%AC%E9%A6%96%E5%BA%A6%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%82%E5%8A%A0-%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%8B%BF-%E7%8E%A9%E7%81%AB%E8%87%AA%E7%84%9A",
-      "source": "rfi.fr",
-      "published": 1776674772
     },
     {
       "id": "08313b4010c5",
@@ -1325,5 +1332,5 @@
       "published": 1774277460
     }
   ],
-  "build_id": 1776772679
+  "build_id": 1776777461
 }
