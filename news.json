@@ -1,16 +1,226 @@
 {
-  "updated": 1777035308,
+  "updated": 1777040819,
   "items": [
     {
+      "id": "0f69e412f3ee",
+      "title": "機場麻疹｜新增外籍空姐確診 潛伏期曾訪越南 防護中心首日為75名機場員工接種",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/airport-measles-case-vaccination-drive/",
+      "source": "singtaousa.com",
+      "published": 1777040896
+    },
+    {
+      "id": "e57be5e24994",
+      "title": "川普傳擬暫停西班牙北約成員資格 北約：無此條款",
+      "url": "https://money.udn.com/money/story/5599/9463094",
+      "source": "money.udn.com",
+      "published": 1777040516
+    },
+    {
+      "id": "481911adf1e3",
+      "title": "美股早盤／英特爾飆24%創新天價 激勵大盤指數上攻 台積電ADR強漲4%",
+      "url": "https://money.udn.com/money/story/123398/9463088",
+      "source": "money.udn.com",
+      "published": 1777040302
+    },
+    {
+      "id": "17f465515949",
+      "title": "內塔尼亞胡認隱暪病情 稱已接受前列腺癌治療",
+      "url": "https://www.singtaousa.com/2026/04/24/news/world/netanyahu-admits-illness-says-he-has-received-treatment-for-prostate-cancer/",
+      "source": "singtaousa.com",
+      "published": 1777040180
+    },
+    {
+      "id": "c21070e3f125",
+      "title": "民調：油價飆漲民眾怨川普 期中選舉共和黨選情不妙",
+      "url": "https://money.udn.com/money/story/10511/9463055",
+      "source": "money.udn.com",
+      "published": 1777039645
+    },
+    {
+      "id": "604edf5aea96",
+      "title": "《魔音女團》宋宛穎澄清C位靠實力 自信跳舞不怯場 否認團內「有心機女」",
+      "url": "https://www.singtaousa.com/2026/04/24/entertainment/song-wan-ying-magic-sound-girl-group/",
+      "source": "singtaousa.com",
+      "published": 1777039247
+    },
+    {
+      "id": "be40cff3617b",
+      "title": "英特爾營收獲利均超預期",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/intel-revenue-profit-beat-expectations/",
+      "source": "singtaousa.com",
+      "published": 1777039200
+    },
+    {
+      "id": "353b15757a52",
+      "title": "OpenAI發布最新AI模型GPT-5.5",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/openai-launches-gpt-5-5/",
+      "source": "singtaousa.com",
+      "published": 1777039200
+    },
+    {
+      "id": "3686b28dccf0",
+      "title": "華納兄弟探索股東   通過派拉蒙併購案",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/warner-bros-paramount-merger/",
+      "source": "singtaousa.com",
+      "published": 1777039200
+    },
+    {
+      "id": "5c355a554afb",
+      "title": "Nike將裁減1400人   主要集中技術部門",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/nike-layoffs-technology/",
+      "source": "singtaousa.com",
+      "published": 1777039200
+    },
+    {
+      "id": "65fcab555909",
+      "title": "SpaceX加速布局AI編碼",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/spacex-ai-coding-acquisition/",
+      "source": "singtaousa.com",
+      "published": 1777039200
+    },
+    {
+      "id": "f4cac4576e88",
+      "title": "計劃自研GPU  警告投資者成本問題",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/spacex-self-developed-gpu/",
+      "source": "singtaousa.com",
+      "published": 1777039200
+    },
+    {
+      "id": "a4348048f61f",
+      "title": "微軟承諾投資180億   拓展澳洲AI市場",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/microsoft-invests-ai-australia/",
+      "source": "singtaousa.com",
+      "published": 1777039200
+    },
+    {
+      "id": "b7744cfe9454",
+      "title": "福特重大組織重整   解散Model e電動車部",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/ford-restructures-electric-division/",
+      "source": "singtaousa.com",
+      "published": 1777039200
+    },
+    {
+      "id": "ef190e6f5479",
+      "title": "老鷹爆冷掀翻尼克斯",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/hawks-upset-knicks/",
+      "source": "singtaousa.com",
+      "published": 1777039200
+    },
+    {
+      "id": "80f801535eb8",
+      "title": "戰爭重創之下 德國商業前景跌至2023年以來最差水準",
+      "url": "https://money.udn.com/money/story/5599/9462751",
+      "source": "money.udn.com",
+      "published": 1777038992
+    },
+    {
+      "id": "ca8ef6a76294",
+      "title": "非洲交流受阻 塞內加爾公告台灣獎學金不到一天撤銷",
+      "url": "https://money.udn.com/money/story/5599/9463036",
+      "source": "money.udn.com",
+      "published": 1777038863
+    },
+    {
+      "id": "0c634ff96516",
+      "title": "伊朗官媒證實外長將赴巴基斯坦 美伊第2輪會談有望",
+      "url": "https://money.udn.com/money/story/5599/9463034",
+      "source": "money.udn.com",
+      "published": 1777038326
+    },
+    {
+      "id": "d2aa282274a9",
+      "title": "德语媒体：中国为德国工业敲响了丧钟？",
+      "url": "https://www.dw.com/zh/德语媒体：中国为德国工业敲响了丧钟？/a-76925219?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1777038300
+    },
+    {
+      "id": "dc510788c575",
+      "title": "中国商务部管控 7家欧企“上榜”",
+      "url": "https://www.dw.com/zh/中国商务部管控-7家欧企-上榜/a-76924834?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1777037760
+    },
+    {
+      "id": "0325a5c96c49",
+      "title": "特朗普称普京出席G20峰会“可能很有帮助” 克宫：普京可能去，也可能不去",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260424-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%99%AE%E4%BA%AC%E5%87%BA%E5%B8%ADg20%E5%B3%B0%E4%BC%9A-%E5%8F%AF%E8%83%BD%E5%BE%88%E6%9C%89%E5%B8%AE%E5%8A%A9-%E5%85%8B%E5%AE%AB-%E6%99%AE%E4%BA%AC%E5%8F%AF%E8%83%BD%E5%8E%BB%EF%BC%8C%E4%B9%9F%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%8E%BB",
+      "source": "rfi.fr",
+      "published": 1777037739
+    },
+    {
+      "id": "fd90a8d4f515",
+      "title": "美国威胁暂停西班牙北约成员资格后 意大利总理呼吁北约“保持团结”",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260424-%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81%E6%9A%82%E5%81%9C%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8C%97%E7%BA%A6%E6%88%90%E5%91%98%E8%B5%84%E6%A0%BC%E5%90%8E-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%80%BB%E7%90%86%E5%91%BC%E5%90%81%E5%8C%97%E7%BA%A6-%E4%BF%9D%E6%8C%81%E5%9B%A2%E7%BB%93",
+      "source": "rfi.fr",
+      "published": 1777037626
+    },
+    {
+      "id": "b19f40d21107",
+      "title": "NGO警告：中资工厂正将996加班文化传染欧洲",
+      "url": "https://www.dw.com/zh/ngo警告：中资工厂正将996加班文化传染欧洲/a-76924245?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1777037400
+    },
+    {
+      "id": "444ad3254051",
+      "title": "一家券商股價上市來飆漲40,000% 令土耳其交易員們百思不得其解",
+      "url": "https://money.udn.com/money/story/5599/9462608",
+      "source": "money.udn.com",
+      "published": 1777037349
+    },
+    {
+      "id": "045022df194d",
+      "title": "國際能源署稱伊朗戰爭將使天然氣市場短缺再持續兩年",
+      "url": "https://money.udn.com/money/story/5599/9462547",
+      "source": "money.udn.com",
+      "published": 1777037066
+    },
+    {
+      "id": "2d0cd45cee16",
+      "title": "印度駁斥川普轉發稱印度為「鬼地方」的節目內容",
+      "url": "https://money.udn.com/money/story/5599/9462484",
+      "source": "money.udn.com",
+      "published": 1777036840
+    },
+    {
+      "id": "c164e4b577c7",
+      "title": "中國大陸將向美國送去兩隻熊貓 川普訪華前雙邊關係再添企穩跡象",
+      "url": "https://money.udn.com/money/story/5599/9462273",
+      "source": "money.udn.com",
+      "published": 1777036620
+    },
+    {
+      "id": "ad578f29b6f3",
+      "title": "對俄羅斯第20輪制裁剛通過 歐盟著手研議新一輪方案",
+      "url": "https://money.udn.com/money/story/5599/9463015",
+      "source": "money.udn.com",
+      "published": 1777036437
+    },
+    {
+      "id": "54756d6ce8fc",
+      "title": "伊朗外长出访伊斯兰堡、马斯喀特和莫斯科 美海军三航母20逾年来首次齐聚中东",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260424-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%87%BA%E8%AE%BF%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1-%E9%A9%AC%E6%96%AF%E5%96%80%E7%89%B9%E5%92%8C%E8%8E%AB%E6%96%AF%E7%A7%91-%E7%BE%8E%E5%86%9B%E6%96%B9%E5%88%B6%E5%AE%9A%E9%92%88%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%A1%8C%E5%8A%A8",
+      "source": "rfi.fr",
+      "published": 1777036306
+    },
+    {
+      "id": "950fcae8a433",
+      "title": "紐約市長抨擊億萬富豪格里芬引反彈 城堡投資威脅放棄該市擴張計畫",
+      "url": "https://money.udn.com/money/story/5599/9462198",
+      "source": "money.udn.com",
+      "published": 1777035401
+    },
+    {
       "id": "e59f13e9cbfb",
-      "title": "AI代理發燒！Meta將採購數千萬顆亞馬遜Graviton CPU",
+      "title": "AI 代理發燒！Meta 將採購數千萬顆亞馬遜 Graviton CPU",
       "url": "https://money.udn.com/money/story/5599/9462995",
       "source": "money.udn.com",
       "published": 1777035367
     },
     {
       "id": "d90cea4312d4",
-      "title": "巴基斯坦官員預料美、伊將展開第二輪談判 油價回檔 金價小漲",
+      "title": "巴基斯坦官員預料美伊將展開第二輪談判 油價回檔、金價小漲",
       "url": "https://money.udn.com/money/story/5599/9462991",
       "source": "money.udn.com",
       "published": 1777035112
@@ -51,25 +261,11 @@
       "published": 1777033827
     },
     {
-      "id": "3f2e567f3d10",
-      "title": "馬國明自曝冇私己錢 蕭正楠儲七位數買樓為仔",
-      "url": "https://www.singtaousa.com/2026/04/24/entertainment/matthew-ho-edwin-siou-talk-money-marriage/",
-      "source": "singtaousa.com",
-      "published": 1777033825
-    },
-    {
       "id": "1d52824ba77d",
       "title": "菲防长：始终愿重置对华关系但取决诚意 解放军编队吕宋岛海域实弹射击演练",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260424-%E8%8F%B2%E9%98%B2%E9%95%BF-%E5%A7%8B%E7%BB%88%E6%84%BF%E9%87%8D%E7%BD%AE%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%B3%BB%E4%BD%86%E5%8F%96%E5%86%B3%E8%AF%9A%E6%84%8F-%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BC%96%E9%98%9F%E5%90%95%E5%AE%8B%E5%B2%9B%E6%B5%B7%E5%9F%9F%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB%E6%BC%94%E7%BB%83",
       "source": "rfi.fr",
       "published": 1777033797
-    },
-    {
-      "id": "f08d26bbf3b4",
-      "title": "羅湖口岸截獲瀕危沉香木製品 男子攜帶24條手串頸鍊未申報",
-      "url": "https://www.singtaousa.com/2026/04/24/news/china/smuggling-endangered-agarwood-bracelets-luohu/",
-      "source": "singtaousa.com",
-      "published": 1777033701
     },
     {
       "id": "b7797e34ea65",
@@ -79,130 +275,11 @@
       "published": 1777033306
     },
     {
-      "id": "42b6186f2593",
-      "title": "300歌迷戴耳機聽雲浩影私密開唱　新專輯《Silver Lining》傳遞黑暗中的光",
-      "url": "https://www.singtaousa.com/2026/04/24/entertainment/cloud-ng-silver-lining-headphone-concert/",
-      "source": "singtaousa.com",
-      "published": 1777032058
-    },
-    {
-      "id": "881fda375d64",
-      "title": "衝破靚仔必有餘慶",
-      "url": "https://www.singtaousa.com/2026/04/24/opinion/breakthrough-handsome-must-have-legacy/",
-      "source": "singtaousa.com",
-      "published": 1777032000
-    },
-    {
-      "id": "4389797e8d53",
-      "title": "天橋底講故",
-      "url": "https://www.singtaousa.com/2026/04/24/opinion/storytelling-under-bridge/",
-      "source": "singtaousa.com",
-      "published": 1777032000
-    },
-    {
-      "id": "5bf88e727fa3",
-      "title": "先知國師天師",
-      "url": "https://www.singtaousa.com/2026/04/24/opinion/prophet-nation-master/",
-      "source": "singtaousa.com",
-      "published": 1777032000
-    },
-    {
-      "id": "d442a780a97d",
-      "title": "馬會倒自己米",
-      "url": "https://www.singtaousa.com/2026/04/24/opinion/horse-racing-issues/",
-      "source": "singtaousa.com",
-      "published": 1777032000
-    },
-    {
-      "id": "6c6a0f1e32ae",
-      "title": "以黎同意延長停火三周",
-      "url": "https://www.singtaousa.com/2026/04/24/news/usa/israel-lebanon-ceasefire-extension/",
-      "source": "singtaousa.com",
-      "published": 1777032000
-    },
-    {
-      "id": "02f9e7ca7bc9",
-      "title": "第三艘航母「布殊號」抵達中東",
-      "url": "https://www.singtaousa.com/2026/04/24/news/usa/uss-george-h-w-bush-middle-east/",
-      "source": "singtaousa.com",
-      "published": 1777032000
-    },
-    {
-      "id": "49994b8374b2",
-      "title": "特朗普下令擊沉霍爾木茲海峽布雷船隻",
-      "url": "https://www.singtaousa.com/2026/04/24/news/world/trump-orders-sink-hormuz-mines/",
-      "source": "singtaousa.com",
-      "published": 1777032000
-    },
-    {
-      "id": "3592a777f9d5",
-      "title": "51年首見  微軟推自願離職方案",
-      "url": "https://www.singtaousa.com/2026/04/24/news/world/microsoft-voluntary-severance-plan/",
-      "source": "singtaousa.com",
-      "published": 1777032000
-    },
-    {
-      "id": "cee410225071",
-      "title": "加碼AI戰略Meta五月中起裁員一成",
-      "url": "https://www.singtaousa.com/2026/04/24/news/world/meta-ai-strategy-layoffs/",
-      "source": "singtaousa.com",
-      "published": 1777032000
-    },
-    {
       "id": "8bcf201c01ea",
       "title": "世界氣象組織：聖嬰現象最快5至7月出現 預估將強烈",
       "url": "https://money.udn.com/money/story/5599/9462913",
       "source": "money.udn.com",
       "published": 1777031672
-    },
-    {
-      "id": "af03a9785242",
-      "title": "英美10國示警 中國秘密入侵智慧裝置建大型惡意網路",
-      "url": "https://money.udn.com/money/story/5599/9462912",
-      "source": "money.udn.com",
-      "published": 1777031662
-    },
-    {
-      "id": "981d3008a4fa",
-      "title": "英特爾上季三大產品事業全面翻轉 股價盤後狂衝26% 有望創新高",
-      "url": "https://money.udn.com/money/story/123398/9462900",
-      "source": "money.udn.com",
-      "published": 1777031001
-    },
-    {
-      "id": "639a19d73fe0",
-      "title": "第2輪美伊談判有譜？ CNN：伊朗正派代表團赴巴基斯坦",
-      "url": "https://money.udn.com/money/story/5599/9462895",
-      "source": "money.udn.com",
-      "published": 1777030762
-    },
-    {
-      "id": "aa04ff537037",
-      "title": "三星員工抗爭求漲薪 韓廠晶圓代工夜班產量大減58%",
-      "url": "https://money.udn.com/money/story/5599/9462891",
-      "source": "money.udn.com",
-      "published": 1777030615
-    },
-    {
-      "id": "5da794b58ddb",
-      "title": "英國50萬人健康數據外流 一度上架中國電商平台",
-      "url": "https://money.udn.com/money/story/5599/9462886",
-      "source": "money.udn.com",
-      "published": 1777030600
-    },
-    {
-      "id": "ea5112cef5f9",
-      "title": "川普2.0上任以來 美股漲最猛、跌最兇的交易日是這些",
-      "url": "https://money.udn.com/money/story/123398/9462884",
-      "source": "money.udn.com",
-      "published": 1777030522
-    },
-    {
-      "id": "4d8646004193",
-      "title": "氣候變遷可可成本漲不停 德國巧克力大廠裁員10%",
-      "url": "https://money.udn.com/money/story/5599/9462880",
-      "source": "money.udn.com",
-      "published": 1777030231
     },
     {
       "id": "f0a32b9bd2a4",
@@ -226,39 +303,11 @@
       "published": 1777029120
     },
     {
-      "id": "5fbf56f339a8",
-      "title": "接棒庫克擔任蘋果CEO的特納斯是誰？完美主義性格，iPhone、iPad、Mac等產品的硬體工程都由他主導",
-      "url": "https://money.udn.com/money/story/5588/9462842",
-      "source": "money.udn.com",
-      "published": 1777028264
-    },
-    {
       "id": "8f77bbeb2c3d",
       "title": "DeepSeek 再扔“王炸” 美国指责 中国反驳",
       "url": "https://www.dw.com/zh/deepseek-再扔-王炸-美国指责-中国反驳/a-76922868?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1777028100
-    },
-    {
-      "id": "a18948924a6f",
-      "title": "菲律賓總統小馬可仕將訪日本 深化戰略夥伴關係",
-      "url": "https://money.udn.com/money/story/5599/9462835",
-      "source": "money.udn.com",
-      "published": 1777028060
-    },
-    {
-      "id": "34b2aba7a01c",
-      "title": "馬斯克宣布特斯拉Cybercab開始生產 38秒影片曝光",
-      "url": "https://money.udn.com/money/story/5599/9462827",
-      "source": "money.udn.com",
-      "published": 1777027594
-    },
-    {
-      "id": "aa2f017bc2dc",
-      "title": "思科推出通用量子交換器 引領量子網路新里程碑",
-      "url": "https://money.udn.com/money/story/5599/9462819",
-      "source": "money.udn.com",
-      "published": 1777027346
     },
     {
       "id": "d05b51b291a0",
@@ -280,13 +329,6 @@
       "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260424-manus%E6%94%B6%E8%B4%AD%E6%A1%88%E4%BD%99%E6%B3%A2%E7%BB%A7%E7%BB%AD-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BC%BA%E7%9B%91%E7%AE%A1%E7%BE%8E%E5%9B%BD%E8%B5%84%E6%9C%AC%E5%AF%B9ai%E5%85%AC%E5%8F%B8%E6%8A%95%E8%B5%84",
       "source": "rfi.fr",
       "published": 1777025798
-    },
-    {
-      "id": "5aefc184cb6c",
-      "title": "天然氣恐持續緊俏 IEA 報告點名台灣和這些國家受衝擊特別大",
-      "url": "https://money.udn.com/money/story/5599/9462781",
-      "source": "money.udn.com",
-      "published": 1777025618
     },
     {
       "id": "22210e1b50bd",
@@ -311,7 +353,7 @@
     },
     {
       "id": "a3bcc7dffe37",
-      "title": "销量暴跌、战争阴影下 北京举办规模空前新款齐聚的车展",
+      "title": "销量暴跌、战争阴影下 北京举办规模空前新款齐发的车展",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260424-%E9%94%80%E9%87%8F%E4%B8%8D%E6%9A%B4%E8%B7%8C-%E6%88%98%E4%BA%89%E9%98%B4%E5%BD%B1%E4%B8%8B-%E5%8C%97%E4%BA%AC%E4%B8%BE%E5%8A%9E%E8%A7%84%E6%A8%A1%E7%A9%BA%E5%89%8D%E7%9A%84%E8%BD%A6%E5%B1%95",
       "source": "rfi.fr",
       "published": 1777020085
@@ -513,13 +555,6 @@
       "published": 1776973372
     },
     {
-      "id": "d0cd767c62a2",
-      "title": "罗马教宗2026访非洲四国近尾声",
-      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260423-%E6%B3%95%E5%B9%BFrfi-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E7%BD%97%E9%A9%AC%E6%95%99%E5%AE%972026%E8%AE%BF%E9%9D%9E%E6%B4%B2%E5%9B%9B%E5%9B%BD%E8%BF%91%E5%B0%BE%E5%A3%B0",
-      "source": "rfi.fr",
-      "published": 1776969242
-    },
-    {
       "id": "1feb8f7e1825",
       "title": "战争与美国制裁加速人民币国际化",
       "url": "https://cn.nytimes.com/business/20260424/china-currency-iran/?utm_source=RSS",
@@ -532,13 +567,6 @@
       "url": "https://cn.nytimes.com/usa/20260424/iran-war-cost-military/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1776963815
-    },
-    {
-      "id": "7cb99aa09ea3",
-      "title": "联合国：伊朗战争将令全球至少三千万人重陷贫困",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260423-%E8%81%94%E5%90%88%E5%9B%BD-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%B0%86%E4%BB%A4%E5%85%A8%E7%90%83%E8%87%B3%E5%B0%91%E4%B8%89%E5%8D%83%E4%B8%87%E4%BA%BA%E9%87%8D%E9%99%B7%E8%B4%AB%E5%9B%B0",
-      "source": "rfi.fr",
-      "published": 1776961036
     },
     {
       "id": "83e31c1ea2c5",
@@ -1304,5 +1332,5 @@
       "published": 1774833120
     }
   ],
-  "build_id": 1777035308
+  "build_id": 1777040819
 }
