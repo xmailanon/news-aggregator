@@ -1,47 +1,222 @@
 {
-  "updated": 1777079867,
+  "updated": 1777090253,
   "items": [
     {
+      "id": "e71843e9c9a4",
+      "title": "中國商務部：取消對歐盟兩家金融機構反制措施",
+      "url": "https://money.udn.com/money/story/5599/9463788",
+      "source": "money.udn.com",
+      "published": 1777089656
+    },
+    {
+      "id": "28138daf0b79",
+      "title": "台積電效應擴散 熊本縣稅收增幅日本第一",
+      "url": "https://money.udn.com/money/story/5599/9463786",
+      "source": "money.udn.com",
+      "published": 1777089629
+    },
+    {
+      "id": "f967ea368fa8",
+      "title": "喬治亞州野火肆虐 逾百房屋燒毀創紀錄",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/most-in-history-over-120-homes-destroyed-nearly-1000-threatened-by-south-ga-wildfires/",
+      "source": "singtaousa.com",
+      "published": 1777089600
+    },
+    {
+      "id": "4d8799c695ee",
+      "title": "曾國城照顧父母賣屋 積極減重防癌",
+      "url": "https://www.singtaousa.com/2026/04/24/entertainment/zeng-guo-cheng-care-parents-sell-house/",
+      "source": "singtaousa.com",
+      "published": 1777089600
+    },
+    {
+      "id": "90feee300d3e",
+      "title": "台灣慈善精神深耕巴西 佛光山周年慶捐贈輪椅助弱勢",
+      "url": "https://money.udn.com/money/story/5599/9463773",
+      "source": "money.udn.com",
+      "published": 1777089285
+    },
+    {
+      "id": "a315aee5b117",
+      "title": "美檢察官撤回對鮑爾刑事調查 為華許獲得參議院同意鋪路",
+      "url": "https://money.udn.com/money/story/5599/9463757",
+      "source": "money.udn.com",
+      "published": 1777088702
+    },
+    {
+      "id": "91ac50a9a2a2",
+      "title": "美新創公司獲海軍合約 推動戰機極音速飛彈整合",
+      "url": "https://money.udn.com/money/story/5599/9463737",
+      "source": "money.udn.com",
+      "published": 1777087860
+    },
+    {
+      "id": "b55ea7df74a5",
+      "title": "科技巨擘財報＋FOMC 會議登場 美股走勢緊盯油價與美伊局勢",
+      "url": "https://money.udn.com/money/story/123398/9463730",
+      "source": "money.udn.com",
+      "published": 1777087697
+    },
+    {
+      "id": "95bff7a4440c",
+      "title": "自衛隊成立以來首次！日本擬改將校階級名稱 士兵維持不變原因曝光",
+      "url": "https://money.udn.com/money/story/5599/9463729",
+      "source": "money.udn.com",
+      "published": 1777087689
+    },
+    {
+      "id": "9058799f9ce7",
+      "title": "約旦簽署阿爾忒彌斯協議，成NASA探月計劃最新成員國",
+      "url": "https://www.singtaousa.com/2026/04/24/news/world/nasa-welcomes-jordan-as-63rd-artemis-accords-signatory-nasa/",
+      "source": "singtaousa.com",
+      "published": 1777087664
+    },
+    {
+      "id": "ed65286da55a",
+      "title": "零下30度烏東戰場 台灣軍規顯示器進入最前線",
+      "url": "https://money.udn.com/money/story/5599/9463709",
+      "source": "money.udn.com",
+      "published": 1777087280
+    },
+    {
+      "id": "8da35dcaa31f",
+      "title": "3月被謠傳死亡 以色列總理內唐亞胡證實罹癌已接受治療",
+      "url": "https://money.udn.com/money/story/5599/9463706",
+      "source": "money.udn.com",
+      "published": 1777087160
+    },
+    {
+      "id": "15301ae73230",
+      "title": "中國勞工觀察：中資企業海外工廠普遍侵犯勞工權益",
+      "url": "https://money.udn.com/money/story/5599/9463696",
+      "source": "money.udn.com",
+      "published": 1777086740
+    },
+    {
+      "id": "01c13e782ff5",
+      "title": "「大賣空」貝瑞重押半導體崩盤 稱費半終將「跌回原形」",
+      "url": "https://money.udn.com/money/story/5599/9463695",
+      "source": "money.udn.com",
+      "published": 1777086733
+    },
+    {
+      "id": "0160a71678ec",
+      "title": "南佛羅裡達大學博士生屍體被發現後，其室友被逮捕",
+      "url": "https://www.singtaousa.com/2026/04/24/news/usa/police-identify-the-body-of-1-missing-usf-student-second-still-missing-as-roommate-is-charged/",
+      "source": "singtaousa.com",
+      "published": 1777086627
+    },
+    {
+      "id": "db4fb79bb1ef",
+      "title": "中東戰爭第56天》伊朗外長抵巴基斯坦參加和談 最新發展一次看",
+      "url": "https://money.udn.com/money/story/5599/9463670",
+      "source": "money.udn.com",
+      "published": 1777086044
+    },
+    {
+      "id": "bd07e06aceb7",
+      "title": "伊朗權鬥白熱化：首席談判代表因核談分歧辭職，高層分裂加劇",
+      "url": "https://www.singtaousa.com/2026/04/24/news/world/iran-negotiating-team-head-ghalibaf-quits/",
+      "source": "singtaousa.com",
+      "published": 1777086000
+    },
+    {
+      "id": "feb75311f94f",
+      "title": "蘇心甯暴瘦 不排斥交往新對象",
+      "url": "https://www.singtaousa.com/2026/04/24/entertainment/suhsinning-relationship-weight-loss/",
+      "source": "singtaousa.com",
+      "published": 1777086000
+    },
+    {
+      "id": "75a96cdd70df",
+      "title": "阿根廷「盲書約會」 看不見的牛皮紙書讓讀者更靠近",
+      "url": "https://money.udn.com/money/story/5599/9463653",
+      "source": "money.udn.com",
+      "published": 1777085686
+    },
+    {
+      "id": "8a6681aa9ff1",
+      "title": "重啟死刑還不夠！川普政府擬增槍決、電椅 「氮氣窒息」也納入",
+      "url": "https://money.udn.com/money/story/5599/9463627",
+      "source": "money.udn.com",
+      "published": 1777084876
+    },
+    {
+      "id": "3bf18039a1b4",
+      "title": "以色列總理證實罹癌治癒 延遲公布為防伊朗炒作",
+      "url": "https://money.udn.com/money/story/5599/9463623",
+      "source": "money.udn.com",
+      "published": 1777084579
+    },
+    {
+      "id": "fb7e04f230da",
+      "title": "泰國男無聊縱火燒林 只為看人救火",
+      "url": "https://www.singtaousa.com/2026/04/24/news/world/bored-man-admits-starting-forest-fire-just-to-watch-rangers-put-it-out/",
+      "source": "singtaousa.com",
+      "published": 1777084200
+    },
+    {
+      "id": "b21c5356f27d",
+      "title": "捷克駐港澳總領事專訪：以「藝術年」深化交流 視香港為多元合作平台",
+      "url": "https://www.singtaousa.com/2026/04/24/news/china/czech-consul-art-year-hong-kong-platform/",
+      "source": "singtaousa.com",
+      "published": 1777084098
+    },
+    {
+      "id": "ee571b4792cc",
+      "title": "北京演唱會突取消 加拿大女歌手：搶不到五一高鐵票兼怕坐飛機",
+      "url": "https://www.singtaousa.com/2026/04/24/entertainment/haley-smalls-china-tour-cancellation/",
+      "source": "singtaousa.com",
+      "published": 1777084057
+    },
+    {
+      "id": "0158fdc45060",
+      "title": "共同社：日本擬派經產大臣5月訪中 出席APEC會議",
+      "url": "https://money.udn.com/money/story/5599/9463574",
+      "source": "money.udn.com",
+      "published": 1777082805
+    },
+    {
+      "id": "08c22c289fd1",
+      "title": "化石燃料退場會議哥倫比亞召開 能源危機下美中俄缺席",
+      "url": "https://www.singtaousa.com/2026/04/24/news/world/more-than-50-countries-attending-nations-gather-for-first-ever-conference-on-fossil-fuel-exit/",
+      "source": "singtaousa.com",
+      "published": 1777082400
+    },
+    {
+      "id": "a2ac59f60e35",
+      "title": "吳卓源寫親筆信認愛 希望得到祝福",
+      "url": "https://www.singtaousa.com/2026/04/24/entertainment/wu-zhuo-yuan-love-letter-blessing/",
+      "source": "singtaousa.com",
+      "published": 1777082400
+    },
+    {
+      "id": "0ef859acf412",
+      "title": "東涌的士疑因天雨路滑失控 剷上花槽石壆",
+      "url": "https://www.singtaousa.com/2026/04/24/news/china/taxi-skids-onto-roadside-barrier/",
+      "source": "singtaousa.com",
+      "published": 1777082302
+    },
+    {
+      "id": "5ddca74a82a9",
+      "title": "川習會前斬伊朗金脈？美制裁大陸煉油巨頭與數十家航運商",
+      "url": "https://money.udn.com/money/story/5599/9463532",
+      "source": "money.udn.com",
+      "published": 1777080348
+    },
+    {
+      "id": "91cc0c83d0ce",
+      "title": "逆齡？英國威廉王子雜誌封面突冒黑髮引熱議",
+      "url": "https://money.udn.com/money/story/5599/9463506",
+      "source": "money.udn.com",
+      "published": 1777079490
+    },
+    {
       "id": "3babc5af2947",
-      "title": "斷交後找上台灣！哥斯大黎加押注半導體 親中壓力下仍尋求合作",
+      "title": "斷交後仍找台灣！哥斯大黎加押注半導體 親中壓力下仍尋求合作",
       "url": "https://money.udn.com/money/story/5599/9463496",
       "source": "money.udn.com",
       "published": 1777078845
-    },
-    {
-      "id": "3b8563770824",
-      "title": "粵語親信相繼倒戈！送特朗普上台的人已開始部署『後特朗普時代』? 眾叛親離的序幕？",
-      "url": "https://www.singtaousa.com/2026/04/24/opinion/post-trump-era/",
-      "source": "singtaousa.com",
-      "published": 1777078800
-    },
-    {
-      "id": "e3a3dea15282",
-      "title": "Hybe主席涉詐欺 南韓檢方拒捕",
-      "url": "https://www.singtaousa.com/2026/04/24/news/world/south-korean-prosecutors-deny-police-request-arrest-warrant-for-bts-pop-mogul/",
-      "source": "singtaousa.com",
-      "published": 1777078800
-    },
-    {
-      "id": "c534b5c290ec",
-      "title": "蔡允潔因狀態不佳痛哭",
-      "url": "https://www.singtaousa.com/2026/04/24/entertainment/tsai-yun-jie-crying/",
-      "source": "singtaousa.com",
-      "published": 1777078800
-    },
-    {
-      "id": "80d812256ad3",
-      "title": "受不了兒子離世 母親在瑞士安樂死診所「理性自殺」",
-      "url": "https://www.singtaousa.com/2026/04/24/news/world/swiss-euthanasia-agency-case-the-bereaved-mother-ended-her-life-in-basel-four-years-later-the-bill-in-england-and-wales-was-not-passed/",
-      "source": "singtaousa.com",
-      "published": 1777078736
-    },
-    {
-      "id": "f3ca566f34c5",
-      "title": "天文台預測日間短暫有陽光 最高氣溫約25度",
-      "url": "https://www.singtaousa.com/2026/04/24/news/china/weather-forecast-sunny-intervals-mild-temperatures/",
-      "source": "singtaousa.com",
-      "published": 1777078696
     },
     {
       "id": "9d422c544f31",
@@ -51,97 +226,6 @@
       "published": 1777077019
     },
     {
-      "id": "e1462c8408b4",
-      "title": "杭州女子常年穿襪睡覺致趾甲變形 醫生拆解成因及預防方法",
-      "url": "https://www.singtaousa.com/2026/04/24/news/china/sleeping-with-socks-causes-nail-deformity/",
-      "source": "singtaousa.com",
-      "published": 1777076899
-    },
-    {
-      "id": "faaa1e81acc7",
-      "title": "獵人反成獵物！美百萬富翁撞上象群 遭5頭護幼母象踩死",
-      "url": "https://money.udn.com/money/story/5599/9463482",
-      "source": "money.udn.com",
-      "published": 1777076611
-    },
-    {
-      "id": "0c4c6ab30bd7",
-      "title": "伊朗外長抵巴基斯坦 川普期待滿足美方要求",
-      "url": "https://money.udn.com/money/story/5599/9463478",
-      "source": "money.udn.com",
-      "published": 1777075942
-    },
-    {
-      "id": "d34dbf2df176",
-      "title": "全球最獨特馬爾他騎士團 傳承900年醫療人道使命",
-      "url": "https://money.udn.com/money/story/5599/9463474",
-      "source": "money.udn.com",
-      "published": 1777075226
-    },
-    {
-      "id": "135977454bcd",
-      "title": "柯一正砸車案結束",
-      "url": "https://www.singtaousa.com/2026/04/24/entertainment/ke-yi-zheng-car-case-ending/",
-      "source": "singtaousa.com",
-      "published": 1777075200
-    },
-    {
-      "id": "58bfa64641e0",
-      "title": "美國最古老中餐館 營業115年後永久結業",
-      "url": "https://www.singtaousa.com/2026/04/24/news/usa/americas-oldest-chinese-restaurant-announces-permanent-closure-after-115-years-in-business/",
-      "source": "singtaousa.com",
-      "published": 1777075003
-    },
-    {
-      "id": "44f35190403b",
-      "title": "巴西總統魯拉皮膚腫瘤切除出院 醫師建議先休養",
-      "url": "https://money.udn.com/money/story/5599/9463472",
-      "source": "money.udn.com",
-      "published": 1777074860
-    },
-    {
-      "id": "82df7c5e77a2",
-      "title": "美伊代表赴巴基斯坦 川普：伊朗將提出滿足美國的方案",
-      "url": "https://money.udn.com/money/story/5599/9463466",
-      "source": "money.udn.com",
-      "published": 1777074581
-    },
-    {
-      "id": "904f7b9b2a0f",
-      "title": "賴總統出訪受阻 德議員：台灣被打壓沈默不該是選項",
-      "url": "https://money.udn.com/money/story/5599/9463462",
-      "source": "money.udn.com",
-      "published": 1777074329
-    },
-    {
-      "id": "3a66c407180b",
-      "title": "加拿大新法生效 數百萬美國人或符合雙重國籍資格",
-      "url": "https://www.singtaousa.com/2026/04/24/news/usa/canadas-new-law-takes-effect-millions-of-americans-may-be-eligible-for-dual-citizenship/",
-      "source": "singtaousa.com",
-      "published": 1777074221
-    },
-    {
-      "id": "94086be80606",
-      "title": "2026置業新格局?高端視野成就非凡 — Mary Mok 專業分析",
-      "url": "https://www.singtaousa.com/2026/04/24/lifestyle/the-new-pattern-of-real-estate-in-2026-high-end-vision-will-achieve-extraordinary-results-professional-analysis-by-mary-mok/",
-      "source": "singtaousa.com",
-      "published": 1777074189
-    },
-    {
-      "id": "c541f5847849",
-      "title": "夫婦在北好萊塢公園遛狗 愛犬誤食冰毒緊急送醫",
-      "url": "https://www.singtaousa.com/2026/04/24/news/usa/couple-takes-dog-for-a-walk-in-north-hollywood-park-dog-accidentally-eats-methamphetamine-and-is-rushed-to-hospital/",
-      "source": "singtaousa.com",
-      "published": 1777073650
-    },
-    {
-      "id": "c7ccbd0e24e3",
-      "title": "美上訴法院裁定特朗普邊境庇護禁令違法",
-      "url": "https://www.singtaousa.com/2026/04/24/news/usa/appeals-court-says-trumps-asylum-ban-at-the-border-is-illegal-agreeing-with-lower-court/",
-      "source": "singtaousa.com",
-      "published": 1777073026
-    },
-    {
       "id": "c100944d1719",
       "title": "法国学者：教宗访非洲展现延续性",
       "url": "https://www.rfi.fr/cn/%E8%A7%86%E9%A2%91/20260424-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E8%A7%86%E9%A2%91-%E6%A2%B5%E8%92%82%E5%86%88%E6%95%99%E5%AE%97%E8%AE%BF%E9%97%AE%E9%9D%9E%E6%B4%B2%E5%B1%95%E7%8E%B0%E5%BB%B6%E7%BB%AD%E6%80%A7-1",
@@ -149,39 +233,11 @@
       "published": 1777072412
     },
     {
-      "id": "b131ef8f95d0",
-      "title": "黎巴嫩南部戰火未歇 以軍擊斃6名真主黨成員",
-      "url": "https://money.udn.com/money/story/5599/9463441",
-      "source": "money.udn.com",
-      "published": 1777070180
-    },
-    {
-      "id": "857a766cea65",
-      "title": "美伊重現合談契機 西德州中級原油價跌",
-      "url": "https://money.udn.com/money/story/5599/9463438",
-      "source": "money.udn.com",
-      "published": 1777069273
-    },
-    {
-      "id": "df89f3f13aa7",
-      "title": "【專家之眼】從兄弟之邦到戰略斷裂：美加關係的歷史轉向",
-      "url": "https://money.udn.com/money/story/5599/9463435",
-      "source": "money.udn.com",
-      "published": 1777069062
-    },
-    {
       "id": "6517791746da",
       "title": "英美十国警告：与中国有关的网络恶意行为",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260424-%E8%8B%B1%E7%BE%8E%E5%8D%81%E5%9B%BD%E8%AD%A6%E5%91%8A-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%85%B3%E7%9A%84%E7%BD%91%E7%BB%9C%E6%81%B6%E6%84%8F%E8%A1%8C%E4%B8%BA",
       "source": "rfi.fr",
       "published": 1777066924
-    },
-    {
-      "id": "37c541e6f1fb",
-      "title": "美伊局勢現轉圜契機 那指和標普指數創高",
-      "url": "https://money.udn.com/money/story/123398/9463389",
-      "source": "money.udn.com",
-      "published": 1777065676
     },
     {
       "id": "269f23e7c676",
@@ -268,67 +324,11 @@
       "published": 1777060602
     },
     {
-      "id": "1c14f5246299",
-      "title": "白宮：川普特使和女婿將訪巴基斯坦 和伊朗舉行會談",
-      "url": "https://money.udn.com/money/story/5599/9463359",
-      "source": "money.udn.com",
-      "published": 1777059028
-    },
-    {
-      "id": "706545889b47",
-      "title": "美方代表團25日上午前往巴基斯坦 是否與伊朗外長談判眾說紛紜",
-      "url": "https://money.udn.com/money/story/5599/9463353",
-      "source": "money.udn.com",
-      "published": 1777057210
-    },
-    {
-      "id": "fff485924857",
-      "title": "德國企業信心下滑 歐股收黑",
-      "url": "https://money.udn.com/money/story/5599/9463342",
-      "source": "money.udn.com",
-      "published": 1777055415
-    },
-    {
       "id": "16cb59759735",
       "title": "梵蒂冈教宗非洲之行利宗教对话",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C/20260424-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C-%E7%AC%AC153%E9%9B%86-%E6%A2%B5%E8%92%82%E5%86%88%E6%95%99%E5%AE%97%E9%9D%9E%E6%B4%B2%E4%B9%8B%E8%A1%8C%E5%88%A9%E5%AE%97%E6%95%99%E5%AF%B9%E8%AF%9D",
       "source": "rfi.fr",
       "published": 1777054138
-    },
-    {
-      "id": "c37612a33320",
-      "title": "魏科夫、庫許納將訪巴基斯坦 美伊互動出現轉圜契機",
-      "url": "https://money.udn.com/money/story/5599/9463329",
-      "source": "money.udn.com",
-      "published": 1777052719
-    },
-    {
-      "id": "3afba11e39b9",
-      "title": "AI 燒錢 科技巨頭爆裁員潮",
-      "url": "https://money.udn.com/money/story/5599/9463199",
-      "source": "money.udn.com",
-      "published": 1777052467
-    },
-    {
-      "id": "359c807e0c6e",
-      "title": "日3月核心 CPI 增長未達標",
-      "url": "https://money.udn.com/money/story/5599/9463202",
-      "source": "money.udn.com",
-      "published": 1777052420
-    },
-    {
-      "id": "7ed248290b56",
-      "title": "加國 AI 新創收購德同業",
-      "url": "https://money.udn.com/money/story/5599/9463204",
-      "source": "money.udn.com",
-      "published": 1777052371
-    },
-    {
-      "id": "a6a7b4624525",
-      "title": "1分鐘看世界／新加坡4月進口俄國燃料油 數量創十年新高",
-      "url": "https://money.udn.com/money/story/5599/9463052",
-      "source": "money.udn.com",
-      "published": 1777052300
     },
     {
       "id": "6363226bf817",
@@ -1339,5 +1339,5 @@
       "published": 1774833120
     }
   ],
-  "build_id": 1777079867
+  "build_id": 1777090253
 }
