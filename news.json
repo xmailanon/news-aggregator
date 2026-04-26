@@ -1,6 +1,34 @@
 {
-  "updated": 1777220967,
+  "updated": 1777223355,
   "items": [
+    {
+      "id": "c2abb1eaf9b1",
+      "title": "晚宴槍嫌住處曝光　南加州華裔市長發聲明反暴力",
+      "url": "https://www.singtaousa.com/2026/04/26/news/usa/news-cole-allen-manifesto-white-house-dinner-shooting-assassin-2/",
+      "source": "singtaousa.com",
+      "published": 1777223410
+    },
+    {
+      "id": "2820923f5b9e",
+      "title": "川普：與普丁和澤倫斯基談話 盼解決俄烏衝突",
+      "url": "https://money.udn.com/money/story/5599/9466008",
+      "source": "money.udn.com",
+      "published": 1777222457
+    },
+    {
+      "id": "efa84da54bc1",
+      "title": "晚宴槍手自封「聯邦友善刺客」 犯案前傳宣言欲除政府官員",
+      "url": "https://www.singtaousa.com/2026/04/26/news/usa/news-cole-allen-manifesto-white-house-dinner-shooting-assassin/",
+      "source": "singtaousa.com",
+      "published": 1777222344
+    },
+    {
+      "id": "55878923f374",
+      "title": "白宮記協晚宴傳槍響　司法部：槍手目標可能含特朗普",
+      "url": "https://www.singtaousa.com/2026/04/26/news/usa/news-trump-call-for-unity-healing-white-house-ballroom-allen-2/",
+      "source": "singtaousa.com",
+      "published": 1777221586
+    },
     {
       "id": "7f8819a04124",
       "title": "特朗普籲團結癒合 第一夫人目睹顯受驚",
@@ -31,7 +59,7 @@
     },
     {
       "id": "0b6d002a12eb",
-      "title": "墨西哥CIA探員墜谷身亡，墨國政府稱其「未獲授權」行動成謎",
+      "title": "墨西哥CIA探員墜車身亡 墨國政府稱未授權行動",
       "url": "https://www.singtaousa.com/2026/04/26/news/world/mexico-says-2-us-federal-agents-who-died-were-not-authorized-to-participate-in-any-local-operation/",
       "source": "singtaousa.com",
       "published": 1777219283
@@ -100,20 +128,6 @@
       "published": 1777215600
     },
     {
-      "id": "396798fe26f6",
-      "title": "山火災區重建職業培訓搶手",
-      "url": "https://www.singtaousa.com/2026/04/26/news/usa/wildfire-reconstruction-training/",
-      "source": "singtaousa.com",
-      "published": 1777215600
-    },
-    {
-      "id": "d6b7fa53aefa",
-      "title": "長洲太平清醮倒數一個月 酒店爆滿商戶備戰 平安包微調售價",
-      "url": "https://www.singtaousa.com/2026/04/26/news/china/cheung-chau-tai-ping-ching-choi-countdown/",
-      "source": "singtaousa.com",
-      "published": 1777215497
-    },
-    {
       "id": "a9955bf9ebd2",
       "title": "白宮記協晚宴遇襲 代理司法部長：槍手目標可能含川普",
       "url": "https://money.udn.com/money/story/5599/9465795",
@@ -140,13 +154,6 @@
       "url": "https://money.udn.com/money/story/5599/9465778",
       "source": "money.udn.com",
       "published": 1777213773
-    },
-    {
-      "id": "a391c3b79ff6",
-      "title": "全港戲院日創入場人次新高 逾20萬觀眾以30元票價支持電影業",
-      "url": "https://www.singtaousa.com/2026/04/26/news/china/cinema-day-record-attendance-hong-kong/",
-      "source": "singtaousa.com",
-      "published": 1777213699
     },
     {
       "id": "731819defe73",
@@ -301,13 +308,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260426-%E6%AC%A7%E7%9B%9F%E7%AC%AC20%E8%BD%AE%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%E5%88%97%E5%8D%95%E4%B8%AD%E4%BC%81-%E5%8C%97%E4%BA%AC-%E4%BF%83%E7%AB%8B%E5%8D%B3%E7%A7%BB%E5%87%BA%E5%88%B6%E8%A3%81%E6%B8%85%E5%8D%95%EF%BC%8C%E4%B8%80%E5%88%87%E5%90%8E%E6%9E%9C%E7%94%B1%E6%AC%A7%E6%96%B9%E6%89%BF%E6%8B%85",
       "source": "rfi.fr",
       "published": 1777198543
-    },
-    {
-      "id": "4778b6952e2c",
-      "title": "伊朗戰爭添亂 杜拜巧克力最需要的開心果價格飆漲到八年來最高",
-      "url": "https://money.udn.com/money/story/5599/9465480",
-      "source": "money.udn.com",
-      "published": 1777198371
     },
     {
       "id": "be936b60ec94",
@@ -1339,5 +1339,5 @@
       "published": 1774833120
     }
   ],
-  "build_id": 1777220967
+  "build_id": 1777223355
 }
