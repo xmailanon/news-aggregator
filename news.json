@@ -1,6 +1,27 @@
 {
-  "updated": 1777233602,
+  "updated": 1777236056,
   "items": [
+    {
+      "id": "c88877306ddf",
+      "title": "白宫记者晚宴爆枪击惊魂 国会批安全失灵",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260426-%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E7%88%86%E6%9E%AA%E5%87%BB%E6%83%8A%E9%AD%82-%E5%9B%BD%E4%BC%9A%E6%89%B9%E5%AE%89%E5%85%A8%E5%A4%B1%E7%81%B5",
+      "source": "rfi.fr",
+      "published": 1777235730
+    },
+    {
+      "id": "d3821eda528a",
+      "title": "房協推「交付三寶」助業主驗樓 粉嶺樂嶺軒引入第三方測量師檢驗",
+      "url": "https://www.singtaousa.com/2026/04/26/news/china/housing-society-third-party-inspection-tutorial-video/",
+      "source": "singtaousa.com",
+      "published": 1777235301
+    },
+    {
+      "id": "e964b09a1f86",
+      "title": "返老還童奇幻冒險 家庭羈絆溫情十足",
+      "url": "https://www.singtaousa.com/2026/04/26/entertainment/fantasy-family-bonding/",
+      "source": "singtaousa.com",
+      "published": 1777233600
+    },
     {
       "id": "3116b1c06755",
       "title": "粉嶺繞道（東段）5月3日通車 智慧運輸平台助節省三個月工期",
@@ -126,20 +147,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260426-%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E5%8D%8F%E6%99%9A%E5%AE%B4%E6%9E%AA%E6%89%8B%E5%85%B6%E4%BA%BA%E5%85%B6%E4%BA%8B",
       "source": "rfi.fr",
       "published": 1777225822
-    },
-    {
-      "id": "2c4e6d62f1b0",
-      "title": "加州理工畢業生 獲選「年度教師」槍嫌身份曝光",
-      "url": "https://www.singtaousa.com/2026/04/26/news/usa/news-caltech-grad-teacher-cole-allen-washington-shooting/",
-      "source": "singtaousa.com",
-      "published": 1777225492
-    },
-    {
-      "id": "86a0fa22754e",
-      "title": "槍手趁隙組裝長槍衝進晚宴大廳 更多細節曝光",
-      "url": "https://www.singtaousa.com/2026/04/26/news/usa/news-white-house-dinner-shooting-witness-cole-allen/",
-      "source": "singtaousa.com",
-      "published": 1777224858
     },
     {
       "id": "a931b4d3d419",
@@ -532,13 +539,6 @@
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260425-%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E8%80%83%E8%99%91%E5%87%BA%E8%B5%84%E5%8A%A0%E5%BC%BA%E5%AF%B9%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E8%AE%BE%E6%96%BD%E4%BF%9D%E6%8A%A4",
       "source": "rfi.fr",
       "published": 1777128693
-    },
-    {
-      "id": "9f85d5232988",
-      "title": "印陆军前参谋长：短期内不能忽视巴基斯坦，长远应聚焦中国",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260425-%E5%8D%B0%E9%99%86%E5%86%9B%E5%89%8D%E5%8F%82%E8%B0%8B%E9%95%BF-%E7%9F%AD%E6%9C%9F%E5%86%85%E4%B8%8D%E8%83%BD%E5%BF%BD%E8%A7%86%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%EF%BC%8C%E9%95%BF%E8%BF%9C%E5%BA%94%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD",
-      "source": "rfi.fr",
-      "published": 1777127395
     },
     {
       "id": "babeeef75155",
@@ -1339,5 +1339,5 @@
       "published": 1774833120
     }
   ],
-  "build_id": 1777233602
+  "build_id": 1777236056
 }
