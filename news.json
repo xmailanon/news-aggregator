@@ -1,12 +1,138 @@
 {
-  "updated": 1777633192,
+  "updated": 1777636758,
   "items": [
+    {
+      "id": "fc7aafa846b0",
+      "title": "Performance review最常犯的錯：努力了一整年，卻敗在幾個英文用字",
+      "url": "https://money.udn.com/money/story/5601/9362690",
+      "source": "money.udn.com",
+      "published": 1777636838
+    },
+    {
+      "id": "c6bab1c6f0a5",
+      "title": "澳洲原住民女童遇害引發暴動 總理艾班尼斯呼籲冷靜",
+      "url": "https://money.udn.com/money/story/5599/9476686",
+      "source": "money.udn.com",
+      "published": 1777636824
+    },
+    {
+      "id": "8fc36121236c",
+      "title": "友誼咖啡",
+      "url": "https://www.singtaousa.com/2026/05/01/opinion/friendship-coffee-bangkok/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "d89a770e90cc",
+      "title": "飲食大亨醞釀",
+      "url": "https://www.singtaousa.com/2026/05/01/opinion/food-tycoon-brewing/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "6e5fd107cd37",
+      "title": "小學雞無人機",
+      "url": "https://www.singtaousa.com/2026/05/01/opinion/elementary-drone/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "6f192d35ef56",
+      "title": "今晚捧布浩榮",
+      "url": "https://www.singtaousa.com/2026/05/01/opinion/tonight-support-bu-hao-rong/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "97e9a502fba9",
+      "title": "淚痕留低過",
+      "url": "https://www.singtaousa.com/2026/05/01/opinion/tears-left-behind/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "fafb5c9d49da",
+      "title": "特朗普訪華前夕中美外長通話",
+      "url": "https://www.singtaousa.com/2026/05/01/news/usa/trump-visit-china-us-china-call/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "ea52b3c530a5",
+      "title": "FCC擬全面禁止中國對電子產品認證",
+      "url": "https://www.singtaousa.com/2026/05/01/news/world/fcc-bans-chinese-certification/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "02d9327e033d",
+      "title": "何立峰就經貿限制表達嚴正關切",
+      "url": "https://www.singtaousa.com/2026/05/01/news/world/he-li-ping-economic-concerns/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "d8c1105fae7a",
+      "title": "新主席鷹鴿難辨 減息並非板上釘釘",
+      "url": "https://www.singtaousa.com/2026/05/01/news/world/new-chairman-eagle-dove-rate-cut/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "5e24f9565424",
+      "title": "班克西新雕像亮相倫敦",
+      "url": "https://www.singtaousa.com/2026/05/01/news/world/banksy-statue-london/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "0085423aff87",
+      "title": "國際足聯主席：伊朗將參加世界盃",
+      "url": "https://www.singtaousa.com/2026/05/01/news/world/fifa-president-iran-world-cup/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "c71722b7b34f",
+      "title": "昂山素姬改為家中軟禁",
+      "url": "https://www.singtaousa.com/2026/05/01/news/world/aung-san-suu-kyi-house-arrest/",
+      "source": "singtaousa.com",
+      "published": 1777636800
+    },
+    {
+      "id": "2551e3b164f1",
+      "title": "中國對非洲國家實施零關稅 唯台友邦史瓦帝尼遭排除",
+      "url": "https://money.udn.com/money/story/5599/9476663",
+      "source": "money.udn.com",
+      "published": 1777634480
+    },
+    {
+      "id": "c5f4709bfce3",
+      "title": "調查：生活成本上升 300萬戶英國家庭一天省吃一餐",
+      "url": "https://money.udn.com/money/story/5599/9476654",
+      "source": "money.udn.com",
+      "published": 1777633944
+    },
     {
       "id": "94f6f7e4cafb",
       "title": "五一：当全球劳动者不愿再为战争承担代价",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260501-%E4%BA%94%E4%B8%80-%E5%BD%93%E5%85%A8%E7%90%83%E5%8A%B3%E5%8A%A8%E8%80%85%E4%B8%8D%E6%84%BF%E5%86%8D%E4%B8%BA%E6%88%98%E4%BA%89%E6%89%BF%E6%8B%85%E4%BB%A3%E4%BB%B7",
       "source": "rfi.fr",
       "published": 1777632976
+    },
+    {
+      "id": "82689a6f1f13",
+      "title": "高市啟程出訪 將在越南闡述進化版「自由開放印太」",
+      "url": "https://money.udn.com/money/story/5599/9476641",
+      "source": "money.udn.com",
+      "published": 1777632857
+    },
+    {
+      "id": "4d88555e49ca",
+      "title": "日本陸上總隊演習首聚焦鄰近台灣島嶼 將與美陸戰隊聯訓",
+      "url": "https://money.udn.com/money/story/5599/9476638",
+      "source": "money.udn.com",
+      "published": 1777632326
     },
     {
       "id": "0e242a8e4651",
@@ -56,90 +182,6 @@
       "url": "https://money.udn.com/money/story/5599/9476568",
       "source": "money.udn.com",
       "published": 1777629620
-    },
-    {
-      "id": "5116a7bc7464",
-      "title": "洛縣發出600萬張選票 6月初選郵寄投票正式啟動",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/los-angeles-county-ballots-mail/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "c092d0ad39ff",
-      "title": "帕沙迪納學校爆發百日咳疫情",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/pasadena-school-pertussis-outbreak/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "996b798710a2",
-      "title": "中國電動車「借道」墨西哥進入加州",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/china-ev-mexico-california/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "9238a75d8b0e",
-      "title": "WeTrust Realty年度盛會 凝聚「相信的力量」共創共贏共未來",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/wetrust-realty-annual-meeting/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "29986f115bb7",
-      "title": "羅省中華會館選拔模範雙親 傑出領袖同獲表彰",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/los-angeles-chinese-association-awards/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "a9ae9072e473",
-      "title": "社區就科伊爾街新建項目上訴",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/coyle-street-community-appeal/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "3444e397d8df",
-      "title": "聯航飛行員稱 聖地牙哥上空遭無人機襲擊",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/united-airlines-drone-incident/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "17a34b36e277",
-      "title": "亞裔聯邦官員協會 頒莫虎終身成就獎",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/asian-federal-officials-award-mo/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "1432bc2b30b6",
-      "title": "陳學理鄭永佳與拯救南布碌崙聯盟等   2日舉行第二場心理健康講座",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/chen-xue-li-zheng-yong-jia-mental-health/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "2849af523129",
-      "title": "兩成美國成人稱華人是威脅",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/americans-view-chinese-threat/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "ea19809c797b",
-      "title": "綠線地鐵   再生暴力劫案",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/subway-violent-robbery/",
-      "source": "singtaousa.com",
-      "published": 1777629600
-    },
-    {
-      "id": "e68785043401",
-      "title": "A Place for Kids慈善麻將籌款活動 表彰華裔教育工作者社區先驅葉艷華",
-      "url": "https://www.singtaousa.com/2026/05/01/news/usa/a-place-for-kids-mahjong-fundraiser/",
-      "source": "singtaousa.com",
-      "published": 1777629600
     },
     {
       "id": "0c7dfd4479f7",
@@ -254,53 +296,11 @@
       "published": 1777624585
     },
     {
-      "id": "dd8d40370460",
-      "title": "摩根大通女主管遭控「權勢性侵」男同事 內部調查揭案情不單純",
-      "url": "https://money.udn.com/money/story/5599/9476463",
-      "source": "money.udn.com",
-      "published": 1777624077
-    },
-    {
-      "id": "d9df684858fa",
-      "title": "金價漲勢告終？德銀：未來5年金價翻倍寄望於這些買家",
-      "url": "https://money.udn.com/money/story/5599/9476460",
-      "source": "money.udn.com",
-      "published": 1777623910
-    },
-    {
-      "id": "8b20f23b7f57",
-      "title": "新加坡私銀中國客源增 專家指避風港效應監管並行",
-      "url": "https://money.udn.com/money/story/5599/9476446",
-      "source": "money.udn.com",
-      "published": 1777623137
-    },
-    {
-      "id": "7081759b8eed",
-      "title": "韓4月晶片外銷大增174% 整體出口維持強勁成長",
-      "url": "https://money.udn.com/money/story/5599/9476444",
-      "source": "money.udn.com",
-      "published": 1777623119
-    },
-    {
-      "id": "518422ecad17",
-      "title": "韓國4月出口繼續強勁成長 AI 算力基建熱潮提振晶片需求",
-      "url": "https://money.udn.com/money/story/5599/9476066",
-      "source": "money.udn.com",
-      "published": 1777622215
-    },
-    {
       "id": "48720eded2ab",
       "title": "AI科技如何協助「無精症」男性 解決不孕症",
       "url": "https://www.bbc.com/zhongwen/articles/c5yx3y0zgggo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1777622212
-    },
-    {
-      "id": "866dd60ac495",
-      "title": "標普考慮修改規則 或加快 SpaceX 等被納入標普500指數的進程",
-      "url": "https://money.udn.com/money/story/123398/9476324",
-      "source": "money.udn.com",
-      "published": 1777621890
     },
     {
       "id": "0ad3973563f7",
@@ -814,13 +814,6 @@
       "published": 1777463820
     },
     {
-      "id": "488ab1cc343c",
-      "title": "台湾海巡官员登南海争议岛礁——太平岛、中洲礁",
-      "url": "https://www.dw.com/zh/台湾海巡官员登南海争议岛礁-太平岛、中洲礁/a-76979408?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1777460280
-    },
-    {
       "id": "5b41618fab56",
       "title": "美国新版护照将印特朗普大头像",
       "url": "https://www.dw.com/zh/美国新版护照将印特朗普大头像/a-76976909?maca=chi-rss-chi-news-3224-rdf",
@@ -1318,5 +1311,5 @@
       "published": 1775212386
     }
   ],
-  "build_id": 1777633192
+  "build_id": 1777636758
 }
