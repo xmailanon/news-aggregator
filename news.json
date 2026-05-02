@@ -1,6 +1,41 @@
 {
-  "updated": 1777750247,
+  "updated": 1777753774,
   "items": [
+    {
+      "id": "85531ae23766",
+      "title": "北欧-波罗的海8国外长会续挺乌克兰",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260502-%E5%8C%97%E6%AC%A7-%E6%B3%A2%E7%BD%97%E7%9A%84%E6%B5%B78%E5%9B%BD%E5%A4%96%E9%95%BF%E4%BC%9A%E7%BB%AD%E6%8C%BA%E4%B9%8C%E5%85%8B%E5%85%B0",
+      "source": "rfi.fr",
+      "published": 1777753638
+    },
+    {
+      "id": "0f47c39be610",
+      "title": "香港海關機場偵破販毒案 兩名曼谷抵港旅客行李藏12公斤大麻花",
+      "url": "https://www.singtaousa.com/2026/05/02/news/china/customs-arrests-thai-travelers-drugs-cigarettes/",
+      "source": "singtaousa.com",
+      "published": 1777752941
+    },
+    {
+      "id": "b10a8c84ad75",
+      "title": "金靖瘦身見成效 氣質大變判若兩人",
+      "url": "https://www.singtaousa.com/2026/05/02/entertainment/jin-jing-weight-loss-transformation/",
+      "source": "singtaousa.com",
+      "published": 1777752000
+    },
+    {
+      "id": "53685d324d2e",
+      "title": "五一黃金周蜜雪冰城限定雪糕熱賣 遊客排隊五小時打卡",
+      "url": "https://www.singtaousa.com/2026/05/02/news/china/mixue-ice-cream-queues-five-hours/",
+      "source": "singtaousa.com",
+      "published": 1777751143
+    },
+    {
+      "id": "deec71c34132",
+      "title": "川普不滿德黑蘭提案 伊朗高階軍官稱戰火恐再起",
+      "url": "https://money.udn.com/money/story/5599/9478310",
+      "source": "money.udn.com",
+      "published": 1777750580
+    },
     {
       "id": "fce35c910742",
       "title": "最新民调显示乌克兰人对美国和欧洲的信任期望值有不同程度降低",
@@ -42,6 +77,13 @@
       "url": "https://www.singtaousa.com/2026/05/02/news/china/china-may-day-travel-surge/",
       "source": "singtaousa.com",
       "published": 1777747543
+    },
+    {
+      "id": "ad9a0244f08c",
+      "title": "美股攻頂 本周聚焦就業 專家：勞動市場強韌將有助紓解市場疑慮",
+      "url": "https://money.udn.com/money/story/123398/9478191",
+      "source": "money.udn.com",
+      "published": 1777747372
     },
     {
       "id": "b568ac530709",
@@ -149,27 +191,6 @@
       "published": 1777741200
     },
     {
-      "id": "e10d678fc5cf",
-      "title": "墨西哥州長涉毒遭美起訴後宣布請辭",
-      "url": "https://www.singtaousa.com/2026/05/02/news/world/governor-of-mexicos-sinaloa-indicted-in-us-drugs-investigation-says-he-will-step-down/",
-      "source": "singtaousa.com",
-      "published": 1777740976
-    },
-    {
-      "id": "2326d52302aa",
-      "title": "北卡羅來納州農場派對爆發大規模傷亡",
-      "url": "https://www.singtaousa.com/2026/05/02/news/usa/party-ends-in-mass-casualty-incident-at-equestrian-farm-in-iredell-county-deputies-say/",
-      "source": "singtaousa.com",
-      "published": 1777739400
-    },
-    {
-      "id": "21efe0038a70",
-      "title": "英國教師課堂飲酒嘔吐 遭無限期停職",
-      "url": "https://www.singtaousa.com/2026/05/02/news/world/teacher-who-told-pupils-this-class-terrifies-me-chugged-gin-from-a-water-bottle-before-vomiting-in-toilet/",
-      "source": "singtaousa.com",
-      "published": 1777739400
-    },
-    {
       "id": "1a10c9e4619a",
       "title": "這檔記憶體股發布亮麗財報「先假摔」又噴上新天價 分析師看旺後市",
       "url": "https://money.udn.com/money/story/123398/9478204",
@@ -240,25 +261,11 @@
       "published": 1777731264
     },
     {
-      "id": "e3c895286b1f",
-      "title": "職場大重塑3／AI 會搶走工作機會？160年前的「蒸汽機理論」給出意外答案",
-      "url": "https://money.udn.com/money/story/122381/9478097",
-      "source": "money.udn.com",
-      "published": 1777731167
-    },
-    {
       "id": "d2ac6dd1b5e6",
       "title": "撤军风波再起，驻德美军基地究竟有多重要？",
       "url": "https://www.dw.com/zh/撤军风波再起，驻德美军基地究竟有多重要？/a-77019686?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1777730460
-    },
-    {
-      "id": "e03da70df229",
-      "title": "法媒揭中國利用梵中協議手段 逼迫天主教地下教會",
-      "url": "https://money.udn.com/money/story/5599/9478084",
-      "source": "money.udn.com",
-      "published": 1777730074
     },
     {
       "id": "cfd4b18a1dcc",
@@ -504,13 +511,6 @@
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260501-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E4%B9%8D%E5%BE%97%E6%B4%BE%E5%85%B5%E5%8F%82%E5%8A%A0%E6%B5%B7%E5%9C%B0%E6%89%93%E5%87%BB%E9%BB%91%E5%B8%AE",
       "source": "rfi.fr",
       "published": 1777656978
-    },
-    {
-      "id": "4be50432be76",
-      "title": "昂山素季：与军政权数十年的博弈与较量",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260501-%E6%98%82%E5%B1%B1%E7%B4%A0%E5%AD%A3-%E4%B8%8E%E5%86%9B%E6%94%BF%E6%9D%83%E6%95%B0%E5%8D%81%E5%B9%B4%E7%9A%84%E5%8D%9A%E5%BC%88%E4%B8%8E%E8%BE%83%E9%87%8F",
-      "source": "rfi.fr",
-      "published": 1777655948
     },
     {
       "id": "18da79d02ac2",
@@ -1311,5 +1311,5 @@
       "published": 1775212386
     }
   ],
-  "build_id": 1777750247
+  "build_id": 1777753774
 }
