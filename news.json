@@ -1,6 +1,90 @@
 {
-  "updated": 1777730606,
+  "updated": 1777734509,
   "items": [
+    {
+      "id": "c901d34574d4",
+      "title": "古仔有望再出新歌 李靄璣重拾老本行",
+      "url": "https://www.singtaousa.com/2026/05/02/entertainment/gu-tian-le-new-song/",
+      "source": "singtaousa.com",
+      "published": 1777734000
+    },
+    {
+      "id": "4cc3ad3275cb",
+      "title": "“自由开放的印度-太平洋”愿景十周年 高市在河内发表外交政策演讲",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260502-%E8%87%AA%E7%94%B1%E5%BC%80%E6%94%BE%E7%9A%84%E5%8D%B0%E5%BA%A6-%E5%A4%AA%E5%B9%B3%E6%B4%8B-%E6%84%BF%E6%99%AF10%E5%91%A8%E5%B9%B4-%E9%AB%98%E5%B8%82%E5%9C%A8%E6%B2%B3%E5%86%85%E5%8F%91%E8%A1%A8%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E6%BC%94%E8%AE%B2",
+      "source": "rfi.fr",
+      "published": 1777733955
+    },
+    {
+      "id": "95b3b95c83ea",
+      "title": "五一黃金周訪港內地團逾800個 旅監局巡查確保秩序良好",
+      "url": "https://www.singtaousa.com/2026/05/02/news/china/labour-day-golden-week-800-tours-hong-kong/",
+      "source": "singtaousa.com",
+      "published": 1777733140
+    },
+    {
+      "id": "f36e77acd7b0",
+      "title": "能源危機罩頂 相對 OPEC 成立一個石油買方聯盟會如何？",
+      "url": "https://money.udn.com/money/story/5599/9478111",
+      "source": "money.udn.com",
+      "published": 1777732125
+    },
+    {
+      "id": "23b37b58bcf2",
+      "title": "川普裁減德國駐軍 路透整理駐歐洲美軍現況一覽",
+      "url": "https://money.udn.com/money/story/5599/9478109",
+      "source": "money.udn.com",
+      "published": 1777731677
+    },
+    {
+      "id": "56f3c86e3a3b",
+      "title": "一波三折 赖清德飞抵非洲盟友国",
+      "url": "https://www.dw.com/zh/一波三折-赖清德飞抵非洲盟友国/a-77019735?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1777731660
+    },
+    {
+      "id": "272b035d691f",
+      "title": "別再盲從「5月賣股走人」那套了！但今年夏季有理由獲利了結",
+      "url": "https://money.udn.com/money/story/123398/9478105",
+      "source": "money.udn.com",
+      "published": 1777731546
+    },
+    {
+      "id": "802d8e0ee509",
+      "title": "六合彩今晚攪珠 頭獎彩金2.28億創紀錄 投注額暫列歷來第三高",
+      "url": "https://www.singtaousa.com/2026/05/02/news/china/mark-six-jackpot-record-betting-turnover/",
+      "source": "singtaousa.com",
+      "published": 1777731340
+    },
+    {
+      "id": "eaa0d3b528fd",
+      "title": "職場大重塑1／畢業即失業？求職補習風興起 家長砸數十萬幫兒女聘職涯教練",
+      "url": "https://money.udn.com/money/story/122381/9478100",
+      "source": "money.udn.com",
+      "published": 1777731339
+    },
+    {
+      "id": "4e7f98cdf2b7",
+      "title": "職場大重塑2／出錯茲事體大！看準 AI 無法「受信賴」 白領產業劃下一道護城河",
+      "url": "https://money.udn.com/money/story/122381/9478098",
+      "source": "money.udn.com",
+      "published": 1777731264
+    },
+    {
+      "id": "e3c895286b1f",
+      "title": "職場大重塑3／AI 會搶走工作機會？160年前的「蒸汽機理論」給出意外答案",
+      "url": "https://money.udn.com/money/story/122381/9478097",
+      "source": "money.udn.com",
+      "published": 1777731167
+    },
+    {
+      "id": "d2ac6dd1b5e6",
+      "title": "撤军风波再起，驻德美军基地究竟有多重要？",
+      "url": "https://www.dw.com/zh/撤军风波再起，驻德美军基地究竟有多重要？/a-77019686?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1777730460
+    },
     {
       "id": "1ed5427d73fb",
       "title": "東部第一起死回生",
@@ -65,25 +149,18 @@
       "published": 1777730400
     },
     {
-      "id": "15986f06dc45",
-      "title": "羈押死亡今年已18例   眾議員聯名質問ICE",
-      "url": "https://www.singtaousa.com/2026/05/02/news/usa/deaths-in-detention-ice-congress/",
-      "source": "singtaousa.com",
-      "published": 1777730400
+      "id": "e03da70df229",
+      "title": "法媒揭中國利用梵中協議手段 逼迫天主教地下教會",
+      "url": "https://money.udn.com/money/story/5599/9478084",
+      "source": "money.udn.com",
+      "published": 1777730074
     },
     {
-      "id": "09ef13257130",
-      "title": "中國學生多地拍軍機被控 法官指有潛逃風險續羈押",
-      "url": "https://www.singtaousa.com/2026/05/02/news/usa/china-student-photographs-military/",
-      "source": "singtaousa.com",
-      "published": 1777730400
-    },
-    {
-      "id": "c9604c063c1f",
-      "title": "CMS公開資料庫出錯 部分醫護社安號外洩",
-      "url": "https://www.singtaousa.com/2026/05/02/news/usa/cms-data-leak-social-security/",
-      "source": "singtaousa.com",
-      "published": 1777730400
+      "id": "141ef3076145",
+      "title": "美菲肩並肩軍演 在巴丹群島部署NMESIS反艦飛彈系統",
+      "url": "https://money.udn.com/money/story/5599/9478083",
+      "source": "money.udn.com",
+      "published": 1777730059
     },
     {
       "id": "cfd4b18a1dcc",
@@ -107,16 +184,16 @@
       "published": 1777728626
     },
     {
-      "id": "b7da36f26736",
-      "title": "特朗普：将欧盟汽车关税提高至25%",
-      "url": "https://www.dw.com/zh/特朗普：将欧盟汽车关税提高至25/a-77018965?maca=chi-rss-chi-all-1127-rdf",
+      "id": "c4be4af2c97d",
+      "title": "AI代替人类员工?中国法院裁定系违法裁员",
+      "url": "https://www.dw.com/zh/ai代替人类员工-中国法院裁定系违法裁员/a-77018953?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1777727940
     },
     {
-      "id": "c4be4af2c97d",
-      "title": "AI代替人类员工?中国法院裁定系违法裁员",
-      "url": "https://www.dw.com/zh/ai代替人类员工-中国法院裁定系违法裁员/a-77018953?maca=chi-rss-chi-all-1127-rdf",
+      "id": "b7da36f26736",
+      "title": "特朗普：将欧盟汽车关税提高至25%",
+      "url": "https://www.dw.com/zh/特朗普：将欧盟汽车关税提高至25/a-77018965?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1777727940
     },
@@ -198,16 +275,16 @@
       "published": 1777718180
     },
     {
-      "id": "e51c19657d35",
-      "title": "美国警告航运公司：支付伊朗“过路费”或遭制裁",
-      "url": "https://www.dw.com/zh/美国警告航运公司：支付伊朗-过路费-或遭制裁/a-77018362?maca=chi-rss-chi-all-1127-rdf",
+      "id": "621b8be49684",
+      "title": "长平观察：查尔斯为特朗普上语言课，为何不是“背书单”？",
+      "url": "https://www.dw.com/zh/长平观察：查尔斯为特朗普上语言课，为何不是-背书单-？/a-77017836?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1777718100
     },
     {
-      "id": "621b8be49684",
-      "title": "长平观察：查尔斯为特朗普上语言课，为何不是“背书单”？",
-      "url": "https://www.dw.com/zh/长平观察：查尔斯为特朗普上语言课，为何不是-背书单-？/a-77017836?maca=chi-rss-chi-all-1127-rdf",
+      "id": "e51c19657d35",
+      "title": "美国警告航运公司：支付伊朗“过路费”或遭制裁",
+      "url": "https://www.dw.com/zh/美国警告航运公司：支付伊朗-过路费-或遭制裁/a-77018362?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1777718100
     },
@@ -233,27 +310,6 @@
       "published": 1777716509
     },
     {
-      "id": "c30329e20ca6",
-      "title": "德防長不意外美減駐軍 德國將打造為歐洲最強武力",
-      "url": "https://money.udn.com/money/story/5599/9477892",
-      "source": "money.udn.com",
-      "published": 1777716421
-    },
-    {
-      "id": "f81b9f2b54bb",
-      "title": "日相發表外交新方針 3大領域推進化版印太願景",
-      "url": "https://money.udn.com/money/story/5599/9477884",
-      "source": "money.udn.com",
-      "published": 1777716046
-    },
-    {
-      "id": "5668b9eea0e1",
-      "title": "真的要當海賊王！川普坦承美軍扣押伊朗船隻過程像海盜 大賺一票",
-      "url": "https://money.udn.com/money/story/5599/9477881",
-      "source": "money.udn.com",
-      "published": 1777715937
-    },
-    {
       "id": "d3808a9890c6",
       "title": "大众首季利润骤降 拟靠军工与“中国车”脱困",
       "url": "https://www.dw.com/zh/大众首季利润骤降-拟靠军工与-中国车-脱困/a-77012442?maca=chi-rss-chi-all-1127-rdf",
@@ -268,25 +324,11 @@
       "published": 1777715280
     },
     {
-      "id": "648fe47c41f1",
-      "title": "NB8指俄羅斯仍是主要安全威脅 籲國際支持烏克蘭",
-      "url": "https://money.udn.com/money/story/5599/9477871",
-      "source": "money.udn.com",
-      "published": 1777715118
-    },
-    {
       "id": "adf852434794",
       "title": "因涉间谍罪回国时被判囚的旅日学者袁克勤获释",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260502-%E5%9B%A0%E6%B6%89%E5%AB%8C%E9%97%B4%E8%B0%8D%E7%BD%AA%E5%9B%9E%E5%9B%BD%E6%97%B6%E8%A2%AB%E5%88%A4%E5%9B%9A%E7%9A%84%E6%97%85%E6%97%A5%E5%AD%A6%E8%80%85%E8%A2%81%E5%85%8B%E5%8B%A4%E8%8E%B7%E9%87%8A",
       "source": "rfi.fr",
       "published": 1777714411
-    },
-    {
-      "id": "0455c563d65d",
-      "title": "伊朗諾貝爾和平獎得主穆哈瑪迪傳獄中健康惡化急送醫",
-      "url": "https://money.udn.com/money/story/5599/9477860",
-      "source": "money.udn.com",
-      "published": 1777714227
     },
     {
       "id": "a9fca84c7e98",
@@ -296,32 +338,11 @@
       "published": 1777714046
     },
     {
-      "id": "aa4a010726fd",
-      "title": "美國防部為擴大運用 AI 和輝達、微軟簽約 欲設限的 Anthropic 出局",
-      "url": "https://money.udn.com/money/story/5599/9477856",
-      "source": "money.udn.com",
-      "published": 1777713492
-    },
-    {
-      "id": "b9875cead45c",
-      "title": "鐵達尼號百件沉船文物布拉格展出 重現傳奇悲劇故事",
-      "url": "https://money.udn.com/money/story/5599/9477839",
-      "source": "money.udn.com",
-      "published": 1777712948
-    },
-    {
       "id": "d92a09e783cf",
       "title": "美经济狂怒行动继续打击伊中石油贸易 制裁码头运营商、外汇兑换机构",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260502-%E7%BE%8E%E7%BB%8F%E6%B5%8E%E7%8B%82%E6%80%92%E8%A1%8C%E5%8A%A8%E7%BB%A7%E7%BB%AD%E6%89%93%E5%87%BB%E4%BC%8A%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%B4%B8%E6%98%93-%E5%88%B6%E8%A3%81%E7%9F%B3%E6%B2%B9%E7%A0%81%E5%A4%B4%E8%BF%90%E8%90%A5%E5%95%86-%E5%A4%96%E6%B1%87%E5%85%91%E6%8D%A2%E6%9C%BA%E6%9E%84",
       "source": "rfi.fr",
       "published": 1777712569
-    },
-    {
-      "id": "0cac99d4543c",
-      "title": "赫爾辛基五一瓦普節 跨世代數萬民眾歡慶春天降臨",
-      "url": "https://money.udn.com/money/story/5599/9477838",
-      "source": "money.udn.com",
-      "published": 1777712454
     },
     {
       "id": "9a61120c3185",
@@ -527,13 +548,6 @@
       "published": 1777645500
     },
     {
-      "id": "b8a13a04cadd",
-      "title": "中美巴拿马运河争端 穆利诺总统叫苦不迭",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260501-%E4%B8%AD%E7%BE%8E%E5%B7%B4%E6%8B%BF%E9%A9%AC%E8%BF%90%E6%B2%B3%E4%BA%89%E7%AB%AF-%E7%A9%86%E5%88%A9%E8%AF%BA%E6%80%BB%E7%BB%9F%E5%8F%AB%E8%8B%A6%E4%B8%8D%E8%BF%AD",
-      "source": "rfi.fr",
-      "published": 1777644480
-    },
-    {
       "id": "31264684fa3d",
       "title": "日本放宽出口禁令 乌克兰拟寻求军事合作",
       "url": "https://www.dw.com/zh/日本放宽出口禁令-乌克兰拟寻求军事合作/a-77012770?maca=chi-rss-chi-all-1127-rdf",
@@ -630,20 +644,6 @@
       "url": "https://www.dw.com/zh/德语媒体：中国辜负了马克思/a-77001672?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1777559100
-    },
-    {
-      "id": "18ed1432a17b",
-      "title": "巴基斯坦海军将获得中国先进潜艇",
-      "url": "https://www.dw.com/zh/巴基斯坦海军将获得中国先进潜艇/a-77000595?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1777557660
-    },
-    {
-      "id": "cfa315e9ea4d",
-      "title": "没有武器秀-俄胜利日阅兵“瘦身” 泽连斯基质疑俄停火说法",
-      "url": "https://www.dw.com/zh/没有武器秀-俄胜利日阅兵-瘦身-泽连斯基质疑俄停火说法/a-77000223?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1777555080
     },
     {
       "id": "11b304f42335",
@@ -1325,5 +1325,5 @@
       "published": 1775212386
     }
   ],
-  "build_id": 1777730606
+  "build_id": 1777734509
 }
