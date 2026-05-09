@@ -1,6 +1,41 @@
 {
-  "updated": 1778362343,
+  "updated": 1778365872,
   "items": [
+    {
+      "id": "25dad57a86dd",
+      "title": "美媒：以色列戰前在伊拉克設秘密基地　美國知情",
+      "url": "https://money.udn.com/money/story/5599/9492958",
+      "source": "money.udn.com",
+      "published": 1778364406
+    },
+    {
+      "id": "32632e521281",
+      "title": "丹佛機場邊疆客機起飛撞人 引擎起火緊急疏散",
+      "url": "https://www.singtaousa.com/2026/05/09/news/usa/frontier-airlines-jet-bound-for-lax-hits-person-on-runway-in-denver-aviation-source-tells-abc-news/",
+      "source": "singtaousa.com",
+      "published": 1778364000
+    },
+    {
+      "id": "1cd85754329c",
+      "title": "7月起演舞台劇 田中圭停工一年復出",
+      "url": "https://www.singtaousa.com/2026/05/09/entertainment/tanaka-kei-stage-play-comeback/",
+      "source": "singtaousa.com",
+      "published": 1778364000
+    },
+    {
+      "id": "0092533465d6",
+      "title": "漢他病毒郵輪即將抵達西班牙特內里費島",
+      "url": "https://www.singtaousa.com/2026/05/09/news/world/who-head-reassures-spanish-island-s-residents-before-hantavirus-ship-arrives-this-is-not-another-covid/",
+      "source": "singtaousa.com",
+      "published": 1778363479
+    },
+    {
+      "id": "f5b0f7ccbe5e",
+      "title": "英外交部召見中國大使　表明不容忍主權侵犯行為",
+      "url": "https://money.udn.com/money/story/5599/9492934",
+      "source": "money.udn.com",
+      "published": 1778362580
+    },
     {
       "id": "625024389c37",
       "title": "英国向中东部署“龙”号驱逐舰 准备参与多国护航行动",
@@ -156,20 +191,6 @@
       "published": 1778353200
     },
     {
-      "id": "e34291c6cdbb",
-      "title": "金球獎公布新規範 未全面禁AI",
-      "url": "https://www.singtaousa.com/2026/05/09/entertainment/golden-globes-ai-guidelines/",
-      "source": "singtaousa.com",
-      "published": 1778353200
-    },
-    {
-      "id": "37bdf10416f6",
-      "title": "明星飯堂揭秘：張曼玉、李玟至愛煀乳鴿 波波行仔訪九龍城蔡瀾菜館",
-      "url": "https://www.singtaousa.com/2026/05/09/entertainment/bobo-mui-yuet-coco-favorite-pigeon/",
-      "source": "singtaousa.com",
-      "published": 1778353143
-    },
-    {
       "id": "ddf6d9dcda62",
       "title": "英特爾翻身股價狂飆386% 執行長陳立武做對了什麼",
       "url": "https://money.udn.com/money/story/123398/9492849",
@@ -210,13 +231,6 @@
       "url": "https://money.udn.com/money/story/5599/9492780",
       "source": "money.udn.com",
       "published": 1778350861
-    },
-    {
-      "id": "58db24ed290d",
-      "title": "《一口入魂 餃香滿溢》",
-      "url": "https://www.singtaousa.com/2026/05/09/lifestyle/youll-be-soul-stirring-in-one-bite-the-dumplings-are-filled-with-fragrance/",
-      "source": "singtaousa.com",
-      "published": 1778350838
     },
     {
       "id": "e7def1455bcc",
@@ -287,20 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9492719",
       "source": "money.udn.com",
       "published": 1778337023
-    },
-    {
-      "id": "d63590976a6f",
-      "title": "大賣空貝瑞：現在像達康泡沫爆破前夕 但看好「這檔股票」年化15%報酬",
-      "url": "https://money.udn.com/money/story/123398/9492716",
-      "source": "money.udn.com",
-      "published": 1778336543
-    },
-    {
-      "id": "b3531aaaa460",
-      "title": "爆漢他病毒疫情郵輪將抵西班牙島嶼　世衛秘書長重申風險低",
-      "url": "https://money.udn.com/money/story/5599/9492715",
-      "source": "money.udn.com",
-      "published": 1778336482
     },
     {
       "id": "41cb0717e82d",
@@ -1297,5 +1297,5 @@
       "published": 1775806013
     }
   ],
-  "build_id": 1778362343
+  "build_id": 1778365872
 }
