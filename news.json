@@ -1,6 +1,20 @@
 {
-  "updated": 1778340438,
+  "updated": 1778343156,
   "items": [
+    {
+      "id": "cb38bc08d7c9",
+      "title": "Candy否認 配對環節抄考《女神》",
+      "url": "https://www.singtaousa.com/2026/05/09/entertainment/candy-denies-collision-with-goddess/",
+      "source": "singtaousa.com",
+      "published": 1778342400
+    },
+    {
+      "id": "832128986985",
+      "title": "澳洲学者张越：中美AI竞争可能会走上分道扬镳的两个路径",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%85%AC%E6%B0%91%E8%AE%BA%E5%9D%9B/20260509-%E6%BE%B3%E6%B4%B2%E5%AD%A6%E8%80%85%E5%BC%A0%E8%B6%8A-%E4%B8%AD%E7%BE%8Eai%E7%AB%9E%E4%BA%89%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%B5%B0%E4%B8%8A%E5%88%86%E9%81%93%E6%89%AC%E9%95%B3%E7%9A%84%E4%B8%A4%E4%B8%AA%E8%B7%AF%E5%BE%84",
+      "source": "rfi.fr",
+      "published": 1778342213
+    },
     {
       "id": "be720e09d3ab",
       "title": "《IT狗2.0》巴士巡遊 陳瑞輝獲讚暖心偶像 與粉絲互相打氣",
@@ -145,13 +159,6 @@
       "id": "4905d9c54130",
       "title": "道奇強投史奈爾提前回歸",
       "url": "https://www.singtaousa.com/2026/05/09/news/usa/dodgers-snell-returns/",
-      "source": "singtaousa.com",
-      "published": 1778335200
-    },
-    {
-      "id": "d9b09dda3fb8",
-      "title": "老虎簽回15轟資深內野",
-      "url": "https://www.singtaousa.com/2026/05/09/news/usa/tigers-sign-short-infield/",
       "source": "singtaousa.com",
       "published": 1778335200
     },
@@ -532,13 +539,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260508-%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%A8%E7%90%83%E5%BE%81%E6%94%B610-%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96-%E5%86%8D%E6%AC%A1%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E6%97%A0%E6%95%88",
       "source": "rfi.fr",
       "published": 1778249413
-    },
-    {
-      "id": "08ffbb8fe97b",
-      "title": "非洲专家评中美赞比亚矿业开采之争",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20260508-%E9%9D%9E%E6%B4%B2%E4%B8%93%E5%AE%B6%E8%AF%84%E4%B8%AD%E7%BE%8E%E8%B5%9E%E6%AF%94%E4%BA%9A%E7%9F%BF%E4%B8%9A%E5%BC%80%E9%87%87%E4%B9%8B%E4%BA%89",
-      "source": "rfi.fr",
-      "published": 1778249312
     },
     {
       "id": "962ae50fa2e1",
@@ -1297,5 +1297,5 @@
       "published": 1775806013
     }
   ],
-  "build_id": 1778340438
+  "build_id": 1778343156
 }
