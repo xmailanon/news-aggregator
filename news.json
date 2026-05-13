@@ -1,47 +1,166 @@
 {
-  "updated": 1778688715,
+  "updated": 1778696417,
   "items": [
+    {
+      "id": "81134c9a0510",
+      "title": "特朗普訪華行程展開 團隊抵達北京下榻酒店",
+      "url": "https://www.singtaousa.com/2026/05/13/news/china/trump-visits-china-team-arrives-hotel/",
+      "source": "singtaousa.com",
+      "published": 1778696148
+    },
+    {
+      "id": "507c8344c7a9",
+      "title": "1分鐘看世界／川普10%關稅違法案 上訴法院下令暫緩執行判定",
+      "url": "https://money.udn.com/money/story/5599/9501272",
+      "source": "money.udn.com",
+      "published": 1778695864
+    },
+    {
+      "id": "252159ae3b27",
+      "title": "伊朗战争推动亚洲太阳能销售激增，中国或成最大受益者",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260513-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%8E%A8%E5%8A%A8%E4%BA%9A%E6%B4%B2%E5%A4%AA%E9%98%B3%E8%83%BD%E9%94%80%E5%94%AE%E6%BF%80%E5%A2%9E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%88%96%E6%88%90%E6%9C%80%E5%A4%A7%E5%8F%97%E7%9B%8A%E8%80%85",
+      "source": "rfi.fr",
+      "published": 1778695627
+    },
+    {
+      "id": "3c585aa779a2",
+      "title": "加州聖塔安那男子橋下挖洞遭壓死",
+      "url": "https://www.singtaousa.com/2026/05/13/news/usa/man-crushed-to-death-after-digging-hole-under-santa-ana-bridge/",
+      "source": "singtaousa.com",
+      "published": 1778695508
+    },
+    {
+      "id": "1599a63e838d",
+      "title": "《魔音女團》兩組晉級 俞可程率先殺入8強",
+      "url": "https://www.singtaousa.com/2026/05/13/entertainment/magic-sound-girl-group-advances/",
+      "source": "singtaousa.com",
+      "published": 1778695200
+    },
+    {
+      "id": "1a958e999aa0",
+      "title": "菲律賓參院傳槍響　杜特蒂掃毒大將籲支持者阻逮捕",
+      "url": "https://money.udn.com/money/story/5599/9501487",
+      "source": "money.udn.com",
+      "published": 1778694321
+    },
+    {
+      "id": "992f97abaf8c",
+      "title": "希臘發現烏克蘭無人機 雅典提嚴重抗議",
+      "url": "https://www.singtaousa.com/2026/05/13/news/world/athens-protests-over-explosive-ukrainian-sea-drone-found-in-cave-on-tourist-island/",
+      "source": "singtaousa.com",
+      "published": 1778694266
+    },
+    {
+      "id": "aa8c3e58d61c",
+      "title": "率重量級商界代表團訪華 特朗普盼習近平對美開放",
+      "url": "https://www.singtaousa.com/2026/05/13/news/world/news-trump-china-visit-business-leaders-elon-musk-jensen-huang/",
+      "source": "singtaousa.com",
+      "published": 1778693918
+    },
+    {
+      "id": "e1a6708a3bbb",
+      "title": "川普訪陸 黃仁勳最後一刻上機 輝達 CEO 總算加入企業領袖代表團",
+      "url": "https://money.udn.com/money/story/5599/9501303",
+      "source": "money.udn.com",
+      "published": 1778693888
+    },
+    {
+      "id": "5f8bcf436bbd",
+      "title": "黃仁勳最後一刻登上川普的空軍一號 H200 命運放上談判桌",
+      "url": "https://money.udn.com/money/story/5599/9501304",
+      "source": "money.udn.com",
+      "published": 1778693765
+    },
+    {
+      "id": "02b2920d04e6",
+      "title": "川習會登場「影子協議」聚焦 經濟學人：台灣議題 北京要讓美方做出讓步",
+      "url": "https://money.udn.com/money/story/5599/9501343",
+      "source": "money.udn.com",
+      "published": 1778693446
+    },
+    {
+      "id": "3822c082993c",
+      "title": "特朗普對華雄心縮減 關稅戰轉向風險管理",
+      "url": "https://www.singtaousa.com/2026/05/13/news/world/news-us-china-trade-ambitions-trump-xi-beijing-summit/",
+      "source": "singtaousa.com",
+      "published": 1778693392
+    },
+    {
+      "id": "946c9893b798",
+      "title": "川習會對台軍售話題 亞洲緊盯",
+      "url": "https://money.udn.com/money/story/5599/9501351",
+      "source": "money.udn.com",
+      "published": 1778692852
+    },
+    {
+      "id": "7723fb33a587",
+      "title": "中国外交官称对欧洲拟限制中国投资“非常失望”，并警告这会促使中国对“对欧洲关上大门”",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260513-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E5%AE%98%E7%A7%B0%E5%AF%B9%E6%AC%A7%E6%B4%B2%E6%8B%9F%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84-%E9%9D%9E%E5%B8%B8%E5%A4%B1%E6%9C%9B-%EF%BC%8C%E5%B9%B6%E8%AD%A6%E5%91%8A%E8%BF%99%E4%BC%9A%E4%BF%83%E4%BD%BF%E4%B8%AD%E5%9B%BD%E5%AF%B9-%E5%AF%B9%E6%AC%A7%E6%B4%B2%E5%85%B3%E4%B8%8A%E5%A4%A7%E9%97%A8",
+      "source": "rfi.fr",
+      "published": 1778692690
+    },
+    {
+      "id": "56cce6ebd04c",
+      "title": "中方接機人選安排 意在對特朗普發送多重訊號",
+      "url": "https://www.singtaousa.com/2026/05/13/news/world/news-us-china-diplomatic-protocol-trump-xi-summit-han-zheng/",
+      "source": "singtaousa.com",
+      "published": 1778692668
+    },
+    {
+      "id": "3db608f085be",
+      "title": "特習北京會晤 華麗禮遇背後盡顯地緣爭霸",
+      "url": "https://www.singtaousa.com/2026/05/13/news/world/news-us-china-geopolitical-rivalry-trump-xi-beijing-summit/",
+      "source": "singtaousa.com",
+      "published": 1778692265
+    },
+    {
+      "id": "01c6b0591ed7",
+      "title": "「P牌監製」阿聰  唔敢邀老闆古仔演舞台劇",
+      "url": "https://www.singtaousa.com/2026/05/13/entertainment/p-producer-chen-guan-invite/",
+      "source": "singtaousa.com",
+      "published": 1778691600
+    },
+    {
+      "id": "0dee1d4e7696",
+      "title": "Lolly Talk姊妹檔MeiMei與AhYo再戰HYROX，運動凝聚八年合體心願",
+      "url": "https://www.singtaousa.com/2026/05/13/entertainment/lolly-talk-meimei-ahyo-hyrox-team/",
+      "source": "singtaousa.com",
+      "published": 1778691530
+    },
+    {
+      "id": "acab22b76ea7",
+      "title": "美中首腦北京會晤 尋求修復貿易戰創傷",
+      "url": "https://www.singtaousa.com/2026/05/13/news/world/news-us-china-trade-war-tariffs-trump-xi-summit/",
+      "source": "singtaousa.com",
+      "published": 1778691436
+    },
+    {
+      "id": "e54fea88c43b",
+      "title": "市場觀望川習會　歐股收高油價走勢分歧",
+      "url": "https://money.udn.com/money/story/5599/9501469",
+      "source": "money.udn.com",
+      "published": 1778690353
+    },
+    {
+      "id": "57383056bdc4",
+      "title": "法國郵輪疑爆諾羅病毒1死　逾1700乘客船員禁登岸",
+      "url": "https://www.singtaousa.com/2026/05/13/news/world/one-person-dies-due-to-suspected-norovirus-on-french-cruise-ship-more-than-1700-passengers-and-crew-members-are-banned-from-disembarking/",
+      "source": "singtaousa.com",
+      "published": 1778690284
+    },
+    {
+      "id": "bdbd900860a1",
+      "title": "「不對稱時代」來臨！看台積電如何將失衡 轉化為籌碼",
+      "url": "https://money.udn.com/money/story/122381/9501455",
+      "source": "money.udn.com",
+      "published": 1778688669
+    },
     {
       "id": "5363b555ffd4",
       "title": "荷兰已向美方表达反对进一步限制阿斯麦在华运营相关法案",
       "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260513-%E8%8D%B7%E5%85%B0%E5%B7%B2%E5%90%91%E7%BE%8E%E6%96%B9%E8%A1%A8%E8%BE%BE%E5%8F%8D%E5%AF%B9%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%99%90%E5%88%B6%E9%98%BF%E6%96%AF%E9%BA%A6%E5%9C%A8%E5%8D%8E%E8%BF%90%E8%90%A5%E7%9B%B8%E5%85%B3%E6%B3%95%E6%A1%88",
       "source": "rfi.fr",
       "published": 1778688566
-    },
-    {
-      "id": "7f50c91c7384",
-      "title": "柳應廷閉關前完成首輪綵排 演唱會2.0打造平行時空舞台劇",
-      "url": "https://www.singtaousa.com/2026/05/13/entertainment/jer-lau-concert-preparation-countdown/",
-      "source": "singtaousa.com",
-      "published": 1778688038
-    },
-    {
-      "id": "56eb75b2a9e9",
-      "title": "陳曉華傳一年微調三次  親解變靚秘訣",
-      "url": "https://www.singtaousa.com/2026/05/13/entertainment/chen-xiao-hua-beauty-secrets/",
-      "source": "singtaousa.com",
-      "published": 1778688000
-    },
-    {
-      "id": "867239eb19ef",
-      "title": "牛頭角的士失控剷上行人路 釀成一死一重傷意外",
-      "url": "https://www.singtaousa.com/2026/05/13/news/china/taxi-mounts-pavement-fatal-accident/",
-      "source": "singtaousa.com",
-      "published": 1778687147
-    },
-    {
-      "id": "0b2843206b91",
-      "title": "「習特會」前夕　中國超級油輪「遠花湖」穿越霍爾木茲海峽",
-      "url": "https://www.singtaousa.com/2026/05/13/news/world/on-the-eve-of-the-xi-trump-meeting-the-chinese-supertanker-yuanhua-lake-transited-the-strait-of-hormuz/",
-      "source": "singtaousa.com",
-      "published": 1778686807
-    },
-    {
-      "id": "1a52fd3b7a16",
-      "title": "英衛生大臣料將辭職 啟動挑戰施紀賢黨魁程序",
-      "url": "https://www.singtaousa.com/2026/05/13/news/world/british-health-secretary-expected-to-resign-launching-process-to-challenge-shi-jixian-as-leader/",
-      "source": "singtaousa.com",
-      "published": 1778686778
     },
     {
       "id": "bc97a6cc419c",
@@ -58,46 +177,11 @@
       "published": 1778686250
     },
     {
-      "id": "4fb41373f624",
-      "title": "莊思敏專訪分享再婚觀 坦言與夫不註冊背後原因",
-      "url": "https://www.singtaousa.com/2026/05/13/entertainment/jacquelin-chong-remarriage-life-interview/",
-      "source": "singtaousa.com",
-      "published": 1778686231
-    },
-    {
-      "id": "c6f42147594f",
-      "title": "蕭景鴻首張專輯蓄勢待發 《以我為名》道出音樂自傳",
-      "url": "https://www.singtaousa.com/2026/05/13/entertainment/a-di-personal-album-debut/",
-      "source": "singtaousa.com",
-      "published": 1778686085
-    },
-    {
-      "id": "feeaac4b262b",
-      "title": "澳門休班消防員涉公眾場所不雅行為 遭12歲女童撞破後被捕",
-      "url": "https://www.singtaousa.com/2026/05/13/news/china/off-duty-macau-firefighter-public-masturbation-arrested/",
-      "source": "singtaousa.com",
-      "published": 1778685343
-    },
-    {
-      "id": "e3019f2b4bd2",
-      "title": "菲軍警闖參院逮捕前警察總監爆發槍戰",
-      "url": "https://www.singtaousa.com/2026/05/13/news/world/philippine-military-police-stormed-the-senate-house-to-arrest-the-former-police-chief-a-shootout-broke-out/",
-      "source": "singtaousa.com",
-      "published": 1778685288
-    },
-    {
       "id": "ff3840bfefcb",
       "title": "菲律賓參議員躲ICC通緝 參院突傳槍響",
       "url": "https://money.udn.com/money/story/5599/9501316",
       "source": "money.udn.com",
       "published": 1778685199
-    },
-    {
-      "id": "7ec4a8b199dd",
-      "title": "漢坦病毒疫情持續發酵 巴黎患者靠人工肺維持",
-      "url": "https://www.singtaousa.com/2026/05/13/news/world/hantavirus-epidemic-continues-to-ferment-and-patients-in-paris-are-supported-by-artificial-lungs/",
-      "source": "singtaousa.com",
-      "published": 1778685124
     },
     {
       "id": "ea334a1e096e",
@@ -107,25 +191,11 @@
       "published": 1778685085
     },
     {
-      "id": "b49a3f151473",
-      "title": "以前尊尼仔名號下海  岡本Kauan狂收投訴",
-      "url": "https://www.singtaousa.com/2026/05/13/entertainment/okamoto-kauan-controversy/",
-      "source": "singtaousa.com",
-      "published": 1778684400
-    },
-    {
       "id": "113891ed5661",
       "title": "特习会前 一艘中国超级油轮驶出霍尔木兹海峡 未缴通行费",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260513-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%89%8D-%E4%B8%80%E8%89%98%E4%B8%AD%E5%9B%BD%E8%B6%85%E7%BA%A7%E6%B2%B9%E8%BD%AE%E9%A9%B6%E5%87%BA%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E6%9C%AA%E7%BC%B4%E9%80%9A%E8%A1%8C%E8%B4%B9",
       "source": "rfi.fr",
       "published": 1778684144
-    },
-    {
-      "id": "b7975a249d3f",
-      "title": "尖沙咀診所疑遭人使用假冒文件 職員報案警方調查",
-      "url": "https://www.singtaousa.com/2026/05/13/news/china/tst-clinic-fake-documents-reported/",
-      "source": "singtaousa.com",
-      "published": 1778683547
     },
     {
       "id": "4ba41836bb56",
@@ -198,67 +268,11 @@
       "published": 1778681065
     },
     {
-      "id": "20898ee3a703",
-      "title": "川習會之際 中國油輪遠華湖號駛離荷莫茲海峽",
-      "url": "https://money.udn.com/money/story/5599/9501150",
-      "source": "money.udn.com",
-      "published": 1778680541
-    },
-    {
-      "id": "b7792840b039",
-      "title": "美股早盤／通膨升溫 三大指數漲跌互見 黃仁勳隨川普訪中激勵科技股",
-      "url": "https://money.udn.com/money/story/123398/9501148",
-      "source": "money.udn.com",
-      "published": 1778680528
-    },
-    {
-      "id": "2fff23cea8f4",
-      "title": "伊朗著名人權律師索托德獲保釋 曾多次遭當局逮捕",
-      "url": "https://money.udn.com/money/story/5599/9501146",
-      "source": "money.udn.com",
-      "published": 1778680465
-    },
-    {
-      "id": "e27f4a0a08fc",
-      "title": "印度柴油供應趨緊 卡車司機為加油在路邊排起長隊",
-      "url": "https://money.udn.com/money/story/5599/9499773",
-      "source": "money.udn.com",
-      "published": 1778680159
-    },
-    {
-      "id": "9cd0027b3ff3",
-      "title": "伊朗戰爭致能源成本飆 美4月PPI年增6.0%逾3年新高",
-      "url": "https://money.udn.com/money/story/10511/9501135",
-      "source": "money.udn.com",
-      "published": 1778679924
-    },
-    {
-      "id": "6fa44e49deec",
-      "title": "哈格島衛星圖像揭示伊朗緊張局勢 關鍵出口碼頭多日未見油輪蹤影",
-      "url": "https://money.udn.com/money/story/5599/9499771",
-      "source": "money.udn.com",
-      "published": 1778679864
-    },
-    {
       "id": "8a2dd0d779a2",
       "title": "被中国制裁的卢比奥随特朗普访问北京",
       "url": "https://www.dw.com/zh/被中国制裁的卢比奥随特朗普访问北京/a-77150478?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1778679600
-    },
-    {
-      "id": "23613d8d88d4",
-      "title": "日本20年期國債殖利率升至1997年以來高點 油價高企加劇通膨擔憂",
-      "url": "https://money.udn.com/money/story/5599/9499770",
-      "source": "money.udn.com",
-      "published": 1778679480
-    },
-    {
-      "id": "458fb22c5ba7",
-      "title": "中東衝突推升燃料價格 印度航空削減部分國際航線",
-      "url": "https://money.udn.com/money/story/5599/9501126",
-      "source": "money.udn.com",
-      "published": 1778679426
     },
     {
       "id": "ba254021f797",
@@ -511,20 +525,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260512-%E7%89%B9%E6%9C%97%E6%99%AE%E6%90%BA%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E8%AE%BF%E5%8D%8E",
       "source": "rfi.fr",
       "published": 1778618491
-    },
-    {
-      "id": "7c77051bca33",
-      "title": "马克龙：法汉坦病毒疫情“在掌控之中”",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260512-%E9%A9%AC%E5%85%8B%E9%BE%99-%E6%B3%95%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85-%E5%9C%A8%E6%8E%8C%E6%8E%A7%E4%B9%8B%E4%B8%AD",
-      "source": "rfi.fr",
-      "published": 1778618336
-    },
-    {
-      "id": "e05b8b45d95d",
-      "title": "欧盟：“盾牌”（Aspides）护航行动可转往霍尔木兹",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260512-%E6%AC%A7%E7%9B%9F-%E7%9B%BE%E7%89%8C-aspides-%E6%8A%A4%E8%88%AA%E8%A1%8C%E5%8A%A8%E5%8F%AF%E8%BD%AC%E5%BE%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9",
-      "source": "rfi.fr",
-      "published": 1778618163
     },
     {
       "id": "2382135b3b62",
@@ -1290,5 +1290,5 @@
       "published": 1776228054
     }
   ],
-  "build_id": 1778688715
+  "build_id": 1778696417
 }
