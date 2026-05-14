@@ -1,26 +1,285 @@
 {
-  "updated": 1778747103,
+  "updated": 1778755117,
   "items": [
+    {
+      "id": "82edc12b2ced",
+      "title": "习特会登场 聚焦战略再平",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E4%B8%93%E6%A0%8F/20260514-%E4%B9%A0%E7%89%B9%E4%BC%9A%E7%99%BB%E5%9C%BA-%E8%81%9A%E7%84%A6%E6%88%98%E7%95%A5%E5%86%8D%E5%B9%B3",
+      "source": "rfi.fr",
+      "published": 1778754950
+    },
+    {
+      "id": "c6092ccc0b4a",
+      "title": "白宫新闻稿：双方一致认为海峡须保持开放，伊朗不能拥有核武器，未提台湾",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E7%99%BD%E5%AE%AB%E6%96%B0%E9%97%BB%E7%A8%BF-%E5%8F%8C%E6%96%B9%E4%B8%80%E8%87%B4%E8%AE%A4%E4%B8%BA%E6%B5%B7%E5%B3%A1%E9%A1%BB%E4%BF%9D%E6%8C%81%E5%BC%80%E6%94%BE%EF%BC%8C%E4%BC%8A%E6%9C%97%E4%B8%8D%E8%83%BD%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%EF%BC%8C%E6%9C%AA%E6%8F%90%E5%8F%B0%E6%B9%BE",
+      "source": "rfi.fr",
+      "published": 1778754014
+    },
+    {
+      "id": "81a9436b9719",
+      "title": "消委會冷氣機測試揭曉：7款獲4.5星高評分，三菱重工最省電",
+      "url": "https://www.singtaousa.com/2026/05/14/news/china/consumer-council-air-conditioner-test-energy-efficiency/",
+      "source": "singtaousa.com",
+      "published": 1778753742
+    },
+    {
+      "id": "9631b8b70c6b",
+      "title": "白宮川習會摘要未提台灣　一致同意伊朗不能有核武",
+      "url": "https://money.udn.com/money/story/5599/9503286",
+      "source": "money.udn.com",
+      "published": 1778753567
+    },
+    {
+      "id": "78f8368a7bc3",
+      "title": "川普偏心？馬斯克曝僅他和黃仁勳也搭空軍一號訪陸",
+      "url": "https://money.udn.com/money/story/5599/9503281",
+      "source": "money.udn.com",
+      "published": 1778753503
+    },
+    {
+      "id": "c0214c5b8309",
+      "title": "川習會談荷莫茲海峽　白宮官員：習近平反對收通行費",
+      "url": "https://money.udn.com/money/story/5599/9503273",
+      "source": "money.udn.com",
+      "published": 1778753303
+    },
+    {
+      "id": "d40dbbb184f3",
+      "title": "前俄军中国籍士兵在德国庇护申请遭拒 柴静公开表态",
+      "url": "https://www.dw.com/zh/前俄军中国籍士兵在德国庇护申请遭拒-柴静公开表态/a-77087955?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1778753280
+    },
+    {
+      "id": "b2ecef778d30",
+      "title": "促進美中交流 中國加州經貿論壇洛杉磯登場",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/china-california-economic-forum/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "6b9c4ca638d4",
+      "title": "破獲大型兒童性剝削暗網 不乏醫生執法人員涉案",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/child-exploitation-dark-web-arrests/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "081f8dd893f0",
+      "title": "詐騙南加州老翁 兩名華裔認罪",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/fraudulent-scheme-southern-california/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "7a1d4c50d325",
+      "title": "警民專家齊把脈 南加社區安全講座16日登場",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/community-safety-seminar-southern-california/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "fb1bae73dd40",
+      "title": "亞市前市長認罪任非法代理人 華裔居民擔心成替罪羊",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/arcadia-mayor-pleads-guilty/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "e57f076ee1cd",
+      "title": "盧建旺罪成面對最高30年監禁",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/lu-jianwang-convicted-sentencing/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "08d96ce9195e",
+      "title": "法拉盛凱辛娜公園爆青少年圍毆案   13歲男童遭3人毆打致鼻骨骨折",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/flushing-kissena-park-teen-assault/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "95c5e483ac14",
+      "title": "長島美甲店致命衝撞案開審   酒駕男駕車衝入店內 目擊者心有餘悸",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/long-island-nail-salon-crash/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "3ea1cabf71ac",
+      "title": "皇后區多處縱火燒毀華人餐館   嫌犯遭升級起訴一級縱火",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/queens-arson-chinese-restaurant/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "609f5bc09c4c",
+      "title": "法拉盛鬧市區7歲男童遭推倒受傷   警方通緝涉案女子",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/flushing-boy-pushed-injured/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "7a7a7faee0c0",
+      "title": "蘇豪街頭猥褻女路人   警緝涉案西裔男",
+      "url": "https://www.singtaousa.com/2026/05/14/news/usa/soho-street-assault-woman/",
+      "source": "singtaousa.com",
+      "published": 1778752800
+    },
+    {
+      "id": "9628fdbddd9e",
+      "title": "CNN：伊朗是川習首日會談關鍵議題之一",
+      "url": "https://money.udn.com/money/story/5599/9503243",
+      "source": "money.udn.com",
+      "published": 1778752652
+    },
+    {
+      "id": "8533a7d5a68b",
+      "title": "菲律賓參院警隊與調查局對峙 總統府：相互鳴槍示警",
+      "url": "https://money.udn.com/money/story/5599/9503234",
+      "source": "money.udn.com",
+      "published": 1778752484
+    },
+    {
+      "id": "be04f6979a5a",
+      "title": "特朗普訪華：中美元首會談逾2小時 結束後同遊天壇",
+      "url": "https://www.bbc.com/zhongwen/articles/c362jr2085yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1778752285
+    },
+    {
+      "id": "48a82927ef47",
+      "title": "川習會談什麼？法新社照片露端倪",
+      "url": "https://money.udn.com/money/story/5599/9503222",
+      "source": "money.udn.com",
+      "published": 1778751949
+    },
+    {
+      "id": "880c0e8a684d",
+      "title": "投資人關注川習會　亞股走勢分歧",
+      "url": "https://money.udn.com/money/story/5599/9503218",
+      "source": "money.udn.com",
+      "published": 1778751929
+    },
+    {
+      "id": "a22a177d140a",
+      "title": "在曼哈顿唐人街开办中国海外警务站 美籍华裔男子卢建旺被陪审团定罪",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E5%9C%A8%E6%9B%BC%E5%93%88%E9%A1%BF%E5%94%90%E4%BA%BA%E8%A1%97%E5%BC%80%E5%8A%9E%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%A4%96%E8%AD%A6%E5%8A%A1%E7%AB%99-%E7%BE%8E%E7%B1%8D%E5%8D%8E%E8%A3%94%E7%94%B7%E5%AD%90%E5%8D%A2%E5%BB%BA%E6%97%BA%E8%A2%AB%E9%99%AA%E5%AE%A1%E5%9B%A2%E5%AE%9A%E7%BD%AA",
+      "source": "rfi.fr",
+      "published": 1778751546
+    },
+    {
+      "id": "76e33ffdcb97",
+      "title": "川習會場邊花絮多 外媒天壇採訪一度困小房間喊：我們在錯過歷史時刻",
+      "url": "https://money.udn.com/money/story/5599/9503206",
+      "source": "money.udn.com",
+      "published": 1778751538
+    },
+    {
+      "id": "e6b49ae21ebe",
+      "title": "以黎新一轮直接谈判今日在华盛顿开启，边境冲突持续升级",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260514-%E4%BB%A5%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BD%AE%E7%9B%B4%E6%8E%A5%E8%B0%88%E5%88%A4%E4%BB%8A%E6%97%A5%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%BC%80%E5%90%AF%EF%BC%8C%E8%BE%B9%E5%A2%83%E5%86%B2%E7%AA%81%E6%8C%81%E7%BB%AD%E5%8D%87%E7%BA%A7",
+      "source": "rfi.fr",
+      "published": 1778751415
+    },
+    {
+      "id": "42b60724489a",
+      "title": "5月14日　美伊戰爭對國際經濟、財經市場與民生衝擊",
+      "url": "https://money.udn.com/money/story/5599/9503157",
+      "source": "money.udn.com",
+      "published": 1778750489
+    },
+    {
+      "id": "214d0a90fa83",
+      "title": "川普雙標？ 次子艾瑞克也隨行訪中 引發利益衝突疑慮",
+      "url": "https://money.udn.com/money/story/5599/9503152",
+      "source": "money.udn.com",
+      "published": 1778750355
+    },
+    {
+      "id": "19889ffd9473",
+      "title": "路透：美准10中企買H200卻無動靜　黃仁勳隨行求突破",
+      "url": "https://money.udn.com/money/story/5599/9503137",
+      "source": "money.udn.com",
+      "published": 1778749958
+    },
+    {
+      "id": "a17a84bdf03d",
+      "title": "白宮公布川習會摘要 強調經貿合作、未提台灣",
+      "url": "https://money.udn.com/money/story/5599/9503108",
+      "source": "money.udn.com",
+      "published": 1778749542
+    },
+    {
+      "id": "89908cfa2973",
+      "title": "韓貨船荷莫茲遭攻擊　外交部研判攻擊方可能是伊朗",
+      "url": "https://money.udn.com/money/story/5599/9503112",
+      "source": "money.udn.com",
+      "published": 1778749242
+    },
+    {
+      "id": "6565312fcc49",
+      "title": "中企致函抗議經商規範　印尼政府堅定捍衛國策",
+      "url": "https://money.udn.com/money/story/5599/9503095",
+      "source": "money.udn.com",
+      "published": 1778748886
+    },
+    {
+      "id": "74887af90cae",
+      "title": "林志玲擔任台灣「文策院」董事為何引發激辯？",
+      "url": "https://www.bbc.com/zhongwen/articles/cn8p5z4v409o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1778748809
+    },
+    {
+      "id": "f81dbcf3575b",
+      "title": "中方安保拒绝美特勤局特工携武器进入天坛 白宫记者团被延误近30分钟",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E4%B8%AD%E6%96%B9%E5%AE%89%E4%BF%9D%E6%8B%92%E7%BB%9D%E7%BE%8E%E7%89%B9%E5%8B%A4%E5%B1%80%E7%89%B9%E5%B7%A5%E6%90%BA%E5%B8%A6%E6%AD%A6%E5%99%A8%E8%BF%9B%E5%85%A5%E5%A4%A9%E5%9D%9B-%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E5%9B%A2%E8%A2%AB%E5%BB%B6%E8%AF%AF%E8%BF%9130%E5%88%86%E9%92%9F",
+      "source": "rfi.fr",
+      "published": 1778748637
+    },
+    {
+      "id": "a7d7d1cd55c5",
+      "title": "記憶體更缺了...三星傳已提前減產晶片 為下周罷工做準備 損失超大",
+      "url": "https://money.udn.com/money/story/5599/9503082",
+      "source": "money.udn.com",
+      "published": 1778748467
+    },
+    {
+      "id": "238bc856292e",
+      "title": "美中举行首脑会谈  日本高度关注台湾问题",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260514-%E7%BE%8E%E4%B8%AD%E4%B8%BE%E8%A1%8C%E9%A6%96%E8%84%91%E4%BC%9A%E8%B0%88-%E6%97%A5%E6%9C%AC%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98",
+      "source": "rfi.fr",
+      "published": 1778748273
+    },
+    {
+      "id": "51bc39a60664",
+      "title": "特习会台湾聚焦：至此或没有任何消息称特朗普提反台独",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260514-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%8F%B0%E6%B9%BE%E8%81%9A%E7%84%A6-%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A7%B0%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%A4%84%E7%90%86%E4%B8%8D%E5%BD%93%E6%81%90%E5%AF%BC%E8%87%B4%E4%B8%AD%E7%BE%8E%E5%86%B2%E7%AA%81-%E4%BD%86%E8%87%B3%E6%AD%A4%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E6%B6%88%E6%81%AF%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%8F%8D%E5%AF%B9%E5%8F%B0%E7%8B%AC",
+      "source": "rfi.fr",
+      "published": 1778748229
+    },
+    {
+      "id": "559314b3a1ac",
+      "title": "美批准向10家中企出售H200芯片至今未有交付 黄仁勋在华寻突破",
+      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260514-%E7%BE%8E%E6%89%B9%E5%87%86%E5%90%9110%E5%AE%B6%E4%B8%AD%E4%BC%81%E5%87%BA%E5%94%AEh200%E8%8A%AF%E7%89%87%E8%87%B3%E4%BB%8A%E6%9C%AA%E6%9C%89%E4%BA%A4%E4%BB%98-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9C%A8%E5%8D%8E%E5%AF%BB%E7%AA%81%E7%A0%B4",
+      "source": "rfi.fr",
+      "published": 1778747681
+    },
+    {
+      "id": "09b9266dbb21",
+      "title": "紅毯、會談、台灣、黃仁勳：特朗普重返北京的幾大關鍵點",
+      "url": "https://www.bbc.com/zhongwen/articles/ckgpdl5038ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1778747160
+    },
     {
       "id": "fe9609bb2e17",
       "title": "奧克蘭留台校友會飄台味　紐國青年分享台灣故事",
       "url": "https://money.udn.com/money/story/5599/9503017",
       "source": "money.udn.com",
       "published": 1778746929
-    },
-    {
-      "id": "3fe5fb228dea",
-      "title": "三藩市華埠出生成長女性長期投入社區 推動亞裔女性領袖培育",
-      "url": "https://www.singtaousa.com/2026/05/14/news/usa/a-woman-born-and-raised-in-chinatown-san-francisco-has-long-been-involved-in-the-community-to-promote-the-cultivation-of-asian-female-leaders/",
-      "source": "singtaousa.com",
-      "published": 1778746909
-    },
-    {
-      "id": "bd31f97c7ec6",
-      "title": "樂風集團創辦人周佩賢離世 旗下資本公司遭呈請清盤",
-      "url": "https://www.singtaousa.com/2026/05/14/news/china/founder-suicide-bankruptcy-liquidation-petition/",
-      "source": "singtaousa.com",
-      "published": 1778746555
     },
     {
       "id": "91ba55873a17",
@@ -37,13 +296,6 @@
       "published": 1778746288
     },
     {
-      "id": "09b9266dbb21",
-      "title": "紅毯、會談、台灣、黃仁勳：特朗普重返北京的几大關鍵點",
-      "url": "https://www.bbc.com/zhongwen/articles/ckgpdl5038ro/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1778746033
-    },
-    {
       "id": "9d9bc015a0cc",
       "title": "川習會期間 陸方「先核准再暫停」數百家美國牛肉出口商許可",
       "url": "https://money.udn.com/money/story/5599/9502953",
@@ -58,48 +310,6 @@
       "published": 1778745657
     },
     {
-      "id": "bcacb7a73b0e",
-      "title": "狂風暴雨襲印度　北方邦至少89人喪命",
-      "url": "https://money.udn.com/money/story/5599/9502949",
-      "source": "money.udn.com",
-      "published": 1778745640
-    },
-    {
-      "id": "07f19c0b77de",
-      "title": "影／川普空軍一號掀陸網熱議！「飛行白宮」內裝曝 傳能讓飛彈改道",
-      "url": "https://money.udn.com/money/story/5599/9502932",
-      "source": "money.udn.com",
-      "published": 1778745127
-    },
-    {
-      "id": "5265275e4aa6",
-      "title": "特朗普訪華期間 央視電影頻道播出中美合拍動畫《功夫熊貓3》",
-      "url": "https://www.singtaousa.com/2026/05/14/news/china/trump-china-visit-kung-fu-panda/",
-      "source": "singtaousa.com",
-      "published": 1778744745
-    },
-    {
-      "id": "9a4d7805c3a2",
-      "title": "菲參議員拒捕國會大樓傳槍響　菲總統召開緊急會議",
-      "url": "https://money.udn.com/money/story/5599/9502886",
-      "source": "money.udn.com",
-      "published": 1778743827
-    },
-    {
-      "id": "d97b1dbcaf19",
-      "title": "川習會聚焦美中關係止跌？專家：美懼中是雙邊緊張重要來源",
-      "url": "https://money.udn.com/money/story/5599/9502873",
-      "source": "money.udn.com",
-      "published": 1778743427
-    },
-    {
-      "id": "47531d333622",
-      "title": "廣東天氣警報：深圳午後至夜間或有大暴雨 局部地區有龍捲風風險",
-      "url": "https://www.singtaousa.com/2026/05/14/news/china/shenzhen-heavy-rain-guangdong-tornado-risk/",
-      "source": "singtaousa.com",
-      "published": 1778742944
-    },
-    {
       "id": "b4023efc4a57",
       "title": "中国高规格接待特朗普 习近平与被制裁者卢比奥握手成热话",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260514-%E4%B8%AD%E5%9B%BD%E9%AB%98%E8%A7%84%E6%A0%BC%E6%8E%A5%E5%BE%85%E7%89%B9%E6%9C%97%E6%99%AE-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E8%A2%AB%E5%88%B6%E8%A3%81%E8%80%85%E5%8D%A2%E6%AF%94%E5%A5%A5%E6%8F%A1%E6%89%8B%E6%88%90%E7%83%AD%E8%AF%9D",
@@ -107,144 +317,11 @@
       "published": 1778742631
     },
     {
-      "id": "222767bfa8fa",
-      "title": "AI 找蟲能力強 除蟲團隊忙翻天",
-      "url": "https://money.udn.com/money/story/122381/9502818",
-      "source": "money.udn.com",
-      "published": 1778742481
-    },
-    {
       "id": "e68538dd1930",
       "title": "「特习会」登场：习近平称中美经贸团队达总体平衡成果 特朗普指两国关系会很好",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260514-%E7%89%B9%E4%B9%A0%E4%BC%9A-%E7%99%BB%E5%9C%BA-%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%A7%B0%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E5%9B%A2%E9%98%9F%E8%BE%BE%E6%80%BB%E4%BD%93%E5%B9%B3%E8%A1%A1%E6%88%90%E6%9E%9C-%E7%89%B9%E6%9C%97%E6%99%AE%E6%8C%87%E4%B8%A4%E5%9B%BD%E5%85%B3%E7%B3%BB%E4%BC%9A%E5%BE%88%E5%A5%BD",
       "source": "rfi.fr",
       "published": 1778742294
-    },
-    {
-      "id": "96ff2aecb130",
-      "title": "科羅拉多河水量探新低 威脅亞利桑那州 AI 榮景",
-      "url": "https://money.udn.com/money/story/122381/9502779",
-      "source": "money.udn.com",
-      "published": 1778742092
-    },
-    {
-      "id": "bab1123354a1",
-      "title": "捧大馬戲團帳篷模型慶功 麋先生預告推新單曲",
-      "url": "https://www.singtaousa.com/2026/05/14/entertainment/mi-xian-sheng-new-album/",
-      "source": "singtaousa.com",
-      "published": 1778742000
-    },
-    {
-      "id": "3f4ea4befb9c",
-      "title": "日債殖利率飆升與企業財報欠佳　日股收跌",
-      "url": "https://money.udn.com/money/story/5599/9502760",
-      "source": "money.udn.com",
-      "published": 1778741144
-    },
-    {
-      "id": "1169975d24ed",
-      "title": "特朗普訪華｜逾兩小時元首會談結束 轉赴天壇參觀",
-      "url": "https://www.singtaousa.com/2026/05/13/news/china/trump-china-visit-bilateral-talks-temple-of-heaven/",
-      "source": "singtaousa.com",
-      "published": 1778741141
-    },
-    {
-      "id": "5974002524fa",
-      "title": "川普訪中接機規格勝9年前　分析：北京給面子換裡子",
-      "url": "https://money.udn.com/money/story/5599/9502756",
-      "source": "money.udn.com",
-      "published": 1778741117
-    },
-    {
-      "id": "64d255d5cd1a",
-      "title": "路透：美批准10家中企採購輝達 H200晶片 黃仁勳隨行川普拚訂單",
-      "url": "https://money.udn.com/money/story/5599/9502733",
-      "source": "money.udn.com",
-      "published": 1778740683
-    },
-    {
-      "id": "18b9309158e2",
-      "title": "川習擬對300億美元商品降低關稅　推新貿易機制",
-      "url": "https://money.udn.com/money/story/5599/9502715",
-      "source": "money.udn.com",
-      "published": 1778740276
-    },
-    {
-      "id": "354178f528ac",
-      "title": "印度禁糖出口至9月底　專家：憂中東衝突引通膨",
-      "url": "https://money.udn.com/money/story/5599/9502714",
-      "source": "money.udn.com",
-      "published": 1778740266
-    },
-    {
-      "id": "567c2d41003e",
-      "title": "伊朗處決抗議者 家屬獄外聞死訊",
-      "url": "https://www.singtaousa.com/2026/05/13/news/world/iran-executes-protester-detained-during-january-unrest-rights-group-says/",
-      "source": "singtaousa.com",
-      "published": 1778740200
-    },
-    {
-      "id": "36d16574486d",
-      "title": "蘋果分散生產基地至台灣等國家 未來會成為「世界分裂」的象徵？",
-      "url": "https://money.udn.com/money/story/120769/9500465",
-      "source": "money.udn.com",
-      "published": 1778739675
-    },
-    {
-      "id": "b8232c141d19",
-      "title": "習特會聚焦「修昔底德陷阱」 探討中美如何跨越大國競爭宿命論",
-      "url": "https://www.singtaousa.com/2026/05/13/news/china/xi-trump-summit-thucydides-trap-avoidance/",
-      "source": "singtaousa.com",
-      "published": 1778739341
-    },
-    {
-      "id": "e0c62ac4411a",
-      "title": "習近平說的「修昔底德陷阱」是什麼？讓這詞爆紅的哈佛教授大談台灣",
-      "url": "https://money.udn.com/money/story/5599/9502675",
-      "source": "money.udn.com",
-      "published": 1778739206
-    },
-    {
-      "id": "73c1de871502",
-      "title": "洛杉磯馬修佩里案 毒品輔導員判刑兩年",
-      "url": "https://www.singtaousa.com/2026/05/13/news/usa/erik-fleming-sentenced-in-matthew-perry-overdose-case/",
-      "source": "singtaousa.com",
-      "published": 1778738938
-    },
-    {
-      "id": "28a2068d70f5",
-      "title": "川習會談逾2小時後訪天壇　避談是否提及台灣議題",
-      "url": "https://money.udn.com/money/story/5599/9502652",
-      "source": "money.udn.com",
-      "published": 1778738865
-    },
-    {
-      "id": "073037cce3f3",
-      "title": "川習會聚焦台灣議題　日官房長官：盼以對話和平解決",
-      "url": "https://money.udn.com/money/story/5599/9502636",
-      "source": "money.udn.com",
-      "published": 1778738473
-    },
-    {
-      "id": "486989b7751b",
-      "title": "告五人重返兒童新樂園 像跟老朋友重逢一樣",
-      "url": "https://www.singtaousa.com/2026/05/13/entertainment/gao-wu-ren-return-childrens-new-paradise/",
-      "source": "singtaousa.com",
-      "published": 1778738400
-    },
-    {
-      "id": "388b3a549c5c",
-      "title": "習近平陪同特朗普參觀北京天壇",
-      "url": "https://www.singtaousa.com/2026/05/13/news/world/trump-and-xi-have-arrived-at-the-temple-of-heaven/",
-      "source": "singtaousa.com",
-      "published": 1778736639
-    },
-    {
-      "id": "fbcd53482ec9",
-      "title": "蔡依林過母親節 跟少男合照掀熱議",
-      "url": "https://www.singtaousa.com/2026/05/13/entertainment/jolin-tsai-mother-day-photo/",
-      "source": "singtaousa.com",
-      "published": 1778734800
     },
     {
       "id": "786e63e781cc",
@@ -345,6 +422,13 @@
       "published": 1778713708
     },
     {
+      "id": "c2947c519b0d",
+      "title": "现场图集：特朗普与习近平举行峰会",
+      "url": "https://cn.nytimes.com/china/20260514/trump-china-photos/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1778709351
+    },
+    {
       "id": "302a87238f25",
       "title": "“被”改名、马杜罗式运动服：卢比奥独特对华的沟通策略",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260513-%E6%94%B9%E5%90%8D-%E9%A9%AC%E6%9D%9C%E7%BD%97%E5%BC%8F%E8%BF%90%E5%8A%A8%E6%9C%8D-%E5%8D%A2%E6%AF%94%E5%A5%A5%E7%8B%AC%E7%89%B9%E5%AF%B9%E5%8D%8E%E7%9A%84%E6%B2%9F%E9%80%9A%E7%AD%96%E7%95%A5",
@@ -436,13 +520,6 @@
       "published": 1778697004
     },
     {
-      "id": "c2947c519b0d",
-      "title": "现场图集：特朗普与习近平举行峰会",
-      "url": "https://cn.nytimes.com/china/20260514/trump-china-photos/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1778695841
-    },
-    {
       "id": "252159ae3b27",
       "title": "伊朗战争推动亚洲太阳能销售激增，中国或成最大受益者",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260513-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%8E%A8%E5%8A%A8%E4%BA%9A%E6%B4%B2%E5%A4%AA%E9%98%B3%E8%83%BD%E9%94%80%E5%94%AE%E6%BF%80%E5%A2%9E%EF%BC%8C%E4%B8%AD%E5%9B%BD%E6%88%96%E6%88%90%E6%9C%80%E5%A4%A7%E5%8F%97%E7%9B%8A%E8%80%85",
@@ -469,6 +546,41 @@
       "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260513-%E8%8D%B7%E5%85%B0%E5%B7%B2%E5%90%91%E7%BE%8E%E6%96%B9%E8%A1%A8%E8%BE%BE%E5%8F%8D%E5%AF%B9%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%99%90%E5%88%B6%E9%98%BF%E6%96%AF%E9%BA%A6%E5%9C%A8%E5%8D%8E%E8%BF%90%E8%90%A5%E7%9B%B8%E5%85%B3%E6%B3%95%E6%A1%88",
       "source": "rfi.fr",
       "published": 1778688566
+    },
+    {
+      "id": "f22cae654cbe",
+      "title": "还上什么市？中国小企业纷纷撤回华尔街IPO",
+      "url": "https://www.ftchinese.com/story/001109730",
+      "source": "ftchinese.com",
+      "published": 1778688000
+    },
+    {
+      "id": "fde4d49af87d",
+      "title": "特朗普之子陪同访华真的与生意无关吗？",
+      "url": "https://www.ftchinese.com/story/001109728",
+      "source": "ftchinese.com",
+      "published": 1778688000
+    },
+    {
+      "id": "86ed5ba3528c",
+      "title": "中国放宽成品油出口禁令，但出口量仍远低于伊朗战争前",
+      "url": "https://www.ftchinese.com/story/001109729",
+      "source": "ftchinese.com",
+      "published": 1778688000
+    },
+    {
+      "id": "f73f7ffdb55d",
+      "title": "习近平：美中应做“伙伴，而非对手”",
+      "url": "https://www.ftchinese.com/story/001109727",
+      "source": "ftchinese.com",
+      "published": 1778688000
+    },
+    {
+      "id": "2498ebff90ce",
+      "title": "马云支持的云锋金融 押注香港黄金代币化市场",
+      "url": "https://www.ftchinese.com/story/001109726",
+      "source": "ftchinese.com",
+      "published": 1778688000
     },
     {
       "id": "22adfc1b17e9",
@@ -618,20 +730,6 @@
       "published": 1778678460
     },
     {
-      "id": "124de85c04bc",
-      "title": "特习会前夕台湾为何通过减缩版国防预算",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20260513-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%89%8D%E5%A4%95%E5%8F%B0%E6%B9%BE%E4%B8%BA%E4%BD%95%E9%80%9A%E8%BF%87%E5%87%8F%E7%BC%A9%E7%89%88%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97",
-      "source": "rfi.fr",
-      "published": 1778674314
-    },
-    {
-      "id": "5b09483a058f",
-      "title": "特朗普专机抵达北京 韩正等在机场迎接",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260513-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC-%E9%9F%A9%E6%AD%A3%E7%AD%89%E5%9C%A8%E6%9C%BA%E5%9C%BA%E8%BF%8E%E6%8E%A5",
-      "source": "rfi.fr",
-      "published": 1778673705
-    },
-    {
       "id": "e6c5658a0ea7",
       "title": "口述历史：文革唯一的奥地利红卫兵（下篇）",
       "url": "https://www.dw.com/zh/口述历史：文革唯一的奥地利红卫兵（下篇）/a-77142111?maca=chi-rss-chi-all-1127-rdf",
@@ -651,13 +749,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cd0pdgej4v0o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1778672543
-    },
-    {
-      "id": "d6ae2cceda8d",
-      "title": "沙特、阿联酋曾对伊朗发动秘密报复袭击 两国策略并不完全相同",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260513-%E6%B2%99%E7%89%B9-%E9%98%BF%E8%81%94%E9%85%8B%E6%9B%BE%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E7%A7%98%E5%AF%86%E6%8A%A5%E5%A4%8D%E8%A2%AD%E5%87%BB-%E4%B8%A4%E5%9B%BD%E7%AD%96%E7%95%A5%E5%B9%B6%E4%B8%8D%E5%AE%8C%E5%85%A8%E7%9B%B8%E5%90%8C",
-      "source": "rfi.fr",
-      "published": 1778672495
     },
     {
       "id": "93531b6e431e",
@@ -681,13 +772,6 @@
       "published": 1778669177
     },
     {
-      "id": "cd5ea44c7ed8",
-      "title": "特习会上台湾问题成中方关注焦点 特朗普是否会改口称「反对台独」？",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260513-%E7%89%B9%E4%B9%A0%E4%BC%9A%E4%B8%8A%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E6%88%90%E4%B8%AD%E6%96%B9%E5%85%B3%E6%B3%A8%E7%84%A6%E7%82%B9-%E7%89%B9%E6%9C%97%E6%99%AE%E6%98%AF%E5%90%A6%E4%BC%9A%E6%94%B9%E5%8F%A3%E7%A7%B0-%E5%8F%8D%E5%AF%B9%E5%8F%B0%E7%8B%AC",
-      "source": "rfi.fr",
-      "published": 1778667870
-    },
-    {
       "id": "f415f0a92869",
       "title": "长平观察：谈判之前，特朗普应看看前两次如何被耍",
       "url": "https://www.dw.com/zh/长平观察：谈判之前，特朗普应看看前两次如何被耍/a-77142108?maca=chi-rss-chi-all-1127-rdf",
@@ -700,34 +784,6 @@
       "url": "https://www.dw.com/zh/中国悄然提升导弹产量-众多企业受益/a-77143843?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1778667000
-    },
-    {
-      "id": "24f232d6f573",
-      "title": "刘特佐向特朗普寻求特赦 大马通讯部长：下周内阁一定会谈到这个问题",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260513-%E5%88%98%E7%89%B9%E4%BD%90%E5%90%91%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%BB%E6%B1%82%E7%89%B9%E8%B5%A6-%E5%A4%A7%E9%A9%AC%E9%80%9A%E8%AE%AF%E9%83%A8%E9%95%BF-%E4%B8%8B%E5%91%A8%E5%86%85%E9%98%81%E4%B8%80%E5%AE%9A%E4%BC%9A%E8%B0%88%E5%88%B0%E8%BF%99%E4%B8%AA%E9%97%AE%E9%A2%98",
-      "source": "rfi.fr",
-      "published": 1778666965
-    },
-    {
-      "id": "ce72e0467aba",
-      "title": "俄罗斯与乌克兰高度关注特朗普中国行",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260513-%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E5%9B%BD%E8%A1%8C",
-      "source": "rfi.fr",
-      "published": 1778666932
-    },
-    {
-      "id": "a02641868b88",
-      "title": "特习会启动前，中美在韩国首尔举行贸易磋商",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260513-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%90%AF%E5%8A%A8%E5%89%8D%EF%BC%8C%E4%B8%AD%E7%BE%8E%E5%9C%A8%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E4%B8%BE%E8%A1%8C%E8%B4%B8%E6%98%93%E7%A3%8B%E5%95%86",
-      "source": "rfi.fr",
-      "published": 1778666192
-    },
-    {
-      "id": "1b60a70a9e15",
-      "title": "美国国务院称 : 美中两国共同反对伊朗在霍尔木兹海峡收费",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260513-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E9%99%A2%E7%A7%B0-%E7%BE%8E%E4%B8%AD%E4%B8%A4%E5%9B%BD%E5%85%B1%E5%90%8C%E5%8F%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%94%B6%E8%B4%B9",
-      "source": "rfi.fr",
-      "published": 1778665909
     },
     {
       "id": "77a7722b52b0",
@@ -805,41 +861,6 @@
       "url": "https://cn.nytimes.com/business/20260513/china-semiconductor-ai-deepseek/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1778606772
-    },
-    {
-      "id": "d4b9556b53f0",
-      "title": "欧洲清算银行拟接受经“债券通”持有的中国债券作为抵押品",
-      "url": "https://www.ftchinese.com/story/001109707",
-      "source": "ftchinese.com",
-      "published": 1778601600
-    },
-    {
-      "id": "85cefc2feed7",
-      "title": "特朗普将面对中国“自信的长城”",
-      "url": "https://www.ftchinese.com/story/001109706",
-      "source": "ftchinese.com",
-      "published": 1778601600
-    },
-    {
-      "id": "228bf341115f",
-      "title": "中国科技巨头被股市AI热潮排除在外",
-      "url": "https://www.ftchinese.com/story/001109705",
-      "source": "ftchinese.com",
-      "published": 1778601600
-    },
-    {
-      "id": "1d2a6b236490",
-      "title": "市场过于依赖“幸福交易”",
-      "url": "https://www.ftchinese.com/story/001109703",
-      "source": "ftchinese.com",
-      "published": 1778601600
-    },
-    {
-      "id": "541e1443bbe0",
-      "title": "特朗普支持AI的真正原因",
-      "url": "https://www.ftchinese.com/story/001109702",
-      "source": "ftchinese.com",
-      "published": 1778601600
     },
     {
       "id": "ba01545f237b",
@@ -961,13 +982,6 @@
       "published": 1778508660
     },
     {
-      "id": "8840f4313b30",
-      "title": "前俄军中国籍士兵在德国庇护申请遭拒 或将被遣返",
-      "url": "https://www.dw.com/zh/前俄军中国籍士兵在德国庇护申请遭拒-或将被遣返/a-77087955?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1778505780
-    },
-    {
       "id": "a5bb9faeabcb",
       "title": "美國會否改口「反對」台獨？特朗普訪華前夕台灣陷「菜單焦慮」",
       "url": "https://www.bbc.com/zhongwen/articles/cz7204wvjdjo/trad?at_medium=RSS&at_campaign=rss",
@@ -980,13 +994,6 @@
       "url": "https://www.dw.com/zh/中远拟收购一德国物流公司-引国安疑虑/a-77118067?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1778493720
-    },
-    {
-      "id": "681453aa643b",
-      "title": "普京点名施罗德斡旋俄乌停战 德国欧盟均拒绝",
-      "url": "https://www.dw.com/zh/普京点名施罗德斡旋俄乌停战-德国欧盟均拒绝/a-77117700?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1778493660
     },
     {
       "id": "241de419f315",
@@ -1024,16 +1031,16 @@
       "published": 1778422020
     },
     {
-      "id": "844007411c6b",
-      "title": "复苏梦碎？中东冲突让德国企业“心态崩了”",
-      "url": "https://www.dw.com/zh/复苏梦碎？中东冲突让德国企业-心态崩了/a-77053341?maca=chi-rss-chi-all-1127-rdf",
+      "id": "9c5cf359d4de",
+      "title": "能源危机未平 厄尔尼诺又来？亚洲今夏面临考验",
+      "url": "https://www.dw.com/zh/能源危机未平-厄尔尼诺又来？亚洲今夏面临考验/a-77097274?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1778396820
     },
     {
-      "id": "9c5cf359d4de",
-      "title": "能源危机未平 厄尔尼诺又来？亚洲今夏面临考验",
-      "url": "https://www.dw.com/zh/能源危机未平-厄尔尼诺又来？亚洲今夏面临考验/a-77097274?maca=chi-rss-chi-all-1127-rdf",
+      "id": "844007411c6b",
+      "title": "复苏梦碎？中东冲突让德国企业“心态崩了”",
+      "url": "https://www.dw.com/zh/复苏梦碎？中东冲突让德国企业-心态崩了/a-77053341?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1778396820
     },
@@ -1185,20 +1192,6 @@
       "published": 1777967176
     },
     {
-      "id": "b87b8c6f379c",
-      "title": "什麼是AI蒸餾：一項關鍵技術為何成為美中科技競爭的新戰場",
-      "url": "https://www.bbc.com/zhongwen/articles/cjrp2g758pdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1777954891
-    },
-    {
-      "id": "768cbc8d69b1",
-      "title": "中國人在台灣講脫口秀  「粉紅中配」走進台灣喜劇圈",
-      "url": "https://www.bbc.com/zhongwen/articles/clypnk7dm35o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1777872376
-    },
-    {
       "id": "f103e6399b09",
       "title": "哈佛泰斗利伯执掌深圳实验室 脑机接口引关注",
       "url": "https://www.dw.com/zh/哈佛泰斗利伯执掌深圳实验室-脑机接口引关注/a-77010797?maca=chi-rss-chi-all-1127-rdf",
@@ -1276,13 +1269,6 @@
       "published": 1776520560
     },
     {
-      "id": "5e680e8cef19",
-      "title": "法国议会通过归还掠夺文物法案 中国网民：交给南博吧！",
-      "url": "https://www.dw.com/zh/法国议会通过归还掠夺文物法案-中国网民：交给南博吧！/a-76811836?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1776348300
-    },
-    {
       "id": "f59b20acbb44",
       "title": "香港五年規劃：北京下達KPI還是「責無旁貸」的社會主義融合？",
       "url": "https://www.bbc.com/zhongwen/articles/c6245evk06yo/trad?at_medium=RSS&at_campaign=rss",
@@ -1290,5 +1276,5 @@
       "published": 1776228054
     }
   ],
-  "build_id": 1778747103
+  "build_id": 1778755117
 }
