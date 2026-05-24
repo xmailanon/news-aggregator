@@ -1,6 +1,41 @@
 {
-  "updated": 1779637978,
+  "updated": 1779641381,
   "items": [
+    {
+      "id": "50879e99c811",
+      "title": "南卡州海灘人踩人事件 至少19人受傷",
+      "url": "https://www.singtaousa.com/2026/05/24/news/usa/news-south-carolina-stampede-injuries-festival/",
+      "source": "singtaousa.com",
+      "published": 1779641076
+    },
+    {
+      "id": "33b4e5b13833",
+      "title": "土耳其警方強攻反對黨總部 發射催淚彈",
+      "url": "https://www.singtaousa.com/2026/05/24/news/world/turkish-police-storm-offices-of-main-opposition-party-firing-tear-gas-and-rubber-bullets/",
+      "source": "singtaousa.com",
+      "published": 1779638977
+    },
+    {
+      "id": "e639a6fa4a51",
+      "title": "“抬头率”救不了大学课堂",
+      "url": "https://www.ftchinese.com/story/001109820",
+      "source": "ftchinese.com",
+      "published": 1779638400
+    },
+    {
+      "id": "e059e663d703",
+      "title": "《執法者們》紐約獲獎揚威國際",
+      "url": "https://www.singtaousa.com/2026/05/24/entertainment/law-enforcers-new-york-award/",
+      "source": "singtaousa.com",
+      "published": 1779638400
+    },
+    {
+      "id": "0b6e9b2beb3d",
+      "title": "古天樂組劇團 張繼謙首當監製 與金像影后廖子妤齊賀《大龍鳳》舞台劇",
+      "url": "https://www.singtaousa.com/2026/05/24/entertainment/louis-cheung-first-producer-one-cool-stage-gig/",
+      "source": "singtaousa.com",
+      "published": 1779638392
+    },
     {
       "id": "5c6cef58bb57",
       "title": "馬克龍致電盧卡申科 討論烏克蘭局勢",
@@ -126,34 +161,6 @@
       "url": "https://www.dw.com/zh/美伊谈判现转机？卢比奥：-数小时内-或有好消息/a-77280055?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1779631860
-    },
-    {
-      "id": "e4aacc1d3ab1",
-      "title": "尼克斯把騎士打爆了",
-      "url": "https://www.singtaousa.com/2026/05/24/news/usa/knicks-defeat-cavaliers/",
-      "source": "singtaousa.com",
-      "published": 1779631200
-    },
-    {
-      "id": "9d9bb586c66e",
-      "title": "埃勒斯梅開二度 颶風加時絕殺加人",
-      "url": "https://www.singtaousa.com/2026/05/24/news/usa/hurricanes-2-goals-ot-winner/",
-      "source": "singtaousa.com",
-      "published": 1779631200
-    },
-    {
-      "id": "f5511cc3366f",
-      "title": "客場10人應戰   夏洛特保住勝果",
-      "url": "https://www.singtaousa.com/2026/05/24/news/usa/charlotte-wins-away-game/",
-      "source": "singtaousa.com",
-      "published": 1779631200
-    },
-    {
-      "id": "e7b085c772ff",
-      "title": "鄧愷威交出代表作",
-      "url": "https://www.singtaousa.com/2026/05/24/news/usa/deng-kaiwei-representative-performance/",
-      "source": "singtaousa.com",
-      "published": 1779631200
     },
     {
       "id": "06f544749d97",
@@ -863,13 +870,6 @@
       "published": 1779379200
     },
     {
-      "id": "cfd9dba0881d",
-      "title": "文旅话语的失焦与聚焦",
-      "url": "https://www.ftchinese.com/story/001109803",
-      "source": "ftchinese.com",
-      "published": 1779379200
-    },
-    {
       "id": "c79aa3bfc03f",
       "title": "德语媒体：笑到最后的是中国",
       "url": "https://www.dw.com/zh/德语媒体：笑到最后的是中国/a-77250608?maca=chi-rss-chi-all-1127-rdf",
@@ -1332,5 +1332,5 @@
       "published": 1777103400
     }
   ],
-  "build_id": 1779637978
+  "build_id": 1779641381
 }
