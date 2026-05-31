@@ -1,12 +1,152 @@
 {
-  "updated": 1780232015,
+  "updated": 1780237471,
   "items": [
     {
-      "id": "011be188c102",
-      "title": "印度熱浪持續 中國留學生因宿舍無冷氣提前回國",
-      "url": "https://www.singtaousa.com/2026/05/31/news/china/india-heatwave-chinese-student-returns/",
+      "id": "c8ab42755016",
+      "title": "法國持續吸引外資　官員：發展去碳能源是關鍵動力",
+      "url": "https://money.udn.com/money/story/5599/9537130",
+      "source": "money.udn.com",
+      "published": 1780236741
+    },
+    {
+      "id": "cf3568cf2f88",
+      "title": "香港Comic Con 2026發生盜竊案 六旬男子偷取千元耳機翌日被捕",
+      "url": "https://www.singtaousa.com/2026/05/31/news/china/sixty-year-old-man-steals-headphones-at-comic-con/",
       "source": "singtaousa.com",
-      "published": 1780231114
+      "published": 1780236515
+    },
+    {
+      "id": "70c760015908",
+      "title": "晶片股泡沫化疑慮重重...這五檔才是真贏家 美銀首選股也有它",
+      "url": "https://money.udn.com/money/story/123398/9537106",
+      "source": "money.udn.com",
+      "published": 1780236091
+    },
+    {
+      "id": "c8271a87f669",
+      "title": "馬刺12年後再進總決賽",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/spurs-return-finals-12-years/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "1825ec1faf4b",
+      "title": "文班亞馬步步為營  刷爆聯盟紀錄",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/wembanyama-breaks-nba-records/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "4b0bf75e8085",
+      "title": "放音樂干擾睡覺   球迷搞事幫倒忙",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/music-interference-sleep-fans/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "92256c7a7d2e",
+      "title": "教士王牌開季首轟出爐",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/tatis-home-run-season-opener/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "0cd550b023da",
+      "title": "開賽前遭驅逐  光芒天使投手上演國歌罰站比賽",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/anthem-penalty-game-rays-angels/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "77b59272a7f0",
+      "title": "嘉信高球挑戰賽   科爾衝刺首冠",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/challenges-golf-eric-cole/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "de7d83441d09",
+      "title": "建國250年慶典  特朗普將領銜登場",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/trump-250th-anniversary-appearance/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "7ffd5f1ed94a",
+      "title": "總統體檢報告公佈   健康極佳認知評估滿分",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/trump-health-report-excellent/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "c96d5d7b0591",
+      "title": "高度忠誠為萬斯加分  接班能力仍存疑慮",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/trump-vance-successor-concerns/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "60fc9e6fe4b7",
+      "title": "阻甘迺迪中心翻修改名  特朗普怒轟法官夫婦",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/trump-kennedy-center-name-change/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "7d2ed76dad50",
+      "title": "當局竭力斷生路  移民難尋容身地",
+      "url": "https://www.singtaousa.com/2026/05/31/news/usa/immigration-challenges-us/",
+      "source": "singtaousa.com",
+      "published": 1780236000
+    },
+    {
+      "id": "d905e818d231",
+      "title": "美药企对中国生物技术公司依赖加深 议员致信美财长表关切",
+      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260531-%E7%BE%8E%E8%8D%AF%E4%BC%81%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8%E4%BE%9D%E8%B5%96%E5%8A%A0%E6%B7%B1-%E8%AE%AE%E5%91%98%E8%87%B4%E4%BF%A1%E7%BE%8E%E8%B4%A2%E9%95%BF%E8%A1%A8%E5%85%B3%E5%88%87",
+      "source": "rfi.fr",
+      "published": 1780235776
+    },
+    {
+      "id": "33227c07222d",
+      "title": "颱風薔蜜直逼沖繩奄美 氣象廳警告強風恐吹倒電線桿",
+      "url": "https://money.udn.com/money/story/5599/9537096",
+      "source": "money.udn.com",
+      "published": 1780235138
+    },
+    {
+      "id": "5af19945e42d",
+      "title": "菲律賓防長提「群島哨兵」概念　 阻中國海上擴張",
+      "url": "https://money.udn.com/money/story/5599/9537091",
+      "source": "money.udn.com",
+      "published": 1780234612
+    },
+    {
+      "id": "32a1e6292743",
+      "title": "馬爾他國會大選　執政工黨宣布奪創紀錄4連勝",
+      "url": "https://money.udn.com/money/story/5599/9537090",
+      "source": "money.udn.com",
+      "published": 1780234597
+    },
+    {
+      "id": "096b83f92b2c",
+      "title": "法國歐冠盃連霸球迷暴動與警方爆衝突　780人被捕",
+      "url": "https://money.udn.com/money/story/5599/9537089",
+      "source": "money.udn.com",
+      "published": 1780234582
+    },
+    {
+      "id": "cdf3f0364df6",
+      "title": "德國新創發展石墨烯半導體 　預計量產需約3年",
+      "url": "https://money.udn.com/money/story/5599/9537040",
+      "source": "money.udn.com",
+      "published": 1780232062
+    },
+    {
+      "id": "3529c4015dba",
+      "title": "墙外文摘：台湾并非中美关系的核心问题",
+      "url": "https://www.dw.com/zh/墙外文摘：台湾并非中美关系的核心问题/a-77363277?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1780230840
     },
     {
       "id": "329ecdaaba69",
@@ -30,88 +170,11 @@
       "published": 1780229340
     },
     {
-      "id": "44a7f8866387",
-      "title": "張凌赫南寧出席活動 粉絲過於踴躍擠爆商場玻璃門致5人受傷",
-      "url": "https://www.singtaousa.com/2026/05/31/news/china/zhang-linghe-fan-crowd-injuries-nanning/",
-      "source": "singtaousa.com",
-      "published": 1780229321
-    },
-    {
       "id": "58b06d8d8f54",
       "title": "曼谷同志大遊行　民眾無懼暴雨揮彩虹旗驕傲挺平權",
       "url": "https://money.udn.com/money/story/5599/9536971",
       "source": "money.udn.com",
       "published": 1780229214
-    },
-    {
-      "id": "0991e507e5e9",
-      "title": "一開閃爆，士氣如虹",
-      "url": "https://www.singtaousa.com/2026/05/31/news/usa/restaurant-opening-success/",
-      "source": "singtaousa.com",
-      "published": 1780228800
-    },
-    {
-      "id": "09ba146882cf",
-      "title": "安靜很難？",
-      "url": "https://www.singtaousa.com/2026/05/31/news/usa/quiet-is-hard/",
-      "source": "singtaousa.com",
-      "published": 1780228800
-    },
-    {
-      "id": "e97b981ce75e",
-      "title": "歐洲一日遊",
-      "url": "https://www.singtaousa.com/2026/05/31/news/usa/europe-day-trip/",
-      "source": "singtaousa.com",
-      "published": 1780228800
-    },
-    {
-      "id": "51b4e983a5a4",
-      "title": "網約車講數講數據",
-      "url": "https://www.singtaousa.com/2026/05/31/news/usa/ride-hailing-data-issues/",
-      "source": "singtaousa.com",
-      "published": 1780228800
-    },
-    {
-      "id": "a466039c7713",
-      "title": "香港藝術展",
-      "url": "https://www.singtaousa.com/2026/05/31/news/usa/hong-kong-art-exhibition/",
-      "source": "singtaousa.com",
-      "published": 1780228800
-    },
-    {
-      "id": "a469a29acfe4",
-      "title": "釀5死44傷車禍華裔司機被控誤殺",
-      "url": "https://www.singtaousa.com/2026/05/31/news/usa/virginia-bus-accident-chinese-driver/",
-      "source": "singtaousa.com",
-      "published": 1780228800
-    },
-    {
-      "id": "eb27f2a08832",
-      "title": "首款採用英偉達芯片Windows電腦將亮相",
-      "url": "https://www.singtaousa.com/2026/05/31/news/usa/nvidia-windows-pc-launch/",
-      "source": "singtaousa.com",
-      "published": 1780228800
-    },
-    {
-      "id": "6d38209e1107",
-      "title": "芯片巨頭齊聚台灣  電腦展成產業風向標",
-      "url": "https://www.singtaousa.com/2026/05/31/news/world/chip-industry-taiwan-expo/",
-      "source": "singtaousa.com",
-      "published": 1780228800
-    },
-    {
-      "id": "bf2177483a32",
-      "title": "赫格塞斯不再放狠話  事出有因",
-      "url": "https://www.singtaousa.com/2026/05/31/news/world/hagel-says-no-more-threats/",
-      "source": "singtaousa.com",
-      "published": 1780228800
-    },
-    {
-      "id": "06946d9275ac",
-      "title": "伊波拉疫情蔓延至巴西",
-      "url": "https://www.singtaousa.com/2026/05/31/news/world/ebola-outbreak-brazil/",
-      "source": "singtaousa.com",
-      "published": 1780228800
     },
     {
       "id": "ecf9fbc6439b",
@@ -254,20 +317,6 @@
       "published": 1780219617
     },
     {
-      "id": "0aa6a303fcc2",
-      "title": "華盛頓州紙漿廠化學槽內爆　尋獲9具遺體增至11死",
-      "url": "https://money.udn.com/money/story/5599/9536797",
-      "source": "money.udn.com",
-      "published": 1780219283
-    },
-    {
-      "id": "f3b158ec3a98",
-      "title": "日航客機迫降案之前　羽田機場跑道金屬隆起",
-      "url": "https://money.udn.com/money/story/5599/9536789",
-      "source": "money.udn.com",
-      "published": 1780218751
-    },
-    {
       "id": "1a08530c22ab",
       "title": "日本驳斥中国“新军国主义”指控 反指北京正迅速军事扩张",
       "url": "https://www.dw.com/zh/日本驳斥中国-新军国主义-指控-反指北京正迅速军事扩张/a-77362191?maca=chi-rss-chi-all-1127-rdf",
@@ -275,46 +324,11 @@
       "published": 1780218420
     },
     {
-      "id": "a9afee793fde",
-      "title": "烏克蘭無人機襲俄多地　能源與工業設施成目標",
-      "url": "https://money.udn.com/money/story/5599/9536765",
-      "source": "money.udn.com",
-      "published": 1780217194
-    },
-    {
       "id": "364439b75a14",
       "title": "日本防務大臣香格里拉對話會上否認新軍國主義，並批評中國「龐大武器庫」",
       "url": "https://www.bbc.com/zhongwen/articles/cz92z48dkn5o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1780216096
-    },
-    {
-      "id": "77b998d5771b",
-      "title": "日中關係緊張衝擊觀光 業者：赴中旅客驟減9成",
-      "url": "https://money.udn.com/money/story/5599/9536741",
-      "source": "money.udn.com",
-      "published": 1780215686
-    },
-    {
-      "id": "04b30f740e21",
-      "title": "香格里拉對話場邊會談　美日同意加速產製飛彈",
-      "url": "https://money.udn.com/money/story/5599/9536733",
-      "source": "money.udn.com",
-      "published": 1780215158
-    },
-    {
-      "id": "893fb4b95938",
-      "title": "印尼泥火山爆發20週年　災民痛訴：惡夢仍未結束",
-      "url": "https://money.udn.com/money/story/5599/9536709",
-      "source": "money.udn.com",
-      "published": 1780214086
-    },
-    {
-      "id": "8347aac58f02",
-      "title": "日韓防長新加坡會面　討論軍事後勤支援協議",
-      "url": "https://money.udn.com/money/story/5599/9536693",
-      "source": "money.udn.com",
-      "published": 1780212986
     },
     {
       "id": "0303102d8197",
@@ -464,6 +478,34 @@
       "published": 1780163865
     },
     {
+      "id": "96c29f2aeb7f",
+      "title": "拒绝AI焦虑：初创公司押注“情绪价值”慢赛道",
+      "url": "https://www.ftchinese.com/story/001109891",
+      "source": "ftchinese.com",
+      "published": 1780156800
+    },
+    {
+      "id": "4bca19a183e3",
+      "title": "韩元和海力士背离：资金去哪了？",
+      "url": "https://www.ftchinese.com/story/001109888",
+      "source": "ftchinese.com",
+      "published": 1780156800
+    },
+    {
+      "id": "84d3c47d8230",
+      "title": "德国经济部长中国行：为何德方强调“要自信”",
+      "url": "https://www.ftchinese.com/story/001109886",
+      "source": "ftchinese.com",
+      "published": 1780156800
+    },
+    {
+      "id": "44e893c09953",
+      "title": "“韬定律”和技术的极限",
+      "url": "https://www.ftchinese.com/story/001109881",
+      "source": "ftchinese.com",
+      "published": 1780156800
+    },
+    {
       "id": "a52b53371e15",
       "title": "从电影撤档风波，看文化传媒行业前置伦理标准的缺位",
       "url": "https://www.ftchinese.com/story/001109846",
@@ -539,13 +581,6 @@
       "url": "https://www.dw.com/zh/赫格塞斯：不会允许中国主导印太/a-77354518?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1780136940
-    },
-    {
-      "id": "ec26d2142d0b",
-      "title": "赫格塞思淡化对华措辞但称不容中国主导印太，越南称不选边站队",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260530-%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%80%9D%E6%B7%A1%E5%8C%96%E5%AF%B9%E5%8D%8E%E6%8E%AA%E8%BE%9E%E4%BD%86%E7%A7%B0%E4%B8%8D%E5%AE%B9%E4%B8%AD%E5%9B%BD%E4%B8%BB%E5%AF%BC%E5%8D%B0%E5%A4%AA%EF%BC%8C%E8%B6%8A%E5%8D%97%E7%A7%B0%E4%B8%8D%E9%80%89%E8%BE%B9%E7%AB%99%E9%98%9F",
-      "source": "rfi.fr",
-      "published": 1780135363
     },
     {
       "id": "af19fe71e0b4",
@@ -800,13 +835,6 @@
       "published": 1779984000
     },
     {
-      "id": "728a9af26634",
-      "title": "“音乐已足够伟大，不需要我们在旁边教育听众”",
-      "url": "https://www.ftchinese.com/story/001109856",
-      "source": "ftchinese.com",
-      "published": 1779984000
-    },
-    {
       "id": "b1d5c11b565e",
       "title": "德语媒体：经济部长赖歇访华的平衡术",
       "url": "https://www.dw.com/zh/德语媒体：经济部长赖歇访华的平衡术/a-77333607?maca=chi-rss-chi-all-1127-rdf",
@@ -896,27 +924,6 @@
       "url": "https://cn.nytimes.com/health/20260528/ebola-hantavirus-species-strains/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1779904261
-    },
-    {
-      "id": "73c287a84de0",
-      "title": "曹慰德：真正的繁荣来自从“我”到“我们”的思维转变",
-      "url": "https://www.ftchinese.com/story/001109540",
-      "source": "ftchinese.com",
-      "published": 1779897600
-    },
-    {
-      "id": "eecd97f605aa",
-      "title": "空中云汇将部分员工调离中国",
-      "url": "https://www.ftchinese.com/story/001109874",
-      "source": "ftchinese.com",
-      "published": 1779897600
-    },
-    {
-      "id": "16f31db17e66",
-      "title": "中国航空产业正深度融入全球产业链",
-      "url": "https://www.ftchinese.com/story/001109870",
-      "source": "ftchinese.com",
-      "published": 1779897600
     },
     {
       "id": "0225c68ed604",
@@ -1192,13 +1199,6 @@
       "published": 1779169380
     },
     {
-      "id": "57cf2b107d52",
-      "title": "长平观察：“修昔底德陷阱”的陷阱——习近平到底对特朗普说了什么？",
-      "url": "https://www.dw.com/zh/长平观察：-修昔底德陷阱-的陷阱-习近平到底对特朗普说了什么？/a-77200367?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1779112140
-    },
-    {
       "id": "b13c0f99fba5",
       "title": "世卫组织：埃博拉疫情构成“国际关注的突发公共卫生事件”",
       "url": "https://www.dw.com/zh/世卫组织：埃博拉疫情构成-国际关注的突发公共卫生事件/a-77189079?maca=chi-rss-chi-news-3224-rdf",
@@ -1290,5 +1290,5 @@
       "published": 1778058720
     }
   ],
-  "build_id": 1780232015
+  "build_id": 1780237471
 }
