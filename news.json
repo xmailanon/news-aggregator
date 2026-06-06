@@ -1,6 +1,27 @@
 {
-  "updated": 1780786399,
+  "updated": 1780790060,
   "items": [
+    {
+      "id": "a41e6ed914ae",
+      "title": "立陶宛社民黨擬重組執政聯盟 內閣可能連動改組",
+      "url": "https://money.udn.com/money/story/5599/9550609",
+      "source": "money.udn.com",
+      "published": 1780788983
+    },
+    {
+      "id": "3ca11bbf7d65",
+      "title": "阿姆斯特丹因應觀光公害　旅遊稅研議提高至20%",
+      "url": "https://money.udn.com/money/story/5599/9550605",
+      "source": "money.udn.com",
+      "published": 1780788628
+    },
+    {
+      "id": "ec991ed036b7",
+      "title": "韓棟 哭訴無戲可拍",
+      "url": "https://www.singtaousa.com/2026/06/06/entertainment/han-dong-cry-no-roles/",
+      "source": "singtaousa.com",
+      "published": 1780786800
+    },
     {
       "id": "8ba85c291458",
       "title": "蔡奇的权力已大到危险的地步？",
@@ -10,7 +31,7 @@
     },
     {
       "id": "89c1e2f8ac38",
-      "title": "特朗交政策引共和党内部分裂　伊朗与俄乌议题成国会反弹焦点",
+      "title": "特朗普外交政策引共和党内部分裂　伊朗与俄乌议题成国会反弹焦点",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260606-%E7%89%B9%E6%9C%97%E4%BA%A4%E6%94%BF%E7%AD%96%E5%BC%95%E5%85%B1%E5%92%8C%E5%85%9A%E5%86%85%E9%83%A8%E5%88%86%E8%A3%82-%E4%BC%8A%E6%9C%97%E4%B8%8E%E4%BF%84%E4%B9%8C%E8%AE%AE%E9%A2%98%E6%88%90%E5%9B%BD%E4%BC%9A%E5%8F%8D%E5%BC%B9%E7%84%A6%E7%82%B9",
       "source": "rfi.fr",
       "published": 1780783688
@@ -147,13 +168,6 @@
       "url": "https://www.singtaousa.com/2026/06/06/entertainment/travis-japan-usa-nature-shopping/",
       "source": "singtaousa.com",
       "published": 1780776000
-    },
-    {
-      "id": "591df7060886",
-      "title": "屯門山景邨女子墮樓身亡 現場檢獲遺書",
-      "url": "https://www.singtaousa.com/2026/06/06/news/china/tuen-mun-hillview-estate-woman-suicide-note/",
-      "source": "singtaousa.com",
-      "published": 1780774715
     },
     {
       "id": "04dcf85a351d",
@@ -315,20 +329,6 @@
       "url": "https://money.udn.com/money/story/5599/9550329",
       "source": "money.udn.com",
       "published": 1780756228
-    },
-    {
-      "id": "ca92e676d063",
-      "title": "世足賽倒數1／辦世界能盃發大財？殘酷真相：主辦城市經濟效益很有限",
-      "url": "https://money.udn.com/money/story/122381/9550314",
-      "source": "money.udn.com",
-      "published": 1780755866
-    },
-    {
-      "id": "4f34cacfcd4a",
-      "title": "世足賽倒數2／熱到達延賽門檻？高溫隱憂讓球員+百萬球迷曝熱傷害風險",
-      "url": "https://money.udn.com/money/story/122381/9550311",
-      "source": "money.udn.com",
-      "published": 1780755767
     },
     {
       "id": "d9b5d4b4dd49",
@@ -1311,5 +1311,5 @@
       "published": 1778230620
     }
   ],
-  "build_id": 1780786399
+  "build_id": 1780790060
 }
