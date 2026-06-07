@@ -1,12 +1,47 @@
 {
-  "updated": 1780859447,
+  "updated": 1780864905,
   "items": [
+    {
+      "id": "03a5dac34170",
+      "title": "元朗朗屏邨中年男子墮樓 送院搶救後不治 警方籲知情者提供資料",
+      "url": "https://www.singtaousa.com/2026/06/07/news/china/middle-aged-man-falls-to-death-yuen-long/",
+      "source": "singtaousa.com",
+      "published": 1780864718
+    },
+    {
+      "id": "f64b253673b2",
+      "title": "深水埗私家車失控撞入行人路 兩女途人受傷司機逃逸",
+      "url": "https://www.singtaousa.com/2026/06/07/news/china/car-crash-pedestrians-trapped-shop-shutter/",
+      "source": "singtaousa.com",
+      "published": 1780862916
+    },
+    {
+      "id": "c01f644c107d",
+      "title": "James Handy被刺殺 女友兒子被捕",
+      "url": "https://www.singtaousa.com/2026/06/07/entertainment/james-handy-stabbing-arrest/",
+      "source": "singtaousa.com",
+      "published": 1780862400
+    },
+    {
+      "id": "ab8e8699dab1",
+      "title": "西南多地暴雨成災 國家防總派工作組赴重慶 紅色山洪預警生效",
+      "url": "https://www.singtaousa.com/2026/06/07/news/china/southwest-china-torrential-rain-flood-warning/",
+      "source": "singtaousa.com",
+      "published": 1780861114
+    },
     {
       "id": "e63f4e5d59ae",
       "title": "香港往舟山貨船發生船員失蹤事件 49歲男大廚下落不明",
       "url": "https://www.singtaousa.com/2026/06/07/news/china/missing-chef-hong-kong-zhoushan-cargo-ship/",
       "source": "singtaousa.com",
       "published": 1780859315
+    },
+    {
+      "id": "8ae95766a450",
+      "title": "美通膨看升預期5月 CPI 年增4.2% Fed 鷹派抬頭將帶動美債殖利率續揚",
+      "url": "https://money.udn.com/money/story/5599/9551834",
+      "source": "money.udn.com",
+      "published": 1780859134
     },
     {
       "id": "6dd42a3ef4d5",
@@ -72,13 +107,6 @@
       "published": 1780855443
     },
     {
-      "id": "f3d130deed61",
-      "title": "芬蘭研究：大黃蜂腦小卻具高階解題能力",
-      "url": "https://www.singtaousa.com/2026/06/07/news/world/bumblebees-have-tiny-brains-but-they-can-solve-problems-like-chimps-and-elephants/",
-      "source": "singtaousa.com",
-      "published": 1780855200
-    },
-    {
       "id": "16494e2b956a",
       "title": "洛城場館餐飲員工喊罷工",
       "url": "https://money.udn.com/money/story/5599/9551800",
@@ -105,13 +133,6 @@
       "url": "https://money.udn.com/money/story/5599/9551783",
       "source": "money.udn.com",
       "published": 1780854885
-    },
-    {
-      "id": "2f693a84f416",
-      "title": "強烈暴風雨襲美東逾5000萬人 德州至密蘇里州面臨暴洪威脅",
-      "url": "https://www.singtaousa.com/2026/06/07/news/usa/news-severe-thunderstorms-flash-floods-texas-missouri-northeast/",
-      "source": "singtaousa.com",
-      "published": 1780854882
     },
     {
       "id": "07a9261f9aca",
@@ -156,25 +177,11 @@
       "published": 1780854690
     },
     {
-      "id": "b3dc6e6361e4",
-      "title": "世界盃本周開踢 考驗洛杉磯奧運準備情況",
-      "url": "https://www.singtaousa.com/2026/06/07/news/usa/news-los-angeles-world-cup-olympics-public-transit/",
-      "source": "singtaousa.com",
-      "published": 1780853742
-    },
-    {
       "id": "0014349425e1",
       "title": "IATA預測：航空業2026年載客量增、獲利減半",
       "url": "https://money.udn.com/money/story/5599/9551938",
       "source": "money.udn.com",
       "published": 1780853428
-    },
-    {
-      "id": "9ae54ef1ef26",
-      "title": "企業不堪成本重負 減肥藥成福利削減首選",
-      "url": "https://www.singtaousa.com/2026/06/07/news/usa/news-workplace-benefits-weight-loss-drugs-glp-1/",
-      "source": "singtaousa.com",
-      "published": 1780852968
     },
     {
       "id": "90ce241e8a3c",
@@ -252,13 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9551660",
       "source": "money.udn.com",
       "published": 1780840846
-    },
-    {
-      "id": "8d662ce9fdfc",
-      "title": "川普：美伊和平協議達成前　不會解凍伊朗資產",
-      "url": "https://money.udn.com/money/story/5599/9551658",
-      "source": "money.udn.com",
-      "published": 1780840826
     },
     {
       "id": "a264a5fee55b",
@@ -1311,5 +1311,5 @@
       "published": 1778309640
     }
   ],
-  "build_id": 1780859447
+  "build_id": 1780864905
 }
