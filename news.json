@@ -1,6 +1,20 @@
 {
-  "updated": 1781390022,
+  "updated": 1781394975,
   "items": [
+    {
+      "id": "105f19c7779e",
+      "title": "8度落空金像獎 格蓮終獲榮譽奧斯卡",
+      "url": "https://www.singtaousa.com/2026/06/13/entertainment/glenn-close-honor-oscar/",
+      "source": "singtaousa.com",
+      "published": 1781391600
+    },
+    {
+      "id": "a874eceac394",
+      "title": "美伊停战协议签还是不签 ？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260613-%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E5%8D%8F%E8%AE%AE%E7%AD%BE%E8%BF%98%E6%98%AF%E4%B8%8D%E7%AD%BE",
+      "source": "rfi.fr",
+      "published": 1781390073
+    },
     {
       "id": "9ca3755af2fc",
       "title": "G7如何开 全看特朗普心情好坏？",
@@ -147,13 +161,6 @@
       "url": "https://www.singtaousa.com/2026/06/13/news/china/jordan-hotel-drugs-viagra-arrest/",
       "source": "singtaousa.com",
       "published": 1781377718
-    },
-    {
-      "id": "7ea69284680f",
-      "title": "陳家樂自爆康城見全智賢怯場",
-      "url": "https://www.singtaousa.com/2026/06/13/entertainment/chan-ka-lok-meets-jeon-ji-hyun/",
-      "source": "singtaousa.com",
-      "published": 1781377200
     },
     {
       "id": "897e6f9289e8",
@@ -350,13 +357,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260612-%E7%BE%8E%E4%BC%8A%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E8%BF%9B%E5%85%A5%E6%9C%80%E5%90%8E%E5%86%B2%E5%88%BA%E9%98%B6%E6%AE%B5-%E4%BC%8A%E6%9C%97%E7%A7%B0-%E4%BB%8E%E6%9C%AA%E5%A6%82%E6%AD%A4%E6%8E%A5%E8%BF%91-%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E8%BE%BE%E6%88%90%E6%9C%BA%E7%8E%87%E8%B6%85%E8%BF%8780",
       "source": "rfi.fr",
       "published": 1781299649
-    },
-    {
-      "id": "4eaebf134e28",
-      "title": "特朗普驳斥伊朗媒体公布停战协议内容“假新闻”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260612-%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%B3%E6%96%A5%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%85%AC%E5%B8%83%E5%81%9C%E6%88%98%E5%8D%8F%E8%AE%AE%E5%86%85%E5%AE%B9-%E5%81%87%E6%96%B0%E9%97%BB",
-      "source": "rfi.fr",
-      "published": 1781294953
     },
     {
       "id": "720a357bcbb7",
@@ -1241,5 +1241,5 @@
       "published": 1778895907
     }
   ],
-  "build_id": 1781390022
+  "build_id": 1781394975
 }
