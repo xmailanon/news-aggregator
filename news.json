@@ -1,6 +1,34 @@
 {
-  "updated": 1781996175,
+  "updated": 1781999974,
   "items": [
+    {
+      "id": "ff2998ea65f3",
+      "title": "劉亦菲走紅毯 珠光寶氣驚艷全場",
+      "url": "https://www.singtaousa.com/2026/06/20/entertainment/liu-yi-fei-red-carpet/",
+      "source": "singtaousa.com",
+      "published": 1782000000
+    },
+    {
+      "id": "c446943a1545",
+      "title": "英國查爾斯國王首度公開個人稅單",
+      "url": "https://www.singtaousa.com/2026/06/20/news/world/king-charles-to-reveal-personal-tax-bill-for-first-time-as-monarch-2/",
+      "source": "singtaousa.com",
+      "published": 1781999572
+    },
+    {
+      "id": "cb8604cdf98e",
+      "title": "灣區吃貨集合！加拿大神級超市大統華登陸聖荷西",
+      "url": "https://www.singtaousa.com/2026/06/20/lifestyle/canadas-cult-favorite-supermarket-arrives-in-the-bay-area-its-a-showstopper/",
+      "source": "singtaousa.com",
+      "published": 1781998760
+    },
+    {
+      "id": "ca5614769981",
+      "title": "范斯赴瑞士參加美伊會談　聚焦核議題、黎巴嫩停火",
+      "url": "https://money.udn.com/money/story/5599/9578659",
+      "source": "money.udn.com",
+      "published": 1781996799
+    },
     {
       "id": "c741d4719dd6",
       "title": "元朗教育路住宅單位火警 多名居民疏散 一名長者送院",
@@ -93,13 +121,6 @@
       "published": 1781988103
     },
     {
-      "id": "ab60959613a6",
-      "title": "德州最高法院裁定SpaceX可於火箭發射期間關閉博卡奇卡海灘",
-      "url": "https://www.singtaousa.com/2026/06/20/news/usa/texas-environmentalists-lose-bid-to-block-musks-spacex-from-closing-beach/",
-      "source": "singtaousa.com",
-      "published": 1781987950
-    },
-    {
       "id": "59f057f6ab4e",
       "title": "半岛电视台一记者在以空袭中被炸死",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260620-%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E4%B8%80%E8%AE%B0%E8%80%85%E5%9C%A8%E4%BB%A5%E7%A9%BA%E8%A2%AD%E4%B8%AD%E8%A2%AB%E7%82%B8%E6%AD%BB",
@@ -107,25 +128,11 @@
       "published": 1781987894
     },
     {
-      "id": "fa8e493f99cd",
-      "title": "德州便利店爆紅 瑞典球迷戴牛仔帽看球賽",
-      "url": "https://www.singtaousa.com/2026/06/20/news/usa/swedish-world-cup-fan-goes-viral-for-praising-texas-gas-station-chain-that-sold-him-fabulous-cowboy-hat/",
-      "source": "singtaousa.com",
-      "published": 1781987707
-    },
-    {
       "id": "2386e6fabb96",
       "title": "阿斯麦：从未向中国出口极紫外光刻机或部件",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260620-%E9%98%BF%E6%96%AF%E9%BA%A6-%E4%BB%8E%E6%9C%AA%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E6%9E%81%E7%B4%AB%E5%A4%96%E5%85%89%E5%88%BB%E6%9C%BA%E6%88%96%E9%83%A8%E4%BB%B6",
       "source": "rfi.fr",
       "published": 1781987604
-    },
-    {
-      "id": "2e7fc59afcc6",
-      "title": "60天倒數計時！特朗普威脅開徵通行費",
-      "url": "https://www.singtaousa.com/2026/06/20/news/world/trump-threatens-to-charge-us-tolls-in-strait-of-hormuz-if-final-iran-deal-not-reached-in-60-days/",
-      "source": "singtaousa.com",
-      "published": 1781987286
     },
     {
       "id": "30ce5cdddb3b",
@@ -308,13 +315,6 @@
       "url": "https://money.udn.com/money/story/122381/9578398",
       "source": "money.udn.com",
       "published": 1781966048
-    },
-    {
-      "id": "8fb17ddc88be",
-      "title": "伊朗軍方稱關閉荷莫茲海峽 伊朗外交部卻說很快赴瑞士談判",
-      "url": "https://money.udn.com/money/story/5599/9578408",
-      "source": "money.udn.com",
-      "published": 1781965486
     },
     {
       "id": "705b4f9c74d6",
@@ -1339,5 +1339,5 @@
       "published": 1779534240
     }
   ],
-  "build_id": 1781996175
+  "build_id": 1781999974
 }
