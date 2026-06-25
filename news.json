@@ -1,19 +1,145 @@
 {
-  "updated": 1782401715,
+  "updated": 1782410421,
   "items": [
     {
-      "id": "8e9df6357ea1",
-      "title": "《抓特务》对观众来说，太复杂了",
-      "url": "https://www.ftchinese.com/story/001110150",
-      "source": "ftchinese.com",
-      "published": 1782403200
+      "id": "af5408c9ae3d",
+      "title": "甄澤權紅館魔術騷圓夢 張智霖關楚耀等圈中好友撐場",
+      "url": "https://www.singtaousa.com/2026/06/25/entertainment/louis-yan-hong-kong-coliseum-magic-show/",
+      "source": "singtaousa.com",
+      "published": 1782410511
     },
     {
-      "id": "ecf738fffaf1",
-      "title": "回望斯塔默的两年首相时光",
-      "url": "https://www.ftchinese.com/story/001110149",
-      "source": "ftchinese.com",
-      "published": 1782403200
+      "id": "e443c622da05",
+      "title": "Lisa受訪拒談感情事 側面證實與三公子情變",
+      "url": "https://www.singtaousa.com/2026/06/25/entertainment/lisa-refuses-to-discuss-relationship/",
+      "source": "singtaousa.com",
+      "published": 1782410400
+    },
+    {
+      "id": "d605f7736d11",
+      "title": "秘鲁总统大选：藤森惠子胜选似乎“不可逆转”面临一个两级分裂的国家",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260625-%E7%A7%98%E9%B2%81%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89-%E8%97%A4%E6%A3%AE%E6%83%A0%E5%AD%90%E8%83%9C%E9%80%89%E4%BC%BC%E4%B9%8E-%E4%B8%8D%E5%8F%AF%E9%80%86%E8%BD%AC-%E9%9D%A2%E4%B8%B4%E4%B8%80%E4%B8%AA%E4%B8%A4%E7%BA%A7%E5%88%86%E8%A3%82%E7%9A%84%E5%9B%BD%E5%AE%B6",
+      "source": "rfi.fr",
+      "published": 1782410293
+    },
+    {
+      "id": "d07a7a71837f",
+      "title": "最高法院裁決 特朗普政府可在邊境拒絕尋求庇護者",
+      "url": "https://www.singtaousa.com/2026/06/25/news/usa/supreme-court-allows-immigration-officials-to-turn-away-asylum-seekers-at-the-border/",
+      "source": "singtaousa.com",
+      "published": 1782409910
+    },
+    {
+      "id": "fb0e78cf6304",
+      "title": "美光財報猛 打記憶體空頭 點火晶片股行情",
+      "url": "https://money.udn.com/money/story/123398/9589077",
+      "source": "money.udn.com",
+      "published": 1782408679
+    },
+    {
+      "id": "2ac8a94a41a3",
+      "title": "源自非洲的巨大热气团在西欧上空盘踞不散：超1亿人周四经受35度以上高温",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260625-%E6%BA%90%E8%87%AA%E9%9D%9E%E6%B4%B2%E7%9A%84%E5%B7%A8%E5%A4%A7%E7%83%AD%E6%B0%94%E5%9B%A2%E5%9C%A8%E8%A5%BF%E6%AC%A7%E4%B8%8A%E7%A9%BA%E7%9B%98%E8%B8%9E%E4%B8%8D%E6%95%A3-%E8%B6%851%E4%BA%BF%E4%BA%BA%E5%91%A8%E5%9B%9B%E7%BB%8F%E5%8F%9735%E5%BA%A6%E4%BB%A5%E4%B8%8A%E9%AB%98%E6%B8%A9",
+      "source": "rfi.fr",
+      "published": 1782408535
+    },
+    {
+      "id": "d031e37c1dd7",
+      "title": "美通膨增溫 推高升息機率 能源價格上漲是主因",
+      "url": "https://money.udn.com/money/story/5599/9589080",
+      "source": "money.udn.com",
+      "published": 1782408402
+    },
+    {
+      "id": "3d9a82c1a0bf",
+      "title": "紐時：AI加劇台韓K型分化 富人更富、一般人無感",
+      "url": "https://money.udn.com/money/story/5599/9589111",
+      "source": "money.udn.com",
+      "published": 1782407943
+    },
+    {
+      "id": "6a8c7cf9aecb",
+      "title": "AI加劇台韓K型分化 竹科工程師 獎金花不完",
+      "url": "https://money.udn.com/money/story/5599/9589121",
+      "source": "money.udn.com",
+      "published": 1782407827
+    },
+    {
+      "id": "c23c5d12d065",
+      "title": "酷暑难耐：即使我没点任何东西，酒吧咖啡馆是否有法律义务给我一杯水？",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260625-%E9%85%B7%E6%9A%91%E9%9A%BE%E8%80%90-%E5%8D%B3%E4%BD%BF%E6%88%91%E6%B2%A1%E7%82%B9%E4%BB%BB%E4%BD%95%E4%B8%9C%E8%A5%BF%EF%BC%8C%E9%85%92%E5%90%A7%E5%92%96%E5%95%A1%E9%A6%86%E6%98%AF%E5%90%A6%E6%9C%89%E6%B3%95%E5%BE%8B%E4%B9%89%E5%8A%A1%E7%BB%99%E6%88%91%E4%B8%80%E6%9D%AF%E6%B0%B4",
+      "source": "rfi.fr",
+      "published": 1782407627
+    },
+    {
+      "id": "4ec4be380f70",
+      "title": "特朗普獲最高法院支持 33 萬海地移民陷困境",
+      "url": "https://www.singtaousa.com/2026/06/25/news/usa/trump-can-begin-deportations-of-syrian-haitian-tps-holders-supreme-court-says/",
+      "source": "singtaousa.com",
+      "published": 1782407393
+    },
+    {
+      "id": "a634a57d094b",
+      "title": "霍爾木茲海峽通航量恢復至戰前近6成",
+      "url": "https://www.singtaousa.com/2026/06/25/news/world/navigation-volume-in-the-strait-of-hormuz-returned-to-nearly-60-before-the-war/",
+      "source": "singtaousa.com",
+      "published": 1782406899
+    },
+    {
+      "id": "9b8647e0a091",
+      "title": "衛詩雅「擇日」 請Mani食「升職飯」",
+      "url": "https://www.singtaousa.com/2026/06/25/entertainment/samantha-chooses-mani-celebration/",
+      "source": "singtaousa.com",
+      "published": 1782406800
+    },
+    {
+      "id": "4e8ee5448b14",
+      "title": "蘋果漲價了 高階NB貴1萬元 平板也上調",
+      "url": "https://money.udn.com/money/story/5599/9589154",
+      "source": "money.udn.com",
+      "published": 1782406544
+    },
+    {
+      "id": "bcddc874c036",
+      "title": "AI樂觀情緒重燃　歐股收高",
+      "url": "https://money.udn.com/money/story/5599/9589293",
+      "source": "money.udn.com",
+      "published": 1782406103
+    },
+    {
+      "id": "b5b8a0b09003",
+      "title": "伊拉克尋求推動提高原油配額 否認退出OPEC",
+      "url": "https://www.singtaousa.com/2026/06/25/news/world/iraq-seeks-to-push-for-higher-crude-oil-quotas-denies-exit-from-opec/",
+      "source": "singtaousa.com",
+      "published": 1782406049
+    },
+    {
+      "id": "9ce3bb029bf1",
+      "title": "美國不滿中國簽證規定 拒派高級官員出席澳門APEC會議",
+      "url": "https://www.singtaousa.com/2026/06/25/news/world/the-united-states-is-dissatisfied-with-chinas-visa-regulations-and-refuses-to-send-senior-officials-to-attend-the-apec-meeting-in-macau/",
+      "source": "singtaousa.com",
+      "published": 1782405564
+    },
+    {
+      "id": "5bb1625a59e9",
+      "title": "直播海外華人的根在哪？",
+      "url": "https://www.singtaousa.com/2026/06/25/opinion/where-are-the-roots-of-overseas-chinese/",
+      "source": "singtaousa.com",
+      "published": 1782404556
+    },
+    {
+      "id": "d095e2556160",
+      "title": "比特幣再度跌破6萬美元 探近二年新低",
+      "url": "https://money.udn.com/money/story/5599/9589137",
+      "source": "money.udn.com",
+      "published": 1782403969
+    },
+    {
+      "id": "d4231538a356",
+      "title": "中国多家国有银行涉逃税 官方审计报告结论",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260625-%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%AE%B6%E5%9B%BD%E6%9C%89%E9%93%B6%E8%A1%8C%E6%B6%89%E9%80%83%E7%A8%8E-%E5%AE%98%E6%96%B9%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A%E7%BB%93%E8%AE%BA",
+      "source": "rfi.fr",
+      "published": 1782403664
     },
     {
       "id": "c235c46ddaa0",
@@ -30,11 +156,39 @@
       "published": 1782403200
     },
     {
+      "id": "8e9df6357ea1",
+      "title": "《抓特务》对观众来说，太复杂了",
+      "url": "https://www.ftchinese.com/story/001110150",
+      "source": "ftchinese.com",
+      "published": 1782403200
+    },
+    {
+      "id": "ecf738fffaf1",
+      "title": "回望斯塔默的两年首相时光",
+      "url": "https://www.ftchinese.com/story/001110149",
+      "source": "ftchinese.com",
+      "published": 1782403200
+    },
+    {
       "id": "f3c6abde3e8f",
       "title": "安东尼奥•高迪的灵感之窗",
       "url": "https://www.ftchinese.com/story/001110145",
       "source": "ftchinese.com",
       "published": 1782403200
+    },
+    {
+      "id": "14fdb9ee7eeb",
+      "title": "YS社長Yong Heo 大讚V Jimin努力乖巧",
+      "url": "https://www.singtaousa.com/2026/06/25/entertainment/yong-heo-praises-v-jimin/",
+      "source": "singtaousa.com",
+      "published": 1782403200
+    },
+    {
+      "id": "63deb420becc",
+      "title": "特朗普稱不熟悉貝安德　並暗批其能源政策主張",
+      "url": "https://www.singtaousa.com/2026/06/25/news/world/trump-says-hes-not-familiar-with-bayend-and-implicitly-criticizes-his-energy-policy-proposals/",
+      "source": "singtaousa.com",
+      "published": 1782402820
     },
     {
       "id": "eed99927add5",
@@ -44,39 +198,11 @@
       "published": 1782401798
     },
     {
-      "id": "319db5e527a2",
-      "title": "朱千雪懷第二胎五個月 分享母親身份下的心情轉變",
-      "url": "https://www.singtaousa.com/2026/06/25/entertainment/tracy-chu-pregnant-second-child/",
-      "source": "singtaousa.com",
-      "published": 1782401515
-    },
-    {
       "id": "d741d05091ef",
       "title": "美最高法院允許川普終止海地人敘利亞人暫免遣返保護",
       "url": "https://money.udn.com/money/story/5599/9589175",
       "source": "money.udn.com",
       "published": 1782401422
-    },
-    {
-      "id": "c286996690d7",
-      "title": "朝鮮戰爭紀念李在明致辭　形容是慘痛悲劇、戰爭傷痕",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/lee-jae-myung-delivers-a-speech-to-commemorate-the-korean-war-describing-it-as-a-tragic-tragedy-and-war-scars/",
-      "source": "singtaousa.com",
-      "published": 1782401142
-    },
-    {
-      "id": "8469fc9b7295",
-      "title": "鰂魚涌地盤發現可疑物 爆炸品處理課到場證實為巨石",
-      "url": "https://www.singtaousa.com/2026/06/25/news/china/quarry-bay-site-bomb-scare-eod-investigation/",
-      "source": "singtaousa.com",
-      "published": 1782401135
-    },
-    {
-      "id": "17827a15c461",
-      "title": "張栢芝律師發警告：訴訟文件或惹藐視法庭 前經理人余毓興擬向執法部門舉報",
-      "url": "https://www.singtaousa.com/2026/06/25/entertainment/cecilia-cheung-statement-court-documents/",
-      "source": "singtaousa.com",
-      "published": 1782399966
     },
     {
       "id": "89bfed9c0713",
@@ -100,46 +226,11 @@
       "published": 1782399655
     },
     {
-      "id": "5993484650cf",
-      "title": "佘詩曼昂平360工作花絮曝光 戶外拍攝遇遊人捕獲狀態獲讚",
-      "url": "https://www.singtaousa.com/2026/06/25/entertainment/charmaine-sheh-ngong-ping-photo-shoot/",
-      "source": "singtaousa.com",
-      "published": 1782399635
-    },
-    {
-      "id": "ed05ad26968e",
-      "title": "姚焯菲想自薦演《愛‧回家》大結局",
-      "url": "https://www.singtaousa.com/2026/06/25/entertainment/yao-zhuo-fei-recommends-love-return-home/",
-      "source": "singtaousa.com",
-      "published": 1782399600
-    },
-    {
-      "id": "d241bbf4bca0",
-      "title": "海關揭發不良商戶以鴨肝冒充匈牙利鵝肝 提醒市民提防消費陷阱",
-      "url": "https://www.singtaousa.com/2026/06/25/news/china/fake-hungarian-goose-liver-duck-liver/",
-      "source": "singtaousa.com",
-      "published": 1782399331
-    },
-    {
       "id": "150c8dde3649",
       "title": "美国人工智能企业Anthropic指控阿里巴巴非法获取其Claude AI模型功能",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260625-%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%81%E4%B8%9Aanthropic%E6%8C%87%E6%8E%A7%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%9D%9E%E6%B3%95%E8%8E%B7%E5%8F%96%E5%85%B6claude-ai%E6%A8%A1%E5%9E%8B%E5%8A%9F%E8%83%BD",
       "source": "rfi.fr",
       "published": 1782398811
-    },
-    {
-      "id": "19aae59bbdd5",
-      "title": "委內瑞拉及日本短時間內發生逾7級強震　專家指或存在觸發關係",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/strong-earthquakes-exceeding-magnitude-7-occurred-in-venezuela-and-japan-in-a-short-period-of-time-experts-pointed-out-that-there-may-be-a-triggering-relationship/",
-      "source": "singtaousa.com",
-      "published": 1782398224
-    },
-    {
-      "id": "e960aa865738",
-      "title": "中國加大對直播電商、AI生成式違法廣告監管力",
-      "url": "https://www.singtaousa.com/2026/06/25/news/usa/china-increases-supervision-over-live-streaming-e-commerce-and-ai-generated-illegal-advertising/",
-      "source": "singtaousa.com",
-      "published": 1782398186
     },
     {
       "id": "86ef3df1bad3",
@@ -163,13 +254,6 @@
       "published": 1782397620
     },
     {
-      "id": "086cfce73112",
-      "title": "深水埗檢獲鱷魚及瀕危爬行動物 35歲女子涉非法管有被捕",
-      "url": "https://www.singtaousa.com/2026/06/25/news/china/woman-arrested-endangered-reptiles-education/",
-      "source": "singtaousa.com",
-      "published": 1782397528
-    },
-    {
       "id": "a09eebdb3786",
       "title": "強震導致網路和電力中斷 海外數百萬委內瑞拉人聯絡不到親友飽受煎熬",
       "url": "https://money.udn.com/money/story/5599/9589010",
@@ -189,13 +273,6 @@
       "url": "https://money.udn.com/money/story/5599/9588972",
       "source": "money.udn.com",
       "published": 1782396004
-    },
-    {
-      "id": "ffc41343d8a2",
-      "title": "美光Q3獲利暴漲12倍",
-      "url": "https://www.singtaousa.com/2026/06/25/news/usa/micron-q3-earnings-surge/",
-      "source": "singtaousa.com",
-      "published": 1782396000
     },
     {
       "id": "dbfcf8683d77",
@@ -261,60 +338,11 @@
       "published": 1782394669
     },
     {
-      "id": "fb1a0aea4057",
-      "title": "美5月通膨創3年新高　Q1經濟成長率上修至2.1%",
-      "url": "https://money.udn.com/money/story/5599/9588938",
-      "source": "money.udn.com",
-      "published": 1782394608
-    },
-    {
-      "id": "157d7260c807",
-      "title": "IBM發表0.7奈米晶片製程　搶攻AI運算市場",
-      "url": "https://money.udn.com/money/story/5599/9588937",
-      "source": "money.udn.com",
-      "published": 1782394598
-    },
-    {
-      "id": "70c44bb2ca93",
-      "title": "委內瑞拉雙強震 各國宣布將送物資並派搜救人員援助",
-      "url": "https://money.udn.com/money/story/5599/9588918",
-      "source": "money.udn.com",
-      "published": 1782393812
-    },
-    {
-      "id": "8719e4406217",
-      "title": "亞馬遜允諾追加投資130億美元　擴大布局印度AI版圖",
-      "url": "https://money.udn.com/money/story/5599/9588915",
-      "source": "money.udn.com",
-      "published": 1782393685
-    },
-    {
-      "id": "97ccf7225bc3",
-      "title": "英國政壇人物誌：從黨魁落選到首相熱門 地方治理明星安迪·柏能",
-      "url": "https://money.udn.com/money/story/5599/9587058",
-      "source": "money.udn.com",
-      "published": 1782393657
-    },
-    {
-      "id": "4df9348d9792",
-      "title": "美國 PCE 通膨增溫 寫2023年4月來最大升幅 Fed 今年內升息機率更高",
-      "url": "https://money.udn.com/money/story/5599/9588914",
-      "source": "money.udn.com",
-      "published": 1782393622
-    },
-    {
       "id": "5b6132467b86",
       "title": "北京不满“有关国家有关机构” 台北感谢“国际友盟仗义执言”",
       "url": "https://www.dw.com/zh/北京不满-有关国家有关机构-台北感谢-国际友盟仗义执言/a-77709784?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1782393600
-    },
-    {
-      "id": "6038271c69f4",
-      "title": "SpaceX 或與廣達、鴻海直接合作？陸投銀調降戴爾評等",
-      "url": "https://money.udn.com/money/story/5599/9588905",
-      "source": "money.udn.com",
-      "published": 1782393252
     },
     {
       "id": "d584369631d2",
@@ -695,13 +723,6 @@
       "published": 1782310855
     },
     {
-      "id": "218e2f97da89",
-      "title": "金正恩表示正“为海军配备核武器”并计划建造万吨级军舰",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260624-%E9%87%91%E6%AD%A3%E6%81%A9%E8%A1%A8%E7%A4%BA%E6%AD%A3-%E4%B8%BA%E6%B5%B7%E5%86%9B%E9%85%8D%E5%A4%87%E6%A0%B8%E6%AD%A6%E5%99%A8-%E5%B9%B6%E8%AE%A1%E5%88%92%E5%BB%BA%E9%80%A0%E4%B8%87%E5%90%A8%E7%BA%A7%E5%86%9B%E8%88%B0",
-      "source": "rfi.fr",
-      "published": 1782310594
-    },
-    {
       "id": "599035d9494e",
       "title": "中国驻欧盟大使：中国与欧洲“是伙伴，不是对手，更不是敌人”",
       "url": "https://www.dw.com/zh/中国驻欧盟大使：中国与欧洲-是伙伴，不是对手，更不是敌人/a-77694214?maca=chi-rss-chi-all-1127-rdf",
@@ -714,20 +735,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c8d215n1z93o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1782306719
-    },
-    {
-      "id": "075b716603be",
-      "title": "国际刑事法院首席检察官卡里姆·汗因与下属不当性关系而被解职",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260624-%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E6%B3%95%E9%99%A2%E9%A6%96%E5%B8%AD%E6%A3%80%E5%AF%9F%E5%AE%98%E5%8D%A1%E9%87%8C%E5%A7%86%C2%B7%E6%B1%97%E5%9B%A0%E4%B8%8E%E4%B8%8B%E5%B1%9E%E4%B8%8D%E5%BD%93%E6%80%A7%E5%85%B3%E7%B3%BB%E8%80%8C%E8%A2%AB%E8%A7%A3%E9%9B%87",
-      "source": "rfi.fr",
-      "published": 1782306433
-    },
-    {
-      "id": "073c5e9d9922",
-      "title": "台湾专家评新转基因植物是否存在环境隐患",
-      "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20260624-%E5%8F%B0%E6%B9%BE%E4%B8%93%E5%AE%B6%E8%AF%84%E6%96%B0%E8%BD%AC%E5%9F%BA%E5%9B%A0%E6%A4%8D%E7%89%A9%E6%98%AF%E5%90%A6%E5%AD%98%E5%9C%A8%E7%8E%AF%E5%A2%83%E9%9A%90%E6%82%A3",
-      "source": "rfi.fr",
-      "published": 1782305614
     },
     {
       "id": "9dbd26c224c5",
@@ -749,13 +756,6 @@
       "url": "https://www.dw.com/zh/德英法驻台机构罕见齐发声：中国行动威胁区域稳定/a-77688989?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1782297060
-    },
-    {
-      "id": "e86045bf8eef",
-      "title": "夏季达沃斯上 李强向美欧发起攻势：否定“第二次中国冲击” 反推“第二次机遇”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260624-%E5%A4%8F%E5%AD%A3%E8%BE%BE%E6%B2%83%E6%96%AF%E4%B8%8A%E6%9D%8E%E5%BC%BA%E5%90%91%E7%BE%8E%E6%AC%A7%E5%8F%91%E8%B5%B7%E6%94%BB%E5%8A%BF-%E5%90%A6%E5%AE%9A-%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%B8%AD%E5%9B%BD%E5%86%B2%E5%87%BB-%E5%8F%8D%E6%8F%90-%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%9C%BA%E9%81%87",
-      "source": "rfi.fr",
-      "published": 1782295765
     },
     {
       "id": "77c4c6bffa7c",
@@ -1367,5 +1367,5 @@
       "published": 1780126080
     }
   ],
-  "build_id": 1782401715
+  "build_id": 1782410421
 }
