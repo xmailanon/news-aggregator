@@ -1,40 +1,278 @@
 {
-  "updated": 1782453552,
+  "updated": 1782465945,
   "items": [
+    {
+      "id": "8f43e8c64f57",
+      "title": "美食KOL Uncle K回應介紹伏店質疑 強調口味主觀與內容堅持",
+      "url": "https://www.singtaousa.com/2026/06/26/news/china/food-kol-uncle-k-responds-to-criticism/",
+      "source": "singtaousa.com",
+      "published": 1782465932
+    },
+    {
+      "id": "bd0844787c3e",
+      "title": "AI泡沫隱憂起　亞股應聲全面重挫",
+      "url": "https://money.udn.com/money/story/5599/9590846",
+      "source": "money.udn.com",
+      "published": 1782465144
+    },
+    {
+      "id": "8b2a0289ad67",
+      "title": "害到自己？美光高層暗指蘋果過去強力砍價 令現在記憶體短缺",
+      "url": "https://money.udn.com/money/story/5599/9590844",
+      "source": "money.udn.com",
+      "published": 1782465040
+    },
+    {
+      "id": "76668a16eb11",
+      "title": "中國男駕駛保時捷狂飆東京街頭　撞擊2車釀3傷",
+      "url": "https://money.udn.com/money/story/5599/9590827",
+      "source": "money.udn.com",
+      "published": 1782464483
+    },
+    {
+      "id": "0c209ada69cd",
+      "title": "小學電腦技術員承認非禮三名男童及肛交等12項控罪 法官押後判刑待心理報告",
+      "url": "https://www.singtaousa.com/2026/06/26/news/china/school-technician-admits-molesting-boys/",
+      "source": "singtaousa.com",
+      "published": 1782464140
+    },
+    {
+      "id": "778a5f6e6215",
+      "title": "新西兰警告：中国在太平洋地区军事部署恐“常态化”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260626-%E6%96%B0%E8%A5%BF%E5%85%B0%E8%AD%A6%E5%91%8A-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%9C%B0%E5%8C%BA%E5%86%9B%E4%BA%8B%E9%83%A8%E7%BD%B2%E6%81%90-%E5%B8%B8%E6%80%81%E5%8C%96",
+      "source": "rfi.fr",
+      "published": 1782464089
+    },
+    {
+      "id": "b235e295a3b0",
+      "title": "范斯與盧比歐外交立場不同調 凸顯川普政府內部分歧",
+      "url": "https://money.udn.com/money/story/5599/9590808",
+      "source": "money.udn.com",
+      "published": 1782464067
+    },
+    {
+      "id": "4cac423b1779",
+      "title": "美国务院高官：美中会谈中方必提军售问题，未背离“六项保证”",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260626-%E7%BE%8E%E5%9B%BD%E5%8A%A1%E9%99%A2%E9%AB%98%E5%AE%98-%E7%BE%8E%E4%B8%AD%E4%BC%9A%E8%B0%88%E4%B8%AD%E6%96%B9%E5%BF%85%E6%8F%90%E5%86%9B%E5%94%AE%E9%97%AE%E9%A2%98%EF%BC%8C%E6%9C%AA%E8%83%8C%E7%A6%BB-%E5%85%AD%E9%A1%B9%E4%BF%9D%E8%AF%81",
+      "source": "rfi.fr",
+      "published": 1782463961
+    },
+    {
+      "id": "0af2b45e2738",
+      "title": "热浪天：易怒情绪加剧、抑郁症和精神病病例增加、精神崩溃……人们的心理健康受考验",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260626-%E7%83%AD%E6%B5%AA%E5%A4%A9-%E6%98%93%E6%80%92%E6%83%85%E7%BB%AA%E5%8A%A0%E5%89%A7-%E6%8A%91%E9%83%81%E7%97%87%E5%92%8C%E7%B2%BE%E7%A5%9E%E7%97%85%E7%97%85%E4%BE%8B%E5%A2%9E%E5%8A%A0-%E7%B2%BE%E7%A5%9E%E5%B4%A9%E6%BA%83-%E4%BA%BA%E4%BB%AC%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E5%8F%97%E8%80%83%E9%AA%8C",
+      "source": "rfi.fr",
+      "published": 1782463688
+    },
+    {
+      "id": "043f7d66666d",
+      "title": "Fed 新任主席華許展現「鷹派」立場 已令市場長期通膨預期下降",
+      "url": "https://money.udn.com/money/story/5599/9590779",
+      "source": "money.udn.com",
+      "published": 1782463258
+    },
+    {
+      "id": "eebfbd8aefa3",
+      "title": "日本通过法律 航空自卫队改为“航空宇宙自卫队”",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260626-%E6%97%A5%E6%9C%AC%E9%80%9A%E8%BF%87%E6%B3%95%E5%BE%8B-%E8%88%AA%E7%A9%BA%E8%87%AA%E5%8D%AB%E9%98%9F%E6%94%B9%E4%B8%BA-%E8%88%AA%E7%A9%BA%E5%AE%87%E5%AE%99%E8%87%AA%E5%8D%AB%E9%98%9F",
+      "source": "rfi.fr",
+      "published": 1782463060
+    },
+    {
+      "id": "fa7b1b5207f8",
+      "title": "日本強化太空防衛 航空自衛隊將更名「航空宇宙自衛隊」",
+      "url": "https://money.udn.com/money/story/5599/9590772",
+      "source": "money.udn.com",
+      "published": 1782463034
+    },
+    {
+      "id": "20da7717db5e",
+      "title": "指數、基金季末再平衡將啟動！分析師：繫好安全帶迎美股周五震盪",
+      "url": "https://money.udn.com/money/story/123398/9590763",
+      "source": "money.udn.com",
+      "published": 1782462796
+    },
+    {
+      "id": "fa81e9e57338",
+      "title": "甄濟如新歌《Roll With Me》釋出 宣告獨立音樂時代來臨",
+      "url": "https://www.singtaousa.com/2026/06/26/entertainment/jasmine-yen-new-single-roll-with-me/",
+      "source": "singtaousa.com",
+      "published": 1782462491
+    },
+    {
+      "id": "0c054e039822",
+      "title": "德媒：福斯將大刀出鞘 裁員規模上看10萬人 關閉多座德國工廠",
+      "url": "https://money.udn.com/money/story/5599/9590749",
+      "source": "money.udn.com",
+      "published": 1782462449
+    },
+    {
+      "id": "fa385654ee45",
+      "title": "委內瑞拉7.5級強震 遇難者增至235人含2名中國公民",
+      "url": "https://www.singtaousa.com/2026/06/26/news/china/venezuela-earthquake-deaths-chinese-citizens/",
+      "source": "singtaousa.com",
+      "published": 1782462331
+    },
+    {
+      "id": "f7bb54528b41",
+      "title": "美軍高層抵達委內瑞拉 實地督導震災救援",
+      "url": "https://money.udn.com/money/story/5599/9590733",
+      "source": "money.udn.com",
+      "published": 1782462088
+    },
+    {
+      "id": "0fc975745b62",
+      "title": "從圖片看委內瑞拉雙重地震後的滿目蒼夷",
+      "url": "https://www.bbc.com/zhongwen/articles/c0qyp294pn7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1782461432
+    },
+    {
+      "id": "20eeeb850268",
+      "title": "黃婧靈客串《飛常日誌2》 為慳行李費焗穿16層衫",
+      "url": "https://www.singtaousa.com/2026/06/26/entertainment/kitty-wong-flying-diary-overweight-luggage/",
+      "source": "singtaousa.com",
+      "published": 1782460809
+    },
+    {
+      "id": "1b51e8360170",
+      "title": "古天樂紅館騷優先票賣清 備戰開唱封口不談《九龍城寨》動向",
+      "url": "https://www.singtaousa.com/2026/06/26/entertainment/louis-koo-hong-kong-concert-training/",
+      "source": "singtaousa.com",
+      "published": 1782460694
+    },
+    {
+      "id": "00fb27ef8dcf",
+      "title": "湖南13歲智障男童失蹤五日獲救 被困四米深坑洞靠積水維持生命",
+      "url": "https://www.singtaousa.com/2026/06/26/news/china/wilderness-survival-boy-rescued-pit/",
+      "source": "singtaousa.com",
+      "published": 1782460531
+    },
+    {
+      "id": "ce14fd8d8f28",
+      "title": "日本演員村上虹郎遭法辦 疑2024年多次施暴女友",
+      "url": "https://money.udn.com/money/story/5599/9590686",
+      "source": "money.udn.com",
+      "published": 1782460510
+    },
+    {
+      "id": "7650c59ac8d1",
+      "title": "新興合成毒品激增 聯合國警示全球吸毒人數攀升",
+      "url": "https://money.udn.com/money/story/5599/9590682",
+      "source": "money.udn.com",
+      "published": 1782460480
+    },
+    {
+      "id": "793485cb9cc6",
+      "title": "南韓前第一夫人金建希收賄關說一審判刑7年 沒收珠寶與迪奧包",
+      "url": "https://money.udn.com/money/story/5599/9590659",
+      "source": "money.udn.com",
+      "published": 1782459555
+    },
+    {
+      "id": "1ee2df9caf35",
+      "title": "中東產油國續推出口擴張 沙烏地阿美恢復石油裝運",
+      "url": "https://money.udn.com/money/story/5599/9590654",
+      "source": "money.udn.com",
+      "published": 1782459433
+    },
+    {
+      "id": "40382c6c31f7",
+      "title": "涉收禮喬官位 韓國前第一夫人金建希遭判7年",
+      "url": "https://money.udn.com/money/story/5599/9590650",
+      "source": "money.udn.com",
+      "published": 1782459419
+    },
+    {
+      "id": "f747e0cfbcca",
+      "title": "墨西哥西班牙藉世界盃融冰 兩國同意強化外交關係",
+      "url": "https://money.udn.com/money/story/5599/9590639",
+      "source": "money.udn.com",
+      "published": 1782459048
+    },
+    {
+      "id": "2938369dec80",
+      "title": "调查：中国跨境镇压遍布五洲41国 印度香港多人受压",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260626-%E8%B0%83%E6%9F%A5-%E4%B8%AD%E5%9B%BD%E8%B7%A8%E5%A2%83%E9%95%87%E5%8E%8B%E9%81%8D%E5%B8%83%E4%BA%94%E6%B4%B241%E5%9B%BD-%E5%8D%B0%E5%BA%A6%E9%A6%99%E6%B8%AF%E5%A4%9A%E4%BA%BA%E5%8F%97%E5%8E%8B",
+      "source": "rfi.fr",
+      "published": 1782458855
+    },
+    {
+      "id": "c239a6e5b6ec",
+      "title": "河北寬城遭遇罕見冰雹暴雨 街道成「流動冰河」積水及膝",
+      "url": "https://www.singtaousa.com/2026/06/26/news/china/hebei-hailstorm-flooding-extreme-weather/",
+      "source": "singtaousa.com",
+      "published": 1782458728
+    },
+    {
+      "id": "148af4618c10",
+      "title": "人权评量：台湾去年领先 中港自由享受同属最差 负责人料今年再差",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260626-%E4%BA%BA%E6%9D%83%E8%AF%84%E9%87%8F-%E5%8F%B0%E6%B9%BE%E5%8E%BB%E5%B9%B4%E9%A2%86%E5%85%88-%E4%B8%AD%E6%B8%AF%E8%87%AA%E7%94%B1%E4%BA%AB%E5%8F%97%E5%90%8C%E5%B1%9E%E6%9C%80%E5%B7%AE-%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%96%99%E4%BB%8A%E5%B9%B4%E5%86%8D%E5%B7%AE",
+      "source": "rfi.fr",
+      "published": 1782458604
+    },
+    {
+      "id": "5fed73ae3148",
+      "title": "傳OpenAI擬延後IPO　AI概念股賣壓湧現鎧俠挫12%",
+      "url": "https://money.udn.com/money/story/5599/9590605",
+      "source": "money.udn.com",
+      "published": 1782457956
+    },
+    {
+      "id": "20845d5ca656",
+      "title": "軟銀領跌科技股　日經指數慘跌逾4%",
+      "url": "https://money.udn.com/money/story/5599/9590604",
+      "source": "money.udn.com",
+      "published": 1782457945
+    },
+    {
+      "id": "ff459fd7f8c6",
+      "title": "確保伊朗不發展核武　IAEA：戰後應建嚴格查核機制",
+      "url": "https://money.udn.com/money/story/5599/9590574",
+      "source": "money.udn.com",
+      "published": 1782457324
+    },
+    {
+      "id": "35056ab153e7",
+      "title": "火車霸座糾紛升級 江蘇女乘客遭咬傷後現疱疹 急尋涉事者體檢報告",
+      "url": "https://www.singtaousa.com/2026/06/25/news/china/train-seat-dispute-bite-injury-herpes/",
+      "source": "singtaousa.com",
+      "published": 1782456932
+    },
+    {
+      "id": "42fd530739c8",
+      "title": "委內瑞拉雙強震釀235死　巴西中葡等外籍人士罹難",
+      "url": "https://money.udn.com/money/story/5599/9590542",
+      "source": "money.udn.com",
+      "published": 1782456884
+    },
+    {
+      "id": "3c3a2716a4be",
+      "title": "達悟族參與菲律賓巴丹節 盼深化交流守護南島文化",
+      "url": "https://money.udn.com/money/story/5599/9590541",
+      "source": "money.udn.com",
+      "published": 1782456869
+    },
+    {
+      "id": "cc524809a76d",
+      "title": "加拿大防長：有意了解日英意新一代戰機計劃",
+      "url": "https://www.singtaousa.com/2026/06/25/news/world/canadian-defense-minister-says-he-discussed-gcap-fighter-with-koizumi/",
+      "source": "singtaousa.com",
+      "published": 1782455400
+    },
+    {
+      "id": "0c3b83452a23",
+      "title": "吳尊投訴國泰航空行李延誤三日 航司深夜致歉稱已追蹤行李",
+      "url": "https://www.singtaousa.com/2026/06/25/news/china/wu-zun-cathay-pacific-luggage-delay/",
+      "source": "singtaousa.com",
+      "published": 1782455131
+    },
     {
       "id": "5bdcbbe246d2",
       "title": "聖安東尼奧市府要求饒舌歌手Ye修改合約，禁止演唱會出現納粹相關內容",
       "url": "https://www.singtaousa.com/2026/06/25/news/usa/san-antonio-asks-ye-to-refrain-from-singing-about-hitler-selling-swastika-shirts-at-july-4-concert/",
       "source": "singtaousa.com",
       "published": 1782453600
-    },
-    {
-      "id": "537100b0650e",
-      "title": "亞洲科技股全面暴跌 Kospi盤中重摔9% 三大原因拖垮AI晶片行情",
-      "url": "https://money.udn.com/money/story/5599/9590384",
-      "source": "money.udn.com",
-      "published": 1782452801
-    },
-    {
-      "id": "44cae87557d9",
-      "title": "長榮海運長麗輪遇襲　國際海事組織暫停護航行動",
-      "url": "https://money.udn.com/money/story/5599/9590359",
-      "source": "money.udn.com",
-      "published": 1782452214
-    },
-    {
-      "id": "ee5640dcc4a9",
-      "title": "影／委內瑞拉連2強震至少235死！孩童爬出瓦礫、小狗奇蹟獲救畫面曝光",
-      "url": "https://money.udn.com/money/story/5599/9590336",
-      "source": "money.udn.com",
-      "published": 1782451870
-    },
-    {
-      "id": "0c2bb366fcd2",
-      "title": "黎巴嫩南部遭空襲 汽車遇襲釀3死",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/3-people-killed-in-israeli-strike-on-car-in-southern-lebanon-despite-ceasefire-deal/",
-      "source": "singtaousa.com",
-      "published": 1782451800
     },
     {
       "id": "13f754077734",
@@ -44,102 +282,11 @@
       "published": 1782451342
     },
     {
-      "id": "37b0daeb9aae",
-      "title": "委內瑞拉雙強震至少235死　各國馳援狀況一次看",
-      "url": "https://money.udn.com/money/story/5599/9590303",
-      "source": "money.udn.com",
-      "published": 1782451332
-    },
-    {
-      "id": "7ef2ea35844a",
-      "title": "AI選股可行嗎？研究揭交易弱點 一種簡單策略竟贏過LLM",
-      "url": "https://money.udn.com/money/story/5599/9590287",
-      "source": "money.udn.com",
-      "published": 1782451088
-    },
-    {
-      "id": "f623e1405955",
-      "title": "影／不吹冷氣的堅持被極端熱浪擊垮？法國賣場驚現民眾搶購潮",
-      "url": "https://money.udn.com/money/story/5599/9590261",
-      "source": "money.udn.com",
-      "published": 1782450672
-    },
-    {
-      "id": "1238d355ebc5",
-      "title": "烏克蘭空襲俄國天然氣廠與衛星中心",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/ukraines-latest-long-range-strikes-on-russia-hit-a-major-natural-gas-plant-and-satellite-centers/",
-      "source": "singtaousa.com",
-      "published": 1782450000
-    },
-    {
-      "id": "6bbe97591505",
-      "title": "歐盟擬將亞馬遜微軟雲端納入監管",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/eu-says-amazon-microsoft-cloud-services-should-fall-under-digital-dominance-rules/",
-      "source": "singtaousa.com",
-      "published": 1782450000
-    },
-    {
-      "id": "d413b0841120",
-      "title": "張秀卿暴瘦8公斤 脫衣露出小蠻腰",
-      "url": "https://www.singtaousa.com/2026/06/25/entertainment/zhang-xiu-qing-lose-weight/",
-      "source": "singtaousa.com",
-      "published": 1782450000
-    },
-    {
-      "id": "335ecb107150",
-      "title": "委內瑞拉雙強震近200死　居民徒手挖掘搶救生還者",
-      "url": "https://money.udn.com/money/story/5599/9590203",
-      "source": "money.udn.com",
-      "published": 1782449159
-    },
-    {
-      "id": "536855a5a75c",
-      "title": "放棄數百萬美元股票從輝達出走 這些前員工說：正因股價大漲才更敢離開",
-      "url": "https://money.udn.com/money/story/5599/9589959",
-      "source": "money.udn.com",
-      "published": 1782449109
-    },
-    {
       "id": "45be5ca0b43a",
       "title": "西瓜有多健康？",
       "url": "https://cn.nytimes.com/health/20260626/watermelon-health-benefits-recipes/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1782448933
-    },
-    {
-      "id": "a36852dd8d90",
-      "title": "韓股KOSPI指數盤中重挫逾8%　科技股再掀拋售潮",
-      "url": "https://money.udn.com/money/story/5599/9590189",
-      "source": "money.udn.com",
-      "published": 1782448622
-    },
-    {
-      "id": "3f2d4ff5d7e0",
-      "title": "菲律賓拘捕日本詐騙集團高層",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/philippines-arrest-senior-member-of-japanese-fraud-syndicate/",
-      "source": "singtaousa.com",
-      "published": 1782448532
-    },
-    {
-      "id": "42ec9c544456",
-      "title": "亞利桑那州千萬彩票爭議 經理顧客皆索償",
-      "url": "https://www.singtaousa.com/2026/06/25/news/usa/the-dispute-over-the-12-8m-arizona-lottery-ticket-is-getting-messier/",
-      "source": "singtaousa.com",
-      "published": 1782448339
-    },
-    {
-      "id": "cefcfc127b15",
-      "title": "英查爾斯國王首度公開稅單 繳稅近1300萬鎊",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/king-charles-reveals-he-paid-12-9m-in-tax-for-2024-25/",
-      "source": "singtaousa.com",
-      "published": 1782447888
-    },
-    {
-      "id": "5a06a28eaf8c",
-      "title": "兩天就能賺10億美元 最新報告：AI營收已達支應成本轉捩點",
-      "url": "https://money.udn.com/money/story/5599/9590160",
-      "source": "money.udn.com",
-      "published": 1782447867
     },
     {
       "id": "d289cf8d51af",
@@ -149,109 +296,11 @@
       "published": 1782447814
     },
     {
-      "id": "8563951514c6",
-      "title": "與中國進行外交刀鋒戰　澳洲萬那杜將簽安全條約",
-      "url": "https://money.udn.com/money/story/5599/9590155",
-      "source": "money.udn.com",
-      "published": 1782447741
-    },
-    {
-      "id": "d306f477be0a",
-      "title": "烏克蘭無人機攻勢奏效　克里米亞補給中斷遭孤立",
-      "url": "https://money.udn.com/money/story/5599/9590150",
-      "source": "money.udn.com",
-      "published": 1782447692
-    },
-    {
-      "id": "f9d570dbd4c7",
-      "title": "委內瑞拉強震給出警訊：這種建物很致命！台灣921地震也是前車之鑑",
-      "url": "https://money.udn.com/money/story/5599/9590148",
-      "source": "money.udn.com",
-      "published": 1782447486
-    },
-    {
-      "id": "17ae85d4c5a6",
-      "title": "法國高溫破紀錄 熱浪席捲西歐",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/france-records-hottest-day-ever-as-europe-suffers-brutal-heat-wave/",
-      "source": "singtaousa.com",
-      "published": 1782446938
-    },
-    {
-      "id": "56952bdd87ac",
-      "title": "日本大阪校車突駛入對向車道　6車連環撞釀5傷",
-      "url": "https://money.udn.com/money/story/5599/9590114",
-      "source": "money.udn.com",
-      "published": 1782446921
-    },
-    {
-      "id": "0d195887bf4a",
-      "title": "中國部署太平洋軍力常態化　紐西蘭內部報告揭憂慮",
-      "url": "https://money.udn.com/money/story/5599/9590113",
-      "source": "money.udn.com",
-      "published": 1782446836
-    },
-    {
-      "id": "55ffda443c89",
-      "title": "日本千葉規模5.8地震！最大震度4 東京23區有感",
-      "url": "https://money.udn.com/money/story/5599/9590101",
-      "source": "money.udn.com",
-      "published": 1782446625
-    },
-    {
-      "id": "2acbee04c5de",
-      "title": "倫敦氣候週遇熱浪 多場活動被迫取消",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/london-climate-action-week-foiled-by-climate-change/",
-      "source": "singtaousa.com",
-      "published": 1782446607
-    },
-    {
-      "id": "1d9a22450c11",
-      "title": "菲律賓最北秘境巴丹群島 原始風光吸引深度旅人",
-      "url": "https://money.udn.com/money/story/5599/9590088",
-      "source": "money.udn.com",
-      "published": 1782446514
-    },
-    {
-      "id": "754d415b4f2a",
-      "title": "火星「毅力號」發現複雜碳分子 或為古生命跡象",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/nasa-rover-detects-potential-signatures-of-ancient-microbial-life-on-mars/",
-      "source": "singtaousa.com",
-      "published": 1782446400
-    },
-    {
-      "id": "896e975493b0",
-      "title": "英國：美軍飛行員勒頸女性 軍事審判引議",
-      "url": "https://www.singtaousa.com/2026/06/25/news/world/degrading-why-did-a-us-fighter-pilot-avoid-british-trial-after-strangling-a-woman-in-england/",
-      "source": "singtaousa.com",
-      "published": 1782446400
-    },
-    {
       "id": "24e69cd87ea9",
       "title": "聯合國暫停霍爾木茲海峽撤離行動　一貨船遭襲觸發安全疑慮",
       "url": "https://www.bbc.com/zhongwen/articles/ce8kge0xw44o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1782446373
-    },
-    {
-      "id": "f8b3cb372ee3",
-      "title": "羅斯福號航空母艦外號「大棒」　扛環太軍演指揮中樞",
-      "url": "https://money.udn.com/money/story/5599/9590067",
-      "source": "money.udn.com",
-      "published": 1782446068
-    },
-    {
-      "id": "50c4940a1096",
-      "title": "菲學者：分離300年 巴丹與蘭嶼仍共享祖先記憶",
-      "url": "https://money.udn.com/money/story/5599/9590045",
-      "source": "money.udn.com",
-      "published": 1782445542
-    },
-    {
-      "id": "d65f01065600",
-      "title": "五角大廈不想說！WSJ揭伊朗重創美軍巴林基地 美擬重整中東部署",
-      "url": "https://money.udn.com/money/story/5599/9590023",
-      "source": "money.udn.com",
-      "published": 1782445182
     },
     {
       "id": "eaa287d8cbdd",
@@ -280,13 +329,6 @@
       "url": "https://cn.nytimes.com/asia-pacific/20260625/myanmar-civil-war-rebels-airstrikes/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1782434658
-    },
-    {
-      "id": "6d7749777001",
-      "title": "重庆男子虐狗引发抗议，示威者呼吁制定反虐待动物法律",
-      "url": "https://cn.nytimes.com/china/20260626/dog-animal-abuse-china-protest/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1782434574
     },
     {
       "id": "b58422df6433",
@@ -366,6 +408,13 @@
       "published": 1782421042
     },
     {
+      "id": "6d7749777001",
+      "title": "重庆男子虐狗引发抗议，示威者呼吁制定反虐待动物法律",
+      "url": "https://cn.nytimes.com/china/20260626/dog-animal-abuse-china-protest/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1782418759
+    },
+    {
       "id": "3aa7f527a77d",
       "title": "法广[视频] - 埃博拉：当务之急是密切接触者",
       "url": "https://www.rfi.fr/cn/%E8%A7%86%E9%A2%91/20260625-%E6%B3%95%E5%B9%BF-%E8%A7%86%E9%A2%91-%E5%9F%83%E5%8D%9A%E6%8B%89-%E5%BD%93%E5%8A%A1%E4%B9%8B%E6%80%A5%E6%98%AF%E5%AF%86%E5%88%87%E6%8E%A5%E8%A7%A6%E8%80%85",
@@ -394,18 +443,25 @@
       "published": 1782408036
     },
     {
-      "id": "c23c5d12d065",
-      "title": "酷暑难耐：即使我没点任何东西，酒吧咖啡馆是否有法律义务给我一杯水？",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260625-%E9%85%B7%E6%9A%91%E9%9A%BE%E8%80%90-%E5%8D%B3%E4%BD%BF%E6%88%91%E6%B2%A1%E7%82%B9%E4%BB%BB%E4%BD%95%E4%B8%9C%E8%A5%BF%EF%BC%8C%E9%85%92%E5%90%A7%E5%92%96%E5%95%A1%E9%A6%86%E6%98%AF%E5%90%A6%E6%9C%89%E6%B3%95%E5%BE%8B%E4%B9%89%E5%8A%A1%E7%BB%99%E6%88%91%E4%B8%80%E6%9D%AF%E6%B0%B4",
-      "source": "rfi.fr",
-      "published": 1782407627
-    },
-    {
       "id": "d4231538a356",
       "title": "中国多家国有银行涉逃税 官方审计报告结论",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260625-%E4%B8%AD%E5%9B%BD%E5%A4%9A%E5%AE%B6%E5%9B%BD%E6%9C%89%E9%93%B6%E8%A1%8C%E6%B6%89%E9%80%83%E7%A8%8E-%E5%AE%98%E6%96%B9%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A%E7%BB%93%E8%AE%BA",
       "source": "rfi.fr",
       "published": 1782403664
+    },
+    {
+      "id": "778cb2d8a427",
+      "title": "“半涂而罢”的战争与被劝阻的战争——比较三国时期与当代的战争",
+      "url": "https://www.ftchinese.com/story/001110159",
+      "source": "ftchinese.com",
+      "published": 1782403200
+    },
+    {
+      "id": "2d97b7096e30",
+      "title": "中国美国商会主席吉莫曼：中美两国政府需要坚持沟通协作、管控分歧",
+      "url": "https://www.ftchinese.com/story/001110158",
+      "source": "ftchinese.com",
+      "published": 1782403200
     },
     {
       "id": "07d5dc1766b6",
@@ -632,20 +688,6 @@
       "published": 1782371580
     },
     {
-      "id": "3eb40feb2f10",
-      "title": "三月内两宗 港独立书店被指售煽动書遭逮捕 创办人加控洗黑钱 人权观察批荒谬",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260625-%E4%B8%89%E6%9C%88%E5%86%85%E4%B8%A4%E5%AE%97-%E6%B8%AF%E7%8B%AC%E7%AB%8B%E4%B9%A6%E5%BA%97%E8%A2%AB%E6%8C%87%E5%94%AE%E7%85%BD%E5%8A%A8%E6%9B%B8%E9%81%AD%E9%80%AE%E6%8D%95-%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%8A%A0%E6%8E%A7%E6%B4%97%E9%BB%91%E9%92%B1-%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F%E6%89%B9%E8%8D%92%E8%B0%AC",
-      "source": "rfi.fr",
-      "published": 1782370764
-    },
-    {
-      "id": "18cfad308cae",
-      "title": "美国杯葛澳门APEC旅游部长级会议 以示对领事签证规定的不满",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260625-%E7%BE%8E%E5%9B%BD%E6%9D%AF%E8%91%9B%E6%BE%B3%E9%97%A8apec%E6%97%85%E6%B8%B8%E9%83%A8%E9%95%BF%E7%BA%A7%E4%BC%9A%E8%AE%AE-%E4%BB%A5%E7%A4%BA%E5%AF%B9%E9%A2%86%E4%BA%8B%E7%AD%BE%E8%AF%81%E8%A7%84%E5%AE%9A%E7%9A%84%E4%B8%8D%E6%BB%A1",
-      "source": "rfi.fr",
-      "published": 1782370452
-    },
-    {
       "id": "81d1efbbada5",
       "title": "日本队的中国球迷——用足球“打破隔阂”",
       "url": "https://www.dw.com/zh/日本队的中国球迷-用足球-打破隔阂/a-77695297?maca=chi-rss-chi-all-1127-rdf",
@@ -716,27 +758,6 @@
       "published": 1782342831
     },
     {
-      "id": "fd499fcdb658",
-      "title": "中国新民族团结法纳入域外适用条款 官方称符合国际惯例",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260624-%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%B0%91%E6%97%8F%E5%9B%A2%E7%BB%93%E6%B3%95%E7%BA%B3%E5%85%A5%E5%9F%9F%E5%A4%96%E9%80%82%E7%94%A8%E6%9D%A1%E6%AC%BE-%E5%AE%98%E6%96%B9%E7%A7%B0%E7%AC%A6%E5%90%88%E5%9B%BD%E9%99%85%E6%83%AF%E4%BE%8B",
-      "source": "rfi.fr",
-      "published": 1782337352
-    },
-    {
-      "id": "8d0a3c81090a",
-      "title": "香港两名书店负责人因涉嫌出售“煽动性”出版物被捕",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260624-%E9%A6%99%E6%B8%AF%E4%B8%A4%E5%90%8D%E4%B9%A6%E5%BA%97%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%9B%A0%E6%B6%89%E5%AB%8C%E5%87%BA%E5%94%AE-%E7%85%BD%E5%8A%A8%E6%80%A7-%E5%87%BA%E7%89%88%E7%89%A9%E8%A2%AB%E6%8D%95",
-      "source": "rfi.fr",
-      "published": 1782336928
-    },
-    {
-      "id": "39de0b401679",
-      "title": "欧洲热浪持续肆虐 法国创最热纪录 英国发布红色高温警报",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260624-%E6%AC%A7%E6%B4%B2%E7%83%AD%E6%B5%AA%E6%8C%81%E7%BB%AD%E8%82%86%E8%99%90-%E6%B3%95%E5%9B%BD%E5%88%9B%E6%9C%80%E7%83%AD%E7%BA%AA%E5%BD%95-%E8%8B%B1%E5%9B%BD%E5%8F%91%E5%B8%83%E7%BA%A2%E8%89%B2%E9%AB%98%E6%B8%A9%E8%AD%A6%E6%8A%A5",
-      "source": "rfi.fr",
-      "published": 1782336604
-    },
-    {
       "id": "4b3a203b532c",
       "title": "美国极限施压下，古巴仓促宣布全面经济改革",
       "url": "https://cn.nytimes.com/world/20260625/cuba-economy-overhaul-communism-trump/?utm_source=RSS",
@@ -796,20 +817,6 @@
       "id": "c65becd83a81",
       "title": "“意大利在伊朗战争期间允许美国军机使用境内基地”",
       "url": "https://www.ftchinese.com/story/001110141",
-      "source": "ftchinese.com",
-      "published": 1782316800
-    },
-    {
-      "id": "3888ea4e7b08",
-      "title": "当图片不再算证据：AI时代的信任重估与市场结构重组",
-      "url": "https://www.ftchinese.com/story/001110038",
-      "source": "ftchinese.com",
-      "published": 1782316800
-    },
-    {
-      "id": "04217a505e4c",
-      "title": "大变局下的“新中式”出海",
-      "url": "https://www.ftchinese.com/story/001110120",
       "source": "ftchinese.com",
       "published": 1782316800
     },
@@ -1206,13 +1213,6 @@
       "published": 1781763797
     },
     {
-      "id": "d307e32d967b",
-      "title": "日菲啓動劃界談判　中國海警東進：北京對台「近海治理」成功？",
-      "url": "https://www.bbc.com/zhongwen/articles/c24y1ep146lo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1781749001
-    },
-    {
       "id": "31711ee21093",
       "title": "炼油厂屡遭攻击 俄罗斯会出现油荒吗？",
       "url": "https://www.dw.com/zh/炼油厂屡遭攻击-俄罗斯会出现油荒吗？/a-77579673?maca=chi-rss-chi-all-1127-rdf",
@@ -1367,5 +1367,5 @@
       "published": 1780126080
     }
   ],
-  "build_id": 1782453552
+  "build_id": 1782465945
 }
