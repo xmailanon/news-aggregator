@@ -1,6 +1,27 @@
 {
-  "updated": 1782575071,
+  "updated": 1782579217,
   "items": [
+    {
+      "id": "eda36fa9b1f3",
+      "title": "衝突升溫！美軍空襲後伊朗無人機反擊巴林",
+      "url": "https://www.singtaousa.com/2026/06/27/news/world/iranian-drones-attack-bahrain-and-a-ship-is-struck-in-the-strait-after-us-airstrikes/",
+      "source": "singtaousa.com",
+      "published": 1782578220
+    },
+    {
+      "id": "b1e3e584e2fa",
+      "title": "甄濟如出新歌 宣告自信新時代",
+      "url": "https://www.singtaousa.com/2026/06/27/entertainment/jasmine-new-song-confident-era/",
+      "source": "singtaousa.com",
+      "published": 1782576000
+    },
+    {
+      "id": "880d485db594",
+      "title": "賽馬會非遺教育周年展覽開幕 跨界合作培育新一代傳承者",
+      "url": "https://www.singtaousa.com/2026/06/27/news/china/jockey-club-intangible-cultural-heritage-exhibition-opens/",
+      "source": "singtaousa.com",
+      "published": 1782575729
+    },
     {
       "id": "1492bf37dea5",
       "title": "規模6.1 巴基斯坦與阿富汗邊境發生中層地震",
@@ -124,27 +145,6 @@
       "id": "6e99721ceb68",
       "title": "OpenAI再挖蘋果大將",
       "url": "https://www.singtaousa.com/2026/06/27/news/usa/openai-recruits-apple-executive/",
-      "source": "singtaousa.com",
-      "published": 1782568800
-    },
-    {
-      "id": "545658872b3b",
-      "title": "甲骨文股價表現差 AI融資擔憂加劇",
-      "url": "https://www.singtaousa.com/2026/06/27/news/usa/oracle-stock-performance-ai-funding/",
-      "source": "singtaousa.com",
-      "published": 1782568800
-    },
-    {
-      "id": "c19dcbe42230",
-      "title": "eBay拒絕也沒用 GameStop仍未放棄併購",
-      "url": "https://www.singtaousa.com/2026/06/27/news/usa/ebay-game-stop-merger/",
-      "source": "singtaousa.com",
-      "published": 1782568800
-    },
-    {
-      "id": "d9a61ee41645",
-      "title": "世界盃雙冠王出局 西班牙避開阿根廷",
-      "url": "https://www.singtaousa.com/2026/06/27/news/usa/world-cup-spain-uruguay-elimination/",
       "source": "singtaousa.com",
       "published": 1782568800
     },
@@ -1367,5 +1367,5 @@
       "published": 1780126080
     }
   ],
-  "build_id": 1782575071
+  "build_id": 1782579217
 }
