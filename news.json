@@ -1,6 +1,265 @@
 {
-  "updated": 1783077796,
+  "updated": 1783084657,
   "items": [
+    {
+      "id": "ab22058045e0",
+      "title": "日本女市長請產假為何引發激辯",
+      "url": "https://www.bbc.com/zhongwen/articles/cj9g4pj4n0go/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1783084587
+    },
+    {
+      "id": "acab41343daf",
+      "title": "乙女遊戲：在「2.5次元」中，談一場模糊虛擬與現實的戀愛",
+      "url": "https://www.bbc.com/zhongwen/articles/c3ry32ypn7zo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1783084472
+    },
+    {
+      "id": "984d4ad83a8d",
+      "title": "不在家冷氣該繼續開還是關掉？美國專家這麼說…",
+      "url": "https://money.udn.com/money/story/5599/9605828",
+      "source": "money.udn.com",
+      "published": 1783083712
+    },
+    {
+      "id": "54a01843fd7d",
+      "title": "遭狗群攻擊 7歲女童受重傷",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/dog-attack-girl-injured/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "8e3bbadaa504",
+      "title": "房屋立法挑戰大   多番修訂或撤回",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/housing-legislation-challenges/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "ea38d9e228ae",
+      "title": "選務改革拖慢點票 投票率未明顯提高",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/election-reform-slow-count/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "aca4b3b92253",
+      "title": "加州無證移民 白卡牙科福利延長一年",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/california-immigrants-dental-benefits/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "094ab8cdff15",
+      "title": "獨立日長周末加州車流必定大增",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/independence-day-california-traffic-increase/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "3c192967d584",
+      "title": "慶祝建國250周年   灣區多地活動豐富",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/us-independence-day-250th-anniversary/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "f394695bdd4f",
+      "title": "2024年佔金門大橋鎖座駕  挺巴勒斯坦7示威者判罪",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/golden-gate-bridge-protest-conviction/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "34a6ea9fb45a",
+      "title": "紅寶石公主號郵輪傳諾羅疫情 百多名乘客船員感染靠岸消毒",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/ruby-princess-norovirus-outbreak/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "27d513c25098",
+      "title": "聖荷西售出首個ADU公寓 開加州先例",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/san-jose-first-adu-sale/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "3961bca5fece",
+      "title": "共享滑板車Lime上市 續拓三藩市業務",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/lime-shared-scooter-launch/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "791cc781e4c1",
+      "title": "洛斯蓋多斯重建醫院 打造全電院區",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/los-gatos-hospital-reconstruction/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "a53d8cef528a",
+      "title": "三藩市公共銀行案留待續議",
+      "url": "https://www.singtaousa.com/2026/07/03/news/usa/san-francisco-public-bank-discussion/",
+      "source": "singtaousa.com",
+      "published": 1783083600
+    },
+    {
+      "id": "23e2f5576b1e",
+      "title": "歐洲熱浪4億人經歷35度高溫　比利時超額死亡破千人",
+      "url": "https://money.udn.com/money/story/5599/9605778",
+      "source": "money.udn.com",
+      "published": 1783082229
+    },
+    {
+      "id": "f7613048dbfd",
+      "title": "日本成田至羽田機場時間有望縮短　新特快最快2030年上路",
+      "url": "https://money.udn.com/money/story/5599/9605775",
+      "source": "money.udn.com",
+      "published": 1783082188
+    },
+    {
+      "id": "f44da6f88bb9",
+      "title": "推“一揽子改革措施” 默茨欲令德国“重回正轨”",
+      "url": "https://www.dw.com/zh/推-一揽子改革措施-默茨欲令德国-重回正轨/a-77820707?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1783081980
+    },
+    {
+      "id": "dcfde50942e4",
+      "title": "伊朗前最高領袖哈米尼國葬前夕　總統率官員靈前弔唁",
+      "url": "https://money.udn.com/money/story/5599/9605766",
+      "source": "money.udn.com",
+      "published": 1783081842
+    },
+    {
+      "id": "32ac9a3fcf37",
+      "title": "台企幸福計畫辦「台灣日」　菲律賓學童文化體驗",
+      "url": "https://money.udn.com/money/story/5599/9605755",
+      "source": "money.udn.com",
+      "published": 1783081290
+    },
+    {
+      "id": "fa057d588d7a",
+      "title": "川普及盟友據悉重啟攻勢以重塑聯準會 目標是撤換庫克、鮑爾",
+      "url": "https://money.udn.com/money/story/5599/9604292",
+      "source": "money.udn.com",
+      "published": 1783081212
+    },
+    {
+      "id": "76d2b0f1f0b8",
+      "title": "「韓國足球已死！」世界盃敗戰後 憤怒的球迷要求徹底改革",
+      "url": "https://www.bbc.com/zhongwen/articles/cvg7kz3n9dwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1783081207
+    },
+    {
+      "id": "6f4b761a9962",
+      "title": "从“被失踪”到流亡台湾 铜锣湾书店店长林荣基逝世",
+      "url": "https://www.dw.com/zh/从-被失踪-到流亡台湾-铜锣湾书店店长林荣基逝世/a-77821100?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1783081080
+    },
+    {
+      "id": "439217cf9de0",
+      "title": "川普稱人工智慧需要護欄 但應儘量減少限制",
+      "url": "https://money.udn.com/money/story/5599/9604238",
+      "source": "money.udn.com",
+      "published": 1783080831
+    },
+    {
+      "id": "d1ba96940a01",
+      "title": "香港銅鑼灣書店店長林榮基病逝 從港至台以書店反抗",
+      "url": "https://www.bbc.com/zhongwen/articles/cvgle2xd2wro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1783080677
+    },
+    {
+      "id": "78f7e332b680",
+      "title": "阿里·哈梅内伊灵柩运抵德黑兰 伊朗将在美国庆日举行国葬 中国人大副委员长前往吊丧",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260703-%E9%98%BF%E9%87%8C%C2%B7%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E7%81%B5%E6%9F%A9%E8%BF%90%E6%8A%B5%E5%BE%B7%E9%BB%91%E5%85%B0-%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%BA%86%E6%97%A5%E4%B8%BE%E8%A1%8C%E5%9B%BD%E8%91%AC-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A4%A7%E5%89%AF%E5%A7%94%E5%91%98%E9%95%BF%E5%89%8D%E5%BE%80%E5%90%8A%E4%B8%A7",
+      "source": "rfi.fr",
+      "published": 1783080059
+    },
+    {
+      "id": "3d78cffcdebe",
+      "title": "黃仁勳招牌黑皮衣登蘇富比　最高成交價估191萬",
+      "url": "https://money.udn.com/money/story/5599/9605727",
+      "source": "money.udn.com",
+      "published": 1783080038
+    },
+    {
+      "id": "1689e982d1b4",
+      "title": "沙烏地石油出口接近戰前水準 荷莫茲海峽運輸量持續回升",
+      "url": "https://money.udn.com/money/story/5599/9604237",
+      "source": "money.udn.com",
+      "published": 1783079673
+    },
+    {
+      "id": "57111d163c40",
+      "title": "胜利就在眼前却最终“崩盘” 塞内加尔球员遗憾世界杯出局",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260703-%E8%83%9C%E5%88%A9%E6%9B%BE%E8%A7%A6%E6%89%8B%E5%8F%AF%E5%8F%8A%E5%8D%B4%E6%9C%80%E7%BB%88-%E5%B4%A9%E7%9B%98-%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E7%90%83%E5%91%98%E9%81%97%E6%86%BE%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%B1%80",
+      "source": "rfi.fr",
+      "published": 1783078846
+    },
+    {
+      "id": "d6c5af3822e0",
+      "title": "韓國據稱準備應對 SK 海力士在美國發行上市帶來的資金流動",
+      "url": "https://money.udn.com/money/story/5599/9605173",
+      "source": "money.udn.com",
+      "published": 1783078040
+    },
+    {
+      "id": "10f38d3c2758",
+      "title": "倫敦智庫的研究人員表示新加坡躋身全球五大金融中心之列",
+      "url": "https://money.udn.com/money/story/5599/9605174",
+      "source": "money.udn.com",
+      "published": 1783078017
+    },
+    {
+      "id": "42756f9c19e6",
+      "title": "川普稱華許面臨「有點敵意」的聯準會理事會 重申將推動罷免庫克",
+      "url": "https://money.udn.com/money/story/5599/9604186",
+      "source": "money.udn.com",
+      "published": 1783078000
+    },
+    {
+      "id": "8786a88cdc1a",
+      "title": "德国足协证实主教练纳格尔斯曼宣布辞职",
+      "url": "https://www.dw.com/zh/德国足协证实主教练纳格尔斯曼宣布辞职/a-77816313?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1783077960
+    },
+    {
+      "id": "c5fce869a123",
+      "title": "期權交易員為日圓波動加劇預做準備 以防日本央行入市干預",
+      "url": "https://money.udn.com/money/story/5599/9605247",
+      "source": "money.udn.com",
+      "published": 1783077882
+    },
+    {
+      "id": "4bb1c4945664",
+      "title": "花旗表示隨著荷莫茲海峽衝擊消退 布蘭特原油或跌至每桶60美元",
+      "url": "https://money.udn.com/money/story/5599/9605434",
+      "source": "money.udn.com",
+      "published": 1783077792
+    },
+    {
+      "id": "854627f76506",
+      "title": "華爾街押注美股上漲勢能將會吸收衝擊 下半年有望繼續走強",
+      "url": "https://money.udn.com/money/story/123398/9605093",
+      "source": "money.udn.com",
+      "published": 1783077751
+    },
+    {
+      "id": "9ca3ae1d9cb1",
+      "title": "韓國股市在兩連跌後大漲逾5% AI 交易情緒逆轉",
+      "url": "https://money.udn.com/money/story/5599/9605436",
+      "source": "money.udn.com",
+      "published": 1783077716
+    },
     {
       "id": "4e7a36708270",
       "title": "美國建國250週年：五個鮮為人知的中美關係歷史細節",
@@ -21,13 +280,6 @@
       "url": "https://money.udn.com/money/story/5599/9605647",
       "source": "money.udn.com",
       "published": 1783076432
-    },
-    {
-      "id": "953572385a07",
-      "title": "椎名林檎與學者成田悠輔傳密會 工作夥伴關係引關注",
-      "url": "https://www.singtaousa.com/2026/07/03/entertainment/sheena-ringo-narita-yusuke-alleged-affair/",
-      "source": "singtaousa.com",
-      "published": 1783076383
     },
     {
       "id": "de53a9402da4",
@@ -51,32 +303,11 @@
       "published": 1783075029
     },
     {
-      "id": "4b6e6e53ad98",
-      "title": "何超富川影展獲殊榮 與夫婿團隊慶功感念親人",
-      "url": "https://www.singtaousa.com/2026/07/03/entertainment/josie-ho-bifan-award-winner/",
-      "source": "singtaousa.com",
-      "published": 1783074539
-    },
-    {
-      "id": "dd7046661ec6",
-      "title": "劉亞仁傳簽約新公司 10月接拍《吸血鬼》力圖重返影壇",
-      "url": "https://www.singtaousa.com/2026/07/03/entertainment/yoo-ah-in-vampire-movie-comeback/",
-      "source": "singtaousa.com",
-      "published": 1783074464
-    },
-    {
       "id": "346640eba370",
       "title": "伊朗革命衛隊總指揮官戰後首度露面 現身致敬哈米尼",
       "url": "https://money.udn.com/money/story/5599/9605615",
       "source": "money.udn.com",
       "published": 1783074104
-    },
-    {
-      "id": "acab41343daf",
-      "title": "乙女遊戲：在「2.5次元」中，談一場模糊虛擬與現實的戀愛",
-      "url": "https://www.bbc.com/zhongwen/articles/c3ry32ypn7zo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1783073924
     },
     {
       "id": "d90608ae79d4",
@@ -86,95 +317,11 @@
       "published": 1783073857
     },
     {
-      "id": "3aaa17db76be",
-      "title": "美光有設、SK 海力士不跟 傳取消長約價格上限 上季 DRAM 毛利估已上90%",
-      "url": "https://money.udn.com/money/story/5599/9605568",
-      "source": "money.udn.com",
-      "published": 1783072878
-    },
-    {
-      "id": "e9a30b4c63b5",
-      "title": "男孩遭墜落樹枝砸死 家屬將獲賠近兩千萬",
-      "url": "https://www.singtaousa.com/2026/07/03/news/usa/boy-killed-falling-branch-settlement/",
-      "source": "singtaousa.com",
-      "published": 1783072800
-    },
-    {
-      "id": "6504278f774f",
-      "title": "南加州550萬人國慶長周末出遊",
-      "url": "https://www.singtaousa.com/2026/07/03/news/usa/southern-california-fourth-of-july-travel/",
-      "source": "singtaousa.com",
-      "published": 1783072800
-    },
-    {
-      "id": "c7c3ca576b5c",
-      "title": "游蕙綾：企業勿忽視就業法規風險",
-      "url": "https://www.singtaousa.com/2026/07/03/news/usa/employment-law-risk-companies/",
-      "source": "singtaousa.com",
-      "published": 1783072800
-    },
-    {
-      "id": "7c86eadbf437",
-      "title": "南加州父親救女遭車撞失左腳",
-      "url": "https://www.singtaousa.com/2026/07/03/news/usa/father-saves-daughter-loses-leg/",
-      "source": "singtaousa.com",
-      "published": 1783072800
-    },
-    {
-      "id": "baf7e61ae577",
-      "title": "韓國城水樣本檢出大腸桿菌   兩街區煮沸用水通知已解除",
-      "url": "https://www.singtaousa.com/2026/07/03/news/usa/korea-town-e-coli-water/",
-      "source": "singtaousa.com",
-      "published": 1783072800
-    },
-    {
-      "id": "75b0cbdcaa98",
-      "title": "法拉盛超市外12歲男童遭無故毆打   警方懸賞3500元緝兇",
-      "url": "https://www.singtaousa.com/2026/07/03/news/usa/flushing-supermarket-attack-boy/",
-      "source": "singtaousa.com",
-      "published": 1783072800
-    },
-    {
-      "id": "3b36ff2d0e8b",
-      "title": "布碌崙解暑中心開放提供緊急援助",
-      "url": "https://www.singtaousa.com/2026/07/03/news/usa/brooklyn-cooling-centers-open/",
-      "source": "singtaousa.com",
-      "published": 1783072800
-    },
-    {
-      "id": "a25f72642b0f",
-      "title": "曼哈頓酒水店槍殺案 25歲男青判刑23年",
-      "url": "https://www.singtaousa.com/2026/07/03/news/usa/manhattan-liquor-store-shooting/",
-      "source": "singtaousa.com",
-      "published": 1783072800
-    },
-    {
-      "id": "fcc07edd7e33",
-      "title": "汽車失竊凌志本田首當其衝 灣脊68局長發警報籲防盜",
-      "url": "https://www.singtaousa.com/2026/07/03/news/usa/car-theft-lexus-honda-warning/",
-      "source": "singtaousa.com",
-      "published": 1783072800
-    },
-    {
       "id": "bfe71f455358",
       "title": "為何許多癌症患者飛赴中國接受治療",
       "url": "https://www.bbc.com/zhongwen/articles/cm2r5m2nexgo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1783072757
-    },
-    {
-      "id": "ab61bfe34773",
-      "title": "聯合國：聖嬰現象將增強 恐增極端氣候發生機率",
-      "url": "https://money.udn.com/money/story/5599/9605518",
-      "source": "money.udn.com",
-      "published": 1783071926
-    },
-    {
-      "id": "ab22058045e0",
-      "title": "日本女市長請產假為何引發激辯",
-      "url": "https://www.bbc.com/zhongwen/articles/cj9g4pj4n0go/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1783071905
     },
     {
       "id": "77b423feecb6",
@@ -184,53 +331,11 @@
       "published": 1783070955
     },
     {
-      "id": "1933bc165f28",
-      "title": "德媒：德国队主教练纳格尔斯曼宣布辞职",
-      "url": "https://www.dw.com/zh/德媒：德国队主教练纳格尔斯曼宣布辞职/a-77816313?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1783070520
-    },
-    {
-      "id": "aebeb60f32c8",
-      "title": "半導體股漲到頂了嗎？台積電、三星紛紛投資擴產 透露什麼訊息",
-      "url": "https://money.udn.com/money/story/123398/9605463",
-      "source": "money.udn.com",
-      "published": 1783070169
-    },
-    {
-      "id": "a072ef7319be",
-      "title": "日本東京小學火災11傷　研判教師烘乾私人衣物釀禍",
-      "url": "https://money.udn.com/money/story/5599/9605458",
-      "source": "money.udn.com",
-      "published": 1783070012
-    },
-    {
-      "id": "3cf53a1a9d53",
-      "title": "科技股反彈　亞股普遍收紅",
-      "url": "https://money.udn.com/money/story/5599/9605457",
-      "source": "money.udn.com",
-      "published": 1783069987
-    },
-    {
       "id": "15a0f754b3ab",
       "title": "美國建國250年：五個中美交往的歷史細節與默契",
       "url": "https://www.bbc.com/zhongwen/articles/cgrklk4g1rxo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1783069743
-    },
-    {
-      "id": "ad7e7d15e3e3",
-      "title": "新作主角首度是女性　村上春樹這樣看AI",
-      "url": "https://money.udn.com/money/story/5599/9605432",
-      "source": "money.udn.com",
-      "published": 1783069246
-    },
-    {
-      "id": "9702b830eacc",
-      "title": "大馬士革咖啡館爆炸案增至9死　目擊者見血流滿地",
-      "url": "https://money.udn.com/money/story/5599/9605421",
-      "source": "money.udn.com",
-      "published": 1783068935
     },
     {
       "id": "c39799e0732b",
@@ -254,20 +359,6 @@
       "published": 1783068540
     },
     {
-      "id": "34acbb821d30",
-      "title": "大賣空本尊貝瑞做空美光 稱該股票已被推上泡沫領域",
-      "url": "https://money.udn.com/money/story/123398/9605397",
-      "source": "money.udn.com",
-      "published": 1783068379
-    },
-    {
-      "id": "7dd1d92f96b7",
-      "title": "巴基斯坦西部山區客運墜谷　至少40人罹難",
-      "url": "https://money.udn.com/money/story/5599/9605381",
-      "source": "money.udn.com",
-      "published": 1783067819
-    },
-    {
       "id": "b8034e52e78c",
       "title": "日本首相访印度将投资两兆 莫迪与高市以兄妹相称",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260703-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E8%AE%BF%E5%8D%B0%E5%BA%A6%E5%B0%86%E6%8A%95%E8%B5%84%E4%B8%A4%E5%85%86-%E8%8E%AB%E8%BF%AA%E4%B8%8E%E9%AB%98%E5%B8%82%E4%BB%A5%E5%85%84%E5%A6%B9%E7%9B%B8%E7%A7%B0",
@@ -282,60 +373,11 @@
       "published": 1783066541
     },
     {
-      "id": "2a9ff3b52bfe",
-      "title": "川普將赴總統山發表演說　為美慶祝建國250週年揭幕",
-      "url": "https://money.udn.com/money/story/5599/9605331",
-      "source": "money.udn.com",
-      "published": 1783066366
-    },
-    {
-      "id": "ca7bf476008f",
-      "title": "佐藤二朗騷擾風波延燒　「大搜查線」系列新劇遭換角",
-      "url": "https://money.udn.com/money/story/5599/9605316",
-      "source": "money.udn.com",
-      "published": 1783065765
-    },
-    {
-      "id": "808d968e1fed",
-      "title": "德國公布100億美元減稅方案 期刺激成長、拉抬支持率",
-      "url": "https://money.udn.com/money/story/5599/9605308",
-      "source": "money.udn.com",
-      "published": 1783065711
-    },
-    {
       "id": "fe4f337698a8",
       "title": "铜锣湾书店店长林荣基病逝 在台港人送别 赖清德发文悼念",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260703-%E9%93%9C%E9%94%A3%E6%B9%BE%E4%B9%A6%E5%BA%97%E5%BA%97%E9%95%BF%E6%9E%97%E8%8D%A3%E5%9F%BA%E7%97%85%E9%80%9D-%E5%9C%A8%E5%8F%B0%E6%B8%AF%E4%BA%BA%E9%80%81%E5%88%AB-%E8%B5%96%E6%B8%85%E5%BE%B7%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5",
       "source": "rfi.fr",
       "published": 1783065699
-    },
-    {
-      "id": "07972e6b7c41",
-      "title": "投資人資金輪動觀望科技股　日經收盤大漲破千點",
-      "url": "https://money.udn.com/money/story/5599/9605264",
-      "source": "money.udn.com",
-      "published": 1783064241
-    },
-    {
-      "id": "747e23be0fd5",
-      "title": "哈米尼國葬德黑蘭舉行　30國代表將出席悼念",
-      "url": "https://money.udn.com/money/story/5599/9605208",
-      "source": "money.udn.com",
-      "published": 1783062748
-    },
-    {
-      "id": "d6e5da696f4a",
-      "title": "臺灣漫遊錄韓文譯者金依莎　盼搭起台韓文學交流橋梁",
-      "url": "https://money.udn.com/money/story/5599/9605067",
-      "source": "money.udn.com",
-      "published": 1783059757
-    },
-    {
-      "id": "ddb0a3eb8c59",
-      "title": "「獲利泡沫」吹太大？AI 熱潮推高企業獲利預期 恐引爆美股修正",
-      "url": "https://money.udn.com/money/story/123398/9605064",
-      "source": "money.udn.com",
-      "published": 1783059729
     },
     {
       "id": "797c54deae3d",
@@ -786,20 +828,6 @@
       "published": 1782982980
     },
     {
-      "id": "cd18c65bd7e9",
-      "title": "俄罗斯大规模轰炸基辅造成至少17人死86人伤",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260702-%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%BD%B0%E7%82%B8%E5%9F%BA%E8%BE%85%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%9113%E4%BA%BA%E6%AD%BB86%E4%BA%BA%E4%BC%A4",
-      "source": "rfi.fr",
-      "published": 1782979740
-    },
-    {
-      "id": "287f2131d2a6",
-      "title": "爱国议员被揭知法犯法　黄锦辉涉酒驾撞车后不顾而去",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260702-%E7%88%B1%E5%9B%BD%E8%AE%AE%E5%91%98%E8%A2%AB%E6%8F%AD%E7%9F%A5%E6%B3%95%E7%8A%AF%E6%B3%95-%E9%BB%84%E9%94%A6%E8%BE%89%E6%B6%89%E9%85%92%E9%A9%BE%E6%92%9E%E8%BD%A6%E5%90%8E%E4%B8%8D%E9%A1%BE%E8%80%8C%E5%8E%BB",
-      "source": "rfi.fr",
-      "published": 1782979020
-    },
-    {
       "id": "bfc38033d199",
       "title": "科隆大教堂开收门票 首日情况如何？",
       "url": "https://www.dw.com/zh/科隆大教堂开收门票-首日情况如何？/a-77790873?maca=chi-rss-chi-all-1127-rdf",
@@ -905,13 +933,6 @@
       "published": 1782908065
     },
     {
-      "id": "d9957c682981",
-      "title": "巴拉圭称“不排斥与中国贸易”",
-      "url": "https://www.dw.com/zh/巴拉圭称-不排斥与中国贸易/a-77786379?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1782904740
-    },
-    {
       "id": "212b815ccd77",
       "title": "出事小飞机差点撞上民航客机",
       "url": "https://www.dw.com/zh/出事小飞机差点撞上民航客机/a-77785046?maca=chi-rss-chi-news-3224-rdf",
@@ -924,13 +945,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c621ggjkyd0o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1782900768
-    },
-    {
-      "id": "2561acae9b26",
-      "title": "台灣海巡官員如何從神明信仰汲取力量？",
-      "url": "https://www.bbc.com/zhongwen/articles/cj4gz0zw5y4o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1782899681
     },
     {
       "id": "5462a5440d6b",
@@ -1008,13 +1022,6 @@
       "url": "https://cn.nytimes.com/opinion/20260701/office-work-wfh-bosses/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1782840718
-    },
-    {
-      "id": "22ef2485daee",
-      "title": "世界杯出局后 默茨力挺德国队遭群嘲",
-      "url": "https://www.dw.com/zh/世界杯出局后-默茨力挺德国队遭群嘲/a-77774643?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1782829560
     },
     {
       "id": "f49cdaa0f979",
@@ -1115,13 +1122,6 @@
       "published": 1782731520
     },
     {
-      "id": "7712bda87144",
-      "title": "又有20家日本企业被中国商务部列入实体清单",
-      "url": "https://www.dw.com/zh/又有20家日本企业被中国商务部列入实体清单/a-77753394?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1782730800
-    },
-    {
       "id": "919781606f38",
       "title": "韓國總統要求徹查世界盃「荒唐」敗仗 警察防主教練回國遇刺",
       "url": "https://www.bbc.com/zhongwen/articles/c0myk4dj84xo/trad?at_medium=RSS&at_campaign=rss",
@@ -1141,6 +1141,13 @@
       "url": "https://www.dw.com/zh/来一份不带薯条的咖喱肠/a-77678305?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1782631680
+    },
+    {
+      "id": "7b57dd7fadf8",
+      "title": "德国总理默茨的人气为什么如此低迷？",
+      "url": "https://www.dw.com/zh/德国总理默茨的人气为什么如此低迷？/a-77694932?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1782631560
     },
     {
       "id": "fcab6f8bd703",
@@ -1269,13 +1276,6 @@
       "published": 1782194286
     },
     {
-      "id": "c2f841ed1b00",
-      "title": "誰說羅賓漢是英雄？黑暗、暴力的中世紀起源如何被抹除",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yz00486e3o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1782172233
-    },
-    {
       "id": "cea913a3120f",
       "title": "每天服用健康補充劑？結果可能弊大於利",
       "url": "https://www.bbc.com/zhongwen/articles/cpv300kw9wno/trad?at_medium=RSS&at_campaign=rss",
@@ -1402,5 +1402,5 @@
       "published": 1781237470
     }
   ],
-  "build_id": 1783077796
+  "build_id": 1783084657
 }
