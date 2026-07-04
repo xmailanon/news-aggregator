@@ -1,6 +1,20 @@
 {
-  "updated": 1783183831,
+  "updated": 1783187615,
   "items": [
+    {
+      "id": "0bcb43c36fed",
+      "title": "威斯康辛州日內瓦湖暴風雨釀翻船 3 人死亡",
+      "url": "https://www.singtaousa.com/2026/07/04/news/usa/3-dead-and-others-rescued-after-boat-capsizes-on-wisconsin-lake-amid-storms/",
+      "source": "singtaousa.com",
+      "published": 1783184570
+    },
+    {
+      "id": "5c8489f5baed",
+      "title": "《漫威對決》美國隊長新造型尺度引議",
+      "url": "https://www.singtaousa.com/2026/07/04/news/world/marvel-rivals-is-just-straight-up-hanging-dong-now/",
+      "source": "singtaousa.com",
+      "published": 1783184157
+    },
     {
       "id": "27a34960ea80",
       "title": "乌克兰军队否认其一座关键城市失守",
@@ -152,20 +166,6 @@
       "id": "28a324e6c545",
       "title": "世界盃球員速度榜   姆巴佩哈蘭德被超越",
       "url": "https://www.singtaousa.com/2026/07/04/news/usa/world-cup-player-speed-ranking/",
-      "source": "singtaousa.com",
-      "published": 1783173600
-    },
-    {
-      "id": "fb4d2957f94a",
-      "title": "法國隊球員飲食偏好   非洲菜品受青睞",
-      "url": "https://www.singtaousa.com/2026/07/04/news/usa/france-team-players-diet-preferences/",
-      "source": "singtaousa.com",
-      "published": 1783173600
-    },
-    {
-      "id": "a218152e66a8",
-      "title": "勞塔羅零威脅零對抗   險些葬送美斯",
-      "url": "https://www.singtaousa.com/2026/07/04/news/usa/lautaro-zero-threats-zero-contrasts/",
       "source": "singtaousa.com",
       "published": 1783173600
     },
@@ -1367,5 +1367,5 @@
       "published": 1780986799
     }
   ],
-  "build_id": 1783183831
+  "build_id": 1783187615
 }
