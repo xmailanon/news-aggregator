@@ -1,6 +1,20 @@
 {
-  "updated": 1783200273,
+  "updated": 1783203858,
   "items": [
+    {
+      "id": "1a149289a828",
+      "title": "張雨綺暢談擇偶觀 不考慮圈內男星",
+      "url": "https://www.singtaousa.com/2026/07/04/entertainment/zhang-yuqi-chooses-partner/",
+      "source": "singtaousa.com",
+      "published": 1783202400
+    },
+    {
+      "id": "43b87b389657",
+      "title": "澳洲塔斯曼尼亞潛水遇險 兩港人獲同鄉旅行團協助脫困",
+      "url": "https://www.singtaousa.com/2026/07/04/news/china/hong-kong-divers-rescued-tasmania-tour-group/",
+      "source": "singtaousa.com",
+      "published": 1783200416
+    },
     {
       "id": "8623c7afd969",
       "title": "美國歡慶250周年 F-18戰機空中大秀特技",
@@ -184,13 +198,6 @@
       "published": 1783184570
     },
     {
-      "id": "5c8489f5baed",
-      "title": "《漫威對決》美國隊長新造型尺度引議",
-      "url": "https://www.singtaousa.com/2026/07/04/news/world/marvel-rivals-is-just-straight-up-hanging-dong-now/",
-      "source": "singtaousa.com",
-      "published": 1783184157
-    },
-    {
       "id": "27a34960ea80",
       "title": "乌克兰军队否认其一座关键城市失守",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260704-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%9B%E9%98%9F%E5%90%A6%E8%AE%A4%E5%85%B6%E4%B8%80%E5%BA%A7%E5%85%B3%E9%94%AE%E5%9F%8E%E5%B8%82%E5%A4%B1%E5%AE%88",
@@ -210,13 +217,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260704-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AF%B9%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E7%9F%B3%E6%B2%B9%E7%BB%88%E7%AB%AF%E5%92%8C%E6%B5%B7%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
       "source": "rfi.fr",
       "published": 1783182035
-    },
-    {
-      "id": "b25837788961",
-      "title": "加沙哈馬斯處決通敵以色列男子",
-      "url": "https://www.singtaousa.com/2026/07/04/news/world/hamas-executes-gazan-for-collaborating-with-israeli-intelligence-report/",
-      "source": "singtaousa.com",
-      "published": 1783181707
     },
     {
       "id": "024fdb1c6125",
@@ -1367,5 +1367,5 @@
       "published": 1780986799
     }
   ],
-  "build_id": 1783200273
+  "build_id": 1783203858
 }
