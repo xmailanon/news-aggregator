@@ -1,9 +1,72 @@
 {
-  "updated": 1783277844,
+  "updated": 1783282172,
   "items": [
     {
+      "id": "1db221782b64",
+      "title": "擺脫生活迷茫 去草原尋溫暖",
+      "url": "https://www.singtaousa.com/2026/07/05/entertainment/life-journey-grassland-warmth/",
+      "source": "singtaousa.com",
+      "published": 1783281600
+    },
+    {
+      "id": "e414b238b40e",
+      "title": "美军结束阿拉伯海失踪机组人员搜救行动",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260705-%E7%BE%8E%E5%86%9B%E7%BB%93%E6%9D%9F%E9%98%BF%E6%8B%89%E4%BC%AF%E6%B5%B7%E5%A4%B1%E8%B8%AA%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E6%90%9C%E6%95%91%E8%A1%8C%E5%8A%A8",
+      "source": "rfi.fr",
+      "published": 1783281528
+    },
+    {
+      "id": "d317acfc625c",
+      "title": "德国选项党寻求执掌政权",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260705-%E5%BE%B7%E5%9B%BD%E9%80%89%E9%A1%B9%E5%85%9A%E5%AF%BB%E6%B1%82%E6%89%A7%E6%8E%8C%E6%94%BF%E6%9D%83",
+      "source": "rfi.fr",
+      "published": 1783281510
+    },
+    {
+      "id": "7b9fe1afad60",
+      "title": "中國海軍076型兩棲攻擊艦「四川艦」完成關鍵設備安裝 預計年底入列",
+      "url": "https://www.singtaousa.com/2026/07/05/news/china/sichuan-ship-electromagnetic-catapult-year-end-commissioning/",
+      "source": "singtaousa.com",
+      "published": 1783281419
+    },
+    {
+      "id": "83207b6bc9c6",
+      "title": "美官員：川普北約峰會期間將會晤烏克蘭、敘利亞領導人",
+      "url": "https://money.udn.com/money/story/5599/9608872",
+      "source": "money.udn.com",
+      "published": 1783280723
+    },
+    {
+      "id": "90d42253b1ee",
+      "title": "遼寧暴雨中女外賣員被急流沖走 熱心市民合力成功營救",
+      "url": "https://www.singtaousa.com/2026/07/05/news/china/female-delivery-rider-rescued-flood-liaoning/",
+      "source": "singtaousa.com",
+      "published": 1783279617
+    },
+    {
+      "id": "bb2f470e5e59",
+      "title": "水上飛機迫降紐約東河　機上8人全數獲救僅2人輕傷",
+      "url": "https://www.singtaousa.com/2026/07/05/news/usa/news-new-york-east-river-seaplane-crash-rescue/",
+      "source": "singtaousa.com",
+      "published": 1783279556
+    },
+    {
+      "id": "7a828a322572",
+      "title": "國慶週末南加多地大火連天 煙花連環爆炸傳死傷",
+      "url": "https://www.singtaousa.com/2026/07/05/news/usa/news-chino-fireworks-explosion-manslaughter-arrest/",
+      "source": "singtaousa.com",
+      "published": 1783278910
+    },
+    {
+      "id": "7b8bb2c5faf0",
+      "title": "《風中的冷箭》  緝毒前線驚險對決",
+      "url": "https://www.singtaousa.com/2026/07/05/entertainment/cold-arrows-drug-bust/",
+      "source": "singtaousa.com",
+      "published": 1783278000
+    },
+    {
       "id": "3667d7c7088b",
-      "title": "中國地下教會牧師金明日「在中美元首交流後」獲釋",
+      "title": "BBC: 中國地下教會牧師金明日「在中美元首交流後」獲釋",
       "url": "https://www.singtaousa.com/2026/07/05/news/usa/news-chinese-underground-news-church-pastor-jin-mingri-released/",
       "source": "singtaousa.com",
       "published": 1783277901
@@ -58,39 +121,11 @@
       "published": 1783275542
     },
     {
-      "id": "a88f903302db",
-      "title": "電動車電池耐用度超預期 行駛數十萬英里表現依然出色",
-      "url": "https://www.singtaousa.com/2026/07/05/news/usa/news-ev-battery-longevity-performance-miles/",
-      "source": "singtaousa.com",
-      "published": 1783275193
-    },
-    {
-      "id": "79b5979bca01",
-      "title": "呈現西南鄉土情懷  張丹峰陳都靈挺身赴戰",
-      "url": "https://www.singtaousa.com/2026/07/05/entertainment/southwest-hometown-zhang-dan-feng/",
-      "source": "singtaousa.com",
-      "published": 1783274400
-    },
-    {
       "id": "e58bc8472b3f",
       "title": "北约峰会前:泽连斯基和普京都在美国独立250周年致电特朗普",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260705-%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E5%89%8D%EF%BC%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%92%8C%E6%99%AE%E4%BA%AC%E9%83%BD%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%8B%AC%E7%AB%8B250%E5%91%A8%E5%B9%B4%E8%87%B4%E7%94%B5%E7%89%B9%E6%9C%97%E6%99%AE",
       "source": "rfi.fr",
       "published": 1783273854
-    },
-    {
-      "id": "9f5e0d61d00e",
-      "title": "科州猶他邊境殉職三消防員 追悼會隆重舉行",
-      "url": "https://www.singtaousa.com/2026/07/05/news/usa/news-colorado-utah-border-wildfire-firefighters-memorial-service/",
-      "source": "singtaousa.com",
-      "published": 1783273749
-    },
-    {
-      "id": "f869827745a9",
-      "title": "達美航班降落芝加哥中途機場 驚遭國慶煙花擊中機身",
-      "url": "https://www.singtaousa.com/2026/07/05/news/usa/news-chicago-midway-airport-delta-flight-hit-firework/",
-      "source": "singtaousa.com",
-      "published": 1783272933
     },
     {
       "id": "032f2db63a98",
@@ -163,25 +198,11 @@
       "published": 1783272270
     },
     {
-      "id": "d2badf0db9e7",
-      "title": "全美熱浪肆虐至少25人喪生 暴風雨夾帶洪水狂風威脅東岸",
-      "url": "https://www.singtaousa.com/2026/07/05/news/usa/news-us-extreme-weather-heatwave-storms-flooding/",
-      "source": "singtaousa.com",
-      "published": 1783272214
-    },
-    {
       "id": "bf6d1ee95b80",
       "title": "2026世界杯：法国对阵巴拉圭赛后 裁判成为争议焦点",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260705-2026%E4%B8%96%E7%95%8C%E6%9D%AF-%E6%B3%95%E5%9B%BD%E5%AF%B9%E9%98%B5%E5%B7%B4%E6%8B%89%E5%9C%AD%E8%B5%9B%E5%90%8E-%E8%A3%81%E5%88%A4%E6%88%90%E4%B8%BA%E4%BA%89%E8%AE%AE%E7%84%A6%E7%82%B9",
       "source": "rfi.fr",
       "published": 1783271911
-    },
-    {
-      "id": "b054e5de3a98",
-      "title": "穿越到現代當學霸 用知識改變命運",
-      "url": "https://www.singtaousa.com/2026/07/05/entertainment/change-fate-knowledge-modern/",
-      "source": "singtaousa.com",
-      "published": 1783270800
     },
     {
       "id": "3bf84ba6d5dc",
@@ -280,13 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9608518",
       "source": "money.udn.com",
       "published": 1783256507
-    },
-    {
-      "id": "e4e85b8b615e",
-      "title": "委國雙震小球迷痛失家人和一條腿　C羅暖心邀請看比賽",
-      "url": "https://money.udn.com/money/story/5599/9608514",
-      "source": "money.udn.com",
-      "published": 1783256064
     },
     {
       "id": "05bd0ba473b0",
@@ -541,13 +555,6 @@
       "published": 1783182694
     },
     {
-      "id": "3feba874d550",
-      "title": "乌克兰对圣彼得堡石油终端和海军基地发动袭击",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260704-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AF%B9%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E7%9F%B3%E6%B2%B9%E7%BB%88%E7%AB%AF%E5%92%8C%E6%B5%B7%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
-      "source": "rfi.fr",
-      "published": 1783182035
-    },
-    {
       "id": "522ccb77382b",
       "title": "美国250年：根基为何？",
       "url": "https://www.ftchinese.com/story/001110227",
@@ -602,13 +609,6 @@
       "url": "https://www.dw.com/zh/乌克兰打击圣彼得堡附近石油设施/a-77832624?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1783171560
-    },
-    {
-      "id": "60ca946a8152",
-      "title": "教皇良十四在兰佩杜萨岛呼吁欧洲采取更多行动保护逃难移民",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260704-%E6%95%99%E7%9A%87%E8%89%AF%E5%8D%81%E5%9B%9B%E5%9C%A8%E5%85%B0%E4%BD%A9%E6%9D%9C%E8%90%A8%E5%B2%9B%E5%91%BC%E5%90%81%E6%AC%A7%E6%B4%B2%E9%87%87%E5%8F%96%E6%9B%B4%E5%A4%9A%E8%A1%8C%E5%8A%A8%E4%BF%9D%E6%8A%A4%E9%80%83%E9%9A%BE%E7%A7%BB%E6%B0%91",
-      "source": "rfi.fr",
-      "published": 1783168207
     },
     {
       "id": "79c93db94c91",
@@ -1395,5 +1395,5 @@
       "published": 1780986799
     }
   ],
-  "build_id": 1783277844
+  "build_id": 1783282172
 }
