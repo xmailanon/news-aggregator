@@ -1,12 +1,103 @@
 {
-  "updated": 1783757814,
+  "updated": 1783763632,
   "items": [
     {
       "id": "6034809c7dc1",
-      "title": "颱風巴威籠罩台灣、閩浙、沖繩 　台灣87傷萬戶停電",
+      "title": "颱風巴威籠罩台灣閩浙沖繩 　台灣萬戶停電、大陸疏散185萬人",
       "url": "https://www.bbc.com/zhongwen/live/czj8zrvmy4lt/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1783757815
+      "published": 1783763633
+    },
+    {
+      "id": "b8a92bf86b5c",
+      "title": "印度電子垃圾增加　德里制訂廢電池回收SOP",
+      "url": "https://money.udn.com/money/story/5599/9621685",
+      "source": "money.udn.com",
+      "published": 1783762229
+    },
+    {
+      "id": "13cf2a7986a6",
+      "title": "希愈生殖醫學中心涉胚胎樣本調亂 警方調查是否涉刑事或人為失誤",
+      "url": "https://www.singtaousa.com/2026/07/11/news/china/embryo-sample-mixup-police-investigation/",
+      "source": "singtaousa.com",
+      "published": 1783762015
+    },
+    {
+      "id": "242e44b39b69",
+      "title": "特朗普威胁若遭暗杀将“摧毁伊朗” 称千枚导弹已待发",
+      "url": "https://www.dw.com/zh/特朗普威胁若遭暗杀将-摧毁伊朗-称千枚导弹已待发/a-77915557?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1783761960
+    },
+    {
+      "id": "16b7ebac51c6",
+      "title": "大型强台风袭击日本 8人受伤两万多户停电",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260711-%E5%A4%A7%E5%9E%8B%E5%BC%BA%E5%8F%B0%E9%A3%8E%E8%A2%AD%E5%87%BB%E6%97%A5%E6%9C%AC-8%E4%BA%BA%E5%8F%97%E4%BC%A4%E4%B8%A4%E4%B8%87%E5%A4%9A%E6%88%B7%E5%81%9C%E7%94%B5",
+      "source": "rfi.fr",
+      "published": 1783761843
+    },
+    {
+      "id": "21483f1218c8",
+      "title": "黃仁勳15日赴日參加這家公司活動 感念當年救了輝達一命",
+      "url": "https://money.udn.com/money/story/5599/9621664",
+      "source": "money.udn.com",
+      "published": 1783761189
+    },
+    {
+      "id": "bce30eac7280",
+      "title": "颱風巴威：台灣15萬戶停電 中國三地撤離逾76萬人",
+      "url": "https://www.bbc.com/zhongwen/articles/cz9l81k2geko/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1783760970
+    },
+    {
+      "id": "680172fb3a5a",
+      "title": "確定要打價格戰！Rapidus 社長：2奈米報價將低於台積電",
+      "url": "https://money.udn.com/money/story/5599/9621652",
+      "source": "money.udn.com",
+      "published": 1783760546
+    },
+    {
+      "id": "30715c3fda00",
+      "title": "香港科技園園區企業揚威LEAP East創業大賽 三天促成逾1500場商務配對",
+      "url": "https://www.singtaousa.com/2026/07/11/news/china/hkstp-companies-win-leap-east-startup-competition/",
+      "source": "singtaousa.com",
+      "published": 1783760233
+    },
+    {
+      "id": "2c9dfdd130da",
+      "title": "孟買斥資437億打造海綿城市 盼科學防洪解淹水難題",
+      "url": "https://money.udn.com/money/story/5599/9621625",
+      "source": "money.udn.com",
+      "published": 1783759550
+    },
+    {
+      "id": "3d30c27e59e0",
+      "title": "颱風巴威直撲浙江 中國疏散逾60萬人",
+      "url": "https://www.dw.com/zh/颱風巴威直撲浙江-中國疏散逾60萬人/a-77915464?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1783759380
+    },
+    {
+      "id": "e0298503eeb6",
+      "title": "iPhone 和 Mac 用英特爾晶片 是蘋果去年豁免晶片關稅的交換條件",
+      "url": "https://money.udn.com/money/story/5599/9621603",
+      "source": "money.udn.com",
+      "published": 1783758599
+    },
+    {
+      "id": "37d86fba2591",
+      "title": "福建晉江鞋廠火災致28人遇難 國務院掛牌督辦調查",
+      "url": "https://www.singtaousa.com/2026/07/11/news/china/fujian-shoe-factory-fire-deaths-supervision/",
+      "source": "singtaousa.com",
+      "published": 1783758414
+    },
+    {
+      "id": "4332b16340aa",
+      "title": "朝鲜谴责北约峰会：无核化应先从美国盟友开始",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260711-%E6%9C%9D%E9%B2%9C%E8%B0%B4%E8%B4%A3%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A-%E6%97%A0%E6%A0%B8%E5%8C%96%E5%BA%94%E5%85%88%E4%BB%8E%E7%BE%8E%E5%9B%BD%E7%9B%9F%E5%8F%8B%E5%BC%80%E5%A7%8B",
+      "source": "rfi.fr",
+      "published": 1783757786
     },
     {
       "id": "e820e7bd3e30",
@@ -191,67 +282,11 @@
       "published": 1783745520
     },
     {
-      "id": "0b1a565fd133",
-      "title": "莫迪訪奧克蘭　印度紐西蘭建立戰略夥伴關係",
-      "url": "https://money.udn.com/money/story/5599/9621327",
-      "source": "money.udn.com",
-      "published": 1783745158
-    },
-    {
       "id": "033713d7d936",
       "title": "德國華人跨國性侵案：拆解「老司機」網絡與隱密性暴力",
       "url": "https://www.bbc.com/zhongwen/articles/c5yz410p7ejo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1783745026
-    },
-    {
-      "id": "160395c11d47",
-      "title": "維爾紐斯電視塔餐廳重啟 165公尺高空旋轉景觀吸客",
-      "url": "https://money.udn.com/money/story/5599/9621321",
-      "source": "money.udn.com",
-      "published": 1783744612
-    },
-    {
-      "id": "aef9cfd63008",
-      "title": "燃料短缺加劇停電危機 古巴全國電網1週內二度崩潰",
-      "url": "https://money.udn.com/money/story/5599/9621308",
-      "source": "money.udn.com",
-      "published": 1783744236
-    },
-    {
-      "id": "c1b0c6700442",
-      "title": "川普稱千枚飛彈已瞄準　若伊朗企圖暗殺將遭攻擊",
-      "url": "https://money.udn.com/money/story/5599/9621298",
-      "source": "money.udn.com",
-      "published": 1783743706
-    },
-    {
-      "id": "7541a523576c",
-      "title": "颱風巴威打亂日本航班　沖繩8傷、2.2萬戶停電",
-      "url": "https://money.udn.com/money/story/5599/9621296",
-      "source": "money.udn.com",
-      "published": 1783743690
-    },
-    {
-      "id": "232562130ff6",
-      "title": "英國補選：法拉奇唯一對手是自稱外星人的喜劇演員「垃圾桶伯爵」",
-      "url": "https://www.singtaousa.com/2026/07/10/news/world/nigel-farage-s-only-by-election-challenger-is-self-proclaimed-space-alien-count-binface/",
-      "source": "singtaousa.com",
-      "published": 1783742890
-    },
-    {
-      "id": "1e1bdda85f3a",
-      "title": "中國批美國無視元首共識 將逾60家中企列黑名單打壓",
-      "url": "https://www.singtaousa.com/2026/07/10/news/world/china-accuses-us-of-ignoring-trump-xi-rapport-and-targeting-chinese-firms/",
-      "source": "singtaousa.com",
-      "published": 1783742553
-    },
-    {
-      "id": "fab8f266c3fe",
-      "title": "東亞嚴陣以待颱風巴威 菲律賓山泥傾瀉已釀15死",
-      "url": "https://www.singtaousa.com/2026/07/10/news/world/taiwan-japan-and-south-eastern-china-brace-for-typhoon-bavi-as-landslides-kill-15-in-philippines/",
-      "source": "singtaousa.com",
-      "published": 1783742400
     },
     {
       "id": "9dc0ed218e33",
@@ -588,20 +623,6 @@
       "url": "https://cn.nytimes.com/china/20260710/china-fire-shoe-factory/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1783641835
-    },
-    {
-      "id": "a6f996cbbf2d",
-      "title": "几年来，中国和俄罗斯一直定期举行秘密军事论坛",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260709-%E5%87%A0%E5%B9%B4%E6%9D%A5%EF%BC%8C%E4%B8%AD%E5%9B%BD%E5%92%8C%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%80%E7%9B%B4%E5%AE%9A%E6%9C%9F%E4%B8%BE%E8%A1%8C%E7%A7%98%E5%AF%86%E5%86%9B%E4%BA%8B%E8%AE%BA%E5%9D%9B",
-      "source": "rfi.fr",
-      "published": 1783640012
-    },
-    {
-      "id": "ecad69cd9597",
-      "title": "精彩的胜利！    法国以2：0胜摩洛哥队   杀入半决赛",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260709-%E7%B2%BE%E5%BD%A9%E7%9A%84%E8%83%9C%E5%88%A9-%E6%B3%95%E5%9B%BD%E4%BB%A52-0%E6%88%98%E8%83%9C%E6%91%A9%E6%B4%9B%E5%93%A5%E9%98%9F-%E6%9D%80%E5%85%A5%E5%8D%8A%E5%86%B3%E8%B5%9B",
-      "source": "rfi.fr",
-      "published": 1783637233
     },
     {
       "id": "b409e1f65b71",
@@ -1115,16 +1136,16 @@
       "published": 1783248060
     },
     {
-      "id": "050ce9cc5394",
-      "title": "数字欧元：既抵御美国式动荡，又避免中国式监管",
-      "url": "https://www.dw.com/zh/数字欧元：既抵御美国式动荡，又避免中国式监管/a-77787405?maca=chi-rss-chi-all-1127-rdf",
+      "id": "7edafa661f55",
+      "title": "需要外国劳工 日本仍收紧移民政策",
+      "url": "https://www.dw.com/zh/需要外国劳工-日本仍收紧移民政策/a-77774317?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1783236300
     },
     {
-      "id": "7edafa661f55",
-      "title": "需要外国劳工 日本仍收紧移民政策",
-      "url": "https://www.dw.com/zh/需要外国劳工-日本仍收紧移民政策/a-77774317?maca=chi-rss-chi-all-1127-rdf",
+      "id": "050ce9cc5394",
+      "title": "数字欧元：既抵御美国式动荡，又避免中国式监管",
+      "url": "https://www.dw.com/zh/数字欧元：既抵御美国式动荡，又避免中国式监管/a-77787405?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1783236300
     },
@@ -1190,13 +1211,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cvgle2xd2wro/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1783080677
-    },
-    {
-      "id": "4e7a36708270",
-      "title": "美國建國250週年：五個鮮為人知的中美關係歷史細節",
-      "url": "https://www.bbc.com/zhongwen/articles/cly87exrjvqo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1783076997
     },
     {
       "id": "15a0f754b3ab",
@@ -1386,21 +1400,7 @@
       "url": "https://www.dw.com/zh/特朗普金手机原来是-中国制造-？/a-77559188?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1781523000
-    },
-    {
-      "id": "e93a9878127d",
-      "title": "和中国有关?Anthropic最新AI模型全球断供",
-      "url": "https://www.dw.com/zh/和中国有关-anthropic最新ai模型全球断供/a-77543796?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1781432700
-    },
-    {
-      "id": "304dcac38d78",
-      "title": "“黑灯工厂”照不亮中国年轻人的就业之路?",
-      "url": "https://www.dw.com/zh/黑灯工厂-照不亮中国年轻人的就业之路/a-77527764?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1781420880
     }
   ],
-  "build_id": 1783757814
+  "build_id": 1783763632
 }
