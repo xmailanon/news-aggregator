@@ -1,6 +1,83 @@
 {
-  "updated": 1783725931,
+  "updated": 1783728887,
   "items": [
+    {
+      "id": "6034809c7dc1",
+      "title": "颱風巴威逼近台灣本島 絕大多數縣市停班停課",
+      "url": "https://www.bbc.com/zhongwen/live/czj8zrvmy4lt/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1783728887
+    },
+    {
+      "id": "cfb0fec4ed7f",
+      "title": "巴西披薩日　文化與經濟共熱",
+      "url": "https://money.udn.com/money/story/5599/9620869",
+      "source": "money.udn.com",
+      "published": 1783728023
+    },
+    {
+      "id": "c135dceb7302",
+      "title": "《紅樓夢》薛姨媽扮演者病逝",
+      "url": "https://www.singtaousa.com/2026/07/10/entertainment/li-feng-ying-passes-away/",
+      "source": "singtaousa.com",
+      "published": 1783728000
+    },
+    {
+      "id": "70782186d1f4",
+      "title": "英前議員遇害案 26歲男涉謀殺被捕",
+      "url": "https://www.singtaousa.com/2026/07/10/news/world/man-arrested-as-part-of-murder-investigation-into-death-of-ann-widdecombe/",
+      "source": "singtaousa.com",
+      "published": 1783727216
+    },
+    {
+      "id": "39975b39f9de",
+      "title": "移民局新規： H-1B與綠卡申請簽名審查空前嚴格 錯漏恐遭直接拒絕",
+      "url": "https://www.singtaousa.com/2026/07/10/immigration/the-u-s-immigration-services-new-regulations-will-be-fully-implemented-on-july-10th-h-1b-and-green-card-application-signature-review-will-be-unprecedentedly-strict-mistakes-and-omissions-m/",
+      "source": "singtaousa.com",
+      "published": 1783727092
+    },
+    {
+      "id": "de98e8093bbb",
+      "title": "川習9月再見面提台灣？俞大㵢：美方立場不會改變",
+      "url": "https://money.udn.com/money/story/5599/9620859",
+      "source": "money.udn.com",
+      "published": 1783727014
+    },
+    {
+      "id": "66102005f1b1",
+      "title": "川普同意美伊續談但拒絕停火！美方限11日表態 「否則不會太好過」",
+      "url": "https://money.udn.com/money/story/5599/9620857",
+      "source": "money.udn.com",
+      "published": 1783726797
+    },
+    {
+      "id": "fbf2952277de",
+      "title": "華盛頓倒影池 特朗普翻新工程再排水",
+      "url": "https://www.singtaousa.com/2026/07/10/news/usa/crews-draining-the-lincoln-memorial-reflecting-pool-again-as-part-of-troubled-revamp/",
+      "source": "singtaousa.com",
+      "published": 1783726766
+    },
+    {
+      "id": "15360967d423",
+      "title": "阿根廷央行改革獲IMF支持 強化獨立性",
+      "url": "https://www.singtaousa.com/2026/07/10/news/world/imf-welcomes-the-argentinian-goverments-reform-proposal-for-argentinas-central-bank/",
+      "source": "singtaousa.com",
+      "published": 1783726603
+    },
+    {
+      "id": "6c90f36d141e",
+      "title": "義媒：梅洛尼北約峰會警示 國防供應鏈遭中國掌控",
+      "url": "https://money.udn.com/money/story/5599/9620851",
+      "source": "money.udn.com",
+      "published": 1783726586
+    },
+    {
+      "id": "9f897bc57ed0",
+      "title": "美伊僵局分析：川普無意長期戰、伊朗領袖欲對內示強",
+      "url": "https://money.udn.com/money/story/5599/9620845",
+      "source": "money.udn.com",
+      "published": 1783725685
+    },
     {
       "id": "a7e428a79834",
       "title": "密蘇里州暴雨成災 露營地建築倒塌 20 人獲救",
@@ -93,20 +170,6 @@
       "published": 1783720800
     },
     {
-      "id": "6794ea330383",
-      "title": "五角大樓公布新一批UFO檔案 軍方飛機師稱「28年服役從未見過類似物體」",
-      "url": "https://www.singtaousa.com/2026/07/10/news/usa/the-pentagon-releases-a-new-batch-of-ufo-files-military-pilots-say-they-have-never-seen-similar-objects-in-28-years-of-service/",
-      "source": "singtaousa.com",
-      "published": 1783720705
-    },
-    {
-      "id": "05562abc21c7",
-      "title": "香港警察學院結業會操 三位優秀畢業學員分享投身警隊心路",
-      "url": "https://www.singtaousa.com/2026/07/10/news/china/police-academy-graduation-outstanding-trainees-journey/",
-      "source": "singtaousa.com",
-      "published": 1783720618
-    },
-    {
       "id": "89d1f13563ad",
       "title": "法国高温持续升级 红色预警扩大至24个省 政府启动极端高温应急预案",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260710-%E6%B3%95%E5%9B%BD%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD%E5%8D%87%E7%BA%A7-%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E6%89%A9%E5%A4%A7%E8%87%B324%E4%B8%AA%E7%9C%81-%E6%94%BF%E5%BA%9C%E5%90%AF%E5%8A%A8%E6%9E%81%E7%AB%AF%E9%AB%98%E6%B8%A9%E5%BA%94%E6%80%A5%E9%A2%84%E6%A1%88",
@@ -121,32 +184,11 @@
       "published": 1783720461
     },
     {
-      "id": "9f492e4ba652",
-      "title": "堅尼地城食水管爆裂 多廈停水 搶修延遲因需保救護路線",
-      "url": "https://www.singtaousa.com/2026/07/10/news/china/kennedy-town-water-main-burst-supply-cut/",
-      "source": "singtaousa.com",
-      "published": 1783718817
-    },
-    {
       "id": "5ad4047d7905",
       "title": "SK海力士華爾街掛牌首日勁揚13% 美股收高",
       "url": "https://money.udn.com/money/story/123398/9620792",
       "source": "money.udn.com",
       "published": 1783718488
-    },
-    {
-      "id": "b923aaf97d76",
-      "title": "2026世界盃｜阿根廷3比2淘汰埃及掀「黑哨」質疑 FIFA透明度受考驗",
-      "url": "https://www.singtaousa.com/2026/07/10/news/usa/fifas-lack-of-transparency-sparks-controversy-referee-controversy-spreads-after-argentina-beat-egypt/",
-      "source": "singtaousa.com",
-      "published": 1783717706
-    },
-    {
-      "id": "41867607b7a9",
-      "title": "范丞丞就桃色風波興訟",
-      "url": "https://www.singtaousa.com/2026/07/10/entertainment/fan-cheng-cheng-lawsuit-scandal/",
-      "source": "singtaousa.com",
-      "published": 1783717200
     },
     {
       "id": "7148d9d7d498",
@@ -261,46 +303,11 @@
       "published": 1783699435
     },
     {
-      "id": "991c343b3ba3",
-      "title": "SK海力士ADR以170美元開出 較發行價上漲14%",
-      "url": "https://money.udn.com/money/story/5599/9620688",
-      "source": "money.udn.com",
-      "published": 1783699015
-    },
-    {
-      "id": "d7849750a178",
-      "title": "美國石油及油品庫存偏低 供給仍然緊俏",
-      "url": "https://money.udn.com/money/story/5599/9620627",
-      "source": "money.udn.com",
-      "published": 1783696419
-    },
-    {
-      "id": "c012adbce0e2",
-      "title": "川普：美國同意與伊朗談判　但停火已結束",
-      "url": "https://money.udn.com/money/story/5599/9620617",
-      "source": "money.udn.com",
-      "published": 1783696348
-    },
-    {
-      "id": "392854654bb6",
-      "title": "SK海力士赴美掛牌 又引爆槓桿ETF熱潮 分析師憂瘋狗太多 波動風險升高",
-      "url": "https://money.udn.com/money/story/123398/9620565",
-      "source": "money.udn.com",
-      "published": 1783694841
-    },
-    {
       "id": "cbefb3859c15",
       "title": "德国议会批准医保节约方案",
       "url": "https://www.dw.com/zh/德国议会批准医保节约方案/a-77909972?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1783694400
-    },
-    {
-      "id": "7fd41624e0bd",
-      "title": "福爾摩沙已不足以形容台灣經濟實力 彭博共同創辦人提議如此改稱",
-      "url": "https://money.udn.com/money/story/5599/9620540",
-      "source": "money.udn.com",
-      "published": 1783694239
     },
     {
       "id": "699658ccaaa3",
@@ -553,13 +560,6 @@
       "url": "https://cn.nytimes.com/china/20260710/china-fire-shoe-factory/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1783641835
-    },
-    {
-      "id": "03915f64a835",
-      "title": "颱風巴威逼近台灣本島 絕大多數縣市停班停課",
-      "url": "https://bbc.in/4ww4np5?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.in",
-      "published": 1783641600
     },
     {
       "id": "a6f996cbbf2d",
@@ -1402,5 +1402,5 @@
       "published": 1781420880
     }
   ],
-  "build_id": 1783725931
+  "build_id": 1783728887
 }
