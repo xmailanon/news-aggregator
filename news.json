@@ -1,12 +1,33 @@
 {
-  "updated": 1783809310,
+  "updated": 1783813263,
   "items": [
     {
       "id": "6034809c7dc1",
       "title": "颱風巴威登陸浙江 　台灣113傷、中國大陸疏散185萬人",
       "url": "https://www.bbc.com/zhongwen/live/czj8zrvmy4lt/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1783809310
+      "published": 1783813264
+    },
+    {
+      "id": "7eba1ad39ce7",
+      "title": "台藝術家陶亞倫華府VR個展　虛擬科技促反思何謂真實",
+      "url": "https://money.udn.com/money/story/5599/9622229",
+      "source": "money.udn.com",
+      "published": 1783812630
+    },
+    {
+      "id": "be38bc3d7407",
+      "title": "伊朗新領袖誓言復仇 特朗普威脅摧毀",
+      "url": "https://www.singtaousa.com/2026/07/11/news/world/iran-supreme-leader-vows-revenge-for-fathers-killing/",
+      "source": "singtaousa.com",
+      "published": 1783812600
+    },
+    {
+      "id": "d86973b4f94f",
+      "title": "大热门撞上大热门 法国如何跨越西班牙大关",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260711-%E5%A4%A7%E7%83%AD%E9%97%A8%E6%92%9E%E4%B8%8A%E5%A4%A7%E7%83%AD%E9%97%A8-%E6%B3%95%E5%9B%BD%E5%A6%82%E4%BD%95%E8%B7%A8%E8%B6%8A%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%A7%E5%85%B3",
+      "source": "rfi.fr",
+      "published": 1783811628
     },
     {
       "id": "02413c0c6fde",
@@ -219,13 +240,6 @@
       "published": 1783794960
     },
     {
-      "id": "afef0d5ebbde",
-      "title": "溫網女單決賽：21歲諾斯科娃首奪大滿貫",
-      "url": "https://www.singtaousa.com/2026/07/11/news/world/linda-noskova-recovers-from-2nd-set-meltdown-to-win-wimbledon-and-claim-her-1st-grand-slam-title/",
-      "source": "singtaousa.com",
-      "published": 1783794454
-    },
-    {
       "id": "06fcf249f0a6",
       "title": "烏克蘭無人機破壞威力升級　俄羅斯面臨消耗戰困境",
       "url": "https://money.udn.com/money/story/5599/9622153",
@@ -315,13 +329,6 @@
       "url": "https://money.udn.com/money/story/5599/9621943",
       "source": "money.udn.com",
       "published": 1783778426
-    },
-    {
-      "id": "5cfa15f96c40",
-      "title": "報導披露新空軍一號安全疑慮　紐時多名記者遭傳喚",
-      "url": "https://money.udn.com/money/story/10511/9621937",
-      "source": "money.udn.com",
-      "published": 1783778066
     },
     {
       "id": "e9c1e8badfb4",
@@ -504,13 +511,6 @@
       "url": "https://www.dw.com/zh/德国议会批准医保节约方案/a-77909972?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1783694400
-    },
-    {
-      "id": "699658ccaaa3",
-      "title": "西班牙南部森林大火中，至少12人被困身亡",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260710-%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8D%97%E9%83%A8%E6%A3%AE%E6%9E%97%E5%A4%A7%E7%81%AB%E4%B8%AD%EF%BC%8C%E8%87%B3%E5%B0%9112%E4%BA%BA%E8%A2%AB%E5%9B%B0%E8%BA%AB%E4%BA%A1",
-      "source": "rfi.fr",
-      "published": 1783694229
     },
     {
       "id": "09cb840720ce",
@@ -1402,5 +1402,5 @@
       "published": 1781432700
     }
   ],
-  "build_id": 1783809310
+  "build_id": 1783813263
 }
