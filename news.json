@@ -1,19 +1,180 @@
 {
-  "updated": 1783819577,
+  "updated": 1783831585,
   "items": [
-    {
-      "id": "559a68f63a8e",
-      "title": "天文台預測今日天晴酷熱 市區最高34度 稍後局部有驟雨",
-      "url": "https://www.singtaousa.com/2026/07/11/news/usa/weather-forecast-sunny-hot-showers/",
-      "source": "singtaousa.com",
-      "published": 1783819617
-    },
     {
       "id": "6034809c7dc1",
       "title": "颱風巴威登陸浙江 　台灣113傷、中國大陸疏散185萬人",
       "url": "https://www.bbc.com/zhongwen/live/czj8zrvmy4lt/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1783819578
+      "published": 1783831585
+    },
+    {
+      "id": "0c6fc46f4686",
+      "title": "7月11日八強賽：貝靈漢加時封神 英阿半決賽大戰成形",
+      "url": "https://www.singtaousa.com/2026/07/11/news/usa/quarterfinals-on-july-11-bellingham-sealed-the-victory-in-overtime-and-the-semi-final-battle-between-england-and-afghanistan-took-shape/",
+      "source": "singtaousa.com",
+      "published": 1783831231
+    },
+    {
+      "id": "3d40b76df198",
+      "title": "MYNT慈善演出兼談團綜大計 宋宛穎莊子璇靠港姐經驗駕馭高踭鞋",
+      "url": "https://www.singtaousa.com/2026/07/11/entertainment/mynt-charity-show-heels-variety-dream/",
+      "source": "singtaousa.com",
+      "published": 1783830543
+    },
+    {
+      "id": "b0d017deebe7",
+      "title": "華爾街日報：德黑蘭盤算「挾荷莫茲以令中東諸國」開創伊朗治世",
+      "url": "https://money.udn.com/money/story/5599/9622622",
+      "source": "money.udn.com",
+      "published": 1783829995
+    },
+    {
+      "id": "a379d89b15e6",
+      "title": "密蘇里州洪災釀1死 夏令營逾200人獲救",
+      "url": "https://www.singtaousa.com/2026/07/11/news/usa/missouri-flooding-leaves-one-dead-while-rescuers-helicopter-more-than-200-to-safety-at-summer-camp/",
+      "source": "singtaousa.com",
+      "published": 1783828992
+    },
+    {
+      "id": "06efc08df2cd",
+      "title": "南韓首發緊急高溫警報　慶山、浦項達危險標準",
+      "url": "https://money.udn.com/money/story/5599/9622594",
+      "source": "money.udn.com",
+      "published": 1783828847
+    },
+    {
+      "id": "02b852d32a8a",
+      "title": "多名藝人響應 趙品霖公開討債",
+      "url": "https://www.singtaousa.com/2026/07/11/entertainment/zhao-pin-lin-public-debt-collection/",
+      "source": "singtaousa.com",
+      "published": 1783828800
+    },
+    {
+      "id": "864e8a08acb2",
+      "title": "越南富國島遊船翻覆 15 名印度遊客魂斷異鄉",
+      "url": "https://www.singtaousa.com/2026/07/11/news/world/a-boat-capsizes-in-southern-vietnam-and-kills-15-indian-tourists-not-far-from-shore/",
+      "source": "singtaousa.com",
+      "published": 1783828202
+    },
+    {
+      "id": "7c244bd50ab9",
+      "title": "多倫多街頭節慶爆槍響 釀 2 死 5 傷",
+      "url": "https://www.singtaousa.com/2026/07/11/news/world/shooting-near-toronto-street-festival-kills-2-people-and-wounds-5-police-say/",
+      "source": "singtaousa.com",
+      "published": 1783827273
+    },
+    {
+      "id": "c4a637d13075",
+      "title": "十二男十二女走進一座佛寺，僧人能幫他們找到愛情嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c77ypm8re6vo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1783826972
+    },
+    {
+      "id": "a6fb31b7e5e2",
+      "title": "元朗智車保計劃啟動 結合防盜與追蹤科技 警方強調保障車主私隱",
+      "url": "https://www.singtaousa.com/2026/07/11/news/china/yuen-long-smart-vehicle-protection-tracking/",
+      "source": "singtaousa.com",
+      "published": 1783826815
+    },
+    {
+      "id": "2640dedf9a1c",
+      "title": "岳明輝機場遇騷擾 怒潑飲料誤傷路人",
+      "url": "https://www.singtaousa.com/2026/07/11/entertainment/yue-ming-hui-airport-harassment/",
+      "source": "singtaousa.com",
+      "published": 1783825200
+    },
+    {
+      "id": "74ebd852abbe",
+      "title": "大嶼山村屋凌晨遭爆竊 損失逾32萬元現金及金器",
+      "url": "https://www.singtaousa.com/2026/07/11/news/china/lantau-village-house-burglary-cash-gold/",
+      "source": "singtaousa.com",
+      "published": 1783825014
+    },
+    {
+      "id": "1e42e6a69b61",
+      "title": "加拿大驚傳大規模街頭槍擊！2死6中彈 槍手在逃",
+      "url": "https://money.udn.com/money/story/5599/9622462",
+      "source": "money.udn.com",
+      "published": 1783824319
+    },
+    {
+      "id": "403ea02fdb48",
+      "title": "中俄海上聯合演習落幕 強化協同作戰",
+      "url": "https://money.udn.com/money/story/5599/9622439",
+      "source": "money.udn.com",
+      "published": 1783823818
+    },
+    {
+      "id": "cff484c8bb8b",
+      "title": "加州新法衝擊 山羊除草業面臨倒閉",
+      "url": "https://www.singtaousa.com/2026/07/11/news/usa/south-bay-goat-company-faces-closure-as-new-ca-law-triggers-massive-wage-increase-for-herders/",
+      "source": "singtaousa.com",
+      "published": 1783823400
+    },
+    {
+      "id": "9a28af839e2b",
+      "title": "元朗「智車保」升級2.0 擴展至私家車及輕貨 聯手駕駛學院深化社區防盜",
+      "url": "https://www.singtaousa.com/2026/07/11/news/china/yuen-long-smart-vehicle-protection-upgrade/",
+      "source": "singtaousa.com",
+      "published": 1783823225
+    },
+    {
+      "id": "0343c4dac2ae",
+      "title": "伊朗又襲商船　美國本週第3度空襲伊朗",
+      "url": "https://money.udn.com/money/story/5599/9622405",
+      "source": "money.udn.com",
+      "published": 1783822886
+    },
+    {
+      "id": "9026a374039b",
+      "title": "英國前內閣大臣陳屍住家　警逮28歲男排除恐攻",
+      "url": "https://money.udn.com/money/story/5599/9622369",
+      "source": "money.udn.com",
+      "published": 1783821664
+    },
+    {
+      "id": "737169d4df32",
+      "title": "多倫多街頭拉丁派對驚傳槍響　2死多人受傷",
+      "url": "https://money.udn.com/money/story/5599/9622368",
+      "source": "money.udn.com",
+      "published": 1783821649
+    },
+    {
+      "id": "18164db3e7ca",
+      "title": "陳翔試圖翻身再遭譏諷",
+      "url": "https://www.singtaousa.com/2026/07/11/entertainment/chen-xiang-tries-to-turn-around/",
+      "source": "singtaousa.com",
+      "published": 1783821600
+    },
+    {
+      "id": "22e5088a90bd",
+      "title": "神隱逾4個月！伊朗軍方突公開最高領袖穆吉塔巴最新照片 近況曝光",
+      "url": "https://money.udn.com/money/story/5599/9622334",
+      "source": "money.udn.com",
+      "published": 1783820953
+    },
+    {
+      "id": "151bdfecb6ef",
+      "title": "古巴一週兩大停電　川普封鎖石油下哈瓦那僅7%復電",
+      "url": "https://money.udn.com/money/story/5599/9622332",
+      "source": "money.udn.com",
+      "published": 1783820742
+    },
+    {
+      "id": "2731fce95fab",
+      "title": "南海仲裁10週年 美日等14國聯合聲明支持",
+      "url": "https://money.udn.com/money/story/5599/9622311",
+      "source": "money.udn.com",
+      "published": 1783819885
+    },
+    {
+      "id": "d5426d88979f",
+      "title": "CNN：採訪團隊遭以色列屯墾者攻擊　以警逮4嫌",
+      "url": "https://money.udn.com/money/story/5599/9622308",
+      "source": "money.udn.com",
+      "published": 1783819845
     },
     {
       "id": "9777353c9680",
@@ -37,39 +198,11 @@
       "published": 1783818485
     },
     {
-      "id": "b44dbc98ca86",
-      "title": "5月腸破裂做手術昏迷 75歲Bonnie Tyler病逝",
-      "url": "https://www.singtaousa.com/2026/07/11/entertainment/bonnie-tyler-passes-away/",
-      "source": "singtaousa.com",
-      "published": 1783818000
-    },
-    {
-      "id": "43b17549e44f",
-      "title": "廣東女子童年遭性侵後輕生 丈夫殉情 母親投身性教育盼防悲劇重演",
-      "url": "https://www.singtaousa.com/2026/07/11/news/china/childhood-sexual-abuse-suicide-mother-education/",
-      "source": "singtaousa.com",
-      "published": 1783817818
-    },
-    {
       "id": "dc1c48482543",
       "title": "川普下令報復伊朗！美軍發動本周第三波空襲目標曝光 美防長放狠話",
       "url": "https://money.udn.com/money/story/5599/9622254",
       "source": "money.udn.com",
       "published": 1783816223
-    },
-    {
-      "id": "969550d45077",
-      "title": "霍爾木茲海峽擬收航行費 恐加劇美伊緊張",
-      "url": "https://www.singtaousa.com/2026/07/11/news/world/europe-considering-proposals-to-allow-navigation-fees-in-strait-of-hormuz/",
-      "source": "singtaousa.com",
-      "published": 1783816200
-    },
-    {
-      "id": "c3123c1482ea",
-      "title": "東莞打工妹殯儀館獲救奇蹟 十年後以畫家身份跪謝恩人",
-      "url": "https://www.singtaousa.com/2026/07/11/news/china/worker-rescued-crematorium-thanks-savior/",
-      "source": "singtaousa.com",
-      "published": 1783816016
     },
     {
       "id": "bb3eb5236ff4",
@@ -93,13 +226,6 @@
       "published": 1783814424
     },
     {
-      "id": "181f4437d267",
-      "title": "Harper 15歲生日 望再與大哥聯絡",
-      "url": "https://www.singtaousa.com/2026/07/11/entertainment/harper-birthday-brother-contact/",
-      "source": "singtaousa.com",
-      "published": 1783814400
-    },
-    {
       "id": "d907c85e7c24",
       "title": "不甩川普最後通牒！伊朗宣布關閉荷莫茲海峽 射飛彈擊中貨船",
       "url": "https://money.udn.com/money/story/5599/9622236",
@@ -114,32 +240,11 @@
       "published": 1783812630
     },
     {
-      "id": "be38bc3d7407",
-      "title": "伊朗新領袖誓言復仇 特朗普威脅摧毀",
-      "url": "https://www.singtaousa.com/2026/07/11/news/world/iran-supreme-leader-vows-revenge-for-fathers-killing/",
-      "source": "singtaousa.com",
-      "published": 1783812600
-    },
-    {
       "id": "d86973b4f94f",
       "title": "大热门撞上大热门 法国如何跨越西班牙大关",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260711-%E5%A4%A7%E7%83%AD%E9%97%A8%E6%92%9E%E4%B8%8A%E5%A4%A7%E7%83%AD%E9%97%A8-%E6%B3%95%E5%9B%BD%E5%A6%82%E4%BD%95%E8%B7%A8%E8%B6%8A%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%A7%E5%85%B3",
       "source": "rfi.fr",
       "published": 1783811628
-    },
-    {
-      "id": "02413c0c6fde",
-      "title": "美國海軍或向南韓採購軍艦",
-      "url": "https://www.singtaousa.com/2026/07/11/news/world/u-s-navy-eyes-south-korean-yards-for-tankers-and-destroyers/",
-      "source": "singtaousa.com",
-      "published": 1783808637
-    },
-    {
-      "id": "abd2504e7a3a",
-      "title": "IU與李鍾碩4年情證實玩完",
-      "url": "https://www.singtaousa.com/2026/07/11/entertainment/iu-lee-jong-suk-breakup/",
-      "source": "singtaousa.com",
-      "published": 1783807200
     },
     {
       "id": "92240fab098c",
@@ -170,25 +275,11 @@
       "published": 1783805365
     },
     {
-      "id": "8e035e94e06d",
-      "title": "深圳灣入境貨車截查 海關揭發瀕危活龜藏襪走私",
-      "url": "https://www.singtaousa.com/2026/07/11/news/china/customs-seizes-endangered-turtles-smuggling/",
-      "source": "singtaousa.com",
-      "published": 1783805218
-    },
-    {
       "id": "dbdeeb52abbe",
       "title": "美國熱浪週末飆攝氏43度　4400萬人處高溫警戒",
       "url": "https://money.udn.com/money/story/10511/9622180",
       "source": "money.udn.com",
       "published": 1783804885
-    },
-    {
-      "id": "bac9a308c2d6",
-      "title": "六合彩第75期攪珠完成 800萬頭獎號碼揭曉",
-      "url": "https://www.singtaousa.com/2026/07/11/news/china/mark-six-8-million-jackpot-draw-results-3/",
-      "source": "singtaousa.com",
-      "published": 1783803416
     },
     {
       "id": "98754bcde347",
@@ -219,88 +310,11 @@
       "published": 1783801736
     },
     {
-      "id": "5409b206e930",
-      "title": "食環署巡查非寵物友善食肆 發現違規情況並發出警告",
-      "url": "https://www.singtaousa.com/2026/07/11/news/china/food-and-environmental-hygiene-department-inspection-pet-friendly-restaurants/",
-      "source": "singtaousa.com",
-      "published": 1783801617
-    },
-    {
       "id": "edb2442c5ed6",
       "title": "赴美掛牌首日大漲13% SK 海力士：記憶體缺到2030年後",
       "url": "https://money.udn.com/money/story/123398/9622025",
       "source": "money.udn.com",
       "published": 1783798548
-    },
-    {
-      "id": "c23bd98b11a0",
-      "title": "美晶片股重燃動能 緊盯台積、ASML法說",
-      "url": "https://money.udn.com/money/story/123398/9622028",
-      "source": "money.udn.com",
-      "published": 1783798452
-    },
-    {
-      "id": "5b82e3203075",
-      "title": "蘋果怒告 OpenAI 竊密 AI 裝置主導權之爭開打",
-      "url": "https://money.udn.com/money/story/123398/9622026",
-      "source": "money.udn.com",
-      "published": 1783798421
-    },
-    {
-      "id": "f8eade339ff7",
-      "title": "蘋果傳釋單英特爾 傳換關稅豁免",
-      "url": "https://money.udn.com/money/story/123398/9622030",
-      "source": "money.udn.com",
-      "published": 1783798326
-    },
-    {
-      "id": "75d4b107f07d",
-      "title": "台灣富人赴日置產 看上熊本",
-      "url": "https://money.udn.com/money/story/5599/9621979",
-      "source": "money.udn.com",
-      "published": 1783798036
-    },
-    {
-      "id": "a17905dbabb0",
-      "title": "川普：千枚飛彈瞄準伊朗 回應暗殺傳聞 嗆聲停火結束",
-      "url": "https://money.udn.com/money/story/5599/9621998",
-      "source": "money.udn.com",
-      "published": 1783795112
-    },
-    {
-      "id": "38ba7c44b42b",
-      "title": "阿聯採購 AI 晶片 美國鬆綁 華府鷹派反彈 認為可能讓大陸輾轉取得技術",
-      "url": "https://money.udn.com/money/story/5599/9621999",
-      "source": "money.udn.com",
-      "published": 1783795038
-    },
-    {
-      "id": "4fc48ed40ea8",
-      "title": "Fed 重申 致力穩定物價",
-      "url": "https://money.udn.com/money/story/5599/9621996",
-      "source": "money.udn.com",
-      "published": 1783794999
-    },
-    {
-      "id": "3560d67362b8",
-      "title": "新興股市淪提款機 外資上月大賣台、韓股",
-      "url": "https://money.udn.com/money/story/5599/9622001",
-      "source": "money.udn.com",
-      "published": 1783794998
-    },
-    {
-      "id": "3fd0c673f55d",
-      "title": "1分鐘看世界／貝佐斯投資新創將掛牌 成首家上市核融合公司",
-      "url": "https://money.udn.com/money/story/5599/9621921",
-      "source": "money.udn.com",
-      "published": 1783794960
-    },
-    {
-      "id": "06fcf249f0a6",
-      "title": "烏克蘭無人機破壞威力升級　俄羅斯面臨消耗戰困境",
-      "url": "https://money.udn.com/money/story/5599/9622153",
-      "source": "money.udn.com",
-      "published": 1783794091
     },
     {
       "id": "7ca2ef2a7e6d",
@@ -329,13 +343,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260711-%E4%BF%84%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%9F%BA%E8%BE%85%E5%B7%B2%E7%9F%A56%E4%BA%BA%E4%BC%A4-%E7%BE%8E%E8%AE%AE%E5%91%98%E7%A7%B0%E5%88%B6%E8%A3%81%E4%BF%84%E7%BD%97%E6%96%AF%E6%B3%95%E6%A1%88%E6%9C%89-%E9%87%8D%E5%A4%A7%E8%BF%9B%E5%B1%95",
       "source": "rfi.fr",
       "published": 1783782932
-    },
-    {
-      "id": "d0de0bf6f436",
-      "title": "美國要求伊朗承諾確保海峽開放　傳調解方安排高層協商",
-      "url": "https://money.udn.com/money/story/5599/9622075",
-      "source": "money.udn.com",
-      "published": 1783782744
     },
     {
       "id": "0baeb9c26a2e",
@@ -602,13 +609,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cdr47vzk81no/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1783659083
-    },
-    {
-      "id": "ff536e061119",
-      "title": "哈梅內伊下葬之際，美伊互相發動攻擊",
-      "url": "https://www.bbc.com/zhongwen/articles/ckg8x8z317po/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1783658769
     },
     {
       "id": "cec74baaf8e1",
@@ -1402,5 +1402,5 @@
       "published": 1781432700
     }
   ],
-  "build_id": 1783819577
+  "build_id": 1783831585
 }
