@@ -1,12 +1,110 @@
 {
-  "updated": 1783813263,
+  "updated": 1783819577,
   "items": [
+    {
+      "id": "559a68f63a8e",
+      "title": "天文台預測今日天晴酷熱 市區最高34度 稍後局部有驟雨",
+      "url": "https://www.singtaousa.com/2026/07/11/news/usa/weather-forecast-sunny-hot-showers/",
+      "source": "singtaousa.com",
+      "published": 1783819617
+    },
     {
       "id": "6034809c7dc1",
       "title": "颱風巴威登陸浙江 　台灣113傷、中國大陸疏散185萬人",
       "url": "https://www.bbc.com/zhongwen/live/czj8zrvmy4lt/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
-      "published": 1783813264
+      "published": 1783819578
+    },
+    {
+      "id": "9777353c9680",
+      "title": "英格蘭逆轉晉級4強！挪威航空賭輸換Logo了 英國航空暖心回應",
+      "url": "https://money.udn.com/money/story/5599/9622302",
+      "source": "money.udn.com",
+      "published": 1783819321
+    },
+    {
+      "id": "e094a0ef6da7",
+      "title": "為什麼有些人特別容易被蚊叮？",
+      "url": "https://www.bbc.com/zhongwen/articles/c20y3g2rl7jo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1783818572
+    },
+    {
+      "id": "e33d82d35b74",
+      "title": "中國一週內第二個颱風登陸，近200萬人疏散",
+      "url": "https://www.bbc.com/zhongwen/articles/c4gy1xleelgo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1783818485
+    },
+    {
+      "id": "b44dbc98ca86",
+      "title": "5月腸破裂做手術昏迷 75歲Bonnie Tyler病逝",
+      "url": "https://www.singtaousa.com/2026/07/11/entertainment/bonnie-tyler-passes-away/",
+      "source": "singtaousa.com",
+      "published": 1783818000
+    },
+    {
+      "id": "43b17549e44f",
+      "title": "廣東女子童年遭性侵後輕生 丈夫殉情 母親投身性教育盼防悲劇重演",
+      "url": "https://www.singtaousa.com/2026/07/11/news/china/childhood-sexual-abuse-suicide-mother-education/",
+      "source": "singtaousa.com",
+      "published": 1783817818
+    },
+    {
+      "id": "dc1c48482543",
+      "title": "川普下令報復伊朗！美軍發動本周第三波空襲目標曝光 美防長放狠話",
+      "url": "https://money.udn.com/money/story/5599/9622254",
+      "source": "money.udn.com",
+      "published": 1783816223
+    },
+    {
+      "id": "969550d45077",
+      "title": "霍爾木茲海峽擬收航行費 恐加劇美伊緊張",
+      "url": "https://www.singtaousa.com/2026/07/11/news/world/europe-considering-proposals-to-allow-navigation-fees-in-strait-of-hormuz/",
+      "source": "singtaousa.com",
+      "published": 1783816200
+    },
+    {
+      "id": "c3123c1482ea",
+      "title": "東莞打工妹殯儀館獲救奇蹟 十年後以畫家身份跪謝恩人",
+      "url": "https://www.singtaousa.com/2026/07/11/news/china/worker-rescued-crematorium-thanks-savior/",
+      "source": "singtaousa.com",
+      "published": 1783816016
+    },
+    {
+      "id": "bb3eb5236ff4",
+      "title": "英格兰队苦战2比1逆转黑马挪威 晋级半决赛",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260712-%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E8%8B%A6%E6%88%982%E6%AF%941%E9%80%86%E8%BD%AC%E9%BB%91%E9%A9%AC%E6%8C%AA%E5%A8%81-%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B",
+      "source": "rfi.fr",
+      "published": 1783815822
+    },
+    {
+      "id": "97f338f7cfe6",
+      "title": "伊朗再關荷莫茲海峽　警告報復行動將遭嚴厲回應",
+      "url": "https://money.udn.com/money/story/5599/9622244",
+      "source": "money.udn.com",
+      "published": 1783815150
+    },
+    {
+      "id": "cb402c7d9277",
+      "title": "熱浪席捲法國　自由車賽程縮短　艾菲爾週末提早打烊",
+      "url": "https://money.udn.com/money/story/5599/9622240",
+      "source": "money.udn.com",
+      "published": 1783814424
+    },
+    {
+      "id": "181f4437d267",
+      "title": "Harper 15歲生日 望再與大哥聯絡",
+      "url": "https://www.singtaousa.com/2026/07/11/entertainment/harper-birthday-brother-contact/",
+      "source": "singtaousa.com",
+      "published": 1783814400
+    },
+    {
+      "id": "d907c85e7c24",
+      "title": "不甩川普最後通牒！伊朗宣布關閉荷莫茲海峽 射飛彈擊中貨船",
+      "url": "https://money.udn.com/money/story/5599/9622236",
+      "source": "money.udn.com",
+      "published": 1783814114
     },
     {
       "id": "7eba1ad39ce7",
@@ -128,27 +226,6 @@
       "published": 1783801617
     },
     {
-      "id": "1377f430a7bd",
-      "title": "亞速海：烏克蘭襲擊俄21艘油輪",
-      "url": "https://www.singtaousa.com/2026/07/11/news/world/ukraine-says-it-struck-21-russian-tankers-as-moscow-reportedly-halts-shipping-through-key-canal/",
-      "source": "singtaousa.com",
-      "published": 1783800000
-    },
-    {
-      "id": "953e459b7470",
-      "title": "何寶榮設靈 遺孀淚別：需要放手",
-      "url": "https://www.singtaousa.com/2026/07/11/entertainment/ho-bao-rong-funeral-wife-says-goodbye/",
-      "source": "singtaousa.com",
-      "published": 1783800000
-    },
-    {
-      "id": "12bfb062dbde",
-      "title": "九龍灣德福花園疑洩漏不明氣體 消防疏散三層住戶調查",
-      "url": "https://www.singtaousa.com/2026/07/11/news/china/gas-leak-evacuation-kowloon-bay-residents/",
-      "source": "singtaousa.com",
-      "published": 1783799818
-    },
-    {
       "id": "edb2442c5ed6",
       "title": "赴美掛牌首日大漲13% SK 海力士：記憶體缺到2030年後",
       "url": "https://money.udn.com/money/story/123398/9622025",
@@ -182,27 +259,6 @@
       "url": "https://money.udn.com/money/story/5599/9621979",
       "source": "money.udn.com",
       "published": 1783798036
-    },
-    {
-      "id": "72d83cec27bf",
-      "title": "牛頭角彩石里小巴與旅遊巴相撞 8人輕傷送院",
-      "url": "https://www.singtaousa.com/2026/07/11/news/china/minibus-tour-bus-collision-injuries/",
-      "source": "singtaousa.com",
-      "published": 1783798017
-    },
-    {
-      "id": "4ac172d14ea4",
-      "title": "美參議員訪烏克蘭 籲深化無人機合作",
-      "url": "https://www.singtaousa.com/2026/07/11/news/world/us-would-make-huge-mistake-not-to-work-with-ukraine-on-drones-lindsey-graham-says/",
-      "source": "singtaousa.com",
-      "published": 1783796400
-    },
-    {
-      "id": "2260a819f6c1",
-      "title": "福建男子誤解鄰居求助為性暗示 深夜非法侵入住宅被判刑",
-      "url": "https://www.singtaousa.com/2026/07/11/news/china/misinterpreted-phone-top-up-intruded-home-arrested/",
-      "source": "singtaousa.com",
-      "published": 1783796215
     },
     {
       "id": "a17905dbabb0",
@@ -282,53 +338,11 @@
       "published": 1783782744
     },
     {
-      "id": "0c7d922a987b",
-      "title": "「不能買債、不能賣股」現況若改變怎辦？美銀沙盤推演4情境因應",
-      "url": "https://money.udn.com/money/story/5599/9622062",
-      "source": "money.udn.com",
-      "published": 1783782289
-    },
-    {
-      "id": "e33d82d35b74",
-      "title": "巴威逼近登陸：中國嚴陣以待一週內第二個颱風",
-      "url": "https://www.bbc.com/zhongwen/articles/c4gy1xleelgo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1783782086
-    },
-    {
       "id": "0baeb9c26a2e",
       "title": "伊朗称已对美守承诺 特朗普称停火已终结 要求伊朗保证霍峡畅通并停止袭击",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260711-%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E5%AF%B9%E7%BE%8E%E5%AE%88%E6%89%BF%E8%AF%BA-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%81%9C%E7%81%AB%E5%B7%B2%E7%BB%88%E7%BB%93-%E8%A6%81%E6%B1%82%E4%BC%8A%E6%9C%97%E4%BF%9D%E8%AF%81%E9%9C%8D%E5%B3%A1%E7%95%85%E9%80%9A%E5%B9%B6%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB",
       "source": "rfi.fr",
       "published": 1783782072
-    },
-    {
-      "id": "ab157e1100b2",
-      "title": "避險基金大亨：若中國攻占台灣 美 GDP 半年萎縮8% 歐洲未必站隊",
-      "url": "https://money.udn.com/money/story/5599/9622000",
-      "source": "money.udn.com",
-      "published": 1783781015
-    },
-    {
-      "id": "469c12ebf656",
-      "title": "俄羅斯燃油危機加劇　新西伯利亞州籲民眾遠距工作",
-      "url": "https://money.udn.com/money/story/5599/9621971",
-      "source": "money.udn.com",
-      "published": 1783779688
-    },
-    {
-      "id": "ff025060ced7",
-      "title": "最高領袖誓言復仇！伊朗重申拒絕與美國和談 除非川普先達成這些條件",
-      "url": "https://money.udn.com/money/story/5599/9621965",
-      "source": "money.udn.com",
-      "published": 1783779227
-    },
-    {
-      "id": "b4033803e5e6",
-      "title": "伊朗最高領袖遲不現身　路透：共和國執政包袱隱現",
-      "url": "https://money.udn.com/money/story/5599/9621943",
-      "source": "money.udn.com",
-      "published": 1783778426
     },
     {
       "id": "e9c1e8badfb4",
@@ -499,13 +513,6 @@
       "published": 1783709242
     },
     {
-      "id": "a5ca89a69915",
-      "title": "强台风“巴威”在菲律宾酿15人遇难后袭台湾日本和中国",
-      "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20260710-%E5%BC%BA%E5%8F%B0%E9%A3%8E-%E5%B7%B4%E7%BB%B4-%E5%9C%A8%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%85%BF15%E4%BA%BA%E9%81%87%E9%9A%BE%E5%90%8E%E8%A2%AD%E5%8F%B0%E6%B9%BE%E6%97%A5%E6%9C%AC%E5%92%8C%E4%B8%AD%E5%9B%BD",
-      "source": "rfi.fr",
-      "published": 1783705480
-    },
-    {
       "id": "cbefb3859c15",
       "title": "德国议会批准医保节约方案",
       "url": "https://www.dw.com/zh/德国议会批准医保节约方案/a-77909972?maca=chi-rss-chi-all-1127-rdf",
@@ -574,13 +581,6 @@
       "url": "https://www.dw.com/zh/南海仲裁案十周年-菲外长：该裁决有法律约束力/a-77901908?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1783676160
-    },
-    {
-      "id": "b5a73723f388",
-      "title": "新加坡夫婦收養了印尼男嬰，卻發現孩子疑遭人口販運",
-      "url": "https://www.bbc.com/zhongwen/articles/c892jgqnke3o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1783673564
     },
     {
       "id": "83058fcb864d",
@@ -1402,5 +1402,5 @@
       "published": 1781432700
     }
   ],
-  "build_id": 1783813263
+  "build_id": 1783819577
 }
