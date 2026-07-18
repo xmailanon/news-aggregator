@@ -1,6 +1,20 @@
 {
-  "updated": 1784406929,
+  "updated": 1784410702,
   "items": [
+    {
+      "id": "a1a69707f0c2",
+      "title": "以AI乱真：东莞一书法大赛获奖作品被撤！",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260718-%E4%BB%A5ai%E4%B9%B1%E7%9C%9F-%E4%B8%9C%E8%8E%9E%E4%B8%80%E4%B9%A6%E6%B3%95%E5%A4%A7%E8%B5%9B%E8%8E%B7%E5%A5%96%E4%BD%9C%E5%93%81%E8%A2%AB%E6%92%A4",
+      "source": "rfi.fr",
+      "published": 1784408407
+    },
+    {
+      "id": "0eb0e7ac3063",
+      "title": "91歲外婆剛離世 Kim晒度假相捱轟",
+      "url": "https://www.singtaousa.com/2026/07/18/entertainment/kim-kardashian-grandmother-passes/",
+      "source": "singtaousa.com",
+      "published": 1784408400
+    },
     {
       "id": "ce1160b505ff",
       "title": "梅西：胜败在此一赛",
@@ -184,13 +198,6 @@
       "published": 1784396594
     },
     {
-      "id": "2126f5523468",
-      "title": "華為出招 AI 晶片集群亮相 以量取勝和輝達別苗頭",
-      "url": "https://money.udn.com/money/story/5599/9636515",
-      "source": "money.udn.com",
-      "published": 1784396043
-    },
-    {
       "id": "af4f7ed8711b",
       "title": "雷暴天中断西班牙和阿根廷的热身训练",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260718-%E9%9B%B7%E6%9A%B4%E5%A4%A9%E4%B8%AD%E6%96%AD%E8%A5%BF%E7%8F%AD%E7%89%99%E5%92%8C%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%9A%84%E7%83%AD%E8%BA%AB%E8%AE%AD%E7%BB%83",
@@ -303,13 +310,6 @@
       "published": 1784384037
     },
     {
-      "id": "c02c30d9d355",
-      "title": "Meta洽談出租算力給Anthropic 價值高達100億",
-      "url": "https://www.singtaousa.com/2026/07/18/news/usa/meta-rents-computing-anthropic/",
-      "source": "singtaousa.com",
-      "published": 1784383200
-    },
-    {
       "id": "fd37fc5c0871",
       "title": "默茨呼吁中国放开人民币汇率：不会再容忍扭曲竞争",
       "url": "https://www.dw.com/zh/默茨呼吁中国放开人民币汇率：不会再容忍扭曲竞争/a-78019738?maca=chi-rss-chi-all-1127-rdf",
@@ -385,6 +385,13 @@
       "url": "https://money.udn.com/money/story/5599/9636412",
       "source": "money.udn.com",
       "published": 1784378728
+    },
+    {
+      "id": "6ac43aea098e",
+      "title": "捷克將增逾5百億軍費 達北約GDP2%目標優先於援烏",
+      "url": "https://money.udn.com/money/story/5599/9636401",
+      "source": "money.udn.com",
+      "published": 1784377290
     },
     {
       "id": "7b2bfaafd23b",
@@ -504,13 +511,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260717-%E4%B8%80%E5%9C%BA-%E6%9C%AC%E5%8F%AF%E9%81%BF%E5%85%8D-%E7%9A%84%E7%81%AB%E7%81%BE%E5%A4%BA%E5%8E%BB%E4%BA%86168%E6%9D%A1%E7%94%9F%E5%91%BD",
       "source": "rfi.fr",
       "published": 1784320803
-    },
-    {
-      "id": "9da45f07594a",
-      "title": "习近平在人工智能大会谈“开源” 巧遇半导体等科技股来“称熊”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260717-%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C%E4%B9%8B%E6%97%A5-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A%E8%B0%88-%E5%BC%80%E6%BA%90",
-      "source": "rfi.fr",
-      "published": 1784312754
     },
     {
       "id": "c97cb9ab0a87",
@@ -1402,5 +1402,5 @@
       "published": 1781953800
     }
   ],
-  "build_id": 1784406929
+  "build_id": 1784410702
 }
