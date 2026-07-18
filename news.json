@@ -1,6 +1,27 @@
 {
-  "updated": 1784388361,
+  "updated": 1784391850,
   "items": [
+    {
+      "id": "35e9e9cd1a47",
+      "title": "胡子彤飛身踢腿搏到盡 林峯 劉俊謙大排檔觀戰",
+      "url": "https://www.singtaousa.com/2026/07/18/entertainment/huzi-tong-kicks-lin-feng/",
+      "source": "singtaousa.com",
+      "published": 1784390400
+    },
+    {
+      "id": "fb4c8f7266ed",
+      "title": "葵青荃灣警區聯手 700師生創禁毒世界紀錄",
+      "url": "https://www.singtaousa.com/2026/07/18/news/china/anti-drug-campaign-world-record/",
+      "source": "singtaousa.com",
+      "published": 1784388419
+    },
+    {
+      "id": "39831780b878",
+      "title": "伊朗副外长称德黑兰已“暂停”履行伊美谅解备忘录承诺",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260718-%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%E7%A7%B0%E5%BE%B7%E9%BB%91%E5%85%B0%E5%B7%B2-%E6%9A%82%E5%81%9C-%E5%B1%A5%E8%A1%8C%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E6%89%BF%E8%AF%BA",
+      "source": "rfi.fr",
+      "published": 1784388171
+    },
     {
       "id": "2fc7cb6e0e92",
       "title": "《美墨加协定》谈判之际 墨西哥境内中国产重型卡车数量激增受美方关切",
@@ -103,20 +124,6 @@
       "id": "4cccf364200b",
       "title": "通用電氣航空   上調業績預期",
       "url": "https://www.singtaousa.com/2026/07/18/news/usa/ge-aviation-raises-guidance/",
-      "source": "singtaousa.com",
-      "published": 1784383200
-    },
-    {
-      "id": "d705671640c6",
-      "title": "美國合眾銀行   營收創歷史新高",
-      "url": "https://www.singtaousa.com/2026/07/18/news/usa/us-union-bank-revenue-high/",
-      "source": "singtaousa.com",
-      "published": 1784383200
-    },
-    {
-      "id": "de44885e6f02",
-      "title": "歐足聯對抗因凡蒂諾   推納賽爾競FIFA主席",
-      "url": "https://www.singtaousa.com/2026/07/18/news/usa/uefa-challenges-infantino-nassir-fifa-president/",
       "source": "singtaousa.com",
       "published": 1784383200
     },
@@ -511,13 +518,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260717-%E4%B8%AD%E5%9B%BDai%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%8F%91%E5%B8%83%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B-%E5%90%91%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%85%88%E4%BC%81%E4%B8%9A%E5%8F%91%E8%B5%B7%E6%8C%91%E6%88%98",
       "source": "rfi.fr",
       "published": 1784301930
-    },
-    {
-      "id": "55ce49abd3d9",
-      "title": "中国商务部：美方已向中方确认，不再延续涉港国家紧急状态",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260717-%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8-%E7%BE%8E%E6%96%B9%E5%B7%B2%E5%90%91%E4%B8%AD%E6%96%B9%E7%A1%AE%E8%AE%A4%EF%BC%8C%E4%B8%8D%E5%86%8D%E5%BB%B6%E7%BB%AD%E6%B6%89%E6%B8%AF%E5%9B%BD%E5%AE%B6%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
-      "source": "rfi.fr",
-      "published": 1784300630
     },
     {
       "id": "bd48f034f50d",
@@ -1402,5 +1402,5 @@
       "published": 1781953800
     }
   ],
-  "build_id": 1784388361
+  "build_id": 1784391850
 }
