@@ -1,40 +1,173 @@
 {
-  "updated": 1784424274,
+  "updated": 1784436075,
   "items": [
+    {
+      "id": "9793c9027efd",
+      "title": "捷克眾議長20日訪中國 公民被拘議題引關注",
+      "url": "https://money.udn.com/money/story/5599/9637115",
+      "source": "money.udn.com",
+      "published": 1784435804
+    },
+    {
+      "id": "72942b62e20e",
+      "title": "XiX暫別舞台前盡展才藝 演唱會淚水與笑聲交織",
+      "url": "https://www.singtaousa.com/2026/07/18/entertainment/xix-farewell-concert-hiatus/",
+      "source": "singtaousa.com",
+      "published": 1784435373
+    },
+    {
+      "id": "32808572f209",
+      "title": "天文台預測今日短暫有陽光 部分地區驟雨較多及有雷暴",
+      "url": "https://www.singtaousa.com/2026/07/18/news/china/brief-sunshine-scattered-showers-thunderstorms/",
+      "source": "singtaousa.com",
+      "published": 1784435215
+    },
+    {
+      "id": "7f22f46cf17a",
+      "title": "世界盃決賽西班牙對阿根廷　川普邀墨加領袖觀戰",
+      "url": "https://money.udn.com/money/story/5599/9637094",
+      "source": "money.udn.com",
+      "published": 1784434900
+    },
+    {
+      "id": "e304101aebcc",
+      "title": "拉脫維亞總理批保加利亞阻俄制裁",
+      "url": "https://www.singtaousa.com/2026/07/18/news/world/latvian-pm-to-bulgaria-and-greece-over-russia-sanctions-do-you-want-money-or-peace/",
+      "source": "singtaousa.com",
+      "published": 1784433600
+    },
+    {
+      "id": "207eead3aa59",
+      "title": "時代峰峻舉行運動會 多名藝人身體不適",
+      "url": "https://www.singtaousa.com/2026/07/18/entertainment/tf-family-sports-event-artists-unwell/",
+      "source": "singtaousa.com",
+      "published": 1784433600
+    },
+    {
+      "id": "be2ad15c71cc",
+      "title": "立法會全體議員赴京研修考察 李慧琼：把握國家發展脈搏 助力北部都會區建設",
+      "url": "https://www.singtaousa.com/2026/07/18/news/china/legco-members-beijing-study-tour/",
+      "source": "singtaousa.com",
+      "published": 1784433416
+    },
+    {
+      "id": "c303896ef22b",
+      "title": "日本中央新幹線新進展　靜岡區間工程將動工",
+      "url": "https://money.udn.com/money/story/5599/9637041",
+      "source": "money.udn.com",
+      "published": 1784433297
+    },
+    {
+      "id": "6ddda7e76510",
+      "title": "反對大舉興建資料中心　全美42州爆發142起抗議",
+      "url": "https://money.udn.com/money/story/5599/9637029",
+      "source": "money.udn.com",
+      "published": 1784432736
+    },
+    {
+      "id": "75080c518548",
+      "title": "聖荷西沃爾瑪出奇招 金屬籠鎖牛肉防盜竊",
+      "url": "https://www.singtaousa.com/2026/07/18/news/usa/supermarket-takes-drastic-action-to-prevent-meat-theft-welcome-to-california/",
+      "source": "singtaousa.com",
+      "published": 1784431925
+    },
+    {
+      "id": "1e2fe078f508",
+      "title": "賓州鄰里糾紛 潑尿砸窗兩人遭控",
+      "url": "https://www.singtaousa.com/2026/07/18/news/usa/flung-rock-bucket-of-urine-lead-to-assault-charges-for-two-in-schuylkill-county/",
+      "source": "singtaousa.com",
+      "published": 1784431863
+    },
+    {
+      "id": "19c54af5dab5",
+      "title": "約旦基地為何成伊朗箭靶？伊軍5天4攻釋1警訊 美議員喊查中俄",
+      "url": "https://money.udn.com/money/story/5599/9636996",
+      "source": "money.udn.com",
+      "published": 1784431779
+    },
+    {
+      "id": "2547825cceea",
+      "title": "19歲女子網上虛報葵涌辦事處有炸藥被捕 最高可判監五年",
+      "url": "https://www.singtaousa.com/2026/07/18/news/china/online-false-bomb-report-teen-arrested/",
+      "source": "singtaousa.com",
+      "published": 1784431613
+    },
+    {
+      "id": "4cf88794355e",
+      "title": "內華達州長交通違規 報身分後獲放行",
+      "url": "https://www.singtaousa.com/2026/07/18/news/usa/im-joe-lombardo-nevada-governor-not-ticketed-after-being-pulled-over-in-a-traffic-stop/",
+      "source": "singtaousa.com",
+      "published": 1784431588
+    },
+    {
+      "id": "4f973d96ab1c",
+      "title": "EMSC：秘魯中部地區地震 規模5.6",
+      "url": "https://money.udn.com/money/story/5599/9636989",
+      "source": "money.udn.com",
+      "published": 1784431397
+    },
+    {
+      "id": "a195c81a6a14",
+      "title": "阿爾巴尼亞反政府示威49天 內部現分歧",
+      "url": "https://www.singtaousa.com/2026/07/18/news/world/internal-disputes-emerge-as-protestor-gather-for-the-49th-consecutive-day/",
+      "source": "singtaousa.com",
+      "published": 1784430890
+    },
+    {
+      "id": "75bf73d3ffe7",
+      "title": "愛達荷州母殺雙胞胎 稱疫苗致死遭醫駁斥",
+      "url": "https://www.singtaousa.com/2026/07/18/news/usa/an-idaho-mom-charged-with-murder-says-vaccines-killed-her-twins-doctors-say-its-not-possible/",
+      "source": "singtaousa.com",
+      "published": 1784430525
+    },
+    {
+      "id": "c1a429206413",
+      "title": "烏克蘭無人機襲擊俄羅斯全境 釀 9 死逾 80 傷",
+      "url": "https://www.singtaousa.com/2026/07/18/news/world/ukrainian-drones-hit-warehouses-and-other-sites-across-russia-killing-9-and-wounding-over-80/",
+      "source": "singtaousa.com",
+      "published": 1784430096
+    },
+    {
+      "id": "a1cd4f497fee",
+      "title": "北韓外長崔善姬抵俄訪問　討論深化軍事合作",
+      "url": "https://money.udn.com/money/story/5599/9636936",
+      "source": "money.udn.com",
+      "published": 1784430031
+    },
+    {
+      "id": "e126e634486b",
+      "title": "委強震5119死　災後缺指揮、缺軍隊、缺設備被罵翻",
+      "url": "https://money.udn.com/money/story/5599/9636865",
+      "source": "money.udn.com",
+      "published": 1784427188
+    },
+    {
+      "id": "43df72622ae1",
+      "title": "古巴異議藝術家艾坎塔拉獲釋　流亡美國安抵邁阿密",
+      "url": "https://money.udn.com/money/story/5599/9636862",
+      "source": "money.udn.com",
+      "published": 1784427153
+    },
+    {
+      "id": "26c1c71c2b4c",
+      "title": "美伊衝突升級　美再襲伊朗、德黑蘭揚言全面反擊",
+      "url": "https://money.udn.com/money/story/5599/9636832",
+      "source": "money.udn.com",
+      "published": 1784426101
+    },
+    {
+      "id": "117f4283ec13",
+      "title": "美伊停火破裂！美國務院急發全球警示：伊朗攻擊目標不限中東",
+      "url": "https://money.udn.com/money/story/5599/9636804",
+      "source": "money.udn.com",
+      "published": 1784424304
+    },
     {
       "id": "d14c75c38ae6",
       "title": "伊朗喊卡停火協議！最高領袖穆吉塔巴發聲了 撂狠話點名川普",
       "url": "https://money.udn.com/money/story/5599/9636780",
       "source": "money.udn.com",
       "published": 1784422947
-    },
-    {
-      "id": "7df4943d3293",
-      "title": "白鹿合約到期不續",
-      "url": "https://www.singtaousa.com/2026/07/18/entertainment/bai-lu-contract-expiry/",
-      "source": "singtaousa.com",
-      "published": 1784422800
-    },
-    {
-      "id": "1c2c0d5e7835",
-      "title": "昆明婦人好奇點燃多肉植物「九尾狐」 丈夫高情商應對獲讚",
-      "url": "https://www.singtaousa.com/2026/07/18/news/china/curiosity-burns-rare-succulent-plant/",
-      "source": "singtaousa.com",
-      "published": 1784422614
-    },
-    {
-      "id": "ccc853579d27",
-      "title": "戴蘊慧隔代育兒哲學：拒做虎嫲與孫女做Friend 盼見證成長抱曾孫",
-      "url": "https://www.singtaousa.com/2026/07/18/entertainment/tai-wan-hui-granddaughter-hoy-show/",
-      "source": "singtaousa.com",
-      "published": 1784421178
-    },
-    {
-      "id": "2171efbf0ce1",
-      "title": "台灣三母女命案回顧：兇手吳應弘謀財害命，分屍棄屍終伏法",
-      "url": "https://www.singtaousa.com/2026/07/18/news/china/taiwan-mother-daughters-murder-dismemberment/",
-      "source": "singtaousa.com",
-      "published": 1784420814
     },
     {
       "id": "78cc7c207dde",
@@ -51,13 +184,6 @@
       "published": 1784420421
     },
     {
-      "id": "43c6462437d8",
-      "title": "張兆輝愛女英國學成歸來 一門雙傑盡顯父愛",
-      "url": "https://www.singtaousa.com/2026/07/18/entertainment/cheung-chiu-fai-daughter-graduates/",
-      "source": "singtaousa.com",
-      "published": 1784419616
-    },
-    {
       "id": "4257aa858057",
       "title": "伊朗襲約旦2美軍陣亡　川普重申德黑蘭絕不能有核武",
       "url": "https://money.udn.com/money/story/5599/9636737",
@@ -65,60 +191,11 @@
       "published": 1784419229
     },
     {
-      "id": "f7385f145e48",
-      "title": "翁靜晶節目解構經典桃色案　何守信「X先生」暱稱由來與「捉黃腳雞」典故",
-      "url": "https://www.singtaousa.com/2026/07/18/entertainment/weng-jingjing-dangerous-characters-story/",
-      "source": "singtaousa.com",
-      "published": 1784419227
-    },
-    {
-      "id": "d1ffd8faba6c",
-      "title": "森尼爾死於肺炎 艾力悼念只講自己",
-      "url": "https://www.singtaousa.com/2026/07/18/entertainment/sam-neill-dies-pneumonia/",
-      "source": "singtaousa.com",
-      "published": 1784419200
-    },
-    {
       "id": "341de0bf3dc0",
       "title": "遙遠恆星的適居帶內，首次發現類似地球的行星存在大氣層",
       "url": "https://www.bbc.com/zhongwen/articles/c36d1glwl66o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1784418887
-    },
-    {
-      "id": "6d7803305de7",
-      "title": "袁文傑新書獲張景淳方力申捧場 分享球迷互動情誼與《愛·回家》結局不捨",
-      "url": "https://www.singtaousa.com/2026/07/18/entertainment/jacky-yuen-book-fans-farewell/",
-      "source": "singtaousa.com",
-      "published": 1784417433
-    },
-    {
-      "id": "ad61af0d9abf",
-      "title": "陳柏宇紅館騷預演握手彩蛋 愛女撐場 群星送特色花籃",
-      "url": "https://www.singtaousa.com/2026/07/18/entertainment/jason-chan-red-arena-concert-special-guests/",
-      "source": "singtaousa.com",
-      "published": 1784417340
-    },
-    {
-      "id": "0da5be40e1b3",
-      "title": "挽手在公園放狗 Ariana與舞蹈員傳翻撻",
-      "url": "https://www.singtaousa.com/2026/07/18/entertainment/ariana-grande-ricky-alvarez-reunion/",
-      "source": "singtaousa.com",
-      "published": 1784415600
-    },
-    {
-      "id": "865f49f8d2f4",
-      "title": "鄭啟泰遺作《觸格物語》書展首發 胞妹鄭啟晞籌備兩年延續兄長遺願",
-      "url": "https://www.singtaousa.com/2026/07/18/entertainment/eric-cheng-posthumous-book-launch/",
-      "source": "singtaousa.com",
-      "published": 1784415511
-    },
-    {
-      "id": "388c338b334a",
-      "title": "馮素波82歲生日開騷 預告二公主沈芝華到賀 豁達談資深藝人生死",
-      "url": "https://www.singtaousa.com/2026/07/18/entertainment/fung-so-bor-birthday-concert-shen-chi-hua/",
-      "source": "singtaousa.com",
-      "published": 1784415452
     },
     {
       "id": "793b59ef3147",
@@ -233,53 +310,11 @@
       "published": 1784398136
     },
     {
-      "id": "a69361bb3412",
-      "title": "陸新 AI 衝擊 華爾街有異見",
-      "url": "https://money.udn.com/money/story/123398/9636536",
-      "source": "money.udn.com",
-      "published": 1784398071
-    },
-    {
       "id": "169701a85d83",
       "title": "伊打击约旦美军目标    美方2死  1士兵失踪",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260718-%E4%BC%8A%E6%89%93%E5%87%BB%E7%BA%A6%E6%97%A6%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87-%E7%BE%8E%E6%96%B92%E6%AD%BB-1%E5%A3%AB%E5%85%B5%E5%A4%B1%E8%B8%AA",
       "source": "rfi.fr",
       "published": 1784397489
-    },
-    {
-      "id": "540e73f232e2",
-      "title": "伊朗嗆美擬恢復全面進攻 軍事顧問表明和平協議失效",
-      "url": "https://money.udn.com/money/story/5599/9636540",
-      "source": "money.udn.com",
-      "published": 1784397016
-    },
-    {
-      "id": "c1c604bc9a30",
-      "title": "Meta 出租算力洽談 Anthropic 潛在交易額上看百億美元",
-      "url": "https://money.udn.com/money/story/123398/9636554",
-      "source": "money.udn.com",
-      "published": 1784396823
-    },
-    {
-      "id": "68b9638d5fe7",
-      "title": "SpaceX 搶美國防雲端商機",
-      "url": "https://money.udn.com/money/story/123398/9636558",
-      "source": "money.udn.com",
-      "published": 1784396763
-    },
-    {
-      "id": "8cb3eb173ca3",
-      "title": "白宮將設獨立 AI 監管機關",
-      "url": "https://money.udn.com/money/story/5599/9636545",
-      "source": "money.udn.com",
-      "published": 1784396749
-    },
-    {
-      "id": "8a48004bef12",
-      "title": "1分鐘看世界／川普指加國野火造成霾害 要把空汙成本加入關稅",
-      "url": "https://money.udn.com/money/story/5599/9636539",
-      "source": "money.udn.com",
-      "published": 1784396699
     },
     {
       "id": "af4f7ed8711b",
@@ -296,20 +331,6 @@
       "published": 1784393919
     },
     {
-      "id": "352394d8e785",
-      "title": "AI妙招 2／一位日本女經濟評論家：有了Gemini，我停止做這三件事",
-      "url": "https://money.udn.com/money/story/122979/9572545",
-      "source": "money.udn.com",
-      "published": 1784390792
-    },
-    {
-      "id": "de03adabbfc6",
-      "title": "AI妙招 1／公私大小事都先問Gemini！日本經濟評論家使用二年心得：CP值很高",
-      "url": "https://money.udn.com/money/story/122979/9572544",
-      "source": "money.udn.com",
-      "published": 1784390614
-    },
-    {
       "id": "39831780b878",
       "title": "伊朗副外长称德黑兰已“暂停”履行伊美谅解备忘录承诺",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260718-%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%E7%A7%B0%E5%BE%B7%E9%BB%91%E5%85%B0%E5%B7%B2-%E6%9A%82%E5%81%9C-%E5%B1%A5%E8%A1%8C%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E6%89%BF%E8%AF%BA",
@@ -322,20 +343,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260718-%E7%BE%8E%E5%A2%A8%E5%8A%A0%E5%8D%8F%E5%AE%9A-%E8%B0%88%E5%88%A4%E4%B9%8B%E9%99%85-%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%A2%83%E5%86%85%E4%B8%AD%E5%9B%BD%E4%BA%A7%E9%87%8D%E5%9E%8B%E5%8D%A1%E8%BD%A6%E6%95%B0%E9%87%8F%E6%BF%80%E5%A2%9E%E5%8F%97%E7%BE%8E%E6%96%B9%E5%85%B3%E5%88%87",
       "source": "rfi.fr",
       "published": 1784387318
-    },
-    {
-      "id": "43ccdd40e48d",
-      "title": "不是汽油！美伊衝突加劇讓這種燃料漲更兇 對美國經濟威脅更大",
-      "url": "https://money.udn.com/money/story/5599/9636524",
-      "source": "money.udn.com",
-      "published": 1784386940
-    },
-    {
-      "id": "73aae7a9d9f6",
-      "title": "美國打擊伊朗　德黑蘭當局：近幾週至少50死逾500傷",
-      "url": "https://money.udn.com/money/story/5599/9636492",
-      "source": "money.udn.com",
-      "published": 1784385927
     },
     {
       "id": "880f99061d62",
@@ -378,13 +385,6 @@
       "url": "https://www.dw.com/zh/加强联合防务-德国将首次参与法国核演习/a-78019642?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1784381880
-    },
-    {
-      "id": "e81e33572140",
-      "title": "土耳其掃蕩境內伊斯蘭國組織　逮捕119名IS嫌犯",
-      "url": "https://money.udn.com/money/story/5599/9636430",
-      "source": "money.udn.com",
-      "published": 1784380886
     },
     {
       "id": "7968ae8086e6",
@@ -1402,5 +1402,5 @@
       "published": 1781953800
     }
   ],
-  "build_id": 1784424274
+  "build_id": 1784436075
 }
