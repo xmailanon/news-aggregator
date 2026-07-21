@@ -1,6 +1,55 @@
 {
-  "updated": 1784667590,
+  "updated": 1784671410,
   "items": [
+    {
+      "id": "d417a56ca219",
+      "title": "旺角跨部門行動 打擊非法入境及勞工活動拘16人",
+      "url": "https://www.singtaousa.com/2026/07/21/news/china/illegal-immigrants-workers-arrested-women/",
+      "source": "singtaousa.com",
+      "published": 1784671017
+    },
+    {
+      "id": "9ff6d175dd13",
+      "title": "美防長估計伊朗戰爭已耗資375億元 為950億元撥款申請辯護",
+      "url": "https://www.singtaousa.com/2026/07/21/news/usa/u-s-defense-secretary-the-war-against-iran-has-cost-37-5-billion-u-s-dollars-and-congress-is-fiercely-debating-the-95-billion-u-s-dollars-appropriation-bill/",
+      "source": "singtaousa.com",
+      "published": 1784670335
+    },
+    {
+      "id": "378c5fc7a6bb",
+      "title": "屯門公路泥頭車貨物飛脫 卡板墮地險釀意外",
+      "url": "https://www.singtaousa.com/2026/07/21/news/china/dashcam-tipper-truck-cargo-falls-road/",
+      "source": "singtaousa.com",
+      "published": 1784669221
+    },
+    {
+      "id": "8a4048e0b049",
+      "title": "川普矢言大力協助黎巴嫩　尋求與以色列實現和平",
+      "url": "https://money.udn.com/money/story/5599/9642808",
+      "source": "money.udn.com",
+      "published": 1784668905
+    },
+    {
+      "id": "7ea0b9436e24",
+      "title": "科技股吹反攻號角　美股收高費半大漲逾5%",
+      "url": "https://money.udn.com/money/story/123398/9642807",
+      "source": "money.udn.com",
+      "published": 1784668885
+    },
+    {
+      "id": "bd35205f0857",
+      "title": "粵語2020 大選陰謀論翻炒",
+      "url": "https://www.singtaousa.com/2026/07/21/opinion/current-affairs-observation-chen-yongjie-2020-election-conspiracy-theories-stirred-up/",
+      "source": "singtaousa.com",
+      "published": 1784668500
+    },
+    {
+      "id": "88ec4904e026",
+      "title": "交易者觀望荷莫茲海峽航運　國際油價收漲逾2%",
+      "url": "https://money.udn.com/money/story/5599/9642796",
+      "source": "money.udn.com",
+      "published": 1784667628
+    },
     {
       "id": "fb31ca6c76a3",
       "title": "為世遺會議演講 GD信藝術能出一分力",
@@ -72,13 +121,6 @@
       "published": 1784663129
     },
     {
-      "id": "ae9ebb008931",
-      "title": "伊拉克美軍殉職：北卡羅來納州30歲士兵斯溫頓於無人機任務中陣亡",
-      "url": "https://www.singtaousa.com/2026/07/21/news/world/us-soldier-killed-in-iraq-was-a-30-year-old-father-from-north-carolina/",
-      "source": "singtaousa.com",
-      "published": 1784662742
-    },
-    {
       "id": "b092365483bb",
       "title": "美伊衝突持續擴大　川普稱美方行動「遠未結束」",
       "url": "https://money.udn.com/money/story/5599/9642781",
@@ -86,32 +128,11 @@
       "published": 1784662593
     },
     {
-      "id": "f7e037495d99",
-      "title": "AI公司搶購舊書 規避數據污染",
-      "url": "https://www.singtaousa.com/2026/07/21/news/world/ai-companies-are-buying-tons-of-old-books-because-theyre-free-of-ai-slop/",
-      "source": "singtaousa.com",
-      "published": 1784662101
-    },
-    {
-      "id": "45a72e365bda",
-      "title": "國產人形機械人展示自主收納技術 外交部發言人分享影片引關注",
-      "url": "https://www.singtaousa.com/2026/07/21/news/china/chinese-robot-packs-itself/",
-      "source": "singtaousa.com",
-      "published": 1784662017
-    },
-    {
       "id": "3ab96d6ae7fa",
       "title": "控中國竊取AI模型　貝森特：美擬調查且可能制裁",
       "url": "https://money.udn.com/money/story/5599/9642777",
       "source": "money.udn.com",
       "published": 1784661696
-    },
-    {
-      "id": "dd88de8aeced",
-      "title": "俄羅斯更新民防規定 納入戰時動員",
-      "url": "https://www.singtaousa.com/2026/07/21/news/world/russia-introduces-new-wartime-civil-defense-rules-as-war-casualties-approach-14-million/",
-      "source": "singtaousa.com",
-      "published": 1784661679
     },
     {
       "id": "4a3244d53a06",
@@ -224,27 +245,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260721-%E5%8F%B0%E6%B9%BE%E7%AB%8B%E6%B3%95%E9%99%A2%E7%BD%95%E8%A7%81%E5%9B%A2%E7%BB%93%E4%B8%BA-%E6%98%9F%E9%93%BE-%E5%BC%80%E7%BB%BF%E7%81%AF-%E6%97%A8%E5%9C%A8%E7%A1%AE%E4%BF%9D%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%86%B2%E7%AA%81%E6%97%B6%E9%80%9A%E4%BF%A1%E5%AE%89%E5%85%A8",
       "source": "rfi.fr",
       "published": 1784651736
-    },
-    {
-      "id": "5bdb34496910",
-      "title": "微軟評估導入陸 AI 模型 Kimi K3",
-      "url": "https://money.udn.com/money/story/123398/9642598",
-      "source": "money.udn.com",
-      "published": 1784650955
-    },
-    {
-      "id": "f3b25d8ae0c1",
-      "title": "三大航道危機衝擊全球 油價可能重返100美元以上",
-      "url": "https://money.udn.com/money/story/5599/9642603",
-      "source": "money.udn.com",
-      "published": 1784650203
-    },
-    {
-      "id": "0fd04d25813d",
-      "title": "AI連結法 1／Gemini讓Google服務愈來愈強！日本上班族：這樣設定好省事",
-      "url": "https://money.udn.com/money/story/122979/9586084",
-      "source": "money.udn.com",
-      "published": 1784649834
     },
     {
       "id": "acaa264d75ab",
@@ -1395,5 +1395,5 @@
       "published": 1782219720
     }
   ],
-  "build_id": 1784667590
+  "build_id": 1784671410
 }
