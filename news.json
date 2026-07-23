@@ -1,6 +1,62 @@
 {
-  "updated": 1784832945,
+  "updated": 1784837200,
   "items": [
+    {
+      "id": "3fc826c4dfd4",
+      "title": "NewJeans 4周年官方發短片慶祝  Minji疑似落實回歸",
+      "url": "https://www.singtaousa.com/2026/07/23/entertainment/newjeans-4th-anniversary-minji-return/",
+      "source": "singtaousa.com",
+      "published": 1784836800
+    },
+    {
+      "id": "b16ca35ee4c9",
+      "title": "杭州男職員涉言語騷擾女同事引發衝突 遭解僱後申請勞動仲裁",
+      "url": "https://www.singtaousa.com/2026/07/23/news/china/workplace-verbal-harassment-slapped-labor-arbitration/",
+      "source": "singtaousa.com",
+      "published": 1784836619
+    },
+    {
+      "id": "d2f4afb80685",
+      "title": "川普：習近平9月24日訪美　將與他討論AI議題",
+      "url": "https://money.udn.com/money/story/5599/9647649",
+      "source": "money.udn.com",
+      "published": 1784835027
+    },
+    {
+      "id": "3f16c5651139",
+      "title": "OpenAI推ChatGPT健康功能　全美用戶開放",
+      "url": "https://www.singtaousa.com/2026/07/23/news/usa/openai-launches-chatgpt-health-function-open-to-users-across-the-united-states/",
+      "source": "singtaousa.com",
+      "published": 1784835000
+    },
+    {
+      "id": "9a731f091ec5",
+      "title": "法國西南部野火 逾2萬人疏散",
+      "url": "https://www.singtaousa.com/2026/07/23/news/world/more-than-20000-evacuated-after-intense-wildfire-in-france/",
+      "source": "singtaousa.com",
+      "published": 1784834557
+    },
+    {
+      "id": "19169f54242f",
+      "title": "紅海攻擊案加劇油市供應疑慮　布倫特原油飆漲8%",
+      "url": "https://money.udn.com/money/story/5599/9647636",
+      "source": "money.udn.com",
+      "published": 1784833660
+    },
+    {
+      "id": "af3e6a3ca1a6",
+      "title": "渣男王三山凌輝再爆偷食人妻",
+      "url": "https://www.singtaousa.com/2026/07/23/entertainment/miyama-ling-hui-cheating-scandal/",
+      "source": "singtaousa.com",
+      "published": 1784833200
+    },
+    {
+      "id": "8b479166cd9f",
+      "title": "廣州漫展場外現爭議行為 主辦方驅逐涉事者並重申零容忍",
+      "url": "https://www.singtaousa.com/2026/07/23/news/china/guangzhou-comic-con-foot-wash-tea-sale/",
+      "source": "singtaousa.com",
+      "published": 1784833017
+    },
     {
       "id": "c0ba11625ed8",
       "title": "ECB 利率不動 9月可能升息 拉加德：能源震撼正逐漸轉為物價上揚",
@@ -79,9 +135,9 @@
       "published": 1784831643
     },
     {
-      "id": "be63e41479f2",
+      "id": "cfd75015e617",
       "title": "加州橙縣社區爆發兒童癌症群組 多名兒童及年輕人病逝",
-      "url": "https://www.singtaousa.com/2026/07/23/%e7%be%8e%e5%9c%8b/heartbroken-families-break-down-in-tears-over-extremely-rare-cancers-in-kids-in-rich-california-enclave/",
+      "url": "https://www.singtaousa.com/2026/07/23/news/usa/heartbroken-families-break-down-in-tears-over-extremely-rare-cancers-in-kids-in-rich-california-enclave/",
       "source": "singtaousa.com",
       "published": 1784831638
     },
@@ -114,46 +170,11 @@
       "published": 1784830348
     },
     {
-      "id": "9d1a2c01970f",
-      "title": "亞利桑那民主黨國會初選爆冷　急診醫師夏哈勝出",
-      "url": "https://www.singtaousa.com/2026/07/23/news/usa/news-arizona-democratic-primary-amish-shah-congress/",
-      "source": "singtaousa.com",
-      "published": 1784830078
-    },
-    {
-      "id": "2106e1af10a5",
-      "title": "周柏豪慰問好友余文樂 獲表情符號報平安",
-      "url": "https://www.singtaousa.com/2026/07/23/entertainment/zhou-bo-hao-wen-wu-you-wen-le/",
-      "source": "singtaousa.com",
-      "published": 1784829600
-    },
-    {
-      "id": "0b1bbd7f2e1a",
-      "title": "美上週首次申領失業金人數驟降 創1969年以來新低",
-      "url": "https://www.singtaousa.com/2026/07/23/news/usa/news-us-jobless-claims-labor-market-fed-interest-rates/",
-      "source": "singtaousa.com",
-      "published": 1784829442
-    },
-    {
       "id": "260cf4284352",
       "title": "AI燒錢 Google現金流轉負 預告壓力短期難解 引發龐大投資能否回收疑慮",
       "url": "https://money.udn.com/money/story/123398/9647435",
       "source": "money.udn.com",
       "published": 1784828978
-    },
-    {
-      "id": "f62fa8689844",
-      "title": "黃仁勳籲美企可用中國AI模型　稱開源有助晶片與產業發展",
-      "url": "https://www.singtaousa.com/2026/07/23/news/usa/news-jensen-huang-chinese-ai-models-nvidia-open-source/",
-      "source": "singtaousa.com",
-      "published": 1784828839
-    },
-    {
-      "id": "cbff6ac15bf7",
-      "title": "加州買電動車即減3500美元 Tesla在內的13大車廠響應",
-      "url": "https://www.singtaousa.com/2026/07/23/news/usa/newsom-secures-13-automakers-to-offer-instant-rebates/",
-      "source": "singtaousa.com",
-      "published": 1784828679
     },
     {
       "id": "cc873416853b",
@@ -175,13 +196,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260723-%E9%9F%A9%E5%9B%BD%E9%80%89%E4%B8%BE%E5%A7%94%E5%91%98%E4%BC%9A%E5%9B%A0%E6%B6%89%E5%AB%8C%E6%93%8D%E7%BA%B5%E9%80%89%E4%B8%BE%E9%81%AD%E6%90%9C%E6%9F%A5",
       "source": "rfi.fr",
       "published": 1784827759
-    },
-    {
-      "id": "bd3e8be4205b",
-      "title": "魯西迪出庭指證刺殺案兇手　重述血泊驚魂與漫長復健",
-      "url": "https://www.singtaousa.com/2026/07/23/news/usa/news-salman-rushdie-terrorism-trial-testimony/",
-      "source": "singtaousa.com",
-      "published": 1784827501
     },
     {
       "id": "f83df041dc2c",
@@ -224,20 +238,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260723-%E4%B8%A4%E5%90%8D%E6%B3%95%E5%9B%BD%E5%A4%96%E4%BA%A4%E5%AE%98%E5%9C%A8%E4%BC%8A%E6%9C%97%E9%81%AD%E8%A2%AD%E5%87%BB%E5%90%8E%E8%BF%94%E5%9B%9E%E5%B7%B4%E9%BB%8E",
       "source": "rfi.fr",
       "published": 1784822901
-    },
-    {
-      "id": "b8f753c8813e",
-      "title": "AI連結法 2／Gemini和Google大合體！日本上班族：三種設定超好用",
-      "url": "https://money.udn.com/money/story/122979/9586086",
-      "source": "money.udn.com",
-      "published": 1784822807
-    },
-    {
-      "id": "0fd04d25813d",
-      "title": "AI連結法 1／Gemini讓Google服務愈來愈強！日本上班族：這樣設定好省事",
-      "url": "https://money.udn.com/money/story/122979/9586084",
-      "source": "money.udn.com",
-      "published": 1784822634
     },
     {
       "id": "c8dd763906e7",
@@ -1325,5 +1325,5 @@
       "published": 1782300540
     }
   ],
-  "build_id": 1784832945
+  "build_id": 1784837200
 }
