@@ -1,6 +1,97 @@
 {
-  "updated": 1784993712,
+  "updated": 1784997752,
   "items": [
+    {
+      "id": "72074f5f0bfd",
+      "title": "西班牙首都近郊野火連成一線　撤離人數逼近9萬",
+      "url": "https://money.udn.com/money/story/5599/9651213",
+      "source": "money.udn.com",
+      "published": 1784997570
+    },
+    {
+      "id": "2a34fd9ffb5e",
+      "title": "“火烧眉毛”    法首次调用A400M军用运输机参与灭火",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260725-%E7%81%AB%E7%83%A7%E7%9C%89%E6%AF%9B-%E6%B3%95%E9%A6%96%E6%AC%A1%E8%B0%83%E7%94%A8a400m%E5%86%9B%E7%94%A8%E8%BF%90%E8%BE%93%E6%9C%BA%E5%8F%82%E4%B8%8E%E7%81%AD%E7%81%AB",
+      "source": "rfi.fr",
+      "published": 1784997550
+    },
+    {
+      "id": "52755f7f17c9",
+      "title": "南非抗愛滋新藥 半年一針助高危群",
+      "url": "https://www.singtaousa.com/2026/07/25/news/world/lenacapavir-may-slow-hiv-infections-but-theres-not-enough/",
+      "source": "singtaousa.com",
+      "published": 1784997517
+    },
+    {
+      "id": "abc139885cf7",
+      "title": "洛杉磯無家可歸者增3.4% 市長巴斯受挫",
+      "url": "https://www.singtaousa.com/2026/07/25/news/usa/new-los-angeles-homeless-count-expected-to-show-34-increase/",
+      "source": "singtaousa.com",
+      "published": 1784997214
+    },
+    {
+      "id": "a06514d31385",
+      "title": "惠普數據揭三成用戶仍用Windows 10 微軟被迫將支援延長至2027年",
+      "url": "https://www.singtaousa.com/2026/07/25/news/world/hp-admits-30-of-pcs-still-run-windows-10-rejecting-windows-11-and-its-why-microsoft-caved-on-support/",
+      "source": "singtaousa.com",
+      "published": 1784996935
+    },
+    {
+      "id": "bb82548f7478",
+      "title": "颱風紅霞襲港 機場航班大規模取消 國泰櫃位現人龍",
+      "url": "https://www.singtaousa.com/2026/07/25/news/china/typhoon-hongxia-flight-cancellations-delays/",
+      "source": "singtaousa.com",
+      "published": 1784996832
+    },
+    {
+      "id": "23ba9ae70bd2",
+      "title": "胡塞武裝襲擊沙特 特朗普威脅擴大打擊",
+      "url": "https://www.singtaousa.com/2026/07/25/news/world/iran-backed-houthis-claim-missile-attack-on-saudi-arabia-as-regional-tensions-escalate/",
+      "source": "singtaousa.com",
+      "published": 1784996645
+    },
+    {
+      "id": "d75315531959",
+      "title": "法國西班牙野火肆虐 逾 25 萬人撤離",
+      "url": "https://www.singtaousa.com/2026/07/25/news/world/france-and-spain-battle-wildfires-as-more-than-250000-people-forced-to-flee-homes/",
+      "source": "singtaousa.com",
+      "published": 1784995786
+    },
+    {
+      "id": "38b769ca121a",
+      "title": "張名雅兒子足球訓練受傷送院 母親發文嘆育兒心臟要強大",
+      "url": "https://www.singtaousa.com/2026/07/25/entertainment/carat-cheung-son-soccer-injury-hospital/",
+      "source": "singtaousa.com",
+      "published": 1784995614
+    },
+    {
+      "id": "b4fc30633012",
+      "title": "譚凱琪入稟舊友破產 與富貴姊妹楊秀惠慶生展溫情",
+      "url": "https://www.singtaousa.com/2026/07/25/entertainment/zoie-tam-friendship-bankruptcy-lawsuit/",
+      "source": "singtaousa.com",
+      "published": 1784995220
+    },
+    {
+      "id": "093e8c5613cc",
+      "title": "對謝賢離世感可惜 馮德倫有關心謝霆鋒",
+      "url": "https://www.singtaousa.com/2026/07/25/entertainment/fong-tak-lun-cares-about-sze-yan/",
+      "source": "singtaousa.com",
+      "published": 1784995200
+    },
+    {
+      "id": "1e0a4cbfa2f7",
+      "title": "颱風「紅霞」交通安排：巴士凌晨起陸續停駛 港鐵維持正常班次",
+      "url": "https://www.singtaousa.com/2026/07/25/news/china/typhoon-hongxia-transport-updates-suspensions/",
+      "source": "singtaousa.com",
+      "published": 1784995023
+    },
+    {
+      "id": "19a941816094",
+      "title": "托卡耶夫当面告知普京：俄乌并非内战而是国家间冲突 指是时候冻结冲突",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260725-%E6%89%98%E5%8D%A1%E8%80%B6%E5%A4%AB%E5%BD%93%E9%9D%A2%E5%91%8A%E7%9F%A5%E6%99%AE%E4%BA%AC-%E4%BF%84%E4%B9%8C%E5%B9%B6%E9%9D%9E%E5%86%85%E6%88%98%E8%80%8C%E6%98%AF%E5%9B%BD%E5%AE%B6%E9%97%B4%E5%86%B2%E7%AA%81-%E6%8C%87%E6%98%AF%E6%97%B6%E5%80%99%E5%86%BB%E7%BB%93%E5%86%B2%E7%AA%81",
+      "source": "rfi.fr",
+      "published": 1784993820
+    },
     {
       "id": "eda9cdaf76b3",
       "title": "古天樂出品舞台劇《大龍鳳》西九首演告捷 次場因颱風取消",
@@ -21,34 +112,6 @@
       "url": "https://www.singtaousa.com/2026/07/25/entertainment/sibella-choi-kung-fu-soccer-interview/",
       "source": "singtaousa.com",
       "published": 1784993288
-    },
-    {
-      "id": "1ff534af8fec",
-      "title": "八號風球將至 啟德體育園宣布Ian陳卓賢演唱會如期舉行",
-      "url": "https://www.singtaousa.com/2026/07/25/news/china/typhoon-hongxia-ian-concert-continues/",
-      "source": "singtaousa.com",
-      "published": 1784993228
-    },
-    {
-      "id": "110f511f5ba2",
-      "title": "汪明荃大讚謝賢瀟灑 有慰問契女謝婷婷",
-      "url": "https://www.singtaousa.com/2026/07/25/entertainment/wang-mingquan-praises-xie-xian/",
-      "source": "singtaousa.com",
-      "published": 1784991600
-    },
-    {
-      "id": "9bebaf9b7013",
-      "title": "港姐2026外景湖南師姐分享 黃嘉雯讚組員堅強 博士佳麗兼顧學業",
-      "url": "https://www.singtaousa.com/2026/07/25/entertainment/miss-hong-kong-hunan-trip-leaders-reflections/",
-      "source": "singtaousa.com",
-      "published": 1784991516
-    },
-    {
-      "id": "42fa0afcd50d",
-      "title": "颱風紅霞襲港 觀塘地盤鐵閘遭吹塌壓傷男途人 熱心市民合力抬閘救人",
-      "url": "https://www.singtaousa.com/2026/07/25/news/china/typhoon-hongxia-gate-collapses-injures-pedestrian/",
-      "source": "singtaousa.com",
-      "published": 1784991417
     },
     {
       "id": "7ee38b8eb50f",
@@ -72,13 +135,6 @@
       "published": 1784989856
     },
     {
-      "id": "31a4bab71455",
-      "title": "颱風「紅霞」逼近 深圳發藍色預警 地鐵明或延遲營運 惠州全市實施「五停」",
-      "url": "https://www.singtaousa.com/2026/07/25/news/china/typhoon-hongxia-shenzhen-blue-warning-huzhou/",
-      "source": "singtaousa.com",
-      "published": 1784989617
-    },
-    {
       "id": "68295a50020f",
       "title": "“蟑螂运动”重大胜利：印度教育部长辞职",
       "url": "https://www.dw.com/zh/蟑螂运动-重大胜利：印度教育部长辞职/a-78113808?maca=chi-rss-chi-all-1127-rdf",
@@ -100,46 +156,11 @@
       "published": 1784988411
     },
     {
-      "id": "1af2331f79c4",
-      "title": "馮盈盈化身「港姐社工」指導師妹 湖南外景之旅分享選美經驗",
-      "url": "https://www.singtaousa.com/2026/07/25/entertainment/miss-hong-kong-2026-fiona-feng-huining/",
-      "source": "singtaousa.com",
-      "published": 1784988049
-    },
-    {
       "id": "c4efafc5ac7f",
       "title": "日本副首都之爭開打　大阪、福岡、愛知率先表態",
       "url": "https://money.udn.com/money/story/5599/9651003",
       "source": "money.udn.com",
       "published": 1784988042
-    },
-    {
-      "id": "e76c3cb2f34b",
-      "title": "馬斯克財富一周縮水1300億",
-      "url": "https://www.singtaousa.com/2026/07/25/news/usa/musk-wealth-plummets-130-billion/",
-      "source": "singtaousa.com",
-      "published": 1784988000
-    },
-    {
-      "id": "8205f45fcb47",
-      "title": "Verizon季報超預期   AI基建拉動新增長",
-      "url": "https://www.singtaousa.com/2026/07/25/news/usa/verizon-q2-earnings-ai-infrastructure/",
-      "source": "singtaousa.com",
-      "published": 1784988000
-    },
-    {
-      "id": "0ff4598cbc02",
-      "title": "SpaceX星艦完成IPO後首次試飛",
-      "url": "https://www.singtaousa.com/2026/07/25/news/usa/spacex-starship-first-test-flight/",
-      "source": "singtaousa.com",
-      "published": 1784988000
-    },
-    {
-      "id": "426c31bf98e2",
-      "title": "英偉達注資15億   協助Amkor提升產能",
-      "url": "https://www.singtaousa.com/2026/07/25/news/usa/nvidia-invests-amkor-capacity/",
-      "source": "singtaousa.com",
-      "published": 1784988000
     },
     {
       "id": "829dba72d4ab",
@@ -259,13 +280,6 @@
       "url": "https://money.udn.com/money/story/5599/9650853",
       "source": "money.udn.com",
       "published": 1784977964
-    },
-    {
-      "id": "b89602cd21cb",
-      "title": "台灣、南韓股票7月遭亞洲股票基金大砍 原因曝光",
-      "url": "https://money.udn.com/money/story/5599/9650838",
-      "source": "money.udn.com",
-      "published": 1784976783
     },
     {
       "id": "4dd3e9991933",
@@ -485,13 +499,6 @@
       "published": 1784900338
     },
     {
-      "id": "f52b2abdc6d5",
-      "title": "国际刑事法院首席检察官罢免风波及背后的地缘政治博弈",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260724-%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E6%B3%95%E9%99%A2%E9%A6%96%E5%B8%AD%E6%A3%80%E5%AF%9F%E5%AE%98%E7%BD%A2%E5%85%8D%E9%A3%8E%E6%B3%A2%E5%8F%8A%E8%83%8C%E5%90%8E%E7%9A%84%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E5%8D%9A%E5%BC%88",
-      "source": "rfi.fr",
-      "published": 1784899249
-    },
-    {
       "id": "65acb3aa4db6",
       "title": "长平观察：“我又不是书店店员”",
       "url": "https://www.dw.com/zh/长平观察：-我又不是书店店员/a-78102827?maca=chi-rss-chi-all-1127-rdf",
@@ -504,13 +511,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260724-%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E6%96%B9%E6%98%9F%E6%B5%B7%E5%AE%98%E5%AE%A3%E8%A2%AB%E6%9F%A5",
       "source": "rfi.fr",
       "published": 1784896888
-    },
-    {
-      "id": "bcde2ce59c6c",
-      "title": "反制欧盟涉俄制裁含陆港企业 中方将14家欧盟实体列入出口管制管控名单 含莱茵金属",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260724-%E5%8F%8D%E5%88%B6%E6%AC%A7%E7%9B%9F%E6%B6%89%E4%BF%84%E5%88%B6%E8%A3%81%E5%90%AB%E9%99%86%E6%B8%AF%E4%BC%81%E4%B8%9A-%E4%B8%AD%E6%96%B9%E5%B0%8614%E5%AE%B6%E6%AC%A7%E7%9B%9F%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95-%E5%90%AB%E8%8E%B1%E8%8C%B5%E9%87%91%E5%B1%9E",
-      "source": "rfi.fr",
-      "published": 1784895057
     },
     {
       "id": "00df278c7cac",
@@ -1374,5 +1374,5 @@
       "published": 1782433860
     }
   ],
-  "build_id": 1784993712
+  "build_id": 1784997752
 }
