@@ -1,12 +1,40 @@
 {
-  "updated": 1785001645,
+  "updated": 1785005217,
   "items": [
+    {
+      "id": "01c2d71f2a29",
+      "title": "強颱風「紅霞」逼近 廣東面臨極端降雨及龍捲風風險",
+      "url": "https://www.singtaousa.com/2026/07/25/news/china/typhoon-hongxia-extreme-rainfall-tornado-risk/",
+      "source": "singtaousa.com",
+      "published": 1785004017
+    },
+    {
+      "id": "87799fdca40c",
+      "title": "羅子溢拒回應傅寶誼重提舊情",
+      "url": "https://www.singtaousa.com/2026/07/25/entertainment/lo-tse-yi-refuses-to-respond-to-fu-bao-yi/",
+      "source": "singtaousa.com",
+      "published": 1785002400
+    },
+    {
+      "id": "151aecf28540",
+      "title": "微軟、亞馬遜和 Meta 本周財報+Fed 大戲 美股指標",
+      "url": "https://money.udn.com/money/story/123398/9651113",
+      "source": "money.udn.com",
+      "published": 1785001138
+    },
     {
       "id": "d5291b39f455",
       "title": "台风“红霞”逼近广东    34万人撤离",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260725-%E5%8F%B0%E9%A3%8E-%E7%BA%A2%E9%9C%9E-%E9%80%BC%E8%BF%91%E5%B9%BF%E4%B8%9C-34%E4%B8%87%E4%BA%BA%E6%92%A4%E7%A6%BB",
       "source": "rfi.fr",
       "published": 1785000953
+    },
+    {
+      "id": "2a89c4eee594",
+      "title": "川普嗆伊朗⋯態度沒那麼硬了 保留外交方式解決空間",
+      "url": "https://money.udn.com/money/story/5599/9651115",
+      "source": "money.udn.com",
+      "published": 1785000927
     },
     {
       "id": "6f16e2149050",
@@ -163,20 +191,6 @@
       "published": 1784995614
     },
     {
-      "id": "b4fc30633012",
-      "title": "譚凱琪入稟舊友破產 與富貴姊妹楊秀惠慶生展溫情",
-      "url": "https://www.singtaousa.com/2026/07/25/entertainment/zoie-tam-friendship-bankruptcy-lawsuit/",
-      "source": "singtaousa.com",
-      "published": 1784995220
-    },
-    {
-      "id": "093e8c5613cc",
-      "title": "對謝賢離世感可惜 馮德倫有關心謝霆鋒",
-      "url": "https://www.singtaousa.com/2026/07/25/entertainment/fong-tak-lun-cares-about-sze-yan/",
-      "source": "singtaousa.com",
-      "published": 1784995200
-    },
-    {
       "id": "19a941816094",
       "title": "托卡耶夫当面告知普京：俄乌并非内战而是国家间冲突 指是时候冻结冲突",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260725-%E6%89%98%E5%8D%A1%E8%80%B6%E5%A4%AB%E5%BD%93%E9%9D%A2%E5%91%8A%E7%9F%A5%E6%99%AE%E4%BA%AC-%E4%BF%84%E4%B9%8C%E5%B9%B6%E9%9D%9E%E5%86%85%E6%88%98%E8%80%8C%E6%98%AF%E5%9B%BD%E5%AE%B6%E9%97%B4%E5%86%B2%E7%AA%81-%E6%8C%87%E6%98%AF%E6%97%B6%E5%80%99%E5%86%BB%E7%BB%93%E5%86%B2%E7%AA%81",
@@ -261,25 +275,11 @@
       "published": 1784986619
     },
     {
-      "id": "94932e09cd51",
-      "title": "敘利亞中部兩輛巴士相撞　釀35死30傷慘劇",
-      "url": "https://money.udn.com/money/story/5599/9650985",
-      "source": "money.udn.com",
-      "published": 1784986243
-    },
-    {
       "id": "e9e804c26571",
       "title": "复旦、上海交大上“黑名单”？美国扩大对华科研审查",
       "url": "https://www.dw.com/zh/复旦、上海交大上-黑名单-？美国扩大对华科研审查/a-78113419?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1784985840
-    },
-    {
-      "id": "cf50fe5ce6ec",
-      "title": "高市早苗曝每天睡0至3小時　日媒盤點各國領袖作息",
-      "url": "https://money.udn.com/money/story/5599/9650968",
-      "source": "money.udn.com",
-      "published": 1784985151
     },
     {
       "id": "7aecdb554693",
@@ -1374,5 +1374,5 @@
       "published": 1782433860
     }
   ],
-  "build_id": 1785001645
+  "build_id": 1785005217
 }
