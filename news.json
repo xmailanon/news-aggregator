@@ -1,6 +1,20 @@
 {
-  "updated": 1785100973,
+  "updated": 1785104746,
   "items": [
+    {
+      "id": "c6a3c36da57c",
+      "title": "怪物級野火引發「火積雲」　法國、西班牙已撤32.5萬人",
+      "url": "https://money.udn.com/money/story/5599/9652608",
+      "source": "money.udn.com",
+      "published": 1785104491
+    },
+    {
+      "id": "4318dddb7b1f",
+      "title": "山火救災艱險 全民守望相助",
+      "url": "https://www.singtaousa.com/2026/07/26/entertainment/wildfire-rescue-community-support/",
+      "source": "singtaousa.com",
+      "published": 1785103200
+    },
     {
       "id": "d95fb909eb8d",
       "title": "奧斯汀警察擊斃手無寸鐵少年 警方稱或為「借警自殺」事件",
@@ -154,13 +168,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260726-%E7%BE%8E%E5%9B%BD%E9%A9%BB%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BD%BF%E7%A7%B0%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4-%E4%BF%9D%E7%95%99%E4%BA%86%E4%B8%80%E7%82%B9%E7%A9%BA%E9%97%B4",
       "source": "rfi.fr",
       "published": 1785091001
-    },
-    {
-      "id": "c9b613df8eb7",
-      "title": "烏克蘭平民傷亡創四年新高 俄羅斯加強彈道導彈攻擊",
-      "url": "https://www.singtaousa.com/2026/07/26/news/world/ukraine-sees-highest-civilian-casualties-since-2022/",
-      "source": "singtaousa.com",
-      "published": 1785090620
     },
     {
       "id": "58d497f96fa5",
@@ -336,13 +343,6 @@
       "url": "https://money.udn.com/money/story/5599/9652272",
       "source": "money.udn.com",
       "published": 1785073531
-    },
-    {
-      "id": "44496523f5c3",
-      "title": "美軍暫停空襲伊朗　CNN：范斯與參聯會主席憂戰事升級",
-      "url": "https://money.udn.com/money/story/5599/9652269",
-      "source": "money.udn.com",
-      "published": 1785073001
     },
     {
       "id": "4f369c4933f7",
@@ -1374,5 +1374,5 @@
       "published": 1782903300
     }
   ],
-  "build_id": 1785100973
+  "build_id": 1785104746
 }
