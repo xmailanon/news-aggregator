@@ -1,89 +1,271 @@
 {
-  "updated": 1785288177,
+  "updated": 1785299937,
   "items": [
+    {
+      "id": "2a5058ab9b57",
+      "title": "美軍與沙特聯手空襲伊拉克境內民兵組織",
+      "url": "https://www.singtaousa.com/2026/07/28/news/usa/us-thwarts-an-iranian-missile-attack-and-launches-strikes-with-saudi-arabia-against-militias-in-iraq/",
+      "source": "singtaousa.com",
+      "published": 1785299556
+    },
+    {
+      "id": "8f4cb9d74e18",
+      "title": "麻省夫婦遭騷擾 eBay賠償近五千萬美元",
+      "url": "https://www.singtaousa.com/2026/07/28/news/usa/ebay-agreed-to-pay-nearly-50m-to-couple-sent-cockroaches-bloody-pig-mask/",
+      "source": "singtaousa.com",
+      "published": 1785299400
+    },
+    {
+      "id": "e02de7b60cd7",
+      "title": "以色列警告：伊朗土耳其圖謀干預選舉",
+      "url": "https://www.singtaousa.com/2026/07/28/news/world/iran-turkey-are-trying-to-influence-israeli-elections-officials-warn/",
+      "source": "singtaousa.com",
+      "published": 1785299400
+    },
+    {
+      "id": "e068b3654d78",
+      "title": "熊本強震災情慘重 高雄4立委捐薪賑災 陳其邁：需要就派特搜隊",
+      "url": "https://money.udn.com/money/story/5599/9657873",
+      "source": "money.udn.com",
+      "published": 1785298895
+    },
+    {
+      "id": "11d79008edb9",
+      "title": "約旦河西岸以色列人擲石襲車，釀以色列少年遭撞成中度傷害",
+      "url": "https://www.singtaousa.com/2026/07/28/news/world/idf-israelis-threw-stones-at-palestinians-in-west-bank-one-hit-teen-with-his-vehicle/",
+      "source": "singtaousa.com",
+      "published": 1785298766
+    },
+    {
+      "id": "89bcdb072517",
+      "title": "澳洲H5禽流感新添疑似病例　恐已出現本土傳播",
+      "url": "https://money.udn.com/money/story/5599/9657854",
+      "source": "money.udn.com",
+      "published": 1785298352
+    },
+    {
+      "id": "2eb4495d20b5",
+      "title": "熊本強震八代市災情嚴重 基隆姐妹市送暖 謝國樑：搜救醫護團隊待命",
+      "url": "https://money.udn.com/money/story/5599/9657841",
+      "source": "money.udn.com",
+      "published": 1785298279
+    },
+    {
+      "id": "8f8154ed5d41",
+      "title": "伊朗饒舌歌手因抗議遭判死刑",
+      "url": "https://www.singtaousa.com/2026/07/28/news/world/iranian-rapper-sentenced-to-death-over-january-protests-source-says/",
+      "source": "singtaousa.com",
+      "published": 1785298221
+    },
+    {
+      "id": "345df1ef39d0",
+      "title": "Kimi K3來襲 黃仁勳、祖克柏急喊話：美勿封殺開放權重 AI 模型 原因曝光",
+      "url": "https://money.udn.com/money/story/5599/9657830",
+      "source": "money.udn.com",
+      "published": 1785297974
+    },
+    {
+      "id": "f1b214a708f6",
+      "title": "日本熊本縣發生6.8級地震，這是目前已知的情況",
+      "url": "https://www.bbc.com/zhongwen/articles/cx2jxz2xdw4o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1785297960
+    },
+    {
+      "id": "acf73208c558",
+      "title": "喬治亞州校園槍擊　少年持父贈槍犯案判無期徒刑",
+      "url": "https://money.udn.com/money/story/5599/9657818",
+      "source": "money.udn.com",
+      "published": 1785297726
+    },
+    {
+      "id": "0a1d6feca9b6",
+      "title": "波特蘭路標遭駭客入侵抗議ICE",
+      "url": "https://www.singtaousa.com/2026/07/28/news/usa/road-sign-in-portland-hacked-to-protest-ice-killings/",
+      "source": "singtaousa.com",
+      "published": 1785297600
+    },
+    {
+      "id": "270a88fd6771",
+      "title": "小S陪母親到上海散心",
+      "url": "https://www.singtaousa.com/2026/07/28/entertainment/xiaos-accompanies-mother-shanghai/",
+      "source": "singtaousa.com",
+      "published": 1785297600
+    },
+    {
+      "id": "087df816454d",
+      "title": "半世紀氣候數據揭示暖化真相 澳洲格津角成全球監測重鎮",
+      "url": "https://money.udn.com/money/story/122381/9652183",
+      "source": "money.udn.com",
+      "published": 1785297494
+    },
+    {
+      "id": "7a5110cc9f60",
+      "title": "熊本強震高架橋錯位但沒垮！30年前阪神大地震慘痛教訓救命",
+      "url": "https://money.udn.com/money/story/5599/9657786",
+      "source": "money.udn.com",
+      "published": 1785297211
+    },
+    {
+      "id": "3c461ba2937a",
+      "title": "熊本強震13死36輕重傷！高市：「與時間賽跑」展開救援",
+      "url": "https://money.udn.com/money/story/5599/9657767",
+      "source": "money.udn.com",
+      "published": 1785296777
+    },
+    {
+      "id": "5f31a9c4ca92",
+      "title": "緬甸放寬簽證拚觀光 重押中泰遊客",
+      "url": "https://money.udn.com/money/story/122381/9652178",
+      "source": "money.udn.com",
+      "published": 1785296673
+    },
+    {
+      "id": "0a20ef181a90",
+      "title": "印度精品咖啡 Blue Tokai 大規模展店 挑戰星巴克霸主地位",
+      "url": "https://money.udn.com/money/story/122381/9652181",
+      "source": "money.udn.com",
+      "published": 1785296493
+    },
+    {
+      "id": "c28eb3ad081f",
+      "title": "英鋼國有化爭議延燒...陸商務部長促英方履行投資保護協定義務",
+      "url": "https://money.udn.com/money/story/5599/9657736",
+      "source": "money.udn.com",
+      "published": 1785296245
+    },
+    {
+      "id": "f37e002cff5c",
+      "title": "高利率魅力發威！澳洲袋鼠債吸金520億澳幣 投資人排隊認購",
+      "url": "https://money.udn.com/money/story/122381/9652182",
+      "source": "money.udn.com",
+      "published": 1785296213
+    },
+    {
+      "id": "e2b6b7202e6e",
+      "title": "猶他州女子婚前縱火教堂 疑為悔婚",
+      "url": "https://www.singtaousa.com/2026/07/28/news/usa/utah-woman-set-fire-to-church-a-day-before-wedding-authorities-say/",
+      "source": "singtaousa.com",
+      "published": 1785296186
+    },
+    {
+      "id": "55f4f73297ff",
+      "title": "熊本震災多人死傷 助姐妹市過難關賴瑞隆宣布捐1個月薪水",
+      "url": "https://money.udn.com/money/story/5599/9657721",
+      "source": "money.udn.com",
+      "published": 1785296069
+    },
+    {
+      "id": "d9b8decf5a66",
+      "title": "美參院啟動對俄制裁法案審議　授權川普提高關稅",
+      "url": "https://money.udn.com/money/story/5599/9657714",
+      "source": "money.udn.com",
+      "published": 1785296012
+    },
+    {
+      "id": "8bde593554e6",
+      "title": "秘魯首位女總統藤森惠子宣誓就職　拉美右傾趨勢擴大",
+      "url": "https://money.udn.com/money/story/5599/9657712",
+      "source": "money.udn.com",
+      "published": 1785295982
+    },
+    {
+      "id": "2c9af895b004",
+      "title": "美沙空襲伊拉克親伊朗民兵　警告伊朗停止攻擊",
+      "url": "https://money.udn.com/money/story/5599/9657708",
+      "source": "money.udn.com",
+      "published": 1785295957
+    },
+    {
+      "id": "f470489c475e",
+      "title": "熊本強震後永旺夢樂城爆炸　警公開搜救影片",
+      "url": "https://money.udn.com/money/story/5599/9657707",
+      "source": "money.udn.com",
+      "published": 1785295942
+    },
+    {
+      "id": "6828d557ad45",
+      "title": "西雅圖美食節槍案3死 警指涉黑幫追緝槍手",
+      "url": "https://www.singtaousa.com/2026/07/28/news/usa/bite-of-seattle-shooting-victims-identified-as-police-investigate-possible-gang-connection-gunman-still-at-large/",
+      "source": "singtaousa.com",
+      "published": 1785295800
+    },
+    {
+      "id": "b2837a926582",
+      "title": "紐約學區因反彈暫停部署AI機器人教師",
+      "url": "https://www.singtaousa.com/2026/07/28/news/usa/new-york-school-pauses-plan-to-deploy-humanlike-ai-robot-teacher-after-backlash-2/",
+      "source": "singtaousa.com",
+      "published": 1785295742
+    },
+    {
+      "id": "751bc744719e",
+      "title": "完善內地港生支援體系 築牢人才回流香港根基",
+      "url": "https://www.singtaousa.com/2026/07/28/news/china/support-mainland-hong-kong-students-talent-return/",
+      "source": "singtaousa.com",
+      "published": 1785295617
+    },
+    {
+      "id": "1ca5244f61b7",
+      "title": "影／熊本7.1強震 陳其邁：已慰問、必要時支援救災及重建",
+      "url": "https://money.udn.com/money/story/5599/9657686",
+      "source": "money.udn.com",
+      "published": 1785295561
+    },
+    {
+      "id": "dbc62d79d5e3",
+      "title": "Reddit 善用自家 AI 掃蕩垃圾資訊",
+      "url": "https://money.udn.com/money/story/122381/9652265",
+      "source": "money.udn.com",
+      "published": 1785295557
+    },
+    {
+      "id": "8432ec9ee9a3",
+      "title": "全球暖化效應 外來魚種衝擊希臘漁業",
+      "url": "https://money.udn.com/money/story/122381/9652264",
+      "source": "money.udn.com",
+      "published": 1785295036
+    },
+    {
+      "id": "592ddbd3e61a",
+      "title": "聯合及達美航空 基於安全考量禁運人形機械人",
+      "url": "https://www.singtaousa.com/2026/07/28/news/usa/united-and-delta-ban-humanoid-robots-from-flights/",
+      "source": "singtaousa.com",
+      "published": 1785294507
+    },
+    {
+      "id": "c06b2aa4053d",
+      "title": "欧洲游客“消失”，东南亚旅游业者陷入困境",
+      "url": "https://cn.nytimes.com/asia-pacific/20260729/iran-war-southeast-asia-tourism/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1785294164
+    },
+    {
+      "id": "f05917935232",
+      "title": "熊本发生6.8级强震，购物中心坍塌多人死伤",
+      "url": "https://cn.nytimes.com/asia-pacific/20260729/japan-earthquake-kumamoto-damage/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1785292150
+    },
+    {
+      "id": "bb5234fc009e",
+      "title": "街头小吃越来越贵？伊朗战争改变亚洲人的餐桌",
+      "url": "https://cn.nytimes.com/business/20260729/iran-war-price-inflation-street-food-asia/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1785292066
+    },
+    {
+      "id": "890fe6eaab3e",
+      "title": "什麼是「火雲」? 為何會使野火更致命 ?",
+      "url": "https://www.bbc.com/zhongwen/articles/ce3q99dj835o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1785288280
+    },
     {
       "id": "fd92b6a84f7e",
       "title": "畅销推理小说作家东野圭吾去世，终年68岁",
       "url": "https://cn.nytimes.com/obits/20260729/keigo-higashino-author-dead/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1785286881
-    },
-    {
-      "id": "fa3f2631e7ee",
-      "title": "德州女顎部手術後 竟患怪病說英國腔",
-      "url": "https://www.singtaousa.com/2026/07/28/news/usa/texas-mom-wakes-up-from-surgery-with-british-accent/",
-      "source": "singtaousa.com",
-      "published": 1785286800
-    },
-    {
-      "id": "e16742743ee9",
-      "title": "鞏漢林參演《九門》 飾演說書先生",
-      "url": "https://www.singtaousa.com/2026/07/28/entertainment/gong-hanlin-guest-star-jiu-men/",
-      "source": "singtaousa.com",
-      "published": 1785286800
-    },
-    {
-      "id": "c331e3c695af",
-      "title": "中美 AI 戰線再擴大 川普禁止陸人形機器人與逆變器進入美國",
-      "url": "https://money.udn.com/money/story/5599/9657262",
-      "source": "money.udn.com",
-      "published": 1785286272
-    },
-    {
-      "id": "bb2a2594856b",
-      "title": "國安考量防滲透　美禁部分外國製人形機器人進口",
-      "url": "https://money.udn.com/money/story/5599/9657258",
-      "source": "money.udn.com",
-      "published": 1785285951
-    },
-    {
-      "id": "822502a30eb0",
-      "title": "民主社會主義正擴大影響力　民調：美國民眾認知有限",
-      "url": "https://money.udn.com/money/story/5599/9657257",
-      "source": "money.udn.com",
-      "published": 1785285936
-    },
-    {
-      "id": "22593b988c04",
-      "title": "熊本強震疑釀十多人死亡！永旺翻新開幕才1個多月 震後爆炸化瓦礫",
-      "url": "https://money.udn.com/money/story/5599/9657256",
-      "source": "money.udn.com",
-      "published": 1785285817
-    },
-    {
-      "id": "f05917935232",
-      "title": "熊本发生6.8级强震，购物中心坍塌或有人员被困",
-      "url": "https://cn.nytimes.com/asia-pacific/20260729/japan-earthquake-kumamoto-damage/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1785285520
-    },
-    {
-      "id": "d379bf010136",
-      "title": "油價漲逾3% 伊朗襲中東美軍、拒平分荷莫茲 沙國油輪遇襲",
-      "url": "https://money.udn.com/money/story/5599/9657251",
-      "source": "money.udn.com",
-      "published": 1785285376
-    },
-    {
-      "id": "dd080b16b78c",
-      "title": "韓股開盤反彈 SK 海力士由黑翻紅勁揚5% 表示未見到 AI 投資減緩跡象",
-      "url": "https://money.udn.com/money/story/5599/9657246",
-      "source": "money.udn.com",
-      "published": 1785285038
-    },
-    {
-      "id": "f93850472f3b",
-      "title": "美中太空競賽　川普政府擬放寬業界環保規範",
-      "url": "https://money.udn.com/money/story/5599/9657244",
-      "source": "money.udn.com",
-      "published": 1785285030
-    },
-    {
-      "id": "a24665cde14b",
-      "title": "內蒙古酒店性價比引熱議 網民分享700呎寬敞住宿體驗",
-      "url": "https://www.singtaousa.com/2026/07/28/news/china/mongolia-travel-hotel-room-tour/",
-      "source": "singtaousa.com",
-      "published": 1785284820
     },
     {
       "id": "4c2e5a26efad",
@@ -93,53 +275,11 @@
       "published": 1785284521
     },
     {
-      "id": "5fa2810713ee",
-      "title": "伊朗彈道飛彈襲擊美軍　美中央司令部：全數攔截",
-      "url": "https://money.udn.com/money/story/5599/9657234",
-      "source": "money.udn.com",
-      "published": 1785284489
-    },
-    {
-      "id": "49d17c76e509",
-      "title": "台灣在宅醫療名醫余尚儒遇熊本強震 讚日本面對震災冷靜有序",
-      "url": "https://money.udn.com/money/story/5599/9657233",
-      "source": "money.udn.com",
-      "published": 1785284485
-    },
-    {
-      "id": "8669469a29dd",
-      "title": "熊本7.1強震是「前菜」？恐由10年前斷裂斷層位移引起 不排除更強主震",
-      "url": "https://money.udn.com/money/story/5599/9657226",
-      "source": "money.udn.com",
-      "published": 1785284225
-    },
-    {
       "id": "fc86d53c26f3",
       "title": "特朗普政府加快遣返寻求庇护者",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260729-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%8A%A0%E5%BF%AB%E9%81%A3%E8%BF%94%E5%AF%BB%E6%B1%82%E5%BA%87%E6%8A%A4%E8%80%85",
       "source": "rfi.fr",
       "published": 1785284098
-    },
-    {
-      "id": "bc8e4a5a759e",
-      "title": "AI晶片需求旺　SK海力士第2季獲利暴增557%仍遜預期",
-      "url": "https://money.udn.com/money/story/5599/9657220",
-      "source": "money.udn.com",
-      "published": 1785283948
-    },
-    {
-      "id": "bf78d8ed5317",
-      "title": "帶動記憶體股盤後反彈！希捷財報亮眼盤後大漲6% 喊 AI 需求旺到2027",
-      "url": "https://money.udn.com/money/story/5599/9657219",
-      "source": "money.udn.com",
-      "published": 1785283854
-    },
-    {
-      "id": "defa1e50da78",
-      "title": "熊本7.1強震 蔣萬安臉書貼文「為熊本祈福」：一定全力提供必要協助",
-      "url": "https://money.udn.com/money/story/5599/9657214",
-      "source": "money.udn.com",
-      "published": 1785283707
     },
     {
       "id": "5efd86038f9f",
@@ -149,123 +289,11 @@
       "published": 1785283597
     },
     {
-      "id": "7f2cb0a9204f",
-      "title": "海來阿木下跪謝觀眾 「誰給我飯吃就跪誰」",
-      "url": "https://www.singtaousa.com/2026/07/28/entertainment/hailaiamu-kneels-thanks-audience/",
-      "source": "singtaousa.com",
-      "published": 1785283200
-    },
-    {
-      "id": "a815abd00e15",
-      "title": "休兵破局？伊朗彈道飛彈突襲美軍駐約旦基地 全數遭攔截",
-      "url": "https://money.udn.com/money/story/5599/9657199",
-      "source": "money.udn.com",
-      "published": 1785282586
-    },
-    {
       "id": "c2c55bb714fe",
       "title": "市场对AI支出和中国芯片竞争担忧加剧，全球科技股暴跌",
       "url": "https://cn.nytimes.com/business/20260729/stocks-ai-chips/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1785282185
-    },
-    {
-      "id": "41cd22f7eb8f",
-      "title": "SK 海力士獲利暴增557%但仍遜預期！ADR盤後再挫5%",
-      "url": "https://money.udn.com/money/story/123398/9657188",
-      "source": "money.udn.com",
-      "published": 1785281504
-    },
-    {
-      "id": "192cf0b9ba97",
-      "title": "影／熊本強震後災情擴大！永旺商場爆炸釀2死 紙廠多人安危不明",
-      "url": "https://money.udn.com/money/story/5599/9657186",
-      "source": "money.udn.com",
-      "published": 1785281264
-    },
-    {
-      "id": "96783e5450b3",
-      "title": "台積電ADR跌1.7% 聯電猛摔9% 日月光也重挫",
-      "url": "https://money.udn.com/money/story/123398/9657181",
-      "source": "money.udn.com",
-      "published": 1785280967
-    },
-    {
-      "id": "410b26bc64fc",
-      "title": "駐巴西代表廖志賢獲扶輪社殊榮　彰顯台巴交流成果",
-      "url": "https://money.udn.com/money/story/5599/9657179",
-      "source": "money.udn.com",
-      "published": 1785280892
-    },
-    {
-      "id": "41722f401645",
-      "title": "《60分鐘時事雜誌》重建團隊 CBS引入5名新成員 《紐約時報》專欄作家杜塔特加盟任記者",
-      "url": "https://www.singtaousa.com/2026/07/28/news/usa/60-minutes-rebuilds-team-cbs-introduces-five-new-members-new-york-times-columnist-douthat-joins-as-reporter/",
-      "source": "singtaousa.com",
-      "published": 1785280785
-    },
-    {
-      "id": "7da8db52dc9a",
-      "title": "美股收盤／標普500小漲 美光慘摔費半大跌逾4% 資金輪動至非科技股",
-      "url": "https://money.udn.com/money/story/123398/9657170",
-      "source": "money.udn.com",
-      "published": 1785280197
-    },
-    {
-      "id": "955f9c57d941",
-      "title": "AI 決戰。美壟斷vs中開源，決定台積電存亡？",
-      "url": "https://www.singtaousa.com/2026/07/28/opinion/current-affairs-observation-assembly-ai-decisive-battle-us-monopoly-vs-chinese-open-source-will-determine-tsmcs-survival/",
-      "source": "singtaousa.com",
-      "published": 1785279747
-    },
-    {
-      "id": "c6b0719b8d8f",
-      "title": "龔俊亮相環法賽",
-      "url": "https://www.singtaousa.com/2026/07/28/entertainment/gong-jun-appears-tour-de-france/",
-      "source": "singtaousa.com",
-      "published": 1785279600
-    },
-    {
-      "id": "e10dbaa88414",
-      "title": "颱風無阻樂迷熱情 張與辰MV展覽會上演迷你音樂會",
-      "url": "https://www.singtaousa.com/2026/07/28/entertainment/victor-chang-mv-exhibition-kowloon-bay/",
-      "source": "singtaousa.com",
-      "published": 1785279515
-    },
-    {
-      "id": "e4bc3bd1c6e8",
-      "title": "西雅圖美食節槍擊案｜15歲少年被捕 警方稱持「鬼槍」及33發彈匣",
-      "url": "https://www.singtaousa.com/2026/07/28/news/usa/seattle-food-festival-shooting-15-year-old-boy-arrested-police-say-armed-with-ghost-gun-and-33-rounds-of-magazines/",
-      "source": "singtaousa.com",
-      "published": 1785278748
-    },
-    {
-      "id": "1d33408d962d",
-      "title": "熊本強震永旺夢樂城坍塌　NHK：2名20多歲女子亡",
-      "url": "https://money.udn.com/money/story/5599/9657154",
-      "source": "money.udn.com",
-      "published": 1785277825
-    },
-    {
-      "id": "6bb50586f9fb",
-      "title": "紐時：ICE在美機場擴大搜捕 簽證過期即拘留",
-      "url": "https://www.singtaousa.com/2026/07/28/news/usa/ice-arrests-airports-visa-overstay/",
-      "source": "singtaousa.com",
-      "published": 1785276497
-    },
-    {
-      "id": "bb5a07fc62b5",
-      "title": "陶昕然回應角色爭議 「人物寫得很單一」",
-      "url": "https://www.singtaousa.com/2026/07/28/entertainment/tao-xin-ran-responds-controversy/",
-      "source": "singtaousa.com",
-      "published": 1785276000
-    },
-    {
-      "id": "19dc9252b090",
-      "title": "長沙灣按摩院涉違規經營 兩名本地女子被捕",
-      "url": "https://www.singtaousa.com/2026/07/28/news/china/massage-parlor-arrests-foot-facial/",
-      "source": "singtaousa.com",
-      "published": 1785275816
     },
     {
       "id": "78812139331d",
@@ -366,6 +394,13 @@
       "published": 1785260054
     },
     {
+      "id": "43aba6ec5124",
+      "title": "慢与专：跟王虹邓煜学投资",
+      "url": "https://www.ftchinese.com/story/001110461",
+      "source": "ftchinese.com",
+      "published": 1785254400
+    },
+    {
       "id": "9f4f67f86731",
       "title": "英国需要成立针对基础设施的预算责任办公室",
       "url": "https://www.ftchinese.com/story/001110463",
@@ -376,13 +411,6 @@
       "id": "67e411085d55",
       "title": "特朗普在世界舞台上影响力日渐式微",
       "url": "https://www.ftchinese.com/story/001110462",
-      "source": "ftchinese.com",
-      "published": 1785254400
-    },
-    {
-      "id": "43aba6ec5124",
-      "title": "慢与专：跟王虹邓煜学投资",
-      "url": "https://www.ftchinese.com/story/001110461",
       "source": "ftchinese.com",
       "published": 1785254400
     },
@@ -821,13 +849,6 @@
       "published": 1785158280
     },
     {
-      "id": "7bfaefdc6178",
-      "title": "梅根在《澳洲廚神》節目中稱哈里王子「魅力十足」",
-      "url": "https://www.bbc.com/zhongwen/articles/cr49n7we21qo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1785154992
-    },
-    {
       "id": "d9a506f5ca8d",
       "title": "所羅門群島中資金礦坍塌傳多人死亡　突顯「淘金熱」隱憂",
       "url": "https://www.bbc.com/zhongwen/articles/cn0n57kynz2o/trad?at_medium=RSS&at_campaign=rss",
@@ -1115,20 +1136,6 @@
       "published": 1784851386
     },
     {
-      "id": "1ec50a9d3267",
-      "title": "安倍的“幽灵”：高市早苗捍卫“恩师”，推进民族主义议程",
-      "url": "https://cn.nytimes.com/asia-pacific/20260724/japan-sanae-takaichi-shinzo-abe/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1784832820
-    },
-    {
-      "id": "8af2881eeead",
-      "title": "对韩国而言，美沙核协议暴露美国双重标准",
-      "url": "https://cn.nytimes.com/asia-pacific/20260724/us-saudi-nuclear-deal-south-korea/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1784829582
-    },
-    {
       "id": "8052fda20606",
       "title": "奥地利布劳瑙：希特勒出生旧居改建成警察局",
       "url": "https://www.dw.com/zh/奥地利布劳瑙：希特勒出生旧居改建成警察局/a-78087104?maca=chi-rss-chi-all-1127-rdf",
@@ -1204,13 +1211,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cj9d0vn8dx3o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1784626148
-    },
-    {
-      "id": "f8a44c72fa0e",
-      "title": "台灣防空演習將首度模擬「斷網」，象徵防衛思維轉型？",
-      "url": "https://www.bbc.com/zhongwen/articles/cn5n4krydr7o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1784624596
     },
     {
       "id": "e98edebd6c95",
@@ -1395,5 +1395,5 @@
       "published": 1782903300
     }
   ],
-  "build_id": 1785288177
+  "build_id": 1785299937
 }
