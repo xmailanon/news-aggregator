@@ -1,6 +1,97 @@
 {
-  "updated": 1785533588,
+  "updated": 1785538114,
   "items": [
+    {
+      "id": "0dd4979d349e",
+      "title": "八一建军节 看将领们一个跟着一个落马",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260731-%E5%85%AB%E4%B8%80%E5%BB%BA%E5%86%9B%E8%8A%82-%E7%9C%8B%E5%B0%86%E9%A2%86%E4%BB%AC%E4%B8%80%E4%B8%AA%E8%B7%9F%E7%9D%80%E4%B8%80%E4%B8%AA%E8%90%BD%E9%A9%AC",
+      "source": "rfi.fr",
+      "published": 1785537787
+    },
+    {
+      "id": "2405c3a017f9",
+      "title": "美軍F-35戰機加州基地附近墜毀　飛行員彈射逃生送醫",
+      "url": "https://money.udn.com/money/story/5599/9664123",
+      "source": "money.udn.com",
+      "published": 1785537391
+    },
+    {
+      "id": "9481df5ef344",
+      "title": "中国强化AI科技监管　危害国家产业安全将“禁止出境”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260731-%E4%B8%AD%E5%9B%BD%E5%BC%BA%E5%8C%96ai%E7%A7%91%E6%8A%80%E7%9B%91%E7%AE%A1-%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E4%BA%A7%E4%B8%9A%E5%AE%89%E5%85%A8%E5%8F%AF%E7%A6%81%E6%AD%A2%E5%87%BA%E5%A2%83",
+      "source": "rfi.fr",
+      "published": 1785537229
+    },
+    {
+      "id": "d499fe7e532a",
+      "title": "悄无声息地，刚果大量的铀被运到了中国",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260731-%E6%82%84%E6%97%A0%E5%A3%B0%E6%81%AF%E5%9C%B0%EF%BC%8C%E5%88%9A%E6%9E%9C%E5%A4%A7%E9%87%8F%E7%9A%84%E9%93%80%E8%A2%AB%E8%BF%90%E5%88%B0%E4%BA%86%E4%B8%AD%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1785537119
+    },
+    {
+      "id": "2ea9ab0ef05e",
+      "title": "天文台發特別天氣提示 珠江口雷雨區未來數小時影響香港",
+      "url": "https://www.singtaousa.com/2026/07/31/news/china/special-weather-tip-thunderstorm-hong-kong/",
+      "source": "singtaousa.com",
+      "published": 1785536818
+    },
+    {
+      "id": "3334461bf01d",
+      "title": "伊朗戰事持續發酵　油價月線漲幅為3月以來最大",
+      "url": "https://money.udn.com/money/story/5599/9664120",
+      "source": "money.udn.com",
+      "published": 1785535968
+    },
+    {
+      "id": "fa1434ac36fd",
+      "title": "川普控伊朗食言　揚言將狠狠打擊讓他們撐不下去",
+      "url": "https://money.udn.com/money/story/5599/9664119",
+      "source": "money.udn.com",
+      "published": 1785535953
+    },
+    {
+      "id": "464e58638664",
+      "title": "虞書欣新造型差評",
+      "url": "https://www.singtaousa.com/2026/07/31/entertainment/yu-shu-xin-new-style-negative-reviews/",
+      "source": "singtaousa.com",
+      "published": 1785535200
+    },
+    {
+      "id": "d5a164755e78",
+      "title": "英国法院驳回阻止中国伦敦“超级使馆”诉讼 居民协会誓言继续抗争",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260731-%E8%8B%B1%E5%9B%BD%E6%B3%95%E9%99%A2%E9%A9%B3%E5%9B%9E%E9%98%BB%E6%AD%A2%E4%B8%AD%E5%9B%BD%E4%BC%A6%E6%95%A6-%E8%B6%85%E7%BA%A7%E4%BD%BF%E9%A6%86-%E8%AF%89%E8%AE%BC-%E5%B1%85%E6%B0%91%E5%8D%8F%E4%BC%9A%E8%AA%93%E8%A8%80%E7%BB%A7%E7%BB%AD%E6%8A%97%E4%BA%89",
+      "source": "rfi.fr",
+      "published": 1785534889
+    },
+    {
+      "id": "a592d6bc5060",
+      "title": "欧盟指责中国电商平台Temu阻碍反补贴调查",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260731-%E6%AC%A7%E7%9B%9F%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%8F%B0temu%E9%98%BB%E7%A2%8D%E5%8F%8D%E8%A1%A5%E8%B4%B4%E8%B0%83%E6%9F%A5",
+      "source": "rfi.fr",
+      "published": 1785534740
+    },
+    {
+      "id": "4ad48b064968",
+      "title": "6万移民涌入休达震动欧盟 意大利暂停与西班牙申根自由通行",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260731-6%E4%B8%87%E7%A7%BB%E6%B0%91%E6%B6%8C%E5%85%A5%E4%BC%91%E8%BE%BE%E9%9C%87%E5%8A%A8%E6%AC%A7%E7%9B%9F-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%9A%82%E5%81%9C%E4%B8%8E%E8%A5%BF%E7%8F%AD%E7%89%99%E7%94%B3%E6%A0%B9%E8%87%AA%E7%94%B1%E9%80%9A%E8%A1%8C",
+      "source": "rfi.fr",
+      "published": 1785534488
+    },
+    {
+      "id": "ead6dd379db0",
+      "title": "6万移民涌入休达酿欧洲最严重移民危机之一 法国加强西班牙边境管控",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260731-6%E4%B8%87%E7%A7%BB%E6%B0%91%E6%B6%8C%E5%85%A5%E4%BC%91%E8%BE%BE%E9%85%BF%E6%AC%A7%E6%B4%B2%E6%9C%80%E4%B8%A5%E9%87%8D%E7%A7%BB%E6%B0%91%E5%8D%B1%E6%9C%BA%E4%B9%8B%E4%B8%80-%E6%B3%95%E5%9B%BD%E5%8A%A0%E5%BC%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E8%BE%B9%E5%A2%83%E7%AE%A1%E6%8E%A7",
+      "source": "rfi.fr",
+      "published": 1785534353
+    },
+    {
+      "id": "9ffd3cbd1a2f",
+      "title": "亞馬遜財報利多加持 美股收紅",
+      "url": "https://money.udn.com/money/story/123398/9664085",
+      "source": "money.udn.com",
+      "published": 1785533784
+    },
     {
       "id": "fd2f64e58787",
       "title": "大圍私家車天橋底起火 司機及時逃生無人傷",
@@ -98,20 +189,6 @@
       "url": "https://www.singtaousa.com/2026/07/31/news/usa/automatic-adjustment-to-combat-inflation-california-announces-increase-in-minimum-wage-starting-on-new-years-day-2027/",
       "source": "singtaousa.com",
       "published": 1785526200
-    },
-    {
-      "id": "7da1c4dc15c7",
-      "title": "2026珠海必吃榜出爐：精選8間人氣粵菜餐廳攻略",
-      "url": "https://www.singtaousa.com/2026/07/31/news/china/zhuhai-cantonese-restaurants-guide-2026/",
-      "source": "singtaousa.com",
-      "published": 1785526018
-    },
-    {
-      "id": "964a361cef96",
-      "title": "難忍女婿公然偷食 水谷豐勒令趣里離婚",
-      "url": "https://www.singtaousa.com/2026/07/31/entertainment/unable-to-tolerate-his-son-in-law-stealing-food-openly-shui-gufeng-orders-quli-to-divorce/",
-      "source": "singtaousa.com",
-      "published": 1785524400
     },
     {
       "id": "fd961b851696",
@@ -219,13 +296,6 @@
       "published": 1785516934
     },
     {
-      "id": "a71aa82d47a3",
-      "title": "日銀利率維持1%不變",
-      "url": "https://money.udn.com/money/story/5599/9663910",
-      "source": "money.udn.com",
-      "published": 1785516798
-    },
-    {
       "id": "3b8004b59eb2",
       "title": "俄罗斯电商巨头旗下仓库为何成为乌克兰袭击目标？",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260731-%E4%BF%84%E7%BD%97%E6%96%AF%E7%94%B5%E5%95%86%E5%B7%A8%E5%A4%B4%E6%97%97%E4%B8%8B%E4%BB%93%E5%BA%93%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A2%AD%E5%87%BB%E7%9B%AE%E6%A0%87",
@@ -238,27 +308,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260731-%E9%9F%A9%E5%9B%BD%E5%A4%AE%E8%A1%8C-%E6%9C%9D%E9%B2%9C%E7%BB%8F%E6%B5%8E%E8%BF%9E%E7%BB%AD%E7%AC%AC3%E5%B9%B4%E5%A2%9E%E9%95%BF%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%88%E4%BD%9C%E6%98%AF%E9%87%8D%E8%A6%81%E5%8A%A8%E5%8A%9B",
       "source": "rfi.fr",
       "published": 1785514356
-    },
-    {
-      "id": "eee84e6b4922",
-      "title": "亞馬遜雲端變現 股價衝天 Q2每股純益5.75美元超預期",
-      "url": "https://money.udn.com/money/story/123398/9663944",
-      "source": "money.udn.com",
-      "published": 1785514272
-    },
-    {
-      "id": "50ba751fc2f2",
-      "title": "沙國護油 組海上防禦聯盟 川普宣布哈瑪斯解除武裝",
-      "url": "https://money.udn.com/money/story/5599/9663892",
-      "source": "money.udn.com",
-      "published": 1785514202
-    },
-    {
-      "id": "6aef0c17b4d6",
-      "title": "四大雲端業者今年投資衝24兆 AI支出力道依然穩固",
-      "url": "https://money.udn.com/money/story/5599/9663947",
-      "source": "money.udn.com",
-      "published": 1785514020
     },
     {
       "id": "8989ccb5ba7d",
@@ -520,27 +569,6 @@
       "published": 1785445973
     },
     {
-      "id": "88cdaec53ac0",
-      "title": "国际足联打算引入私人资本，欧足联一致威胁抵制世界杯",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260730-%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E6%89%93%E7%AE%97%E5%BC%95%E5%85%A5%E7%A7%81%E4%BA%BA%E8%B5%84%E6%9C%AC%EF%BC%8C%E6%AC%A7%E8%B6%B3%E8%81%94%E4%B8%80%E8%87%B4%E5%A8%81%E8%83%81%E6%8A%B5%E5%88%B6%E4%B8%96%E7%95%8C%E6%9D%AF",
-      "source": "rfi.fr",
-      "published": 1785442842
-    },
-    {
-      "id": "aa1f60b27f4b",
-      "title": "一枚导弹坠落波兰境内 华沙指责莫斯科是幕后黑手",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260730-%E4%B8%80%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%9D%A0%E8%90%BD%E6%B3%A2%E5%85%B0%E5%A2%83%E5%86%85-%E5%8D%8E%E6%B2%99%E6%8C%87%E8%B4%A3%E8%8E%AB%E6%96%AF%E7%A7%91%E6%98%AF%E5%B9%95%E5%90%8E%E9%BB%91%E6%89%8B",
-      "source": "rfi.fr",
-      "published": 1785442821
-    },
-    {
-      "id": "7119ea9b5bf7",
-      "title": "白宫：中国涉搜集约2.2亿笔美国选民资料长期选举干预",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260730-%E7%99%BD%E5%AE%AB-%E4%B8%AD%E5%9B%BD%E6%B6%89%E6%90%9C%E9%9B%86%E7%BA%A62-2%E4%BA%BF%E7%AC%94%E7%BE%8E%E5%9B%BD%E9%80%89%E6%B0%91%E8%B5%84%E6%96%99%E9%95%BF%E6%9C%9F%E9%80%89%E4%B8%BE%E5%B9%B2%E9%A2%84",
-      "source": "rfi.fr",
-      "published": 1785442427
-    },
-    {
       "id": "ac6071e09a77",
       "title": "人到中年，九个可能帮助你延长寿命的习惯",
       "url": "https://cn.nytimes.com/health/20260731/longevity-expert-tips-middle-age/?utm_source=RSS",
@@ -548,32 +576,11 @@
       "published": 1785433961
     },
     {
-      "id": "f3da014bd2c8",
-      "title": "法国西班牙大火有望平息 希腊克里特岛火灾8000人撤离",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260730-%E6%B3%95%E5%9B%BD%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%A7%E7%81%AB%E6%9C%89%E6%9C%9B%E5%B9%B3%E6%81%AF-%E5%B8%8C%E8%85%8A%E5%85%8B%E9%87%8C%E7%89%B9%E5%B2%9B%E7%81%AB%E7%81%BE8000%E4%BA%BA%E6%92%A4%E7%A6%BB",
-      "source": "rfi.fr",
-      "published": 1785432466
-    },
-    {
       "id": "f1d6859a8d47",
       "title": "福奇听证会，一场政治闹剧",
       "url": "https://cn.nytimes.com/opinion/20260731/anthony-fauci-hearing-covid/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1785432366
-    },
-    {
-      "id": "0ee9ac526bf0",
-      "title": "路透：中国共产党将于10月召开内部治理会议（五中全会）",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260730-%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E5%B0%86%E4%BA%8E10%E6%9C%88%E5%8F%AC%E5%BC%80%E5%86%85%E9%83%A8%E6%B2%BB%E7%90%86%E4%BC%9A%E8%AE%AE-%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A",
-      "source": "rfi.fr",
-      "published": 1785430982
-    },
-    {
-      "id": "4d836afd0335",
-      "title": "新西兰外长呛中国出生议员“滚回你的国家”中国驻该国大使抗议",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260730-%E6%96%B0%E8%A5%BF%E5%85%B0%E5%A4%96%E9%95%BF%E5%91%9B%E4%B8%AD%E5%9B%BD%E5%87%BA%E7%94%9F%E8%AE%AE%E5%91%98-%E6%BB%9A%E5%9B%9E%E4%BD%A0%E7%9A%84%E5%9B%BD%E5%AE%B6-%E4%B8%AD%E5%9B%BD%E9%A9%BB%E8%AF%A5%E5%9B%BD%E5%A4%A7%E4%BD%BF%E6%8A%97%E8%AE%AE",
-      "source": "rfi.fr",
-      "published": 1785428958
     },
     {
       "id": "ca6aa2bff0c8",
@@ -833,13 +840,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c0rdvn5npelo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1785370637
-    },
-    {
-      "id": "4dbc27318a6a",
-      "title": "除了抓住中国和朝鲜不放  普京还有什么盟友",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260729-%E9%99%A4%E4%BA%86%E6%8A%93%E4%BD%8F%E4%B8%AD%E5%9B%BD%E5%92%8C%E6%9C%9D%E9%B2%9C%E4%B8%8D%E6%94%BE-%E6%99%AE%E4%BA%AC%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E7%9B%9F%E5%8F%8B",
-      "source": "rfi.fr",
-      "published": 1785364968
     },
     {
       "id": "4f84ab646d1a",
@@ -1402,5 +1402,5 @@
       "published": 1783081080
     }
   ],
-  "build_id": 1785533588
+  "build_id": 1785538114
 }
