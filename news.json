@@ -1,6 +1,55 @@
 {
-  "updated": 1785965955,
+  "updated": 1785970001,
   "items": [
+    {
+      "id": "18734eaeb49c",
+      "title": "CDC新掌門人確認 提名曾引爭議",
+      "url": "https://www.singtaousa.com/2026/08/05/news/usa/new-cdc-director-confirmed-erica-shwartz/",
+      "source": "singtaousa.com",
+      "published": 1785969249
+    },
+    {
+      "id": "cf2d02efb9d5",
+      "title": "致命真菌襲23州  美国疾控中心发警告",
+      "url": "https://www.singtaousa.com/2026/08/05/news/usa/deadly-fungus-strikes-23-states/",
+      "source": "singtaousa.com",
+      "published": 1785969236
+    },
+    {
+      "id": "bdc073ec1bb5",
+      "title": "佛州牧師隱瞞染愛滋涉性侵十四歲少年被捕",
+      "url": "https://www.singtaousa.com/2026/08/05/news/usa/florida-pastor-who-concealed-his-hiv-status-was-arrested-for-sexually-assaulting-a-14-year-old-boy/",
+      "source": "singtaousa.com",
+      "published": 1785969000
+    },
+    {
+      "id": "8b42ac0606f0",
+      "title": "伊朗協議傳利好　美股高位徘徊再創新高",
+      "url": "https://www.singtaousa.com/2026/08/05/news/usa/the-iran-deal-is-rumored-to-be-positive-u-s-stocks-hover-at-highs-and-reach-new-highs/",
+      "source": "singtaousa.com",
+      "published": 1785968100
+    },
+    {
+      "id": "a5614d6e30ae",
+      "title": "房協鴻鵠臺第一座入伙 安置觀塘花園大廈重建居民",
+      "url": "https://www.singtaousa.com/2026/08/05/news/china/housing-society-relocation-estate-first-block-occupancy/",
+      "source": "singtaousa.com",
+      "published": 1785967022
+    },
+    {
+      "id": "40e4dd7aa3d2",
+      "title": "美伊有望達成協議　國際油價連3跌",
+      "url": "https://money.udn.com/money/story/5599/9673681",
+      "source": "money.udn.com",
+      "published": 1785966862
+    },
+    {
+      "id": "29a7afd08449",
+      "title": "SpaceX財報發布後　股價暴跌13.6%市值蒸發逾7兆",
+      "url": "https://money.udn.com/money/story/123398/9673678",
+      "source": "money.udn.com",
+      "published": 1785966331
+    },
     {
       "id": "f5823d319976",
       "title": "藍田平田邨中年男子於單位內輕生 母親發現後報案",
@@ -128,32 +177,18 @@
       "published": 1785961597
     },
     {
+      "id": "136661884258",
+      "title": "能捕食动物肉的植物在中国被发现",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260805-%E8%83%BD%E6%8D%95%E9%A3%9F%E5%8A%A8%E7%89%A9%E8%82%89%E7%9A%84%E6%A4%8D%E7%89%A9%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%A2%AB%E5%8F%91%E7%8E%B0",
+      "source": "rfi.fr",
+      "published": 1785960427
+    },
+    {
       "id": "4b1c68ef7941",
       "title": "伊朗稱已與阿曼同意荷莫茲海峽通行航道 海峽重開與否取決美國",
       "url": "https://money.udn.com/money/story/5599/9673655",
       "source": "money.udn.com",
       "published": 1785960029
-    },
-    {
-      "id": "04fb3c0b782b",
-      "title": "葛蘭安詳離世享年93歲  《曼波女郎》成經典",
-      "url": "https://www.singtaousa.com/2026/08/05/entertainment/grace-lam-passes-away-93/",
-      "source": "singtaousa.com",
-      "published": 1785960000
-    },
-    {
-      "id": "0ab4ef33eed6",
-      "title": "大埔太和路凌晨電單車失事 34歲男司機清醒送院",
-      "url": "https://www.singtaousa.com/2026/08/05/news/china/tai-po-motorcycle-crash-driver-hospitalized/",
-      "source": "singtaousa.com",
-      "published": 1785959817
-    },
-    {
-      "id": "52c35ba326fa",
-      "title": "FIFA出售案惹議 因凡蒂諾赴摩洛哥開會救火",
-      "url": "https://www.singtaousa.com/2026/08/05/news/world/gianni-infantino-holds-crisis-meeting-in-morocco-as-fifa-stake-sale-fallout-continues/",
-      "source": "singtaousa.com",
-      "published": 1785958932
     },
     {
       "id": "4e26b056404d",
@@ -163,25 +198,11 @@
       "published": 1785958591
     },
     {
-      "id": "f93a019120eb",
-      "title": "蘇丹童兵憶述遭哥倫比亞傭兵脅迫作戰",
-      "url": "https://www.singtaousa.com/2026/08/05/news/world/child-soldiers-recount-horrors-of-sudans-war-and-presence-of-colombian-mercenaries/",
-      "source": "singtaousa.com",
-      "published": 1785958434
-    },
-    {
       "id": "053cf791bf94",
       "title": "俄近30枚导弹炸基辅 “爱国者”防空导弹议题变中有变",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260805-%E4%BF%84%E8%BF%9130%E6%9E%9A%E5%AF%BC%E5%BC%B9%E7%82%B8%E5%9F%BA%E8%BE%85-%E7%88%B1%E5%9B%BD%E8%80%85-%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9%E8%AE%AE%E9%A2%98%E5%8F%98%E4%B8%AD%E6%9C%89%E5%8F%98",
       "source": "rfi.fr",
       "published": 1785958072
-    },
-    {
-      "id": "d75914bca923",
-      "title": "內蒙古景區幼童誤觸越野車失控 家長與遊客合力攔截",
-      "url": "https://www.singtaousa.com/2026/08/05/news/china/inner-mongolia-children-dune-buggy-out-of-control/",
-      "source": "singtaousa.com",
-      "published": 1785958016
     },
     {
       "id": "38e013c18e67",
@@ -289,25 +310,11 @@
       "published": 1785946238
     },
     {
-      "id": "55ddffa0b8c1",
-      "title": "迪士尼TikTok達協議　允短影音創作者運用角色及場景",
-      "url": "https://money.udn.com/money/story/5599/9673556",
-      "source": "money.udn.com",
-      "published": 1785945271
-    },
-    {
       "id": "f7c292eaf2f5",
       "title": "涉太阳能电池板与半导体芯片领域 美国拟借“232条款”设多晶硅底价并征税",
       "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260805-%E6%B6%89%E5%A4%AA%E9%98%B3%E8%83%BD%E7%94%B5%E6%B1%A0%E6%9D%BF%E4%B8%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%8A%AF%E7%89%87%E9%A2%86%E5%9F%9F-%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%80%9F-232%E6%9D%A1%E6%AC%BE-%E8%AE%BE%E5%A4%9A%E6%99%B6%E7%A1%85%E5%BA%95%E4%BB%B7%E5%B9%B6%E5%BE%81%E7%A8%8E",
       "source": "rfi.fr",
       "published": 1785944394
-    },
-    {
-      "id": "4a02bb5aa37c",
-      "title": "倫敦市中心柯芬園4男遭刺傷　一女涉持械攻擊被捕",
-      "url": "https://money.udn.com/money/story/5599/9673529",
-      "source": "money.udn.com",
-      "published": 1785943843
     },
     {
       "id": "fcc5d2cc8970",
@@ -504,13 +511,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260805-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%83%85%E6%8A%A5%E5%AE%98%E5%91%98%E7%A7%B0-%E6%9C%9D%E9%B2%9C%E5%B7%B2%E5%BC%80%E5%A7%8B%E5%90%91%E4%BF%84%E7%BD%97%E6%96%AF%E8%A5%BF%E9%83%A8%E9%83%A8%E7%BD%B2%E5%AF%BC%E5%BC%B9%E9%83%A8%E9%98%9F",
       "source": "rfi.fr",
       "published": 1785917755
-    },
-    {
-      "id": "9c5933219f71",
-      "title": "长崎32个原子弹受害组织抗议防卫大臣与高市政权欲否定“无核三原则”",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260805-%E9%95%BF%E5%B4%8E32%E4%B8%AA%E5%8E%9F%E5%AD%90%E5%BC%B9%E5%8F%97%E5%AE%B3%E7%BB%84%E7%BB%87%E6%8A%97%E8%AE%AE%E9%98%B2%E5%8D%AB%E5%A4%A7%E8%87%A3%E4%B8%8E%E9%AB%98%E5%B8%82%E6%94%BF%E6%9D%83%E6%AC%B2%E5%90%A6%E5%AE%9A-%E6%97%A0%E6%A0%B8%E4%B8%89%E5%8E%9F%E5%88%99",
-      "source": "rfi.fr",
-      "published": 1785913610
     },
     {
       "id": "eca664b33338",
@@ -1353,5 +1353,5 @@
       "published": 1783592940
     }
   ],
-  "build_id": 1785965955
+  "build_id": 1785970001
 }
