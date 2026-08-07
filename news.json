@@ -1,12 +1,187 @@
 {
-  "updated": 1786110256,
+  "updated": 1786113777,
   "items": [
     {
-      "id": "d7428cfc88f2",
-      "title": "羅啟豪《Come聽》近距離開唱 私人歌單致敬音樂人",
-      "url": "https://www.singtaousa.com/2026/08/07/entertainment/kenny-lo-livehouse-tribute-show/",
+      "id": "b466aa6c6a08",
+      "title": "土耳其、巴基斯坦與沙特阿拉伯簽署三國聯合防務協議",
+      "url": "https://www.singtaousa.com/2026/08/07/news/world/t%c3%bcrkiye-pakistan-and-saudi-arabia-sign-trilateral-joint-defense-agreement/",
       "source": "singtaousa.com",
-      "published": 1786109354
+      "published": 1786113460
+    },
+    {
+      "id": "a6ef7987ae35",
+      "title": "台大新研所洪贞玲、林丽云教授谈：AI时代的新闻教育、真实性与台湾媒体处境",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%AD%E5%8D%8E%E4%B8%96%E7%95%8C/20260807-%E5%8F%B0%E5%A4%A7%E6%B4%AA%E8%B4%9E%E7%8E%B2%E4%B8%8E%E6%9E%97%E4%B8%BD%E4%BA%91ai%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0%E9%97%BB%E6%95%99%E8%82%B2-%E5%AA%92%E4%BD%93%E7%9C%9F%E5%AE%9E%E4%B8%8E%E5%8F%B0%E6%B9%BE%E5%A4%84%E5%A2%83",
+      "source": "rfi.fr",
+      "published": 1786113020
+    },
+    {
+      "id": "b739ac4c5000",
+      "title": "泰國暖武里府校園槍擊案 槍手疑住所殺死祖父母後再行兇",
+      "url": "https://www.singtaousa.com/2026/08/07/news/world/school-shooting-in-nonthaburi-thailand-suspected-gunman-killed-grandparents-at-their-residence-before-committing-another-attack/",
+      "source": "singtaousa.com",
+      "published": 1786112938
+    },
+    {
+      "id": "3ce29d6e3631",
+      "title": "沙特阿拉伯与土耳其巴基斯坦签署防务协议：袭击一国等同袭击三国",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260807-%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B8%8E%E5%9C%9F%E8%80%B3%E5%85%B6%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%AD%BE%E7%BD%B2%E9%98%B2%E5%8A%A1%E5%8D%8F%E8%AE%AE-%E8%A2%AD%E5%87%BB%E4%B8%80%E5%9B%BD%E7%AD%89%E5%90%8C%E8%A2%AD%E5%87%BB%E4%B8%89%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1786112017
+    },
+    {
+      "id": "c2db3f2fa765",
+      "title": "美7月非農就業人數意外減　標普與那指雙雙開高",
+      "url": "https://money.udn.com/money/story/123398/9678147",
+      "source": "money.udn.com",
+      "published": 1786111947
+    },
+    {
+      "id": "0b13e805b6fe",
+      "title": "力拓和必和必拓據稱受邀參加川普的關鍵礦產會議",
+      "url": "https://money.udn.com/money/story/5599/9676727",
+      "source": "money.udn.com",
+      "published": 1786111898
+    },
+    {
+      "id": "6c81ed152b79",
+      "title": "武漢醫療團隊以創新「懸吊法」成功救治罕見「先天性巨大臍膨出」男嬰",
+      "url": "https://www.singtaousa.com/2026/08/07/news/china/miracle-surgery-rare-birth-defect-suspension-method/",
+      "source": "singtaousa.com",
+      "published": 1786111232
+    },
+    {
+      "id": "f2430074ca68",
+      "title": "Alphabet擬發債融資250億",
+      "url": "https://www.singtaousa.com/2026/08/07/news/usa/alphabet-bond-financing/",
+      "source": "singtaousa.com",
+      "published": 1786111200
+    },
+    {
+      "id": "ba0798e30d2e",
+      "title": "英偉達組建AI安全團隊 押注開放權重模型",
+      "url": "https://www.singtaousa.com/2026/08/07/news/usa/nvidia-ai-safety-team-open-weight/",
+      "source": "singtaousa.com",
+      "published": 1786111200
+    },
+    {
+      "id": "1441a12c3f03",
+      "title": "Howmet Aerospace   市場前景向好",
+      "url": "https://www.singtaousa.com/2026/08/07/news/usa/howmet-aerospace-market-outlook/",
+      "source": "singtaousa.com",
+      "published": 1786111200
+    },
+    {
+      "id": "7ba8301d4907",
+      "title": "新藥業務勢猛   強生上修財測",
+      "url": "https://www.singtaousa.com/2026/08/07/news/usa/new-drug-business-strong-johnson-adjusts-forecast/",
+      "source": "singtaousa.com",
+      "published": 1786111200
+    },
+    {
+      "id": "df32b6c68b66",
+      "title": "貝佐斯年內首次減持亞馬遜",
+      "url": "https://www.singtaousa.com/2026/08/07/news/usa/bezos-sells-amazon-stocks/",
+      "source": "singtaousa.com",
+      "published": 1786111200
+    },
+    {
+      "id": "b9a6ffbc3f48",
+      "title": "Uber業績無驚喜 展望趨平淡",
+      "url": "https://www.singtaousa.com/2026/08/07/news/usa/uber-earnings-outlook-flat/",
+      "source": "singtaousa.com",
+      "published": 1786111200
+    },
+    {
+      "id": "b8bca0802593",
+      "title": "「雙引擎」發威 迪士尼財報喜",
+      "url": "https://www.singtaousa.com/2026/08/07/news/usa/disney-earnings-streaming-theater/",
+      "source": "singtaousa.com",
+      "published": 1786111200
+    },
+    {
+      "id": "f32e85df954e",
+      "title": "故意觸身球引爆大場面",
+      "url": "https://www.singtaousa.com/2026/08/07/news/usa/intentional-hit-by-pitch-sparks-brawl/",
+      "source": "singtaousa.com",
+      "published": 1786111200
+    },
+    {
+      "id": "0a8ec953fae7",
+      "title": "席斯與揚基王牌爭塞揚",
+      "url": "https://www.singtaousa.com/2026/08/07/news/usa/cesar-yankees-cy-young/",
+      "source": "singtaousa.com",
+      "published": 1786111200
+    },
+    {
+      "id": "b47630387654",
+      "title": "德语媒体：台湾开始练习抵抗",
+      "url": "https://www.dw.com/zh/德语媒体：台湾开始练习抵抗/a-78282100?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1786111140
+    },
+    {
+      "id": "559cd4ff4996",
+      "title": "中国海警船与军舰南海相撞1年后 官方证实2人死亡追授“烈士”",
+      "url": "https://www.dw.com/zh/中国海警船与军舰南海相撞1年后-官方证实2人死亡追授-烈士/a-78282773?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1786110960
+    },
+    {
+      "id": "df9890edbf03",
+      "title": "土耳其與沙烏地及巴基斯坦簽防禦協定　澄清無針對性",
+      "url": "https://money.udn.com/money/story/5599/9678119",
+      "source": "money.udn.com",
+      "published": 1786110881
+    },
+    {
+      "id": "fa1721b254f3",
+      "title": "美股早盤／四大指數走高 就業意外爆冷提高 Fed 按兵不動可能性",
+      "url": "https://money.udn.com/money/story/123398/9678117",
+      "source": "money.udn.com",
+      "published": 1786110868
+    },
+    {
+      "id": "79d1b9671476",
+      "title": "俄油轮阿曼搁浅 生态灾难一触即发",
+      "url": "https://www.dw.com/zh/俄油轮阿曼搁浅-生态灾难一触即发/a-78282518?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1786110180
+    },
+    {
+      "id": "51dbc4c71139",
+      "title": "美國7月非農就業意外減少2.3萬人　失業率降至4.1%",
+      "url": "https://money.udn.com/money/story/5599/9678100",
+      "source": "money.udn.com",
+      "published": 1786109827
+    },
+    {
+      "id": "db6a2fa13ecd",
+      "title": "債券交易員嚴陣以待 非農就業數據或左右聯準會9月升息前景",
+      "url": "https://money.udn.com/money/story/5599/9677577",
+      "source": "money.udn.com",
+      "published": 1786109694
+    },
+    {
+      "id": "248bd3343dda",
+      "title": "路透社民調：美國民主黨進步派部分主張獲獨立選民支持",
+      "url": "https://money.udn.com/money/story/5599/9678094",
+      "source": "money.udn.com",
+      "published": 1786109514
+    },
+    {
+      "id": "5f5d5cf19582",
+      "title": "巴西南部「炸彈氣旋」襲擊　極端天候衝擊社會生活",
+      "url": "https://money.udn.com/money/story/5599/9678087",
+      "source": "money.udn.com",
+      "published": 1786109468
+    },
+    {
+      "id": "3094889962aa",
+      "title": "“汉光演习”：赖清德亲自参与 首度封锁淡江大桥",
+      "url": "https://www.dw.com/zh/汉光演习-：赖清德亲自参与-首度封锁淡江大桥/a-78262718?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1786109400
     },
     {
       "id": "1e5555155980",
@@ -14,13 +189,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260807-%E4%BF%84%E7%BD%97%E6%96%AF%E7%94%B5%E5%95%86%E5%B7%A8%E5%A4%B4%E5%86%8D%E9%81%AD%E8%A2%AD-%E5%8F%B6%E5%8D%A1%E6%8D%B7%E7%90%B3%E5%A0%A1%E4%B8%80%E7%89%A9%E6%B5%81%E4%B8%AD%E5%BF%83%E8%B5%B7%E7%81%AB",
       "source": "rfi.fr",
       "published": 1786109328
-    },
-    {
-      "id": "4f2e9089b5e8",
-      "title": "江西2歲半男童小腸氣漏診致死 接診醫生被判監一年",
-      "url": "https://www.singtaousa.com/2026/08/07/news/china/jiangxi-child-hernia-misdiagnosis-doctor-jailed/",
-      "source": "singtaousa.com",
-      "published": 1786109219
     },
     {
       "id": "2a8037a2803d",
@@ -79,76 +247,6 @@
       "published": 1786107690
     },
     {
-      "id": "adf9558f7944",
-      "title": "紐森倡改革山火賠償   限保險公司可獲金額",
-      "url": "https://www.singtaousa.com/2026/08/07/news/usa/newsom-reform-wildfire-compensation/",
-      "source": "singtaousa.com",
-      "published": 1786107600
-    },
-    {
-      "id": "fd57363a5322",
-      "title": "加州健保里程碑瀕崩解   四年後220萬人失保障",
-      "url": "https://www.singtaousa.com/2026/08/07/news/usa/california-healthcare-crisis-loss/",
-      "source": "singtaousa.com",
-      "published": 1786107600
-    },
-    {
-      "id": "811311347e43",
-      "title": "11月州級提案 掀競選資金大戰",
-      "url": "https://www.singtaousa.com/2026/08/07/news/usa/november-state-proposal-campaign-funding/",
-      "source": "singtaousa.com",
-      "published": 1786107600
-    },
-    {
-      "id": "2b3251b7d1be",
-      "title": "第二屆「舌尖上的加州」頒獎典禮暨藥食同源週年慶慈善籌款晚會",
-      "url": "https://www.singtaousa.com/2026/08/07/news/usa/second-california-taste-awards/",
-      "source": "singtaousa.com",
-      "published": 1786107600
-    },
-    {
-      "id": "e6d5881fd2d5",
-      "title": "屋崙小童駕車闖禍遛狗女被撞危殆",
-      "url": "https://www.singtaousa.com/2026/08/07/news/usa/child-drives-car-accident-dog-walker/",
-      "source": "singtaousa.com",
-      "published": 1786107600
-    },
-    {
-      "id": "f03b35f43bdd",
-      "title": "威善高利用AI攻擊陳詩敏餘波未了   普洛西偕聯邦眾議員齊轟濫用科技",
-      "url": "https://www.singtaousa.com/2026/08/07/news/usa/scott-wiener-ai-attack/",
-      "source": "singtaousa.com",
-      "published": 1786107600
-    },
-    {
-      "id": "eb09da1f0da4",
-      "title": "福斯特市住宅大火一住客被捕 陽台燃氣烤爐無人看管釀成災",
-      "url": "https://www.singtaousa.com/2026/08/07/news/usa/foster-city-fire-arrest/",
-      "source": "singtaousa.com",
-      "published": 1786107600
-    },
-    {
-      "id": "6e5d1d5d726b",
-      "title": "屋崙聯合執法四個月 掃槍枝除隱患",
-      "url": "https://www.singtaousa.com/2026/08/07/news/usa/oakland-joint-law-enforcement-gun-violence/",
-      "source": "singtaousa.com",
-      "published": 1786107600
-    },
-    {
-      "id": "f8486d4611e4",
-      "title": "李卡多籲灣區聯手 阻ICE設拘留中心",
-      "url": "https://www.singtaousa.com/2026/08/07/news/usa/liccardo-bay-area-ice-center/",
-      "source": "singtaousa.com",
-      "published": 1786107600
-    },
-    {
-      "id": "a04b6fd963bb",
-      "title": "租金高漲求房難 騙徒趁機斂財",
-      "url": "https://www.singtaousa.com/2026/08/07/news/usa/rental-fraud-sf-rising-rent/",
-      "source": "singtaousa.com",
-      "published": 1786107600
-    },
-    {
       "id": "da120ed76c1a",
       "title": "英國金融時報稱美國賣歐元、買日圓的干預行動 歐洲被蒙在鼓裡",
       "url": "https://money.udn.com/money/story/5599/9676726",
@@ -185,7 +283,7 @@
     },
     {
       "id": "633cb9f939f1",
-      "title": "南韓外交部統一部公然對北韓政策意見相左　暴露內部歧見",
+      "title": "南韓外交部統一部公然對北韓政策意見相左 暴露內部歧見",
       "url": "https://money.udn.com/money/story/5599/9678024",
       "source": "money.udn.com",
       "published": 1786106206
@@ -196,62 +294,6 @@
       "url": "https://money.udn.com/money/story/5599/9676444",
       "source": "money.udn.com",
       "published": 1786105760
-    },
-    {
-      "id": "48c80187cf28",
-      "title": "新加坡月薪3萬新元人才簽證自推出以來 持有人數量成長逾一倍",
-      "url": "https://money.udn.com/money/story/5599/9676728",
-      "source": "money.udn.com",
-      "published": 1786105043
-    },
-    {
-      "id": "a23d55bd1f09",
-      "title": "避險基金 Situational Awareness 的4億美元押注流向紅杉支持的一家公司",
-      "url": "https://money.udn.com/money/story/5599/9676342",
-      "source": "money.udn.com",
-      "published": 1786105023
-    },
-    {
-      "id": "f5c06fc5df85",
-      "title": "里昂證券日本策略師據悉辭職 先前已有多名主管離職",
-      "url": "https://money.udn.com/money/story/5599/9677215",
-      "source": "money.udn.com",
-      "published": 1786104833
-    },
-    {
-      "id": "1f9f0d516414",
-      "title": "越南家扶串聯台越青年　攜手在地醫療守護兒童健康",
-      "url": "https://money.udn.com/money/story/5599/9677997",
-      "source": "money.udn.com",
-      "published": 1786104754
-    },
-    {
-      "id": "3fd1eaabd40b",
-      "title": "滙豐出售東京總部大樓 計畫遷至新的綜合辦公樓",
-      "url": "https://money.udn.com/money/story/5599/9677358",
-      "source": "money.udn.com",
-      "published": 1786104322
-    },
-    {
-      "id": "f36fdab16c3c",
-      "title": "泰國槍擊案致8死　包括學校2名教師3名職員",
-      "url": "https://money.udn.com/money/story/5599/9677969",
-      "source": "money.udn.com",
-      "published": 1786103722
-    },
-    {
-      "id": "be439c579aa9",
-      "title": "泰少年槍擊案震驚社會　學者：多重因素交織極端暴力",
-      "url": "https://money.udn.com/money/story/5599/9677968",
-      "source": "money.udn.com",
-      "published": 1786103702
-    },
-    {
-      "id": "c5be91981923",
-      "title": "中國籍男藏身挪威軍事碉堡 引國安疑慮遭驅逐",
-      "url": "https://money.udn.com/money/story/5599/9677967",
-      "source": "money.udn.com",
-      "published": 1786103682
     },
     {
       "id": "66f2c0cc8f86",
@@ -695,27 +737,6 @@
       "published": 1786013984
     },
     {
-      "id": "be6a8bb678ad",
-      "title": "脱下军装的敏昂莱抗议声中首访泰国：推动双边关系正常化以绕过东盟层面的掣肘",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260806-%E6%8A%97%E8%AE%AE%E5%A3%B0%E4%B8%AD%E8%84%B1%E4%B8%8B%E5%86%9B%E8%A3%85%E7%9A%84%E6%95%8F%E6%98%82%E8%8E%B1%E9%A6%96%E8%AE%BF%E6%B3%B0%E5%9B%BD-%E6%8E%A8%E5%8A%A8%E5%8F%8C%E8%BE%B9%E5%85%B3%E7%B3%BB%E6%AD%A3%E5%B8%B8%E5%8C%96%E4%BB%A5%E7%BB%95%E8%BF%87%E4%B8%9C%E7%9B%9F%E5%B1%82%E9%9D%A2%E7%9A%84%E6%8E%A3%E8%82%98",
-      "source": "rfi.fr",
-      "published": 1786013343
-    },
-    {
-      "id": "1c5ca439ffae",
-      "title": "中国海警船与军舰南海相撞发生近1年后 官方证实2名烈士被追授武警忠诚卫士",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260806-%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E4%B8%8E%E5%86%9B%E8%88%B0%E5%8D%97%E6%B5%B7%E7%9B%B8%E6%92%9E%E5%8F%91%E7%94%9F%E8%BF%911%E5%B9%B4%E5%90%8E-%E5%AE%98%E6%96%B9%E8%AF%81%E5%AE%9E2%E5%90%8D%E7%83%88%E5%A3%AB%E8%A2%AB%E8%BF%BD%E6%8E%88%E6%AD%A6%E8%AD%A6%E5%BF%A0%E8%AF%9A%E5%8D%AB%E5%A3%AB",
-      "source": "rfi.fr",
-      "published": 1786012399
-    },
-    {
-      "id": "6b3806590d83",
-      "title": "赖清德亲自参与“汉光演习”",
-      "url": "https://www.dw.com/zh/赖清德亲自参与-汉光演习/a-78262718?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1786011060
-    },
-    {
       "id": "d4a627cacfce",
       "title": "莱比锡机场惊现炸药无人机 德媒：近旁乌克兰货机运有弹药",
       "url": "https://www.dw.com/zh/莱比锡机场惊现炸药无人机-德媒：近旁乌克兰货机运有弹药/a-78262280?maca=chi-rss-chi-all-1127-rdf",
@@ -833,27 +854,6 @@
       "url": "https://www.ftchinese.com/story/001110541",
       "source": "ftchinese.com",
       "published": 1785945600
-    },
-    {
-      "id": "770ba89e535f",
-      "title": "墨西哥网红直播过程中遭枪杀",
-      "url": "https://www.dw.com/zh/墨西哥网红直播过程中遭枪杀/a-78252416?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1785938460
-    },
-    {
-      "id": "efb5a6008f43",
-      "title": "台湾调查局指中企非法招募在台高科技人才",
-      "url": "https://www.dw.com/zh/台湾调查局指中企非法招募在台高科技人才/a-78251031?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1785938040
-    },
-    {
-      "id": "a873498390a8",
-      "title": "反制美国 中国加强无人机对美出口管制",
-      "url": "https://www.dw.com/zh/反制美国-中国加强无人机对美出口管制/a-78250486?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1785936360
     },
     {
       "id": "3bb4918cd329",
@@ -1241,13 +1241,6 @@
       "published": 1785074040
     },
     {
-      "id": "c3e84ce5d0b7",
-      "title": "墙外文摘：中国跨国镇压针对美国公民，特朗普退缩堪忧",
-      "url": "https://www.dw.com/zh/墙外文摘：中国跨国镇压针对美国公民，特朗普退缩堪忧/a-78119923?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1785068160
-    },
-    {
       "id": "2e85f2df89b1",
       "title": "轰炸13天后美国暂停空袭伊朗 弹药库存不足？",
       "url": "https://www.dw.com/zh/轰炸13天后美国暂停空袭伊朗-弹药库存不足？/a-78118929?maca=chi-rss-chi-all-1127-rdf",
@@ -1267,13 +1260,6 @@
       "url": "https://www.dw.com/zh/为何年轻人找工作那么难？/a-78055913?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1785051060
-    },
-    {
-      "id": "65acb3aa4db6",
-      "title": "长平观察：“我又不是书店店员”",
-      "url": "https://www.dw.com/zh/长平观察：-我又不是书店店员/a-78102827?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1784899080
     },
     {
       "id": "958394c3a9af",
@@ -1360,5 +1346,5 @@
       "published": 1783592940
     }
   ],
-  "build_id": 1786110256
+  "build_id": 1786113777
 }
