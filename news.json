@@ -1,6 +1,34 @@
 {
-  "updated": 1786202247,
+  "updated": 1786204329,
   "items": [
+    {
+      "id": "069ff8fb5472",
+      "title": "俄罗斯老牌反对党打算重出江湖要求“停止杀戮”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260808-%E4%BF%84%E7%BD%97%E6%96%AF%E8%80%81%E7%89%8C%E5%8F%8D%E5%AF%B9%E5%85%9A%E6%89%93%E7%AE%97%E9%87%8D%E5%87%BA%E6%B1%9F%E6%B9%96%E8%A6%81%E6%B1%82-%E5%81%9C%E6%AD%A2%E6%9D%80%E6%88%AE",
+      "source": "rfi.fr",
+      "published": 1786203398
+    },
+    {
+      "id": "a47fb5c4dcb0",
+      "title": "香港機場海關偵破毒品案 檢獲約200萬元大麻花拘捕兩內地男子",
+      "url": "https://www.singtaousa.com/2026/08/08/news/china/airport-customs-seizes-marijuana-thailand/",
+      "source": "singtaousa.com",
+      "published": 1786202820
+    },
+    {
+      "id": "e38068102824",
+      "title": "波克夏上季獲利翻倍 大買庫藏股 再加碼Alphabet",
+      "url": "https://money.udn.com/money/story/5599/9679572",
+      "source": "money.udn.com",
+      "published": 1786202219
+    },
+    {
+      "id": "254f3df6e18f",
+      "title": "貝瑞警告1987崩盤重演可信嗎？專家：「萬年空頭」忽略美股重要事實",
+      "url": "https://money.udn.com/money/story/123398/9679580",
+      "source": "money.udn.com",
+      "published": 1786201790
+    },
     {
       "id": "3cec950cd755",
       "title": "大姐明林建明網上賣保時捷實踐斷捨離 背後蘊含人生體悟",
@@ -124,13 +152,6 @@
       "id": "9d9ed104eaf7",
       "title": "因緣際會 道奇五大王牌邁向完全體",
       "url": "https://www.singtaousa.com/2026/08/08/news/usa/dodgers-five-aces-complete/",
-      "source": "singtaousa.com",
-      "published": 1786197600
-    },
-    {
-      "id": "302b484cd411",
-      "title": "紅襪劍指美聯龍頭",
-      "url": "https://www.singtaousa.com/2026/08/08/news/usa/red-sox-aim-for-american-league-lead/",
       "source": "singtaousa.com",
       "published": 1786197600
     },
@@ -273,20 +294,6 @@
       "url": "https://www.dw.com/zh/台风-白海豚-袭日后逼近华东-中国管制台海航行遭台谴责/a-78287611?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786183440
-    },
-    {
-      "id": "64800d5c1c65",
-      "title": "颱風白海豚侵襲日本沖繩、鹿兒島　至少6人受傷",
-      "url": "https://money.udn.com/money/story/5599/9679308",
-      "source": "money.udn.com",
-      "published": 1786182891
-    },
-    {
-      "id": "738577d7cd05",
-      "title": "泰國少年槍擊案震驚社會 揭家庭校園、槍枝管理困境",
-      "url": "https://money.udn.com/money/story/5599/9679306",
-      "source": "money.udn.com",
-      "published": 1786182871
     },
     {
       "id": "6a19d7746136",
@@ -511,13 +518,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/crrvndrv1pyo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1786094688
-    },
-    {
-      "id": "605856e7cbfe",
-      "title": "美伊战争陷十字路口 美军弹药库存争议增添战事变数",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260807-%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89%E9%99%B7%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3-%E7%BE%8E%E5%86%9B%E5%BC%B9%E8%8D%AF%E5%BA%93%E5%AD%98%E4%BA%89%E8%AE%AE%E5%A2%9E%E6%B7%BB%E6%88%98%E4%BA%8B%E5%8F%98%E6%95%B0",
-      "source": "rfi.fr",
-      "published": 1786094151
     },
     {
       "id": "ee691ee574ca",
@@ -1325,5 +1325,5 @@
       "published": 1783688460
     }
   ],
-  "build_id": 1786202247
+  "build_id": 1786204329
 }
