@@ -1,6 +1,13 @@
 {
-  "updated": 1786204329,
+  "updated": 1786205869,
   "items": [
+    {
+      "id": "16e053d1b6a0",
+      "title": "郭富城熱唱《衝衝衝》 人馬合一弘揚拼勁",
+      "url": "https://www.singtaousa.com/2026/08/08/entertainment/aaron-kwok-sings-chongchongchong/",
+      "source": "singtaousa.com",
+      "published": 1786204800
+    },
     {
       "id": "069ff8fb5472",
       "title": "俄罗斯老牌反对党打算重出江湖要求“停止杀戮”",
@@ -145,13 +152,6 @@
       "id": "6936dd74a04f",
       "title": "成本壓力蔓延整個科技行業",
       "url": "https://www.singtaousa.com/2026/08/08/news/usa/cost-pressure-tech-industry/",
-      "source": "singtaousa.com",
-      "published": 1786197600
-    },
-    {
-      "id": "9d9ed104eaf7",
-      "title": "因緣際會 道奇五大王牌邁向完全體",
-      "url": "https://www.singtaousa.com/2026/08/08/news/usa/dodgers-five-aces-complete/",
       "source": "singtaousa.com",
       "published": 1786197600
     },
@@ -1325,5 +1325,5 @@
       "published": 1783688460
     }
   ],
-  "build_id": 1786204329
+  "build_id": 1786205869
 }
