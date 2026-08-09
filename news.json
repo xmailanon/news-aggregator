@@ -1,6 +1,27 @@
 {
-  "updated": 1786298021,
+  "updated": 1786299694,
   "items": [
+    {
+      "id": "7ca68f3a44d3",
+      "title": "非洲:尼日利亚查假外资促进机构",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260809-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E6%9F%A5%E5%81%87%E5%A4%96%E8%B5%84%E4%BF%83%E8%BF%9B%E6%9C%BA%E6%9E%84",
+      "source": "rfi.fr",
+      "published": 1786298508
+    },
+    {
+      "id": "462fa770cdeb",
+      "title": "湯姆Zendaya補辦婚宴 傳羅拔甜茶齊到賀",
+      "url": "https://www.singtaousa.com/2026/08/09/entertainment/tom-holland-zendaya-wedding-2/",
+      "source": "singtaousa.com",
+      "published": 1786298400
+    },
+    {
+      "id": "d1d087b0fc3a",
+      "title": "以色列禁美籍猶太人入境 保護巴勒斯坦人遭報復",
+      "url": "https://www.singtaousa.com/2026/08/09/news/world/israel-revokes-entry-permits-for-jewish-americans-who-protected-palestinians-from-settler-violence/",
+      "source": "singtaousa.com",
+      "published": 1786298339
+    },
     {
       "id": "7eee0da1edc4",
       "title": "加拿大卑詩省野火失控 逾2萬人緊急撤離",
@@ -89,6 +110,13 @@
       "id": "08fa8e449191",
       "title": "美熱浪肆虐 家庭電費飆",
       "url": "https://money.udn.com/money/story/5599/9680838",
+      "source": "money.udn.com",
+      "published": 1786297301
+    },
+    {
+      "id": "bba1e68fa3ac",
+      "title": "美熱浪肆虐 家庭電費飆",
+      "url": "https://money.udn.com/money/story/10511/9680838",
       "source": "money.udn.com",
       "published": 1786297301
     },
@@ -212,20 +240,6 @@
       "published": 1786289786
     },
     {
-      "id": "a5d342236fb6",
-      "title": "招生危機引發高校「爭地盤」",
-      "url": "https://www.singtaousa.com/2026/08/09/news/usa/enrollment-crisis-colleges-competition/",
-      "source": "singtaousa.com",
-      "published": 1786287600
-    },
-    {
-      "id": "cff4b3f06252",
-      "title": "神學院與時俱進設AI倫理博士學位",
-      "url": "https://www.singtaousa.com/2026/08/09/news/usa/theological-seminary-ai-ethics-doctorate/",
-      "source": "singtaousa.com",
-      "published": 1786287600
-    },
-    {
       "id": "e2c1d6ece7bb",
       "title": "美媒：蘋果正測試iPhone、MacBook用長鑫存儲晶片",
       "url": "https://money.udn.com/money/story/123398/9680795",
@@ -245,13 +259,6 @@
       "url": "https://money.udn.com/money/story/123398/9680772",
       "source": "money.udn.com",
       "published": 1786284813
-    },
-    {
-      "id": "7ea3ec132ebd",
-      "title": "伊朗最高領袖行蹤成謎　國營媒體：總統近期見過他",
-      "url": "https://money.udn.com/money/story/5599/9680771",
-      "source": "money.udn.com",
-      "published": 1786284766
     },
     {
       "id": "4000befa9315",
@@ -581,13 +588,6 @@
       "url": "https://www.dw.com/zh/突破中国反对-台湾获邀出席太平洋岛国论坛峰会/a-78287391?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786178400
-    },
-    {
-      "id": "9bcb23ed2ee5",
-      "title": "哥伦比亚极右翼新总统宣誓就职 美国宣布拟对哥提供10亿美元安全援助",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260808-%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%9E%81%E5%8F%B3%E7%BF%BC%E6%96%B0%E6%80%BB%E7%BB%9F%E5%AE%A3%E8%AA%93%E5%B0%B1%E8%81%8C-%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E6%8B%9F%E5%AF%B9%E5%93%A5%E6%8F%90%E4%BE%9B10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AE%89%E5%85%A8%E6%8F%B4%E5%8A%A9",
-      "source": "rfi.fr",
-      "published": 1786177161
     },
     {
       "id": "230c88279a3c",
@@ -1339,5 +1339,5 @@
       "published": 1784730180
     }
   ],
-  "build_id": 1786298021
+  "build_id": 1786299694
 }
