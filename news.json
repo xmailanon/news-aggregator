@@ -1,6 +1,34 @@
 {
-  "updated": 1786292344,
+  "updated": 1786294869,
   "items": [
+    {
+      "id": "b5bd40e2196b",
+      "title": "李昇基仲慘遭車佳媛威脅：我完全可以搞死佢！",
+      "url": "https://www.singtaousa.com/2026/08/09/entertainment/lee-seung-gi-threatened-car-kyung-won/",
+      "source": "singtaousa.com",
+      "published": 1786294800
+    },
+    {
+      "id": "2f9d429c0602",
+      "title": "一架无人机坠毁在保加利亚输气管道附近农田 索非亚指责基辅",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260809-%E4%B8%80%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%9C%A8%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E8%BE%93%E6%B0%94%E7%AE%A1%E9%81%93%E9%99%84%E8%BF%91%E5%86%9C%E7%94%B0-%E7%B4%A2%E9%9D%9E%E4%BA%9A%E6%8C%87%E8%B4%A3%E5%9F%BA%E8%BE%85",
+      "source": "rfi.fr",
+      "published": 1786293125
+    },
+    {
+      "id": "aa0b624a281c",
+      "title": "三航運要道告急 地緣風險增",
+      "url": "https://money.udn.com/money/story/122381/9680677",
+      "source": "money.udn.com",
+      "published": 1786293093
+    },
+    {
+      "id": "d013d76637be",
+      "title": "美伊戰爭啟示錄…戰略更勝火力壓制",
+      "url": "https://money.udn.com/money/story/122381/9680679",
+      "source": "money.udn.com",
+      "published": 1786292914
+    },
     {
       "id": "79e49b9da9dd",
       "title": "紐約自由島快艇翻覆意外　造成2死12傷",
@@ -131,13 +159,6 @@
       "id": "0c97a8578d7d",
       "title": "克雷格入駐名人堂",
       "url": "https://www.singtaousa.com/2026/08/09/news/usa/roger-craig-hall-of-fame/",
-      "source": "singtaousa.com",
-      "published": 1786284000
-    },
-    {
-      "id": "1b71f2495961",
-      "title": "訓練時肢體衝突   突擊者雙星禁練",
-      "url": "https://www.singtaousa.com/2026/08/09/news/usa/training-conflict-raiders/",
       "source": "singtaousa.com",
       "published": 1786284000
     },
@@ -273,20 +294,6 @@
       "url": "https://www.dw.com/zh/事实核查：默茨真的会宣布辞职吗？/a-78294629?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786274520
-    },
-    {
-      "id": "afceede6eb26",
-      "title": "日本擬引進AI強化網攻防禦　自衛隊最快明年導入防護軟體",
-      "url": "https://money.udn.com/money/story/5599/9680576",
-      "source": "money.udn.com",
-      "published": 1786274496
-    },
-    {
-      "id": "bb96a85e61fc",
-      "title": "西西里島外海發現古羅馬沉船　內有數百運酒雙耳陶瓶",
-      "url": "https://money.udn.com/money/story/5599/9680571",
-      "source": "money.udn.com",
-      "published": 1786273955
     },
     {
       "id": "fd2cbdf33bab",
@@ -602,13 +609,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260808-%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%90%91%E5%85%B3%E9%94%AE%E7%9F%BF%E4%BA%A7%E9%A2%86%E5%9F%9F%E6%8A%95%E8%B5%8430%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E4%BB%A5%E5%A2%9E%E5%BC%BA%E5%9B%BD%E9%98%B2%E4%BE%9B%E5%BA%94%E9%93%BE%EF%BC%8C%E9%99%8D%E4%BD%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BE%9D%E8%B5%96",
       "source": "rfi.fr",
       "published": 1786171077
-    },
-    {
-      "id": "d22c9aebf1af",
-      "title": "移民冲击在欧盟成员国之间撕开了一道裂口",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260807-%E7%A7%BB%E6%B0%91%E5%86%B2%E5%87%BB%E5%9C%A8%E6%AC%A7%E7%9B%9F%E6%88%90%E5%91%98%E5%9B%BD%E4%B9%8B%E9%97%B4%E6%92%95%E5%BC%80%E4%BA%86%E4%B8%80%E9%81%93%E8%A3%82%E5%8F%A3",
-      "source": "rfi.fr",
-      "published": 1786142009
     },
     {
       "id": "b47630387654",
@@ -1339,5 +1339,5 @@
       "published": 1784730180
     }
   ],
-  "build_id": 1786292344
+  "build_id": 1786294869
 }
