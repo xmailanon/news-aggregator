@@ -1,6 +1,104 @@
 {
-  "updated": 1786396066,
+  "updated": 1786399383,
   "items": [
+    {
+      "id": "9ffa8d6fc599",
+      "title": "烏克蘭反擊 摧毀俄S-400系統",
+      "url": "https://www.singtaousa.com/2026/08/10/news/world/ukraine-strikes-russian-missile-system-used-in-attack-the-previous-day-madyar-says/",
+      "source": "singtaousa.com",
+      "published": 1786399400
+    },
+    {
+      "id": "1a8b51e9c207",
+      "title": "動漫節會粉絲暈低 基斯杜化送院治療",
+      "url": "https://www.singtaousa.com/2026/08/10/entertainment/christopher-lambert-faints-convention/",
+      "source": "singtaousa.com",
+      "published": 1786399200
+    },
+    {
+      "id": "cb05f92e0cf6",
+      "title": "亞太法律協會慶祝成立六十周年 香港律師會會長湯文龍赴坎培拉參與盛會",
+      "url": "https://www.singtaousa.com/2026/08/10/news/china/lawasia-anniversary-hk-law-society-president-attends/",
+      "source": "singtaousa.com",
+      "published": 1786399025
+    },
+    {
+      "id": "e48c8b16a345",
+      "title": "AI時代求職新趨勢「AI無法取代」十大職業出爐",
+      "url": "https://www.singtaousa.com/2026/08/10/lifestyle/the-new-trend-of-job-hunting-in-the-ai-era-ai-cannot-replace-top-ten-occupations-released/",
+      "source": "singtaousa.com",
+      "published": 1786398200
+    },
+    {
+      "id": "c180881c859b",
+      "title": "特斯拉「瘋狂模式」惹禍？女子試駕Model Y失控撞店，怒告索賠1035萬美元",
+      "url": "https://www.singtaousa.com/2026/08/10/news/usa/teslas-insane-mode-at-center-of-10m-lawsuit-what-is-it/",
+      "source": "singtaousa.com",
+      "published": 1786398086
+    },
+    {
+      "id": "66a51fb0e30f",
+      "title": "泽连斯基称俄罗斯将部署更多朝鲜士兵并接收朝鲜导弹",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260810-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%BF%84%E7%BD%97%E6%96%AF%E5%B0%86%E9%83%A8%E7%BD%B2%E6%9B%B4%E5%A4%9A%E6%9C%9D%E9%B2%9C%E5%A3%AB%E5%85%B5%E5%B9%B6%E6%8E%A5%E6%94%B6%E6%9C%9D%E9%B2%9C%E5%AF%BC%E5%BC%B9",
+      "source": "rfi.fr",
+      "published": 1786398012
+    },
+    {
+      "id": "556f9f9951b6",
+      "title": "哥伦比亚西部强震造成至少111人死亡 全国将进入紧急状态",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260810-%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E8%A5%BF%E9%83%A8%E5%BC%BA%E9%9C%87%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%91111%E4%BA%BA%E6%AD%BB%E4%BA%A1-%E5%85%A8%E5%9B%BD%E5%B0%86%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81",
+      "source": "rfi.fr",
+      "published": 1786397848
+    },
+    {
+      "id": "e2ffca1e4ec7",
+      "title": "輝達攜手6大金融巨頭 籌逾5000億美元發展 AI",
+      "url": "https://money.udn.com/money/story/123398/9683339",
+      "source": "money.udn.com",
+      "published": 1786397795
+    },
+    {
+      "id": "206ae32b4079",
+      "title": "热浪加剧法国旱情 近三分之二地下水位低于正常水平",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260810-%E7%83%AD%E6%B5%AA%E5%8A%A0%E5%89%A7%E6%B3%95%E5%9B%BD%E6%97%B1%E6%83%85-%E8%BF%91%E4%B8%89%E5%88%86%E4%B9%8B%E4%BA%8C%E5%9C%B0%E4%B8%8B%E6%B0%B4%E4%BD%8D%E4%BD%8E%E4%BA%8E%E6%AD%A3%E5%B8%B8%E6%B0%B4%E5%B9%B3",
+      "source": "rfi.fr",
+      "published": 1786397647
+    },
+    {
+      "id": "19743139cb2d",
+      "title": "美国共和党要员促政府阻止先进芯片流向受制裁中国企业",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260810-%E7%BE%8E%E5%9B%BD%E5%85%B1%E5%92%8C%E5%85%9A%E8%A6%81%E5%91%98%E4%BF%83%E6%94%BF%E5%BA%9C%E9%98%BB%E6%AD%A2%E5%85%88%E8%BF%9B%E8%8A%AF%E7%89%87%E6%B5%81%E5%90%91%E5%8F%97%E5%88%B6%E8%A3%81%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A",
+      "source": "rfi.fr",
+      "published": 1786397377
+    },
+    {
+      "id": "c6617f514b82",
+      "title": "葵涌的士攔腰撞向警車 事故致三人受傷送院",
+      "url": "https://www.singtaousa.com/2026/08/10/news/china/taxi-side-collides-police-car-injured/",
+      "source": "singtaousa.com",
+      "published": 1786397218
+    },
+    {
+      "id": "7dc1ddeb8b79",
+      "title": "一艘小船破纪录超载   230人冒死偷渡英吉利海峡",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260810-%E4%B8%80%E8%89%98%E5%B0%8F%E8%88%B9%E7%A0%B4%E7%BA%AA%E5%BD%95%E8%B6%85%E8%BD%BD-230%E4%BA%BA%E5%86%92%E6%AD%BB%E5%81%B7%E6%B8%A1%E8%8B%B1%E5%90%89%E5%88%A9%E6%B5%B7%E5%B3%A1",
+      "source": "rfi.fr",
+      "published": 1786397070
+    },
+    {
+      "id": "f838015915b3",
+      "title": "中国长征七号甲运载火箭发射失败 升空不足90秒后爆炸",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260810-%E4%B8%AD%E5%9B%BD%E9%95%BF%E5%BE%81%E4%B8%83%E5%8F%B7%E7%94%B2%E8%BF%90%E8%BD%BD%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5-%E5%8D%87%E7%A9%BA%E4%B8%8D%E8%B6%B390%E7%A7%92%E5%90%8E%E7%88%86%E7%82%B8",
+      "source": "rfi.fr",
+      "published": 1786396953
+    },
+    {
+      "id": "19830e5e92ac",
+      "title": "特朗普表示：他争取让伊朗对冲突做出赔偿",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260810-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%A4%BA-%E4%BB%96%E4%BA%89%E5%8F%96%E8%AE%A9%E4%BC%8A%E6%9C%97%E5%AF%B9%E5%86%B2%E7%AA%81%E5%81%9A%E5%87%BA%E8%B5%94%E5%81%BF",
+      "source": "rfi.fr",
+      "published": 1786396555
+    },
     {
       "id": "90113caf4cec",
       "title": "米高與歌手Raye 拍拖斷正牽手遊樂園",
@@ -38,7 +136,7 @@
     },
     {
       "id": "4117a48f6163",
-      "title": "川普向伊朗索取衝突賠償　和談前景再添變數",
+      "title": "川普向伊朗索取衝突賠償 和談前景再添變數",
       "url": "https://money.udn.com/money/story/5599/9683329",
       "source": "money.udn.com",
       "published": 1786394190
@@ -56,48 +154,6 @@
       "url": "https://www.singtaousa.com/2026/08/10/news/china/tst-hotel-robbery-foreigner-strangled-cash/",
       "source": "singtaousa.com",
       "published": 1786393615
-    },
-    {
-      "id": "04f16e9456b0",
-      "title": "芝加哥黃鴨賽 為特殊奧運募款",
-      "url": "https://www.singtaousa.com/2026/08/10/news/usa/rubber-ducks-by-the-thousands-splash-into-chicago-river-for-annual-special-olympics-fundraiser/",
-      "source": "singtaousa.com",
-      "published": 1786393276
-    },
-    {
-      "id": "564bacd64ff0",
-      "title": "哥倫比亞7.4級強震 至少111人罹難",
-      "url": "https://www.singtaousa.com/2026/08/10/news/world/colombia-ecuador-earthquake/",
-      "source": "singtaousa.com",
-      "published": 1786393259
-    },
-    {
-      "id": "fc28d00b9f48",
-      "title": "奧地利破獲援俄軍工業制裁規避案",
-      "url": "https://www.singtaousa.com/2026/08/10/news/world/austria-breaks-up-sanctions-evasion-scheme-supplying-russian-arms-industry/",
-      "source": "singtaousa.com",
-      "published": 1786392999
-    },
-    {
-      "id": "afea3d4eebb6",
-      "title": "特朗普簽行政令 倡分開接種兒童疫苗",
-      "url": "https://www.singtaousa.com/2026/08/10/news/usa/vaccine-research-autism-trump-kennedy-rfk/",
-      "source": "singtaousa.com",
-      "published": 1786392700
-    },
-    {
-      "id": "ad6dbfc7a5bb",
-      "title": "《玩具熊》真實披薩店2027年登陸新澤西",
-      "url": "https://www.singtaousa.com/2026/08/10/news/usa/five-nights-at-freddys-to-open-real-freddy-fazbears-pizza-location-in-2027/",
-      "source": "singtaousa.com",
-      "published": 1786392637
-    },
-    {
-      "id": "a4f004b96898",
-      "title": "BLACNKPINK及BTS年年入圍美男美女 趙雨凡申惠善首加入戰圈",
-      "url": "https://www.singtaousa.com/2026/08/10/entertainment/blackpink-bts-beauty-men/",
-      "source": "singtaousa.com",
-      "published": 1786392000
     },
     {
       "id": "e907933a4f77",
@@ -252,13 +308,6 @@
       "url": "https://money.udn.com/money/story/5599/9683088",
       "source": "money.udn.com",
       "published": 1786373054
-    },
-    {
-      "id": "8a9523fa604d",
-      "title": "歐洲12日迎天文奇景　比利時湧現日食眼鏡搶購潮",
-      "url": "https://money.udn.com/money/story/5599/9683069",
-      "source": "money.udn.com",
-      "published": 1786372231
     },
     {
       "id": "9e72a6a402ba",
@@ -485,41 +534,6 @@
       "published": 1786314629
     },
     {
-      "id": "da12fae23bed",
-      "title": "德国企业担心中国限制出口导致生产停摆",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260809-%E5%BE%B7%E5%9B%BD%E4%BC%81%E4%B8%9A%E6%8B%85%E5%BF%83%E4%B8%AD%E5%9B%BD%E9%99%90%E5%88%B6%E5%87%BA%E5%8F%A3%E5%AF%BC%E8%87%B4%E7%94%9F%E4%BA%A7%E5%81%9C%E6%91%86",
-      "source": "rfi.fr",
-      "published": 1786311851
-    },
-    {
-      "id": "7ecc20ec0020",
-      "title": "泽连斯基称俄朝决定在俄罗斯部署最多5万名朝鲜军人",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260809-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%BF%84%E6%9C%9D%E5%86%B3%E5%AE%9A%E5%9C%A8%E4%BF%84%E7%BD%97%E6%96%AF%E9%83%A8%E7%BD%B2%E6%9C%80%E5%A4%9A5%E4%B8%87%E5%90%8D%E6%9C%9D%E9%B2%9C%E5%86%9B%E4%BA%BA",
-      "source": "rfi.fr",
-      "published": 1786311640
-    },
-    {
-      "id": "f2a62e0fa029",
-      "title": "内塔尼亚胡拒特朗普加沙15点方案　美方和平布局再遇阻力",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260809-%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%8B%92%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%A0%E6%B2%9915%E7%82%B9%E6%96%B9%E6%A1%88-%E7%BE%8E%E6%96%B9%E5%92%8C%E5%B9%B3%E5%B8%83%E5%B1%80%E5%86%8D%E9%81%87%E9%98%BB%E5%8A%9B",
-      "source": "rfi.fr",
-      "published": 1786311611
-    },
-    {
-      "id": "d13cd805b68f",
-      "title": "应对芯片供应短缺 苹果测试长鑫存储产品",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260809-%E5%BA%94%E5%AF%B9%E8%8A%AF%E7%89%87%E4%BE%9B%E5%BA%94%E7%9F%AD%E7%BC%BA-%E8%8B%B9%E6%9E%9C%E6%B5%8B%E8%AF%95%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E4%BA%A7%E5%93%81",
-      "source": "rfi.fr",
-      "published": 1786311462
-    },
-    {
-      "id": "28a0232f5abc",
-      "title": "中国7月物价涨势弱于预期 内需不振加剧通缩压力",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260809-%E4%B8%AD%E5%9B%BD7%E6%9C%88%E7%89%A9%E4%BB%B7%E6%B6%A8%E5%8A%BF%E5%BC%B1%E4%BA%8E%E9%A2%84%E6%9C%9F-%E5%86%85%E9%9C%80%E4%B8%8D%E6%8C%AF%E5%8A%A0%E5%89%A7%E9%80%9A%E7%BC%A9%E5%8E%8B%E5%8A%9B",
-      "source": "rfi.fr",
-      "published": 1786311308
-    },
-    {
       "id": "f1f65f5a525f",
       "title": "伊朗称美国接受“全部条件”才会重开霍尔木兹海峡 特朗普强调经济施压",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260809-%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%8E%A5%E5%8F%97-%E5%85%A8%E9%83%A8%E6%9D%A1%E4%BB%B6-%E6%89%8D%E4%BC%9A%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%BA%E8%B0%83%E7%BB%8F%E6%B5%8E%E6%96%BD%E5%8E%8B",
@@ -553,13 +567,6 @@
       "url": "https://cn.nytimes.com/usa/20260810/pentagon-weapons-stockpiles-china-russia/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1786300336
-    },
-    {
-      "id": "7ca68f3a44d3",
-      "title": "非洲:尼日利亚查假外资促进机构",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260809-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E6%9F%A5%E5%81%87%E5%A4%96%E8%B5%84%E4%BF%83%E8%BF%9B%E6%9C%BA%E6%9E%84",
-      "source": "rfi.fr",
-      "published": 1786298508
     },
     {
       "id": "b0bf8ecb866e",
@@ -714,13 +721,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c36d3735ng1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1786247949
-    },
-    {
-      "id": "040056eff463",
-      "title": "上将断层 中将治军？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260808-%E4%B8%8A%E5%B0%86%E6%96%AD%E5%B1%82-%E4%B8%AD%E5%B0%86%E6%B2%BB%E5%86%9B",
-      "source": "rfi.fr",
-      "published": 1786227985
     },
     {
       "id": "4f3eb8764003",
@@ -1367,5 +1367,5 @@
       "published": 1784382480
     }
   ],
-  "build_id": 1786396066
+  "build_id": 1786399383
 }
