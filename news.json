@@ -1,6 +1,111 @@
 {
-  "updated": 1786427079,
+  "updated": 1786430610,
   "items": [
+    {
+      "id": "03c587d8c4c9",
+      "title": "加拿大前空服員冒充機師 承認電信詐騙",
+      "url": "https://www.singtaousa.com/2026/08/10/news/world/former-toronto-flight-attendant-pleads-guilty-to-u-s-wire-fraud-posing-as-pilot-for-free-flights/",
+      "source": "singtaousa.com",
+      "published": 1786430057
+    },
+    {
+      "id": "16b20c37940e",
+      "title": "印尼野火蔓延數十所學校停課　逾4.8萬人投入滅火",
+      "url": "https://money.udn.com/money/story/5599/9684474",
+      "source": "money.udn.com",
+      "published": 1786429864
+    },
+    {
+      "id": "5f7b9cf819cf",
+      "title": "伊朗將公布領袖影片 胡塞武裝襲沙特煉油廠",
+      "url": "https://www.singtaousa.com/2026/08/10/news/world/footage-of-iranian-supreme-leader-unseen-since-march-promised-by-irans-paramilitary/",
+      "source": "singtaousa.com",
+      "published": 1786429627
+    },
+    {
+      "id": "2c8f61556edd",
+      "title": "長征七號甲發射任務失利 藍箭航天朱雀三號遙二火箭發射推遲",
+      "url": "https://www.singtaousa.com/2026/08/10/news/china/long-march-rocket-fails-blue-arrow-launch-delayed/",
+      "source": "singtaousa.com",
+      "published": 1786429618
+    },
+    {
+      "id": "3488b38ab959",
+      "title": "多倫多猶太教堂槍擊案 第三名疑犯被起訴",
+      "url": "https://www.singtaousa.com/2026/08/10/news/world/3rd-suspect-charged-in-synagogue-shootings-in-vaughan-toronto/",
+      "source": "singtaousa.com",
+      "published": 1786429405
+    },
+    {
+      "id": "d34fce373dcb",
+      "title": "全球創投資金瘋 AI！第2季投資2,274億美元 國防、太空科技也升溫",
+      "url": "https://money.udn.com/money/story/5599/9684440",
+      "source": "money.udn.com",
+      "published": 1786429048
+    },
+    {
+      "id": "79bb1f55f2c0",
+      "title": "日本福島水蜜桃最快8月中旬來台　睽違16年正式進口",
+      "url": "https://money.udn.com/money/story/5599/9684405",
+      "source": "money.udn.com",
+      "published": 1786428497
+    },
+    {
+      "id": "8546e4b5bb1c",
+      "title": "新台幣會繼續升破32？交易員大買押漲台幣的選擇權 無視季節性利空",
+      "url": "https://money.udn.com/money/story/5599/9684401",
+      "source": "money.udn.com",
+      "published": 1786428430
+    },
+    {
+      "id": "b6fba2d195ce",
+      "title": "整理包／川普的手能伸進聯準會多深？催得動降息、撤得了理事？",
+      "url": "https://money.udn.com/money/story/5599/9684398",
+      "source": "money.udn.com",
+      "published": 1786428337
+    },
+    {
+      "id": "8bd451d1ea21",
+      "title": "澳洲富豪控縱容詐騙冒用肖像　美法官裁定Meta銷毀證據",
+      "url": "https://money.udn.com/money/story/5599/9684387",
+      "source": "money.udn.com",
+      "published": 1786428130
+    },
+    {
+      "id": "5caaeebc8151",
+      "title": "越南開始建造最大反潛巡防艦　強化國防自主能力",
+      "url": "https://money.udn.com/money/story/5599/9684382",
+      "source": "money.udn.com",
+      "published": 1786428090
+    },
+    {
+      "id": "df07e0540590",
+      "title": "友邦帛琉挺台！台灣重返太平洋島國論壇 北京發出警告",
+      "url": "https://money.udn.com/money/story/5599/9684375",
+      "source": "money.udn.com",
+      "published": 1786428031
+    },
+    {
+      "id": "8eb5ce09c60f",
+      "title": "澳洲烏龍命案 棄屍手提箱內竟是人偶",
+      "url": "https://www.singtaousa.com/2026/08/10/news/world/australian-homicide-investigation-called-off-after-body-turns-out-to-be-lifelike-doll/",
+      "source": "singtaousa.com",
+      "published": 1786428000
+    },
+    {
+      "id": "204a17b61224",
+      "title": "分享寶寶小名 李亦捷 求子3年遂願",
+      "url": "https://www.singtaousa.com/2026/08/10/entertainment/li-yi-jie-baby-name/",
+      "source": "singtaousa.com",
+      "published": 1786428000
+    },
+    {
+      "id": "8891c4032312",
+      "title": "華爾街日報：川普沒核協議也願收兵　伊朗不買帳",
+      "url": "https://money.udn.com/money/story/5599/9684364",
+      "source": "money.udn.com",
+      "published": 1786427684
+    },
     {
       "id": "8f853ec1ee09",
       "title": "泰國中國商家涉人頭經營與賭博廣告　業者疑行賄官員",
@@ -87,17 +192,10 @@
     },
     {
       "id": "90ed73cdd274",
-      "title": "OpenAI上市前大動作曝光 買回70億美元員工股 8,520億美元估值不變",
+      "title": "OpenAI 上市前大動作曝光 買回70億美元員工股、8,520億美元估值不變",
       "url": "https://money.udn.com/money/story/123398/9684042",
       "source": "money.udn.com",
       "published": 1786421056
-    },
-    {
-      "id": "8c9bca798182",
-      "title": "尼坦雅胡選舉考量拒絕川普加薩計畫　恐兩面不討好",
-      "url": "https://money.udn.com/money/story/5599/9684037",
-      "source": "money.udn.com",
-      "published": 1786421010
     },
     {
       "id": "bd86e3949ba3",
@@ -107,20 +205,6 @@
       "published": 1786420800
     },
     {
-      "id": "59c48988a4c5",
-      "title": "澳洲越南強化軍事合作　制衡中國勢力擴張",
-      "url": "https://money.udn.com/money/story/5599/9684000",
-      "source": "money.udn.com",
-      "published": 1786420514
-    },
-    {
-      "id": "7f0506517edb",
-      "title": "被伊朗狠甩一巴掌！紐時：川普想抽身 中東未必肯放過他",
-      "url": "https://money.udn.com/money/story/5599/9683987",
-      "source": "money.udn.com",
-      "published": 1786420323
-    },
-    {
       "id": "5efdab67539c",
       "title": "哥倫比亞強震逾百死 新政府宣布進入緊急狀態",
       "url": "https://www.dw.com/zh/哥倫比亞強震逾百死-新政府宣布進入緊急狀態/a-78313828?maca=chi-rss-chi-all-1127-rdf",
@@ -128,25 +212,11 @@
       "published": 1786420080
     },
     {
-      "id": "e9b1f444d0bc",
-      "title": "日本成功發射H3火箭　引路7號衛星進預定軌道",
-      "url": "https://money.udn.com/money/story/5599/9683975",
-      "source": "money.udn.com",
-      "published": 1786419943
-    },
-    {
       "id": "6e197e74945e",
       "title": "哥倫比亞多年來最大地震造成至少132人死亡",
       "url": "https://www.bbc.com/zhongwen/articles/cy9w1n5vgljo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1786419833
-    },
-    {
-      "id": "23547b7b658e",
-      "title": "彭博：iPhone 全玻璃夢幻設計沒取消！20周年紀念款明年如期登場",
-      "url": "https://money.udn.com/money/story/5599/9683926",
-      "source": "money.udn.com",
-      "published": 1786419133
     },
     {
       "id": "f0c07097fb00",
@@ -163,25 +233,11 @@
       "published": 1786418825
     },
     {
-      "id": "7f62d5909fa8",
-      "title": "華郵揭川普瞞天過海躲伊朗威脅　上空軍一號後換機",
-      "url": "https://money.udn.com/money/story/5599/9683891",
-      "source": "money.udn.com",
-      "published": 1786418511
-    },
-    {
       "id": "2ffecb3f7367",
       "title": "广岛可以、长崎不行：台湾驻日代表批评受到矮化",
       "url": "https://www.dw.com/zh/广岛可以、长崎不行：台湾驻日代表批评受到矮化/a-78301264?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786418340
-    },
-    {
-      "id": "31729b6b7838",
-      "title": "輝達降規 Rubin Ultra 是美光的大利多？分析師揭關鍵",
-      "url": "https://money.udn.com/money/story/122381/9683751",
-      "source": "money.udn.com",
-      "published": 1786417358
     },
     {
       "id": "5b4382969883",
@@ -191,39 +247,11 @@
       "published": 1786417200
     },
     {
-      "id": "af23b96f5d72",
-      "title": "搧徐藝洋巴掌 黃子韜被罵",
-      "url": "https://www.singtaousa.com/2026/08/10/entertainment/huang-zitao-slaps-xu-yiyang/",
-      "source": "singtaousa.com",
-      "published": 1786417200
-    },
-    {
-      "id": "e5bfeef634b0",
-      "title": "民政總署資助推廣家鄉文化 元朗關公節展現非遺魅力",
-      "url": "https://www.singtaousa.com/2026/08/10/news/china/hometown-culture-promotion-funding-festival/",
-      "source": "singtaousa.com",
-      "published": 1786417024
-    },
-    {
       "id": "6f03df5d420c",
       "title": "Meta发布开放权重AI模型Muse Glimmer",
       "url": "https://cn.nytimes.com/technology/20260811/meta-ai-open-source/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1786416508
-    },
-    {
-      "id": "e4f8330dcee6",
-      "title": "烏戰俘聯合國控俄軍施虐　曝數千人仍遭俄方囚禁",
-      "url": "https://money.udn.com/money/story/5599/9683762",
-      "source": "money.udn.com",
-      "published": 1786416341
-    },
-    {
-      "id": "30cc9c669191",
-      "title": "特朗普媒體Truth Social第二季巨虧2.38億美元",
-      "url": "https://www.singtaousa.com/2026/08/10/news/usa/trump-media-company-announces-a-massive-loss-and-new-turnaround-effort/",
-      "source": "singtaousa.com",
-      "published": 1786416281
     },
     {
       "id": "a8f86992e2bb",
@@ -233,13 +261,6 @@
       "published": 1786415496
     },
     {
-      "id": "77bee3b7d7eb",
-      "title": "極端氣候席捲英格蘭　逾7成土地陷熱浪乾旱缺水",
-      "url": "https://money.udn.com/money/story/5599/9683715",
-      "source": "money.udn.com",
-      "published": 1786415458
-    },
-    {
       "id": "c5b9b4059052",
       "title": "移民改革会是特朗普的“尼克松访华”时刻吗？",
       "url": "https://cn.nytimes.com/opinion/20260811/trump-dewine-immigration-reform/?utm_source=RSS",
@@ -247,32 +268,11 @@
       "published": 1786415408
     },
     {
-      "id": "d60569b8c5a4",
-      "title": "多州一元店現「Gooning」歪風，女性遭陌生男子潑灑不明液體",
-      "url": "https://www.singtaousa.com/2026/08/10/news/usa/gooning-incidents-targeting-women-in-dollar-tree-stores-reported-across-country/",
-      "source": "singtaousa.com",
-      "published": 1786415400
-    },
-    {
-      "id": "98642a4f938c",
-      "title": "紐西蘭專才居港三年 分享高效生活體驗 隨人才辦回鄉推廣香港機遇",
-      "url": "https://www.singtaousa.com/2026/08/10/news/china/new-zealand-talent-hong-kong-life-promotion/",
-      "source": "singtaousa.com",
-      "published": 1786415228
-    },
-    {
       "id": "71bb69e18037",
       "title": "哥伦比亚发生7.4级强震，上百人死亡",
       "url": "https://cn.nytimes.com/world/20260811/earthquake-colombia-cali/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1786414565
-    },
-    {
-      "id": "1a8068bbeefc",
-      "title": "哈利法克斯炸彈威脅 警封鎖市中心拘捕疑犯",
-      "url": "https://www.singtaousa.com/2026/08/10/news/world/police-reopen-downtown-halifax-following-bomb-threat-to-u-s-consulate/",
-      "source": "singtaousa.com",
-      "published": 1786413600
     },
     {
       "id": "b0bf8ecb866e",
@@ -371,6 +371,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260810-%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%80%BB%E7%90%86%E5%88%86%E5%88%AB%E8%A7%81%E5%8D%B0%E5%BA%A6%E5%92%8C%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF",
       "source": "rfi.fr",
       "published": 1786385022
+    },
+    {
+      "id": "b01125887b92",
+      "title": "向特朗普加密货币投入1亿美元的华人买家是谁？",
+      "url": "https://cn.nytimes.com/usa/20260811/bobby-zhou-trump-crypto/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1786383765
     },
     {
       "id": "97f93c84d2e4",
@@ -1024,13 +1031,6 @@
       "published": 1785990467
     },
     {
-      "id": "3efba4ac50ea",
-      "title": "非洲开发者拥抱中国AI模型，为硅谷敲响警钟",
-      "url": "https://cn.nytimes.com/technology/20260806/ai-china-africa/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1785987106
-    },
-    {
       "id": "4f482a5e33fe",
       "title": "「我的祖母背着我，對我的女嬰施行殘割女性生殖器」",
       "url": "https://www.bbc.com/zhongwen/articles/c62x0pvmn7mo/trad?at_medium=RSS&at_campaign=rss",
@@ -1360,5 +1360,5 @@
       "published": 1784730180
     }
   ],
-  "build_id": 1786427079
+  "build_id": 1786430610
 }
