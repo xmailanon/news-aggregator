@@ -1,6 +1,41 @@
 {
-  "updated": 1786745415,
+  "updated": 1786747508,
   "items": [
+    {
+      "id": "8c53ff0ddf99",
+      "title": "美7月零售銷售意外月減0.6%　消費降溫恐成經濟警訊",
+      "url": "https://money.udn.com/money/story/5599/9692847",
+      "source": "money.udn.com",
+      "published": 1786747530
+    },
+    {
+      "id": "18a8ad1aac58",
+      "title": "川普：擊敗伊朗後宣布荷莫茲海峽為美國領土",
+      "url": "https://money.udn.com/money/story/5599/9692845",
+      "source": "money.udn.com",
+      "published": 1786746628
+    },
+    {
+      "id": "3777b050c767",
+      "title": "紐約CEO槍殺案：嫌犯曼焦內將承認聯邦指控，恐面臨終身監禁",
+      "url": "https://www.singtaousa.com/2026/08/14/news/usa/mangione-expected-to-plead-guilty-in-federal-case-accusing-him-of-murdering-unitedhealthcare-ceo/",
+      "source": "singtaousa.com",
+      "published": 1786745920
+    },
+    {
+      "id": "cfe6ed7e527f",
+      "title": "Comcast涉數據外洩　Xfinity用戶可獲賠償金",
+      "url": "https://www.singtaousa.com/2026/08/14/news/usa/comcast-settles-claims-over-data-breach-for-117-5-million/",
+      "source": "singtaousa.com",
+      "published": 1786745843
+    },
+    {
+      "id": "4c53bcae10ff",
+      "title": "美國威脅對伊朗施加更大經濟壓力　油價應聲漲",
+      "url": "https://money.udn.com/money/story/5599/9692841",
+      "source": "money.udn.com",
+      "published": 1786745546
+    },
     {
       "id": "8f0f4e135dba",
       "title": "麻省市長涉詐領疫情貸款資助競選",
@@ -112,20 +147,6 @@
       "url": "https://www.singtaousa.com/2026/08/14/news/world/putin-s-recruiters-scramble-to-avoid-second-mass-mobilisation-as-ukraine-losses-mount/",
       "source": "singtaousa.com",
       "published": 1786739583
-    },
-    {
-      "id": "fbdd83ce42e5",
-      "title": "瑪麗醫院新大樓升降機問題頻生 建築署暫停承建商投標資格並保留追究權利",
-      "url": "https://www.singtaousa.com/2026/08/14/news/china/mary-hospital-elevator-faults-contractor-suspended/",
-      "source": "singtaousa.com",
-      "published": 1786739231
-    },
-    {
-      "id": "d3f6bf0bcd2f",
-      "title": "天文台凌晨發出黃色暴雨警告 廣泛地區雨勢持續",
-      "url": "https://www.singtaousa.com/2026/08/14/news/china/yellow-rainstorm-warning-signal-issued-3/",
-      "source": "singtaousa.com",
-      "published": 1786737439
     },
     {
       "id": "bbc7a12e721a",
@@ -303,32 +324,11 @@
       "published": 1786720522
     },
     {
-      "id": "e78303c8d0b4",
-      "title": "馬克宏推15歲以下兒少禁用社媒　法國憲法委員會駁回",
-      "url": "https://money.udn.com/money/story/5599/9692641",
-      "source": "money.udn.com",
-      "published": 1786720351
-    },
-    {
       "id": "2d32bf7317c3",
       "title": "「我一個月便虧了一萬四」——遭遇韓國股市暴跌的散戶們",
       "url": "https://www.bbc.com/zhongwen/articles/cx2dkv400l8o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1786719581
-    },
-    {
-      "id": "edcf603c07f6",
-      "title": "私募信貸上演「搶鹽大戰」：「什麼都行，就是別碰軟體」",
-      "url": "https://money.udn.com/money/story/5599/9691790",
-      "source": "money.udn.com",
-      "published": 1786717620
-    },
-    {
-      "id": "968822b56996",
-      "title": "投資專家：美光被錯殺 不要只看它的HBM…",
-      "url": "https://money.udn.com/money/story/123398/9692558",
-      "source": "money.udn.com",
-      "published": 1786717620
     },
     {
       "id": "e5280609573f",
@@ -1346,5 +1346,5 @@
       "published": 1784730180
     }
   ],
-  "build_id": 1786745415
+  "build_id": 1786747508
 }
