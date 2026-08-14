@@ -1,6 +1,34 @@
 {
-  "updated": 1786747508,
+  "updated": 1786749023,
   "items": [
+    {
+      "id": "88a7df2ab397",
+      "title": "特朗普称等击败伊朗后，将“宣布霍尔木兹海峡属于美国领土”",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260814-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%AD%89%E5%87%BB%E8%B4%A5%E4%BC%8A%E6%9C%97%E5%90%8E%EF%BC%8C%E5%B0%86-%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B1%9E%E4%BA%8E%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F",
+      "source": "rfi.fr",
+      "published": 1786748811
+    },
+    {
+      "id": "748ecfa4532a",
+      "title": "特朗普揚言宣布霍爾木茲海峽為「美國領土」",
+      "url": "https://www.singtaousa.com/2026/08/14/news/usa/trump-threatens-to-declare-strait-of-hormuz-us-territory/",
+      "source": "singtaousa.com",
+      "published": 1786748554
+    },
+    {
+      "id": "c88ffc0ac298",
+      "title": "《花開錦繡》投資2.5億 口碑下滑恐難回本",
+      "url": "https://www.singtaousa.com/2026/08/14/entertainment/hua-kai-jin-xiu-investment/",
+      "source": "singtaousa.com",
+      "published": 1786748400
+    },
+    {
+      "id": "1732e3fc61f1",
+      "title": "李幸倪澄清失蹤行蹤 赴新西蘭密集工作錄新歌拍MV",
+      "url": "https://www.singtaousa.com/2026/08/14/entertainment/gin-lee-new-zealand-work-mission/",
+      "source": "singtaousa.com",
+      "published": 1786748354
+    },
     {
       "id": "8c53ff0ddf99",
       "title": "美7月零售銷售意外月減0.6%　消費降溫恐成經濟警訊",
@@ -126,27 +154,6 @@
       "url": "https://money.udn.com/money/story/5599/9692792",
       "source": "money.udn.com",
       "published": 1786740325
-    },
-    {
-      "id": "fbb1b6a5b7b1",
-      "title": "法國法院否決15歲以下社媒禁令",
-      "url": "https://www.singtaousa.com/2026/08/14/news/world/french-court-blocks-macron-social-media-ban-for-under-15s/",
-      "source": "singtaousa.com",
-      "published": 1786740134
-    },
-    {
-      "id": "2c54475ffa3d",
-      "title": "克拉克頓補選：「垃圾桶伯爵」獲近萬票創紀錄",
-      "url": "https://www.singtaousa.com/2026/08/14/news/world/count-binface-gets-almost-10000-votes-in-clacton-by-election/",
-      "source": "singtaousa.com",
-      "published": 1786739864
-    },
-    {
-      "id": "4c791b6a68ad",
-      "title": "俄羅斯兵源告急 普京或再啟大規模動員",
-      "url": "https://www.singtaousa.com/2026/08/14/news/world/putin-s-recruiters-scramble-to-avoid-second-mass-mobilisation-as-ukraine-losses-mount/",
-      "source": "singtaousa.com",
-      "published": 1786739583
     },
     {
       "id": "bbc7a12e721a",
@@ -539,13 +546,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c4g48ryvnz2o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1786665671
-    },
-    {
-      "id": "c418ec5a2580",
-      "title": "美国法院裁定：进入美国境内的小额包裹可被征收关税",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260813-%E7%BE%8E%E5%9B%BD%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A-%E8%BF%9B%E5%85%A5%E7%BE%8E%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%B0%8F%E9%A2%9D%E5%8C%85%E8%A3%B9%E5%8F%AF%E8%A2%AB%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E",
-      "source": "rfi.fr",
-      "published": 1786659417
     },
     {
       "id": "de3f347787fe",
@@ -1346,5 +1346,5 @@
       "published": 1784730180
     }
   ],
-  "build_id": 1786747508
+  "build_id": 1786749023
 }
