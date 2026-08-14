@@ -1,6 +1,20 @@
 {
-  "updated": 1786742025,
+  "updated": 1786743935,
   "items": [
+    {
+      "id": "d01bb17b5d51",
+      "title": "中国驻美使馆外集会为遭虐杀母犬旺旺发声　要求中国制定全国动物保护法",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260814-%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E4%BD%BF%E9%A6%86%E5%A4%96%E9%9B%86%E4%BC%9A%E4%B8%BA%E9%81%AD%E8%99%90%E6%9D%80%E6%AF%8D%E7%8A%AC%E6%97%BA%E6%97%BA%E5%8F%91%E5%A3%B0-%E8%A6%81%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%88%B6%E5%AE%9A%E5%85%A8%E5%9B%BD%E5%8A%A8%E7%89%A9%E4%BF%9D%E6%8A%A4%E6%B3%95",
+      "source": "rfi.fr",
+      "published": 1786743869
+    },
+    {
+      "id": "6658514e1452",
+      "title": "將軍澳健明邨水管滲漏影響供水 水務署派水車支援居民",
+      "url": "https://www.singtaousa.com/2026/08/14/news/china/water-leakage-disrupts-supply-tseung-kwan-o/",
+      "source": "singtaousa.com",
+      "published": 1786742825
+    },
     {
       "id": "e041d9aa5dfd",
       "title": "《观点》周刊：中国发挥“贸易伪装”艺术至极致，特朗普的关税几同虚设",
@@ -126,13 +140,6 @@
       "url": "https://www.singtaousa.com/2026/08/14/news/usa/covid-19-epidemic-reappears-in-summer-confirmed-cases-rise-in-many-places-across-the-united-states/",
       "source": "singtaousa.com",
       "published": 1786733928
-    },
-    {
-      "id": "cad55d4b4968",
-      "title": "專家剖析涼感濕巾原理：降溫效果短暫，過度依賴或增中暑風險",
-      "url": "https://www.singtaousa.com/2026/08/14/news/china/cooling-wipes-illusion-heatstroke-risk/",
-      "source": "singtaousa.com",
-      "published": 1786733821
     },
     {
       "id": "6d9e597d0fba",
@@ -539,13 +546,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260813-%E7%BE%8E%E5%9B%BD%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A-%E8%BF%9B%E5%85%A5%E7%BE%8E%E5%9B%BD%E5%A2%83%E5%86%85%E7%9A%84%E5%B0%8F%E9%A2%9D%E5%8C%85%E8%A3%B9%E5%8F%AF%E8%A2%AB%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E",
       "source": "rfi.fr",
       "published": 1786659417
-    },
-    {
-      "id": "e82aa4cd748b",
-      "title": "处处留名，特朗普欲再将姓名刻上肯尼迪中心，挑战法院禁令",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260813-%E5%A4%84%E5%A4%84%E7%95%99%E5%90%8D%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%B2%E5%86%8D%E5%B0%86%E5%A7%93%E5%90%8D%E5%88%BB%E4%B8%8A%E8%82%AF%E5%B0%BC%E8%BF%AA%E4%B8%AD%E5%BF%83%EF%BC%8C%E6%8C%91%E6%88%98%E6%B3%95%E9%99%A2%E7%A6%81%E4%BB%A4",
-      "source": "rfi.fr",
-      "published": 1786657753
     },
     {
       "id": "de3f347787fe",
@@ -1346,5 +1346,5 @@
       "published": 1784730180
     }
   ],
-  "build_id": 1786742025
+  "build_id": 1786743935
 }
