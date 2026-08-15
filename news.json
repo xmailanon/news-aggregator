@@ -1,5 +1,5 @@
 {
-  "updated": 1786810210,
+  "updated": 1786812366,
   "items": [
     {
       "id": "36d49bc3f184",
@@ -14,6 +14,13 @@
       "url": "https://www.singtaousa.com/2026/08/15/news/china/giant-panda-twins-second-birthday-hong-kong/",
       "source": "singtaousa.com",
       "published": 1786809433
+    },
+    {
+      "id": "49fb0aa9b327",
+      "title": "2021年喀布尔陷落带来的三个关键启示",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260815-2021%E5%B9%B4%E5%96%80%E5%B8%83%E5%B0%94%E9%99%B7%E8%90%BD%E5%B8%A6%E6%9D%A5%E7%9A%84%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E5%90%AF%E7%A4%BA",
+      "source": "rfi.fr",
+      "published": 1786809145
     },
     {
       "id": "411a9146cfec",
@@ -504,13 +511,6 @@
       "url": "https://www.dw.com/zh/满足中国监管，苹果特训大语言模型/a-78368633?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786710720
-    },
-    {
-      "id": "55e197b0bf28",
-      "title": "费加罗报社评：习近平，借全球乱局谋2049前超越美国的中国“提线人”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260814-%E8%B4%B9%E5%8A%A0%E7%BD%97%E6%8A%A5%E7%A4%BE%E8%AF%84-%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%8C%E5%80%9F%E5%85%A8%E7%90%83%E4%B9%B1%E5%B1%80%E8%B0%8B%E5%9C%A82049%E5%B9%B4%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B8%AD%E5%9B%BD-%E6%8F%90%E7%BA%BF%E4%BA%BA",
-      "source": "rfi.fr",
-      "published": 1786706037
     },
     {
       "id": "421ca35ff144",
@@ -1367,5 +1367,5 @@
       "published": 1784647800
     }
   ],
-  "build_id": 1786810210
+  "build_id": 1786812366
 }
