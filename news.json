@@ -1,6 +1,27 @@
 {
-  "updated": 1786799038,
+  "updated": 1786801691,
   "items": [
+    {
+      "id": "c5e24a2f7d47",
+      "title": "印尼7.7強震已40死50傷　災民：劇烈晃動像在彈跳床上",
+      "url": "https://money.udn.com/money/story/5599/9693842",
+      "source": "money.udn.com",
+      "published": 1786801538
+    },
+    {
+      "id": "6b01ae173555",
+      "title": "美上訴法院裁定重審 大疆被列「軍工黑名單」案",
+      "url": "https://www.singtaousa.com/2026/08/15/news/china/dji-china-military-list-retrial/",
+      "source": "singtaousa.com",
+      "published": 1786800422
+    },
+    {
+      "id": "a9086d731586",
+      "title": "土耳其東部小型巴士爆胎翻覆　釀5死11傷慘劇",
+      "url": "https://money.udn.com/money/story/5599/9693823",
+      "source": "money.udn.com",
+      "published": 1786800088
+    },
     {
       "id": "cae9afb62577",
       "title": "山羊牧工薪資法規到期恐影響放牧防火",
@@ -79,11 +100,11 @@
       "published": 1786798800
     },
     {
-      "id": "26c8ff4a150a",
-      "title": "三藩市青年會派出200個全新書包",
-      "url": "https://www.singtaousa.com/2026/08/15/news/usa/san-francisco-ymca-backpacks/",
-      "source": "singtaousa.com",
-      "published": 1786798800
+      "id": "b4be19133078",
+      "title": "小马科斯：望年底前完成菲日海域划界谈判，不认为存在任何重大障碍",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260815-%E5%B0%8F%E9%A9%AC%E7%A7%91%E6%96%AF-%E6%9C%9B%E5%B9%B4%E5%BA%95%E5%89%8D%E5%AE%8C%E6%88%90%E8%8F%B2%E6%97%A5%E6%B5%B7%E5%9F%9F%E5%88%92%E7%95%8C%E8%B0%88%E5%88%A4%EF%BC%8C%E4%B8%8D%E8%AE%A4%E4%B8%BA%E5%AD%98%E5%9C%A8%E4%BB%BB%E4%BD%95%E9%87%8D%E5%A4%A7%E9%9A%9C%E7%A2%8D",
+      "source": "rfi.fr",
+      "published": 1786798458
     },
     {
       "id": "d6d7b4d700f6",
@@ -266,20 +287,6 @@
       "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260815-%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF-%E5%B7%B2%E6%B8%85%E6%A5%9A%E5%91%8A%E7%9F%A5%E8%8B%B9%E6%9E%9C%E4%B8%8D%E5%B8%8C%E6%9C%9B%E5%85%B6%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%87%87%E8%B4%AD%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87",
       "source": "rfi.fr",
       "published": 1786788346
-    },
-    {
-      "id": "66500c0b39d0",
-      "title": "日銀秋季升息預期升溫　市場焦點轉向9月決策",
-      "url": "https://money.udn.com/money/story/5599/9693664",
-      "source": "money.udn.com",
-      "published": 1786787691
-    },
-    {
-      "id": "6bfa1e22489b",
-      "title": "韓國晶片業救生育！華城市生育率達1 去年新生兒人數冠絕全國",
-      "url": "https://money.udn.com/money/story/5599/9693660",
-      "source": "money.udn.com",
-      "published": 1786787642
     },
     {
       "id": "1195f6e78d4a",
@@ -504,13 +511,6 @@
       "url": "https://www.dw.com/zh/學者：低階演習遭中國渲染-印尼捲入台海爭端/a-78367411?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786703040
-    },
-    {
-      "id": "450634d32c94",
-      "title": "美国宣布对进口无人机及零部件征收至高100%关税 加速脱钩",
-      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260814-%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%AF%B9%E8%BF%9B%E5%8F%A3%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%8F%8A%E9%9B%B6%E9%83%A8%E4%BB%B6%E5%BE%81%E6%94%B6%E8%87%B3%E9%AB%98100-%E5%85%B3%E7%A8%8E-%E5%8A%A0%E9%80%9F%E8%84%B1%E9%92%A9",
-      "source": "rfi.fr",
-      "published": 1786701202
     },
     {
       "id": "249d961d0e0d",
@@ -1374,5 +1374,5 @@
       "published": 1784647800
     }
   ],
-  "build_id": 1786799038
+  "build_id": 1786801691
 }
