@@ -1,6 +1,13 @@
 {
-  "updated": 1786768175,
+  "updated": 1786769793,
   "items": [
+    {
+      "id": "d48d7c1ac5b4",
+      "title": "德國碳交易制度修法　為產業穩定碳價免隨歐盟波動",
+      "url": "https://money.udn.com/money/story/5599/9693306",
+      "source": "money.udn.com",
+      "published": 1786769136
+    },
     {
       "id": "2a05378d2484",
       "title": "美驅逐艦南海失去電力4天！廁所空調全停 連供餐都成問題",
@@ -10,7 +17,7 @@
     },
     {
       "id": "23a1a6c5aae5",
-      "title": "美國消費轉弱 美股自歷史高點回落 半導體後市聚焦月底輝達財報",
+      "title": "美國消費轉弱、美股自歷史高點回落 半導體後市聚焦月底輝達財報",
       "url": "https://money.udn.com/money/story/123398/9693278",
       "source": "money.udn.com",
       "published": 1786767823
@@ -175,13 +182,6 @@
       "url": "https://money.udn.com/money/story/5599/9693036",
       "source": "money.udn.com",
       "published": 1786759982
-    },
-    {
-      "id": "8ad02380670d",
-      "title": "輝達縮減OpenAI資料中心擔保　降至1200億美元以下",
-      "url": "https://money.udn.com/money/story/123398/9693034",
-      "source": "money.udn.com",
-      "published": 1786759952
     },
     {
       "id": "bd3caaf794f9",
@@ -1346,5 +1346,5 @@
       "published": 1784730180
     }
   ],
-  "build_id": 1786768175
+  "build_id": 1786769793
 }
