@@ -1,6 +1,34 @@
 {
-  "updated": 1786803033,
+  "updated": 1786805013,
   "items": [
+    {
+      "id": "e98712b2505c",
+      "title": "劍橋非裔教授爆抄襲後陳屍家中　英相稱多方面悲劇",
+      "url": "https://money.udn.com/money/story/5599/9693886",
+      "source": "money.udn.com",
+      "published": 1786804592
+    },
+    {
+      "id": "5748d90434e8",
+      "title": "美債殖利率飆高但美股照樣登頂……結果會是哪個拉回？",
+      "url": "https://money.udn.com/money/story/123398/9693885",
+      "source": "money.udn.com",
+      "published": 1786804589
+    },
+    {
+      "id": "3e4fb33f25e0",
+      "title": "习近平访美前 特朗普政府据报准备无序令中方不安 可交付成果进展甚微",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260815-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8D%AE%E6%8A%A5%E5%87%86%E5%A4%87%E6%97%A0%E5%BA%8F%E4%BB%A4%E4%B8%AD%E6%96%B9%E4%B8%8D%E5%AE%89-%E5%8F%AF%E4%BA%A4%E4%BB%98%E6%88%90%E6%9E%9C%E8%BF%9B%E5%B1%95%E7%94%9A%E5%BE%AE",
+      "source": "rfi.fr",
+      "published": 1786804495
+    },
+    {
+      "id": "d23345fb6599",
+      "title": "九巴推出雨傘借用服務 20個巴士站設點方便市民",
+      "url": "https://www.singtaousa.com/2026/08/15/news/china/kmb-umbrella-borrowing-service-bus-stops/",
+      "source": "singtaousa.com",
+      "published": 1786804024
+    },
     {
       "id": "4381e31da779",
       "title": "美海岸警卫队人员在台与海巡署开展交流培训 为期两周",
@@ -82,13 +110,6 @@
       "id": "7f702b6cd1e2",
       "title": "已故灰熊前鋒薪資   由保險全額賠付",
       "url": "https://www.singtaousa.com/2026/08/15/news/usa/brandon-clark-salary-insurance/",
-      "source": "singtaousa.com",
-      "published": 1786802400
-    },
-    {
-      "id": "0f90ae9ed683",
-      "title": "爭取最大薪金空間   哈登續約騎士在即",
-      "url": "https://www.singtaousa.com/2026/08/15/news/usa/harden-contract-cavaliers/",
       "source": "singtaousa.com",
       "published": 1786802400
     },
@@ -280,20 +301,6 @@
       "url": "https://www.dw.com/zh/大疆应被移出美国防部-黑名单-？上诉法院要求重审/a-78381091?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786789440
-    },
-    {
-      "id": "516734370985",
-      "title": "以色列稱空襲黎巴嫩南部真主黨設施　傳釀7死3傷",
-      "url": "https://money.udn.com/money/story/5599/9693687",
-      "source": "money.udn.com",
-      "published": 1786789314
-    },
-    {
-      "id": "ffc9d993cbf1",
-      "title": "阿聯國營石油公司油輪荷莫茲海峽遇襲　一週內第3起",
-      "url": "https://money.udn.com/money/story/5599/9693681",
-      "source": "money.udn.com",
-      "published": 1786788748
     },
     {
       "id": "16ea83fd346b",
@@ -504,13 +511,6 @@
       "url": "https://www.dw.com/zh/美国企业将获准对网络犯罪分子发动网络攻击/a-78368664?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786704780
-    },
-    {
-      "id": "6d8a1e458522",
-      "title": "澳总理与特朗普通话谈关税等问题 并指中方导弹试射在太平洋引发极大担忧",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260814-%E6%BE%B3%E6%80%BB%E7%90%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B0%88%E5%85%B3%E7%A8%8E%E7%AD%89%E9%97%AE%E9%A2%98-%E5%B9%B6%E6%8C%87%E4%B8%AD%E6%96%B9%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E5%9C%A8%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%BC%95%E5%8F%91%E6%9E%81%E5%A4%A7%E6%8B%85%E5%BF%A7",
-      "source": "rfi.fr",
-      "published": 1786703892
     },
     {
       "id": "ed4ea3661986",
@@ -1367,5 +1367,5 @@
       "published": 1784647800
     }
   ],
-  "build_id": 1786803033
+  "build_id": 1786805013
 }
