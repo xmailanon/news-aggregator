@@ -1,12 +1,26 @@
 {
-  "updated": 1786830053,
+  "updated": 1786831686,
   "items": [
+    {
+      "id": "e5022c2773fa",
+      "title": "美維吉尼亞州立大學槍擊釀5傷　警方調查中無人被捕",
+      "url": "https://money.udn.com/money/story/5599/9694115",
+      "source": "money.udn.com",
+      "published": 1786831226
+    },
+    {
+      "id": "3e0051c07f11",
+      "title": "麥迪娜直播草原婚禮",
+      "url": "https://www.singtaousa.com/2026/08/15/entertainment/maidina-live-grassland-wedding/",
+      "source": "singtaousa.com",
+      "published": 1786831200
+    },
     {
       "id": "2da39aa5bc96",
       "title": "剛果伊波拉防線失守 監測網瀕臨崩潰",
       "url": "https://www.singtaousa.com/2026/08/15/news/world/surveillance-system-struggles-in-eastern-congo-as-ebola-outbreak-spreads/",
       "source": "singtaousa.com",
-      "published": 1786828975
+      "published": 1786830193
     },
     {
       "id": "dd575146700a",
@@ -140,13 +154,6 @@
       "url": "https://money.udn.com/money/story/5599/9694089",
       "source": "money.udn.com",
       "published": 1786818631
-    },
-    {
-      "id": "86797b24f855",
-      "title": "印尼7.7級強震 增至47死 3名中國遊客輕傷 逾百房屋倒塌",
-      "url": "https://www.singtaousa.com/2026/08/15/news/china/indonesia-earthquake-deaths-chinese-tourists/",
-      "source": "singtaousa.com",
-      "published": 1786818421
     },
     {
       "id": "3c46e867574c",
@@ -287,13 +294,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260815-%E9%9D%9E%E6%B3%95%E6%8B%8D%E6%91%84%E7%BE%8E%E6%80%80%E7%89%B9%E6%9B%BC%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%8F%8Ab-2%E8%BD%B0%E7%82%B8%E6%9C%BA%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%88%A4%E5%9B%9A%E5%85%AD%E4%B8%AA%E6%9C%88-%E5%B0%86%E8%A2%AB%E9%81%A3%E8%BF%94",
       "source": "rfi.fr",
       "published": 1786807481
-    },
-    {
-      "id": "79dcd86e535a",
-      "title": "外交政策考量　澳洲外長終止與兩所中國院校合作案",
-      "url": "https://money.udn.com/money/story/5599/9693982",
-      "source": "money.udn.com",
-      "published": 1786806746
     },
     {
       "id": "c86864d0faf0",
@@ -1367,5 +1367,5 @@
       "published": 1784647800
     }
   ],
-  "build_id": 1786830053
+  "build_id": 1786831686
 }
