@@ -1,6 +1,48 @@
 {
-  "updated": 1786805013,
+  "updated": 1786806514,
   "items": [
+    {
+      "id": "9d0811673fb1",
+      "title": "D23博覽Marvel星戰猛料連環發放 曉治積曼自薦加入《復仇者聯盟5》",
+      "url": "https://www.singtaousa.com/2026/08/15/entertainment/d23-expo-avengers-star-wars-reveals/",
+      "source": "singtaousa.com",
+      "published": 1786806061
+    },
+    {
+      "id": "ffe35bab7d9e",
+      "title": "倪嘉雯扮昏迷唔輕鬆 丁子朗自爆喊足10集",
+      "url": "https://www.singtaousa.com/2026/08/15/entertainment/ni-jia-wen-ding-zi-lang-han/",
+      "source": "singtaousa.com",
+      "published": 1786806000
+    },
+    {
+      "id": "16d1665dbe89",
+      "title": "警方秀茂坪公屋搗破毒品儲存倉 檢獲市值290萬可卡因拘一男",
+      "url": "https://www.singtaousa.com/2026/08/15/news/china/cocaine-drugs-raid-public-housing/",
+      "source": "singtaousa.com",
+      "published": 1786805828
+    },
+    {
+      "id": "419d4ee01301",
+      "title": "食尚巨變1／內用來客數銳減！餐飲消費習慣大洗牌 業者迎超速轉型戰",
+      "url": "https://money.udn.com/money/story/122381/9693875",
+      "source": "money.udn.com",
+      "published": 1786805416
+    },
+    {
+      "id": "d4d344d12bcb",
+      "title": "食尚巨變2／即使有黃仁勳光環加持 日本居酒屋倒閉家數仍創新高",
+      "url": "https://money.udn.com/money/story/122381/9693871",
+      "source": "money.udn.com",
+      "published": 1786805375
+    },
+    {
+      "id": "e8dcc3cfda2b",
+      "title": "食尚巨變3／沒比牛奶健康？美國人正重新思考對植物奶的愛",
+      "url": "https://money.udn.com/money/story/122381/9693869",
+      "source": "money.udn.com",
+      "published": 1786805327
+    },
     {
       "id": "e98712b2505c",
       "title": "劍橋非裔教授爆抄襲後陳屍家中　英相稱多方面悲劇",
@@ -89,27 +131,6 @@
       "id": "ac98a911c92c",
       "title": "MLB明年還有夢田之戰  皇家紅襪玉米田開打",
       "url": "https://www.singtaousa.com/2026/08/15/news/usa/mlb-dream-game-returns-2027/",
-      "source": "singtaousa.com",
-      "published": 1786802400
-    },
-    {
-      "id": "01c37089ea68",
-      "title": "施羅德第九次被交易",
-      "url": "https://www.singtaousa.com/2026/08/15/news/usa/schroder-ninth-trade/",
-      "source": "singtaousa.com",
-      "published": 1786802400
-    },
-    {
-      "id": "025038971495",
-      "title": "2K27能力值東部抬頭  76人四巨頭霸榜",
-      "url": "https://www.singtaousa.com/2026/08/15/news/usa/2k27-eastern-76ers-top/",
-      "source": "singtaousa.com",
-      "published": 1786802400
-    },
-    {
-      "id": "7f702b6cd1e2",
-      "title": "已故灰熊前鋒薪資   由保險全額賠付",
-      "url": "https://www.singtaousa.com/2026/08/15/news/usa/brandon-clark-salary-insurance/",
       "source": "singtaousa.com",
       "published": 1786802400
     },
@@ -261,32 +282,11 @@
       "published": 1786792367
     },
     {
-      "id": "d67e15aa2231",
-      "title": "軍機結合傳統美食　泰國空軍博物館推另類旅遊體驗",
-      "url": "https://money.udn.com/money/story/5599/9693720",
-      "source": "money.udn.com",
-      "published": 1786792030
-    },
-    {
       "id": "610ccdf70467",
       "title": "日元为何跌跌不休？揭秘暴跌背后的原因",
       "url": "https://www.dw.com/zh/日元为何跌跌不休？揭秘暴跌背后的原因/a-78379479?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786791780
-    },
-    {
-      "id": "376ef76e42ad",
-      "title": "雖然 TACO 為何川普算是打贏了第一回合關稅戰？",
-      "url": "https://money.udn.com/money/story/5599/9693712",
-      "source": "money.udn.com",
-      "published": 1786791109
-    },
-    {
-      "id": "54076f7cd706",
-      "title": "立陶宛議員擬赴比利時會中國代表　總理：應維持外交一致",
-      "url": "https://money.udn.com/money/story/5599/9693694",
-      "source": "money.udn.com",
-      "published": 1786789840
     },
     {
       "id": "36ebf70fee29",
@@ -1367,5 +1367,5 @@
       "published": 1784647800
     }
   ],
-  "build_id": 1786805013
+  "build_id": 1786806514
 }
