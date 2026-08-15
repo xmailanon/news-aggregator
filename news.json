@@ -1,6 +1,13 @@
 {
-  "updated": 1786828189,
+  "updated": 1786830053,
   "items": [
+    {
+      "id": "2da39aa5bc96",
+      "title": "剛果伊波拉防線失守 監測網瀕臨崩潰",
+      "url": "https://www.singtaousa.com/2026/08/15/news/world/surveillance-system-struggles-in-eastern-congo-as-ebola-outbreak-spreads/",
+      "source": "singtaousa.com",
+      "published": 1786828975
+    },
     {
       "id": "dd575146700a",
       "title": "川普發布與金正恩2019年合照　強調兩人相處融洽",
@@ -140,13 +147,6 @@
       "url": "https://www.singtaousa.com/2026/08/15/news/china/indonesia-earthquake-deaths-chinese-tourists/",
       "source": "singtaousa.com",
       "published": 1786818421
-    },
-    {
-      "id": "da0ebc782dc1",
-      "title": "維珍尼亞州立大學發生槍擊事件 5傷1危殆",
-      "url": "https://www.singtaousa.com/2026/08/15/news/usa/multiple-shooters-at-virginia-state-university-with-5-people-shot-cbc-news/",
-      "source": "singtaousa.com",
-      "published": 1786818288
     },
     {
       "id": "3c46e867574c",
@@ -1367,5 +1367,5 @@
       "published": 1784647800
     }
   ],
-  "build_id": 1786828189
+  "build_id": 1786830053
 }
