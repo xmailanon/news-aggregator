@@ -1,6 +1,34 @@
 {
-  "updated": 1786900177,
+  "updated": 1786902015,
   "items": [
+    {
+      "id": "e0101f5a9d7b",
+      "title": "1分鐘看世界／比利時近代最大規模林火肆虐 燒毀3,000公頃林地",
+      "url": "https://money.udn.com/money/story/5599/9695306",
+      "source": "money.udn.com",
+      "published": 1786901454
+    },
+    {
+      "id": "d5a9c22dc04f",
+      "title": "以色列空襲黎巴嫩釀11死 談判現陰影",
+      "url": "https://www.singtaousa.com/2026/08/16/news/world/israeli-strikes-that-killed-11-send-clear-message-on-negotiations-says-lebanese-president/",
+      "source": "singtaousa.com",
+      "published": 1786901126
+    },
+    {
+      "id": "7d7171132e15",
+      "title": "匈牙利M3高速公路波蘭巴士翻覆 造成12死10傷",
+      "url": "https://www.singtaousa.com/2026/08/16/news/world/twelve-killed-and-at-least-10-injured-in-polish-bus-crash-in-hungary/",
+      "source": "singtaousa.com",
+      "published": 1786900979
+    },
+    {
+      "id": "4279e2a97477",
+      "title": "特朗普民调跌至低点 经济与伊朗战事成共和党期中选举隐忧",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E8%B7%8C%E8%87%B3%E4%BD%8E%E7%82%B9-%E7%BB%8F%E6%B5%8E%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%88%90%E5%85%B1%E5%92%8C%E5%85%9A%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E9%9A%90%E5%BF%A7",
+      "source": "rfi.fr",
+      "published": 1786900891
+    },
     {
       "id": "2eb41bdf778e",
       "title": "晒一家五口度假照勁溫馨 胡杏兒笑談老公與黃宗澤「世紀擁抱」",
@@ -93,13 +121,6 @@
       "published": 1786892400
     },
     {
-      "id": "926fc61e01e7",
-      "title": "沙田Opatra London店涉不良銷售手法 婦人稱被騙六萬元 店舖已暫停營業",
-      "url": "https://www.singtaousa.com/2026/08/16/news/china/opatra-london-shatin-store-sales-controversy/",
-      "source": "singtaousa.com",
-      "published": 1786892219
-    },
-    {
       "id": "d2b2fe480cc3",
       "title": "白宮科技顧問：輝達AI融資計畫 潛藏「暗GPU」風險",
       "url": "https://money.udn.com/money/story/5599/9695300",
@@ -112,13 +133,6 @@
       "url": "https://money.udn.com/money/story/5599/9695289",
       "source": "money.udn.com",
       "published": 1786891529
-    },
-    {
-      "id": "7d7171132e15",
-      "title": "匈牙利M3高速公路波蘭巴士翻覆 造成12死10傷",
-      "url": "https://www.singtaousa.com/2026/08/16/news/world/twelve-killed-and-at-least-10-injured-in-polish-bus-crash-in-hungary/",
-      "source": "singtaousa.com",
-      "published": 1786891189
     },
     {
       "id": "3e1f3547f525",
@@ -287,13 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9694985",
       "source": "money.udn.com",
       "published": 1786876588
-    },
-    {
-      "id": "cf74823ba0f4",
-      "title": "美國欲在經濟上孤立伊朗 貝森特手中有哪些牌可打？",
-      "url": "https://money.udn.com/money/story/5599/9694090",
-      "source": "money.udn.com",
-      "published": 1786876461
     },
     {
       "id": "10bd1e0cbf05",
@@ -581,13 +588,6 @@
       "url": "https://www.dw.com/zh/大疆应被移出美国防部-黑名单-？上诉法院要求重审/a-78381091?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786789440
-    },
-    {
-      "id": "16ea83fd346b",
-      "title": "美商务部长：已清楚告知苹果不希望其从中国采购存储芯片",
-      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260815-%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF-%E5%B7%B2%E6%B8%85%E6%A5%9A%E5%91%8A%E7%9F%A5%E8%8B%B9%E6%9E%9C%E4%B8%8D%E5%B8%8C%E6%9C%9B%E5%85%B6%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%87%87%E8%B4%AD%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87",
-      "source": "rfi.fr",
-      "published": 1786788346
     },
     {
       "id": "498ed66718b5",
@@ -1360,5 +1360,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1786900177
+  "build_id": 1786902015
 }
