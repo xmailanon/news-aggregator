@@ -1,6 +1,41 @@
 {
-  "updated": 1786853083,
+  "updated": 1786856158,
   "items": [
+    {
+      "id": "5bbbf71ef170",
+      "title": "金正恩致信普丁　雙方重申深化北韓俄國合作",
+      "url": "https://money.udn.com/money/story/5599/9694544",
+      "source": "money.udn.com",
+      "published": 1786854990
+    },
+    {
+      "id": "a67486a7e65e",
+      "title": "萬那杜外海發生規模6.1地震　尚無災情傳出",
+      "url": "https://money.udn.com/money/story/5599/9694525",
+      "source": "money.udn.com",
+      "published": 1786854114
+    },
+    {
+      "id": "323f9b7b05bd",
+      "title": "伊朗戰事拖累美軍航艦調度　西太平洋恐現空窗期",
+      "url": "https://money.udn.com/money/story/5599/9694522",
+      "source": "money.udn.com",
+      "published": 1786854089
+    },
+    {
+      "id": "34c982b30327",
+      "title": "維州大學槍擊案 警逮捕19歲疑犯",
+      "url": "https://www.singtaousa.com/2026/08/15/news/usa/police-have-arrested-a-19-year-old-in-connection-with-virginia-state-university-shooting/",
+      "source": "singtaousa.com",
+      "published": 1786853774
+    },
+    {
+      "id": "7f3bfa984cfc",
+      "title": "暴雨洪水襲印第安納州　釀5死數百人撤離",
+      "url": "https://money.udn.com/money/story/5599/9694477",
+      "source": "money.udn.com",
+      "published": 1786852845
+    },
     {
       "id": "17a3f72cef9b",
       "title": "德州胡德堡基地餐廳開始販售啤酒",
@@ -14,6 +49,13 @@
       "url": "https://www.singtaousa.com/2026/08/15/entertainment/you-ya-new-love-72-years-old/",
       "source": "singtaousa.com",
       "published": 1786852800
+    },
+    {
+      "id": "bb53eeba4300",
+      "title": "紐時：美國在亞洲老牌盟友遭中國進逼 川普卻一心撲在伊朗",
+      "url": "https://money.udn.com/money/story/5599/9694469",
+      "source": "money.udn.com",
+      "published": 1786852631
     },
     {
       "id": "d38ec7f0cb30",
@@ -135,13 +177,6 @@
       "published": 1786845600
     },
     {
-      "id": "820b7538ec0e",
-      "title": "分析：特朗普行程安排與美軍航母狀況引發對美伊戰爭的關注",
-      "url": "https://www.singtaousa.com/2026/08/15/news/china/trump-covert-travel-sailor-suicide/",
-      "source": "singtaousa.com",
-      "published": 1786845425
-    },
-    {
       "id": "0b1e413ad160",
       "title": "伊朗戰區苦撐逾200天、出動破萬架次！美軍中東司令視察林肯號",
       "url": "https://money.udn.com/money/story/5599/9694272",
@@ -219,20 +254,6 @@
       "published": 1786835013
     },
     {
-      "id": "e5022c2773fa",
-      "title": "美維吉尼亞州立大學槍擊釀5傷　警方調查中無人被捕",
-      "url": "https://money.udn.com/money/story/5599/9694115",
-      "source": "money.udn.com",
-      "published": 1786831226
-    },
-    {
-      "id": "dd575146700a",
-      "title": "川普發布與金正恩2019年合照　強調兩人相處融洽",
-      "url": "https://money.udn.com/money/story/5599/9694108",
-      "source": "money.udn.com",
-      "published": 1786828024
-    },
-    {
       "id": "1b38abfbb56c",
       "title": "伊朗称卡塔尔扣押3名伊朗飞行员，遭卡方否认",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260815-%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%8D%A1%E5%A1%94%E5%B0%94%E6%89%A3%E6%8A%BC3%E5%90%8D%E4%BC%8A%E6%9C%97%E9%A3%9E%E8%A1%8C%E5%91%98%EF%BC%8C%E9%81%AD%E5%8D%A1%E6%96%B9%E5%90%A6%E8%AE%A4",
@@ -247,25 +268,11 @@
       "published": 1786824620
     },
     {
-      "id": "2fa2ce190374",
-      "title": "以色列稱擊斃真主黨指揮官　盼與黎巴嫩展開更認真談判",
-      "url": "https://money.udn.com/money/story/5599/9694100",
-      "source": "money.udn.com",
-      "published": 1786824027
-    },
-    {
       "id": "46dbfbb82e94",
       "title": "热浪中的欧洲：法国继续灭山火 德国面临莱茵河最低水位",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260815-%E7%83%AD%E6%B5%AA%E4%B8%AD%E7%9A%84%E6%AC%A7%E6%B4%B2-%E6%B3%95%E5%9B%BD%E7%BB%A7%E7%BB%AD%E7%81%AD%E5%B1%B1%E7%81%AB-%E5%BE%B7%E5%9B%BD%E9%9D%A2%E4%B8%B4%E8%8E%B1%E8%8C%B5%E6%B2%B3%E6%9C%80%E4%BD%8E%E6%B0%B4%E4%BD%8D",
       "source": "rfi.fr",
       "published": 1786822473
-    },
-    {
-      "id": "dde9df23f788",
-      "title": "比利時近代最嚴重野火延燒　約600人撤離家園",
-      "url": "https://money.udn.com/money/story/5599/9694097",
-      "source": "money.udn.com",
-      "published": 1786822227
     },
     {
       "id": "4e82c4bca8da",
@@ -280,13 +287,6 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260815-%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%8D%97%E9%83%A8%EF%BC%8C%E9%80%A0%E6%88%906%E6%9C%88%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E6%9D%A5%E6%9C%80%E6%83%A8%E9%87%8D%E4%BC%A4%E4%BA%A1%EF%BC%8C%E5%90%8E%E5%8F%88%E7%A7%B0%E4%BB%8D%E5%B8%8C%E6%9C%9B%E6%8E%A8%E8%BF%9B%E5%92%8C%E8%B0%88",
       "source": "rfi.fr",
       "published": 1786818821
-    },
-    {
-      "id": "14b4928e724a",
-      "title": "印尼7.7強震增至47人罹難　救援人員持續搜尋生還者",
-      "url": "https://money.udn.com/money/story/5599/9694089",
-      "source": "money.udn.com",
-      "published": 1786818631
     },
     {
       "id": "68c5b4e1012d",
@@ -1374,5 +1374,5 @@
       "published": 1784647800
     }
   ],
-  "build_id": 1786853083
+  "build_id": 1786856158
 }
