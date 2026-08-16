@@ -1,6 +1,41 @@
 {
-  "updated": 1786871704,
+  "updated": 1786873641,
   "items": [
+    {
+      "id": "6e346bbaa8fe",
+      "title": "中方船只疑似在钓鱼岛周边进行海洋调查 日巡逻船电告停止",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260816-%E4%B8%AD%E6%96%B9%E8%88%B9%E5%8F%AA%E7%96%91%E4%BC%BC%E5%9C%A8%E9%92%93%E9%B1%BC%E5%B2%9B%E5%91%A8%E8%BE%B9%E8%BF%9B%E8%A1%8C%E6%B5%B7%E6%B4%8B%E8%B0%83%E6%9F%A5-%E6%97%A5%E5%B7%A1%E9%80%BB%E8%88%B9%E7%94%B5%E5%91%8A%E5%81%9C%E6%AD%A2",
+      "source": "rfi.fr",
+      "published": 1786872854
+    },
+    {
+      "id": "a94e40a03302",
+      "title": "印尼7.7強震至少51死　回顧該國十年來最致命地震",
+      "url": "https://money.udn.com/money/story/5599/9694938",
+      "source": "money.udn.com",
+      "published": 1786872644
+    },
+    {
+      "id": "72c8c04511d7",
+      "title": "昂坪音樂會陳健安與COLLAR互動有火花　大讚女團音樂有品味",
+      "url": "https://www.singtaousa.com/2026/08/16/entertainment/collar-chan-kin-on-concert-interaction/",
+      "source": "singtaousa.com",
+      "published": 1786872576
+    },
+    {
+      "id": "316d7624bac3",
+      "title": "沙田Opatra London涉不良銷售 分店暫停營業 海關跟進調查",
+      "url": "https://www.singtaousa.com/2026/08/16/news/china/opatra-london-shatin-store-consumer-dispute/",
+      "source": "singtaousa.com",
+      "published": 1786872429
+    },
+    {
+      "id": "d68ce64cb981",
+      "title": "比利时森林火灾继续蔓延 距德国边境只剩三公里",
+      "url": "https://www.dw.com/zh/比利时森林火灾继续蔓延-距德国边境只剩三公里/a-78387182?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1786871580
+    },
     {
       "id": "5c0c16163a79",
       "title": "菲防长与中国外交部、驻菲使馆论战持续 再批“勒索敲诈”",
@@ -226,20 +261,6 @@
       "published": 1786859130
     },
     {
-      "id": "d063d1d771e4",
-      "title": "ROVER 亨仔、希晉分享近況：與 NBA 球星同場較技 兼顧夢想與現實",
-      "url": "https://www.singtaousa.com/2026/08/15/entertainment/rover-members-basketball-birthday-career/",
-      "source": "singtaousa.com",
-      "published": 1786858372
-    },
-    {
-      "id": "647d94b95988",
-      "title": "夏雨聚會透露秦煌近況 籤新劇《日落下的彩虹》口碑獲讚",
-      "url": "https://www.singtaousa.com/2026/08/15/entertainment/bobby-au-yeung-health-update/",
-      "source": "singtaousa.com",
-      "published": 1786858136
-    },
-    {
       "id": "f73bc153d6a5",
       "title": "印尼規模7.7強震釀48死　數千災民等待援助",
       "url": "https://money.udn.com/money/story/5599/9694622",
@@ -280,13 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9694477",
       "source": "money.udn.com",
       "published": 1786852845
-    },
-    {
-      "id": "bb53eeba4300",
-      "title": "紐時：美國在亞洲老牌盟友遭中國進逼 川普卻一心撲在伊朗",
-      "url": "https://money.udn.com/money/story/5599/9694469",
-      "source": "money.udn.com",
-      "published": 1786852631
     },
     {
       "id": "d38ec7f0cb30",
@@ -518,13 +532,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn7n5zxmmr1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1786763986
-    },
-    {
-      "id": "23aac4117d09",
-      "title": "火灾中，西班牙救回中世纪君主遗骨和珍贵文物",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260815-%E7%81%AB%E7%81%BE%E4%B8%AD%EF%BC%8C%E8%A5%BF%E7%8F%AD%E7%89%99%E6%95%91%E5%9B%9E%E4%B8%AD%E4%B8%96%E7%BA%AA%E5%90%9B%E4%B8%BB%E9%81%97%E9%AA%A8%E5%92%8C%E7%8F%8D%E8%B4%B5%E6%96%87%E7%89%A9",
-      "source": "rfi.fr",
-      "published": 1786756889
     },
     {
       "id": "88a7df2ab397",
@@ -1360,5 +1367,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1786871704
+  "build_id": 1786873641
 }
