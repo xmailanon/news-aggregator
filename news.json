@@ -1,6 +1,27 @@
 {
-  "updated": 1786943027,
+  "updated": 1786946184,
   "items": [
+    {
+      "id": "c0b91f717545",
+      "title": "韓美自由護盾演習登場　評估戰時指揮權移交",
+      "url": "https://money.udn.com/money/story/5599/9696382",
+      "source": "money.udn.com",
+      "published": 1786945542
+    },
+    {
+      "id": "1f5bc0eb3e3c",
+      "title": "電線桿倒塌引發踩踏推擠　印度比哈邦寺廟釀6死",
+      "url": "https://money.udn.com/money/story/5599/9696362",
+      "source": "money.udn.com",
+      "published": 1786945005
+    },
+    {
+      "id": "30e6584f274d",
+      "title": "樂天攜手德國Helsing　推動攻擊型無人機引進、日本國產化",
+      "url": "https://money.udn.com/money/story/5599/9696306",
+      "source": "money.udn.com",
+      "published": 1786943553
+    },
     {
       "id": "9bb2086fb539",
       "title": "馬國弼到處打工 還掉4500萬債務",
@@ -233,27 +254,6 @@
       "published": 1786935371
     },
     {
-      "id": "ef76abab13cd",
-      "title": "受伊朗戰爭衝擊　日本第2季經濟微幅成長",
-      "url": "https://money.udn.com/money/story/5599/9695892",
-      "source": "money.udn.com",
-      "published": 1786934208
-    },
-    {
-      "id": "149189e7c7c4",
-      "title": "告別寬鬆撈錢時代！那斯達克嚴管雞蛋水餃股",
-      "url": "https://money.udn.com/money/story/122381/9695647",
-      "source": "money.udn.com",
-      "published": 1786933615
-    },
-    {
-      "id": "f5a593854734",
-      "title": "鮑爾湖水位新低發電恐停擺　影響美西逾4000萬人",
-      "url": "https://money.udn.com/money/story/5599/9695848",
-      "source": "money.udn.com",
-      "published": 1786933301
-    },
-    {
       "id": "5141b7e57541",
       "title": "特朗普“送给中国一份大礼”：美国亚洲策略再受质疑",
       "url": "https://cn.nytimes.com/usa/20260817/china-expansion-asia-trump-iran/?utm_source=RSS",
@@ -371,6 +371,13 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%91%E8%B0%83%E8%B7%8C%E8%87%B3%E4%BD%8E%E7%82%B9-%E7%BB%8F%E6%B5%8E%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E6%88%90%E5%85%B1%E5%92%8C%E5%85%9A%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E9%9A%90%E5%BF%A7",
       "source": "rfi.fr",
       "published": 1786900891
+    },
+    {
+      "id": "39092340074a",
+      "title": "具有中国特色的AI数据：中国争夺人工智能时代话语权",
+      "url": "https://cn.nytimes.com/china/20260817/china-ai-data-chatbots/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1786900392
     },
     {
       "id": "94b5baa6c344",
@@ -1073,13 +1080,6 @@
       "published": 1786470907
     },
     {
-      "id": "982bc7338b8f",
-      "title": "“年度推销员特朗普”：油价高企推动电动摩托车热潮",
-      "url": "https://cn.nytimes.com/world/20260812/electric-motorcycles-pakistan/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1786468700
-    },
-    {
       "id": "101416ff2b92",
       "title": "违反《反渗透法》：“陆配”徐春莺被判七年监禁",
       "url": "https://www.dw.com/zh/违反《反渗透法》：-陆配-徐春莺被判七年监禁/a-78325628?maca=chi-rss-chi-all-1127-rdf",
@@ -1360,5 +1360,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1786943027
+  "build_id": 1786946184
 }
