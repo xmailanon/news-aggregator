@@ -1,12 +1,33 @@
 {
-  "updated": 1787003141,
+  "updated": 1787004669,
   "items": [
+    {
+      "id": "eb7727989214",
+      "title": "纪念江泽民习近平何以罕见地屡次提及六四",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260817-%E7%BA%AA%E5%BF%B5%E6%B1%9F%E6%B3%BD%E6%B0%91%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BD%95%E4%BB%A5%E7%BD%95%E8%A7%81%E5%9C%B0%E5%B1%A1%E6%AC%A1%E6%8F%90%E5%8F%8A%E5%85%AD%E5%9B%9B",
+      "source": "rfi.fr",
+      "published": 1787003876
+    },
+    {
+      "id": "f928fc082177",
+      "title": "川普縮減美韓軍演規模　稱金正恩已回應對話要求",
+      "url": "https://money.udn.com/money/story/5599/9697739",
+      "source": "money.udn.com",
+      "published": 1787003667
+    },
     {
       "id": "6535fe7d94f2",
       "title": "美国战争部审查高校对外合作 转型孔子学院列入“受关注外国实体”范围",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260817-%E7%BE%8E%E5%9B%BD%E6%88%98%E4%BA%89%E9%83%A8%E5%AE%A1%E6%9F%A5%E9%AB%98%E6%A0%A1%E5%AF%B9%E5%A4%96%E5%90%88%E4%BD%9C-%E8%BD%AC%E5%9E%8B%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2%E5%88%97%E5%85%A5-%E5%8F%97%E5%85%B3%E6%B3%A8%E5%A4%96%E5%9B%BD%E5%AE%9E%E4%BD%93-%E8%8C%83%E5%9B%B4",
       "source": "rfi.fr",
       "published": 1787002696
+    },
+    {
+      "id": "d79c60293b41",
+      "title": "挪威國王罹患溶血性貧血　住院治療請病假兩週",
+      "url": "https://money.udn.com/money/story/5599/9697734",
+      "source": "money.udn.com",
+      "published": 1787002585
     },
     {
       "id": "9316d0ebbef4",
@@ -23,13 +44,6 @@
       "published": 1787002149
     },
     {
-      "id": "b23b1a115772",
-      "title": "旺角跨部門行動打擊非法入境及非法勞工 拘捕19人包括一名16歲人士",
-      "url": "https://www.singtaousa.com/2026/08/17/news/china/cross-department-operation-illegal-immigrants-arrests/",
-      "source": "singtaousa.com",
-      "published": 1787002025
-    },
-    {
       "id": "0784e593b44a",
       "title": "特朗普宣布大幅减少美韩军演规模遭议员批评荒谬",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260817-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91%E7%BE%8E%E9%9F%A9%E5%86%9B%E6%BC%94%E8%A7%84%E6%A8%A1%E9%81%AD%E8%AE%AE%E5%91%98%E6%89%B9%E8%AF%84%E8%8D%92%E8%B0%AC",
@@ -44,74 +58,11 @@
       "published": 1787001971
     },
     {
-      "id": "4acfce3402b5",
-      "title": "桑德斯提案禁止扣押養老金償還學貸",
-      "url": "https://www.singtaousa.com/2026/08/17/news/usa/sanders-proposal-bans-garnishing-pensions-to-pay-off-student-loans/",
-      "source": "singtaousa.com",
-      "published": 1787001776
-    },
-    {
       "id": "31427865568a",
       "title": "美媒：习近平9月访美与特朗普会谈 “无意参加联合国大会”",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260817-%E7%BE%8E%E5%AA%92-%E4%B9%A0%E8%BF%91%E5%B9%B39%E6%9C%88%E8%AE%BF%E7%BE%8E%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%B0%88-%E6%97%A0%E6%84%8F%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A",
       "source": "rfi.fr",
       "published": 1787001709
-    },
-    {
-      "id": "4a2699dfd05f",
-      "title": "伊朗暗示戰略轉攻勢 美伊諒解備忘錄到期",
-      "url": "https://www.singtaousa.com/2026/08/17/news/world/iran-signals-readiness-for-us-ground-operations-as-mou-expires/",
-      "source": "singtaousa.com",
-      "published": 1787001681
-    },
-    {
-      "id": "c09603c1c6db",
-      "title": "約旦河西岸家園遭圍困 巴裔美人返鄉捍衛",
-      "url": "https://www.singtaousa.com/2026/08/17/news/world/palestinian-american-returns-to-west-bank-to-defend-his-home-under-siege-by-israeli-settlers/",
-      "source": "singtaousa.com",
-      "published": 1787001379
-    },
-    {
-      "id": "40c65a767812",
-      "title": "特朗普威脅轟炸阿曼 警告勿礙美伊談判",
-      "url": "https://www.singtaousa.com/2026/08/17/news/world/trump-threatens-to-bomb-us-ally-oman-if-it-gets-in-the-way-over-iran-deal/",
-      "source": "singtaousa.com",
-      "published": 1787001206
-    },
-    {
-      "id": "098012610533",
-      "title": "蔡依林廣州騷爆意外 歌迷跌傷臉縫30針",
-      "url": "https://www.singtaousa.com/2026/08/17/entertainment/jolin-tsai-guangzhou-concert-accident/",
-      "source": "singtaousa.com",
-      "published": 1787000400
-    },
-    {
-      "id": "9fcd870fbb44",
-      "title": "香港郵政審慎規劃人力資源 試用期員工獲續聘兩年合約",
-      "url": "https://www.singtaousa.com/2026/08/17/news/china/postal-staff-contract-renewal-two-years/",
-      "source": "singtaousa.com",
-      "published": 1787000259
-    },
-    {
-      "id": "20ca8077830f",
-      "title": "挪威北極鳴笛驚擾睡熊遭罰款",
-      "url": "https://www.singtaousa.com/2026/08/17/news/world/never-wake-a-sleeping-polar-bear-or-pay-a-6700-fine-in-the-arctic/",
-      "source": "singtaousa.com",
-      "published": 1787000152
-    },
-    {
-      "id": "475c1c78ebb8",
-      "title": "意大利火山雷擊 美國遊客不幸身亡",
-      "url": "https://www.singtaousa.com/2026/08/17/news/world/american-killed-by-lightning-while-climbing-italian-volcano/",
-      "source": "singtaousa.com",
-      "published": 1786999944
-    },
-    {
-      "id": "68b60b8c6ef8",
-      "title": "俄羅斯召見日本大使 抗議領土爭議表態",
-      "url": "https://www.singtaousa.com/2026/08/17/news/world/russia-summons-japan-envoy-over-disputed-island/",
-      "source": "singtaousa.com",
-      "published": 1786999383
     },
     {
       "id": "e0f7de29fe6a",
@@ -133,20 +84,6 @@
       "url": "https://money.udn.com/money/story/5599/9697718",
       "source": "money.udn.com",
       "published": 1786998091
-    },
-    {
-      "id": "ab0fe693f24d",
-      "title": "游嘉欣自證變瘦冇整容 何沛珈力撐女大十八變",
-      "url": "https://www.singtaousa.com/2026/08/17/entertainment/yau-ga-hin-weight-loss/",
-      "source": "singtaousa.com",
-      "published": 1786996800
-    },
-    {
-      "id": "1029328805b5",
-      "title": "四川警方公告尋找近四千萬涉案資金合法主人 半年內無人認領將依法上繳國庫",
-      "url": "https://www.singtaousa.com/2026/08/17/news/china/sichuan-police-seek-legal-owner-of-seized-funds/",
-      "source": "singtaousa.com",
-      "published": 1786996624
     },
     {
       "id": "85ec383e5fd6",
@@ -282,25 +219,11 @@
       "published": 1786987243
     },
     {
-      "id": "71b28a1ae5a8",
-      "title": "荷莫茲海峽問題引憂且油價仍高檔　歐洲股市收低",
-      "url": "https://money.udn.com/money/story/5599/9697693",
-      "source": "money.udn.com",
-      "published": 1786986748
-    },
-    {
       "id": "57cc7e0cc0fe",
       "title": "巴基斯坦突袭一个电诈中心258人被捕 其中越南籍170人中国籍40人",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260817-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%AA%81%E8%A2%AD%E4%B8%80%E4%B8%AA%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%83258%E4%BA%BA%E8%A2%AB%E6%8D%95-%E5%85%B6%E4%B8%AD%E8%B6%8A%E5%8D%97%E7%B1%8D170%E4%BA%BA%E4%B8%AD%E5%9B%BD%E7%B1%8D40%E4%BA%BA",
       "source": "rfi.fr",
       "published": 1786986154
-    },
-    {
-      "id": "39d3b2384a54",
-      "title": "演習前夕急轉彎 川普：縮減美韓軍演規模",
-      "url": "https://money.udn.com/money/story/5599/9697525",
-      "source": "money.udn.com",
-      "published": 1786983033
     },
     {
       "id": "7c8306c821af",
@@ -546,13 +469,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c2352dp3y4vo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1786925137
-    },
-    {
-      "id": "9de6fabe7a62",
-      "title": "特朗普宣布鉴于他和金正恩“关系非常好”，美国将大幅减少美韩联合军演",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260816-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E9%89%B4%E4%BA%8E%E4%BB%96%E5%92%8C%E9%87%91%E6%AD%A3%E6%81%A9-%E5%85%B3%E7%B3%BB%E9%9D%9E%E5%B8%B8%E5%A5%BD-%EF%BC%8C%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%A4%A7%E5%B9%85%E5%87%8F%E5%B0%91%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94",
-      "source": "rfi.fr",
-      "published": 1786920446
     },
     {
       "id": "fc24609eca9f",
@@ -1332,5 +1248,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787003141
+  "build_id": 1787004669
 }
