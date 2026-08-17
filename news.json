@@ -1,6 +1,48 @@
 {
-  "updated": 1786993450,
+  "updated": 1786996050,
   "items": [
+    {
+      "id": "db744c12ddf9",
+      "title": "中俄拟在远东开展无人机、无人驾驶卡车等跨境合作",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260817-%E4%B8%AD%E4%BF%84%E6%8B%9F%E5%9C%A8%E8%BF%9C%E4%B8%9C%E5%BC%80%E5%B1%95%E6%97%A0%E4%BA%BA%E6%9C%BA-%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%8D%A1%E8%BD%A6%E7%AD%89%E8%B7%A8%E5%A2%83%E5%90%88%E4%BD%9C",
+      "source": "rfi.fr",
+      "published": 1786995118
+    },
+    {
+      "id": "cb5a5d2c7a55",
+      "title": "廣州滅蚊行動執行手法引關注 水泥封樹坑膠布塞渠被指加劇積水",
+      "url": "https://www.singtaousa.com/2026/08/17/news/china/guangzhou-mosquito-control-methods-controversy/",
+      "source": "singtaousa.com",
+      "published": 1786994824
+    },
+    {
+      "id": "66134f0e2abb",
+      "title": "數碼小費螢幕惹爭議　專家教受何時可按「不給小費」",
+      "url": "https://www.singtaousa.com/2026/08/17/lifestyle/digital-tipping-screen-sparks-controversy-experts-teach-you-when-to-press-no-tip/",
+      "source": "singtaousa.com",
+      "published": 1786994025
+    },
+    {
+      "id": "60b839dce3a0",
+      "title": "美媒：習近平9月訪美與川普會談 無意參加聯合國大會",
+      "url": "https://money.udn.com/money/story/5599/9697710",
+      "source": "money.udn.com",
+      "published": 1786993948
+    },
+    {
+      "id": "08564c639366",
+      "title": "字節跳動與美國電影協會 簽署AI版權協議",
+      "url": "https://www.singtaousa.com/2026/08/17/news/usa/news-bytedance-hollywood-trade-group-ai-copyright-agreement/",
+      "source": "singtaousa.com",
+      "published": 1786993687
+    },
+    {
+      "id": "0fdaad57b25e",
+      "title": "賀營拍新劇情緒崩潰 工作延誤數小時",
+      "url": "https://www.singtaousa.com/2026/08/17/entertainment/he-ying-new-drama-emotional-collapse/",
+      "source": "singtaousa.com",
+      "published": 1786993200
+    },
     {
       "id": "501eadca4248",
       "title": "蘇州男子與妻爭執後求助AI 按推薦夜爬野山受困獲救",
@@ -23,6 +65,13 @@
       "published": 1786992221
     },
     {
+      "id": "ebd970746853",
+      "title": "[南部非洲发展共同体]2026峰会",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260817-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%8D%97%E9%83%A8%E9%9D%9E%E6%B4%B2%E5%8F%91%E5%B1%95%E5%85%B1%E5%90%8C%E4%BD%93-2026%E5%B3%B0%E4%BC%9A",
+      "source": "rfi.fr",
+      "published": 1786991816
+    },
+    {
       "id": "7fcc2be3a19a",
       "title": "北京消協抽檢兒童寢具 逾七成產品標籤缺失 「金多喜」鉛含量超標逾10倍",
       "url": "https://www.singtaousa.com/2026/08/17/news/china/beijing-association-child-furniture-lead/",
@@ -38,15 +87,15 @@
     },
     {
       "id": "4fda08224904",
-      "title": "F、J、I簽證新規　9月起表格新規生效",
+      "title": "F、J、I簽證新規 9月起表格新規生效",
       "url": "https://www.singtaousa.com/2026/08/17/immigration/visa-applicants-must-pay-attention-to-the-new-form-regulations-that-will-take-effect-from-september/",
       "source": "singtaousa.com",
       "published": 1786990568
     },
     {
-      "id": "c036f2074494",
+      "id": "6a4dcaaf0257",
       "title": "美國最常見癌症極易忽視 如何預防",
-      "url": "https://www.singtaousa.com/2026/08/17/lifestyle/news-most-common-skin-cancer-basal-cell-carcinoma-prevention/",
+      "url": "https://www.singtaousa.com/2026/08/17/lifestyle/health/news-most-common-skin-cancer-basal-cell-carcinoma-prevention/",
       "source": "singtaousa.com",
       "published": 1786990356
     },
@@ -142,32 +191,11 @@
       "published": 1786988726
     },
     {
-      "id": "c642ef260af4",
-      "title": "爭奪AI時代話語權 中國推具「中國特色」數據集",
-      "url": "https://www.singtaousa.com/2026/08/17/news/usa/news-china-ai-data-chatbots-global-influence/",
-      "source": "singtaousa.com",
-      "published": 1786988694
-    },
-    {
-      "id": "378a83763514",
-      "title": "每日一杯汽水　胃癌風險恐增逾倍",
-      "url": "https://www.singtaousa.com/2026/08/17/lifestyle/health/a-cup-of-soda-a-day-may-more-than-double-the-risk-of-stomach-cancer/",
-      "source": "singtaousa.com",
-      "published": 1786988293
-    },
-    {
       "id": "a8ad29fd9870",
       "title": "约旦国王8月18日开始对中国进行正式访问",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260817-%E7%BA%A6%E6%97%A6%E5%9B%BD%E7%8E%8B8%E6%9C%8818%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BF%9B%E8%A1%8C%E6%AD%A3%E5%BC%8F%E8%AE%BF%E9%97%AE",
       "source": "rfi.fr",
       "published": 1786987860
-    },
-    {
-      "id": "e2059135e426",
-      "title": "南加男子弒母肢解後棄垃圾桶 因精神失常判無罪",
-      "url": "https://www.singtaousa.com/2026/08/17/news/usa/news-socal-man-mother-dismembered-insanity-verdict/",
-      "source": "singtaousa.com",
-      "published": 1786987769
     },
     {
       "id": "d3bd1dfd8fd0",
@@ -182,13 +210,6 @@
       "url": "https://money.udn.com/money/story/5599/9697606",
       "source": "money.udn.com",
       "published": 1786987243
-    },
-    {
-      "id": "f53526ac7dbc",
-      "title": "接到Medicare或Social Security來電先別信！出現這5個警訊，很可能就是詐騙",
-      "url": "https://www.singtaousa.com/2026/08/17/lifestyle/medicare-social-security-scams-warning-signs-tips/",
-      "source": "singtaousa.com",
-      "published": 1786987076
     },
     {
       "id": "71b28a1ae5a8",
@@ -280,13 +301,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260817-%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%A4%A7%E5%B9%85%E7%BC%A9%E7%BC%96%E7%BE%8E%E9%9F%A9%E5%B9%B4%E5%BA%A6%E5%86%9B%E6%BC%94%E8%A7%84%E6%A8%A1%E6%84%8F%E5%9C%A8%E5%90%91%E5%B9%B3%E5%A3%A4%E7%A4%BA%E5%A5%BD",
       "source": "rfi.fr",
       "published": 1786975504
-    },
-    {
-      "id": "d021e429cfd2",
-      "title": "輝達投資 SB 能源15億美元 布局 OpenAI 資料中心",
-      "url": "https://money.udn.com/money/story/123398/9697379",
-      "source": "money.udn.com",
-      "published": 1786975343
     },
     {
       "id": "9cebf451bae7",
@@ -525,20 +539,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260816-%E4%B8%AD%E5%9B%BD%E8%91%97%E5%90%8D%E7%BB%B4%E6%9D%83%E5%BE%8B%E5%B8%88%E9%AB%98%E6%99%BA%E6%99%9F-%E8%A2%AB%E5%A4%B1%E8%B8%AA-%E5%B7%B2%E6%BB%A1%E4%B9%9D%E5%B9%B4",
       "source": "rfi.fr",
       "published": 1786908145
-    },
-    {
-      "id": "add82602bc12",
-      "title": "意大利博物馆4件文艺复兴时期艺术品失窃，总价值超7000万欧元",
-      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260816-%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8D%9A%E7%89%A9%E9%A6%864%E4%BB%B6%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4%E6%97%B6%E6%9C%9F%E8%89%BA%E6%9C%AF%E5%93%81%E5%A4%B1%E7%AA%83%EF%BC%8C%E6%80%BB%E4%BB%B7%E5%80%BC%E8%B6%857000%E4%B8%87%E6%AC%A7%E5%85%83",
-      "source": "rfi.fr",
-      "published": 1786907084
-    },
-    {
-      "id": "8c3b483a2878",
-      "title": "匈牙利发生20多年来最严重大巴事故：一辆波兰大巴在高速路侧翻，造成12人死亡",
-      "url": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260816-%E5%8C%88%E7%89%99%E5%88%A9%E5%8F%91%E7%94%9F20%E5%A4%9A%E5%B9%B4%E6%9D%A5%E6%9C%80%E4%B8%A5%E9%87%8D%E5%A4%A7%E5%B7%B4%E4%BA%8B%E6%95%85-%E4%B8%80%E8%BE%86%E6%B3%A2%E5%85%B0%E5%A4%A7%E5%B7%B4%E5%9C%A8%E9%AB%98%E9%80%9F%E8%B7%AF%E4%BE%A7%E7%BF%BB%EF%BC%8C%E9%80%A0%E6%88%9012%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-      "source": "rfi.fr",
-      "published": 1786905400
     },
     {
       "id": "f46e2a0c4d92",
@@ -1332,5 +1332,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1786993450
+  "build_id": 1786996050
 }
