@@ -1,6 +1,41 @@
 {
-  "updated": 1786999723,
+  "updated": 1787001261,
   "items": [
+    {
+      "id": "40c65a767812",
+      "title": "特朗普威脅轟炸阿曼 警告勿礙美伊談判",
+      "url": "https://www.singtaousa.com/2026/08/17/news/world/trump-threatens-to-bomb-us-ally-oman-if-it-gets-in-the-way-over-iran-deal/",
+      "source": "singtaousa.com",
+      "published": 1787001206
+    },
+    {
+      "id": "098012610533",
+      "title": "蔡依林廣州騷爆意外 歌迷跌傷臉縫30針",
+      "url": "https://www.singtaousa.com/2026/08/17/entertainment/jolin-tsai-guangzhou-concert-accident/",
+      "source": "singtaousa.com",
+      "published": 1787000400
+    },
+    {
+      "id": "9fcd870fbb44",
+      "title": "香港郵政審慎規劃人力資源 試用期員工獲續聘兩年合約",
+      "url": "https://www.singtaousa.com/2026/08/17/news/china/postal-staff-contract-renewal-two-years/",
+      "source": "singtaousa.com",
+      "published": 1787000259
+    },
+    {
+      "id": "20ca8077830f",
+      "title": "挪威北極鳴笛驚擾睡熊遭罰款",
+      "url": "https://www.singtaousa.com/2026/08/17/news/world/never-wake-a-sleeping-polar-bear-or-pay-a-6700-fine-in-the-arctic/",
+      "source": "singtaousa.com",
+      "published": 1787000152
+    },
+    {
+      "id": "475c1c78ebb8",
+      "title": "意大利火山雷擊 美國遊客不幸身亡",
+      "url": "https://www.singtaousa.com/2026/08/17/news/world/american-killed-by-lightning-while-climbing-italian-volcano/",
+      "source": "singtaousa.com",
+      "published": 1786999944
+    },
     {
       "id": "68b60b8c6ef8",
       "title": "俄羅斯召見日本大使 抗議領土爭議表態",
@@ -17,7 +52,7 @@
     },
     {
       "id": "f6d242267c0f",
-      "title": "60天談判期屆滿美伊分歧未解　川普稱不尋求延長",
+      "title": "60天談判期屆滿美伊分歧未解 川普稱不尋求延長",
       "url": "https://money.udn.com/money/story/5599/9697719",
       "source": "money.udn.com",
       "published": 1786998632
@@ -93,13 +128,6 @@
       "published": 1786993200
     },
     {
-      "id": "501eadca4248",
-      "title": "蘇州男子與妻爭執後求助AI 按推薦夜爬野山受困獲救",
-      "url": "https://www.singtaousa.com/2026/08/17/news/china/man-trapped-mountain-ai-recommendation/",
-      "source": "singtaousa.com",
-      "published": 1786993020
-    },
-    {
       "id": "fa02693ec8e0",
       "title": "私人直升機墜毀希臘錫夫諾斯島　致3死並引發火災",
       "url": "https://money.udn.com/money/story/5599/9697707",
@@ -107,39 +135,11 @@
       "published": 1786992865
     },
     {
-      "id": "528f01033c70",
-      "title": "前妻及現任丈夫涉嫌買兇 埋伏槍殺微軟高管",
-      "url": "https://www.singtaousa.com/2026/08/17/news/usa/news-microsoft-manager-ambush-trial-florida/",
-      "source": "singtaousa.com",
-      "published": 1786992221
-    },
-    {
       "id": "ebd970746853",
       "title": "[南部非洲发展共同体]2026峰会",
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260817-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%8D%97%E9%83%A8%E9%9D%9E%E6%B4%B2%E5%8F%91%E5%B1%95%E5%85%B1%E5%90%8C%E4%BD%93-2026%E5%B3%B0%E4%BC%9A",
       "source": "rfi.fr",
       "published": 1786991816
-    },
-    {
-      "id": "7fcc2be3a19a",
-      "title": "北京消協抽檢兒童寢具 逾七成產品標籤缺失 「金多喜」鉛含量超標逾10倍",
-      "url": "https://www.singtaousa.com/2026/08/17/news/china/beijing-association-child-furniture-lead/",
-      "source": "singtaousa.com",
-      "published": 1786991226
-    },
-    {
-      "id": "0dbe332f0fed",
-      "title": "數千簽證申請人面臨新規 兩表格9月15日起換新版",
-      "url": "https://www.singtaousa.com/2026/08/17/news/usa/news-uscis-visa-forms-i539-i765-september15/",
-      "source": "singtaousa.com",
-      "published": 1786991064
-    },
-    {
-      "id": "4fda08224904",
-      "title": "F、J、I簽證新規 9月起表格新規生效",
-      "url": "https://www.singtaousa.com/2026/08/17/immigration/visa-applicants-must-pay-attention-to-the-new-form-regulations-that-will-take-effect-from-september/",
-      "source": "singtaousa.com",
-      "published": 1786990568
     },
     {
       "id": "97aa96b3e4a3",
@@ -1332,5 +1332,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1786999723
+  "build_id": 1787001261
 }
