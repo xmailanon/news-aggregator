@@ -1,6 +1,27 @@
 {
-  "updated": 1787073382,
+  "updated": 1787075355,
   "items": [
+    {
+      "id": "a78c995b5feb",
+      "title": "8呎巨蟒被指引發維州校園火災 真的嗎?",
+      "url": "https://www.singtaousa.com/2026/08/18/news/usa/news-virginia-school-fire-python-nanner-teacher-innocentce/",
+      "source": "singtaousa.com",
+      "published": 1787074964
+    },
+    {
+      "id": "5f5064b074a4",
+      "title": "FBI解密文件曝前议员承认与疑似中国特工方芳有染 后者称曾为胡锦涛专机空乘",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260818-fbi%E8%A7%A3%E5%AF%86%E6%96%87%E4%BB%B6%E6%9B%9D%E5%89%8D%E8%AE%AE%E5%91%98%E6%89%BF%E8%AE%A4%E4%B8%8E%E7%96%91%E4%BC%BC%E4%B8%AD%E5%9B%BD%E7%89%B9%E5%B7%A5%E6%96%B9%E8%8A%B3%E6%9C%89%E6%9F%93-%E5%90%8E%E8%80%85%E7%A7%B0%E6%9B%BE%E4%B8%BA%E8%83%A1%E9%94%A6%E6%B6%9B%E4%B8%93%E6%9C%BA%E5%BD%93%E7%A9%BA%E4%B9%98",
+      "source": "rfi.fr",
+      "published": 1787074415
+    },
+    {
+      "id": "3356174b8305",
+      "title": "甘迺迪中心關閉 國家交響樂團被迫「周邊」巡演",
+      "url": "https://www.singtaousa.com/2026/08/18/news/usa/news-national-symphony-orchestra-kennedy-center-venues/",
+      "source": "singtaousa.com",
+      "published": 1787073792
+    },
     {
       "id": "e6f37bc3c759",
       "title": "鍾柔美樂園初體驗　曬水著照迎夏末",
@@ -128,13 +149,6 @@
       "published": 1787065924
     },
     {
-      "id": "b936a31c3e5b",
-      "title": "卡塔爾努力推動美伊恢復談判",
-      "url": "https://www.singtaousa.com/2026/08/18/news/world/qatar-strives-to-push-for-the-resumption-of-negotiations-between-the-united-states-and-iran-iran-says-it-has-won-the-war-and-diplomacy/",
-      "source": "singtaousa.com",
-      "published": 1787065753
-    },
-    {
       "id": "8e56fc50d393",
       "title": "從這個指標來看 Fed利率偏寬鬆",
       "url": "https://money.udn.com/money/story/5599/9699876",
@@ -154,13 +168,6 @@
       "url": "https://money.udn.com/money/story/5599/9699871",
       "source": "money.udn.com",
       "published": 1787065226
-    },
-    {
-      "id": "ab8ccc62ef3e",
-      "title": "16歲女童感染甲型流感併發嚴重肺炎 情況危殆 本流感季累計10宗兒童嚴重個案",
-      "url": "https://www.singtaousa.com/2026/08/18/news/china/teenager-influenza-a-pneumonia-critical/",
-      "source": "singtaousa.com",
-      "published": 1787065019
     },
     {
       "id": "7dbb974860e9",
@@ -630,13 +637,6 @@
       "url": "https://www.ftchinese.com/story/001110639",
       "source": "ftchinese.com",
       "published": 1786982400
-    },
-    {
-      "id": "7426f911ac15",
-      "title": "SHEIN香港上市估值降至约250亿美元 较四年前大幅缩水四分之三",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260817-shein%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82%E4%BC%B0%E5%80%BC%E9%99%8D%E8%87%B3%E7%BA%A6250%E4%BA%BF%E7%BE%8E%E5%85%83-%E8%BE%83%E5%9B%9B%E5%B9%B4%E5%89%8D%E4%BC%B0%E5%80%BC%E5%A4%A7%E5%B9%85%E7%BC%A9%E6%B0%B4%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%89",
-      "source": "rfi.fr",
-      "published": 1786980955
     },
     {
       "id": "c1ba3246d018",
@@ -1332,5 +1332,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787073382
+  "build_id": 1787075355
 }
