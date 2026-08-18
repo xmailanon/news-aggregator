@@ -1,6 +1,27 @@
 {
-  "updated": 1787085881,
+  "updated": 1787087513,
   "items": [
+    {
+      "id": "7918b2621d67",
+      "title": "人工智能：德国160万份工作将转型——中国是否是个警示？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260818-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E5%BE%B7%E5%9B%BD160%E4%B8%87%E4%BB%BD%E5%B7%A5%E4%BD%9C%E5%B0%86%E8%BD%AC%E5%9E%8B-%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%90%A6%E6%98%AF%E4%B8%AA%E8%AD%A6%E7%A4%BA",
+      "source": "rfi.fr",
+      "published": 1787087251
+    },
+    {
+      "id": "1bbaf195a1b6",
+      "title": "懷孕安妮好腳頭獲傳奇獎 爆喊稱自己幸運",
+      "url": "https://www.singtaousa.com/2026/08/18/entertainment/annie-hathaway-disney-legend-award/",
+      "source": "singtaousa.com",
+      "published": 1787086800
+    },
+    {
+      "id": "01d1a32ea03b",
+      "title": "芝加哥機場兩客機降落爆胎 FAA介入調查",
+      "url": "https://www.singtaousa.com/2026/08/18/news/usa/two-jets-from-different-airlines-suffer-same-failure-in-matter-of-hours-at-chicago-ohare-prompting-investigation/",
+      "source": "singtaousa.com",
+      "published": 1787086623
+    },
     {
       "id": "c33d2c1c06aa",
       "title": "State Farm發放50億美元紅利支票：資格與領取方式解析",
@@ -16,9 +37,9 @@
       "published": 1787085385
     },
     {
-      "id": "3af37518f42b",
+      "id": "c6d813a7b064",
       "title": "美FCC威脅撤廣播執照　迪士尼與ABC提告控報復",
-      "url": "https://money.udn.com/money/story/5599/9700116",
+      "url": "https://money.udn.com/money/story/10511/9700116",
       "source": "money.udn.com",
       "published": 1787085029
     },
@@ -91,20 +112,6 @@
       "url": "https://www.dw.com/zh/普京首访争议群岛-意在-惩罚-日本对乌立场/a-78420146?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1787080260
-    },
-    {
-      "id": "75aa26c537fd",
-      "title": "洛杉磯大火肆虐之際　網民竟下注「燒掉多少」",
-      "url": "https://www.singtaousa.com/2026/08/18/news/usa/news-la-wildfires-polymarket-prediction-betting-disaster/",
-      "source": "singtaousa.com",
-      "published": 1787079911
-    },
-    {
-      "id": "9529915d710d",
-      "title": "與仔仔首演音樂劇 魏嘉信感觸落淚",
-      "url": "https://www.singtaousa.com/2026/08/18/entertainment/wei-jia-xin-musical-debut/",
-      "source": "singtaousa.com",
-      "published": 1787079600
     },
     {
       "id": "d97705ebe88e",
@@ -553,13 +560,6 @@
       "url": "https://cn.nytimes.com/world/20260818/from-the-sky-to-the-battlefield/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1786986689
-    },
-    {
-      "id": "57cc7e0cc0fe",
-      "title": "巴基斯坦突袭一个电诈中心258人被捕 其中越南籍170人中国籍40人",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260817-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%AA%81%E8%A2%AD%E4%B8%80%E4%B8%AA%E7%94%B5%E8%AF%88%E4%B8%AD%E5%BF%83258%E4%BA%BA%E8%A2%AB%E6%8D%95-%E5%85%B6%E4%B8%AD%E8%B6%8A%E5%8D%97%E7%B1%8D170%E4%BA%BA%E4%B8%AD%E5%9B%BD%E7%B1%8D40%E4%BA%BA",
-      "source": "rfi.fr",
-      "published": 1786986154
     },
     {
       "id": "875384bd530f",
@@ -1339,5 +1339,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787085881
+  "build_id": 1787087513
 }
