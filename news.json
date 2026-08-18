@@ -1,6 +1,34 @@
 {
-  "updated": 1787091002,
+  "updated": 1787093142,
   "items": [
+    {
+      "id": "0ba01e1f1a7b",
+      "title": "天文台發出強陣風提示 橫瀾島錄得時速約70公里強風",
+      "url": "https://www.singtaousa.com/2026/08/18/news/china/strong-gusts-warning-hong-kong-weather/",
+      "source": "singtaousa.com",
+      "published": 1787092023
+    },
+    {
+      "id": "8b25dd717537",
+      "title": "仅仅是为了纪念朱镕基？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260818-%E4%BB%85%E4%BB%85%E6%98%AF%E4%B8%BA%E4%BA%86%E7%BA%AA%E5%BF%B5%E6%9C%B1%E9%95%95%E5%9F%BA",
+      "source": "rfi.fr",
+      "published": 1787091991
+    },
+    {
+      "id": "6ade1484a663",
+      "title": "【專家之眼】習近平訪美峰會 豈容華盛頓怠慢",
+      "url": "https://money.udn.com/money/story/5599/9700173",
+      "source": "money.udn.com",
+      "published": 1787091513
+    },
+    {
+      "id": "c724ba85fdf3",
+      "title": "俄亥俄州工廠爆炸起火 釀2死",
+      "url": "https://www.singtaousa.com/2026/08/18/news/usa/explosions-and-fire-tear-through-ohio-industrial-building-killing-2-workers/",
+      "source": "singtaousa.com",
+      "published": 1787091322
+    },
     {
       "id": "073524b56e29",
       "title": "美晶片股大跌　國債走低恐長期衝擊經濟",
@@ -163,20 +191,6 @@
       "published": 1787084818
     },
     {
-      "id": "f2883748cceb",
-      "title": "IRS釐清加班免稅規則　2026年申報更簡便",
-      "url": "https://www.singtaousa.com/2026/08/18/news/usa/irs-clarifies-overtime-tax-exemption-rules-making-filing-in-2026-easier/",
-      "source": "singtaousa.com",
-      "published": 1787084100
-    },
-    {
-      "id": "2d68143dbf2e",
-      "title": "《Heroes》希丹驟逝 生前與抑鬱酗酒搏鬥",
-      "url": "https://www.singtaousa.com/2026/08/18/entertainment/hayden-panettiere-death-struggles/",
-      "source": "singtaousa.com",
-      "published": 1787083200
-    },
-    {
       "id": "0282b1af63ff",
       "title": "普京首访争议群岛  意在\"惩罚\"日本对乌立场",
       "url": "https://www.dw.com/zh/普京首访争议群岛-意在-惩罚-日本对乌立场/a-78420146?maca=chi-rss-chi-all-1127-rdf",
@@ -294,13 +308,6 @@
       "url": "https://money.udn.com/money/story/122979/9645011",
       "source": "money.udn.com",
       "published": 1787069189
-    },
-    {
-      "id": "20aa5cbf107c",
-      "title": "成功改革 1／不只一時流行！「甜甜圈排隊名店」如何從大量歇業到V字復甦？",
-      "url": "https://money.udn.com/money/story/122979/9645008",
-      "source": "money.udn.com",
-      "published": 1787068983
     },
     {
       "id": "9f04d2529496",
@@ -532,13 +539,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260817-%E7%BE%8E%E5%9B%BD%E6%88%98%E4%BA%89%E9%83%A8%E5%AE%A1%E6%9F%A5%E9%AB%98%E6%A0%A1%E5%AF%B9%E5%A4%96%E5%90%88%E4%BD%9C-%E8%BD%AC%E5%9E%8B%E5%AD%94%E5%AD%90%E5%AD%A6%E9%99%A2%E5%88%97%E5%85%A5-%E5%8F%97%E5%85%B3%E6%B3%A8%E5%A4%96%E5%9B%BD%E5%AE%9E%E4%BD%93-%E8%8C%83%E5%9B%B4",
       "source": "rfi.fr",
       "published": 1787002696
-    },
-    {
-      "id": "9316d0ebbef4",
-      "title": "法国推出山火灾后援助措施 总额或超过一亿欧元",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260817-%E6%B3%95%E5%9B%BD%E6%8E%A8%E5%87%BA%E5%B1%B1%E7%81%AB%E7%81%BE%E5%90%8E%E6%8F%B4%E5%8A%A9%E6%8E%AA%E6%96%BD-%E6%80%BB%E9%A2%9D%E6%88%96%E8%B6%85%E8%BF%87%E4%B8%80%E4%BA%BF%E6%AC%A7%E5%85%83",
-      "source": "rfi.fr",
-      "published": 1787002370
     },
     {
       "id": "677bd9dabc9d",
@@ -1339,5 +1339,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787091002
+  "build_id": 1787093142
 }
