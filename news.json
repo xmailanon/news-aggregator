@@ -1,6 +1,41 @@
 {
-  "updated": 1787082330,
+  "updated": 1787083785,
   "items": [
+    {
+      "id": "2d68143dbf2e",
+      "title": "《Heroes》希丹驟逝 生前與抑鬱酗酒搏鬥",
+      "url": "https://www.singtaousa.com/2026/08/18/entertainment/hayden-panettiere-death-struggles/",
+      "source": "singtaousa.com",
+      "published": 1787083200
+    },
+    {
+      "id": "4b25a5a8acdd",
+      "title": "瑞士村莊陷危機 凍土融化恐致山崩",
+      "url": "https://www.singtaousa.com/2026/08/18/news/world/a-looming-rock-collapse-threatens-a-swiss-village-as-thawing-permafrost-destabilizes-the-alps/",
+      "source": "singtaousa.com",
+      "published": 1787083183
+    },
+    {
+      "id": "cf0963294d8b",
+      "title": "德州十誡法案上訴 最高法院面臨審查",
+      "url": "https://www.singtaousa.com/2026/08/18/news/usa/supreme-court-asked-to-review-texas-law-requiring-the-ten-commandments-in-public-schools/",
+      "source": "singtaousa.com",
+      "published": 1787083065
+    },
+    {
+      "id": "34a69091dc5b",
+      "title": "日學者研究揭露二戰期間日軍曾以本國精神病士兵進行瘧疾實驗",
+      "url": "https://www.singtaousa.com/2026/08/18/news/china/japanese-scholar-reveals-wwii-malaria-experiments/",
+      "source": "singtaousa.com",
+      "published": 1787083032
+    },
+    {
+      "id": "6ef0836cd7cd",
+      "title": "法官阻止特朗普政府將FBI總部遷至華盛頓特區辦公大樓",
+      "url": "https://www.singtaousa.com/2026/08/18/news/usa/judge-blocks-the-trump-administration-from-moving-fbi-headquarters-to-dc-office-building/",
+      "source": "singtaousa.com",
+      "published": 1787082969
+    },
     {
       "id": "de0d1cc0e703",
       "title": "高鐵上女子休息時遭鄰座男乘客猥褻 警方介入後男子被行政拘留",
@@ -58,39 +93,11 @@
       "published": 1787077642
     },
     {
-      "id": "b8cc88e7931e",
-      "title": "南加州帕薩迪納活動人士 擬撤Flock監控鏡頭",
-      "url": "https://www.singtaousa.com/2026/08/18/news/usa/news-pasadena-flock-cameras-privacy-license-plate-readers/",
-      "source": "singtaousa.com",
-      "published": 1787077550
-    },
-    {
       "id": "d97705ebe88e",
       "title": "阿聯控伊朗發射彈道飛彈　稱作好準備因應威脅",
       "url": "https://money.udn.com/money/story/5599/9700099",
       "source": "money.udn.com",
       "published": 1787077288
-    },
-    {
-      "id": "b39c32e74461",
-      "title": "加沙空襲：以軍擊殺多名哈馬斯指揮官",
-      "url": "https://www.singtaousa.com/2026/08/18/news/world/at-least-six-killed-in-idf-strike-on-gaza-city-cafe-targeting-hamas-commanders/",
-      "source": "singtaousa.com",
-      "published": 1787076995
-    },
-    {
-      "id": "facad1461b1f",
-      "title": "美軍士兵巴西裔妻子 遣返途中獲釋返家",
-      "url": "https://www.singtaousa.com/2026/08/18/news/usa/wife-of-us-soldier-is-removed-from-deportation-flight-and-released-from-federal-immigration-custody/",
-      "source": "singtaousa.com",
-      "published": 1787076756
-    },
-    {
-      "id": "9f3d3bbcbb8a",
-      "title": "賓州大學兄弟會幹部主導販毒鏈 14名被告遭起訴",
-      "url": "https://www.singtaousa.com/2026/08/18/news/usa/news-penn-state-fraternities-cocaine-trafficking-charges/",
-      "source": "singtaousa.com",
-      "published": 1787076731
     },
     {
       "id": "1f533a715002",
@@ -112,13 +119,6 @@
       "url": "https://money.udn.com/money/story/5599/9699905",
       "source": "money.udn.com",
       "published": 1787076547
-    },
-    {
-      "id": "5beeef51d8c3",
-      "title": "巴基斯坦法院下令 前總理伊姆蘭汗獄中送醫",
-      "url": "https://www.singtaousa.com/2026/08/18/news/world/pakistan-s-top-court-orders-imran-khan-to-be-moved-from-prison-to-hospital/",
-      "source": "singtaousa.com",
-      "published": 1787076525
     },
     {
       "id": "fdba48d5c3ed",
@@ -1339,5 +1339,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787082330
+  "build_id": 1787083785
 }
