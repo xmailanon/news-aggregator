@@ -1,6 +1,20 @@
 {
-  "updated": 1787094650,
+  "updated": 1787096542,
   "items": [
+    {
+      "id": "94909a49fab6",
+      "title": "粵語美期中選的反民主觀察",
+      "url": "https://www.singtaousa.com/2026/08/18/opinion/an-anti-democratic-look-at-the-us-presidential-election/",
+      "source": "singtaousa.com",
+      "published": 1787094600
+    },
+    {
+      "id": "98d3affb0188",
+      "title": "台積電ADR大跌4.1% 台指期夜盤挫561點",
+      "url": "https://money.udn.com/money/story/123398/9700194",
+      "source": "money.udn.com",
+      "published": 1787094582
+    },
     {
       "id": "2d9e1ddba701",
       "title": "首度自監自演新劇 永野芽郁扮陪酒女",
@@ -177,13 +191,6 @@
       "published": 1787087251
     },
     {
-      "id": "1bbaf195a1b6",
-      "title": "懷孕安妮好腳頭獲傳奇獎 爆喊稱自己幸運",
-      "url": "https://www.singtaousa.com/2026/08/18/entertainment/annie-hathaway-disney-legend-award/",
-      "source": "singtaousa.com",
-      "published": 1787086800
-    },
-    {
       "id": "7be834897389",
       "title": "美伊談判陷僵局　國際油價升至3週新高",
       "url": "https://money.udn.com/money/story/5599/9700117",
@@ -301,13 +308,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260818-%E6%B2%99%E7%89%B9%E6%81%A2%E5%A4%8D%E4%BB%8E%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%86%85%E8%A3%85%E8%BD%BD%E5%92%8C%E9%94%80%E5%94%AE%E7%9F%B3%E6%B2%B9",
       "source": "rfi.fr",
       "published": 1787069844
-    },
-    {
-      "id": "30b370e34285",
-      "title": "利空籠罩 全球債市賣壓加重 長債殖利率升至數十年高點",
-      "url": "https://money.udn.com/money/story/5599/9699912",
-      "source": "money.udn.com",
-      "published": 1787069431
     },
     {
       "id": "0edf5ff0e356",
@@ -1332,5 +1332,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787094650
+  "build_id": 1787096542
 }
