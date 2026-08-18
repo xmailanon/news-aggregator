@@ -1,6 +1,27 @@
 {
-  "updated": 1787093142,
+  "updated": 1787094650,
   "items": [
+    {
+      "id": "2d9e1ddba701",
+      "title": "首度自監自演新劇 永野芽郁扮陪酒女",
+      "url": "https://www.singtaousa.com/2026/08/18/entertainment/nagano-mei-self-directs-drama/",
+      "source": "singtaousa.com",
+      "published": 1787094000
+    },
+    {
+      "id": "9c14f247a805",
+      "title": "《浪花男女》首映禮 陳楨怡視泳裝戲為極限 盼票房好再派福利",
+      "url": "https://www.singtaousa.com/2026/08/18/entertainment/celina-hartono-wave-movie-premiere/",
+      "source": "singtaousa.com",
+      "published": 1787093935
+    },
+    {
+      "id": "bded8101c6ec",
+      "title": "美股收盤／美債殖利率走揚 AI 高期待反成壓力 費半重挫5%拖累美股",
+      "url": "https://money.udn.com/money/story/123398/9700183",
+      "source": "money.udn.com",
+      "published": 1787093175
+    },
     {
       "id": "0ba01e1f1a7b",
       "title": "天文台發出強陣風提示 橫瀾島錄得時速約70公里強風",
@@ -163,13 +184,6 @@
       "published": 1787086800
     },
     {
-      "id": "c33d2c1c06aa",
-      "title": "State Farm發放50億美元紅利支票：資格與領取方式解析",
-      "url": "https://www.singtaousa.com/2026/08/18/news/usa/state-farm-sends-out-5-billion-bonus-check-eligibility-and-how-to-claim-it/",
-      "source": "singtaousa.com",
-      "published": 1787085900
-    },
-    {
       "id": "7be834897389",
       "title": "美伊談判陷僵局　國際油價升至3週新高",
       "url": "https://money.udn.com/money/story/5599/9700117",
@@ -182,13 +196,6 @@
       "url": "https://money.udn.com/money/story/10511/9700116",
       "source": "money.udn.com",
       "published": 1787085029
-    },
-    {
-      "id": "d1ea9211a1d4",
-      "title": "招商蛇口高管涉商務飯局後強制猥褻 杭州官方通報案件細節",
-      "url": "https://www.singtaousa.com/2026/08/18/news/china/executive-sexual-assault-business-dinner/",
-      "source": "singtaousa.com",
-      "published": 1787084818
     },
     {
       "id": "0282b1af63ff",
@@ -303,11 +310,25 @@
       "published": 1787069431
     },
     {
-      "id": "49f7f773eac9",
-      "title": "成功改革 2／從狠心關店到一年開店10家 「甜甜圈名店」社長如何做出艱難決定？",
-      "url": "https://money.udn.com/money/story/122979/9645011",
-      "source": "money.udn.com",
-      "published": 1787069189
+      "id": "0edf5ff0e356",
+      "title": "格林斯潘与美联储透明度“革命”",
+      "url": "https://www.ftchinese.com/story/001110621",
+      "source": "ftchinese.com",
+      "published": 1787068800
+    },
+    {
+      "id": "62122ae976a0",
+      "title": "新质生产力导向下的中国人工智能一级市场（一）：资本生态与机构博弈",
+      "url": "https://www.ftchinese.com/story/001110636",
+      "source": "ftchinese.com",
+      "published": 1787068800
+    },
+    {
+      "id": "2fb959c47f89",
+      "title": "为什么简单的投资反而更好？从私募基金的信息差说起",
+      "url": "https://www.ftchinese.com/story/001110637",
+      "source": "ftchinese.com",
+      "published": 1787068800
     },
     {
       "id": "9f04d2529496",
@@ -796,34 +817,6 @@
       "id": "9fe3ece7cc49",
       "title": "一周世界舆论聚焦：朝鲜半岛并不平静",
       "url": "https://www.ftchinese.com/story/001110633",
-      "source": "ftchinese.com",
-      "published": 1786896000
-    },
-    {
-      "id": "b67e974e60a7",
-      "title": "中国战地记者们如何看《欢迎来龙餐馆》：硝烟、后怕与中东往事",
-      "url": "https://www.ftchinese.com/story/001110629",
-      "source": "ftchinese.com",
-      "published": 1786896000
-    },
-    {
-      "id": "eb969027035a",
-      "title": "纪录片《破译三国》的历史破译之误",
-      "url": "https://www.ftchinese.com/story/001110630",
-      "source": "ftchinese.com",
-      "published": 1786896000
-    },
-    {
-      "id": "6867a79131de",
-      "title": "经济学不再“沉闷”",
-      "url": "https://www.ftchinese.com/story/001110628",
-      "source": "ftchinese.com",
-      "published": 1786896000
-    },
-    {
-      "id": "430374612908",
-      "title": "莫迪承诺为印度青年提供免费辅导和AI培训",
-      "url": "https://www.ftchinese.com/story/001110627",
       "source": "ftchinese.com",
       "published": 1786896000
     },
@@ -1339,5 +1332,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787093142
+  "build_id": 1787094650
 }
