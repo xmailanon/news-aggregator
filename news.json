@@ -1,6 +1,27 @@
 {
-  "updated": 1787177527,
+  "updated": 1787179596,
   "items": [
+    {
+      "id": "df058c237c92",
+      "title": "美国制裁国际刑事法院院长与俄罗斯做法相仿？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260819-%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E6%B3%95%E9%99%A2%E9%99%A2%E9%95%BF%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%81%9A%E6%B3%95%E7%9B%B8%E4%BB%BF",
+      "source": "rfi.fr",
+      "published": 1787179461
+    },
+    {
+      "id": "8b9de4ee423a",
+      "title": "Amazon無人機送貨　年底擴至近500城市",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/amazon-drone-delivery-expands-to-nearly-500-cities-by-the-end-of-the-year/",
+      "source": "singtaousa.com",
+      "published": 1787178600
+    },
+    {
+      "id": "c62b9293c29b",
+      "title": "深水埗警區聯同入境處展開掃黃行動 拘捕22名涉嫌違反逗留條件內地女子",
+      "url": "https://www.singtaousa.com/2026/08/19/news/china/police-immigration-yellow-sweep-arrests-2/",
+      "source": "singtaousa.com",
+      "published": 1787178429
+    },
     {
       "id": "baddb2f3ca32",
       "title": "英國王室上演大和解？　哈利王子夫婦傳將搬回英國",
@@ -161,20 +182,6 @@
       "url": "https://www.singtaousa.com/2026/08/19/news/world/vpd-breaks-into-gallery-to-rescue-sculpture/",
       "source": "singtaousa.com",
       "published": 1787167658
-    },
-    {
-      "id": "e74f0f9ed211",
-      "title": "深圳荔香公園捕蚊神器引關注 智能數據屏顯示累計捕蚊近兩萬隻",
-      "url": "https://www.singtaousa.com/2026/08/19/news/china/shenzhen-lixiang-park-mosquito-trap/",
-      "source": "singtaousa.com",
-      "published": 1787167631
-    },
-    {
-      "id": "2b030b4e0eb0",
-      "title": "奧馬哈市青年最低工資爭議 州總檢察長提告",
-      "url": "https://www.singtaousa.com/2026/08/19/news/usa/attorney-general-mike-hilgers-suing-city-of-omaha-for-requiring-employers-to-pay-youth-15-per-hour/",
-      "source": "singtaousa.com",
-      "published": 1787167405
     },
     {
       "id": "99a117035f9d",
@@ -595,13 +602,6 @@
       "url": "https://cn.nytimes.com/opinion/20260819/us-israel-gaza-hezbollah-hamas-houthis/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1787072671
-    },
-    {
-      "id": "ad50ed2c0da0",
-      "title": "沙特恢复从霍尔木兹海峡内装载和销售石油",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260818-%E6%B2%99%E7%89%B9%E6%81%A2%E5%A4%8D%E4%BB%8E%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%86%85%E8%A3%85%E8%BD%BD%E5%92%8C%E9%94%80%E5%94%AE%E7%9F%B3%E6%B2%B9",
-      "source": "rfi.fr",
-      "published": 1787069844
     },
     {
       "id": "7966c8295e55",
@@ -1339,5 +1339,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787177527
+  "build_id": 1787179596
 }
