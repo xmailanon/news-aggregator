@@ -1,6 +1,27 @@
 {
-  "updated": 1787167311,
+  "updated": 1787168746,
   "items": [
+    {
+      "id": "660623578803",
+      "title": "溫哥華警方誤將雕塑當真人破門，Access畫廊蒙受損失",
+      "url": "https://www.singtaousa.com/2026/08/19/news/world/vpd-breaks-into-gallery-to-rescue-sculpture/",
+      "source": "singtaousa.com",
+      "published": 1787167658
+    },
+    {
+      "id": "e74f0f9ed211",
+      "title": "深圳荔香公園捕蚊神器引關注 智能數據屏顯示累計捕蚊近兩萬隻",
+      "url": "https://www.singtaousa.com/2026/08/19/news/china/shenzhen-lixiang-park-mosquito-trap/",
+      "source": "singtaousa.com",
+      "published": 1787167631
+    },
+    {
+      "id": "2b030b4e0eb0",
+      "title": "奧馬哈市青年最低工資爭議 州總檢察長提告",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/attorney-general-mike-hilgers-suing-city-of-omaha-for-requiring-employers-to-pay-youth-15-per-hour/",
+      "source": "singtaousa.com",
+      "published": 1787167405
+    },
     {
       "id": "56213aa35e6e",
       "title": "玻利維亞：拉美極右翼顧問涉謀殺女友被捕",
@@ -140,27 +161,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1787161811
-    },
-    {
-      "id": "ece1b6e564ff",
-      "title": "大洛杉磯全面推進 自動測速執法計劃",
-      "url": "https://www.singtaousa.com/2026/08/19/news/usa/news-malibu-pch-speed-cameras-los-angeles/",
-      "source": "singtaousa.com",
-      "published": 1787161607
-    },
-    {
-      "id": "c2f6c03282cb",
-      "title": "美國最年長囚犯史密斯101歲離世",
-      "url": "https://www.singtaousa.com/2026/08/19/news/usa/spared-execution-eight-times-uss-oldest-inmate-dies-at-101/",
-      "source": "singtaousa.com",
-      "published": 1787161541
-    },
-    {
-      "id": "f695a7345c56",
-      "title": "霍爾木茲海峽：伊朗已失去重大控制權",
-      "url": "https://www.singtaousa.com/2026/08/19/news/world/iran-has-lost-significant-control-of-the-strait-of-hormuz/",
-      "source": "singtaousa.com",
-      "published": 1787161037
     },
     {
       "id": "e1305b9a3882",
@@ -1339,5 +1339,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787167311
+  "build_id": 1787168746
 }
