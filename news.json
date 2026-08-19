@@ -1,6 +1,27 @@
 {
-  "updated": 1787117136,
+  "updated": 1787118759,
   "items": [
+    {
+      "id": "e32d9f9cecc4",
+      "title": "Cerebras推新運算系統CS-4挑戰輝達 AI回應速度號稱快數倍",
+      "url": "https://money.udn.com/money/story/5599/9701124",
+      "source": "money.udn.com",
+      "published": 1787118085
+    },
+    {
+      "id": "4d3b96605b06",
+      "title": "瘦瘦針副作用有解？新藥最高減重28% 藥廠加緊布局下一戰",
+      "url": "https://money.udn.com/money/story/5599/9701090",
+      "source": "money.udn.com",
+      "published": 1787117578
+    },
+    {
+      "id": "50835d4da9d0",
+      "title": "加州Meta審判開庭 家屬盼究責網絡傷害",
+      "url": "https://www.singtaousa.com/2026/08/18/news/usa/in-metas-trial-families-of-social-media-victims-see-a-pivotal-moment-for-online-safety/",
+      "source": "singtaousa.com",
+      "published": 1787117400
+    },
     {
       "id": "21134a57d3db",
       "title": "金融時報：伊朗可能攻擊歐洲報復川普 點名2國家 嗆來比誰更瘋狂",
@@ -191,13 +212,6 @@
       "published": 1787110063
     },
     {
-      "id": "85a0480404f6",
-      "title": "港島公屋單位「一門兩戶」設計曝光 非長者獲派月租893元分間單位",
-      "url": "https://www.singtaousa.com/2026/08/18/news/china/public-housing-split-unit-low-rent-hong-kong/",
-      "source": "singtaousa.com",
-      "published": 1787110030
-    },
-    {
       "id": "03352438a8af",
       "title": "FT： 北京放行少量輝達 H200 字節跳動、騰訊各獲1萬個",
       "url": "https://money.udn.com/money/story/5599/9700701",
@@ -231,20 +245,6 @@
       "url": "https://money.udn.com/money/story/123398/9700652",
       "source": "money.udn.com",
       "published": 1787108499
-    },
-    {
-      "id": "34f52796c235",
-      "title": "土耳其駁斥以色列　否認向敘利亞軍事基地派兵構成威脅",
-      "url": "https://money.udn.com/money/story/5599/9700591",
-      "source": "money.udn.com",
-      "published": 1787107568
-    },
-    {
-      "id": "c4c7d7a7d2e3",
-      "title": "英媒：中國鬆綁輝達H200晶片管制 字節跳動、騰訊各獲1萬顆",
-      "url": "https://money.udn.com/money/story/5599/9700571",
-      "source": "money.udn.com",
-      "published": 1787107149
     },
     {
       "id": "d23ad81f87b3",
@@ -1332,5 +1332,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787117136
+  "build_id": 1787118759
 }
