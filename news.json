@@ -1,11 +1,18 @@
 {
-  "updated": 1787154877,
+  "updated": 1787156212,
   "items": [
     {
       "id": "8a6f92228b34",
       "title": "AI协助写作的诚实原则",
       "url": "https://www.ftchinese.com/story/001110622",
       "source": "ftchinese.com",
+      "published": 1787155200
+    },
+    {
+      "id": "1108597e08ff",
+      "title": "《東周刊》獨家爆年賺500萬 阿正認住加多利山 謙稱「富婆」未夠班",
+      "url": "https://www.singtaousa.com/2026/08/19/entertainment/dj-huang-zheng-yi-rich/",
+      "source": "singtaousa.com",
       "published": 1787155200
     },
     {
@@ -133,13 +140,6 @@
       "url": "https://www.singtaousa.com/2026/08/19/entertainment/jeon-ji-hyun-wedding-photos-14-years/",
       "source": "singtaousa.com",
       "published": 1787151570
-    },
-    {
-      "id": "dc160c5ee897",
-      "title": "海洋公園「爬行探索基地」開幕 設「爬爬記者會」近距離觀察變色龍捕食",
-      "url": "https://www.singtaousa.com/2026/08/19/news/china/ocean-park-new-reptile-exploration-base/",
-      "source": "singtaousa.com",
-      "published": 1787151417
     },
     {
       "id": "827e736e460f",
@@ -1332,5 +1332,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787154877
+  "build_id": 1787156212
 }
