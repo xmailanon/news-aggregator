@@ -1,6 +1,139 @@
 {
-  "updated": 1787133266,
+  "updated": 1787134589,
   "items": [
+    {
+      "id": "6a4b6858fa44",
+      "title": "科技股領跌　亞股追隨華爾街走弱",
+      "url": "https://money.udn.com/money/story/5599/9701800",
+      "source": "money.udn.com",
+      "published": 1787133675
+    },
+    {
+      "id": "84d76cb3764c",
+      "title": "甲骨文資料中心「氣管」計畫遭拒 決定改道再拚",
+      "url": "https://money.udn.com/money/story/5599/9701797",
+      "source": "money.udn.com",
+      "published": 1787133643
+    },
+    {
+      "id": "91f5dc405903",
+      "title": "艾克頓倫常慘案嫌犯過堂拒不認罪   學區啟動危機干預撫慰社區之創傷",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/acton-family-tragedy-suspect-arraignment/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "bdc639f7b3fe",
+      "title": "紐市911系統故障數小時",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/nyc-911-system-failure/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "162f479cc7ad",
+      "title": "布朗士巴士撞消防車19人受傷",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/bronx-bus-fire-truck-accident/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "c2745d02f723",
+      "title": "狂徒襲猶太教堂 控重罪恐囚20年",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/attack-jewish-synagogue-hate-crime/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "07e21203d1f8",
+      "title": "賓州州立大學   破可卡因集團",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/penn-state-cocaine-group-bust/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "34f0bae37805",
+      "title": "累計被捕150次   盜竊慣犯再落網",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/burglary-repeat-offender-arrested/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "315c7391944b",
+      "title": "紐市滿布監控鏡頭惹爭議",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/new-york-city-surveillance-controversy/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "35ce1b47d62b",
+      "title": "市府報告指減排無效 擁堵費被批「向錢看」",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/city-report-congestion-pricing-failed/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "5a1482948c5f",
+      "title": "西哈林發展公司爆醜聞   執董竟無基金管理背景",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/west-harlem-development-scandal/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "90ceba88a595",
+      "title": "DSA領袖遭揭出生富裕   反對地產霸權被轟雙標",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/dsa-leader-wealth-criticism/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "76c94111608e",
+      "title": "馬姆達尼戴單車頭盔   回應質疑稱安全第一",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/mamdani-bike-helmet-safety/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "25685a6963c5",
+      "title": "麥當勞刺案疑犯   被控企圖謀殺罪",
+      "url": "https://www.singtaousa.com/2026/08/19/news/usa/mcdonalds-stabbing-attempted-murder/",
+      "source": "singtaousa.com",
+      "published": 1787133600
+    },
+    {
+      "id": "e1fc9871ff5b",
+      "title": "債市閃現2007年警訊 「聰明投資人」這麼看…",
+      "url": "https://money.udn.com/money/story/5599/9701795",
+      "source": "money.udn.com",
+      "published": 1787133575
+    },
+    {
+      "id": "8f0484f4563d",
+      "title": "人工智能竞赛升级 中国放宽对英伟达 H200 芯片的限制",
+      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260819-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AB%9E%E8%B5%9B%E5%8D%87%E7%BA%A7-%E4%B8%AD%E5%9B%BD%E6%94%BE%E5%AE%BD%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE-h200-%E8%8A%AF%E7%89%87%E7%9A%84%E9%99%90%E5%88%B6",
+      "source": "rfi.fr",
+      "published": 1787133517
+    },
+    {
+      "id": "06b090b2740a",
+      "title": "公債殖利率飆升干科技股何事？為何全球晶片股跌得唏哩嘩啦",
+      "url": "https://money.udn.com/money/story/5599/9701792",
+      "source": "money.udn.com",
+      "published": 1787133428
+    },
+    {
+      "id": "e3c7495d2b8e",
+      "title": "特朗普延长对加拿大加关税期限  重提美加输油管项目",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260819-%E7%89%B9%E6%9C%97%E6%99%AE%E5%BB%B6%E9%95%BF%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8A%A0%E5%85%B3%E7%A8%8E%E6%9C%9F%E9%99%90-%E9%87%8D%E6%8F%90%E7%BE%8E%E5%8A%A0%E8%BE%93%E6%B2%B9%E7%AE%A1%E9%A1%B9%E7%9B%AE",
+      "source": "rfi.fr",
+      "published": 1787133359
+    },
+    {
+      "id": "d96daf93cc9a",
+      "title": "烏克蘭換防長引發抗議　反貪調查為澤倫斯基再添壓力",
+      "url": "https://money.udn.com/money/story/5599/9701788",
+      "source": "money.udn.com",
+      "published": 1787133344
+    },
     {
       "id": "5cc8019a21d3",
       "title": "客戶搶不到台積產能 傳三星受惠 晶圓代工價調高15%",
@@ -21,13 +154,6 @@
       "url": "https://money.udn.com/money/story/5599/9701740",
       "source": "money.udn.com",
       "published": 1787132040
-    },
-    {
-      "id": "20e499c566ea",
-      "title": "元朗狗咬狗事件｜涉事犬隻「拉里」身世坎坷 動保組織願接收免人道處理",
-      "url": "https://www.singtaousa.com/2026/08/19/news/china/yuanlang-dog-attack-larry-rescue/",
-      "source": "singtaousa.com",
-      "published": 1787131629
     },
     {
       "id": "1813b5b20e94",
@@ -63,20 +189,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260819-%E4%B8%96%E9%97%B4%E5%B7%B2%E6%97%A0%E6%9C%B1%E9%8E%94%E5%9F%BA-%E8%AE%BA%E8%80%85%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%9C%80%E8%A6%81%E5%88%B6%E7%BA%A6-%E6%9D%83%E5%8A%9B-%E6%8C%81%E7%BB%AD%E6%94%B9%E9%9D%A9%E7%9A%84%E5%88%B6%E5%BA%A6",
       "source": "rfi.fr",
       "published": 1787130286
-    },
-    {
-      "id": "8784bc26d357",
-      "title": "周遊慶89歲生日 席開42桌宴客",
-      "url": "https://www.singtaousa.com/2026/08/19/entertainment/zhou-you-birthday-banquet/",
-      "source": "singtaousa.com",
-      "published": 1787130000
-    },
-    {
-      "id": "61f7cac989ad",
-      "title": "天文台：廣闊低壓區移向海南島 廣東沿岸風勢大及有驟雨",
-      "url": "https://www.singtaousa.com/2026/08/19/news/china/low-pressure-area-hainan-guangdong-rain/",
-      "source": "singtaousa.com",
-      "published": 1787129823
     },
     {
       "id": "98cd4cea7981",
@@ -121,13 +233,6 @@
       "published": 1787128635
     },
     {
-      "id": "19e5d82ace82",
-      "title": "重慶市人大會議選舉 陳新武正式當選市長",
-      "url": "https://www.singtaousa.com/2026/08/19/news/china/chen-xinwu-elected-chongqing-mayor/",
-      "source": "singtaousa.com",
-      "published": 1787128029
-    },
-    {
       "id": "2fa1e84264f2",
       "title": "高市政权支持率达政权开始以来最低",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260819-%E9%AB%98%E5%B8%82%E6%94%BF%E6%9D%83%E6%94%AF%E6%8C%81%E7%8E%87%E8%BE%BE%E6%94%BF%E6%9D%83%E5%BC%80%E5%A7%8B%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%BD%8E",
@@ -149,20 +254,6 @@
       "published": 1787127534
     },
     {
-      "id": "4325400ea88d",
-      "title": "姜厚任護女友心切提告5人",
-      "url": "https://www.singtaousa.com/2026/08/19/entertainment/jiang-hou-ren-lawsuit-girlfriend/",
-      "source": "singtaousa.com",
-      "published": 1787126400
-    },
-    {
-      "id": "9cde1c616297",
-      "title": "四川長寧升學宴發生牆體倒塌意外 釀5死17傷",
-      "url": "https://www.singtaousa.com/2026/08/19/news/china/celebration-wall-collapse-deaths-injuries/",
-      "source": "singtaousa.com",
-      "published": 1787126252
-    },
-    {
       "id": "b0dcdc43dd07",
       "title": "不認同樂天擬引進攻擊無人機 網購業者退出樂天市場",
       "url": "https://money.udn.com/money/story/5599/9701401",
@@ -175,13 +266,6 @@
       "url": "https://money.udn.com/money/story/5599/9701398",
       "source": "money.udn.com",
       "published": 1787124627
-    },
-    {
-      "id": "6a248d522665",
-      "title": "宇樹科技科創板首掛股價飆升 創始人王興興躋身千億富豪",
-      "url": "https://www.singtaousa.com/2026/08/19/news/china/unitree-ipo-soars-90s-billionaire/",
-      "source": "singtaousa.com",
-      "published": 1787124421
     },
     {
       "id": "e387cbb651c1",
@@ -205,81 +289,11 @@
       "published": 1787123301
     },
     {
-      "id": "2fb6e386d6dd",
-      "title": "中國航商開通北極航線 俄羅斯握主導權增地緣影響力",
-      "url": "https://money.udn.com/money/story/5599/9701355",
-      "source": "money.udn.com",
-      "published": 1787123299
-    },
-    {
-      "id": "768c3843c7aa",
-      "title": "泰國17歲少女箱屍命案！驗屍證實窒息 澳籍嫌犯恐判死刑",
-      "url": "https://money.udn.com/money/story/5599/9701345",
-      "source": "money.udn.com",
-      "published": 1787123004
-    },
-    {
-      "id": "4f96a791e15a",
-      "title": "韓國藝術界聲援 批光州雙年展刪「台灣」涉政治審查、應即恢復",
-      "url": "https://money.udn.com/money/story/5599/9701331",
-      "source": "money.udn.com",
-      "published": 1787122832
-    },
-    {
-      "id": "ba3c8bfed88c",
-      "title": "1.07克拉鑽戒藏寓意 李京恬嫁圈外男友",
-      "url": "https://www.singtaousa.com/2026/08/19/entertainment/li-jing-tian-engaged-diamond-ring/",
-      "source": "singtaousa.com",
-      "published": 1787122800
-    },
-    {
-      "id": "bef167b86ee7",
-      "title": "中國商業航天里程碑：朱雀三號遙二火箭成功發射並實現首次陸地回收",
-      "url": "https://www.singtaousa.com/2026/08/18/news/china/zhuque-3-rocket-landing-success-china/",
-      "source": "singtaousa.com",
-      "published": 1787122644
-    },
-    {
-      "id": "bb4cea2f32ee",
-      "title": "科技股跌勢拖累 日股收盤重挫逾3%",
-      "url": "https://money.udn.com/money/story/5599/9701322",
-      "source": "money.udn.com",
-      "published": 1787122487
-    },
-    {
-      "id": "8a0c860781e3",
-      "title": "新加坡搶基金人才！祭個人所得稅減免 正面迎戰香港",
-      "url": "https://money.udn.com/money/story/5599/9701317",
-      "source": "money.udn.com",
-      "published": 1787122298
-    },
-    {
       "id": "865639c1ca4e",
       "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
       "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1787121690
-    },
-    {
-      "id": "5b1628c23c52",
-      "title": "重慶經紀公司總部發生衝突 未成年練習生遭圍堵 女粉絲護駕受傷",
-      "url": "https://www.singtaousa.com/2026/08/18/news/china/conflict-fans-attack-training-base-chongqing/",
-      "source": "singtaousa.com",
-      "published": 1787120831
-    },
-    {
-      "id": "6c58a4f7a2f7",
-      "title": "以色列部長籲每晚殺40名加沙人",
-      "url": "https://www.singtaousa.com/2026/08/18/news/world/senior-israeli-official-calls-for-killing-of-30-to-40-people-in-gaza-every-night-theyre-not-even-people/",
-      "source": "singtaousa.com",
-      "published": 1787119200
-    },
-    {
-      "id": "2ff9c55ab1e4",
-      "title": "丁程鑫談農村成長經歷",
-      "url": "https://www.singtaousa.com/2026/08/18/entertainment/ding-cheng-xin-rural-growth/",
-      "source": "singtaousa.com",
-      "published": 1787119200
     },
     {
       "id": "0282b1af63ff",
@@ -639,25 +653,11 @@
       "published": 1787045640
     },
     {
-      "id": "caf7056cf889",
-      "title": "针对特朗普命令美韩军演缩小规格 日本防卫相强调日美韩军事合作重要",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260818-%E9%92%88%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E7%BE%8E%E9%9F%A9%E5%86%9B%E6%BC%94%E7%BC%A9%E5%B0%8F%E8%A7%84%E6%A0%BC-%E6%97%A5%E6%9C%AC%E9%98%B2%E5%8D%AB%E7%9B%B8%E5%BC%BA%E8%B0%83%E6%97%A5%E7%BE%8E%E9%9F%A9%E5%86%9B%E4%BA%8B%E5%90%88%E4%BD%9C%E9%87%8D%E8%A6%81",
-      "source": "rfi.fr",
-      "published": 1787044977
-    },
-    {
       "id": "d55c84ab8833",
       "title": "特朗普女婿兼特使库什纳结束中东行程，加沙和平方案进展有限",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260818-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%A9%BF%E5%85%BC%E7%89%B9%E4%BD%BF%E5%BA%93%E4%BB%80%E7%BA%B3%E7%BB%93%E6%9D%9F%E4%B8%AD%E4%B8%9C%E8%A1%8C%E7%A8%8B%EF%BC%8C%E5%8A%A0%E6%B2%99%E5%92%8C%E5%B9%B3%E6%96%B9%E6%A1%88%E8%BF%9B%E5%B1%95%E6%9C%89%E9%99%90",
       "source": "rfi.fr",
       "published": 1787044527
-    },
-    {
-      "id": "678f475f785e",
-      "title": "就任后首访莫斯科 缅甸总统敏昂莱会见其“保护人”普京",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260818-%E5%B0%B1%E4%BB%BB%E5%90%8E%E9%A6%96%E8%AE%BF%E8%8E%AB%E6%96%AF%E7%A7%91-%E7%BC%85%E7%94%B8%E6%80%BB%E7%BB%9F%E6%95%8F%E6%98%82%E8%8E%B1%E4%BC%9A%E8%A7%81%E5%85%B6-%E4%BF%9D%E6%8A%A4%E4%BA%BA-%E6%99%AE%E4%BA%AC",
-      "source": "rfi.fr",
-      "published": 1787043216
     },
     {
       "id": "1fde30c64a3a",
@@ -1332,5 +1332,5 @@
       "published": 1784816220
     }
   ],
-  "build_id": 1787133266
+  "build_id": 1787134589
 }
