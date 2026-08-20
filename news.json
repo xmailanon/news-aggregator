@@ -1,6 +1,34 @@
 {
-  "updated": 1787241265,
+  "updated": 1787242775,
   "items": [
+    {
+      "id": "bf429ea9dbe8",
+      "title": "上海限制地下偶像演唱日语歌 被指或揣度中央意图",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260820-%E4%B8%8A%E6%B5%B7%E9%99%90%E5%88%B6%E5%9C%B0%E4%B8%8B%E5%81%B6%E5%83%8F%E6%BC%94%E5%94%B1%E6%97%A5%E8%AF%AD%E6%AD%8C-%E8%A2%AB%E6%8C%87%E6%88%96%E6%8F%A3%E5%BA%A6%E4%B8%AD%E5%A4%AE%E6%84%8F%E5%9B%BE",
+      "source": "rfi.fr",
+      "published": 1787242251
+    },
+    {
+      "id": "97aebadfd3f7",
+      "title": "Google擴大合作邁威爾 以最高122億美元認股權綁定雙方利益",
+      "url": "https://money.udn.com/money/story/5599/9704635",
+      "source": "money.udn.com",
+      "published": 1787241720
+    },
+    {
+      "id": "0d005e432e87",
+      "title": "胡子彤預告古仔開騷有驚喜",
+      "url": "https://www.singtaousa.com/2026/08/20/entertainment/huzi-tong-previews-gu-tian-le-concert/",
+      "source": "singtaousa.com",
+      "published": 1787241600
+    },
+    {
+      "id": "bb874e53322c",
+      "title": "元朗幼童疑遭印傭以熱水灼傷 母親報警追究",
+      "url": "https://www.singtaousa.com/2026/08/20/news/china/yuen-long-child-abuse-indonesian-maid-hot-water/",
+      "source": "singtaousa.com",
+      "published": 1787241430
+    },
     {
       "id": "ac7dca9e8737",
       "title": "美林肯號航艦長期部署遭批後　華盛頓號航艦抵中東",
@@ -128,13 +156,6 @@
       "published": 1787236030
     },
     {
-      "id": "510d2d3b0273",
-      "title": "火車座位使用權爭議：兩乘客購三票放零食，無座者借座被拒",
-      "url": "https://www.singtaousa.com/2026/08/20/news/china/train-seats-snacks-standing-passenger-dispute/",
-      "source": "singtaousa.com",
-      "published": 1787236024
-    },
-    {
       "id": "07752c8aef06",
       "title": "川普縮減美韓軍演規模　金與正稱首爾遭遇「現世報」",
       "url": "https://money.udn.com/money/story/5599/9704578",
@@ -175,13 +196,6 @@
       "url": "https://money.udn.com/money/story/5599/9704546",
       "source": "money.udn.com",
       "published": 1787234442
-    },
-    {
-      "id": "c53eaded8954",
-      "title": "長和索償逾15億美元 控巴拿馬違反投資保護條約啟動仲裁程序",
-      "url": "https://www.singtaousa.com/2026/08/20/news/world/ck-hutchison-seeks-more-than-us1-5-billion-accuses-panama-of-violating-investment-protection-treaty-and-initiates-arbitration-proceedings/",
-      "source": "singtaousa.com",
-      "published": 1787234422
     },
     {
       "id": "38c3f80d6eb7",
@@ -266,13 +280,6 @@
       "url": "https://money.udn.com/money/story/5599/9703719",
       "source": "money.udn.com",
       "published": 1787229901
-    },
-    {
-      "id": "dd03f65bea94",
-      "title": "長和針對巴拿馬啟動國際仲裁程序 就投資損失索賠逾15億美元",
-      "url": "https://money.udn.com/money/story/5599/9703460",
-      "source": "money.udn.com",
-      "published": 1787229819
     },
     {
       "id": "90d3d2a9ea0c",
@@ -749,13 +756,6 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260819-%E7%89%B9%E6%9C%97%E6%99%AE%E5%BB%B6%E9%95%BF%E5%AF%B9%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8A%A0%E5%85%B3%E7%A8%8E%E6%9C%9F%E9%99%90-%E9%87%8D%E6%8F%90%E7%BE%8E%E5%8A%A0%E8%BE%93%E6%B2%B9%E7%AE%A1%E9%A1%B9%E7%9B%AE",
       "source": "rfi.fr",
       "published": 1787133359
-    },
-    {
-      "id": "39f2c8f0fa2c",
-      "title": "刚果民主共和国埃博拉病例数超过5,000例",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260819-%E5%88%9A%E6%9E%9C%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9F%83%E5%8D%9A%E6%8B%89%E7%97%85%E4%BE%8B%E6%95%B0%E8%B6%85%E8%BF%875-000%E4%BE%8B",
-      "source": "rfi.fr",
-      "published": 1787131200
     },
     {
       "id": "2010437f0987",
@@ -1353,5 +1353,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787241265
+  "build_id": 1787242775
 }
