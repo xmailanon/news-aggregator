@@ -1,6 +1,48 @@
 {
-  "updated": 1787259112,
+  "updated": 1787260578,
   "items": [
+    {
+      "id": "0284a10bcdd6",
+      "title": "中国继续保持德国最大贸易伙伴地位",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260820-%E4%B8%AD%E5%9B%BD%E7%BB%A7%E7%BB%AD%E4%BF%9D%E6%8C%81%E5%BE%B7%E5%9B%BD%E6%9C%80%E5%A4%A7%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4%E5%9C%B0%E4%BD%8D",
+      "source": "rfi.fr",
+      "published": 1787260354
+    },
+    {
+      "id": "cfa981520079",
+      "title": "美債殖利率上升、沃爾瑪財報拖累　美股多收黑",
+      "url": "https://money.udn.com/money/story/123398/9704918",
+      "source": "money.udn.com",
+      "published": 1787259628
+    },
+    {
+      "id": "1535c8911526",
+      "title": "娜姐發威首仗勝Taylor 輕取VMA十一項提名",
+      "url": "https://www.singtaousa.com/2026/08/20/entertainment/madonna-vma-nominations/",
+      "source": "singtaousa.com",
+      "published": 1787259600
+    },
+    {
+      "id": "7ae6eb1ab197",
+      "title": "打鼓嶺狗場致命事故 待領養唐狗襲擊女負責人",
+      "url": "https://www.singtaousa.com/2026/08/20/news/china/dog-attack-death-tangkok-dog/",
+      "source": "singtaousa.com",
+      "published": 1787259414
+    },
+    {
+      "id": "a7db7d9fde92",
+      "title": "霍爾木茲海峽動盪，如何在巴拿馬運河引發中美角力？",
+      "url": "https://www.bbc.com/zhongwen/articles/cdj013krm3no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1787259334
+    },
+    {
+      "id": "13ecaa578114",
+      "title": "川普威脅重懲援助伊朗國家　油價大漲逾2%",
+      "url": "https://money.udn.com/money/story/5599/9704916",
+      "source": "money.udn.com",
+      "published": 1787258727
+    },
     {
       "id": "7605dd100946",
       "title": "打鼓嶺狗場致命事故 33歲女持牌人遭大型唐狗襲擊身亡",
@@ -84,20 +126,6 @@
       "url": "https://money.udn.com/money/story/5599/9704896",
       "source": "money.udn.com",
       "published": 1787253692
-    },
-    {
-      "id": "693160bdfc3d",
-      "title": "剛果伊波拉疫情失控 已逾2400人死亡",
-      "url": "https://www.singtaousa.com/2026/08/20/news/world/ebola-outbreak-out-of-control-in-democratic-republic-of-the-congo-who-says-it-is-spreading-faster-than-our-ability-to-contain-it/",
-      "source": "singtaousa.com",
-      "published": 1787253581
-    },
-    {
-      "id": "d523e8e13894",
-      "title": "女星潘妮蒂爾猝逝 緝毒局介入調查",
-      "url": "https://www.singtaousa.com/2026/08/20/news/usa/reports-dea-joins-investigation-into-hayden-panettieres-death/",
-      "source": "singtaousa.com",
-      "published": 1787253351
     },
     {
       "id": "b683ff84c177",
@@ -224,20 +252,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260820-%E4%B8%8A%E6%B5%B7%E9%99%90%E5%88%B6%E5%9C%B0%E4%B8%8B%E5%81%B6%E5%83%8F%E6%BC%94%E5%94%B1%E6%97%A5%E8%AF%AD%E6%AD%8C-%E8%A2%AB%E6%8C%87%E6%88%96%E6%8F%A3%E5%BA%A6%E4%B8%AD%E5%A4%AE%E6%84%8F%E5%9B%BE",
       "source": "rfi.fr",
       "published": 1787242251
-    },
-    {
-      "id": "d366d7972e74",
-      "title": "川普：對伊朗發動空前經濟戰 提供伊朗支援國家將面臨極嚴重後果",
-      "url": "https://money.udn.com/money/story/5599/9704719",
-      "source": "money.udn.com",
-      "published": 1787242211
-    },
-    {
-      "id": "97aebadfd3f7",
-      "title": "Google擴大合作邁威爾 以最高122億美元認股權綁定雙方利益",
-      "url": "https://money.udn.com/money/story/5599/9704635",
-      "source": "money.udn.com",
-      "published": 1787241720
     },
     {
       "id": "ce0a1380fc28",
@@ -534,13 +548,6 @@
       "published": 1787163415
     },
     {
-      "id": "865639c1ca4e",
-      "title": "她指控：一名法國公務員下藥，讓我們小便失禁",
-      "url": "https://www.bbc.com/zhongwen/articles/c235d87yp0ko/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1787161811
-    },
-    {
       "id": "602d2aabb6fe",
       "title": "欧洲加大对前沿技术投资，能否与美中抗衡？",
       "url": "https://cn.nytimes.com/business/20260820/europe-investment-innovation-competition-us-china/?utm_source=RSS",
@@ -749,13 +756,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1787135634
-    },
-    {
-      "id": "8f0484f4563d",
-      "title": "人工智能竞赛升级 中国放宽对英伟达 H200 芯片的限制",
-      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260819-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AB%9E%E8%B5%9B%E5%8D%87%E7%BA%A7-%E4%B8%AD%E5%9B%BD%E6%94%BE%E5%AE%BD%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE-h200-%E8%8A%AF%E7%89%87%E7%9A%84%E9%99%90%E5%88%B6",
-      "source": "rfi.fr",
-      "published": 1787133517
     },
     {
       "id": "2010437f0987",
@@ -1353,5 +1353,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787259112
+  "build_id": 1787260578
 }
