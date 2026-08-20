@@ -1,6 +1,27 @@
 {
-  "updated": 1787264044,
+  "updated": 1787266200,
   "items": [
+    {
+      "id": "09b178e7da91",
+      "title": "芬蘭國防部：俄機疑侵犯領空　正在調查中",
+      "url": "https://money.udn.com/money/story/5599/9704985",
+      "source": "money.udn.com",
+      "published": 1787265926
+    },
+    {
+      "id": "d516019f7331",
+      "title": "恒大曾经辉煌 许家印黄粱一梦",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260820-%E6%81%92%E5%A4%A7%E6%9B%BE%E7%BB%8F%E8%BE%89%E7%85%8C-%E8%AE%B8%E5%AE%B6%E5%8D%B0%E9%BB%84%E7%B2%B1%E4%B8%80%E6%A2%A6",
+      "source": "rfi.fr",
+      "published": 1787265436
+    },
+    {
+      "id": "8a64e2f3d5a0",
+      "title": "打鼓嶺狗舍命案 33歲女子疑遭唐狗襲擊身亡",
+      "url": "https://www.singtaousa.com/2026/08/20/news/china/woman-found-dead-dog-kennel-animal-bites/",
+      "source": "singtaousa.com",
+      "published": 1787264820
+    },
     {
       "id": "25286d9f40e9",
       "title": "奈及利亞超載船隻翻覆　地方人士稱逾50死",
@@ -191,13 +212,6 @@
       "published": 1787255672
     },
     {
-      "id": "d5c114c6fb5e",
-      "title": "瑞士遊客因侮辱巴厘島神聖的靜默日 被法院判處一年監禁",
-      "url": "https://www.singtaousa.com/2026/08/20/news/world/swiss-tourist-sentenced-to-a-year-in-jail-for-insulting-balis-sacred-day-of-silence/",
-      "source": "singtaousa.com",
-      "published": 1787255123
-    },
-    {
       "id": "597e70b6e5c3",
       "title": "USGS：秘魯南部強震　規模6.7",
       "url": "https://money.udn.com/money/story/5599/9704896",
@@ -287,13 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9704857",
       "source": "money.udn.com",
       "published": 1787246507
-    },
-    {
-      "id": "e7391bf67a5f",
-      "title": "華府將對伊朗祭史上最嚴厲制裁　美財長促中國配合",
-      "url": "https://money.udn.com/money/story/5599/9704856",
-      "source": "money.udn.com",
-      "published": 1787246491
     },
     {
       "id": "b47e410d8f77",
@@ -560,13 +567,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260819-%E6%B3%95%E5%9B%BD%E4%BB%8A%E5%B9%B4%E9%AB%98%E6%B8%A9%E6%9C%9F%E9%97%B4%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E8%BE%83%E6%AD%A3%E5%B8%B8%E6%B0%B4%E5%B9%B3%E5%A4%9A%E5%87%BA7300%E4%BA%BA",
       "source": "rfi.fr",
       "published": 1787175788
-    },
-    {
-      "id": "1cd603a6a2e2",
-      "title": "王毅：中方积极考虑安排中韩领导人11月在深圳会晤",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260819-%E7%8E%8B%E6%AF%85-%E4%B8%AD%E6%96%B9%E7%A7%AF%E6%9E%81%E8%80%83%E8%99%91%E5%AE%89%E6%8E%92%E4%B8%AD%E9%9F%A9%E9%A2%86%E5%AF%BC%E4%BA%BA11%E6%9C%88%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4",
-      "source": "rfi.fr",
-      "published": 1787175095
     },
     {
       "id": "da4100133b21",
@@ -1353,5 +1353,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787264044
+  "build_id": 1787266200
 }
