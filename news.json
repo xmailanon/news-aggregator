@@ -1,6 +1,13 @@
 {
-  "updated": 1787256910,
+  "updated": 1787259112,
   "items": [
+    {
+      "id": "7605dd100946",
+      "title": "打鼓嶺狗場致命事故 33歲女持牌人遭大型唐狗襲擊身亡",
+      "url": "https://www.singtaousa.com/2026/08/20/news/china/dog-attack-fatal-licensee-tang-dog/",
+      "source": "singtaousa.com",
+      "published": 1787257619
+    },
     {
       "id": "e3ace8a96790",
       "title": "希丹媽咪怒轟Brian害死愛女",
@@ -91,13 +98,6 @@
       "url": "https://www.singtaousa.com/2026/08/20/news/usa/reports-dea-joins-investigation-into-hayden-panettieres-death/",
       "source": "singtaousa.com",
       "published": 1787253351
-    },
-    {
-      "id": "f4c48c09ae4e",
-      "title": "Costco進軍醫保市場 專攻Medicare",
-      "url": "https://www.singtaousa.com/2026/08/20/news/usa/costco-to-offer-medicare-plans-to-enhance-healthcare-for-older-adults/",
-      "source": "singtaousa.com",
-      "published": 1787252492
     },
     {
       "id": "b683ff84c177",
@@ -1353,5 +1353,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787256910
+  "build_id": 1787259112
 }
