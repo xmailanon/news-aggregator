@@ -1,9 +1,16 @@
 {
-  "updated": 1787353926,
+  "updated": 1787355839,
   "items": [
     {
+      "id": "548ee30f4695",
+      "title": "近4萬瓶Clear Eyes眼藥水　恐污染全美急召回",
+      "url": "https://www.singtaousa.com/2026/08/21/news/usa/nearly-40000-bottles-of-clear-eyes-eye-drops-recalled-nationwide-due-to-contamination-concerns/",
+      "source": "singtaousa.com",
+      "published": 1787354539
+    },
+    {
       "id": "258060c98098",
-      "title": "教育部擬撤銷律師協會認證權",
+      "title": "教育部擬撤銷律師協會對法學院認證權",
       "url": "https://www.singtaousa.com/2026/08/21/news/usa/education-department-moves-to-remove-bar-associations-authority-to-accredit-law-schools/",
       "source": "singtaousa.com",
       "published": 1787353881
@@ -140,13 +147,6 @@
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260821-%E5%8D%A2%E6%8B%89%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E5%85%B3%E7%A8%8E%E9%80%9A%E7%94%B5%E8%AF%9D",
       "source": "rfi.fr",
       "published": 1787343865
-    },
-    {
-      "id": "7100dfcf42b2",
-      "title": "加州訴訟指控Meta傷害兒童 Meta稱已盡力保護",
-      "url": "https://www.singtaousa.com/2026/08/21/news/usa/meta-defends-its-child-safety-efforts-but-critics-say-the-social-media-giant-falls-short/",
-      "source": "singtaousa.com",
-      "published": 1787343800
     },
     {
       "id": "83f0601e664a",
@@ -1346,5 +1346,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787353926
+  "build_id": 1787355839
 }
