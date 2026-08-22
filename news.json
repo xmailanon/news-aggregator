@@ -1,6 +1,13 @@
 {
-  "updated": 1787440146,
+  "updated": 1787442061,
   "items": [
+    {
+      "id": "1bd583c069d5",
+      "title": "美加貿易戰升級 談判破裂互徵關稅",
+      "url": "https://www.singtaousa.com/2026/08/22/news/world/us-and-canada-fall-deeper-into-a-trade-war-with-new-tariffs-as-talks-collapse-and-blame-is-spread/",
+      "source": "singtaousa.com",
+      "published": 1787441400
+    },
     {
       "id": "d90530d3fbb8",
       "title": "美國對伊朗經濟戰 中國拒絕配合制裁",
@@ -147,13 +154,6 @@
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260822-%E5%A4%9A%E5%93%A5%E6%94%BF%E5%BA%9C%E7%A7%B0%E6%8E%8C%E6%8F%A1%E7%A1%AE%E5%87%BF%E8%AF%81%E6%8D%AE-%E6%8B%98%E6%8D%95%E4%B8%A4%E5%90%8D%E6%B3%95%E5%9B%BD%E8%AE%B0%E8%80%85%E5%85%BC%E5%AF%BC%E6%BC%94",
       "source": "rfi.fr",
       "published": 1787430157
-    },
-    {
-      "id": "6c1b469df254",
-      "title": "黎巴嫩南部遭以軍空襲 磷彈致大規模破壞",
-      "url": "https://www.singtaousa.com/2026/08/22/news/world/israeli-military-strike-southern-lebanon-with-phosphorus-shells-airstrikes/",
-      "source": "singtaousa.com",
-      "published": 1787430020
     },
     {
       "id": "6c5d579f7c11",
@@ -1367,5 +1367,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787440146
+  "build_id": 1787442061
 }
