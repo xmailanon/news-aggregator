@@ -1,6 +1,34 @@
 {
-  "updated": 1787417120,
+  "updated": 1787418609,
   "items": [
+    {
+      "id": "8b0c2089a918",
+      "title": "加州控告Meta商業模式傷害兒童",
+      "url": "https://www.singtaousa.com/2026/08/22/news/usa/hook-hold-harvest-and-hide-metas-alleged-strategy-laid-out-in-first-week-of-landmark-trial/",
+      "source": "singtaousa.com",
+      "published": 1787418536
+    },
+    {
+      "id": "a93d90003445",
+      "title": "北京機械人大賽 中國人形機械人連破人類紀錄",
+      "url": "https://www.singtaousa.com/2026/08/22/news/world/chinese-humanoid-robots-smash-human-records-in-100m-sprint-and-high-jump-at-beijing-robot-games/",
+      "source": "singtaousa.com",
+      "published": 1787418220
+    },
+    {
+      "id": "6249cab6a607",
+      "title": "Yanny自爆收性騷擾私訊：好唔舒服",
+      "url": "https://www.singtaousa.com/2026/08/22/entertainment/yanny-sexual-harassment-messages/",
+      "source": "singtaousa.com",
+      "published": 1787418000
+    },
+    {
+      "id": "c08f3253fab5",
+      "title": "古巨基為港隊打氣 帶隊友友賽匹克球代表隊",
+      "url": "https://www.singtaousa.com/2026/08/22/entertainment/leo-ku-pickleball-challenge-hk-team/",
+      "source": "singtaousa.com",
+      "published": 1787417893
+    },
     {
       "id": "1df57bc76625",
       "title": "荷姆茲海峽油輪通行量倍增",
@@ -79,39 +107,11 @@
       "published": 1787410939
     },
     {
-      "id": "989bf01035b2",
-      "title": "MIRROR齊人慶祝邱士縉生日",
-      "url": "https://www.singtaousa.com/2026/08/22/entertainment/mirror-celebrates-birthday-stanley/",
-      "source": "singtaousa.com",
-      "published": 1787410800
-    },
-    {
-      "id": "7080ded7b8c4",
-      "title": "《你好，打劫！Return》首演 出品人劉德華後台全程觀看 激讚演員表現",
-      "url": "https://www.singtaousa.com/2026/08/22/entertainment/andy-lau-stage-play-review/",
-      "source": "singtaousa.com",
-      "published": 1787410658
-    },
-    {
-      "id": "a7b3aa17b96a",
-      "title": "新皇崗口岸第三次大型演練 逾萬公務員參與壓力測試",
-      "url": "https://www.singtaousa.com/2026/08/22/news/china/new-huanggang-port-third-large-scale-drill/",
-      "source": "singtaousa.com",
-      "published": 1787410617
-    },
-    {
       "id": "5470e1fef4ac",
       "title": "白俄羅斯記者遭捷克制裁 法院裁定曾效力俄情報局",
       "url": "https://money.udn.com/money/story/5599/9708184",
       "source": "money.udn.com",
       "published": 1787409928
-    },
-    {
-      "id": "26151fb7cdd5",
-      "title": "《中年好聲音4》尹景順獨特聲線成大熱 由駐唱舞台到決賽圓夢",
-      "url": "https://www.singtaousa.com/2026/08/22/entertainment/yin-jingshun-middle-aged-voice-contestant/",
-      "source": "singtaousa.com",
-      "published": 1787409092
     },
     {
       "id": "0d1b328c09d0",
@@ -800,16 +800,16 @@
       "published": 1787214966
     },
     {
-      "id": "5eebd8810b0d",
-      "title": "重慶「時代峻峰」群眾衝突事件 目前我們知道什麼？",
-      "url": "https://www.dw.com/zh/重慶「時代峻峰」群眾衝突事件-目前我們知道什麼？/a-78439886?maca=chi-rss-chi-news-3224-rdf",
+      "id": "1fd77fcdd714",
+      "title": "重慶「時代峰峻」群眾衝突事件 目前我們知道什麼？",
+      "url": "https://www.dw.com/zh/重慶「時代峰峻」群眾衝突事件-目前我們知道什麼？/a-78439886?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1787214960
     },
     {
-      "id": "ea393c595f70",
-      "title": "重慶「時代峻峰」群眾衝突事件 目前我們知道什麼？",
-      "url": "https://www.dw.com/zh/重慶「時代峻峰」群眾衝突事件-目前我們知道什麼？/a-78439886?maca=chi-rss-chi-all-1127-rdf",
+      "id": "3a0509018c5e",
+      "title": "重慶「時代峰峻」群眾衝突事件 目前我們知道什麼？",
+      "url": "https://www.dw.com/zh/重慶「時代峰峻」群眾衝突事件-目前我們知道什麼？/a-78439886?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1787214960
     },
@@ -1367,5 +1367,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787417120
+  "build_id": 1787418609
 }
