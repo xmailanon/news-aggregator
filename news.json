@@ -1,6 +1,20 @@
 {
-  "updated": 1787414982,
+  "updated": 1787417120,
   "items": [
+    {
+      "id": "1df57bc76625",
+      "title": "荷姆茲海峽油輪通行量倍增",
+      "url": "https://www.singtaousa.com/2026/08/22/news/world/around-40-tankers-transit-strait-of-hormuz-friday-night/",
+      "source": "singtaousa.com",
+      "published": 1787417102
+    },
+    {
+      "id": "9e3934cc0882",
+      "title": "星二代創業開烘焙店　蘇志威劉小慧親身到場支持長女蘇君蕎",
+      "url": "https://www.singtaousa.com/2026/08/22/entertainment/yumi-so-bakery-popup-store-opening/",
+      "source": "singtaousa.com",
+      "published": 1787416111
+    },
     {
       "id": "f3958a8fa208",
       "title": "湯令山考車四連敗認「好渣」",
@@ -17,7 +31,7 @@
     },
     {
       "id": "468c9e0822fb",
-      "title": "习近平访美前夕　美国民间致信白宫声援旺旺",
+      "title": "习近平访美前夕 美国民间致信白宫声援旺旺",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260822-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E5%A4%95-%E7%BE%8E%E5%9B%BD%E6%B0%91%E9%97%B4%E8%87%B4%E4%BF%A1%E7%99%BD%E5%AE%AB%E5%A3%B0%E6%8F%B4%E6%97%BA%E6%97%BA",
       "source": "rfi.fr",
       "published": 1787414292
@@ -100,13 +114,6 @@
       "published": 1787409092
     },
     {
-      "id": "c0e4dca3cac7",
-      "title": "尖沙咀周末緊急停水 影響新港中心及海防道漢口道一帶",
-      "url": "https://www.singtaousa.com/2026/08/22/news/china/tsim-sha-tsui-emergency-water-cut/",
-      "source": "singtaousa.com",
-      "published": 1787408854
-    },
-    {
       "id": "0d1b328c09d0",
       "title": "人機界線1／AI 裝置全面進入生活 準備好迎接「後智慧手機時代」？",
       "url": "https://money.udn.com/money/story/122381/9708129",
@@ -154,13 +161,6 @@
       "url": "https://money.udn.com/money/story/5599/9708123",
       "source": "money.udn.com",
       "published": 1787407228
-    },
-    {
-      "id": "d09a90e51815",
-      "title": "獲准部署5000輛Robotaxi  特斯拉股價大漲",
-      "url": "https://www.singtaousa.com/2026/08/22/news/usa/tesla-robotaxi-deployment/",
-      "source": "singtaousa.com",
-      "published": 1787407200
     },
     {
       "id": "dc5d047c5dbd",
@@ -1367,5 +1367,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787414982
+  "build_id": 1787417120
 }
