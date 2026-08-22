@@ -1,6 +1,13 @@
 {
-  "updated": 1787433009,
+  "updated": 1787434900,
   "items": [
+    {
+      "id": "9868ffb53abc",
+      "title": "TIMA國際音樂大賞實施統一螢光棒安排 啟德體育園配合主辦方指引",
+      "url": "https://www.singtaousa.com/2026/08/22/news/china/tima-music-awards-bans-glow-sticks/",
+      "source": "singtaousa.com",
+      "published": 1787434014
+    },
     {
       "id": "2dbdcc08138d",
       "title": "鄭秀文啟德騷補場安排出爐",
@@ -31,7 +38,7 @@
     },
     {
       "id": "1fdced30fd2c",
-      "title": "美国对加加征关税后    马克·卡尼重手回击",
+      "title": "美国对加拿大加征关税后    马克·卡尼重手回击",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260822-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8A%A0%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E5%90%8E-%E9%A9%AC%E5%85%8B%C2%B7%E5%8D%A1%E5%B0%BC%E9%87%8D%E6%89%8B%E5%9B%9E%E5%87%BB",
       "source": "rfi.fr",
       "published": 1787431438
@@ -175,13 +182,6 @@
       "url": "https://www.singtaousa.com/2026/08/22/news/china/southern-taiwan-work-class-suspension-rainstorm/",
       "source": "singtaousa.com",
       "published": 1787425017
-    },
-    {
-      "id": "133f50deb350",
-      "title": "中國人形機械人百米跑出9秒39 超越保特世界紀錄",
-      "url": "https://www.singtaousa.com/2026/08/22/news/china/chinese-robot-breaks-100m-world-record/",
-      "source": "singtaousa.com",
-      "published": 1787423217
     },
     {
       "id": "84eb7c7f16a6",
@@ -1367,5 +1367,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787433009
+  "build_id": 1787434900
 }
