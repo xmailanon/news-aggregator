@@ -1,6 +1,13 @@
 {
-  "updated": 1787422306,
+  "updated": 1787424822,
   "items": [
+    {
+      "id": "133f50deb350",
+      "title": "中國人形機械人百米跑出9秒39 超越保特世界紀錄",
+      "url": "https://www.singtaousa.com/2026/08/22/news/china/chinese-robot-breaks-100m-world-record/",
+      "source": "singtaousa.com",
+      "published": 1787423217
+    },
     {
       "id": "84eb7c7f16a6",
       "title": "指控川普發動貿易戰　加拿大揚言對美報復性關稅",
@@ -168,13 +175,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260822-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E%E5%89%8D%E5%A4%95-%E7%BE%8E%E5%9B%BD%E6%B0%91%E9%97%B4%E8%87%B4%E4%BF%A1%E7%99%BD%E5%AE%AB%E5%A3%B0%E6%8F%B4%E6%97%BA%E6%97%BA",
       "source": "rfi.fr",
       "published": 1787414292
-    },
-    {
-      "id": "ed3b74db2d03",
-      "title": "傳梅根洽談Netflix英劇《瘋狂紳士幫》角色 或與Theo James合作",
-      "url": "https://www.singtaousa.com/2026/08/22/entertainment/meghan-markle-gentlemen-series-casting/",
-      "source": "singtaousa.com",
-      "published": 1787414272
     },
     {
       "id": "5d8a7d6669d8",
@@ -1367,5 +1367,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787422306
+  "build_id": 1787424822
 }
