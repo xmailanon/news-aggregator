@@ -1,6 +1,48 @@
 {
-  "updated": 1787418609,
+  "updated": 1787420499,
   "items": [
+    {
+      "id": "2e370efe4e3a",
+      "title": "川普：伊朗想談 但沒準備好 美國本周說明經濟制裁細節",
+      "url": "https://money.udn.com/money/story/5599/9708243",
+      "source": "money.udn.com",
+      "published": 1787419041
+    },
+    {
+      "id": "2545cae347d6",
+      "title": "陸原油進口大減抑制油價 讓全球價格維持平穩",
+      "url": "https://money.udn.com/money/story/5599/9708244",
+      "source": "money.udn.com",
+      "published": 1787418985
+    },
+    {
+      "id": "82943c8500d2",
+      "title": "華府還聯合國8.5億美元",
+      "url": "https://money.udn.com/money/story/5599/9708246",
+      "source": "money.udn.com",
+      "published": 1787418955
+    },
+    {
+      "id": "4e4bc1ec249a",
+      "title": "蘋果裁員頭戴式裝置部門",
+      "url": "https://money.udn.com/money/story/123398/9708248",
+      "source": "money.udn.com",
+      "published": 1787418950
+    },
+    {
+      "id": "643ac3bf128a",
+      "title": "1分鐘看世界／蘋果遭歐盟裁定補稅 去年在愛爾蘭繳納170億美元",
+      "url": "https://money.udn.com/money/story/5599/9708161",
+      "source": "money.udn.com",
+      "published": 1787418870
+    },
+    {
+      "id": "3ed7b1de454c",
+      "title": "希臘科孚主教訪莫斯科引教會爭議",
+      "url": "https://www.singtaousa.com/2026/08/22/news/world/corfu-bishops-visit-to-moscow-sparks-tensions-within-church-of-greece/",
+      "source": "singtaousa.com",
+      "published": 1787418852
+    },
     {
       "id": "8b0c2089a918",
       "title": "加州控告Meta商業模式傷害兒童",
@@ -98,13 +140,6 @@
       "url": "https://www.singtaousa.com/2026/08/22/news/china/sham-shui-po-scaffolding-collapse-worker-injured/",
       "source": "singtaousa.com",
       "published": 1787412414
-    },
-    {
-      "id": "8ace6058d1ec",
-      "title": "泰容國語冧粉揭TIMA音樂大賞序幕 aespa勇奪兩獎成焦點",
-      "url": "https://www.singtaousa.com/2026/08/22/entertainment/taeyong-aespa-tima-awards-hong-kong/",
-      "source": "singtaousa.com",
-      "published": 1787410939
     },
     {
       "id": "5470e1fef4ac",
@@ -238,41 +273,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260822-50-%E5%85%B3%E7%A8%8E%E4%B8%8A%E8%B7%AF-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%A6%81%E5%A6%82%E4%BD%95%E5%87%8F%E5%B0%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%BB%8F%E6%B5%8E%E4%BE%9D%E8%B5%96%EF%BC%8C%E6%B3%95%E6%96%B0%E7%A4%BE%E6%80%8E%E4%B9%88%E8%AF%B4",
       "source": "rfi.fr",
       "published": 1787400628
-    },
-    {
-      "id": "e76ff1bf712b",
-      "title": "澳洲啟動槍枝回購計畫　總理：首都特區將加入",
-      "url": "https://money.udn.com/money/story/5599/9708055",
-      "source": "money.udn.com",
-      "published": 1787400418
-    },
-    {
-      "id": "8be9322788d8",
-      "title": "德外長批俄羅斯升級攻擊　承諾提供烏克蘭更多援助",
-      "url": "https://money.udn.com/money/story/5599/9708051",
-      "source": "money.udn.com",
-      "published": 1787400064
-    },
-    {
-      "id": "213d71f4105b",
-      "title": "阿努廷密集出訪　泰國尋求戰略自主拓展外交空間",
-      "url": "https://money.udn.com/money/story/5599/9708050",
-      "source": "money.udn.com",
-      "published": 1787400044
-    },
-    {
-      "id": "8cea86cec9b5",
-      "title": "英國東北部警車與客車相撞　導致數人喪命",
-      "url": "https://money.udn.com/money/story/5599/9708049",
-      "source": "money.udn.com",
-      "published": 1787400024
-    },
-    {
-      "id": "68481f5f8b27",
-      "title": "緬甸軍方空襲寺廟致14死　目擊者控佛節期間鎮壓",
-      "url": "https://money.udn.com/money/story/5599/9708038",
-      "source": "money.udn.com",
-      "published": 1787399668
     },
     {
       "id": "aefc930629ca",
@@ -1367,5 +1367,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787418609
+  "build_id": 1787420499
 }
