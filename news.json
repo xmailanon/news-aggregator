@@ -1,12 +1,40 @@
 {
-  "updated": 1787471577,
+  "updated": 1787472921,
   "items": [
+    {
+      "id": "5bf93a411bc1",
+      "title": "Angelababy稱最愛上班",
+      "url": "https://www.singtaousa.com/2026/08/23/entertainment/angelababy-love-working/",
+      "source": "singtaousa.com",
+      "published": 1787472000
+    },
+    {
+      "id": "6ad8d3d560ff",
+      "title": "《中年好聲音4》登峯之戰前夕 7強戰袍造型率先曝光",
+      "url": "https://www.singtaousa.com/2026/08/23/entertainment/midlife-singers-finale-red-carpet/",
+      "source": "singtaousa.com",
+      "published": 1787471881
+    },
+    {
+      "id": "c801293ef4df",
+      "title": "中國海事局發布航行警告 南海部分海域將進行為期五天實彈射擊",
+      "url": "https://www.singtaousa.com/2026/08/23/news/china/south-china-sea-live-fire-drills-five-days/",
+      "source": "singtaousa.com",
+      "published": 1787471813
+    },
     {
       "id": "f4549b3b46c0",
       "title": "美国海军陆战队员在日本冲绳手握手枪死亡",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260823-%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E5%91%98%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%E6%89%8B%E6%8F%A1%E6%89%8B%E6%9E%AA%E6%AD%BB%E4%BA%A1",
       "source": "rfi.fr",
       "published": 1787470976
+    },
+    {
+      "id": "f5013bd6366b",
+      "title": "周末精選／美回購長債敲響經濟警鐘 可改持黃金、加密貨幣應變",
+      "url": "https://money.udn.com/money/story/5599/9708948",
+      "source": "money.udn.com",
+      "published": 1787470791
     },
     {
       "id": "1bfc34979fed",
@@ -170,20 +198,6 @@
       "published": 1787464725
     },
     {
-      "id": "17905190159a",
-      "title": "張智霖廣州開唱 19歲子張慕童低調任結他手 張媽媽場外化身忠實粉絲",
-      "url": "https://www.singtaousa.com/2026/08/22/entertainment/chilam-guangzhou-concert-son-performance/",
-      "source": "singtaousa.com",
-      "published": 1787463107
-    },
-    {
-      "id": "009eefd2bafb",
-      "title": "夏威夷遭熱帶風暴莫克侵襲 風雨交加",
-      "url": "https://www.singtaousa.com/2026/08/22/news/usa/tropical-storm-moke-advances-toward-hawaii-as-winds-strengthen/",
-      "source": "singtaousa.com",
-      "published": 1787463000
-    },
-    {
       "id": "be9dfec924c0",
       "title": "美加關稅談判破局後首發聲！川普：加拿大占便宜到此為止",
       "url": "https://money.udn.com/money/story/5599/9708892",
@@ -196,13 +210,6 @@
       "url": "https://money.udn.com/money/story/5599/9708845",
       "source": "money.udn.com",
       "published": 1787461284
-    },
-    {
-      "id": "d11760e19003",
-      "title": "特朗普促法院駁回BBC在誹謗案中獲取其家人記錄的請求",
-      "url": "https://www.singtaousa.com/2026/08/22/news/usa/trump-urges-court-to-reject-bbcs-bid-to-secure-records-from-his-family-in-defamation-case/",
-      "source": "singtaousa.com",
-      "published": 1787461200
     },
     {
       "id": "f0df1793015e",
@@ -273,13 +280,6 @@
       "url": "https://money.udn.com/money/story/5599/9708606",
       "source": "money.udn.com",
       "published": 1787452247
-    },
-    {
-      "id": "118305968600",
-      "title": "墨國州長遭美指控販毒後復職 總統暗批傲慢",
-      "url": "https://money.udn.com/money/story/5599/9708605",
-      "source": "money.udn.com",
-      "published": 1787452227
     },
     {
       "id": "20f25aef8d4a",
@@ -1395,5 +1395,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787471577
+  "build_id": 1787472921
 }
