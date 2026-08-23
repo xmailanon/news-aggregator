@@ -1,6 +1,69 @@
 {
-  "updated": 1787496303,
+  "updated": 1787497830,
   "items": [
+    {
+      "id": "356bed99c1f7",
+      "title": "iOS开放生态是中国AI参与国际竞争的基础设施",
+      "url": "https://www.ftchinese.com/story/001110687",
+      "source": "ftchinese.com",
+      "published": 1787500800
+    },
+    {
+      "id": "491005e91284",
+      "title": "机器人短跑超越人类极速 但短板依然明显",
+      "url": "https://www.dw.com/zh/机器人短跑超越人类极速-但短板依然明显/a-78478046?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1787497320
+    },
+    {
+      "id": "ca4f82cd97c0",
+      "title": "跨領域AI課程熱爆大學",
+      "url": "https://www.singtaousa.com/2026/08/23/news/usa/ai-courses-universities-popularity/",
+      "source": "singtaousa.com",
+      "published": 1787497200
+    },
+    {
+      "id": "08dbe027c2f1",
+      "title": "學校家長會打下聯繫基礎",
+      "url": "https://www.singtaousa.com/2026/08/23/news/usa/school-parent-meeting/",
+      "source": "singtaousa.com",
+      "published": 1787497200
+    },
+    {
+      "id": "03beba21c0fe",
+      "title": "《中4》「網傳三甲」否認被內定",
+      "url": "https://www.singtaousa.com/2026/08/23/entertainment/zhong4-wang-chuan-san-jia/",
+      "source": "singtaousa.com",
+      "published": 1787497200
+    },
+    {
+      "id": "552bd418f9cf",
+      "title": "《中年好聲音4》三強誕生｜尹景順連奪兩獎 鄭家聲靠觀眾票數突圍",
+      "url": "https://www.singtaousa.com/2026/08/23/entertainment/midlife-singers-4-final-top3-results/",
+      "source": "singtaousa.com",
+      "published": 1787497075
+    },
+    {
+      "id": "c0a387c61a28",
+      "title": "《中年好聲音4》巔峰戰落幕　尹景順領銜三甲　許雲妮、鄭家聲緊隨其後",
+      "url": "https://www.singtaousa.com/2026/08/23/entertainment/midlife-singers-4-final-top-3/",
+      "source": "singtaousa.com",
+      "published": 1787497050
+    },
+    {
+      "id": "3cc435232931",
+      "title": "九龍城工傷事故遺孀發感謝信 銘記社會善心援助",
+      "url": "https://www.singtaousa.com/2026/08/23/news/china/fatal-industrial-accident-widow-thanks-donors/",
+      "source": "singtaousa.com",
+      "published": 1787497015
+    },
+    {
+      "id": "3a8ab3cf7592",
+      "title": "義大利咖啡機市場龍頭地位告急　力抗中國競爭",
+      "url": "https://money.udn.com/money/story/5599/9709520",
+      "source": "money.udn.com",
+      "published": 1787496342
+    },
     {
       "id": "5f13f79d5c62",
       "title": "改编红歌被调查 郭德纲8月从舞台上消失",
@@ -61,48 +124,6 @@
       "id": "3f0e09d4a9a9",
       "title": "菲斯邁向大師賽首冠",
       "url": "https://www.singtaousa.com/2026/08/23/news/usa/fils-first-master-title/",
-      "source": "singtaousa.com",
-      "published": 1787493600
-    },
-    {
-      "id": "7dceef0f3a0f",
-      "title": "美斯破門難救主   主場不敵多倫多",
-      "url": "https://www.singtaousa.com/2026/08/23/news/usa/messi-goal-cannot-save-miami/",
-      "source": "singtaousa.com",
-      "published": 1787493600
-    },
-    {
-      "id": "3badcea90be4",
-      "title": "聯邦法官推翻75國移民簽證禁令",
-      "url": "https://www.singtaousa.com/2026/08/23/news/usa/federal-judge-overturns-visa-ban/",
-      "source": "singtaousa.com",
-      "published": 1787493600
-    },
-    {
-      "id": "b5f8773473e9",
-      "title": "郵署公布郵寄選票新規則   今年中期選舉料不採用",
-      "url": "https://www.singtaousa.com/2026/08/23/news/usa/postal-voting-new-rules/",
-      "source": "singtaousa.com",
-      "published": 1787493600
-    },
-    {
-      "id": "73c675fbd3c6",
-      "title": "CBP「潮汐行動」突查兩郵輪   11外籍員工持兒童色情物被捕",
-      "url": "https://www.singtaousa.com/2026/08/23/news/usa/cbp-tidal-wave-arrests/",
-      "source": "singtaousa.com",
-      "published": 1787493600
-    },
-    {
-      "id": "c46fd63f6f56",
-      "title": "特朗普新州高球場申請擴建宴會廳",
-      "url": "https://www.singtaousa.com/2026/08/23/news/usa/trump-new-jersey-golf-club-expansion/",
-      "source": "singtaousa.com",
-      "published": 1787493600
-    },
-    {
-      "id": "f312313ec45d",
-      "title": "社媒帳戶大玩「藏現金」   追隨者湧上街頭尋寶",
-      "url": "https://www.singtaousa.com/2026/08/23/news/usa/cash-drop-social-media-treasure-hunt/",
       "source": "singtaousa.com",
       "published": 1787493600
     },
@@ -317,13 +338,6 @@
       "published": 1787476356
     },
     {
-      "id": "187674b10aa3",
-      "title": "烏克蘭無人機襲物流中心　俄電商Ozon倉庫受損",
-      "url": "https://money.udn.com/money/story/5599/9709110",
-      "source": "money.udn.com",
-      "published": 1787476079
-    },
-    {
       "id": "0e60046dfd3e",
       "title": "伊朗总统承认伊朗社会正面临“许多困难”",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260823-%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%89%BF%E8%AE%A4%E4%BC%8A%E6%9C%97%E7%A4%BE%E4%BC%9A%E6%AD%A3%E9%9D%A2%E4%B8%B4-%E8%AE%B8%E5%A4%9A%E5%9B%B0%E9%9A%BE",
@@ -373,16 +387,16 @@
       "published": 1787469600
     },
     {
-      "id": "492c97561af1",
-      "title": "德国年轻人不够了? 15-24岁人口占比创新低",
-      "url": "https://www.dw.com/zh/德国年轻人不够了-15-24岁人口占比创新低/a-78401070?maca=chi-rss-chi-all-1127-rdf",
+      "id": "8bcb99cbf019",
+      "title": "德国选择党意欲削减对“反德艺术”的资助",
+      "url": "https://www.dw.com/zh/德国选择党意欲削减对-反德艺术-的资助/a-78439861?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1787469540
     },
     {
-      "id": "8bcb99cbf019",
-      "title": "德国选择党意欲削减对“反德艺术”的资助",
-      "url": "https://www.dw.com/zh/德国选择党意欲削减对-反德艺术-的资助/a-78439861?maca=chi-rss-chi-all-1127-rdf",
+      "id": "492c97561af1",
+      "title": "德国年轻人不够了? 15-24岁人口占比创新低",
+      "url": "https://www.dw.com/zh/德国年轻人不够了-15-24岁人口占比创新低/a-78401070?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1787469540
     },
@@ -1346,13 +1360,6 @@
       "published": 1785654660
     },
     {
-      "id": "a8f40747e3bb",
-      "title": "人形机器人：特朗普对华贸易战的最新战场？",
-      "url": "https://www.dw.com/zh/人形机器人：特朗普对华贸易战的最新战场？/a-78202865?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1785592440
-    },
-    {
       "id": "f9c8fa46968c",
       "title": "中美俄的太空攻防戰：衛星如何成為現代戰爭的第一擊？",
       "url": "https://www.bbc.com/zhongwen/articles/cgljn380r59o/trad?at_medium=RSS&at_campaign=rss",
@@ -1388,5 +1395,5 @@
       "published": 1785052860
     }
   ],
-  "build_id": 1787496303
+  "build_id": 1787497830
 }
