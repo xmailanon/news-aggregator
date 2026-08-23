@@ -1,6 +1,34 @@
 {
-  "updated": 1787462628,
+  "updated": 1787464277,
   "items": [
+    {
+      "id": "b562c2919d25",
+      "title": "如何不用鬧鐘就能起床？",
+      "url": "https://www.bbc.com/zhongwen/articles/cy8e8584160o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1787463860
+    },
+    {
+      "id": "17905190159a",
+      "title": "張智霖廣州開唱 19歲子張慕童低調任結他手 張媽媽場外化身忠實粉絲",
+      "url": "https://www.singtaousa.com/2026/08/22/entertainment/chilam-guangzhou-concert-son-performance/",
+      "source": "singtaousa.com",
+      "published": 1787463107
+    },
+    {
+      "id": "009eefd2bafb",
+      "title": "夏威夷遭熱帶風暴莫克侵襲 風雨交加",
+      "url": "https://www.singtaousa.com/2026/08/22/news/usa/tropical-storm-moke-advances-toward-hawaii-as-winds-strengthen/",
+      "source": "singtaousa.com",
+      "published": 1787463000
+    },
+    {
+      "id": "be9dfec924c0",
+      "title": "美加關稅談判破局後首發聲！川普：加拿大占便宜到此為止",
+      "url": "https://money.udn.com/money/story/5599/9708892",
+      "source": "money.udn.com",
+      "published": 1787462968
+    },
     {
       "id": "70fcc4f056cb",
       "title": "熊本災區NGO支援外籍人士　擬設臨時淋浴設施",
@@ -135,20 +163,6 @@
       "published": 1787454000
     },
     {
-      "id": "f19944489b53",
-      "title": "朱晏被前夫騙到破產",
-      "url": "https://www.singtaousa.com/2026/08/22/entertainment/zhu-yan-bankruptcy-ex-husband/",
-      "source": "singtaousa.com",
-      "published": 1787454000
-    },
-    {
-      "id": "ed69366f1d6f",
-      "title": "牛頭角下邨發生墮樓事件 一名七旬女住戶當場身亡",
-      "url": "https://www.singtaousa.com/2026/08/22/news/china/woman-falls-to-death-ngau-tau-kok-estate/",
-      "source": "singtaousa.com",
-      "published": 1787453817
-    },
-    {
       "id": "e8ae1565c28f",
       "title": "敘利亞安全部隊巴士大馬士革近郊遇襲　多人受傷",
       "url": "https://money.udn.com/money/story/5599/9708643",
@@ -224,13 +238,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cvgv247z0yzo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1787443969
-    },
-    {
-      "id": "83d45720785c",
-      "title": "加拿大正面槓川普！對美開徵報復關稅 加國總理：與美交戰中",
-      "url": "https://money.udn.com/money/story/5599/9708427",
-      "source": "money.udn.com",
-      "published": 1787443784
     },
     {
       "id": "85d65fd29526",
@@ -1185,13 +1192,6 @@
       "published": 1786678881
     },
     {
-      "id": "e8e661064c8e",
-      "title": "台灣首度模擬戰時「斷網」，30分鐘演練了什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1786590804
-    },
-    {
       "id": "89e66c748668",
       "title": "「大學指控我用AI寫論文，但明明都是我自己寫的」",
       "url": "https://www.bbc.com/zhongwen/articles/cg5lp79nd00o/trad?at_medium=RSS&at_campaign=rss",
@@ -1367,5 +1367,5 @@
       "published": 1784891460
     }
   ],
-  "build_id": 1787462628
+  "build_id": 1787464277
 }
