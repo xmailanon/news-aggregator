@@ -1,6 +1,27 @@
 {
-  "updated": 1787519420,
+  "updated": 1787521283,
   "items": [
+    {
+      "id": "7a8b87bd1fc1",
+      "title": "特朗普向加拿大加徵關稅　卡尼誓言反制",
+      "url": "https://www.singtaousa.com/2026/08/23/news/world/carney-warned-about-economic-coercion/",
+      "source": "singtaousa.com",
+      "published": 1787520836
+    },
+    {
+      "id": "c643bcefad96",
+      "title": "沙田水泉澳邨發生爆竊案 女住戶損失逾20萬元財物",
+      "url": "https://www.singtaousa.com/2026/08/23/news/china/shatin-shui-chuen-o-estate-burglary-cash-jewelry-stolen/",
+      "source": "singtaousa.com",
+      "published": 1787520414
+    },
+    {
+      "id": "1626dde11cf7",
+      "title": "泰國南部3府遭協同攻擊　總理召集緊急安全會議",
+      "url": "https://money.udn.com/money/story/5599/9709743",
+      "source": "money.udn.com",
+      "published": 1787519548
+    },
     {
       "id": "c4c4309a44ea",
       "title": "橫跨七年破鏡重圓 只為一人心動",
@@ -191,20 +212,6 @@
       "published": 1787508030
     },
     {
-      "id": "d0fa085ca9d5",
-      "title": "徐新馳深陷豪門紛爭",
-      "url": "https://www.singtaousa.com/2026/08/23/entertainment/xu-xin-chi-family-dispute/",
-      "source": "singtaousa.com",
-      "published": 1787508000
-    },
-    {
-      "id": "972df3c81235",
-      "title": "工作排至明年 海兒親解「暫別幕前」誤會源頭",
-      "url": "https://www.singtaousa.com/2026/08/23/entertainment/hayley-denies-hiatus-clarifies-schedule/",
-      "source": "singtaousa.com",
-      "published": 1787507862
-    },
-    {
       "id": "550d7448bce0",
       "title": "嫦娥七号发射推迟至明年",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260823-%E5%AB%A6%E5%A8%A5%E4%B8%83%E5%8F%B7%E5%8F%91%E5%B0%84%E6%8E%A8%E8%BF%9F%E8%87%B3%E6%98%8E%E5%B9%B4",
@@ -308,13 +315,6 @@
       "url": "https://money.udn.com/money/story/122381/9709321",
       "source": "money.udn.com",
       "published": 1787501739
-    },
-    {
-      "id": "477257e27a85",
-      "title": "Uber 南非營運夥伴推電動車叫車服務",
-      "url": "https://money.udn.com/money/story/122381/9709312",
-      "source": "money.udn.com",
-      "published": 1787501259
     },
     {
       "id": "356bed99c1f7",
@@ -1402,5 +1402,5 @@
       "published": 1785052860
     }
   ],
-  "build_id": 1787519420
+  "build_id": 1787521283
 }
