@@ -1,6 +1,27 @@
 {
-  "updated": 1787695999,
+  "updated": 1787698227,
   "items": [
+    {
+      "id": "de2043451d58",
+      "title": "中印关系开始出现一定程度的缓和",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260825-%E4%B8%AD%E5%8D%B0%E5%85%B3%E7%B3%BB%E5%BC%80%E5%A7%8B%E5%87%BA%E7%8E%B0%E4%B8%80%E5%AE%9A%E7%A8%8B%E5%BA%A6%E7%9A%84%E7%BC%93%E5%92%8C",
+      "source": "rfi.fr",
+      "published": 1787697335
+    },
+    {
+      "id": "a57954600777",
+      "title": "華爾街日報：Anthropic自估潛在營收超過30兆美元",
+      "url": "https://money.udn.com/money/story/123398/9714305",
+      "source": "money.udn.com",
+      "published": 1787697031
+    },
+    {
+      "id": "50ecd7198f66",
+      "title": "牛頭角青年涉藏依托咪酯電子煙彈 父親報警處理",
+      "url": "https://www.singtaousa.com/2026/08/25/news/china/teenager-arrested-etomidate-vape-cartridges/",
+      "source": "singtaousa.com",
+      "published": 1787696814
+    },
     {
       "id": "4df021fc83b5",
       "title": "油價下跌緩和市場憂慮 美股收高",
@@ -177,13 +198,6 @@
       "published": 1787687670
     },
     {
-      "id": "0132d8263ee4",
-      "title": "台灣85歲肺炎患者急診室等候12日 未獲安排病床不幸離世",
-      "url": "https://www.singtaousa.com/2026/08/25/news/china/elderly-woman-dies-after-12-day-er-wait/",
-      "source": "singtaousa.com",
-      "published": 1787686016
-    },
-    {
       "id": "3d9e96a3aac8",
       "title": "加拿大對美國祭對等報復關稅　含鋼鋁家電海鮮等700品項",
       "url": "https://money.udn.com/money/story/5599/9714240",
@@ -322,13 +336,6 @@
       "url": "https://money.udn.com/money/story/5599/9714175",
       "source": "money.udn.com",
       "published": 1787673372
-    },
-    {
-      "id": "22216ad6516a",
-      "title": "報復川普 加拿大對逾700種美國商品徵收15%至50%關稅",
-      "url": "https://money.udn.com/money/story/5599/9714169",
-      "source": "money.udn.com",
-      "published": 1787672732
     },
     {
       "id": "ee934753c5ea",
@@ -553,13 +560,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/c0j3pp78ny9o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1787616641
-    },
-    {
-      "id": "96e1a8278361",
-      "title": "周一为制裁伊朗的“诺曼底登陆日” 美国财长宣布“经济弃儿行动”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260824-%E5%91%A8%E4%B8%80%E4%B8%BA%E5%88%B6%E8%A3%81%E4%BC%8A%E6%9C%97%E7%9A%84-%E8%AF%BA%E6%9B%BC%E5%BA%95%E7%99%BB%E9%99%86%E6%97%A5-%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E5%AE%A3%E5%B8%83-%E7%BB%8F%E6%B5%8E%E5%BC%83%E5%84%BF%E8%A1%8C%E5%8A%A8",
-      "source": "rfi.fr",
-      "published": 1787603640
     },
     {
       "id": "c05cc6f0757f",
@@ -1374,5 +1374,5 @@
       "published": 1785323661
     }
   ],
-  "build_id": 1787695999
+  "build_id": 1787698227
 }
