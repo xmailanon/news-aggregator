@@ -1,6 +1,20 @@
 {
-  "updated": 1787694538,
+  "updated": 1787695999,
   "items": [
+    {
+      "id": "4df021fc83b5",
+      "title": "油價下跌緩和市場憂慮 美股收高",
+      "url": "https://www.singtaousa.com/2026/08/25/news/usa/falling-oil-prices-help-calm-the-stock-and-bond-markets/",
+      "source": "singtaousa.com",
+      "published": 1787695787
+    },
+    {
+      "id": "a25eb2f83e26",
+      "title": "元朗跨部門聯合行動 打擊非法賣淫拘13名內地女子",
+      "url": "https://www.singtaousa.com/2026/08/25/news/china/cross-department-yuen-long-prostitution-arrests/",
+      "source": "singtaousa.com",
+      "published": 1787695018
+    },
     {
       "id": "5620182e17db",
       "title": "加拿大對200億美貨加徵報復性關稅",
@@ -175,20 +189,6 @@
       "url": "https://money.udn.com/money/story/5599/9714240",
       "source": "money.udn.com",
       "published": 1787685695
-    },
-    {
-      "id": "075aa84a39d1",
-      "title": "南韓中國女留學生失蹤遇害 警方拘捕一名30餘歲男疑犯",
-      "url": "https://www.singtaousa.com/2026/08/25/news/china/chinese-student-murdered-south-korea-arrest/",
-      "source": "singtaousa.com",
-      "published": 1787684217
-    },
-    {
-      "id": "f60cc43601e1",
-      "title": "塔吉特下架涉種族歧視小丑服裝",
-      "url": "https://www.singtaousa.com/2026/08/25/news/usa/target-apologizes-for-childrens-clown-halloween-costume-after-backlash/",
-      "source": "singtaousa.com",
-      "published": 1787683211
     },
     {
       "id": "b260a9d214a8",
@@ -1374,5 +1374,5 @@
       "published": 1785323661
     }
   ],
-  "build_id": 1787694538
+  "build_id": 1787695999
 }
