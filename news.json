@@ -1,82 +1,313 @@
 {
-  "updated": 1788231627,
+  "updated": 1788252412,
   "items": [
+    {
+      "id": "87f274f5bb0a",
+      "title": "加強與台AI鏈合作！傳晶片材料廠味之素、大金 擴大台灣營運",
+      "url": "https://money.udn.com/money/story/5599/9727614",
+      "source": "money.udn.com",
+      "published": 1788252077
+    },
+    {
+      "id": "7ba147f8c1a2",
+      "title": "工作狂日相高市執政之下　日本放寬加班限制",
+      "url": "https://money.udn.com/money/story/5599/9727588",
+      "source": "money.udn.com",
+      "published": 1788251444
+    },
+    {
+      "id": "0e3a5f9dd530",
+      "title": "西藏泥石流災害頭七 吉隆口岸舉行哀悼活動",
+      "url": "https://www.singtaousa.com/2026/09/01/news/china/tibetan-mudslide-mourning-ceremony-head-seven/",
+      "source": "singtaousa.com",
+      "published": 1788250952
+    },
+    {
+      "id": "cc8baa8c3fe3",
+      "title": "「大家都是做做樣子」：香港高中公民科推行五週年",
+      "url": "https://www.bbc.com/zhongwen/articles/c93vq6245q2o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1788250699
+    },
+    {
+      "id": "63763470b484",
+      "title": "赖清德：台湾的半导体实力建立在民主与法治之上，正在世界各地形成新的产业连结",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260901-%E8%B5%96%E6%B8%85%E5%BE%B7-%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%AE%9E%E5%8A%9B%E5%BB%BA%E7%AB%8B%E5%9C%A8%E6%B0%91%E4%B8%BB%E4%B8%8E%E6%B3%95%E6%B2%BB%E4%B9%8B%E4%B8%8A%EF%BC%8C%E6%AD%A3%E5%9C%A8%E4%B8%96%E7%95%8C%E5%90%84%E5%9C%B0%E5%BD%A2%E6%88%90%E6%96%B0%E7%9A%84%E4%BA%A7%E4%B8%9A%E8%BF%9E%E7%BB%93",
+      "source": "rfi.fr",
+      "published": 1788250589
+    },
+    {
+      "id": "a118cd19c7dc",
+      "title": "日本升息預期增強 10年期國債殖利率睽違30年升至3%",
+      "url": "https://money.udn.com/money/story/5599/9727546",
+      "source": "money.udn.com",
+      "published": 1788250397
+    },
+    {
+      "id": "e9ba81eb6bc8",
+      "title": "印度單季GDP成長7.8%　莫迪籲續用國貨與服務",
+      "url": "https://money.udn.com/money/story/5599/9727532",
+      "source": "money.udn.com",
+      "published": 1788250185
+    },
+    {
+      "id": "3eed7b0b5ca1",
+      "title": "G20部長級會議揭幕　美擬促各方採取寬鬆AI監管原則",
+      "url": "https://money.udn.com/money/story/5599/9727530",
+      "source": "money.udn.com",
+      "published": 1788250184
+    },
+    {
+      "id": "4c2cbe12a2ad",
+      "title": "美國大峽谷暴洪增至2死　僅剩1人仍失聯",
+      "url": "https://money.udn.com/money/story/5599/9727529",
+      "source": "money.udn.com",
+      "published": 1788250182
+    },
+    {
+      "id": "5e13fcd575bd",
+      "title": "從啤酒節到軍火庫　慕尼黑蛻變歐洲國防科技新重鎮",
+      "url": "https://money.udn.com/money/story/5599/9727523",
+      "source": "money.udn.com",
+      "published": 1788249798
+    },
+    {
+      "id": "821ca77025fc",
+      "title": "梅媽離世後遺產爭議再起 肥媽憶述梅艷芳生前盡孝嘆無奈",
+      "url": "https://www.singtaousa.com/2026/09/01/entertainment/anita-mui-mother-passing-mami-chan/",
+      "source": "singtaousa.com",
+      "published": 1788249684
+    },
+    {
+      "id": "afda372dfde3",
+      "title": "朱千雪預產期11月 計劃順產 陳自瑤生日獲囡囡窩心早餐",
+      "url": "https://www.singtaousa.com/2026/09/01/entertainment/tracy-chu-pregnancy-yoyo-chen-event/",
+      "source": "singtaousa.com",
+      "published": 1788249498
+    },
+    {
+      "id": "d79569ffd7b2",
+      "title": "日本年輕計程車司機年收約500萬日圓！6年增長四成的原因是什麼？",
+      "url": "https://money.udn.com/money/story/120769/9727295",
+      "source": "money.udn.com",
+      "published": 1788249264
+    },
+    {
+      "id": "9926cfd317ff",
+      "title": "熱帶氣旋沙德爾路徑異常 前天文台台長林超英稱五十年未見",
+      "url": "https://www.singtaousa.com/2026/09/01/news/china/sadr-typhoon-bizarre-path-weather-phenomenon/",
+      "source": "singtaousa.com",
+      "published": 1788249153
+    },
+    {
+      "id": "b9dbed724cc5",
+      "title": "中尼邊境洪災釀逾千死　尼泊爾總理籲國際正視氣候災害",
+      "url": "https://money.udn.com/money/story/5599/9727435",
+      "source": "money.udn.com",
+      "published": 1788248272
+    },
+    {
+      "id": "2a11c6400bd7",
+      "title": "德黑蘭：美若重返6月協議　伊朗將立即做出相應回應",
+      "url": "https://money.udn.com/money/story/5599/9727433",
+      "source": "money.udn.com",
+      "published": 1788248260
+    },
+    {
+      "id": "9c57506980d3",
+      "title": "泰國免簽新制將上路！台灣旅客最長停留從60天縮至30天",
+      "url": "https://money.udn.com/money/story/5599/9727410",
+      "source": "money.udn.com",
+      "published": 1788247804
+    },
+    {
+      "id": "ac0a82ea0155",
+      "title": "賀營不拍《外傷重症中心》第二季 角色去向待公布",
+      "url": "https://www.singtaousa.com/2026/09/01/entertainment/ha-young-exits-medical-drama-season-2/",
+      "source": "singtaousa.com",
+      "published": 1788247679
+    },
+    {
+      "id": "e63f53d985e3",
+      "title": "中東衝突升溫添不確定性　日經指數微幅收跌",
+      "url": "https://money.udn.com/money/story/5599/9727392",
+      "source": "money.udn.com",
+      "published": 1788247377
+    },
+    {
+      "id": "8db6e4fe6c8d",
+      "title": "杜尚澤晉升人民日報副總編輯 成全國首位80後副部級官員",
+      "url": "https://www.singtaousa.com/2026/09/01/news/china/du-shangze-promoted-people-daily-deputy-editor/",
+      "source": "singtaousa.com",
+      "published": 1788247351
+    },
+    {
+      "id": "6fe8d7a128df",
+      "title": "傳美企接管委內瑞拉境內中俄油田　美政府獲35%持股",
+      "url": "https://money.udn.com/money/story/5599/9727383",
+      "source": "money.udn.com",
+      "published": 1788247317
+    },
+    {
+      "id": "72ed15dbbfdc",
+      "title": "貝安琪親子教育重視中文 9歲靚仔仔貝小龍廣東話流利受讚賞",
+      "url": "https://www.singtaousa.com/2026/09/01/entertainment/annie-betrisey-son-tvb-interview-cantonese/",
+      "source": "singtaousa.com",
+      "published": 1788246038
+    },
+    {
+      "id": "bc71070b6bb3",
+      "title": "加国港人救生艇计划结束 3.5万人待批 可能要等逾15年",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260901-%E5%8A%A0%E5%9B%BD%E6%B8%AF%E4%BA%BA%E6%95%91%E7%94%9F%E8%89%87%E8%AE%A1%E5%88%92%E7%BB%93%E6%9D%9F-3-5%E4%B8%87%E4%BA%BA%E5%BE%85%E6%89%B9-%E5%8F%AF%E8%83%BD%E8%A6%81%E7%AD%89%E9%80%BE15%E5%B9%B4",
+      "source": "rfi.fr",
+      "published": 1788245753
+    },
+    {
+      "id": "cfcd95393033",
+      "title": "鄧紫棋首部科幻小說《啟示路》入圍中國科幻最高榮譽銀河獎",
+      "url": "https://www.singtaousa.com/2026/08/31/news/china/gem-deng-ziqi-sci-fi-debut-nominated/",
+      "source": "singtaousa.com",
+      "published": 1788245551
+    },
+    {
+      "id": "c99beb9b7245",
+      "title": "冰川融化釀山區海嘯！尼泊爾外長點名中美印應負氣候賠償責任",
+      "url": "https://money.udn.com/money/story/5599/9727283",
+      "source": "money.udn.com",
+      "published": 1788245487
+    },
+    {
+      "id": "7ee4eb5245dd",
+      "title": "美日財長會談　片山皋月：未談到升息議題",
+      "url": "https://money.udn.com/money/story/5599/9727274",
+      "source": "money.udn.com",
+      "published": 1788245157
+    },
+    {
+      "id": "23c27a53d6e8",
+      "title": "外媒：中埃空軍聯合演習　北京測試遠程戰力投送",
+      "url": "https://money.udn.com/money/story/5599/9727273",
+      "source": "money.udn.com",
+      "published": 1788245136
+    },
+    {
+      "id": "a062ad38369c",
+      "title": "AI 缺電帶旺核電老店 西屋從破產翻身 重返股市在望",
+      "url": "https://money.udn.com/money/story/5599/9727253",
+      "source": "money.udn.com",
+      "published": 1788244666
+    },
+    {
+      "id": "c12bad33236c",
+      "title": "第五屆聖保羅台灣電影展　「醫者仁心」開啟跨界對話",
+      "url": "https://money.udn.com/money/story/5599/9727219",
+      "source": "money.udn.com",
+      "published": 1788244245
+    },
+    {
+      "id": "cb4671819f11",
+      "title": "傳赫格塞斯有意角逐2028總統　川普：現在談為時過早",
+      "url": "https://money.udn.com/money/story/5599/9727201",
+      "source": "money.udn.com",
+      "published": 1788243778
+    },
+    {
+      "id": "3be011a17757",
+      "title": "颱風沙德爾襲港 一號戒備信號生效 天文台料至少維持至下午六時",
+      "url": "https://www.singtaousa.com/2026/08/31/news/china/typhoon-shaer-hong-kong-signal-no-1/",
+      "source": "singtaousa.com",
+      "published": 1788243751
+    },
+    {
+      "id": "b52cd5650bad",
+      "title": "濟州失蹤疑似不當結案再查出25起 員警辯工作量負擔",
+      "url": "https://money.udn.com/money/story/5599/9727147",
+      "source": "money.udn.com",
+      "published": 1788242902
+    },
+    {
+      "id": "87012b7d4f2b",
+      "title": "從爆紅採訪到顯赫家世 《東張》主持廖倬竩的雙面人生",
+      "url": "https://www.singtaousa.com/2026/08/31/entertainment/ivy-liu-dong-zhang-background-coffee/",
+      "source": "singtaousa.com",
+      "published": 1788242438
+    },
+    {
+      "id": "89ccc8347876",
+      "title": "溫哥華群星慈善匯演 齊唱廣東歌撐華裔博物館",
+      "url": "https://www.singtaousa.com/2026/08/31/entertainment/vancouver-cantopop-gala-fundraiser/",
+      "source": "singtaousa.com",
+      "published": 1788242238
+    },
+    {
+      "id": "20190b738c98",
+      "title": "南韓警方公開中國女留學生遇害案疑犯個人資料",
+      "url": "https://www.singtaousa.com/2026/08/31/news/china/south-korea-police-display-suspect-photo/",
+      "source": "singtaousa.com",
+      "published": 1788241951
+    },
+    {
+      "id": "c6c6261db14a",
+      "title": "前線報導：BBC走訪中尼邊境被洪災抹去的小鎮",
+      "url": "https://www.bbc.com/zhongwen/articles/cgmryk7xky8o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1788241554
+    },
+    {
+      "id": "54d77fe58fc2",
+      "title": "Shein香港上市首日股價下跌　期待已久的股市首秀表現疲弱",
+      "url": "https://www.bbc.com/zhongwen/articles/cz7ze2lq0vjo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1788240298
+    },
+    {
+      "id": "f7016f1b3f31",
+      "title": "尼泊爾—西藏泥石流：吉隆口岸為何是朝聖之路上的重要關口？",
+      "url": "https://www.bbc.com/zhongwen/articles/c3d752l9vxxo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1788239663
+    },
+    {
+      "id": "7782b9f1753c",
+      "title": "梅西退出阿根廷國家隊：「已沒什麼可以再付出了」",
+      "url": "https://www.bbc.com/zhongwen/articles/cp8dkp32xndo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1788238985
+    },
+    {
+      "id": "c38bb964d919",
+      "title": "如何重建家园？尼泊尔年轻总理面临考验",
+      "url": "https://cn.nytimes.com/world/20260901/nepal-floods-balen-shah-gen-z/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1788238434
+    },
+    {
+      "id": "1c660a423acf",
+      "title": "數百名水力發電工人受困隧道：尼泊爾地下夢魘",
+      "url": "https://www.bbc.com/zhongwen/articles/crer81r33pno/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1788237885
+    },
+    {
+      "id": "1d77922d6635",
+      "title": "上合峰会见普京 习近平：中俄关系将更加牢固",
+      "url": "https://www.dw.com/zh/上合峰会见普京-习近平：中俄关系将更加牢固/a-78574163?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1788234240
+    },
+    {
+      "id": "47d4aae51ad1",
+      "title": "美国邀请俄罗斯出席G20财长会议，欧洲强烈不满",
+      "url": "https://cn.nytimes.com/business/20260901/g20-finance-iran-bessent/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1788232441
+    },
     {
       "id": "15b12567d9ef",
       "title": "上合组织峰会：战争赋予习近平更大影响力",
       "url": "https://cn.nytimes.com/china/20260901/putin-xi-modi-sco/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1788230838
-    },
-    {
-      "id": "3e3ed0cdfa16",
-      "title": "全球債務高築　貝森特籲G20靠成長解困",
-      "url": "https://money.udn.com/money/story/5599/9726488",
-      "source": "money.udn.com",
-      "published": 1788229866
-    },
-    {
-      "id": "c41984d23990",
-      "title": "陳曼娜美國醫生兒子趁度假返港 一家三口與胡楓等圈中人温馨飯聚",
-      "url": "https://www.singtaousa.com/2026/08/31/entertainment/manna-chan-son-returns-hong-kong/",
-      "source": "singtaousa.com",
-      "published": 1788229848
-    },
-    {
-      "id": "d72ce82c5cdf",
-      "title": "石油期貨走入平民時代！不到3萬元就能進場 芝商所推每口10桶新合約",
-      "url": "https://money.udn.com/money/story/5599/9726465",
-      "source": "money.udn.com",
-      "published": 1788229650
-    },
-    {
-      "id": "620522b23410",
-      "title": "特納斯 LinkedIn 幾乎空白 知名企業 CEO 還能拒用社群媒體嗎？",
-      "url": "https://money.udn.com/money/story/5599/9726269",
-      "source": "money.udn.com",
-      "published": 1788229302
-    },
-    {
-      "id": "643096c97a3e",
-      "title": "Anthropic 與輝達支持的 Lambda 達成350億美元的算力合作協議",
-      "url": "https://money.udn.com/money/story/5599/9726237",
-      "source": "money.udn.com",
-      "published": 1788228867
-    },
-    {
-      "id": "04949acbc654",
-      "title": "韓國總統室政策室長金容範辭任 曾因單只股票槓桿 ETF 遭批評",
-      "url": "https://money.udn.com/money/story/5599/9726306",
-      "source": "money.udn.com",
-      "published": 1788228767
-    },
-    {
-      "id": "4024fc6be30b",
-      "title": "全球告別「儲蓄過剩」 華許看見投資大浪潮 AI也來跟美債搶錢",
-      "url": "https://money.udn.com/money/story/5599/9726419",
-      "source": "money.udn.com",
-      "published": 1788228533
-    },
-    {
-      "id": "52a058f29392",
-      "title": "Anthropic簽350億美元雲端大單　輝達供晶片兼持租約",
-      "url": "https://money.udn.com/money/story/123398/9726416",
-      "source": "money.udn.com",
-      "published": 1788228423
-    },
-    {
-      "id": "e0d1ffebf6af",
-      "title": "九月追劇攻略｜孫藝珍池昌旭挑戰禁忌戀，譚松韻周也帶古裝劇回歸",
-      "url": "https://www.singtaousa.com/2026/08/31/entertainment/september-drama-preview-2026/",
-      "source": "singtaousa.com",
-      "published": 1788228051
-    },
-    {
-      "id": "2df24707726a",
-      "title": "研究發現：厄爾尼諾現象千年最強",
-      "url": "https://www.singtaousa.com/2026/08/31/news/world/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/",
-      "source": "singtaousa.com",
-      "published": 1788228000
     },
     {
       "id": "bc6ad152eaac",
@@ -86,48 +317,6 @@
       "published": 1788227660
     },
     {
-      "id": "315477c1a597",
-      "title": "紐約時報廣場爆隨機砍人！女子1死1傷 凶嫌揮雙刀遭警擊斃",
-      "url": "https://money.udn.com/money/story/5599/9726374",
-      "source": "money.udn.com",
-      "published": 1788227580
-    },
-    {
-      "id": "4bfdb5673ec5",
-      "title": "紐時：美軍轟伊朗火箭發射器 曝光罕見的布雷手段",
-      "url": "https://money.udn.com/money/story/5599/9726373",
-      "source": "money.udn.com",
-      "published": 1788227556
-    },
-    {
-      "id": "7a90637ddae0",
-      "title": "法國前總理巴拉杜逝世　馬克宏悼「心繫國家」",
-      "url": "https://money.udn.com/money/story/5599/9726344",
-      "source": "money.udn.com",
-      "published": 1788227145
-    },
-    {
-      "id": "9fce61127722",
-      "title": "紐約時報廣場爆持刀攻擊案1死1傷　犯嫌遭擊斃",
-      "url": "https://money.udn.com/money/story/5599/9726326",
-      "source": "money.udn.com",
-      "published": 1788226644
-    },
-    {
-      "id": "f4f58159e4a8",
-      "title": "仙姐98歲近照曝光 神采依然 陳寶珠手術後獲贈眼鏡護目",
-      "url": "https://www.singtaousa.com/2026/08/31/entertainment/pak-suet-sin-recent-photo-chan-bo-chu/",
-      "source": "singtaousa.com",
-      "published": 1788226311
-    },
-    {
-      "id": "e019cc6ceb04",
-      "title": "紐時：川普想讓世界圍著華府轉 美伊與俄烏戰爭反讓習近平坐大",
-      "url": "https://money.udn.com/money/story/5599/9726280",
-      "source": "money.udn.com",
-      "published": 1788225735
-    },
-    {
       "id": "dfed46f97577",
       "title": "星巴克咖啡就算了吧——Z世代喜歡喝冰飲",
       "url": "https://www.bbc.com/zhongwen/articles/c15897j72vno/trad?at_medium=RSS&at_campaign=rss",
@@ -135,123 +324,11 @@
       "published": 1788225595
     },
     {
-      "id": "9111a3d82d69",
-      "title": "庫克卸任執行長交棒特納斯　告別信致敬賈伯斯",
-      "url": "https://money.udn.com/money/story/5599/9726253",
-      "source": "money.udn.com",
-      "published": 1788224818
-    },
-    {
-      "id": "448a4bb10299",
-      "title": "張凌赫手握23個代言  超過肖戰",
-      "url": "https://www.singtaousa.com/2026/08/31/entertainment/zhang-ling-he-endorses-brands/",
-      "source": "singtaousa.com",
-      "published": 1788224700
-    },
-    {
-      "id": "35db5c0fd838",
-      "title": "美陸軍部長德里斯科提辭呈　傳與赫格塞斯關係緊張",
-      "url": "https://money.udn.com/money/story/5599/9726241",
-      "source": "money.udn.com",
-      "published": 1788224452
-    },
-    {
-      "id": "f09bd251a9c4",
-      "title": "維州女子睡夢中驚醒 蝙蝠竟欲爬入口中",
-      "url": "https://www.singtaousa.com/2026/08/31/news/usa/woman-wakes-up-to-bat-trying-to-crawl-into-her-mouth-i-was-screaming-repeatedly/",
-      "source": "singtaousa.com",
-      "published": 1788224400
-    },
-    {
       "id": "14a30f0443b0",
       "title": "为什么西藏边境山洪令准备充分的中国措手不及？",
       "url": "https://cn.nytimes.com/china/20260901/china-nepal-tibet-flood-himalayas-risk/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1788224357
-    },
-    {
-      "id": "146094d01a53",
-      "title": "AI熱潮灌頂！南韓晶片出口暴增209% 央行更有底氣偏鷹",
-      "url": "https://money.udn.com/money/story/5599/9726217",
-      "source": "money.udn.com",
-      "published": 1788223929
-    },
-    {
-      "id": "4eda0cb3e45d",
-      "title": "布蘭特油價漲破91美元 美伊再交火 荷莫茲依然受阻",
-      "url": "https://money.udn.com/money/story/5599/9726197",
-      "source": "money.udn.com",
-      "published": 1788223408
-    },
-    {
-      "id": "93fb0a9de0ff",
-      "title": "孫千新劇成績佳 抽獎福利送粉絲",
-      "url": "https://www.singtaousa.com/2026/08/31/entertainment/sun-qian-new-drama-success/",
-      "source": "singtaousa.com",
-      "published": 1788223200
-    },
-    {
-      "id": "4163b3ad74be",
-      "title": "川普喊狠打伊朗但不用核武！美軍擬定荷莫茲「割草」計畫",
-      "url": "https://money.udn.com/money/story/5599/9726187",
-      "source": "money.udn.com",
-      "published": 1788222692
-    },
-    {
-      "id": "e5d99a0c5691",
-      "title": "譚詠麟為終極紅館騷操弗 練波獲長髮女貼身照料",
-      "url": "https://www.singtaousa.com/2026/08/31/entertainment/alan-tam-workout-weight-loss-concert/",
-      "source": "singtaousa.com",
-      "published": 1788222656
-    },
-    {
-      "id": "d5f306f46977",
-      "title": "回應朱肯米勒怒批干預美債市 美財長貝森特開酸：他那天賠錢啦",
-      "url": "https://money.udn.com/money/story/5599/9726181",
-      "source": "money.udn.com",
-      "published": 1788222617
-    },
-    {
-      "id": "eb5ca7ad8d93",
-      "title": "社論：以牽繩與理性構建人寵共融的安全網",
-      "url": "https://www.singtaousa.com/2026/08/31/news/china/leash-responsibility-rational-pet-safety/",
-      "source": "singtaousa.com",
-      "published": 1788222151
-    },
-    {
-      "id": "815b3011b1b3",
-      "title": "川普主辦G20財長會　俄財長現身引歐洲反彈",
-      "url": "https://money.udn.com/money/story/5599/9726171",
-      "source": "money.udn.com",
-      "published": 1788222089
-    },
-    {
-      "id": "7ee15658bc6f",
-      "title": "TikTok互動機制成詐騙溫床 越南嚴打黑道網紅犯罪亂象",
-      "url": "https://money.udn.com/money/story/5599/9726169",
-      "source": "money.udn.com",
-      "published": 1788221553
-    },
-    {
-      "id": "124de4930fb8",
-      "title": "最高法院放行　特朗普可續建白宮宴會廳",
-      "url": "https://www.singtaousa.com/2026/08/31/news/usa/supreme-court-clears-trumps-move-to-build-white-house-ballroom/",
-      "source": "singtaousa.com",
-      "published": 1788221400
-    },
-    {
-      "id": "ad2603fd2af9",
-      "title": "葛曉倩又針對張雨綺 舊爭議再掀波瀾",
-      "url": "https://www.singtaousa.com/2026/08/31/entertainment/ge-xiao-qian-targets-zhang-yu-qi/",
-      "source": "singtaousa.com",
-      "published": 1788220800
-    },
-    {
-      "id": "6c1077d6c39e",
-      "title": "內地查處網店冒用「香港大藥房」名義 35間店鋪遭平台下架",
-      "url": "https://www.singtaousa.com/2026/08/31/news/china/fake-hong-kong-pharmacy-online-stores-removed/",
-      "source": "singtaousa.com",
-      "published": 1788220351
     },
     {
       "id": "255272dc87a6",
@@ -359,11 +436,25 @@
       "published": 1788203651
     },
     {
+      "id": "79ff6a512ffc",
+      "title": "Shein尴尬IPO背后，被时代抛弃的快时尚模式",
+      "url": "https://cn.nytimes.com/business/20260901/shein-ipo-china/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1788201066
+    },
+    {
       "id": "9163b60d6db8",
       "title": "瑞典向法国采购4艘新型护卫舰",
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260831-%E7%91%9E%E5%85%B8%E5%90%91%E6%B3%95%E5%9B%BD%E9%87%87%E8%B4%AD4%E8%89%98%E6%96%B0%E5%9E%8B%E6%8A%A4%E5%8D%AB%E8%88%B0",
       "source": "rfi.fr",
       "published": 1788200370
+    },
+    {
+      "id": "05add5fef1c4",
+      "title": "这辆吉利SUV很棒，但美国消费者“永远”无法买到它",
+      "url": "https://cn.nytimes.com/business/20260901/chinese-cars-us-sales-ban/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1788198335
     },
     {
       "id": "4531bb714a0d",
@@ -378,6 +469,13 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260831-%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F-%E7%8E%8B%E6%AF%85%E5%91%8A%E8%AF%89%E6%88%91%E4%B8%AD%E6%96%B9%E7%BB%9D%E4%B8%8D%E4%BC%9A%E5%85%81%E8%AE%B8%E4%BF%84%E7%BD%97%E6%96%AF%E4%BD%BF%E7%94%A8%E6%A0%B8%E6%AD%A6%E5%99%A8",
       "source": "rfi.fr",
       "published": 1788193133
+    },
+    {
+      "id": "aa0b43fda555",
+      "title": "面对AI威胁 软件公司高价展期债务",
+      "url": "https://www.ftchinese.com/story/001110768",
+      "source": "ftchinese.com",
+      "published": 1788192000
     },
     {
       "id": "518b5fa5339f",
@@ -506,23 +604,16 @@
       "published": 1788183288
     },
     {
-      "id": "3f06a4f86f62",
-      "title": "中国广东东莞中级法院裁定冻结安世约3 亿美元资产",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260831-%E4%B8%AD%E5%9B%BD%E5%B9%BF%E4%B8%9C%E4%B8%9C%E8%8E%9E%E4%B8%AD%E7%BA%A7%E6%B3%95%E9%99%A2%E8%A3%81%E5%AE%9A%E5%86%BB%E7%BB%93%E5%AE%89%E4%B8%96%E7%BA%A63-%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B5%84%E4%BA%A7",
-      "source": "rfi.fr",
-      "published": 1788183090
+      "id": "7e74f1d2baf8",
+      "title": "德语媒体： 新闻管制下，山洪变成了宣传秀",
+      "url": "https://www.dw.com/zh/德语媒体：-新闻管制下，山洪变成了宣传秀/a-78577054?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1788183000
     },
     {
       "id": "f676fd276d82",
       "title": "华为上半年净利润下降36%",
       "url": "https://www.dw.com/zh/华为上半年净利润下降36/a-78577351?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1788183000
-    },
-    {
-      "id": "7e74f1d2baf8",
-      "title": "德语媒体： 新闻管制下，山洪变成了宣传秀",
-      "url": "https://www.dw.com/zh/德语媒体：-新闻管制下，山洪变成了宣传秀/a-78577054?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1788183000
     },
@@ -546,20 +637,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cdr7yd0zyg1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1788177385
-    },
-    {
-      "id": "0daaa54f502c",
-      "title": "贝森特否认特朗普政府不愿就伊朗问题与中国对抗 称“所有选项都在桌上”",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260831-%E8%B4%9D%E6%A3%AE%E7%89%B9%E5%90%A6%E8%AE%A4%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%8D%E6%84%BF%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%8A%97-%E7%A7%B0-%E6%89%80%E6%9C%89%E9%80%89%E9%A1%B9%E9%83%BD%E5%9C%A8%E6%A1%8C%E4%B8%8A",
-      "source": "rfi.fr",
-      "published": 1788176903
-    },
-    {
-      "id": "0b7f05fb1c29",
-      "title": "上合峰会在即 中俄领导人会前举行双边会晤",
-      "url": "https://www.dw.com/zh/上合峰会在即-中俄领导人会前举行双边会晤/a-78574163?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1788176460
     },
     {
       "id": "19b9ee8acde4",
@@ -849,13 +926,6 @@
       "published": 1788019200
     },
     {
-      "id": "d6012d014d41",
-      "title": "解放与撕裂：AI的两幅面孔——从我的AI音乐制作说起",
-      "url": "https://www.ftchinese.com/story/001110750",
-      "source": "ftchinese.com",
-      "published": 1788019200
-    },
-    {
       "id": "eb3894f96b68",
       "title": "中国军备迅速扩张：仅仅是为了自卫吗？",
       "url": "https://www.dw.com/zh/中国军备迅速扩张：仅仅是为了自卫吗？/a-78557144?maca=chi-rss-chi-all-1127-rdf",
@@ -868,13 +938,6 @@
       "url": "https://www.dw.com/zh/中尼边境发生山洪灾难-中国如何进行舆论审查/a-78550639?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1788000360
-    },
-    {
-      "id": "5b5ef48a6031",
-      "title": "灾区失联人数逼近3000  幸存者讲述获救经历",
-      "url": "https://www.dw.com/zh/灾区失联人数逼近3000-幸存者讲述获救经历/a-78556649?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1788000240
     },
     {
       "id": "2ad38f704858",
@@ -891,18 +954,18 @@
       "published": 1787926560
     },
     {
+      "id": "182656514941",
+      "title": "堰塞湖开始溢流 洪水威胁尚未解除",
+      "url": "https://www.dw.com/zh/堰塞湖开始溢流-洪水威胁尚未解除/a-78549634?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1787926440
+    },
+    {
       "id": "643635ea3af4",
       "title": "德语媒体：“声调高、棍子小”的特朗普亚太政策",
       "url": "https://www.dw.com/zh/德语媒体：-声调高、棍子小-的特朗普亚太政策/a-78549103?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1787925300
-    },
-    {
-      "id": "4c4e7e831198",
-      "title": "喜马拉雅山脉突发山洪：尼泊尔的这场灾难是如何发生的？",
-      "url": "https://www.dw.com/zh/喜马拉雅山脉突发山洪：尼泊尔的这场灾难是如何发生的？/a-78532466?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1787918460
     },
     {
       "id": "00f5c14bbbcb",
@@ -982,20 +1045,6 @@
       "published": 1787882537
     },
     {
-      "id": "5896dd6768e5",
-      "title": "中国信息管控或阻碍西藏洪水救援",
-      "url": "https://cn.nytimes.com/china/20260828/flood-disaster-china-censorship/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1787880710
-    },
-    {
-      "id": "ce378d5cf525",
-      "title": "iPhone为何中国制造？",
-      "url": "https://cn.nytimes.com/business/20120122/c00appleone/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1787880241
-    },
-    {
       "id": "8784e6ceb3b0",
       "title": "比尔·盖茨：科技行业刻意淡化人工智能风险",
       "url": "https://cn.nytimes.com/technology/20260828/bill-gates-ai-risks/?utm_source=RSS",
@@ -1008,13 +1057,6 @@
       "url": "https://cn.nytimes.com/obits/20260828/yayoi-kusama-dead/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1787852091
-    },
-    {
-      "id": "c7c85a586112",
-      "title": "是甚麼導致西藏致命泥石流？科學家分析來龍去脈",
-      "url": "https://www.bbc.com/zhongwen/articles/ckgxvnv51x5o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1787849566
     },
     {
       "id": "ea44af107c40",
@@ -1038,18 +1080,11 @@
       "published": 1787788979
     },
     {
-      "id": "2dd11ffe7f3d",
-      "title": "尼泊尔与中国边境山洪暴发，逾千人失踪",
-      "url": "https://cn.nytimes.com/asia-pacific/20260827/nepal-floods-tibet-missing/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1787766899
-    },
-    {
-      "id": "0c974038c8ac",
-      "title": "哪些国家限制青少年使用社交媒体？",
-      "url": "https://cn.nytimes.com/world/20260827/children-social-media-restrictions-global-movement-meta/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1787766251
+      "id": "4a6ddfbc890b",
+      "title": "中情局长访莫斯科 克里姆林宫淡化期望",
+      "url": "https://www.dw.com/zh/中情局长访莫斯科-克里姆林宫淡化期望/a-78512574?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1787753400
     },
     {
       "id": "9dbc78624e1e",
@@ -1078,13 +1113,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn459py3371o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1787703733
-    },
-    {
-      "id": "ee7bcae13fd4",
-      "title": "先天黑色素細胞痣：「皮膚使我獨一無二，我正學習接納它。」",
-      "url": "https://www.bbc.com/zhongwen/articles/c0j3pwj2x6eo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1787703727
     },
     {
       "id": "ee934753c5ea",
@@ -1120,13 +1148,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cvgyr5y5exro/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1787645001
-    },
-    {
-      "id": "7ac7348178e9",
-      "title": "台灣藝人涉「潑油」損日本國寶，如何牽動台日關係？",
-      "url": "https://www.bbc.com/zhongwen/articles/cje82403k49o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1787636546
     },
     {
       "id": "869d63d60297",
@@ -1255,13 +1276,6 @@
       "published": 1787319575
     },
     {
-      "id": "db833018a9de",
-      "title": "「結束一黨專政」：為何令支聯會煽動顛覆政權罪成？",
-      "url": "https://www.bbc.com/zhongwen/articles/c1w1r9d8gn2o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1787317163
-    },
-    {
       "id": "71c7e228c96e",
       "title": "德语媒体：美国是否成功实现与中国“脱钩”？",
       "url": "https://www.dw.com/zh/德语媒体：美国是否成功实现与中国-脱钩-？/a-78457639?maca=chi-rss-chi-all-1127-rdf",
@@ -1276,25 +1290,11 @@
       "published": 1787310420
     },
     {
-      "id": "7d21c31ee6b3",
-      "title": "「蟑螂人民黨」的崛起：印度Z世代到底在抗議什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/c1l136ry802o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1787310358
-    },
-    {
       "id": "c574d531d38d",
       "title": "流亡德国受到威胁？德国宪法保卫局推出求助热线",
       "url": "https://www.dw.com/zh/流亡德国受到威胁？德国宪法保卫局推出求助热线/a-78446664?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1787235540
-    },
-    {
-      "id": "4966dba746cf",
-      "title": "特朗普称年内会金正恩 罕见评估朝鲜核武",
-      "url": "https://www.dw.com/zh/特朗普称年内会金正恩-罕见评估朝鲜核武/a-78442786?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1787221800
     },
     {
       "id": "f327b1286e8a",
@@ -1309,13 +1309,6 @@
       "url": "https://www.dw.com/zh/重慶「時代峰峻」群眾衝突事件-目前我們知道什麼？/a-78439886?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1787214960
-    },
-    {
-      "id": "44d7120b9f9c",
-      "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
-      "url": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1787184438
     },
     {
       "id": "38571765f49b",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/中国仍是德国头号贸易伙伴-不平衡加剧/a-78308148?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1786369740
+    },
+    {
+      "id": "7ea2e6365133",
+      "title": "爆炸、呐喊、冲锋声此起彼落 中国“红色旅游景点“推出历史战争体验",
+      "url": "https://www.dw.com/zh/爆炸、呐喊、冲锋声此起彼落-中国-红色旅游景点-推出历史战争体验/a-78260505?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1786286160
     }
   ],
-  "build_id": 1788231627
+  "build_id": 1788252412
 }
