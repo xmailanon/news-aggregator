@@ -1,12 +1,110 @@
 {
-  "updated": 1789069945,
+  "updated": 1789077685,
   "items": [
+    {
+      "id": "d19898618452",
+      "title": "加拿大宣布向乌克兰提供超过2亿欧元的防空援助",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260910-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%A3%E5%B8%83%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E8%B6%85%E8%BF%872%E4%BA%BF%E6%AC%A7%E5%85%83%E7%9A%84%E9%98%B2%E7%A9%BA%E6%8F%B4%E5%8A%A9",
+      "source": "rfi.fr",
+      "published": 1789076031
+    },
+    {
+      "id": "54190b14a745",
+      "title": "瑞士阿爾卑斯山區遊覽車翻覆　荷蘭團多人死傷",
+      "url": "https://money.udn.com/money/story/5599/9747720",
+      "source": "money.udn.com",
+      "published": 1789075825
+    },
+    {
+      "id": "79769b6d1b33",
+      "title": "土瓜灣浙江街截獲失車 警搜出毒品拘捕無證男",
+      "url": "https://www.singtaousa.com/2026/09/10/news/china/stolen-car-drugs-arrested-unidentified-man/",
+      "source": "singtaousa.com",
+      "published": 1789075353
+    },
+    {
+      "id": "d026a3396741",
+      "title": "美財政部搶救債市　10年期國債殖利率仍狂升",
+      "url": "https://money.udn.com/money/story/5599/9747717",
+      "source": "money.udn.com",
+      "published": 1789074753
+    },
+    {
+      "id": "eb0e134bd9e3",
+      "title": "澤倫斯基訪加拿大　兩國簽協議深化防空與能源合作",
+      "url": "https://money.udn.com/money/story/5599/9747713",
+      "source": "money.udn.com",
+      "published": 1789074026
+    },
+    {
+      "id": "8e64247ac816",
+      "title": "受油價飆漲拖累　美股收黑",
+      "url": "https://money.udn.com/money/story/123398/9747710",
+      "source": "money.udn.com",
+      "published": 1789073670
+    },
+    {
+      "id": "8d53e4d396de",
+      "title": "荃灣貨車衝紅燈險撞學生 司機涉危駕被捕",
+      "url": "https://www.singtaousa.com/2026/09/10/news/china/truck-runs-red-light-nearly-hits-students/",
+      "source": "singtaousa.com",
+      "published": 1789073553
+    },
+    {
+      "id": "933d4f0754b8",
+      "title": "乌克兰购物中心遭俄罗斯袭击，致5死67伤",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260910-%E4%B9%8C%E5%85%8B%E5%85%B0%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E9%81%AD%E8%A2%AD%E8%87%B45%E6%AD%BB67%E4%BC%A4",
+      "source": "rfi.fr",
+      "published": 1789073334
+    },
+    {
+      "id": "d1f3a0b83a8a",
+      "title": "中東衝突推高油價　英美國債殖利率升至數十年高點",
+      "url": "https://money.udn.com/money/story/5599/9747706",
+      "source": "money.udn.com",
+      "published": 1789072232
+    },
+    {
+      "id": "1ae87b2ebaea",
+      "title": "南韓法院判處中國留學生 因製作逾千條AI換臉色情片監禁18個月",
+      "url": "https://www.singtaousa.com/2026/09/10/news/china/deepfake-ai-porn-south-korea-sentenced/",
+      "source": "singtaousa.com",
+      "published": 1789071754
+    },
+    {
+      "id": "0fcefd4833a6",
+      "title": "美国打击之后，霍尔木兹海峡附近海域疑似出现了浮油带",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260910-%E7%BE%8E%E5%9B%BD%E6%89%93%E5%87%BB%E4%B9%8B%E5%90%8E%EF%BC%8C%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E7%96%91%E4%BC%BC%E5%87%BA%E7%8E%B0%E4%BA%86%E6%B5%AE%E6%B2%B9%E5%B8%A6",
+      "source": "rfi.fr",
+      "published": 1789071596
+    },
+    {
+      "id": "53f1892e5ef9",
+      "title": "周四油价暴涨超6%，创近两月来最大单日涨幅，分析称油价上涨能否持续或取决于中国",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260910-%E5%91%A8%E5%9B%9B%E6%B2%B9%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%B6%856-%EF%BC%8C%E5%88%9B%E8%BF%91%E4%B8%A4%E6%9C%88%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E6%B6%A8%E5%B9%85%EF%BC%8C%E5%88%86%E6%9E%90%E7%A7%B0%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8%E8%83%BD%E5%90%A6%E6%8C%81%E7%BB%AD%E6%88%96%E5%8F%96%E5%86%B3%E4%BA%8E%E4%B8%AD%E5%9B%BD",
+      "source": "rfi.fr",
+      "published": 1789071232
+    },
+    {
+      "id": "a00a51758bec",
+      "title": "油輪遇襲案增加　國際油價漲逾6%升破每桶100美元",
+      "url": "https://money.udn.com/money/story/5599/9747694",
+      "source": "money.udn.com",
+      "published": 1789070426
+    },
     {
       "id": "fe58032c7ffa",
       "title": "維密杭州員工請假照顧病母遭拒 口頭辭職卻獲秒批引發爭議",
       "url": "https://www.singtaousa.com/2026/09/10/news/china/victoria-secret-employee-leave-denial-resignation/",
       "source": "singtaousa.com",
       "published": 1789069953
+    },
+    {
+      "id": "21af67073a11",
+      "title": "美最高法院駁回川普版選區圖　密蘇里州大選採用舊圖",
+      "url": "https://money.udn.com/money/story/10511/9747685",
+      "source": "money.udn.com",
+      "published": 1789069537
     },
     {
       "id": "d381727859ed",
@@ -149,27 +247,6 @@
       "published": 1789065034
     },
     {
-      "id": "9af55552698a",
-      "title": "COLLAR《PERSONA》七人七色　沈貞巧蘇雅琳聯手為團歌填詞",
-      "url": "https://www.singtaousa.com/2026/09/10/entertainment/collar-persona-album-7-styles/",
-      "source": "singtaousa.com",
-      "published": 1789064891
-    },
-    {
-      "id": "4e6952ee9fe6",
-      "title": "49歲女子兩度用嬰兒車藏私煙入境 保釋期間再犯被判監14周",
-      "url": "https://www.singtaousa.com/2026/09/10/news/china/woman-smuggling-cigarettes-baby-stroller-sentenced/",
-      "source": "singtaousa.com",
-      "published": 1789064554
-    },
-    {
-      "id": "5e9b7cf580b2",
-      "title": "5000元「特朗普紅利」能否兌現？　民主黨批評:「空洞承諾」",
-      "url": "https://www.singtaousa.com/2026/09/10/news/usa/news-trump-5000-dividend-tariff-revenue-midterm-elections/",
-      "source": "singtaousa.com",
-      "published": 1789064498
-    },
-    {
       "id": "b9e7e7316909",
       "title": "伊朗盟友奪葉門港市恐箝制紅海咽喉　油價應聲大漲",
       "url": "https://money.udn.com/money/story/5599/9747665",
@@ -226,27 +303,6 @@
       "published": 1789059263
     },
     {
-      "id": "e3d4103f966b",
-      "title": "蘋果新任執行長特納斯首秀 闡述 AI 願景 演講風格類似賈伯斯",
-      "url": "https://money.udn.com/money/story/5599/9747497",
-      "source": "money.udn.com",
-      "published": 1789058315
-    },
-    {
-      "id": "40acfc420297",
-      "title": "川普又提台灣 喊課晶片稅 另承諾對成年公民發放5,000美元催票",
-      "url": "https://money.udn.com/money/story/5599/9747500",
-      "source": "money.udn.com",
-      "published": 1789057982
-    },
-    {
-      "id": "aa1dca674a1c",
-      "title": "油、銅漲不停 通膨隱憂加劇 美伊戰事恐一路拖到川普任期結束",
-      "url": "https://money.udn.com/money/story/5599/9747430",
-      "source": "money.udn.com",
-      "published": 1789056626
-    },
-    {
       "id": "34be8b87c22f",
       "title": "“陈功梯度”与“减量发展原则”",
       "url": "https://www.ftchinese.com/story/001110838",
@@ -282,27 +338,6 @@
       "published": 1789054731
     },
     {
-      "id": "a56bdf708afa",
-      "title": "10年期美債殖利率升破4.92% 奔向5%警戒價位",
-      "url": "https://money.udn.com/money/story/5599/9747569",
-      "source": "money.udn.com",
-      "published": 1789054519
-    },
-    {
-      "id": "bdc836b780fa",
-      "title": "台灣廟口文化首登歐洲 駐波代表盼台灣文化走向世界",
-      "url": "https://money.udn.com/money/story/5599/9747533",
-      "source": "money.udn.com",
-      "published": 1789053712
-    },
-    {
-      "id": "1999247b9b97",
-      "title": "日本F-15戰機緊急降落那霸機場　跑道一度關閉",
-      "url": "https://money.udn.com/money/story/5599/9747532",
-      "source": "money.udn.com",
-      "published": 1789053687
-    },
-    {
       "id": "7d0b80542b15",
       "title": "何为生态焦虑？为何引发公共卫生部门关注？",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%81%A5%E5%BA%B7%E6%97%B6%E9%97%B4/20260910-%E4%BD%95%E4%B8%BA%E7%94%9F%E6%80%81%E7%84%A6%E8%99%91-%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F%E9%83%A8%E9%97%A8%E5%85%B3%E6%B3%A8",
@@ -315,13 +350,6 @@
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260910-%E5%9B%BD%E9%99%85%E5%8E%9F%E5%AD%90%E8%83%BD%E6%9C%BA%E6%9E%84%E6%80%BB%E5%B9%B2%E4%BA%8B-%E4%BC%8A%E6%9C%97%E9%95%90%E5%B1%B1%E5%AD%98%E5%9C%A8%E6%96%BD%E5%B7%A5%E6%B4%BB%E5%8A%A8-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%91%E4%BB%AC%E6%B3%A8%E6%84%8F%E5%88%B0%E9%82%A3%E8%BE%B9%E6%9C%89%E5%8A%A8%E9%9D%99",
       "source": "rfi.fr",
       "published": 1789052504
-    },
-    {
-      "id": "27553512bded",
-      "title": "俄逮捕英使館警衛稱烏克蘭線民　英國：挑撥離間伎倆",
-      "url": "https://money.udn.com/money/story/5599/9747412",
-      "source": "money.udn.com",
-      "published": 1789052074
     },
     {
       "id": "f20674aaa822",
@@ -492,13 +520,6 @@
       "published": 1789024640
     },
     {
-      "id": "ee5a29fdf2f1",
-      "title": "支联会案判刑前夕 邹幸彤批港府要求充公与罪成理据无关的所有证物 属清洗六四",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260910-%E6%94%AF%E8%81%94%E4%BC%9A%E6%A1%88%E5%88%A4%E5%88%91%E5%89%8D%E5%A4%95-%E9%82%B9%E5%B9%B8%E5%BD%A4%E6%89%B9%E6%B8%AF%E5%BA%9C%E8%A6%81%E6%B1%82%E5%85%85%E5%85%AC%E4%B8%8E%E7%BD%AA%E6%88%90%E7%90%86%E6%8D%AE%E6%97%A0%E5%85%B3%E7%9A%84%E6%89%80%E6%9C%89%E8%AF%81%E7%89%A9-%E5%B1%9E%E6%B8%85%E6%B4%97%E5%85%AD%E5%9B%9B",
-      "source": "rfi.fr",
-      "published": 1789024385
-    },
-    {
       "id": "78f352fc6dac",
       "title": "蘋果摺疊式iPhone：新任掌舵人的豪賭，能轉化為實質銷量嗎？",
       "url": "https://www.bbc.com/zhongwen/articles/cwyzp5561n2o/trad?at_medium=RSS&at_campaign=rss",
@@ -560,27 +581,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cn74d8mr640o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1788999274
-    },
-    {
-      "id": "232b079cdd8a",
-      "title": "毛泽东, 沉重的遗产: 昔日的红卫兵：苦涩、悔恨、道歉---\"我们被愚弄了\"",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260909-%E6%AF%9B%E6%B3%BD%E4%B8%9C-%E6%B2%89%E9%87%8D%E7%9A%84%E9%81%97%E4%BA%A7-%E6%98%94%E6%97%A5%E7%9A%84%E7%BA%A2%E5%8D%AB%E5%85%B5-%E8%8B%A6%E6%B6%A9-%E6%82%94%E6%81%A8-%E9%81%93%E6%AD%89-%E6%88%91%E4%BB%AC%E8%A2%AB%E6%84%9A%E5%BC%84%E4%BA%86",
-      "source": "rfi.fr",
-      "published": 1788993124
-    },
-    {
-      "id": "0d322bf4a8a7",
-      "title": "特朗普：美伊战争将在中期选举后“立即结束”，油价也会大幅下跌",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260909-%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E4%BC%8A%E6%88%98%E4%BA%89%E5%B0%86%E5%9C%A8%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E-%E7%AB%8B%E5%8D%B3%E7%BB%93%E6%9D%9F-%EF%BC%8C%E6%B2%B9%E4%BB%B7%E4%B9%9F%E4%BC%9A%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C",
-      "source": "rfi.fr",
-      "published": 1788989497
-    },
-    {
-      "id": "bd4236dddbfe",
-      "title": "韩国卫星影像分析机构：连接中朝的“新鸭绿江大桥”即将完工，两国关系或迈入新阶段",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260909-%E9%9F%A9%E5%9B%BD%E5%8D%AB%E6%98%9F%E5%BD%B1%E5%83%8F%E5%88%86%E6%9E%90%E6%9C%BA%E6%9E%84-%E8%BF%9E%E6%8E%A5%E4%B8%AD%E6%9C%9D%E7%9A%84-%E6%96%B0%E9%B8%AD%E7%BB%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5-%E5%8D%B3%E5%B0%86%E5%AE%8C%E5%B7%A5%EF%BC%8C%E4%B8%A4%E5%9B%BD%E5%85%B3%E7%B3%BB%E6%88%96%E8%BF%88%E5%85%A5%E6%96%B0%E9%98%B6%E6%AE%B5",
-      "source": "rfi.fr",
-      "published": 1788988606
     },
     {
       "id": "7fa86dde78db",
@@ -1353,5 +1353,5 @@
       "published": 1786528740
     }
   ],
-  "build_id": 1789069945
+  "build_id": 1789077685
 }
