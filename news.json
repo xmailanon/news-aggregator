@@ -1,6 +1,55 @@
 {
-  "updated": 1789334962,
+  "updated": 1789341584,
   "items": [
+    {
+      "id": "3a624d83dae1",
+      "title": "少年熱血競技 突破自我極限",
+      "url": "https://www.singtaousa.com/2026/09/13/entertainment/youth-competitive-spirit-breakthrough/",
+      "source": "singtaousa.com",
+      "published": 1789340400
+    },
+    {
+      "id": "ae8c8750f140",
+      "title": "土耳其当局突袭多个LGBTQ+组织，数十人被拘留",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260913-%E5%9C%9F%E8%80%B3%E5%85%B6%E5%BD%93%E5%B1%80%E7%AA%81%E8%A2%AD%E5%A4%9A%E4%B8%AAlgbtq-%E7%BB%84%E7%BB%87%EF%BC%8C%E6%95%B0%E5%8D%81%E4%BA%BA%E8%A2%AB%E6%8B%98%E7%95%99",
+      "source": "rfi.fr",
+      "published": 1789339906
+    },
+    {
+      "id": "804b97acfa1a",
+      "title": "本周開盤前 五件國際事不可不知",
+      "url": "https://money.udn.com/money/story/5599/9752583",
+      "source": "money.udn.com",
+      "published": 1789339546
+    },
+    {
+      "id": "f8e5224d5bf6",
+      "title": "川普稱樂見愛爾蘭統一　蘇格蘭、威爾斯、北愛政黨會商",
+      "url": "https://money.udn.com/money/story/5599/9752577",
+      "source": "money.udn.com",
+      "published": 1789338633
+    },
+    {
+      "id": "3c4f1bcfb212",
+      "title": "特朗普称美国可仿效委内瑞拉 留在伊朗并取得石油",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260913-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%8F%AF%E4%BB%BF%E6%95%88%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89-%E7%95%99%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%B9%B6%E5%8F%96%E5%BE%97%E7%9F%B3%E6%B2%B9",
+      "source": "rfi.fr",
+      "published": 1789338261
+    },
+    {
+      "id": "6b67a2356487",
+      "title": "曾輝汪海敏上演青春救贖",
+      "url": "https://www.singtaousa.com/2026/09/13/entertainment/youth-redemption-zeng-hui-wang-hai-min/",
+      "source": "singtaousa.com",
+      "published": 1789336800
+    },
+    {
+      "id": "e55bc47bca09",
+      "title": "金磚國家試圖擴大影響力　籲勿將關鍵礦產武器化",
+      "url": "https://money.udn.com/money/story/5599/9752534",
+      "source": "money.udn.com",
+      "published": 1789335391
+    },
     {
       "id": "8bcf8f7388b0",
       "title": "加拿大盼年底前達成印加貿易協議",
@@ -226,41 +275,6 @@
       "published": 1789326000
     },
     {
-      "id": "4a064b805a68",
-      "title": "聯準會決策前夕 川普：美國利率應該全球最低",
-      "url": "https://money.udn.com/money/story/5599/9752501",
-      "source": "money.udn.com",
-      "published": 1789325667
-    },
-    {
-      "id": "6956b8532ad7",
-      "title": "新疆高校課堂趣聞：學生打瞌睡失平衡倒地 師生忍俊不禁",
-      "url": "https://www.singtaousa.com/2026/09/13/news/china/student-nods-off-falls-floor-classroom/",
-      "source": "singtaousa.com",
-      "published": 1789325555
-    },
-    {
-      "id": "be33c22aebc1",
-      "title": "伊朗、波灣外長會議前夕 中東又動盪 威脅能源供應",
-      "url": "https://money.udn.com/money/story/5599/9752355",
-      "source": "money.udn.com",
-      "published": 1789324996
-    },
-    {
-      "id": "c26ce129ae6e",
-      "title": "G7央行本周鷹聲更嘹亮",
-      "url": "https://money.udn.com/money/story/5599/9752353",
-      "source": "money.udn.com",
-      "published": 1789324881
-    },
-    {
-      "id": "be98f1975f79",
-      "title": "中大研究：多內分泌代謝性卵巢綜合症影響可傳至下一代",
-      "url": "https://www.singtaousa.com/2026/09/13/news/china/pcos-pmos-offspring-health-risks/",
-      "source": "singtaousa.com",
-      "published": 1789323754
-    },
-    {
       "id": "acbd2c350168",
       "title": "法国民粹化趋势加剧？总统选举民调：极右翼勒庞遥遥领先，极左翼梅朗雄紧随其后",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260913-%E6%B3%95%E5%9B%BD%E6%B0%91%E7%B2%B9%E5%8C%96%E8%B6%8B%E5%8A%BF%E5%8A%A0%E5%89%A7-%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E6%B0%91%E8%B0%83-%E6%9E%81%E5%8F%B3%E7%BF%BC%E5%8B%92%E5%BA%9E%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88%EF%BC%8C%E6%9E%81%E5%B7%A6%E7%BF%BC%E6%A2%85%E6%9C%97%E9%9B%84%E7%B4%A7%E9%9A%8F%E5%85%B6%E5%90%8E",
@@ -287,6 +301,13 @@
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260913-%E5%BE%B7%E5%9B%BD%E4%B8%A4%E5%B7%9E%E9%80%89%E4%B8%BE%E5%89%8D%E6%B0%91%E8%B0%83-%E9%80%89%E6%8B%A9%E5%85%9A%E5%BE%97%E5%88%86%E5%B0%86%E5%A4%A7%E5%A2%9E-%E5%9F%BA%E6%B0%91%E7%9B%9F%E5%BE%97%E5%88%86%E4%BB%8D%E5%B0%86%E4%B8%8B%E6%BB%91",
       "source": "rfi.fr",
       "published": 1789318186
+    },
+    {
+      "id": "7657d7aaa4a2",
+      "title": "“高油价可能迫使欧洲央行进一步加息”",
+      "url": "https://www.ftchinese.com/story/001110867",
+      "source": "ftchinese.com",
+      "published": 1789315200
     },
     {
       "id": "00b1f6191080",
@@ -504,20 +525,6 @@
       "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260912-%E5%A8%81%E5%B0%BC%E6%96%AF%E7%94%B5%E5%BD%B1%E8%8A%82-%E5%94%AF%E4%B8%80%E5%A5%B3%E5%AF%BC%E6%BC%94%E6%91%98%E5%BE%97%E9%87%91%E7%8B%AE%E5%A5%96%EF%BC%8C%E9%9F%A9%E5%9B%BD%E5%AF%BC%E6%BC%94%E6%9D%8E%E6%B2%A7%E4%B8%9C%E8%8E%B7%E9%93%B6%E7%8B%AE%E5%A5%96",
       "source": "rfi.fr",
       "published": 1789241067
-    },
-    {
-      "id": "3a1c86d20018",
-      "title": "俄军袭击加剧重创乌克兰经济：2026年GDP或减少1.5个百分点，今年冬季将“非常艰难”",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260912-%E4%BF%84%E5%86%9B%E8%A2%AD%E5%87%BB%E5%8A%A0%E5%89%A7%E9%87%8D%E5%88%9B%E4%B9%8C%E5%85%8B%E5%85%B0%E7%BB%8F%E6%B5%8E-2026%E5%B9%B4gdp%E6%88%96%E5%87%8F%E5%B0%911-5%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9%EF%BC%8C%E4%BB%8A%E5%B9%B4%E5%86%AC%E5%AD%A3%E5%B0%86-%E9%9D%9E%E5%B8%B8%E8%89%B0%E9%9A%BE",
-      "source": "rfi.fr",
-      "published": 1789239199
-    },
-    {
-      "id": "224cb6395dbc",
-      "title": "印度外交部：莫迪与习近平承诺以“公正合理”方式解决中印边界争端",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260912-%E5%8D%B0%E5%BA%A6%E5%A4%96%E4%BA%A4%E9%83%A8-%E8%8E%AB%E8%BF%AA%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%BF%E8%AF%BA%E4%BB%A5-%E5%85%AC%E6%AD%A3%E5%90%88%E7%90%86-%E6%96%B9%E5%BC%8F%E8%A7%A3%E5%86%B3%E4%B8%AD%E5%8D%B0%E8%BE%B9%E7%95%8C%E4%BA%89%E7%AB%AF",
-      "source": "rfi.fr",
-      "published": 1789238313
     },
     {
       "id": "d59e4509b396",
@@ -908,13 +915,6 @@
       "id": "bde8128b42df",
       "title": "具身智能的“ChatGPT时刻”究竟还有多远？",
       "url": "https://www.ftchinese.com/story/001110849",
-      "source": "ftchinese.com",
-      "published": 1788969600
-    },
-    {
-      "id": "de7ad3809981",
-      "title": "沃什也许能当好美联储主席",
-      "url": "https://www.ftchinese.com/story/001110850",
       "source": "ftchinese.com",
       "published": 1788969600
     },
@@ -1353,5 +1353,5 @@
       "published": 1786869000
     }
   ],
-  "build_id": 1789334962
+  "build_id": 1789341584
 }
