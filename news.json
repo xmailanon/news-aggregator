@@ -1,40 +1,285 @@
 {
-  "updated": 1789536318,
+  "updated": 1789553197,
   "items": [
     {
-      "id": "d2752a93025e",
-      "title": "泰國參議院選舉爭議延燒　總理阿努廷控公民團體誹謗",
-      "url": "https://money.udn.com/money/story/5599/9758091",
+      "id": "122acdf159a3",
+      "title": "高市早苗成首位女首相也拉不動 日本性別平等G7墊底",
+      "url": "https://money.udn.com/money/story/5599/9758852",
       "source": "money.udn.com",
-      "published": 1789535566
+      "published": 1789552915
     },
     {
-      "id": "8202f86c3578",
-      "title": "印尼逮捕中國潛水教練 涉獵殺保育海龜",
-      "url": "https://www.singtaousa.com/2026/09/15/news/world/chinese-freediving-instructor-arrested-in-indonesia-for-hunting-and-eating-endangered-sea-turtle/",
+      "id": "97a41b46acdd",
+      "title": "容天佑太太痛訴外傭潛逃 嬰兒房慘變蟻竇 失聯後竟索機票",
+      "url": "https://www.singtaousa.com/2026/09/16/entertainment/yung-tin-yau-maid-escape-mess/",
       "source": "singtaousa.com",
-      "published": 1789535054
+      "published": 1789552803
     },
     {
-      "id": "1190121fee80",
-      "title": "陳好宋茜聚餐 閨蜜情超動人",
-      "url": "https://www.singtaousa.com/2026/09/15/entertainment/chen-hao-song-qian-dinner/",
-      "source": "singtaousa.com",
-      "published": 1789534800
-    },
-    {
-      "id": "3c2dd5a7a0e9",
-      "title": "陳建州急性心肌梗塞 范瑋琪急奔醫院簽手術文件",
-      "url": "https://www.singtaousa.com/2026/09/15/entertainment/blackie-chen-heart-attack-recovery-fan-fan/",
-      "source": "singtaousa.com",
-      "published": 1789534720
-    },
-    {
-      "id": "ef758e80e18b",
-      "title": "「AI機會像天上掉金子」手快才接得到 彭博盤點川湖等七家隱形贏家",
-      "url": "https://money.udn.com/money/story/5599/9758048",
+      "id": "a76ab0b635b2",
+      "title": "美光推全球首款次世代伺服器超高密度記憶體模組 推進記憶體技術創新",
+      "url": "https://money.udn.com/money/story/5599/9758833",
       "source": "money.udn.com",
-      "published": 1789534695
+      "published": 1789552532
+    },
+    {
+      "id": "9a0b87521a20",
+      "title": "區錦新案：澳門首宗國安案閉門開審，我們知道多少？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1789552500
+    },
+    {
+      "id": "bc7e446f98fe",
+      "title": "傳亞航財務困境　馬來西亞與競爭業者磋商航線接手預案",
+      "url": "https://money.udn.com/money/story/5599/9758798",
+      "source": "money.udn.com",
+      "published": 1789551453
+    },
+    {
+      "id": "9def7f3a25f9",
+      "title": "傳 SK 海力士與英特爾洽商 擬首次在美生產記憶體",
+      "url": "https://money.udn.com/money/story/5599/9758784",
+      "source": "money.udn.com",
+      "published": 1789551203
+    },
+    {
+      "id": "a920ac784f7e",
+      "title": "陳展鵬新居生活Vlog　小豬比化身洗車小師傅",
+      "url": "https://www.singtaousa.com/2026/09/16/entertainment/rui-chanpeng-family-house-tour/",
+      "source": "singtaousa.com",
+      "published": 1789551077
+    },
+    {
+      "id": "b3fda4b963fb",
+      "title": "除了末日警告，人工智能發展還在面臨著另一個威脅",
+      "url": "https://www.bbc.com/zhongwen/articles/cm750xv56v57o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1789551051
+    },
+    {
+      "id": "24b813fecf8f",
+      "title": "原油價格飆升　日本8月貿易逆差逾1.1兆日圓",
+      "url": "https://money.udn.com/money/story/5599/9758774",
+      "source": "money.udn.com",
+      "published": 1789551045
+    },
+    {
+      "id": "531407f76309",
+      "title": "全球民調：多數人贊同國際合作但不願受美中領導 這國支持度異軍突起",
+      "url": "https://money.udn.com/money/story/5599/9758758",
+      "source": "money.udn.com",
+      "published": 1789550663
+    },
+    {
+      "id": "ee4e288a1c63",
+      "title": "香港首份五年规划公布：香港订发展指标靠垄北京 藉国际地位推人民币及中国标准",
+      "url": "http://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260916-%E9%A6%99%E6%B8%AF%E9%A6%96%E4%BB%BD%E4%BA%94%E5%B9%B4%E8%A7%84%E5%88%92%E5%85%AC%E5%B8%83-%E9%A6%99%E6%B8%AF%E8%AE%A2%E5%8F%91%E5%B1%95%E6%8C%87%E6%A0%87%E9%9D%A0%E5%9E%84%E5%8C%97%E4%BA%AC-%E8%97%89%E5%9B%BD%E9%99%85%E5%9C%B0%E4%BD%8D%E6%8E%A8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%8A%E4%B8%AD%E5%9B%BD%E6%A0%87%E5%87%86",
+      "source": "rfi.fr",
+      "published": 1789549955
+    },
+    {
+      "id": "3faece82461d",
+      "title": "蘇韻姿離巢後狀態回勇 布吉度假大晒健康性感美態",
+      "url": "https://www.singtaousa.com/2026/09/16/entertainment/so-wan-chi-phuket-swimsuit-photos/",
+      "source": "singtaousa.com",
+      "published": 1789549530
+    },
+    {
+      "id": "ba0e0b898808",
+      "title": "袁偉豪張寶兒終於搬新居　率先打造兒童玩樂區畀囝囝",
+      "url": "https://www.singtaousa.com/2026/09/16/entertainment/benjamin-yuen-bowie-cheung-move-new-mansion/",
+      "source": "singtaousa.com",
+      "published": 1789549265
+    },
+    {
+      "id": "7ca5c722dede",
+      "title": "日本在野黨中道分裂　立民出身議員將組新政黨",
+      "url": "https://money.udn.com/money/story/5599/9758694",
+      "source": "money.udn.com",
+      "published": 1789549259
+    },
+    {
+      "id": "a8907565efb0",
+      "title": "路透：SK海力士洽談英特爾　擬赴美生產記憶體晶片",
+      "url": "https://money.udn.com/money/story/5599/9758680",
+      "source": "money.udn.com",
+      "published": 1789548868
+    },
+    {
+      "id": "c57bb6799032",
+      "title": "朝鲜炸毁朝韩联络办公室案 韩国法院判平壤赔偿2800万欧元",
+      "url": "http://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260916-%E6%9C%9D%E9%B2%9C%E7%82%B8%E6%AF%81%E6%9C%9D%E9%9F%A9%E8%81%94%E7%BB%9C%E5%8A%9E%E5%85%AC%E5%AE%A4-%E9%9F%A9%E5%9B%BD%E6%B3%95%E9%99%A2%E5%88%A4%E5%B9%B3%E5%A3%A4%E8%B5%94%E5%81%BF2800%E4%B8%87%E6%AC%A7%E5%85%83",
+      "source": "rfi.fr",
+      "published": 1789548789
+    },
+    {
+      "id": "4fa8d734cdf9",
+      "title": "范德賴恩：為加拿大敞開大門 準備迎接歐盟第一個準會員國",
+      "url": "https://money.udn.com/money/story/5599/9758642",
+      "source": "money.udn.com",
+      "published": 1789548002
+    },
+    {
+      "id": "1380a16fa671",
+      "title": "湯告魯斯罕有剖白 流露真實想法 64歲再登GQ封面",
+      "url": "https://www.singtaousa.com/2026/09/16/entertainment/tom-cruise-gq-cover-philosophy/",
+      "source": "singtaousa.com",
+      "published": 1789547542
+    },
+    {
+      "id": "540752265f39",
+      "title": "深夜重播《十月初五的月光》 網民廿年後仍為初哥哥抱不平",
+      "url": "https://www.singtaousa.com/2026/09/16/entertainment/moonlight-resurrection-24/",
+      "source": "singtaousa.com",
+      "published": 1789547484
+    },
+    {
+      "id": "499a6e83a4d6",
+      "title": "國際電競賽事落戶香港 環球資源十月展覽展示產業實力",
+      "url": "https://www.singtaousa.com/2026/09/16/news/china/global-esports-hub-hardware-showcase/",
+      "source": "singtaousa.com",
+      "published": 1789546955
+    },
+    {
+      "id": "09e99bf4b23c",
+      "title": "協助烏克蘭重建 台灣與烏智庫KSE簽署合作協議",
+      "url": "https://money.udn.com/money/story/5599/9758549",
+      "source": "money.udn.com",
+      "published": 1789545722
+    },
+    {
+      "id": "b07956869b28",
+      "title": "義大利資安新創 Exein 完成2.7億美元募資 打造Physical AI資安防護層",
+      "url": "https://money.udn.com/money/story/5599/9758517",
+      "source": "money.udn.com",
+      "published": 1789545167
+    },
+    {
+      "id": "3e0d57bdad2e",
+      "title": "施政報告2026推11項生育支援措施 延續新生嬰兒獎勵金並引入累進免稅額",
+      "url": "https://www.singtaousa.com/2026/09/16/news/china/policy-address-2026-newborn-bonus-tax-relief/",
+      "source": "singtaousa.com",
+      "published": 1789545156
+    },
+    {
+      "id": "eacd63d801fe",
+      "title": "特习二会预计24日登场 对台军售再次成为美中谈判最敏感筹码",
+      "url": "http://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260916-%E7%89%B9%E4%B9%A0%E4%BA%8C%E4%BC%9A%E9%A2%84%E8%AE%A124%E6%97%A5%E7%99%BB%E5%9C%BA-%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E5%86%8D%E6%AC%A1%E6%88%90%E4%B8%BA%E7%BE%8E%E4%B8%AD%E8%B0%88%E5%88%A4%E6%9C%80%E6%95%8F%E6%84%9F%E7%AD%B9%E7%A0%81",
+      "source": "rfi.fr",
+      "published": 1789544625
+    },
+    {
+      "id": "5f287397914c",
+      "title": "香港施政報告與「一五」同步公佈 聚焦北部都會區、國安與鼓勵生育",
+      "url": "https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1789544213
+    },
+    {
+      "id": "ff580f352517",
+      "title": "伊朗企圖奪無人艇　美軍荷莫茲海峽開火摧毀2小船",
+      "url": "https://money.udn.com/money/story/5599/9758461",
+      "source": "money.udn.com",
+      "published": 1789543858
+    },
+    {
+      "id": "95c0623467cb",
+      "title": "《三代同糖》收視四週下挫 編審罕有發長文回應網絡批評",
+      "url": "https://www.singtaousa.com/2026/09/16/entertainment/come-home-sweetie-third-generation-ratings-drop/",
+      "source": "singtaousa.com",
+      "published": 1789543733
+    },
+    {
+      "id": "6931d5acda02",
+      "title": "香山论坛中国高层批判“军国主义复活” 日本官方被拒之门外",
+      "url": "http://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260916-%E9%A6%99%E5%B1%B1%E8%AE%BA%E5%9D%9B%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%B1%82%E6%89%B9%E5%88%A4-%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%A4%8D%E6%B4%BB-%E6%97%A5%E6%9C%AC%E5%AE%98%E6%96%B9%E8%A2%AB%E6%8B%92%E4%B9%8B%E9%97%A8%E5%A4%96",
+      "source": "rfi.fr",
+      "published": 1789543676
+    },
+    {
+      "id": "db4cc9670375",
+      "title": "鍾澍佳談《新聞女王3》進度與新劇排檔 點名留意港姐袁絲珩",
+      "url": "https://www.singtaousa.com/2026/09/16/entertainment/chung-shu-kai-newcomers-news-queen-3/",
+      "source": "singtaousa.com",
+      "published": 1789543657
+    },
+    {
+      "id": "e3b063ecabed",
+      "title": "佛山男子創新水曱甴蛋撻 中醫指龍蝨具補腎功效",
+      "url": "https://www.singtaousa.com/2026/09/16/news/china/water-beetle-egg-tart-dark-cuisine/",
+      "source": "singtaousa.com",
+      "published": 1789543355
+    },
+    {
+      "id": "22fdee4b5e99",
+      "title": "買盤支撐 日股震盪收紅",
+      "url": "https://money.udn.com/money/story/5599/9758442",
+      "source": "money.udn.com",
+      "published": 1789543312
+    },
+    {
+      "id": "ae9a78bd8276",
+      "title": "追車禍新聞遇劫　美NBC採訪直升機墜毀3死1傷",
+      "url": "https://money.udn.com/money/story/5599/9758439",
+      "source": "money.udn.com",
+      "published": 1789543287
+    },
+    {
+      "id": "5ebc48645c10",
+      "title": "亞洲首富換人做！他身家飆破3.36兆台幣登頂 靠 AI 比7年前爆富8倍",
+      "url": "https://money.udn.com/money/story/5599/9758437",
+      "source": "money.udn.com",
+      "published": 1789543238
+    },
+    {
+      "id": "9d6fe9430468",
+      "title": "FBI：俄情報網鎖定烏盟友　密謀在美歐監視暗殺",
+      "url": "https://money.udn.com/money/story/5599/9758414",
+      "source": "money.udn.com",
+      "published": 1789542746
+    },
+    {
+      "id": "78981315a7b8",
+      "title": "AI 翻譯進步神速 中小學生沒必要學英語？但這群人恐怕會吃大虧",
+      "url": "https://money.udn.com/money/story/5599/9758408",
+      "source": "money.udn.com",
+      "published": 1789542583
+    },
+    {
+      "id": "5fde5bd34fe3",
+      "title": "OpenAI老闆稱世界「應信任」AI 公司 黃仁勳籲勿作虛假取捨",
+      "url": "https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1789542429
+    },
+    {
+      "id": "6d05f896c86f",
+      "title": "新罕布什爾州圖書館：百年雜誌逾期終歸還",
+      "url": "https://www.singtaousa.com/2026/09/15/news/usa/magazine-from-1894-is-finally-returned-to-new-hampshire-public-library/",
+      "source": "singtaousa.com",
+      "published": 1789541940
+    },
+    {
+      "id": "3c54fd73f311",
+      "title": "日本全球鷹大型無人偵察機墜落　未搭載黑盒子",
+      "url": "https://money.udn.com/money/story/5599/9758375",
+      "source": "money.udn.com",
+      "published": 1789541689
+    },
+    {
+      "id": "6ee3f9b7c8ca",
+      "title": "座位遭降等別認栽！飛機換一架恐全亂套 專家：要主動爭取權益",
+      "url": "https://money.udn.com/money/story/5599/9758371",
+      "source": "money.udn.com",
+      "published": 1789541630
+    },
+    {
+      "id": "1cc26a7cce8b",
+      "title": "伊朗代理人無人機逼近第一聖城麥加！沙國警告踩紅線將反擊",
+      "url": "https://money.udn.com/money/story/5599/9758369",
+      "source": "money.udn.com",
+      "published": 1789541610
     },
     {
       "id": "9e998e745bf6",
@@ -44,109 +289,11 @@
       "published": 1789534608
     },
     {
-      "id": "5a9d700e4ee2",
-      "title": "眾議院第三度表決 限制總統特朗普對伊朗動武權力",
-      "url": "https://www.singtaousa.com/2026/09/15/news/usa/house-votes-to-limit-trumps-power-to-strike-iran-for-3rd-time/",
-      "source": "singtaousa.com",
-      "published": 1789534598
-    },
-    {
       "id": "ec67a1d0f1d7",
       "title": "2026台灣地方選舉：「九合一」為何重要？選舉時程是什麼？",
       "url": "https://www.bbc.com/zhongwen/articles/cp931k7xx4do/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1789534046
-    },
-    {
-      "id": "e852aadd5253",
-      "title": "日經：美國考慮向日韓採購軍艦抗衡中國",
-      "url": "https://money.udn.com/money/story/5599/9758022",
-      "source": "money.udn.com",
-      "published": 1789533948
-    },
-    {
-      "id": "ab4ae66a079e",
-      "title": "北韓炸毀兩韓聯絡辦公室　首爾法院判賠446億韓元",
-      "url": "https://money.udn.com/money/story/5599/9758010",
-      "source": "money.udn.com",
-      "published": 1789533436
-    },
-    {
-      "id": "82efef9a57c7",
-      "title": "影／美電視台直升機空拍中墜毀釀3死 最後直播畫面曝光",
-      "url": "https://money.udn.com/money/story/5599/9758000",
-      "source": "money.udn.com",
-      "published": 1789533305
-    },
-    {
-      "id": "dc4d5d0cd465",
-      "title": "美突襲喬治亞州現代車廠　遭捕韓國勞工採法律行動",
-      "url": "https://money.udn.com/money/story/5599/9757983",
-      "source": "money.udn.com",
-      "published": 1789533072
-    },
-    {
-      "id": "a8d8e5413a3d",
-      "title": "洛杉磯新聞直升機採訪車禍時墜毀 釀三死一傷慘劇",
-      "url": "https://www.singtaousa.com/2026/09/15/news/usa/helicopter-crashes-and-bursts-into-flames-killing-at-least-3-people-near-an-la-bus-collision/",
-      "source": "singtaousa.com",
-      "published": 1789533067
-    },
-    {
-      "id": "27cac3c9782a",
-      "title": "夏普攜手鴻海供應鏈　進軍AI伺服器市場",
-      "url": "https://money.udn.com/money/story/5599/9757982",
-      "source": "money.udn.com",
-      "published": 1789533053
-    },
-    {
-      "id": "bebd978ef2fb",
-      "title": "桑德斯與班農罕見同調　齊聲示警人工智慧危險",
-      "url": "https://money.udn.com/money/story/5599/9757955",
-      "source": "money.udn.com",
-      "published": 1789532496
-    },
-    {
-      "id": "6aaa3cea450a",
-      "title": "日本再傳台人涉走私「喪屍菸彈」！74歲男成田被捕 姓名曝光",
-      "url": "https://money.udn.com/money/story/5599/9757910",
-      "source": "money.udn.com",
-      "published": 1789531889
-    },
-    {
-      "id": "5d319ed4c908",
-      "title": "姻親爆料伊朗最高領袖私下一面！超愛1好萊塢名導 苦學英文考托福",
-      "url": "https://money.udn.com/money/story/5599/9757899",
-      "source": "money.udn.com",
-      "published": 1789531521
-    },
-    {
-      "id": "5a6fe26f2bf8",
-      "title": "Netflix真人秀重現史丹福監獄實驗",
-      "url": "https://www.singtaousa.com/2026/09/15/news/world/netflix-sets-new-stanford-prison-experiment-unscripted-series-for-october-release/",
-      "source": "singtaousa.com",
-      "published": 1789531200
-    },
-    {
-      "id": "f39e0192cd69",
-      "title": "彭小苒衣服走光 工作室致歉 承認預判不足",
-      "url": "https://www.singtaousa.com/2026/09/15/entertainment/peng-xiaoran-clothing-incident-apology/",
-      "source": "singtaousa.com",
-      "published": 1789531200
-    },
-    {
-      "id": "231f687ada2a",
-      "title": "高市敲定自民黨新主管　多人續任、基礎不變",
-      "url": "https://money.udn.com/money/story/5599/9757859",
-      "source": "money.udn.com",
-      "published": 1789530883
-    },
-    {
-      "id": "e00287915027",
-      "title": "直擊三星、SK 海力士人才專班：想一路領補助到進大廠？須先過這兩關",
-      "url": "https://money.udn.com/money/story/5599/9757843",
-      "source": "money.udn.com",
-      "published": 1789530668
     },
     {
       "id": "94dc47a3cac4",
@@ -156,102 +303,11 @@
       "published": 1789530239
     },
     {
-      "id": "2b275f25ab81",
-      "title": "WTO籲改革貿易規則　警告貿易碎片化恐重創全球經濟",
-      "url": "https://money.udn.com/money/story/5599/9757802",
-      "source": "money.udn.com",
-      "published": 1789529927
-    },
-    {
-      "id": "b2a0a969f72f",
-      "title": "韓國將引進終止妊娠藥物　盼保障女性安全、健康權",
-      "url": "https://money.udn.com/money/story/5599/9757791",
-      "source": "money.udn.com",
-      "published": 1789529831
-    },
-    {
-      "id": "6bfadd158f4b",
-      "title": "美參議院兩黨歧見難解　加密貨幣法案闖關失敗",
-      "url": "https://money.udn.com/money/story/5599/9757780",
-      "source": "money.udn.com",
-      "published": 1789529505
-    },
-    {
-      "id": "895c7d7ed41f",
-      "title": "網民越界追問 Rocky 惹議，崔碧珈一句提醒捍衛女性尊嚴",
-      "url": "https://www.singtaousa.com/2026/09/15/entertainment/anita-chui-online-harassment-response/",
-      "source": "singtaousa.com",
-      "published": 1789529496
-    },
-    {
-      "id": "f1a214284f31",
-      "title": "防堵中國！美抽走4國5200萬美元軍援 改挺中南美保守派政府",
-      "url": "https://money.udn.com/money/story/5599/9757763",
-      "source": "money.udn.com",
-      "published": 1789529161
-    },
-    {
-      "id": "5cf7bf1207d0",
-      "title": "美施壓墨西哥接受原產地新規　防中國AI硬體洗產地",
-      "url": "https://money.udn.com/money/story/5599/9757719",
-      "source": "money.udn.com",
-      "published": 1789528385
-    },
-    {
-      "id": "6f0d0809f56f",
-      "title": "韓國外長將赴美進行會談　是否討論中東派兵受矚目",
-      "url": "https://money.udn.com/money/story/5599/9757714",
-      "source": "money.udn.com",
-      "published": 1789528355
-    },
-    {
-      "id": "e14d85e94e0c",
-      "title": "美期中選舉前最後表決！眾議院第3度通過決議 要求川普撤軍伊朗",
-      "url": "https://money.udn.com/money/story/5599/9757711",
-      "source": "money.udn.com",
-      "published": 1789528346
-    },
-    {
-      "id": "02927be04237",
-      "title": "美調整外國軍事融資　5200萬美元轉援中南美4國",
-      "url": "https://money.udn.com/money/story/5599/9757650",
-      "source": "money.udn.com",
-      "published": 1789527647
-    },
-    {
-      "id": "68453ccce82e",
-      "title": "伊朗戰事推高油價 全球多國爆發示威",
-      "url": "https://www.singtaousa.com/2026/09/15/news/world/skyrocketing-fuel-prices-spark-protests-around-the-globe/",
-      "source": "singtaousa.com",
-      "published": 1789527600
-    },
-    {
-      "id": "cd3303b599ab",
-      "title": "井柏然孫千偷偷牽手 複刻劇中甜蜜畫面",
-      "url": "https://www.singtaousa.com/2026/09/15/entertainment/jing-bo-ran-sun-qian-hand-holding/",
-      "source": "singtaousa.com",
-      "published": 1789527600
-    },
-    {
       "id": "73cbe5d81e6a",
       "title": "遏制人工智能威胁为时已晚",
       "url": "https://cn.nytimes.com/op-column/20260916/ai-china-us-tech-future/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1789526504
-    },
-    {
-      "id": "0e32512cd197",
-      "title": "吳啟華17歲愛女加拿大留學近照流出 網民激讚繼承父親星味與修長身型",
-      "url": "https://www.singtaousa.com/2026/09/15/entertainment/lawrence-ng-daughter-canada-study-photos/",
-      "source": "singtaousa.com",
-      "published": 1789525783
-    },
-    {
-      "id": "207284fb0f44",
-      "title": "鄧兆尊憶述父子奇遇　隨父訪艷星香閨一幕難忘",
-      "url": "https://www.singtaousa.com/2026/09/15/entertainment/deng-zhaozun-father-love-story/",
-      "source": "singtaousa.com",
-      "published": 1789524146
     },
     {
       "id": "26edb436da1c",
@@ -345,6 +401,13 @@
       "published": 1789507003
     },
     {
+      "id": "ac99b19e63db",
+      "title": "人工智能时代，中国人还需要学英语吗？",
+      "url": "https://cn.nytimes.com/china/20260916/china-english-language-education/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1789498801
+    },
+    {
       "id": "7fc5ac10d37e",
       "title": "中国收紧公民出境规定 今天生效",
       "url": "http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260915-%E4%B8%AD%E5%9B%BD%E6%94%B6%E7%B4%A7%E5%85%AC%E6%B0%91%E5%87%BA%E5%A2%83%E8%A7%84%E5%AE%9A-%E4%BB%8A%E5%A4%A9%E7%94%9F%E6%95%88",
@@ -413,6 +476,34 @@
       "url": "http://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260915-%E8%B4%B9%E5%8A%A0%E7%BD%97%E6%8A%A5-%E6%8E%A8%E5%8A%A8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%9B%BD%E9%99%85%E5%8C%96%E9%9B%84%E5%BF%83%E4%B8%8E%E8%B5%84%E6%9C%AC%E7%AE%A1%E6%8E%A7%E6%94%BF%E7%AD%96%E7%9B%B8%E4%BA%92%E7%9F%9B%E7%9B%BE",
       "source": "rfi.fr",
       "published": 1789488331
+    },
+    {
+      "id": "de6ddb02d03e",
+      "title": "上市九个月再赴港 摩尔线程为GPU竞赛加码融资",
+      "url": "https://www.ftchinese.com/story/001110901",
+      "source": "ftchinese.com",
+      "published": 1789488000
+    },
+    {
+      "id": "415480df1b9e",
+      "title": "香港发布首个五年规划",
+      "url": "https://www.ftchinese.com/story/001110904",
+      "source": "ftchinese.com",
+      "published": 1789488000
+    },
+    {
+      "id": "cd2384586134",
+      "title": "应对AI风险，美中是否有合作空间？",
+      "url": "https://www.ftchinese.com/story/001110900",
+      "source": "ftchinese.com",
+      "published": 1789488000
+    },
+    {
+      "id": "6a7bcde8c9ec",
+      "title": "美国检方称中国公司通过币安为伊朗石油交易洗钱",
+      "url": "https://www.ftchinese.com/story/001110899",
+      "source": "ftchinese.com",
+      "published": 1789488000
     },
     {
       "id": "303a85a55661",
@@ -513,13 +604,6 @@
       "published": 1789487647
     },
     {
-      "id": "e53841313575",
-      "title": "美日政府对冲绳县知事选举结果感到欣慰",
-      "url": "http://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260915-%E7%BE%8E%E6%97%A5%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%86%B2%E7%BB%B3%E5%8E%BF%E7%9F%A5%E4%BA%8B%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E6%84%9F%E5%88%B0%E6%AC%A3%E6%85%B0",
-      "source": "rfi.fr",
-      "published": 1789487209
-    },
-    {
       "id": "9c5676e94265",
       "title": "金正恩再重申支持俄罗斯对乌克兰“圣战”",
       "url": "http://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260915-%E9%87%91%E6%AD%A3%E6%81%A9%E5%86%8D%E9%87%8D%E7%94%B3%E6%94%AF%E6%8C%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0-%E5%9C%A3%E6%88%98",
@@ -539,27 +623,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cmvgyn5gywz1o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1789485786
-    },
-    {
-      "id": "21cd669cbe43",
-      "title": "华盛顿称在太空部署了武器  中国敦促美国“停止太空备战”",
-      "url": "http://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260915-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E7%A7%B0%E5%9C%A8%E5%A4%AA%E7%A9%BA%E9%83%A8%E7%BD%B2%E4%BA%86%E6%AD%A6%E5%99%A8-%E4%B8%AD%E5%9B%BD%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD-%E5%81%9C%E6%AD%A2%E5%A4%AA%E7%A9%BA%E5%A4%87%E6%88%98",
-      "source": "rfi.fr",
-      "published": 1789485770
-    },
-    {
-      "id": "e3714d82a24f",
-      "title": "美国施压：日本拟将国防开支提高至GDP3.5%",
-      "url": "http://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260915-%E7%BE%8E%E5%9B%BD%E6%96%BD%E5%8E%8B-%E6%97%A5%E6%9C%AC%E6%8B%9F%E5%B0%86%E5%9B%BD%E9%98%B2%E5%BC%80%E6%94%AF%E6%8F%90%E9%AB%98%E8%87%B3gdp3-5",
-      "source": "rfi.fr",
-      "published": 1789484509
-    },
-    {
-      "id": "6e6e2626576f",
-      "title": "英跨党派促首相助黄之锋获释 港府拟跟进Netflix免费发放黄之锋纪录片预告",
-      "url": "http://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260915-%E8%8B%B1%E8%B7%A8%E5%85%9A%E6%B4%BE%E4%BF%83%E9%A6%96%E7%9B%B8%E5%8A%A9%E9%BB%84%E4%B9%8B%E9%94%8B%E8%8E%B7%E9%87%8A-%E6%B8%AF%E5%BA%9C%E6%8B%9F%E8%B7%9F%E8%BF%9Bnetflix%E5%85%8D%E8%B4%B9%E5%8F%91%E6%94%BE%E9%BB%84%E4%B9%8B%E9%94%8B%E7%BA%AA%E5%BD%95%E7%89%87%E9%A2%84%E5%91%8A",
-      "source": "rfi.fr",
-      "published": 1789484053
     },
     {
       "id": "c76f4bf706dd",
@@ -625,13 +688,6 @@
       "published": 1789444060
     },
     {
-      "id": "339b1a877ce6",
-      "title": "Anthropic聯合創辦人籲強制設置AI「緊急關機」機制",
-      "url": "https://www.bbc.com/zhongwen/articles/cvzez8z9pzgeo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1789443259
-    },
-    {
       "id": "636300f3b487",
       "title": "“科技仙境”莫斯科：是数字乌托邦，也是监控陷阱",
       "url": "https://cn.nytimes.com/world/20260915/moscow-russia-putin-digital-surveillance/?utm_source=RSS",
@@ -658,13 +714,6 @@
       "url": "https://cn.nytimes.com/usa/20260915/trump-ai-regulation-anthropic-dario-amodei/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1789438083
-    },
-    {
-      "id": "940cccfc07c5",
-      "title": "喜馬拉雅山冰川融化加速，印度經濟面臨什麼風險？",
-      "url": "https://www.bbc.com/zhongwen/articles/c0qx5g04pnno/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1789431443
     },
     {
       "id": "811dfe645cd5",
@@ -733,34 +782,6 @@
       "id": "b52ff1f99a48",
       "title": "FT社评：是时候给尖端人工智能开发按下暂停键了",
       "url": "https://www.ftchinese.com/story/001110884",
-      "source": "ftchinese.com",
-      "published": 1789401600
-    },
-    {
-      "id": "3783e7d30730",
-      "title": "如何看待德国经济连续三季度微增？",
-      "url": "https://www.ftchinese.com/story/001110883",
-      "source": "ftchinese.com",
-      "published": 1789401600
-    },
-    {
-      "id": "1f0037c433dd",
-      "title": "胡塞武装会否迫使特朗普“止损”？",
-      "url": "https://www.ftchinese.com/story/001110881",
-      "source": "ftchinese.com",
-      "published": 1789401600
-    },
-    {
-      "id": "f69a0f183e0e",
-      "title": "时隔仅一年印尼财长再度换人",
-      "url": "https://www.ftchinese.com/story/001110880",
-      "source": "ftchinese.com",
-      "published": 1789401600
-    },
-    {
-      "id": "7e9aac97d740",
-      "title": "长期利率为何不愿下跌？",
-      "url": "https://www.ftchinese.com/story/001110851",
       "source": "ftchinese.com",
       "published": 1789401600
     },
@@ -1010,13 +1031,6 @@
       "published": 1789074703
     },
     {
-      "id": "889c78501e3e",
-      "title": "副总统万斯向军方官员寻求伊朗战争真实评估",
-      "url": "https://cn.nytimes.com/usa/20260911/vance-iran-war-trump-munitions/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1789061343
-    },
-    {
       "id": "10731c0b8e23",
       "title": "“提到航天、5G就危险了” 德国收紧对华签证审批？",
       "url": "https://www.dw.com/zh/提到航天、5g就危险了-德国收紧对华签证审批？/a-79213046?maca=chi-rss-chi-all-1127-rdf",
@@ -1192,13 +1206,6 @@
       "published": 1788515520
     },
     {
-      "id": "aac41389ff3f",
-      "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1788395083
-    },
-    {
       "id": "f13731fb9ff7",
       "title": "尼泊尔洪灾能否更早预警？中尼资讯共享是否到位？",
       "url": "https://www.dw.com/zh/尼泊尔洪灾能否更早预警？中尼资讯共享是否到位？/a-78573140?maca=chi-rss-chi-all-1127-rdf",
@@ -1297,5 +1304,5 @@
       "published": 1787047980
     }
   ],
-  "build_id": 1789536318
+  "build_id": 1789553197
 }
