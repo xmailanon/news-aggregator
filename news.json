@@ -1,40 +1,201 @@
 {
-  "updated": 1789667291,
+  "updated": 1789677621,
   "items": [
     {
+      "id": "2dac95bddd28",
+      "title": "俄國會選舉 普京面臨戰時考驗",
+      "url": "https://www.singtaousa.com/2026/09/17/news/world/putin-braces-for-election-stress-test-as-russians-feel-the-pain-of-struggling-economy/",
+      "source": "singtaousa.com",
+      "published": 1789677080
+    },
+    {
+      "id": "a12718b45ceb",
+      "title": "HYROX北京站澳洲女將失禁奪冠後致歉 宣布追溯退賽並放棄積分",
+      "url": "https://www.singtaousa.com/2026/09/17/news/china/australian-athlete-apologizes-forfeits-gold/",
+      "source": "singtaousa.com",
+      "published": 1789676553
+    },
+    {
+      "id": "a3edb5aec597",
+      "title": "投資人緊盯中東供應狀況　國際油價續跌",
+      "url": "https://money.udn.com/money/story/5599/9762092",
+      "source": "money.udn.com",
+      "published": 1789676486
+    },
+    {
+      "id": "8d4a4415da9b",
+      "title": "傳北京應沙特要求 施壓伊朗約束胡塞",
+      "url": "https://www.singtaousa.com/2026/09/17/news/world/beijing-pushes-tehran-to-help-stop-houthi-attacks-following-appeal-from-saudis-iranian-sources-say/",
+      "source": "singtaousa.com",
+      "published": 1789676365
+    },
+    {
+      "id": "1ec9a8f194c2",
+      "title": "英王警告錯用AI恐有存亡危機　黃仁勳籲業界負責樂觀",
+      "url": "https://money.udn.com/money/story/5599/9762090",
+      "source": "money.udn.com",
+      "published": 1789675955
+    },
+    {
+      "id": "ddb8b6e795c1",
+      "title": "油價再飆升　航空公司削減廉價航班",
+      "url": "https://www.singtaousa.com/2026/09/17/news/usa/oil-prices-soar-again-airlines-cut-cheap-flights/",
+      "source": "singtaousa.com",
+      "published": 1789675200
+    },
+    {
+      "id": "008cef228ab5",
+      "title": "率逾600粉絲遊中山 譚輝智獲大陣仗慶生",
+      "url": "https://www.singtaousa.com/2026/09/17/entertainment/fan-celebrates-birthday-in-zhongshan/",
+      "source": "singtaousa.com",
+      "published": 1789675200
+    },
+    {
+      "id": "473284ffe042",
+      "title": "意大利擬單獨軍事護航紅海商船",
+      "url": "https://www.singtaousa.com/2026/09/17/news/world/italy-wont-wait-for-eu-to-ensure-its-ships-can-get-through/",
+      "source": "singtaousa.com",
+      "published": 1789675079
+    },
+    {
+      "id": "23f6c64c2886",
+      "title": "2026國家網絡安全宣傳周香港分論壇圓滿舉行 聚焦AI與跨境數據安全",
+      "url": "https://www.singtaousa.com/2026/09/17/news/china/cybersecurity-forum-hong-kong-digital-economy/",
+      "source": "singtaousa.com",
+      "published": 1789674756
+    },
+    {
+      "id": "67bc0004241d",
+      "title": "加拿大歡迎歐盟「準成員國」提議",
+      "url": "https://www.singtaousa.com/2026/09/17/news/world/canada-welcomes-eu-proposal-to-become-associate-member/",
+      "source": "singtaousa.com",
+      "published": 1789674743
+    },
+    {
+      "id": "6d96b2aa26f0",
+      "title": "川普：在波蘭設常駐美軍基地有進展",
+      "url": "https://money.udn.com/money/story/5599/9762085",
+      "source": "money.udn.com",
+      "published": 1789674332
+    },
+    {
+      "id": "bea622b92752",
+      "title": "白宮撤回特朗普對ICE局長提名",
+      "url": "https://www.singtaousa.com/2026/09/17/news/usa/news-white-house-withdraws-trump-ice-nominee/",
+      "source": "singtaousa.com",
+      "published": 1789674173
+    },
+    {
+      "id": "61ac3add3183",
+      "title": "歐盟執委10月赴北京會中國商務部長　拚化解貿易緊張",
+      "url": "https://money.udn.com/money/story/5599/9762083",
+      "source": "money.udn.com",
+      "published": 1789673790
+    },
+    {
+      "id": "066712090291",
+      "title": "Chipotle聯手Palantir監控食安風險",
+      "url": "https://www.singtaousa.com/2026/09/17/news/usa/chipotle-enlists-palantir-on-food-safety-risks-after-salmonella-outbreak/",
+      "source": "singtaousa.com",
+      "published": 1789673783
+    },
+    {
+      "id": "a20abdf6ad9f",
+      "title": "$2.99的Trader Joe’s小袋子又回來了！去年竟被炒到上千美元，今年你搶得到嗎？",
+      "url": "https://www.singtaousa.com/2026/09/17/lifestyle/trader-joe-3-halloween-mini/",
+      "source": "singtaousa.com",
+      "published": 1789673150
+    },
+    {
+      "id": "d1000fee5741",
+      "title": "山東10歲男童疑遭體罰後溺亡 涉事班主任被刑事拘留",
+      "url": "https://www.singtaousa.com/2026/09/17/news/china/shandong-boy-teacher-abuse-suicide/",
+      "source": "singtaousa.com",
+      "published": 1789672952
+    },
+    {
+      "id": "9c6a3079996b",
+      "title": "澳大利亚收紧学生签证和背包客签证发放条件以遏制移民潮",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260917-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%94%B6%E7%B4%A7%E5%AD%A6%E7%94%9F%E7%AD%BE%E8%AF%81%E5%92%8C%E8%83%8C%E5%8C%85%E5%AE%A2%E7%AD%BE%E8%AF%81%E5%8F%91%E6%94%BE%E6%9D%A1%E4%BB%B6%E4%BB%A5%E9%81%8F%E5%88%B6%E7%A7%BB%E6%B0%91%E6%BD%AE",
+      "source": "rfi.fr",
+      "published": 1789667975
+    },
+    {
+      "id": "c3d2b336beaf",
+      "title": "美關稅大刀 砍向俄國夥伴 進口俄能源前五大國恐吞最高100%稅率",
+      "url": "https://money.udn.com/money/story/5599/9761816",
+      "source": "money.udn.com",
+      "published": 1789667781
+    },
+    {
+      "id": "e7a4d02e51e9",
+      "title": "英國利率不動 巴西連五降",
+      "url": "https://money.udn.com/money/story/5599/9761820",
+      "source": "money.udn.com",
+      "published": 1789667741
+    },
+    {
+      "id": "d1ea800ec611",
+      "title": "日內閣改組 財金閣員全留任 匯率政策有望延續",
+      "url": "https://money.udn.com/money/story/5599/9761823",
+      "source": "money.udn.com",
+      "published": 1789667725
+    },
+    {
+      "id": "27b5a27f75ed",
+      "title": "官員：習近平下週訪美　川普將罕見親自接機",
+      "url": "https://money.udn.com/money/story/5599/9762045",
+      "source": "money.udn.com",
+      "published": 1789667694
+    },
+    {
+      "id": "1ab61b9c0936",
+      "title": "印度莫迪招商 美企捧場 應材、科林研發等承諾投資數十億美元",
+      "url": "https://money.udn.com/money/story/5599/9761808",
+      "source": "money.udn.com",
+      "published": 1789667676
+    },
+    {
+      "id": "0e96189f825e",
+      "title": "安世半導體切割聞泰科技　攜手印度塔塔電子生產晶片",
+      "url": "https://money.udn.com/money/story/5599/9762044",
+      "source": "money.udn.com",
+      "published": 1789667674
+    },
+    {
+      "id": "ea2c2995a471",
+      "title": "OpenAI：定期發布異常報告 將推出新機制監控「目標不對齊」風險",
+      "url": "https://money.udn.com/money/story/5599/9761810",
+      "source": "money.udn.com",
+      "published": 1789667593
+    },
+    {
+      "id": "f38bb9e1562e",
+      "title": "輝達明年晶片銷售將翻倍",
+      "url": "https://money.udn.com/money/story/123398/9761813",
+      "source": "money.udn.com",
+      "published": 1789667438
+    },
+    {
+      "id": "7dfaf58cfbe8",
+      "title": "歐盟要禁13歲以下使用社媒",
+      "url": "https://money.udn.com/money/story/5599/9761817",
+      "source": "money.udn.com",
+      "published": 1789667410
+    },
+    {
+      "id": "311782459589",
+      "title": "1分鐘看世界／澳洲公布減少移民計畫 加強取締簽證過期者",
+      "url": "https://money.udn.com/money/story/5599/9761825",
+      "source": "money.udn.com",
+      "published": 1789667386
+    },
+    {
       "id": "79a3a70aa9dd",
-      "title": "華許展現鷹式立場 Fed 升息1碼 同時釋出五大鷹派訊號",
+      "title": "華許展現鷹式立場 Fed 升息1碼 並預期年底前再升1碼",
       "url": "https://money.udn.com/money/story/5599/9761883",
       "source": "money.udn.com",
       "published": 1789666349
-    },
-    {
-      "id": "10ba587a4506",
-      "title": "上任不足三月 特朗普撤回ICE局長提名",
-      "url": "https://www.singtaousa.com/2026/09/17/news/usa/ice-director-lance-schroyer-trump-mullin/",
-      "source": "singtaousa.com",
-      "published": 1789666309
-    },
-    {
-      "id": "bff811f86b4f",
-      "title": "《告別的年代》多倫多首映獲讚 邱士縉宋芸樺國際影展初體驗",
-      "url": "https://www.singtaousa.com/2026/09/17/entertainment/the-age-of-goodbyes-tiff-debut/",
-      "source": "singtaousa.com",
-      "published": 1789666216
-    },
-    {
-      "id": "91c6fdd50d9e",
-      "title": "太嚇人了！波音737緊急降落「瘋狂搖晃」，下一秒機艙內竟發生這一幕……| 有影片",
-      "url": "https://www.singtaousa.com/2026/09/17/news/world/boeing-737-loses-tire-takeoff-cabin-ceiling-collapses-dramaitc-video/",
-      "source": "singtaousa.com",
-      "published": 1789665687
-    },
-    {
-      "id": "284a44109280",
-      "title": "特習會/特朗普將破例赴機場親迎習近平",
-      "url": "https://www.singtaousa.com/2026/09/17/news/world/news-trump-xi-airport-welcome-washington-state-visit/",
-      "source": "singtaousa.com",
-      "published": 1789665455
     },
     {
       "id": "a5c34e83084c",
@@ -72,53 +233,11 @@
       "published": 1789664533
     },
     {
-      "id": "4e5cae43d8fb",
-      "title": "陳法拉再執導短片 自嘲變「阿四」",
-      "url": "https://www.singtaousa.com/2026/09/17/entertainment/chan-fa-la-directs-short-film/",
-      "source": "singtaousa.com",
-      "published": 1789664400
-    },
-    {
       "id": "454a44215616",
       "title": "日銀決策面臨考驗 日圓走勢 今天見真章",
       "url": "https://money.udn.com/money/story/5599/9761882",
       "source": "money.udn.com",
       "published": 1789664390
-    },
-    {
-      "id": "097281af3739",
-      "title": "朱一龍廣東話演悍匪 《空槍》下週抵港與觀眾零距離交流",
-      "url": "https://www.singtaousa.com/2026/09/17/entertainment/zhu-yilong-michelle-wai-heist-film/",
-      "source": "singtaousa.com",
-      "published": 1789664286
-    },
-    {
-      "id": "7825461daf9c",
-      "title": "聯準會如預期升息且油價下跌　歐股收高",
-      "url": "https://money.udn.com/money/story/5599/9762019",
-      "source": "money.udn.com",
-      "published": 1789663705
-    },
-    {
-      "id": "768312e736f7",
-      "title": "一根USB數據線就能偷走汽車？研究警告：這些車未來25年仍是竊賊目標！",
-      "url": "https://www.singtaousa.com/2026/09/17/news/usa/kia-boy-thefts-could-persist-through-2050-study-warns/",
-      "source": "singtaousa.com",
-      "published": 1789663177
-    },
-    {
-      "id": "e47b17b5af07",
-      "title": "古仔籲傳承香港電影精神",
-      "url": "https://www.singtaousa.com/2026/09/17/entertainment/gu-tian-le-heritage-hong-kong-film/",
-      "source": "singtaousa.com",
-      "published": 1789660800
-    },
-    {
-      "id": "821f438f90d7",
-      "title": "美國各州小費習慣調查出爐 加州敬陪末座成最吝嗇州份",
-      "url": "https://www.singtaousa.com/2026/09/17/news/usa/californians-are-the-worst-tippers-in-america-ranking-dead-last-in-a-national-survey/",
-      "source": "singtaousa.com",
-      "published": 1789660800
     },
     {
       "id": "586a6545d4eb",
@@ -128,25 +247,11 @@
       "published": 1789659648
     },
     {
-      "id": "1b75d2f9ce18",
-      "title": "路透：中國受沙烏地所託　私下請伊朗約束葉門叛軍",
-      "url": "https://money.udn.com/money/story/5599/9761916",
-      "source": "money.udn.com",
-      "published": 1789659030
-    },
-    {
-      "id": "d368f2ebdb45",
-      "title": "焦浩軒親密片引熱話 與前港姐余詠童互動「過界」被指疑似公開戀情",
-      "url": "https://www.singtaousa.com/2026/09/17/entertainment/vincent-chiu-dating-rumours-video/",
-      "source": "singtaousa.com",
-      "published": 1789658961
-    },
-    {
-      "id": "102af4600ed6",
-      "title": "Fed已「鷹」到頂 日後會愈來愈「鴿」？華爾街大多頭：3理由看漲美股",
-      "url": "https://money.udn.com/money/story/123398/9761804",
-      "source": "money.udn.com",
-      "published": 1789657303
+      "id": "ce25f3a2fd84",
+      "title": "从领土争议、二战历史到远东军演，日俄关系如何搅动东北亚局势",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%8D%B0%E5%A4%AA%E7%BA%B5%E8%A7%88/20260917-%E4%BB%8E%E9%A2%86%E5%9C%9F%E4%BA%89%E8%AE%AE-%E4%BA%8C%E6%88%98%E5%8E%86%E5%8F%B2%E5%88%B0%E8%BF%9C%E4%B8%9C%E5%86%9B%E6%BC%94%EF%BC%8C%E6%97%A5%E4%BF%84%E5%85%B3%E7%B3%BB%E5%A6%82%E4%BD%95%E6%90%85%E5%8A%A8%E4%B8%9C%E5%8C%97%E4%BA%9A%E5%B1%80%E5%8A%BF",
+      "source": "rfi.fr",
+      "published": 1789658400
     },
     {
       "id": "7a029a873ed3",
@@ -156,20 +261,6 @@
       "published": 1789657284
     },
     {
-      "id": "44049e9060a9",
-      "title": "苟芸慧祝福舊愛羅天宇新戀情",
-      "url": "https://www.singtaousa.com/2026/09/17/entertainment/gou-yun-hui-blesses-ro-tian-yu/",
-      "source": "singtaousa.com",
-      "published": 1789657200
-    },
-    {
-      "id": "74e7b78c47b6",
-      "title": "蕭景鴻（阿弟）入行24年圓夢：從Energy到個人專輯的堅持之路",
-      "url": "https://www.singtaousa.com/2026/09/17/entertainment/hsiao-ching-hung-24-year-music-dream/",
-      "source": "singtaousa.com",
-      "published": 1789657078
-    },
-    {
       "id": "b1bf9ca73e20",
       "title": "欧加靠拢引特朗普嘲讽威胁 欧盟安抚强调“不针对第三方”",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260917-%E6%AC%A7%E5%8A%A0%E9%9D%A0%E6%8B%A2%E5%BC%95%E7%89%B9%E6%9C%97%E6%99%AE%E5%98%B2%E8%AE%BD%E5%A8%81%E8%83%81-%E6%AC%A7%E7%9B%9F%E5%AE%89%E6%8A%9A%E5%BC%BA%E8%B0%83-%E4%B8%8D%E9%92%88%E5%AF%B9%E7%AC%AC%E4%B8%89%E6%96%B9",
@@ -177,39 +268,11 @@
       "published": 1789657063
     },
     {
-      "id": "e5598e8413d6",
-      "title": "克宮回應美國制裁法案：將使俄烏和平協議更難達成",
-      "url": "https://money.udn.com/money/story/5599/9761784",
-      "source": "money.udn.com",
-      "published": 1789656612
-    },
-    {
-      "id": "e416286929fe",
-      "title": "美官員證實：習近平下周訪美川普將親自接機",
-      "url": "https://money.udn.com/money/story/5599/9761773",
-      "source": "money.udn.com",
-      "published": 1789656026
-    },
-    {
-      "id": "0aafbc91c2a3",
-      "title": "韓國海警加強打擊非法捕撈　查扣兩艘中方漁船",
-      "url": "https://money.udn.com/money/story/5599/9761770",
-      "source": "money.udn.com",
-      "published": 1789655805
-    },
-    {
-      "id": "531a62eea678",
-      "title": "美股向全天候交易跨一大步 SEC放行代幣化股票",
-      "url": "https://money.udn.com/money/story/123398/9761754",
-      "source": "money.udn.com",
-      "published": 1789654920
-    },
-    {
-      "id": "b34a15b397cc",
-      "title": "歐洲議會通過應對混合戰決議　強調借鏡台灣定期交流",
-      "url": "https://money.udn.com/money/story/5599/9761753",
-      "source": "money.udn.com",
-      "published": 1789654889
+      "id": "bb0305a999d3",
+      "title": "纽伦堡文革60周年研讨会对文革的反思",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE/20260917-%E7%BA%BD%E4%BC%A6%E5%A0%A1%E6%96%87%E9%9D%A960%E5%91%A8%E5%B9%B4%E7%A0%94%E8%AE%A8%E4%BC%9A%E5%AF%B9%E6%96%87%E9%9D%A9%E7%9A%84%E5%8F%8D%E6%80%9D",
+      "source": "rfi.fr",
+      "published": 1789655488
     },
     {
       "id": "9597012278a0",
@@ -224,48 +287,6 @@
       "url": "https://www.dw.com/zh/德语媒体：欧盟必须出台强硬的对华政策/a-79312703?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1789654380
-    },
-    {
-      "id": "6e6368d9c6f5",
-      "title": "華許利率政策立場究竟為何？Fed主席3場記者會發言拼湊出清晰輪廓",
-      "url": "https://money.udn.com/money/story/5599/9761741",
-      "source": "money.udn.com",
-      "published": 1789654284
-    },
-    {
-      "id": "4b08a092f17b",
-      "title": "國際油價回落提振市場情緒　美股開盤勁揚",
-      "url": "https://money.udn.com/money/story/123398/9761733",
-      "source": "money.udn.com",
-      "published": 1789654079
-    },
-    {
-      "id": "03060837a5ff",
-      "title": "美股早盤／油價跌 Fed 升息隔天股債齊揚 費半噴逾3％",
-      "url": "https://money.udn.com/money/story/123398/9761723",
-      "source": "money.udn.com",
-      "published": 1789653832
-    },
-    {
-      "id": "f9ab35b648e1",
-      "title": "歐元區8月通膨率下修至3.2%　食品飲料價格漲勢放緩",
-      "url": "https://money.udn.com/money/story/5599/9761711",
-      "source": "money.udn.com",
-      "published": 1789653641
-    },
-    {
-      "id": "551741264e49",
-      "title": "加拿大擬成為準會員　歐洲官員：歐盟吸引力前所未見",
-      "url": "https://money.udn.com/money/story/5599/9761706",
-      "source": "money.udn.com",
-      "published": 1789653355
-    },
-    {
-      "id": "414467e09ae3",
-      "title": "聯合國調查報告：美國疑在伊朗無差別攻擊平民　涉犯戰爭罪",
-      "url": "https://money.udn.com/money/story/5599/9761701",
-      "source": "money.udn.com",
-      "published": 1789653285
     },
     {
       "id": "320855485ab9",
@@ -604,13 +625,6 @@
       "published": 1789570623
     },
     {
-      "id": "eee75f46e4bf",
-      "title": "FT：中国力主釜山协议延至特朗普任满 美国因稀土问题坚持只延6个月",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260916-ft-%E4%B8%AD%E5%9B%BD%E5%8A%9B%E4%B8%BB%E9%87%9C%E5%B1%B1%E5%8D%8F%E8%AE%AE%E5%BB%B6%E8%87%B3%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%BB%E6%BB%A1-%E7%BE%8E%E5%9B%BD%E5%9B%A0%E7%A8%80%E5%9C%9F%E9%97%AE%E9%A2%98%E5%9D%9A%E6%8C%81%E5%8F%AA%E5%BB%B66%E4%B8%AA%E6%9C%88",
-      "source": "rfi.fr",
-      "published": 1789570087
-    },
-    {
       "id": "9a0b87521a20",
       "title": "區錦新案：澳門首宗國安案閉門開審，我們知道多少？",
       "url": "https://www.bbc.com/zhongwen/articles/c6jrxzq3777wo/trad?at_medium=RSS&at_campaign=rss",
@@ -651,20 +665,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cm207gqz55r0o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1789565804
-    },
-    {
-      "id": "1e3c4137d622",
-      "title": "2万港元奖励生育失败 香港加码续鼓励生育 惟仍较新加坡逊色",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260916-2%E4%B8%87%E6%B8%AF%E5%85%83%E5%A5%96%E5%8A%B1%E7%94%9F%E8%82%B2%E5%A4%B1%E8%B4%A5-%E9%A6%99%E6%B8%AF%E5%8A%A0%E7%A0%81%E7%BB%AD%E9%BC%93%E5%8A%B1%E7%94%9F%E8%82%B2-%E6%83%9F%E4%BB%8D%E8%BE%83%E6%96%B0%E5%8A%A0%E5%9D%A1%E9%80%8A%E8%89%B2",
-      "source": "rfi.fr",
-      "published": 1789564831
-    },
-    {
-      "id": "0aac1f55b2d9",
-      "title": "平陆运河与六蓝水库溃坝有关？",
-      "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20260916-%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E4%B8%8E%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E6%BA%83%E5%9D%9D%E6%9C%89%E5%85%B3",
-      "source": "rfi.fr",
-      "published": 1789563339
     },
     {
       "id": "c88fadf6bde0",
@@ -1311,5 +1311,5 @@
       "published": 1787214960
     }
   ],
-  "build_id": 1789667291
+  "build_id": 1789677621
 }
