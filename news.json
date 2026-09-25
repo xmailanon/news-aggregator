@@ -1,68 +1,194 @@
 {
-  "updated": 1790370629,
+  "updated": 1790380738,
   "items": [
+    {
+      "id": "f6bb951640d8",
+      "title": "「閃身步」舞蹈風靡網絡 醫生提醒模仿不當或傷膝",
+      "url": "https://www.singtaousa.com/2026/09/25/news/china/flash-step-viral-dance-knee-injury/",
+      "source": "singtaousa.com",
+      "published": 1790380353
+    },
+    {
+      "id": "eaec14f4f061",
+      "title": "即興到公園演出 Justin向露宿者派禮物",
+      "url": "https://www.singtaousa.com/2026/09/25/entertainment/justin-bieber-improvised-performance/",
+      "source": "singtaousa.com",
+      "published": 1790377200
+    },
+    {
+      "id": "aeefd526efe6",
+      "title": "超加工食品真的不能多吃？880萬人研究揭驚人數據：每天多100克，心血管風險增14%",
+      "url": "https://www.singtaousa.com/2026/09/25/lifestyle/health/one-daily-serving-ultra-processed-food-linked-higher-disease-risk/",
+      "source": "singtaousa.com",
+      "published": 1790377195
+    },
+    {
+      "id": "5e150c47ae89",
+      "title": "颶風波羅恐將帶來南加州更多沿海洪災",
+      "url": "https://www.singtaousa.com/2026/09/25/news/usa/news-mexico-could-mean-continued-beating-for-socal-coast/",
+      "source": "singtaousa.com",
+      "published": 1790375978
+    },
+    {
+      "id": "03042f8feaa0",
+      "title": "太平洋法屬島嶼新喀里多尼亞島遭規模7強震侵襲",
+      "url": "https://money.udn.com/money/story/5599/9778305",
+      "source": "money.udn.com",
+      "published": 1790375784
+    },
+    {
+      "id": "a573b0342f67",
+      "title": "州府與聯邦經費卡關 洛杉磯奧運運輸計畫面臨嚴峻考驗",
+      "url": "https://www.singtaousa.com/2026/09/25/news/usa/news-trumps-la-transit-buses-for-olympics/",
+      "source": "singtaousa.com",
+      "published": 1790375779
+    },
+    {
+      "id": "37ba821acfc7",
+      "title": "习近平访美：中美双方在努力向世界展示什么？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260925-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E-%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%90%91%E4%B8%96%E7%95%8C%E5%B1%95%E7%A4%BA%E4%BB%80%E4%B9%88",
+      "source": "rfi.fr",
+      "published": 1790374763
+    },
+    {
+      "id": "8d7ab27c7bf4",
+      "title": "參訪美國家檔案館 川普與習近平聊這些",
+      "url": "https://money.udn.com/money/story/5599/9778302",
+      "source": "money.udn.com",
+      "published": 1790374444
+    },
+    {
+      "id": "488247f14ee1",
+      "title": "市場衡量美伊談判進展　油價跌",
+      "url": "https://money.udn.com/money/story/5599/9778300",
+      "source": "money.udn.com",
+      "published": 1790374347
+    },
+    {
+      "id": "ca4027f07826",
+      "title": "教皇何以一路点燃法国人的热情",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E6%95%99%E7%9A%87%E4%BD%95%E4%BB%A5%E4%B8%80%E8%B7%AF%E7%82%B9%E7%87%83%E6%B3%95%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%83%AD%E6%83%85",
+      "source": "rfi.fr",
+      "published": 1790373631
+    },
+    {
+      "id": "88e8501a50ef",
+      "title": "市場盼美伊達成協議重啟荷莫茲海峽 美股反彈",
+      "url": "https://money.udn.com/money/story/123398/9778288",
+      "source": "money.udn.com",
+      "published": 1790373626
+    },
+    {
+      "id": "feaa0acf9e5c",
+      "title": "目黑蓮方燦型爆睇騷 山下智久Momo鬥搶鏡",
+      "url": "https://www.singtaousa.com/2026/09/25/entertainment/meguro-ren-fang-can-fashion-show/",
+      "source": "singtaousa.com",
+      "published": 1790373600
+    },
+    {
+      "id": "e3ffef4bd7b7",
+      "title": "東北風暴襲美東！紐約拉瓜迪亞機場600航班延誤",
+      "url": "https://www.singtaousa.com/2026/09/25/news/usa/rare-september-noreaster-airline-travel-advisories/",
+      "source": "singtaousa.com",
+      "published": 1790373367
+    },
+    {
+      "id": "cd1408f81199",
+      "title": "特习会 特朗普要求中方停止支持伊朗",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E7%89%B9%E4%B9%A0%E4%BC%9A-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%AD%E6%96%B9%E5%81%9C%E6%AD%A2%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97",
+      "source": "rfi.fr",
+      "published": 1790373019
+    },
+    {
+      "id": "3bb3c7dcc7cb",
+      "title": "特朗普盛大接待习近平引国会两党质疑",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%9B%E5%A4%A7%E6%8E%A5%E5%BE%85%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%95%E5%9B%BD%E4%BC%9A%E4%B8%A4%E5%85%9A%E8%B4%A8%E7%96%91",
+      "source": "rfi.fr",
+      "published": 1790372897
+    },
+    {
+      "id": "f69702fc15ca",
+      "title": "巴西總統盧拉指控美國干預選舉",
+      "url": "https://www.singtaousa.com/2026/09/25/news/world/lula-seeks-probe-into-possible-us-election-interference/",
+      "source": "singtaousa.com",
+      "published": 1790372864
+    },
+    {
+      "id": "48ad68513e8d",
+      "title": "《金融时报》：欧盟促英国提高中国汽车关税 争取“欧洲制造”待遇",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%AC%A7%E7%9B%9F%E4%BF%83%E8%8B%B1%E5%9B%BD%E6%8F%90%E9%AB%98%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%85%B3%E7%A8%8E-%E4%BA%89%E5%8F%96-%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0-%E5%BE%85%E9%81%87",
+      "source": "rfi.fr",
+      "published": 1790372690
+    },
+    {
+      "id": "83f283e71dcd",
+      "title": "美国将落实对乌克兰军援拨款 首批装备已开始交付",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%90%BD%E5%AE%9E%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%9B%E6%8F%B4%E6%8B%A8%E6%AC%BE-%E9%A6%96%E6%89%B9%E8%A3%85%E5%A4%87%E5%B7%B2%E5%BC%80%E5%A7%8B%E4%BA%A4%E4%BB%98",
+      "source": "rfi.fr",
+      "published": 1790372452
+    },
+    {
+      "id": "c0e5d29e41f9",
+      "title": "普京称俄罗斯无意与欧洲开战 将“慎重考虑”恢复俄乌和谈",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E7%BD%97%E6%96%AF%E6%97%A0%E6%84%8F%E4%B8%8E%E6%AC%A7%E6%B4%B2%E5%BC%80%E6%88%98-%E5%B0%86-%E6%85%8E%E9%87%8D%E8%80%83%E8%99%91-%E6%81%A2%E5%A4%8D%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88",
+      "source": "rfi.fr",
+      "published": 1790372304
+    },
+    {
+      "id": "540a53c5833b",
+      "title": "Flock車牌鏡頭被偷後遭破解！160萬張影像、5萬輛車資料被挖出",
+      "url": "https://www.singtaousa.com/2026/09/25/news/usa/hackers-stolen-flock-camera/",
+      "source": "singtaousa.com",
+      "published": 1790372241
+    },
+    {
+      "id": "fecfd32ed7cc",
+      "title": "罗马教皇良十四世访法第一天：“马拉松式”的行程",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260925-%E7%BD%97%E9%A9%AC%E6%95%99%E7%9A%87%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E8%AE%BF%E6%B3%95%E7%AC%AC%E4%B8%80%E5%A4%A9-%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BC%8F-%E7%9A%84%E8%A1%8C%E7%A8%8B",
+      "source": "rfi.fr",
+      "published": 1790372126
+    },
+    {
+      "id": "9181935aec84",
+      "title": "习近平访美：彭丽媛以文化交流展现中国软实力",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E-%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%BB%A5%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E5%B1%95%E7%8E%B0%E4%B8%AD%E5%9B%BD%E8%BD%AF%E5%AE%9E%E5%8A%9B",
+      "source": "rfi.fr",
+      "published": 1790371450
+    },
+    {
+      "id": "f8038beac014",
+      "title": "葵涌大連排道食水管爆裂 黃泥水淹路面致交通受阻",
+      "url": "https://www.singtaousa.com/2026/09/25/news/china/kwai-chung-water-main-burst-road-flooded/",
+      "source": "singtaousa.com",
+      "published": 1790371353
+    },
+    {
+      "id": "1d461e3c303b",
+      "title": "习近平结束访美 美中领导人拟于11月和12月再次会晤",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E8%AE%BF%E7%BE%8E-%E7%BE%8E%E4%B8%AD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8B%9F%E4%BA%8E11%E6%9C%88%E5%92%8C12%E6%9C%88%E5%86%8D%E6%AC%A1%E4%BC%9A%E6%99%A4",
+      "source": "rfi.fr",
+      "published": 1790371253
+    },
+    {
+      "id": "044eeb15206a",
+      "title": "俄羅斯指控烏襲擊 普京稱和談破局",
+      "url": "https://www.singtaousa.com/2026/09/25/news/world/putin-accuses-kyiv-of-striking-polling-stations-we-were-ready-to-resume-negotiations/",
+      "source": "singtaousa.com",
+      "published": 1790371037
+    },
+    {
+      "id": "3c0cf4d76e3f",
+      "title": "普丁：俄羅斯未準備與歐洲發生任何形式的衝突",
+      "url": "https://money.udn.com/money/story/5599/9778274",
+      "source": "money.udn.com",
+      "published": 1790370749
+    },
     {
       "id": "2477f97a4894",
       "title": "最高法院批准特朗普政府擴大選民數據庫",
       "url": "https://www.singtaousa.com/2026/09/25/news/usa/supreme-court-allows-trump-administration-to-use-expanded-database-for-potential-voter-purges/",
       "source": "singtaousa.com",
       "published": 1790370379
-    },
-    {
-      "id": "a6a36fd373ed",
-      "title": "藤井流星與小瀧望退團不足1個月 WEST.宣布月底解散",
-      "url": "https://www.singtaousa.com/2026/09/25/entertainment/fujii-ryusei-kotaki-nozomu-disband/",
-      "source": "singtaousa.com",
-      "published": 1790370000
-    },
-    {
-      "id": "5d13e8965859",
-      "title": "九旬翁本地感染大鼠戊型肝炎 何文田廣場食肆現鼠跡遭食環署檢控",
-      "url": "https://www.singtaousa.com/2026/09/25/news/china/rat-hepatitis-e-local-infection-restaurant-rodent-traces/",
-      "source": "singtaousa.com",
-      "published": 1790369553
-    },
-    {
-      "id": "d3d485a26092",
-      "title": "紐約會談 特朗普促澤連斯基赴俄遭拒",
-      "url": "https://www.singtaousa.com/2026/09/25/news/world/trump-asked-zelenskyy-to-travel-to-moscow-for-meeting-with-putin-but-he-refused-bloomberg-says/",
-      "source": "singtaousa.com",
-      "published": 1790369505
-    },
-    {
-      "id": "7fdee5a52699",
-      "title": "習近平訪美不只談政治！保溫瓶、黑手套、白宮工地遊，5大趣聞盤點",
-      "url": "https://www.singtaousa.com/2026/09/25/news/usa/five-unexpected-moments-from-trump-xi-china-state-visit/",
-      "source": "singtaousa.com",
-      "published": 1790368621
-    },
-    {
-      "id": "3e62e8fa27dd",
-      "title": "強烈東北風暴席捲美東沿岸！ 恐爆發嚴重洪水與大停電",
-      "url": "https://www.singtaousa.com/2026/09/25/news/usa/strong-noreaster-storm-sweeps-across-u-s-east-coast-severe-floods-and-power-outages-feared/",
-      "source": "singtaousa.com",
-      "published": 1790368200
-    },
-    {
-      "id": "f99fba894456",
-      "title": "中美貿易談判取得進展 非敏感商品協議細節將於下周公布",
-      "url": "https://www.singtaousa.com/2026/09/25/news/china/us-china-trade-talks-progress-non-sensitive-goods/",
-      "source": "singtaousa.com",
-      "published": 1790367753
-    },
-    {
-      "id": "67672cb7185e",
-      "title": "史高西斯迪尼路 獲法國榮譽軍團勳章",
-      "url": "https://www.singtaousa.com/2026/09/25/entertainment/scorsese-de-niro-honor/",
-      "source": "singtaousa.com",
-      "published": 1790366400
-    },
-    {
-      "id": "dd210447507d",
-      "title": "文體旅局常秘沈鳳君名古屋亞運續為港隊打氣 見證花劍男團奪銀",
-      "url": "https://www.singtaousa.com/2026/09/25/news/china/shen-fengjun-supports-hong-kong-athletes/",
-      "source": "singtaousa.com",
-      "published": 1790365966
     },
     {
       "id": "eab9e6dcb58b",
@@ -72,32 +198,11 @@
       "published": 1790365531
     },
     {
-      "id": "fcdecf53763a",
-      "title": "珠海2026年經典老字號餐廳全攻略：品味地道粵菜與時令海鮮",
-      "url": "https://www.singtaousa.com/2026/09/25/news/china/zhuhai-classic-restaurants-guide-2026/",
-      "source": "singtaousa.com",
-      "published": 1790364152
-    },
-    {
-      "id": "c27d9d8c0677",
-      "title": "涉及性騷擾與違反倫理 新澤西州副州長請辭",
-      "url": "https://www.singtaousa.com/2026/09/25/news/usa/news-new-jersey-lieutenant-governor-resigns-ethics-allegations/",
-      "source": "singtaousa.com",
-      "published": 1790363424
-    },
-    {
       "id": "dd05f7a17764",
       "title": "美貿易代表：美國對中國大陸貿易赤字縮減近4成",
       "url": "https://money.udn.com/money/story/5599/9778254",
       "source": "money.udn.com",
       "published": 1790363257
-    },
-    {
-      "id": "72544c4d1c9f",
-      "title": "祖兒走勻全港16景拍MV",
-      "url": "https://www.singtaousa.com/2026/09/25/entertainment/joey-yung-mv-hong-kong/",
-      "source": "singtaousa.com",
-      "published": 1790362800
     },
     {
       "id": "759eb319e146",
@@ -196,41 +301,6 @@
       "url": "https://money.udn.com/money/story/5599/9778230",
       "source": "money.udn.com",
       "published": 1790358123
-    },
-    {
-      "id": "b1d4fcfdeff9",
-      "title": "衛星搭載TPU Google搶太空AI商機",
-      "url": "https://money.udn.com/money/story/5599/9778115",
-      "source": "money.udn.com",
-      "published": 1790357906
-    },
-    {
-      "id": "9fa1202b58d3",
-      "title": "中美關係內涵再擴展 基於尊重、公平、對等的建設性戰略穩定關係",
-      "url": "https://money.udn.com/money/story/5599/9778220",
-      "source": "money.udn.com",
-      "published": 1790356503
-    },
-    {
-      "id": "fe4a4fe8e368",
-      "title": "美長債殖利率升 美國與新興市場債券利差快創紀錄 亞洲當心了",
-      "url": "https://money.udn.com/money/story/5599/9778088",
-      "source": "money.udn.com",
-      "published": 1790356412
-    },
-    {
-      "id": "0387f98e9ff7",
-      "title": "伊朗提七天重啟荷莫茲方案",
-      "url": "https://money.udn.com/money/story/5599/9778099",
-      "source": "money.udn.com",
-      "published": 1790356338
-    },
-    {
-      "id": "6b8ca3678dc2",
-      "title": "市場預測 美日可能再干預日圓 日本當局透露川普表達關切",
-      "url": "https://money.udn.com/money/story/5599/9778097",
-      "source": "money.udn.com",
-      "published": 1790356326
     },
     {
       "id": "f1568035eee9",
@@ -478,27 +548,6 @@
       "published": 1790289422
     },
     {
-      "id": "a0c00d642221",
-      "title": "两名朝鲜战俘被送去韩国，韩国总统指责乌克兰泄露消息",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260924-%E4%B8%A4%E5%90%8D%E6%9C%9D%E9%B2%9C%E6%88%98%E4%BF%98%E8%A2%AB%E9%80%81%E5%8E%BB%E9%9F%A9%E5%9B%BD%EF%BC%8C%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%8C%87%E8%B4%A3%E4%B9%8C%E5%85%8B%E5%85%B0%E6%B3%84%E9%9C%B2%E6%B6%88%E6%81%AF",
-      "source": "rfi.fr",
-      "published": 1790286602
-    },
-    {
-      "id": "28a521731350",
-      "title": "法国将向沙特派兵并部署防御系统 保护延布石油设施",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260924-%E6%B3%95%E5%9B%BD%E5%B0%86%E5%90%91%E6%B2%99%E7%89%B9%E6%B4%BE%E5%85%B5%E5%B9%B6%E9%83%A8%E7%BD%B2%E9%98%B2%E5%BE%A1%E7%B3%BB%E7%BB%9F-%E4%BF%9D%E6%8A%A4%E5%BB%B6%E5%B8%83%E7%9F%B3%E6%B2%B9%E8%AE%BE%E6%96%BD",
-      "source": "rfi.fr",
-      "published": 1790286330
-    },
-    {
-      "id": "87f83f241082",
-      "title": "特朗普与习近平在华盛顿会晤 美中第一夫人同访亚洲艺术博物馆",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260924-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E4%BC%9A%E6%99%A4-%E4%B8%A4%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E5%90%8C%E8%AE%BF%E4%BA%9A%E6%B4%B2%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86",
-      "source": "rfi.fr",
-      "published": 1790286118
-    },
-    {
       "id": "34cf65928471",
       "title": "马克龙称俄或再征召30万人 反对美国限售柴油 排除解散国民议会",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260924-%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E4%BF%84%E6%88%96%E5%86%8D%E5%BE%81%E5%8F%AC30%E4%B8%87%E4%BA%BA-%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%9B%BD%E9%99%90%E5%94%AE%E6%9F%B4%E6%B2%B9-%E6%8E%92%E9%99%A4%E8%A7%A3%E6%95%A3%E5%9B%BD%E6%B0%91%E8%AE%AE%E4%BC%9A",
@@ -520,13 +569,6 @@
       "published": 1790283750
     },
     {
-      "id": "88e55ab4d999",
-      "title": "习近平要求美方“坚持反对台独”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260924-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A6%81%E6%B1%82%E7%BE%8E%E6%96%B9-%E5%9D%9A%E6%8C%81%E5%8F%8D%E5%AF%B9%E5%8F%B0%E7%8B%AC",
-      "source": "rfi.fr",
-      "published": 1790283410
-    },
-    {
       "id": "fb528ef05dc2",
       "title": "特朗普的白宫欢迎强人领袖习近平，却拒绝美国记者",
       "url": "https://cn.nytimes.com/usa/20260925/trump-xi-press-pool-boycott-media/?utm_source=RSS",
@@ -541,27 +583,6 @@
       "published": 1790275736
     },
     {
-      "id": "17496d762a2d",
-      "title": "伊朗航空公司不再获准飞往阿联酋",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260924-%E4%BC%8A%E6%9C%97%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E4%B8%8D%E5%86%8D%E8%8E%B7%E5%87%86%E9%A3%9E%E5%BE%80%E9%98%BF%E8%81%94%E9%85%8B",
-      "source": "rfi.fr",
-      "published": 1790264941
-    },
-    {
-      "id": "f519e6bf3a50",
-      "title": "习特会：中美贸易休战再延期  路透社盘点两国贸易战重要时间线",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260924-%E4%B9%A0%E7%89%B9%E4%BC%9A-%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E5%86%8D%E5%BB%B6%E6%9C%9F-%E8%B7%AF%E9%80%8F%E7%A4%BE%E7%9B%98%E7%82%B9%E4%B8%AD%E7%BE%8E%E8%B4%B8%E6%98%93%E6%88%98%E9%87%8D%E8%A6%81%E6%97%B6%E9%97%B4%E7%BA%BF",
-      "source": "rfi.fr",
-      "published": 1790264377
-    },
-    {
-      "id": "8dd49ea181a2",
-      "title": "阿里巴巴计划在欧洲和中东扩大AI数据中心规模",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260924-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%AE%A1%E5%88%92%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%92%8C%E4%B8%AD%E4%B8%9C%E6%89%A9%E5%A4%A7ai%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E8%A7%84%E6%A8%A1",
-      "source": "rfi.fr",
-      "published": 1790261872
-    },
-    {
       "id": "a4115c7cb876",
       "title": "德语媒体：暗流涌动的中美关系",
       "url": "https://www.dw.com/zh/德语媒体：暗流涌动的中美关系/a-79416022?maca=chi-rss-chi-all-1127-rdf",
@@ -569,25 +590,11 @@
       "published": 1790260560
     },
     {
-      "id": "0743ba1e2552",
-      "title": "日本自民党前外相岩屋毅将于9月27日访华",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260924-%E6%97%A5%E6%9C%AC%E8%87%AA%E6%B0%91%E5%85%9A%E5%89%8D%E5%A4%96%E7%9B%B8%E5%B2%A9%E5%B1%8B%E6%AF%85%E5%B0%86%E4%BA%8E9%E6%9C%8827%E6%97%A5%E8%AE%BF%E5%8D%8E",
-      "source": "rfi.fr",
-      "published": 1790260493
-    },
-    {
       "id": "0786095267bb",
       "title": "泽连斯基：普京是散布战争思想的“零号病人”",
       "url": "https://www.dw.com/zh/泽连斯基：普京是散布战争思想的-零号病人/a-79415420?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1790259420
-    },
-    {
-      "id": "c57579e20060",
-      "title": "世界危机四伏  联合国趋向弱化",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E4%B8%93%E6%A0%8F/20260924-%E4%B8%96%E7%95%8C%E5%8D%B1%E6%9C%BA%E5%9B%9B%E4%BC%8F-%E8%81%94%E5%90%88%E5%9B%BD%E8%B6%8B%E5%90%91%E5%BC%B1%E5%8C%96",
-      "source": "rfi.fr",
-      "published": 1790257930
     },
     {
       "id": "767e9168ebe9",
@@ -714,13 +721,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cwp847n9n7m2o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1790203934
-    },
-    {
-      "id": "c141c77ae317",
-      "title": "张又侠刘振民如何成了习总书记的重大政治隐患",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260923-%E5%BC%A0%E5%8F%88%E4%BE%A0%E5%88%98%E6%8C%AF%E6%B0%91%E5%A6%82%E4%BD%95%E6%88%90%E4%BA%86%E4%B9%A0%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E9%87%8D%E5%A4%A7%E6%94%BF%E6%B2%BB%E9%9A%90%E6%82%A3",
-      "source": "rfi.fr",
-      "published": 1790199047
     },
     {
       "id": "78c30d7629b8",
@@ -1325,5 +1325,5 @@
       "published": 1787806860
     }
   ],
-  "build_id": 1790370629
+  "build_id": 1790380738
 }
