@@ -1,54 +1,215 @@
 {
-  "updated": 1791573000,
+  "updated": 1791588099,
   "items": [
+    {
+      "id": "773a2a0f696c",
+      "title": "欧中贸易谈判：双方能否避免贸易冲突升级，仍不确定",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261009-%E6%AC%A7%E4%B8%AD%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4-%E5%8F%8C%E6%96%B9%E8%83%BD%E5%90%A6%E9%81%BF%E5%85%8D%E8%B4%B8%E6%98%93%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%EF%BC%8C%E4%BB%8D%E4%B8%8D%E7%A1%AE%E5%AE%9A",
+      "source": "rfi.fr",
+      "published": 1791588038
+    },
+    {
+      "id": "e9412d1e114c",
+      "title": "Joyce Lam：加州房屋危機如何解決？",
+      "url": "https://www.singtaousa.com/2026/10/09/opinion/joyce-lam-how-to-solve-californias-housing-crisis/",
+      "source": "singtaousa.com",
+      "published": 1791587290
+    },
+    {
+      "id": "6a412794c534",
+      "title": "與木戶大聖新片12月上架 永野芽郁不倫戀後復出",
+      "url": "https://www.singtaousa.com/2026/10/09/entertainment/nagano-mei-returns-movie/",
+      "source": "singtaousa.com",
+      "published": 1791586800
+    },
+    {
+      "id": "e3d706db01d6",
+      "title": "美軍直播槍決計畫引譴責聲浪　范斯：不會觀看",
+      "url": "https://money.udn.com/money/story/5599/9805833",
+      "source": "money.udn.com",
+      "published": 1791585932
+    },
+    {
+      "id": "e0ddbd1d5907",
+      "title": "買滅聲器不用再登記！司法部宣布全國停止執行聯邦槍械登記規定",
+      "url": "https://www.singtaousa.com/2026/10/09/news/usa/justice-department-wont-enforce-registration-rules-on-silencers-and-certain-guns-after-court-ruling/",
+      "source": "singtaousa.com",
+      "published": 1791585729
+    },
+    {
+      "id": "896873010a22",
+      "title": "川普排除期中選前攻伊 俄柴油重返市場激勵美股收紅",
+      "url": "https://money.udn.com/money/story/123398/9805830",
+      "source": "money.udn.com",
+      "published": 1791585026
+    },
+    {
+      "id": "14a5ae7600d5",
+      "title": "多空拉鋸　油價小漲",
+      "url": "https://money.udn.com/money/story/5599/9805826",
+      "source": "money.udn.com",
+      "published": 1791583944
+    },
+    {
+      "id": "b38f6a21b511",
+      "title": "美國允俄售柴油 澤連斯基批資助戰爭",
+      "url": "https://www.singtaousa.com/2026/10/09/news/world/trump-announces-deal-for-russian-diesel-as-zelensky-criticises-gift-to-putin/",
+      "source": "singtaousa.com",
+      "published": 1791583272
+    },
+    {
+      "id": "65874c239bf2",
+      "title": "俞承豪秘戀林世柱6年 戀情曝光惜已分手",
+      "url": "https://www.singtaousa.com/2026/10/09/entertainment/yu-cheng-hao-lin-shi-zhu-breakup/",
+      "source": "singtaousa.com",
+      "published": 1791583200
+    },
+    {
+      "id": "6b15132cf0a6",
+      "title": "飛紐約客機遇強烈湍流急墜2.5萬呎 迫降邁阿密9人送院",
+      "url": "https://www.singtaousa.com/2026/10/09/news/usa/multiple-hospitalized-after-severe-turbulence-25k-foot-drop-forces-nyc-bound-flight-to-make-emergency-landing/",
+      "source": "singtaousa.com",
+      "published": 1791582682
+    },
+    {
+      "id": "0f3eb9e2a470",
+      "title": "PG&E警告：加州17縣週末恐面臨預防性停電",
+      "url": "https://www.singtaousa.com/2026/10/09/news/usa/pge-warns-of-possible-power-shutoffs-in-17-california-counties-this-weekend/",
+      "source": "singtaousa.com",
+      "published": 1791581451
+    },
+    {
+      "id": "ed07744cc69b",
+      "title": "阿聯檢方：杜拜航空副機師企圖自殺式撞機　目標特拉維夫機場",
+      "url": "https://money.udn.com/money/story/5599/9805779",
+      "source": "money.udn.com",
+      "published": 1791580352
+    },
+    {
+      "id": "5f5d323701a4",
+      "title": "巴拿馬發生7.7級強烈地震 中美洲多國面臨海嘯威脅",
+      "url": "https://www.singtaousa.com/2026/10/09/news/world/massive-earthquake-strikes-panama-at-magnitude-7-7-tsunami-threat-issued/",
+      "source": "singtaousa.com",
+      "published": 1791580014
+    },
+    {
+      "id": "96781c70038c",
+      "title": "罵AI也犯規？Anthropic新政策禁止用戶「無端虐待」Claude",
+      "url": "https://www.singtaousa.com/2026/10/09/news/usa/anthropic-bans-abusive-behavior-claude/",
+      "source": "singtaousa.com",
+      "published": 1791579600
+    },
+    {
+      "id": "63eb0e3e644b",
+      "title": "上月涉虐兒被發禁制令 荷爾完成家長教育課程",
+      "url": "https://www.singtaousa.com/2026/10/09/entertainment/halle-berry-child-custody/",
+      "source": "singtaousa.com",
+      "published": 1791579600
+    },
+    {
+      "id": "5439e9bf8b35",
+      "title": "诺贝尔和平奖：巴黎赞扬纳维·皮莱对国际刑事司法事业的“贡献”",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261009-%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96-%E5%B7%B4%E9%BB%8E%E8%B5%9E%E6%89%AC%E7%BA%B3%E7%BB%B4%C2%B7%E7%9A%AE%E8%8E%B1%E5%AF%B9%E5%9B%BD%E9%99%85%E5%88%91%E4%BA%8B%E5%8F%B8%E6%B3%95%E4%BA%8B%E4%B8%9A%E7%9A%84-%E8%B4%A1%E7%8C%AE",
+      "source": "rfi.fr",
+      "published": 1791578969
+    },
+    {
+      "id": "a2042cec8da7",
+      "title": "俄军加大攻击乌克兰 美国向乌克兰展示与俄谈好的和平新构想",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261009-%E4%BF%84%E5%86%9B%E5%8A%A0%E5%A4%A7%E6%94%BB%E5%87%BB%E4%B9%8C%E5%85%8B%E5%85%B0-%E7%BE%8E%E5%9B%BD%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E5%B1%95%E7%A4%BA%E4%B8%8E%E4%BF%84%E8%B0%88%E5%A5%BD%E7%9A%84%E5%92%8C%E5%B9%B3%E6%96%B0%E6%9E%84%E6%83%B3",
+      "source": "rfi.fr",
+      "published": 1791578549
+    },
+    {
+      "id": "a3c45efa8951",
+      "title": "纽约市长呼吁“废除美国移民及海关执法局（ICE）",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261009-%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%95%BF%E5%91%BC%E5%90%81-%E5%BA%9F%E9%99%A4%E7%BE%8E%E5%9B%BD%E7%A7%BB%E6%B0%91%E5%8F%8A%E6%B5%B7%E5%85%B3%E6%89%A7%E6%B3%95%E5%B1%80-ice",
+      "source": "rfi.fr",
+      "published": 1791578518
+    },
+    {
+      "id": "a21b647ebf21",
+      "title": "特朗普鬆綁俄羅斯柴油禁令 稱普京將立即釋放供應緩解柴油暴漲",
+      "url": "https://www.singtaousa.com/2026/10/09/news/world/trump-relaxes-russian-diesel-ban-says-putin-will-immediately-release-supplies/",
+      "source": "singtaousa.com",
+      "published": 1791578443
+    },
+    {
+      "id": "67eef1857f91",
+      "title": "欧盟称与中国达成谅解 中国混动车对欧出口有望减半",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261009-%E6%AC%A7%E7%9B%9F%E7%A7%B0%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%BE%BE%E6%88%90%E8%B0%85%E8%A7%A3-%E4%B8%AD%E5%9B%BD%E6%B7%B7%E5%8A%A8%E8%BD%A6%E5%AF%B9%E6%AC%A7%E5%87%BA%E5%8F%A3%E6%9C%89%E6%9C%9B%E5%87%8F%E5%8D%8A",
+      "source": "rfi.fr",
+      "published": 1791578323
+    },
+    {
+      "id": "121b1bc6b6cc",
+      "title": "特朗普與普京達成協議允俄國出售柴油，澤連斯基批評「送大禮」",
+      "url": "https://www.bbc.com/zhongwen/articles/cwg7xz103032o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1791578026
+    },
+    {
+      "id": "a3441a53bc43",
+      "title": "万斯：不看公开处决哈桑的现场直播",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261009-%E4%B8%87%E6%96%AF-%E4%B8%8D%E7%9C%8B%E5%85%AC%E5%BC%80%E5%A4%84%E5%86%B3%E5%93%88%E6%A1%91%E7%9A%84%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD",
+      "source": "rfi.fr",
+      "published": 1791577969
+    },
+    {
+      "id": "7adb54844d18",
+      "title": "美国：网上直播军法枪决枪击案凶手引发众怒",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261009-%E7%BE%8E%E5%9B%BD-%E7%BD%91%E4%B8%8A%E7%9B%B4%E6%92%AD%E5%86%9B%E6%B3%95%E6%9E%AA%E5%86%B3%E6%9E%AA%E5%87%BB%E6%A1%88%E5%87%B6%E6%89%8B%E5%BC%95%E5%8F%91%E4%BC%97%E6%80%92",
+      "source": "rfi.fr",
+      "published": 1791577846
+    },
+    {
+      "id": "4cc3a3097799",
+      "title": "黑山驱逐一位俄罗斯军事博主",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261009-%E9%BB%91%E5%B1%B1%E9%A9%B1%E9%80%90%E4%B8%80%E4%BD%8D%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%9B%E4%BA%8B%E5%8D%9A%E4%B8%BB",
+      "source": "rfi.fr",
+      "published": 1791577571
+    },
+    {
+      "id": "7cc05e07a7b6",
+      "title": "規模7.7強震襲巴拿馬　觸發東太平洋沿岸海嘯警報",
+      "url": "https://money.udn.com/money/story/5599/9805765",
+      "source": "money.udn.com",
+      "published": 1791577287
+    },
+    {
+      "id": "1f2be9a56fd0",
+      "title": "网络遭攻击  法左翼党内初选投票延长一天",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261009-%E7%BD%91%E7%BB%9C%E9%81%AD%E6%94%BB%E5%87%BB-%E6%B3%95%E5%B7%A6%E7%BF%BC%E5%85%9A%E5%86%85%E5%88%9D%E9%80%89%E6%8A%95%E7%A5%A8%E5%BB%B6%E9%95%BF%E4%B8%80%E5%A4%A9",
+      "source": "rfi.fr",
+      "published": 1791577101
+    },
+    {
+      "id": "fbf5dbd55e71",
+      "title": "法新社：中国《意见》推动人工智能与实体经济深度融合",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261009-%E6%B3%95%E6%96%B0%E7%A4%BE-%E4%B8%AD%E5%9B%BD-%E6%84%8F%E8%A7%81-%E6%8E%A8%E5%8A%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E5%AE%9E%E4%BD%93%E7%BB%8F%E6%B5%8E%E6%B7%B1%E5%BA%A6%E8%9E%8D%E5%90%88",
+      "source": "rfi.fr",
+      "published": 1791576691
+    },
+    {
+      "id": "21cbd3ce22b7",
+      "title": "廣末未正確繫上安全帶 「新牌仔」兒子駕駛無掛P牌",
+      "url": "https://www.singtaousa.com/2026/10/09/entertainment/hirosue-ryoko-son-drives-without-p/",
+      "source": "singtaousa.com",
+      "published": 1791576000
+    },
+    {
+      "id": "9b3c70673388",
+      "title": "国际法人权遭攻击被蔑视 皮莱获诺贝尔和平奖深具现实意义",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261009-%E5%9B%BD%E9%99%85%E6%B3%95%E4%BA%BA%E6%9D%83%E9%81%AD%E6%94%BB%E5%87%BB%E8%A2%AB%E8%94%91%E8%A7%86-%E7%9A%AE%E8%8E%B1%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%92%8C%E5%B9%B3%E5%A5%96%E6%B7%B1%E5%85%B7%E7%8E%B0%E5%AE%9E%E6%84%8F%E4%B9%89",
+      "source": "rfi.fr",
+      "published": 1791574865
+    },
     {
       "id": "5137f7ae8670",
       "title": "國際刑事法院前法官獲頒諾貝爾和平獎後　美宣布制裁法院",
       "url": "https://money.udn.com/money/story/5599/9805745",
       "source": "money.udn.com",
       "published": 1791572432
-    },
-    {
-      "id": "fbaefe8cf572",
-      "title": "周迅宣傳新片 憶亡友激動落淚",
-      "url": "https://www.singtaousa.com/2026/10/09/entertainment/zhou-xun-movie-tribute-friend/",
-      "source": "singtaousa.com",
-      "published": 1791572400
-    },
-    {
-      "id": "4703fb9fbb68",
-      "title": "《女神配對計劃2》單獨約會 俞可程童年照與Oscar撞樣甜度飆升",
-      "url": "https://www.singtaousa.com/2026/10/09/entertainment/kanis-oscar-childhood-photos-juliana-preston-date/",
-      "source": "singtaousa.com",
-      "published": 1791572308
-    },
-    {
-      "id": "ffa2e0029f6e",
-      "title": "保守派評論員扎卡里亞 將出任白宮發言人",
-      "url": "https://www.singtaousa.com/2026/10/09/news/usa/news-katie-zacharia-next-white-house-press-secretary/",
-      "source": "singtaousa.com",
-      "published": 1791572044
-    },
-    {
-      "id": "4d2e13c1844b",
-      "title": "江蘇炸雞驚現完整蜈蚣 顧客依法索賠千元遭拒",
-      "url": "https://www.singtaousa.com/2026/10/09/news/china/fried-chicken-centipede-customer-claims/",
-      "source": "singtaousa.com",
-      "published": 1791571953
-    },
-    {
-      "id": "134bdc7f1d45",
-      "title": "合資格兒童獲1000美元　特朗普帳戶申領須知",
-      "url": "https://www.singtaousa.com/2026/10/09/news/usa/eligible-children-receive-1000-what-you-need-to-know-to-apply-for-a-trump/",
-      "source": "singtaousa.com",
-      "published": 1791571870
-    },
-    {
-      "id": "145b1d93cc59",
-      "title": "颶風伊薩亞斯擾墨西哥灣產油　煉油廠受威脅",
-      "url": "https://www.singtaousa.com/2026/10/09/news/usa/hurricane-isaias-disrupts-oil-production-in-gulf-of-mexico-threatening/",
-      "source": "singtaousa.com",
-      "published": 1791571500
     },
     {
       "id": "918718a56949",
@@ -65,13 +226,6 @@
       "published": 1791571145
     },
     {
-      "id": "0fb59a7daaa5",
-      "title": "《中年好聲音4》演唱會倒數綵排 歌手分享比賽最大收穫",
-      "url": "https://www.singtaousa.com/2026/10/09/entertainment/midlife-singers-concert-rehearsal-update/",
-      "source": "singtaousa.com",
-      "published": 1791570456
-    },
-    {
       "id": "b1c3384c2c42",
       "title": "蘋果傳砍i18 Pro零件訂單",
       "url": "https://money.udn.com/money/story/5599/9805565",
@@ -86,46 +240,11 @@
       "published": 1791570210
     },
     {
-      "id": "38ce53ba7002",
-      "title": "貴州新郎婚禮當日就醫後離世 衛健局封存病歷介入調查",
-      "url": "https://www.singtaousa.com/2026/10/09/news/china/groom-dies-hospital-visit-wedding-day/",
-      "source": "singtaousa.com",
-      "published": 1791570153
-    },
-    {
-      "id": "2addc9e0c01e",
-      "title": "聯邦調查局再捕 ShinyHunters 黑客組織成員 涉竊取 FBI 招聘網站人員資料",
-      "url": "https://www.singtaousa.com/2026/10/09/news/usa/fbi-arrests-members-of-shinyhunters-hacking-group-for-stealing-personnel/",
-      "source": "singtaousa.com",
-      "published": 1791569700
-    },
-    {
-      "id": "2cb4a9ca7f21",
-      "title": "亞馬遜怎樣看你？「養不活真植物」「不太喜歡海綿寶寶」，隱藏「About You」檔案曝光",
-      "url": "https://www.singtaousa.com/2026/10/09/news/usa/what-does-amazon-actually-think-you-how-find-your-hidden-about-you-profile/",
-      "source": "singtaousa.com",
-      "published": 1791569505
-    },
-    {
       "id": "7b336c8a3798",
       "title": "AI貨物出口 台灣占比居冠",
       "url": "https://money.udn.com/money/story/5599/9805642",
       "source": "money.udn.com",
       "published": 1791569122
-    },
-    {
-      "id": "56dfb0fe160e",
-      "title": "倫敦法官裁定 搜查安德魯王子住所的搜查令非法",
-      "url": "https://www.singtaousa.com/2026/10/09/news/world/judge-says-search-warrants-used-to-seize-property-from-ex-prince-andrew-were-unlawful/",
-      "source": "singtaousa.com",
-      "published": 1791569075
-    },
-    {
-      "id": "61e19c940f5f",
-      "title": "羅樂林獲傑出員工獎 林淑敏：睺住五舊水",
-      "url": "https://www.singtaousa.com/2026/10/09/entertainment/ro-lo-lin-outstanding-employee-award/",
-      "source": "singtaousa.com",
-      "published": 1791568800
     },
     {
       "id": "287a9fbfbf43",
@@ -212,32 +331,11 @@
       "published": 1791566646
     },
     {
-      "id": "72470165fccc",
-      "title": "1分鐘看世界／挪威 諾貝爾和平獎出爐 南非法官皮萊獲殊榮",
-      "url": "https://money.udn.com/money/story/5599/9805602",
-      "source": "money.udn.com",
-      "published": 1791566580
-    },
-    {
-      "id": "c00b3b5c5ac9",
-      "title": "「股神」巴菲特這個建議 至今仍對99%投資人管用",
-      "url": "https://money.udn.com/money/story/123398/9805717",
-      "source": "money.udn.com",
-      "published": 1791563889
-    },
-    {
       "id": "2f4b34ac85fb",
       "title": "美 中 俄 一场新的月球上安装核反应堆争夺战正在打响",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261009-%E7%BE%8E-%E4%B8%AD-%E4%BF%84-%E4%B8%80%E5%9C%BA%E6%96%B0%E7%9A%84%E6%9C%88%E7%90%83%E4%B8%8A%E5%AE%89%E8%A3%85%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%E4%BA%89%E5%A4%BA%E6%88%98%E6%AD%A3%E5%9C%A8%E6%89%93%E5%93%8D",
       "source": "rfi.fr",
       "published": 1791563713
-    },
-    {
-      "id": "7a306457ed0e",
-      "title": "巴黎車展成中歐車企競技場 中國參展陣容創紀錄",
-      "url": "https://money.udn.com/money/story/5599/9805715",
-      "source": "money.udn.com",
-      "published": 1791563689
     },
     {
       "id": "2c03846c3eaa",
@@ -247,18 +345,32 @@
       "published": 1791562337
     },
     {
-      "id": "dcf69d40bff6",
-      "title": "皮萊獲諾貝爾和平獎 籲捍衛國際法防止強權凌駕法律",
-      "url": "https://money.udn.com/money/story/5599/9805698",
-      "source": "money.udn.com",
-      "published": 1791561269
+      "id": "9183931b044c",
+      "title": "百度怎么了？",
+      "url": "https://www.ftchinese.com/story/001111038",
+      "source": "ftchinese.com",
+      "published": 1791561600
     },
     {
-      "id": "bd6070052c7d",
-      "title": "南非法官皮萊獲諾貝爾和平獎　川普轉發貼文痛批",
-      "url": "https://money.udn.com/money/story/5599/9805687",
-      "source": "money.udn.com",
-      "published": 1791560733
+      "id": "427aeb38febe",
+      "title": "AI热潮催生中小型数据中心投资机遇",
+      "url": "https://www.ftchinese.com/story/001111058",
+      "source": "ftchinese.com",
+      "published": 1791561600
+    },
+    {
+      "id": "3eab4b85f8e7",
+      "title": "尊界踏板风波：中国汽车业不需要一团和气",
+      "url": "https://www.ftchinese.com/story/001111061",
+      "source": "ftchinese.com",
+      "published": 1791561600
+    },
+    {
+      "id": "a0cc66eea33d",
+      "title": "中国与欧盟就控制中国混合动力汽车对欧出口达成谅解",
+      "url": "https://www.ftchinese.com/story/001111062",
+      "source": "ftchinese.com",
+      "published": 1791561600
     },
     {
       "id": "0853c39a1195",
@@ -408,13 +520,6 @@
       "published": 1791526031
     },
     {
-      "id": "df04f066e449",
-      "title": "香港叕爆建筑丑闻 公私营合作住宅项目钢筋配置严重违规 半数大楼须拆卸重建",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261009-%E9%A6%99%E6%B8%AF%E5%8F%95%E7%88%86%E5%BB%BA%E7%AD%91%E4%B8%91%E9%97%BB-%E5%85%AC%E7%A7%81%E8%90%A5%E5%90%88%E4%BD%9C%E4%BD%8F%E5%AE%85%E9%A1%B9%E7%9B%AE%E9%92%A2%E7%AD%8B%E9%85%8D%E7%BD%AE%E4%B8%A5%E9%87%8D%E8%BF%9D%E8%A7%84-%E5%8D%8A%E6%95%B0%E5%A4%A7%E6%A5%BC%E9%A1%BB%E6%8B%86%E5%8D%B8%E9%87%8D%E5%BB%BA",
-      "source": "rfi.fr",
-      "published": 1791525756
-    },
-    {
       "id": "155415dc4790",
       "title": "AI无处不在：中国面临过度依赖人工智能的挑战",
       "url": "https://cn.nytimes.com/china/20261009/china-ai-overuse/?utm_source=RSS",
@@ -483,62 +588,6 @@
       "url": "https://cn.nytimes.com/technology/20261009/china-ai-research-recruitment/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1791504694
-    },
-    {
-      "id": "758f74ad8d66",
-      "title": "特朗普向马斯克颁发“国家科学奖章”",
-      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261008-%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A2%81%E5%8F%91-%E5%9B%BD%E5%AE%B6%E7%A7%91%E5%AD%A6%E5%A5%96%E7%AB%A0",
-      "source": "rfi.fr",
-      "published": 1791494044
-    },
-    {
-      "id": "d82b721f1200",
-      "title": "华盛顿将17艘运输伊朗石油的船只列入黑名单",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261008-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B0%8617%E8%89%98%E8%BF%90%E8%BE%93%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E7%9A%84%E8%88%B9%E5%8F%AA%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95",
-      "source": "rfi.fr",
-      "published": 1791493370
-    },
-    {
-      "id": "63d5fed8ba90",
-      "title": "沙特首都遇袭　多家航空公司暂停航班",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261008-%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E9%81%87%E8%A2%AD-%E5%A4%9A%E5%AE%B6%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E6%9A%82%E5%81%9C%E8%88%AA%E7%8F%AD",
-      "source": "rfi.fr",
-      "published": 1791493149
-    },
-    {
-      "id": "771f44ec712b",
-      "title": "法媒：中国向布鲁塞尔说“不”",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261008-%E6%B3%95%E5%AA%92-%E4%B8%AD%E5%9B%BD%E5%90%91%E5%B8%83%E9%B2%81%E5%A1%9E%E5%B0%94%E8%AF%B4-%E4%B8%8D",
-      "source": "rfi.fr",
-      "published": 1791493032
-    },
-    {
-      "id": "e23f56bd81e5",
-      "title": "德国退出与法联合研发下一代主战车辆项目",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261008-%E5%BE%B7%E5%9B%BD%E9%80%80%E5%87%BA%E4%B8%8E%E6%B3%95%E8%81%94%E5%90%88%E7%A0%94%E5%8F%91%E4%B8%8B%E4%B8%80%E4%BB%A3%E4%B8%BB%E6%88%98%E8%BD%A6%E8%BE%86%E9%A1%B9%E7%9B%AE",
-      "source": "rfi.fr",
-      "published": 1791491304
-    },
-    {
-      "id": "fd4f83516cfd",
-      "title": "法教育部长回应学生诉求    3000名代课教师将就位",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261008-%E6%B3%95%E6%95%99%E8%82%B2%E9%83%A8%E9%95%BF%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E8%AF%89%E6%B1%82-3000%E5%90%8D%E4%BB%A3%E8%AF%BE%E6%95%99%E5%B8%88%E5%B0%86%E5%B0%B1%E4%BD%8D",
-      "source": "rfi.fr",
-      "published": 1791491056
-    },
-    {
-      "id": "fda04748e87a",
-      "title": "美国千万美元悬赏中国黑客张宇",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261008-%E7%BE%8E%E5%9B%BD%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E6%82%AC%E8%B5%8F%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E5%BC%A0%E5%AE%87",
-      "source": "rfi.fr",
-      "published": 1791490909
-    },
-    {
-      "id": "66ec7c2bbdde",
-      "title": "“跨国镇压“到了赖清德之子 台湾激愤 网民肉搜张婉莹的奢侈生活",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261008-%E8%B7%A8%E5%9B%BD%E9%95%87%E5%8E%8B-%E5%88%B0%E4%BA%86%E8%B5%96%E6%B8%85%E5%BE%B7%E4%B9%8B%E5%AD%90-%E5%8F%B0%E6%B9%BE%E6%BF%80%E6%84%A4-%E7%BD%91%E6%B0%91%E8%82%89%E6%90%9C%E5%BC%A0%E5%A9%89%E8%8E%B9%E8%80%81%E5%BA%95",
-      "source": "rfi.fr",
-      "published": 1791486437
     },
     {
       "id": "6cdba7bbf624",
@@ -681,13 +730,6 @@
       "published": 1791445844
     },
     {
-      "id": "a32b36993df3",
-      "title": "国庆黄金周陆客增量超预期 游客涌入郊野造成生态破坏未止",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261008-%E5%9B%BD%E5%BA%86%E9%BB%84%E9%87%91%E5%91%A8%E9%99%86%E5%AE%A2%E5%A2%9E%E9%87%8F%E8%B6%85%E9%A2%84%E6%9C%9F-%E6%B8%B8%E5%AE%A2%E6%B6%8C%E5%85%A5%E9%83%8A%E9%87%8E%E9%80%A0%E6%88%90%E7%94%9F%E6%80%81%E7%A0%B4%E5%9D%8F%E6%9C%AA%E6%AD%A2",
-      "source": "rfi.fr",
-      "published": 1791444058
-    },
-    {
       "id": "9515b271796c",
       "title": "口譯與施壓：台灣楊双子德國活動捲入政治爭議的前前後後",
       "url": "https://www.bbc.com/zhongwen/articles/cmd7q5glg9llo/trad?at_medium=RSS&at_campaign=rss",
@@ -807,34 +849,6 @@
       "published": 1791388800
     },
     {
-      "id": "cd660477127a",
-      "title": "印度3年来首次加息",
-      "url": "https://www.ftchinese.com/story/001111041",
-      "source": "ftchinese.com",
-      "published": 1791388800
-    },
-    {
-      "id": "c2eb32c34d08",
-      "title": "德国阻止中资收购汉堡港物流企业",
-      "url": "https://www.ftchinese.com/story/001111040",
-      "source": "ftchinese.com",
-      "published": 1791388800
-    },
-    {
-      "id": "8c95fce24e2d",
-      "title": "每周时事分析：中美关系有点像G2了",
-      "url": "https://www.ftchinese.com/story/001111031",
-      "source": "ftchinese.com",
-      "published": 1791388800
-    },
-    {
-      "id": "3e1786be8d10",
-      "title": "美中G2格局形成",
-      "url": "https://www.ftchinese.com/story/001111034",
-      "source": "ftchinese.com",
-      "published": 1791388800
-    },
-    {
       "id": "58e3344ba5b2",
       "title": "德语媒体：“不能因惧怕死亡而选择自杀”",
       "url": "https://www.dw.com/zh/德语媒体：-不能因惧怕死亡而选择自杀/a-79582805?maca=chi-rss-chi-all-1127-rdf",
@@ -847,13 +861,6 @@
       "url": "https://www.dw.com/zh/欧洲ai出大招-法国mistral推出超强模型/a-79582475?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1791381720
-    },
-    {
-      "id": "cd05524359b0",
-      "title": "2026年诺贝尔化学奖揭晓 法国和日本科学家获奖",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261007-2026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93-%E6%B3%95%E5%9B%BD%E5%92%8C%E6%97%A5%E6%9C%AC%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%8E%B7%E5%A5%96",
-      "source": "rfi.fr",
-      "published": 1791372551
     },
     {
       "id": "f43639657ecf",
@@ -891,16 +898,16 @@
       "published": 1791354540
     },
     {
-      "id": "a18dc7e672fb",
-      "title": "为钱卖国？德国前情报局长被捕",
-      "url": "https://www.dw.com/zh/为钱卖国？德国前情报局长被捕/a-79565862?maca=chi-rss-chi-all-1127-rdf",
+      "id": "43ea855eb867",
+      "title": "德语媒体：难以奏效的“威慑武器”",
+      "url": "https://www.dw.com/zh/德语媒体：难以奏效的-威慑武器/a-79565894?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1791295140
     },
     {
-      "id": "43ea855eb867",
-      "title": "德语媒体：难以奏效的“威慑武器”",
-      "url": "https://www.dw.com/zh/德语媒体：难以奏效的-威慑武器/a-79565894?maca=chi-rss-chi-all-1127-rdf",
+      "id": "a18dc7e672fb",
+      "title": "为钱卖国？德国前情报局长被捕",
+      "url": "https://www.dw.com/zh/为钱卖国？德国前情报局长被捕/a-79565862?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1791295140
     },
@@ -966,13 +973,6 @@
       "url": "https://www.dw.com/zh/德媒：社民党支持对中国更强硬-保护本土汽车工业/a-79552389?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1791208980
-    },
-    {
-      "id": "df48e844f4cf",
-      "title": "台北同志酒吧遭搜查 警員歧視言論惹爭議",
-      "url": "https://www.bbc.com/zhongwen/articles/cmz98p0x525xo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1791204186
     },
     {
       "id": "4c6b0cd68437",
@@ -1043,13 +1043,6 @@
       "url": "https://www.dw.com/zh/中欧贸易会谈在即-中国对欧盟发起反倾销调查/a-79531185?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1791030660
-    },
-    {
-      "id": "dd9f26e32152",
-      "title": "G20贸易部长会议：产能过剩声明遭拒，强迫劳动声明受阻",
-      "url": "https://www.dw.com/zh/g20贸易部长会议：产能过剩声明遭拒，强迫劳动声明受阻/a-79529292?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1791020760
     },
     {
       "id": "3884e30d2d17",
@@ -1346,5 +1339,5 @@
       "published": 1789208760
     }
   ],
-  "build_id": 1791573000
+  "build_id": 1791588099
 }
