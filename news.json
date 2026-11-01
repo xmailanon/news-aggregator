@@ -1,19 +1,166 @@
 {
-  "updated": 1793489397,
+  "updated": 1793500028,
   "items": [
     {
-      "id": "b8824c10068c",
-      "title": "加拿大投資AI公司Cohere高達16億元",
-      "url": "https://www.singtaousa.com/2026/10/31/news/world/canada-to-invest-up-to-1-6b-in-toronto-based-ai-company-cohere/",
+      "id": "2a0cb30840d6",
+      "title": "旺角凌晨現北上人潮 約600人輪候跨境車",
+      "url": "https://www.singtaousa.com/2026/10/31/news/china/mong-kok-cross-boundary-queue/",
       "source": "singtaousa.com",
-      "published": 1793487600
+      "published": 1793499754
     },
     {
-      "id": "cf36354904c9",
-      "title": "賴偉明機場遭圍堵",
-      "url": "https://www.singtaousa.com/2026/10/31/entertainment/lai-wei-ming-airport-encounter/",
+      "id": "6088dd7731fe",
+      "title": "十一月新劇精選：霍建華回歸台劇 申敏兒掀宮廷風暴",
+      "url": "https://www.singtaousa.com/2026/10/31/entertainment/november-drama-recommendations-key-actors/",
       "source": "singtaousa.com",
-      "published": 1793487600
+      "published": 1793498439
+    },
+    {
+      "id": "7042afd71894",
+      "title": "美學者：參院為川普防線 眾院若大幅失守恐加深共和黨分歧",
+      "url": "https://money.udn.com/money/story/5599/9849754",
+      "source": "money.udn.com",
+      "published": 1793498431
+    },
+    {
+      "id": "c1bdece30177",
+      "title": "黃子韜回應爭議：對得起所有人",
+      "url": "https://www.singtaousa.com/2026/10/31/entertainment/huang-zi-tao-responds-controversy/",
+      "source": "singtaousa.com",
+      "published": 1793498400
+    },
+    {
+      "id": "00fcfcac7033",
+      "title": "東升西降趨勢下 香港職場語言要求轉變 中文能力成關鍵",
+      "url": "https://www.singtaousa.com/2026/10/31/news/china/east-rise-west-fall-hong-kong-workplace/",
+      "source": "singtaousa.com",
+      "published": 1793497954
+    },
+    {
+      "id": "38261c2cdd44",
+      "title": "波蘭憲政危機升溫　總理圖斯克控反對派企圖破壞民主法治",
+      "url": "https://money.udn.com/money/story/5599/9849731",
+      "source": "money.udn.com",
+      "published": 1793497528
+    },
+    {
+      "id": "f0be1adbbb42",
+      "title": "法國萬聖夜再示威　Z世代主張對巨富課稅救財政",
+      "url": "https://money.udn.com/money/story/5599/9849725",
+      "source": "money.udn.com",
+      "published": 1793497027
+    },
+    {
+      "id": "9dd56ee848fa",
+      "title": "川普政府萬聖節宣傳惹議　暴力影片嘲諷遭拘移民",
+      "url": "https://money.udn.com/money/story/5599/9849724",
+      "source": "money.udn.com",
+      "published": 1793497012
+    },
+    {
+      "id": "73fbd287da69",
+      "title": "彭皓鋒自揭拒開刀保肛門原因　積極嘗試中醫治療　腫瘤三年間縮細",
+      "url": "https://www.singtaousa.com/2026/10/31/entertainment/vincent-pang-cancer-journey-update/",
+      "source": "singtaousa.com",
+      "published": 1793496640
+    },
+    {
+      "id": "8d32841b5d83",
+      "title": "內地醫科畢業生轉投上門煮飯行業 活用專業知識開拓新賽道",
+      "url": "https://www.singtaousa.com/2026/10/31/news/china/medical-graduate-turns-to-meal-cooking-service/",
+      "source": "singtaousa.com",
+      "published": 1793496154
+    },
+    {
+      "id": "61db7d67f55e",
+      "title": "日本6.1強震出現怪現象！遠離震央反而更晃 氣象廳揭原因",
+      "url": "https://money.udn.com/money/story/5599/9849702",
+      "source": "money.udn.com",
+      "published": 1793495915
+    },
+    {
+      "id": "3a9b69e875de",
+      "title": "幣安爆史上最大金融竊案！30分鐘被洗劫2006億元 幕後搶救曝光",
+      "url": "https://money.udn.com/money/story/5599/9849683",
+      "source": "money.udn.com",
+      "published": 1793495159
+    },
+    {
+      "id": "55dbbb6c0e17",
+      "title": "張凌赫新劇演將軍 搭檔林允CP感強",
+      "url": "https://www.singtaousa.com/2026/10/31/entertainment/zhang-ling-he-new-drama-general/",
+      "source": "singtaousa.com",
+      "published": 1793494800
+    },
+    {
+      "id": "9cdc9eb8eaad",
+      "title": "加州商店槍擊案更多細節浮出水面：31歲孕婦慘死6人受傷兇手在逃",
+      "url": "https://www.singtaousa.com/2026/10/31/news/usa/shooting-at-spirit-halloween-store-in-california-leaves-pregnant-woman-dead-and-6-wounded/",
+      "source": "singtaousa.com",
+      "published": 1793494621
+    },
+    {
+      "id": "3c692e496840",
+      "title": "唐山女子擺攤賣橙汁遭男友持械襲擊後從6樓墜亡 二審維持死刑",
+      "url": "https://www.singtaousa.com/2026/10/31/news/china/tangshan-juice-vendor-boyfriend-murder/",
+      "source": "singtaousa.com",
+      "published": 1793494355
+    },
+    {
+      "id": "36b9bbc59938",
+      "title": "上環14歲男童疑遭襲擊受傷 35歲父親涉虐兒被捕",
+      "url": "https://www.singtaousa.com/2026/10/31/news/china/14-year-old-boy-assaulted-father-arrested/",
+      "source": "singtaousa.com",
+      "published": 1793492555
+    },
+    {
+      "id": "417677dcf680",
+      "title": "為愛落腳北越深山 台越夫妻打造喀斯特文化聚落翻轉地方",
+      "url": "https://money.udn.com/money/story/5599/9849661",
+      "source": "money.udn.com",
+      "published": 1793491640
+    },
+    {
+      "id": "a4c7e6b11dc5",
+      "title": "傳川普擬選舉後重啟戰爭！伊朗最高領袖下令最大嚇阻 反擊範圍不設限",
+      "url": "https://money.udn.com/money/story/5599/9849660",
+      "source": "money.udn.com",
+      "published": 1793491448
+    },
+    {
+      "id": "859c5e8ce63b",
+      "title": "「我與鬼魂同住」：走進吸引人們撿便宜的日本「鬧鬼」住宅",
+      "url": "https://www.bbc.com/zhongwen/articles/c6vg9k3n5vj4o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1793491395
+    },
+    {
+      "id": "32208cb05c03",
+      "title": "盧比歐G20會晤俄外長　討論美俄領導人APEC互動可能性",
+      "url": "https://money.udn.com/money/story/5599/9849653",
+      "source": "money.udn.com",
+      "published": 1793491241
+    },
+    {
+      "id": "4168c87e461f",
+      "title": "加拿大與歐盟啟動未來聯盟",
+      "url": "https://www.singtaousa.com/2026/10/31/news/world/canada-and-the-european-union-announce-new-alliance-for-the-future-to-create-greater-affordability-opportunity-and-sovereignty/",
+      "source": "singtaousa.com",
+      "published": 1793491200
+    },
+    {
+      "id": "8a944eb35802",
+      "title": "粉絲勸與徐冬冬離婚 尹子維不忍反擊",
+      "url": "https://www.singtaousa.com/2026/10/31/entertainment/yue-dong-dong-divorce-yin-zi-wei/",
+      "source": "singtaousa.com",
+      "published": 1793491200
+    },
+    {
+      "id": "f67dda4dc503",
+      "title": "G20外長會議關鍵安全議題未達共識　聚焦討論全球經濟挑戰",
+      "url": "https://money.udn.com/money/story/5599/9849648",
+      "source": "money.udn.com",
+      "published": 1793490329
     },
     {
       "id": "9a1be779b5c4",
@@ -58,41 +205,6 @@
       "published": 1793485169
     },
     {
-      "id": "2a9e6303a017",
-      "title": "白宮萬聖節活動爆小插曲 特朗普夫婦遞糖果遭孩童抗拒靠近",
-      "url": "https://www.singtaousa.com/2026/10/31/news/usa/child-refuses-to-approach-donald-trump-and-wife-melania-despite-candy-offer-at-white-house-halloween-event/",
-      "source": "singtaousa.com",
-      "published": 1793484000
-    },
-    {
-      "id": "8cb3c54b820e",
-      "title": "《嫁金釵》戲服拍賣 售價高昂引質疑",
-      "url": "https://www.singtaousa.com/2026/10/31/entertainment/jiajinchai-costume-auction/",
-      "source": "singtaousa.com",
-      "published": 1793484000
-    },
-    {
-      "id": "5726bd6755a2",
-      "title": "萬聖節蘭桂坊人潮如織 市民遊客盛裝慶祝節日",
-      "url": "https://www.singtaousa.com/2026/10/31/news/china/halloween-lan-kwai-fong-crowds-celebration/",
-      "source": "singtaousa.com",
-      "published": 1793483554
-    },
-    {
-      "id": "137bf9207be6",
-      "title": "意大利華商貼威脅告示防盜 涉加重威脅罪被捕",
-      "url": "https://www.singtaousa.com/2026/10/31/news/china/italy-chinese-shopkeeper-threat-arrest/",
-      "source": "singtaousa.com",
-      "published": 1793481754
-    },
-    {
-      "id": "22d21392812f",
-      "title": "加州姊妹花「終身郵輪」夢碎 滯留柬埔寨歸咎特朗普",
-      "url": "https://www.singtaousa.com/2026/10/31/news/usa/california-sisters-speak-out-after-being-stranded-abroad-by-cruise-ship-that-promised-lifetime-travel-it-was-a-risk/",
-      "source": "singtaousa.com",
-      "published": 1793481693
-    },
-    {
       "id": "c941add7a2e4",
       "title": "德國Z世代34城示威　法蘭克福警方水砲驅散",
       "url": "https://money.udn.com/money/story/5599/9849604",
@@ -105,41 +217,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261031-%E5%BE%B7%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8-%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E9%AA%9A%E4%B9%B1",
       "source": "rfi.fr",
       "published": 1793481069
-    },
-    {
-      "id": "c0948bd1ccd1",
-      "title": "白百何街頭牽手神秘男",
-      "url": "https://www.singtaousa.com/2026/10/31/entertainment/bai-bai-he-street-hand-mystery-man/",
-      "source": "singtaousa.com",
-      "published": 1793480400
-    },
-    {
-      "id": "d570bc4c92d7",
-      "title": "76歲原中石化董事長傅成玉退休11年後受查",
-      "url": "https://www.singtaousa.com/2026/10/31/news/china/former-sinopec-chairman-fu-chengyu-investigated/",
-      "source": "singtaousa.com",
-      "published": 1793479955
-    },
-    {
-      "id": "3286deb09de2",
-      "title": "美加警告：莫斯科恐有「大規模傷亡事件」的威脅",
-      "url": "https://www.singtaousa.com/2026/10/31/news/world/canada-echoes-us-mass-casualty-event-warning-for-moscow-national/",
-      "source": "singtaousa.com",
-      "published": 1793479350
-    },
-    {
-      "id": "e3660a79b5fc",
-      "title": "新皇崗口岸再現巴士行錯路撞指示牌 運輸署要求加強車長培訓",
-      "url": "https://www.singtaousa.com/2026/10/31/news/china/new-huanggang-port-bus-collision-training/",
-      "source": "singtaousa.com",
-      "published": 1793478155
-    },
-    {
-      "id": "e91e39ed39b2",
-      "title": "佛州打擊兒童性犯罪拘281人 驚見17主題樂園員工",
-      "url": "https://www.singtaousa.com/2026/10/31/news/usa/17-theme-park-employees-among-281-arrested-in-florida-sting-sheriff-says/",
-      "source": "singtaousa.com",
-      "published": 1793477987
     },
     {
       "id": "def0eb60b70b",
@@ -191,60 +268,11 @@
       "published": 1793472506
     },
     {
-      "id": "1ff0bbf20120",
-      "title": "俄烏局部人道停火　俄占城鎮居民：靠吃草活命",
-      "url": "https://money.udn.com/money/story/5599/9849588",
-      "source": "money.udn.com",
-      "published": 1793471796
-    },
-    {
-      "id": "e12364c377f2",
-      "title": "FT 專欄作家剖析 美晶片製造回流…政策矛盾",
-      "url": "https://money.udn.com/money/story/5599/9849451",
-      "source": "money.udn.com",
-      "published": 1793471638
-    },
-    {
       "id": "e6ed2c885cd6",
       "title": "退休11年 前中国中石化董事长傅成玉被查",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261031-%E9%80%80%E4%BC%9111%E5%B9%B4-%E5%89%8D%E4%B8%AD%E5%9B%BD%E4%B8%AD%E7%9F%B3%E5%8C%96%E8%91%A3%E4%BA%8B%E9%95%BF%E5%82%85%E6%88%90%E7%8E%89%E8%A2%AB%E6%9F%A5",
       "source": "rfi.fr",
       "published": 1793471260
-    },
-    {
-      "id": "66fa13b3276e",
-      "title": "美聯邦所得稅 特斯拉不用繳 受惠川普減稅 共114家企業去年都未繳納",
-      "url": "https://money.udn.com/money/story/10511/9849487",
-      "source": "money.udn.com",
-      "published": 1793471204
-    },
-    {
-      "id": "df930aec6960",
-      "title": "歐洲22國碼頭工人罷工 抗議港口被用來輸運武器",
-      "url": "https://money.udn.com/money/story/5599/9849489",
-      "source": "money.udn.com",
-      "published": 1793471132
-    },
-    {
-      "id": "62128ddbb48f",
-      "title": "外媒：美擬選後隔日攻伊",
-      "url": "https://money.udn.com/money/story/5599/9849503",
-      "source": "money.udn.com",
-      "published": 1793471100
-    },
-    {
-      "id": "271f4828361b",
-      "title": "美選舉提前投票人數創高",
-      "url": "https://money.udn.com/money/story/10511/9849485",
-      "source": "money.udn.com",
-      "published": 1793471099
-    },
-    {
-      "id": "1a160fda4804",
-      "title": "1分鐘看世界／OpenAI 奧特曼會三星高層 深化記憶體、AI 基建合作",
-      "url": "https://money.udn.com/money/story/5599/9849423",
-      "source": "money.udn.com",
-      "published": 1793471052
     },
     {
       "id": "5e8a88db12ac",
@@ -259,27 +287,6 @@
       "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261031-%E6%B3%A2%E5%85%B0%E5%AE%AA%E6%B3%95%E6%B3%95%E9%99%A2%E4%BA%89%E5%A4%BA%E7%99%BD%E7%83%AD%E5%8C%96-%E9%98%B2%E7%88%86%E8%AD%A6%E5%AF%9F%E5%B0%81%E9%94%81%E6%B3%95%E9%99%A2-%E6%80%BB%E7%BB%9F%E5%87%BA%E8%AE%BF%E7%B4%A7%E6%80%A5%E6%8A%98%E8%BF%94",
       "source": "rfi.fr",
       "published": 1793469127
-    },
-    {
-      "id": "e714be260e0b",
-      "title": "四方外長關切經濟脅迫與產能過剩　暗批中國",
-      "url": "https://money.udn.com/money/story/5599/9849580",
-      "source": "money.udn.com",
-      "published": 1793466761
-    },
-    {
-      "id": "58c9dacaf388",
-      "title": "東瀛淘金1／日本年輕人轉向「以租代買」 外資砸千億搶進出租住宅市場",
-      "url": "https://money.udn.com/money/story/122381/9849570",
-      "source": "money.udn.com",
-      "published": 1793466514
-    },
-    {
-      "id": "0d7b24b8946a",
-      "title": "東瀛淘金2／買日企正便宜！日圓貶與加稅引爆出售潮 外資熱烈搶進",
-      "url": "https://money.udn.com/money/story/122381/9849569",
-      "source": "money.udn.com",
-      "published": 1793466389
     },
     {
       "id": "046d1063e2c8",
@@ -567,13 +574,6 @@
       "url": "https://www.dw.com/zh/《纽约时报》：一名中国女情报人员同黄仁勋关系密切/a-79805202?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1793354820
-    },
-    {
-      "id": "311103c9ae6b",
-      "title": "幣安遭黑客攻擊：涉63億美元 或為史上最大規模 朝鮮黑客組織被指涉案",
-      "url": "https://www.bbc.com/zhongwen/articles/cw0k023x733lo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1793354191
     },
     {
       "id": "31f0a80535fe",
@@ -1367,5 +1367,5 @@
       "published": 1791159241
     }
   ],
-  "build_id": 1793489397
+  "build_id": 1793500028
 }
