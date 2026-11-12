@@ -1,68 +1,313 @@
 {
-  "updated": 1794445982,
+  "updated": 1794472206,
   "items": [
     {
-      "id": "5aa0f273381c",
-      "title": "輝達將砸100億美元入股 Anthropic！昔為 AI 監管互嗆 如今彼此需要？",
-      "url": "https://money.udn.com/money/story/123398/9873315",
-      "source": "money.udn.com",
-      "published": 1794445722
-    },
-    {
-      "id": "c53004bfedfd",
-      "title": "李世榮頸鏈被指廉價貨 劇組澄清在歐洲購入",
-      "url": "https://www.singtaousa.com/2026/11/11/entertainment/lee-sirong-necklace-europe/",
+      "id": "6d8122274eaa",
+      "title": "網民質疑劉愷威只顧戀愛 粉絲曬證據平反 實為陪讀簽證期滿返港",
+      "url": "https://www.singtaousa.com/2026/11/12/entertainment/hawick-lau-new-relationship-daughter-rumors/",
       "source": "singtaousa.com",
-      "published": 1794445200
+      "published": 1794472346
     },
     {
-      "id": "c62eda204362",
-      "title": "傳輝達董事會擬撤換黃仁勳　婚外情疑雲事件簿一覽",
-      "url": "https://money.udn.com/money/story/5599/9873293",
-      "source": "money.udn.com",
-      "published": 1794444869
-    },
-    {
-      "id": "5748b51ebcff",
-      "title": "天文台：今日大致多雲，日間部分時間有陽光及乾燥，最高氣溫約27度",
-      "url": "https://www.singtaousa.com/2026/11/11/news/china/observatory-cloudy-sunny-dry-27c/",
+      "id": "2224e9133eb1",
+      "title": "盧頌恩回應鄧兆尊月薪說法 楊偉倫談加入《你的保安 李寶安》原因",
+      "url": "https://www.singtaousa.com/2026/11/12/entertainment/edan-lui-your-security-sitcom/",
       "source": "singtaousa.com",
-      "published": 1794444753
+      "published": 1794472094
     },
     {
-      "id": "851588ed9f95",
-      "title": "英伟达董事会将召开会议，讨论黄仁勋去留",
-      "url": "https://cn.nytimes.com/technology/20261112/nvidia-jensen-huang/?utm_source=RSS",
+      "id": "0ac660867b63",
+      "title": "輝達行政總裁黃仁勳婚外情風波 兩名涉事女性背景引關注",
+      "url": "https://www.singtaousa.com/2026/11/12/news/china/nvidia-ceo-alleged-affairs-comparison/",
+      "source": "singtaousa.com",
+      "published": 1794471755
+    },
+    {
+      "id": "2af8274ab72b",
+      "title": "示警點出黃仁勳「中國問題」　31歲交易員半年後爆紅",
+      "url": "https://money.udn.com/money/story/5599/9874701",
+      "source": "money.udn.com",
+      "published": 1794471169
+    },
+    {
+      "id": "58dd89307853",
+      "title": "李在明出席深圳APEC峰會前　韓外長將訪中談兩國關係",
+      "url": "https://money.udn.com/money/story/5599/9874678",
+      "source": "money.udn.com",
+      "published": 1794470614
+    },
+    {
+      "id": "5e1b4a119f41",
+      "title": "黃仁勳婚外情：黃樂據稱身在北京，台灣廢止其入境許可證",
+      "url": "https://www.bbc.com/zhongwen/articles/cje391ee1xvlo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1794470451
+    },
+    {
+      "id": "41aa0c90939f",
+      "title": "徐若瑄堪比18歲",
+      "url": "https://www.singtaousa.com/2026/11/12/entertainment/vivian-shows-age-comparison/",
+      "source": "singtaousa.com",
+      "published": 1794470400
+    },
+    {
+      "id": "5f0a3c6e432a",
+      "title": "美國期中選舉後兩大觀盤重點 多路並進掌握選後行情",
+      "url": "https://money.udn.com/money/story/5599/9874644",
+      "source": "money.udn.com",
+      "published": 1794470095
+    },
+    {
+      "id": "70b807bc90bc",
+      "title": "教師須持執業證明書 修例草案明刊憲 涉國安罪行者不得任教",
+      "url": "https://www.singtaousa.com/2026/11/11/news/china/teacher-practicing-certificate-national-security-offences/",
+      "source": "singtaousa.com",
+      "published": 1794469953
+    },
+    {
+      "id": "c1c9a2487253",
+      "title": "日本無印良品109萬筆信用卡資料恐外洩 16位卡號全都露",
+      "url": "https://money.udn.com/money/story/5599/9874623",
+      "source": "money.udn.com",
+      "published": 1794469592
+    },
+    {
+      "id": "7c20b9b93f30",
+      "title": "美擬禁止中企遠端用AI晶片　管制擴及星馬泰等7國",
+      "url": "https://money.udn.com/money/story/5599/9874580",
+      "source": "money.udn.com",
+      "published": 1794468645
+    },
+    {
+      "id": "2a675d1abd0e",
+      "title": "ICE中半島連日捕人 聖馬刁縣10天16人被拘",
+      "url": "https://www.singtaousa.com/2026/11/11/news/usa/ice-makes-multiple-arrests-across-the-peninsula/",
+      "source": "singtaousa.com",
+      "published": 1794468611
+    },
+    {
+      "id": "68c2f4549f78",
+      "title": "輝達行政總裁黃仁勳婚外情風波 董事會啟動調查",
+      "url": "https://www.singtaousa.com/2026/11/11/news/china/jensen-huang-affairs-timeline-investigation/",
+      "source": "singtaousa.com",
+      "published": 1794468154
+    },
+    {
+      "id": "23a6c454431c",
+      "title": "黃仁勳失勢 輝達帝國還穩得住嗎？美中 AI 競賽出現新變數",
+      "url": "https://money.udn.com/money/story/122381/9874506",
+      "source": "money.udn.com",
+      "published": 1794467133
+    },
+    {
+      "id": "91377cab8ec5",
+      "title": "黃仁勳醜聞引發管制疑慮　中國AI業者搶租海外輝達晶片算力",
+      "url": "https://money.udn.com/money/story/5599/9874499",
+      "source": "money.udn.com",
+      "published": 1794466931
+    },
+    {
+      "id": "f597e920332e",
+      "title": "市場憂輝達可能撤換黃仁勳　日經下跌",
+      "url": "https://money.udn.com/money/story/5599/9874495",
+      "source": "money.udn.com",
+      "published": 1794466891
+    },
+    {
+      "id": "2b2626c780e9",
+      "title": "王傳君回應拒演《愛情公寓》爭議",
+      "url": "https://www.singtaousa.com/2026/11/11/entertainment/wang-chuan-jun-response-rejects/",
+      "source": "singtaousa.com",
+      "published": 1794466800
+    },
+    {
+      "id": "a6feeee873f7",
+      "title": "怕黃仁勳風波堵住算力管道 大陸 AI 業者急租海外輝達算力",
+      "url": "https://money.udn.com/money/story/5599/9874488",
+      "source": "money.udn.com",
+      "published": 1794466778
+    },
+    {
+      "id": "ace7cfca93f0",
+      "title": "日圓買盤降溫 推動升值的「貝森特炮」不靈了？",
+      "url": "https://money.udn.com/money/story/120769/9874251",
+      "source": "money.udn.com",
+      "published": 1794466494
+    },
+    {
+      "id": "87910b71b315",
+      "title": "日媒：日本駐台代表片山和之卸任　前駐希臘大使接任",
+      "url": "https://money.udn.com/money/story/5599/9874472",
+      "source": "money.udn.com",
+      "published": 1794466466
+    },
+    {
+      "id": "a7b353765514",
+      "title": "消委會測試44款智能手錶及手環 揭示心率血氧量度差異與續航表現",
+      "url": "https://www.singtaousa.com/2026/11/11/news/china/consumer-council-smartwatch-fitness-band-comparison/",
+      "source": "singtaousa.com",
+      "published": 1794466354
+    },
+    {
+      "id": "6c24d45b16c3",
+      "title": "憂中國車商威脅　美汽車工會籲保留眾院中國特委會",
+      "url": "https://money.udn.com/money/story/5599/9874449",
+      "source": "money.udn.com",
+      "published": 1794465976
+    },
+    {
+      "id": "1a3ede0d50b0",
+      "title": "黃仁勳接班人再掀熱議　前蘋果執行長庫克也浮出檯面",
+      "url": "https://money.udn.com/money/story/5599/9874391",
+      "source": "money.udn.com",
+      "published": 1794465028
+    },
+    {
+      "id": "7b600c49d14d",
+      "title": "羅大佑談生育掀波 小嫻鄭家純賈永婕等眾女星發聲反駁",
+      "url": "https://www.singtaousa.com/2026/11/11/entertainment/lo-tai-yu-comments-on-women-childbirth/",
+      "source": "singtaousa.com",
+      "published": 1794464975
+    },
+    {
+      "id": "8f7c97847659",
+      "title": "印尼副總統吉伯朗爆學歷爭議 12日正式辭職",
+      "url": "https://money.udn.com/money/story/5599/9874370",
+      "source": "money.udn.com",
+      "published": 1794464692
+    },
+    {
+      "id": "456a255426e2",
+      "title": "蔡天鳳案審訊 鄺港傑供稱事發後未即時報警感後悔",
+      "url": "https://www.singtaousa.com/2026/11/11/news/china/abby-choi-murder-trial-testimony-2/",
+      "source": "singtaousa.com",
+      "published": 1794464555
+    },
+    {
+      "id": "8969a830331d",
+      "title": "高中學歷風波延燒 印尼副總統吉伯朗請辭",
+      "url": "https://money.udn.com/money/story/5599/9874364",
+      "source": "money.udn.com",
+      "published": 1794464542
+    },
+    {
+      "id": "24ad62fd3ab4",
+      "title": "黃仁勳另爆出軌公司女主管 專家：若遭撤換重大打擊AI產業",
+      "url": "https://money.udn.com/money/story/123398/9874332",
+      "source": "money.udn.com",
+      "published": 1794463986
+    },
+    {
+      "id": "f4dc338df689",
+      "title": "近30名日本AV女优称来港演出被拒入境 官方说法爆罗生门",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261112-%E8%BF%9130%E5%90%8D%E6%97%A5%E6%9C%ACav%E5%A5%B3%E4%BC%98%E7%A7%B0%E6%9D%A5%E6%B8%AF%E6%BC%94%E5%87%BA%E8%A2%AB%E6%8B%92%E5%85%A5%E5%A2%83-%E5%AE%98%E6%96%B9%E8%AF%B4%E6%B3%95%E7%88%86%E7%BD%97%E7%94%9F%E9%97%A8",
+      "source": "rfi.fr",
+      "published": 1794463612
+    },
+    {
+      "id": "78d115345ac7",
+      "title": "习近平料国际局势仍有惊涛骇浪 须加强斗争 反「台独」分裂不留空间",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261112-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%96%99%E5%9B%BD%E9%99%85%E5%B1%80%E5%8A%BF%E4%BB%8D%E6%9C%89%E6%83%8A%E6%B6%9B%E9%AA%87%E6%B5%AA-%E9%A1%BB%E5%8A%A0%E5%BC%BA%E6%96%97%E4%BA%89-%E5%8F%8D-%E5%8F%B0%E7%8B%AC-%E5%88%86%E8%A3%82%E4%B8%8D%E7%95%99%E7%A9%BA%E9%97%B4",
+      "source": "rfi.fr",
+      "published": 1794463375
+    },
+    {
+      "id": "8b9afd6e0076",
+      "title": "全球領袖齊聚亞洲對話 AI、貿易與核裁軍成焦點",
+      "url": "https://money.udn.com/money/story/5599/9874266",
+      "source": "money.udn.com",
+      "published": 1794463344
+    },
+    {
+      "id": "66cb8baf83f9",
+      "title": "住房壓力引爆社會怒火 西班牙大罷工至少73人遭逮捕",
+      "url": "https://money.udn.com/money/story/5599/9874261",
+      "source": "money.udn.com",
+      "published": 1794463309
+    },
+    {
+      "id": "14c045b40625",
+      "title": "土耳其鋼鐵廠爆炸 釀17死12傷",
+      "url": "https://www.singtaousa.com/2026/11/11/news/world/blast-at-turkish-steel-mill-kills-17-people/",
+      "source": "singtaousa.com",
+      "published": 1794463200
+    },
+    {
+      "id": "c261b32cec9f",
+      "title": "輝達對中出口引發國安疑慮 美民主黨參議員促保留文件",
+      "url": "https://money.udn.com/money/story/5599/9874226",
+      "source": "money.udn.com",
+      "published": 1794462873
+    },
+    {
+      "id": "72e53e9a85bb",
+      "title": "泰國副總理訪緬甸 聚焦邊境安全與跨境河川污染",
+      "url": "https://money.udn.com/money/story/5599/9874189",
+      "source": "money.udn.com",
+      "published": 1794461821
+    },
+    {
+      "id": "c3d43eaf5928",
+      "title": "黃仁勳疑涉另一宗婚外情，Nvidia董事會傳擬撤換執行長",
+      "url": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1794460857
+    },
+    {
+      "id": "de24676a1d73",
+      "title": "黃仁勳再傳婚外情 輝達董事會商議執行長去留",
+      "url": "https://www.dw.com/zh/黃仁勳再傳婚外情-輝達董事會商議執行長去留/a-79925499?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1794460500
+    },
+    {
+      "id": "437b76c45674",
+      "title": "特朗普政府官员就英伟达事件发生冲突",
+      "url": "https://cn.nytimes.com/business/20261112/nvidia-affair-spy-bessent-lutnick/?utm_source=RSS",
       "source": "cn.nytimes.com",
-      "published": 1794444752
+      "published": 1794454256
     },
     {
-      "id": "8016858bd437",
-      "title": "黃仁勳會戳破 AI 泡沫？輝達雖非大到不能倒 13兆承諾恐成 AI 供應鏈炸彈",
-      "url": "https://money.udn.com/money/story/123398/9873278",
-      "source": "money.udn.com",
-      "published": 1794444390
+      "id": "0f820253f66d",
+      "title": "马斯克等硅谷盟友力挺黄仁勋，称其“不可替代”",
+      "url": "https://cn.nytimes.com/business/20261112/jensen-huang-affair-nvidia-support/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1794453245
     },
     {
-      "id": "7b6c7cc4cc5d",
-      "title": "民主黨柯隆逆襲奪密西西比州參議員　創140多年首位非裔紀錄",
-      "url": "https://money.udn.com/money/story/5599/9873260",
-      "source": "money.udn.com",
-      "published": 1794443497
+      "id": "d1134ec16312",
+      "title": "西班牙大罷工：數萬人參與、巴塞羅那爆發警民衝突",
+      "url": "https://www.bbc.com/zhongwen/articles/c8wy5x2q2wryo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1794453040
     },
     {
-      "id": "7014b0f01b01",
-      "title": "紐約3層樓建築倒塌　至少1死12傷",
-      "url": "https://money.udn.com/money/story/5599/9873259",
-      "source": "money.udn.com",
-      "published": 1794443482
+      "id": "0c683a1554a9",
+      "title": "黄仁勋婚外情丑闻将其妻子置于聚光灯下",
+      "url": "https://cn.nytimes.com/technology/20261112/jensen-huang-affair-lori-huang/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1794453039
     },
     {
-      "id": "1b42befaae7b",
-      "title": "黃仁勳風波燒向晶片出口 分析師警告輝達 H200禁售大陸恐減損50億美元",
-      "url": "https://money.udn.com/money/story/5599/9873253",
-      "source": "money.udn.com",
-      "published": 1794443372
+      "id": "8eba9e7fa06f",
+      "title": "波兰政治舞台激进化，欧盟密切关注",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261112-%E6%B3%A2%E5%85%B0%E6%94%BF%E6%B2%BB%E8%88%9E%E5%8F%B0%E6%BF%80%E8%BF%9B%E5%8C%96%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8",
+      "source": "rfi.fr",
+      "published": 1794449171
+    },
+    {
+      "id": "307cf2cb8549",
+      "title": "中美能源大戰，如何影響你的帳單？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmvg2er51z1wo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1794447918
+    },
+    {
+      "id": "912a2b5606cb",
+      "title": "黄仁勋再被曝婚外情：知情人称其与英伟达一名女高管有染",
+      "url": "https://cn.nytimes.com/technology/20261112/jensen-huang-nvidia-affair/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1794447701
     },
     {
       "id": "fa4e8e344235",
@@ -72,165 +317,11 @@
       "published": 1794443332
     },
     {
-      "id": "650b8f68e234",
-      "title": "黃仁勳去留掀論戰！策略師指「撐過這周算幸運」 有人提卸任 CEO 當董事",
-      "url": "https://money.udn.com/money/story/123398/9873246",
-      "source": "money.udn.com",
-      "published": 1794443138
-    },
-    {
-      "id": "9e2dfea31e96",
-      "title": "社論：內地生簽證審批趨嚴 維護香港留學品牌價值",
-      "url": "https://www.singtaousa.com/2026/11/11/news/china/visa-hurdles-study-hong-kong-authenticity/",
-      "source": "singtaousa.com",
-      "published": 1794442957
-    },
-    {
-      "id": "1cd89311df5f",
-      "title": "黃仁勳婚外情震撼台灣！美媒：仁來瘋形象受衝擊 恐牽動台北市長選情",
-      "url": "https://money.udn.com/money/story/5599/9873243",
-      "source": "money.udn.com",
-      "published": 1794442870
-    },
-    {
-      "id": "64ced2e98047",
-      "title": "紐約時報：黃仁勳遭爆與下屬發展婚外情　輝達內部早有議論",
-      "url": "https://money.udn.com/money/story/5599/9873237",
-      "source": "money.udn.com",
-      "published": 1794442344
-    },
-    {
-      "id": "9c2558a402b6",
-      "title": "傳撤換黃仁勳兼爆第2段婚外情　輝達盤後股價重挫8%",
-      "url": "https://money.udn.com/money/story/123398/9873228",
-      "source": "money.udn.com",
-      "published": 1794442051
-    },
-    {
-      "id": "bf123b6d3671",
-      "title": "義大利6000學校接獲寄自台灣恐嚇信　代表處助查真相",
-      "url": "https://money.udn.com/money/story/5599/9873227",
-      "source": "money.udn.com",
-      "published": 1794442015
-    },
-    {
-      "id": "a8872acd662c",
-      "title": "五中主調變四中，全會到底攪乜東東？",
-      "url": "https://www.singtaousa.com/2026/11/11/opinion/the-fifth-central-committee-mainly-changes-the-fourth-central-committee-what-is-going-on-in-the/",
-      "source": "singtaousa.com",
-      "published": 1794441900
-    },
-    {
-      "id": "f4b08c7be289",
-      "title": "與榮恩倫敦宣傳新片 尊尼稱粉絲是老闆",
-      "url": "https://www.singtaousa.com/2026/11/11/entertainment/johnny-depp-rupert-grint-london-premiere/",
-      "source": "singtaousa.com",
-      "published": 1794441600
-    },
-    {
-      "id": "bd454b4d9f9f",
-      "title": "彭博：輝達已委外找接替黃仁勳人選 考慮先任命臨時執行長",
-      "url": "https://money.udn.com/money/story/123398/9873217",
-      "source": "money.udn.com",
-      "published": 1794441289
-    },
-    {
-      "id": "06924182a75a",
-      "title": "內地網紅扮紙紥公仔嚇遊客 律師指或涉法律責任",
-      "url": "https://www.singtaousa.com/2026/11/11/news/china/influencer-scares-kids-paper-doll/",
-      "source": "singtaousa.com",
-      "published": 1794441154
-    },
-    {
       "id": "e9db6bd072c9",
       "title": "黄仁勋再爆婚外情 华尔街日报称英伟达准备解除其首席执行官职务",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E9%BB%84%E4%BB%81%E5%8B%8B%E5%86%8D%E7%88%86%E5%A9%9A%E5%A4%96%E6%83%85-%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E7%A7%B0%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%87%86%E5%A4%87%E8%A7%A3%E9%99%A4%E5%85%B6%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E8%81%8C%E5%8A%A1",
       "source": "rfi.fr",
       "published": 1794441081
-    },
-    {
-      "id": "a845713cd60c",
-      "title": "「AI界央行」輝達股價止跌回升　美股聚焦黃仁勳案發展",
-      "url": "https://money.udn.com/money/story/123398/9873212",
-      "source": "money.udn.com",
-      "published": 1794440726
-    },
-    {
-      "id": "65dbce23883c",
-      "title": "今晨國際頭條一次看／輝達傳擬撤換黃仁勳 民主黨翻轉密州參議院選舉",
-      "url": "https://money.udn.com/money/story/5599/9873209",
-      "source": "money.udn.com",
-      "published": 1794440601
-    },
-    {
-      "id": "d5a5ef0760ef",
-      "title": "輝達傳擬撤換黃仁勳 盤後大跌10% 拖累那指期指走低",
-      "url": "https://money.udn.com/money/story/123398/9873208",
-      "source": "money.udn.com",
-      "published": 1794440472
-    },
-    {
-      "id": "817fe5f15567",
-      "title": "瑞典達拉木馬獲歐盟地理標示保護　傳統工藝延續數百年",
-      "url": "https://money.udn.com/money/story/5599/9873203",
-      "source": "money.udn.com",
-      "published": 1794439824
-    },
-    {
-      "id": "38581762bcc8",
-      "title": "今冬取暖費全美平均破千元 東北部取暖油家庭貴7成",
-      "url": "https://www.singtaousa.com/2026/11/11/news/usa/heating-costs-will-surge-this-winter-due-to-iran-war-with-heating-oil-prices-spiking-as-much-as-70/",
-      "source": "singtaousa.com",
-      "published": 1794439800
-    },
-    {
-      "id": "c806c016703a",
-      "title": "黃仁勳下台聲浪升高！美兩黨議員促辭職 國會不排除強制傳喚",
-      "url": "https://money.udn.com/money/story/5599/9873202",
-      "source": "money.udn.com",
-      "published": 1794439775
-    },
-    {
-      "id": "d28eec1691c7",
-      "title": "影／紐約3層樓建築突倒塌！至少1死10傷仍有1人受困",
-      "url": "https://money.udn.com/money/story/5599/9873200",
-      "source": "money.udn.com",
-      "published": 1794439715
-    },
-    {
-      "id": "caf29fcba5a2",
-      "title": "徐天佑夫妻檔亮相ViuTV 談Shine合體：保持開放",
-      "url": "https://www.singtaousa.com/2026/11/11/entertainment/tianyou-yau-nam-shine-reunion/",
-      "source": "singtaousa.com",
-      "published": 1794439671
-    },
-    {
-      "id": "c243983598e8",
-      "title": "台積電ADR大漲4.3% 台指期漲470點",
-      "url": "https://money.udn.com/money/story/123398/9873198",
-      "source": "money.udn.com",
-      "published": 1794438929
-    },
-    {
-      "id": "2f02477c3f14",
-      "title": "退伍軍人節演說　川普稱伊朗戰爭快結束、矢言取得全面勝利",
-      "url": "https://money.udn.com/money/story/5599/9873197",
-      "source": "money.udn.com",
-      "published": 1794438772
-    },
-    {
-      "id": "ccf94d2e4430",
-      "title": "俄外交部：駐美大使達爾奇耶夫「突然離世」終年66歲",
-      "url": "https://www.singtaousa.com/2026/11/11/news/usa/russian-ambassador-to-us-dies-suddenly-foreign-ministry-says/",
-      "source": "singtaousa.com",
-      "published": 1794438000
-    },
-    {
-      "id": "aca116aeee49",
-      "title": "小休兩個月復出 Ariana憶與賓史迪拿初相識",
-      "url": "https://www.singtaousa.com/2026/11/11/entertainment/ariana-grande-ben-stiller-first-meeting/",
-      "source": "singtaousa.com",
-      "published": 1794438000
     },
     {
       "id": "b4451bb1322d",
@@ -240,25 +331,11 @@
       "published": 1794436385
     },
     {
-      "id": "aa36374d0055",
-      "title": "紐約布碌崙建築物倒塌 多人被困 至少4傷",
-      "url": "https://www.singtaousa.com/2026/11/11/news/usa/new-york-city-building-collapse-traps-people-in-rubble/",
-      "source": "singtaousa.com",
-      "published": 1794436336
-    },
-    {
       "id": "53e82c541ea5",
       "title": "波兰独立日 从华沙街头传出的复杂信号",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261111-%E6%B3%A2%E5%85%B0%E7%8B%AC%E7%AB%8B%E6%97%A5-%E4%BB%8E%E5%8D%8E%E6%B2%99%E8%A1%97%E5%A4%B4%E4%BC%A0%E5%87%BA%E7%9A%84%E5%A4%8D%E6%9D%82%E4%BF%A1%E5%8F%B7",
       "source": "rfi.fr",
       "published": 1794436202
-    },
-    {
-      "id": "f10d24148a4d",
-      "title": "美政府擬放寬矽塵規定 引發礦工健康憂慮",
-      "url": "https://www.singtaousa.com/2026/11/11/news/usa/federal-mine-regulators-move-to-loosen-a-major-black-lung-safety-rule-3/",
-      "source": "singtaousa.com",
-      "published": 1794436200
     },
     {
       "id": "fcbdb87889af",
@@ -296,6 +373,13 @@
       "published": 1794422476
     },
     {
+      "id": "851588ed9f95",
+      "title": "英伟达董事会召开会议，讨论黄仁勋去留",
+      "url": "https://cn.nytimes.com/technology/20261112/nvidia-jensen-huang/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1794422159
+    },
+    {
       "id": "dc2e0eeef39b",
       "title": "俄罗斯谈判代表：任何和平协议都不存在与基辅交换领土的可能",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E4%BF%84%E7%BD%97%E6%96%AF%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8-%E4%BB%BB%E4%BD%95%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E9%83%BD%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%B8%8E%E5%9F%BA%E8%BE%85%E4%BA%A4%E6%8D%A2%E9%A2%86%E5%9C%9F%E7%9A%84%E5%8F%AF%E8%83%BD",
@@ -317,6 +401,20 @@
       "published": 1794419320
     },
     {
+      "id": "29cb552c3540",
+      "title": "黄仁勋令皮夹克爱好者蒙羞",
+      "url": "https://cn.nytimes.com/opinion/20261112/jensen-huang-leather-jacket/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1794419126
+    },
+    {
+      "id": "98169827b502",
+      "title": "黄仁勋事件折射中美外交背后的激烈情报战",
+      "url": "https://cn.nytimes.com/china/20261112/china-us-nvidia/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1794417334
+    },
+    {
       "id": "336bbc48b265",
       "title": "联合国第31届气候变化大会迎来元首发言时间 缺席者众",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E8%81%94%E5%90%88%E5%9B%BD%E7%AC%AC31%E5%B1%8A%E6%B0%94%E5%80%99%E5%8F%98%E5%8C%96%E5%A4%A7%E4%BC%9A%E8%BF%8E%E6%9D%A5%E5%85%83%E9%A6%96%E5%8F%91%E8%A8%80%E6%97%B6%E9%97%B4-%E7%BC%BA%E5%B8%AD%E8%80%85%E4%BC%97",
@@ -329,6 +427,20 @@
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261111-%E4%BC%8A%E6%9C%97%E5%B0%86%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%B5%B7%E5%86%9B%E5%92%8C%E7%A9%BA%E5%86%9B%E5%88%97%E4%B8%BA-%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87",
       "source": "rfi.fr",
       "published": 1794413514
+    },
+    {
+      "id": "28a82ca0bd88",
+      "title": "中国将严厉惩处离岸信托收益偷逃税者",
+      "url": "https://www.ftchinese.com/story/001111351",
+      "source": "ftchinese.com",
+      "published": 1794412800
+    },
+    {
+      "id": "896fb760809b",
+      "title": "从黄仁勋事件，看硅谷公司治理风险",
+      "url": "https://www.ftchinese.com/story/001111344",
+      "source": "ftchinese.com",
+      "published": 1794412800
     },
     {
       "id": "7e885eed1752",
@@ -597,27 +709,6 @@
       "published": 1794347376
     },
     {
-      "id": "438a3bde5108",
-      "title": "法国指责上个月针对超市冷藏设备的网络攻击是伊朗干的， 伊朗拒绝法国的指控",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261110-%E6%B3%95%E5%9B%BD%E6%8C%87%E8%B4%A3%E4%B8%8A%E4%B8%AA%E6%9C%88%E9%92%88%E5%AF%B9%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E8%AE%BE%E5%A4%87%E7%9A%84%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%98%AF%E4%BC%8A%E6%9C%97%E5%B9%B2%E7%9A%84%EF%BC%8C-%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E6%B3%95%E5%9B%BD%E7%9A%84%E6%8C%87%E6%8E%A7",
-      "source": "rfi.fr",
-      "published": 1794346461
-    },
-    {
-      "id": "cbb182c5f450",
-      "title": "美国国务卿： 目前没必要对伊朗展开大规模作战",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261110-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E8%AF%B4%EF%BC%8C%E7%9B%AE%E5%89%8D%E6%B2%A1%E5%BF%85%E8%A6%81%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E5%B1%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BD%9C%E6%88%98%E8%A1%8C%E5%8A%A8",
-      "source": "rfi.fr",
-      "published": 1794345867
-    },
-    {
-      "id": "96116721a9bc",
-      "title": "基辅与莫斯科在阿布扎比启动会谈，美国斡旋，泽连斯基说高兴",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261110-%E5%9F%BA%E8%BE%85%E4%B8%8E%E8%8E%AB%E6%96%AF%E7%A7%91%E5%9C%A8%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E5%90%AF%E5%8A%A8%E4%BC%9A%E8%B0%88%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%96%A1%E6%97%8B%EF%BC%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E8%AF%B4%E9%AB%98%E5%85%B4",
-      "source": "rfi.fr",
-      "published": 1794345681
-    },
-    {
       "id": "58a8e28cc320",
       "title": "黄仁勋事件中的“女主角”黄乐是谁？",
       "url": "https://cn.nytimes.com/business/20261111/alice-huang-megaspeed-nvidia-jensen-huang/?utm_source=RSS",
@@ -726,20 +817,6 @@
       "id": "dc2169d0a4c1",
       "title": "美国10月环比通胀率放缓幅度不及预期",
       "url": "https://www.ftchinese.com/story/001111329",
-      "source": "ftchinese.com",
-      "published": 1794326400
-    },
-    {
-      "id": "19e514d23e3f",
-      "title": "Anthropic寻求以1.4万亿美元估值上市",
-      "url": "https://www.ftchinese.com/story/001111328",
-      "source": "ftchinese.com",
-      "published": 1794326400
-    },
-    {
-      "id": "6acf8f3fbf7e",
-      "title": "“双11”背后，中国制造的价值链迁移",
-      "url": "https://www.ftchinese.com/story/001111327",
       "source": "ftchinese.com",
       "published": 1794326400
     },
@@ -863,25 +940,11 @@
       "published": 1794277801
     },
     {
-      "id": "00f13bb11da3",
-      "title": "黄仁勋对特朗普称自己不知婚外情对象疑似中国间谍",
-      "url": "https://cn.nytimes.com/usa/20261110/trump-jensen-huang-spy/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1794276265
-    },
-    {
       "id": "aee6f937ab8d",
       "title": "黄仁勋何以成为硅谷的“摇滚明星”",
       "url": "https://cn.nytimes.com/business/20261110/jensen-huang-nvidia-ai-chips-scandal/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1794243817
-    },
-    {
-      "id": "a7399d401c76",
-      "title": "白金漢宮幕僚：英王查爾斯「會考慮訪華」",
-      "url": "https://www.bbc.com/zhongwen/articles/cj20v0x3ze2no/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1794241862
     },
     {
       "id": "a80b540bdc79",
@@ -896,13 +959,6 @@
       "url": "https://www.dw.com/zh/德语媒体：美国对华政策将更趋强硬？/a-79902471?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1794237120
-    },
-    {
-      "id": "27cf8c7cc10a",
-      "title": "黃仁勳婚外情掀起國安風暴：拆解五大看點",
-      "url": "https://www.bbc.com/zhongwen/articles/c6rmym2gg9z1o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1794229828
     },
     {
       "id": "5e1c9cebbb6b",
@@ -947,46 +1003,11 @@
       "published": 1794203518
     },
     {
-      "id": "efe68be57942",
-      "title": "接近黄仁勋的女间谍由中国国安部招募",
-      "url": "https://cn.nytimes.com/usa/20261109/chinese-spy-agency-nvidia-jensen-huang/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1794199715
-    },
-    {
       "id": "bccaa59237e4",
       "title": "中式微短劇浪潮席捲英國：為滑動時代而生的「碎片化」劇集",
       "url": "https://www.bbc.com/zhongwen/articles/c50med2zn8dno/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1794183625
-    },
-    {
-      "id": "81abaefa4813",
-      "title": "黄仁勋承认出轨，英伟达调查其与疑似中国间谍的关系",
-      "url": "https://cn.nytimes.com/technology/20261109/nvidia-investigation-jensen-huang-china/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1794183512
-    },
-    {
-      "id": "5d86296df100",
-      "title": "为什么泰国医生“害怕”肯德基",
-      "url": "https://cn.nytimes.com/asia-pacific/20261109/thailand-kfc-curse-doctors/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1794162328
-    },
-    {
-      "id": "f28dccda3380",
-      "title": "美、中、俄三国首脑在深圳会晤？习近平的雄心与顾虑",
-      "url": "https://cn.nytimes.com/world/20261109/china-trump-putin-xi-summit/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1794160441
-    },
-    {
-      "id": "f9350b78b64c",
-      "title": "英伟达先进芯片流向中国“空壳”公司",
-      "url": "https://cn.nytimes.com/business/20261109/nvidia-chips-chinese-firms/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1794159810
     },
     {
       "id": "3b257661262a",
@@ -1036,13 +1057,6 @@
       "url": "https://www.dw.com/zh/魔法归来-争议未散《哈利·波特》走上银幕25年-剧版今冬登场/a-79878539?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1794126180
-    },
-    {
-      "id": "a2179d2af254",
-      "title": "俄军导弹再袭基辅 乌总统和市长打嘴仗",
-      "url": "https://www.dw.com/zh/俄军导弹再袭基辅-乌总统和市长打嘴仗/a-79885814?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1794063360
     },
     {
       "id": "2a68b09f20da",
@@ -1120,13 +1134,6 @@
       "url": "https://www.dw.com/zh/德语媒体：为了首都的蓝天而挨冻/a-79867969?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1793892120
-    },
-    {
-      "id": "68088ddf9c0b",
-      "title": "分析：特朗普中期选举遭遇政治挫折 于中国或是“短期获益，长期受损”",
-      "url": "https://www.dw.com/zh/分析：特朗普中期选举遭遇政治挫折-于中国或是-短期获益，长期受损/a-79862523?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1793872920
     },
     {
       "id": "09a9b9ad82a3",
@@ -1220,13 +1227,6 @@
       "published": 1793534940
     },
     {
-      "id": "79fbbbe7ed6c",
-      "title": "「見鬼了」：為什麼我們會產生超自然體驗？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm3vqy5g204vo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1793528637
-    },
-    {
       "id": "208232d31afe",
       "title": "美国拟为\"影子舰队\"松绑？专家警告莫削弱对俄制裁",
       "url": "https://www.dw.com/zh/美国拟为-影子舰队-松绑？专家警告莫削弱对俄制裁/a-79806146?maca=chi-rss-chi-all-1127-rdf",
@@ -1281,13 +1281,6 @@
       "url": "https://www.dw.com/zh/奥迪砸40亿美国建厂-背后的考量是什么？/a-79777777?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1793176740
-    },
-    {
-      "id": "e068727b2f3f",
-      "title": "什麼時候「豪華經濟艙」值得多花錢？來比較2026年全球五強",
-      "url": "https://www.bbc.com/zhongwen/articles/c3n04z9jp75xo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1793176075
     },
     {
       "id": "7008882f0e1a",
@@ -1400,7 +1393,14 @@
       "url": "https://www.dw.com/zh/特朗普：预计中国核武库在五年内赶上美国/a-79680539?maca=chi-rss-chi-news-3224-rdf",
       "source": "dw.com",
       "published": 1792152840
+    },
+    {
+      "id": "8637e844162c",
+      "title": "台裔德國作家廖樂薇: 用文學展現台灣民主韌性",
+      "url": "https://www.dw.com/zh/台裔德國作家廖樂薇-用文學展現台灣民主韌性/a-79668895?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1792138020
     }
   ],
-  "build_id": 1794445982
+  "build_id": 1794472206
 }
