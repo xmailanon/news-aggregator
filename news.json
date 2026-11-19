@@ -1,61 +1,390 @@
 {
-  "updated": 1795061828,
+  "updated": 1795095462,
   "items": [
     {
-      "id": "f03cffacb1a0",
-      "title": "山火災區泥石流警告 1號公路大蘇爾段封閉",
-      "url": "https://www.singtaousa.com/2026/11/18/news/usa/nearly-50-mile-stretch-of-iconic-california-highway-abruptly-closed-over-flooding-threat/",
+      "id": "55b92237f489",
+      "title": "邱士縉《告別的年代》首映談演藝挑戰 預告MIRROR演唱會高難度舞步",
+      "url": "https://www.singtaousa.com/2026/11/19/entertainment/stanley-chow-film-premiere-mirror-concert/",
       "source": "singtaousa.com",
-      "published": 1795061642
+      "published": 1795094922
     },
     {
-      "id": "51f6c14c7f9a",
-      "title": "楊婷婭陷情緒低潮 還好愛犬始終陪伴",
-      "url": "https://www.singtaousa.com/2026/11/18/entertainment/yang-ting-ya-emotional-support-dogs/",
+      "id": "06452c13081a",
+      "title": "TVB台慶夜群星獻技 「炫舞女王」陳煒領軍變裝搶Fo",
+      "url": "https://www.singtaousa.com/2026/11/19/entertainment/tvb-anniversary-show-dance-performance/",
       "source": "singtaousa.com",
-      "published": 1795060800
+      "published": 1795094837
     },
     {
-      "id": "897d6102b742",
-      "title": "國際法院將裁決緬甸涉洛興雅種族滅絕案　判決受關注",
-      "url": "https://money.udn.com/money/story/5599/9888512",
-      "source": "money.udn.com",
-      "published": 1795060468
-    },
-    {
-      "id": "21c8bff3239c",
-      "title": "川普淡化核武軍控　另稱伊朗戰局無需俄中幫忙",
-      "url": "https://money.udn.com/money/story/5599/9888463",
-      "source": "money.udn.com",
-      "published": 1795059531
-    },
-    {
-      "id": "4df765e9a544",
-      "title": "海地總統摩依士遇刺案　美聯邦陪審團裁定海地裔美籍牧師有罪",
-      "url": "https://money.udn.com/money/story/5599/9888462",
-      "source": "money.udn.com",
-      "published": 1795059516
-    },
-    {
-      "id": "0699d237e881",
-      "title": "朱潔儀笑談昔日收「全家之寶」示愛 八字桃花雖旺卻陷「姊妹爭夫」命格",
-      "url": "https://www.singtaousa.com/2026/11/18/entertainment/donna-chu-dating-miss-hongkong-1989/",
+      "id": "e4900029192d",
+      "title": "天文台預測周五顯著轉涼 市區氣溫降至14°C 新界及高地寒冷",
+      "url": "https://www.singtaousa.com/2026/11/19/news/china/weather-turns-cooler-friday-temperature-drop/",
       "source": "singtaousa.com",
-      "published": 1795059075
+      "published": 1795094553
     },
     {
-      "id": "328c30bd205a",
-      "title": "美擴大先進半導體出口管制　馬來西亞尋求釐清資料中心服務規範",
-      "url": "https://money.udn.com/money/story/5599/9888423",
+      "id": "3dcc8026292e",
+      "title": "Anthropic 上市為韓國富豪崔泰源的商業帝國帶來數十億美元帳面回報",
+      "url": "https://money.udn.com/money/story/5599/9888552",
       "source": "money.udn.com",
-      "published": 1795059034
+      "published": 1795094233
     },
     {
-      "id": "cd5bf2d0bcc2",
-      "title": "深圳APEC經濟領袖會議 普丁：與亞太經濟體合作是俄戰略方針",
-      "url": "https://money.udn.com/money/story/5599/9888412",
+      "id": "4f2a3fbda2d8",
+      "title": "國際法院認緬甸對洛興雅種族滅絕　涉性暴力、數千人遇害",
+      "url": "https://money.udn.com/money/story/5599/9889893",
       "source": "money.udn.com",
-      "published": 1795058895
+      "published": 1795093959
+    },
+    {
+      "id": "d55e584aa679",
+      "title": "北海道知名甜點六花亭遭駭 8000筆信用卡資料恐外洩",
+      "url": "https://money.udn.com/money/story/5599/9889892",
+      "source": "money.udn.com",
+      "published": 1795093939
+    },
+    {
+      "id": "c6f0e05cdac0",
+      "title": "普丁指與美、中領袖進行坦率討論　稱外交史新篇章",
+      "url": "https://money.udn.com/money/story/5599/9889884",
+      "source": "money.udn.com",
+      "published": 1795093688
+    },
+    {
+      "id": "4d111fff6a98",
+      "title": "谁是最大赢家？三巨头会晤并发表《和平宣言》",
+      "url": "https://www.dw.com/zh/谁是最大赢家？三巨头会晤并发表《和平宣言》/a-79991746?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1795093620
+    },
+    {
+      "id": "97ed0fff2ca3",
+      "title": "安華APEC籲強化多邊貿易　深化區域整合共享繁榮",
+      "url": "https://money.udn.com/money/story/5599/9889878",
+      "source": "money.udn.com",
+      "published": 1795093398
+    },
+    {
+      "id": "78ecaaf95393",
+      "title": "林芊妤剖白童年陰影　父親一句話影響愛情路遇家暴",
+      "url": "https://www.singtaousa.com/2026/11/19/entertainment/coffee-lam-interview-childhood-domestic-violence/",
+      "source": "singtaousa.com",
+      "published": 1795093340
+    },
+    {
+      "id": "5b9fa7026718",
+      "title": "鴨嗲粉與桃膠",
+      "url": "https://www.singtaousa.com/2026/11/19/opinion/duck-satay-noodles-peach-gum/",
+      "source": "singtaousa.com",
+      "published": 1795093200
+    },
+    {
+      "id": "c29cd4ac824d",
+      "title": "集體吞車記",
+      "url": "https://www.singtaousa.com/2026/11/19/opinion/collective-swallow-train/",
+      "source": "singtaousa.com",
+      "published": 1795093200
+    },
+    {
+      "id": "c265cee8ae21",
+      "title": "發個現代羅賓漢夢",
+      "url": "https://www.singtaousa.com/2026/11/19/opinion/modern-robin-hood-dream/",
+      "source": "singtaousa.com",
+      "published": 1795093200
+    },
+    {
+      "id": "1894da8bab6e",
+      "title": "假聲明，真公關",
+      "url": "https://www.singtaousa.com/2026/11/19/opinion/false-statement-real-pr/",
+      "source": "singtaousa.com",
+      "published": 1795093200
+    },
+    {
+      "id": "20c019b7da4b",
+      "title": "老黃辭職了",
+      "url": "https://www.singtaousa.com/2026/11/19/opinion/huang-zhang-resigns/",
+      "source": "singtaousa.com",
+      "published": 1795093200
+    },
+    {
+      "id": "1a5bdeaac612",
+      "title": "習近平籲建亞太共同體「四樑八柱」",
+      "url": "https://www.singtaousa.com/2026/11/19/news/usa/xi-jinping-asia-pacific-community-2/",
+      "source": "singtaousa.com",
+      "published": 1795093200
+    },
+    {
+      "id": "6629023fbb1b",
+      "title": "外交無小事  大度有邊界",
+      "url": "https://www.singtaousa.com/2026/11/19/news/world/diplomacy-no-small-matters/",
+      "source": "singtaousa.com",
+      "published": 1795093200
+    },
+    {
+      "id": "68522e49c665",
+      "title": "中俄關係  「風雨不動安如山」",
+      "url": "https://www.singtaousa.com/2026/11/19/news/world/china-russia-relations-stable/",
+      "source": "singtaousa.com",
+      "published": 1795093200
+    },
+    {
+      "id": "732e08d4102b",
+      "title": "川普離開深圳返美 中國外長王毅送行",
+      "url": "https://money.udn.com/money/story/5599/9889868",
+      "source": "money.udn.com",
+      "published": 1795092896
+    },
+    {
+      "id": "31355e483d06",
+      "title": "中方接待日相高市惹議 從接機規格到座位安排都顯見差別待遇",
+      "url": "https://money.udn.com/money/story/5599/9889862",
+      "source": "money.udn.com",
+      "published": 1795092752
+    },
+    {
+      "id": "640856d0b59d",
+      "title": "怎样继续支持乌克兰？柏林举行“自愿者联盟”会议",
+      "url": "https://www.dw.com/zh/怎样继续支持乌克兰？柏林举行-自愿者联盟-会议/a-79991386?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1795092600
+    },
+    {
+      "id": "ae8cb52aaeed",
+      "title": "景順：2027年 AI、製造業及內需形成亞股三大支撐 台韓仍扮演核心角色",
+      "url": "https://money.udn.com/money/story/5599/9889852",
+      "source": "money.udn.com",
+      "published": 1795092271
+    },
+    {
+      "id": "ab6de5fde152",
+      "title": "假裝身在紐西蘭、提前請假、搶購遊戲主機：粉絲為《GTA 6》發佈做足準備",
+      "url": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1795092185
+    },
+    {
+      "id": "6915743f5d63",
+      "title": "AI 贏家是美國或中國？德銀：以上皆非 是這個看似關聯性低的國家",
+      "url": "https://money.udn.com/money/story/5599/9889848",
+      "source": "money.udn.com",
+      "published": 1795092021
+    },
+    {
+      "id": "42d9a3bb3af7",
+      "title": "丹麥與美國、格陵蘭簽署安全協議　國會表決通過",
+      "url": "https://money.udn.com/money/story/5599/9889836",
+      "source": "money.udn.com",
+      "published": 1795091419
+    },
+    {
+      "id": "0daad9703cf6",
+      "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
+      "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1795090924
+    },
+    {
+      "id": "29fdf7372a87",
+      "title": "美前官員：川習深圳會為維繫關係　美中穩定也對台灣有益",
+      "url": "https://money.udn.com/money/story/5599/9889830",
+      "source": "money.udn.com",
+      "published": 1795090913
+    },
+    {
+      "id": "e2dc5f3a9174",
+      "title": "傳美出口管制新規衝擊　台積電、三星暫停部分對中晶片出貨",
+      "url": "https://money.udn.com/money/story/5599/9889828",
+      "source": "money.udn.com",
+      "published": 1795090883
+    },
+    {
+      "id": "8a0123383acc",
+      "title": "中國繼續大減美債 比利時和加拿大加倉",
+      "url": "https://money.udn.com/money/story/5599/9887922",
+      "source": "money.udn.com",
+      "published": 1795090879
+    },
+    {
+      "id": "985bd84fad70",
+      "title": "韓國首度要求金融公司申報 AI 曝險 債務融資疑慮升溫",
+      "url": "https://money.udn.com/money/story/5599/9889023",
+      "source": "money.udn.com",
+      "published": 1795090205
+    },
+    {
+      "id": "76c6096af7cf",
+      "title": "穆迪將輝達評級展望下調至穩定 指因公司治理擔憂",
+      "url": "https://money.udn.com/money/story/123398/9889192",
+      "source": "money.udn.com",
+      "published": 1795090193
+    },
+    {
+      "id": "9c1a799d72ca",
+      "title": "國際能源總署表示伊朗戰爭永久改寫了全球能源市場",
+      "url": "https://money.udn.com/money/story/5599/9889193",
+      "source": "money.udn.com",
+      "published": 1795090177
+    },
+    {
+      "id": "3758ea844caa",
+      "title": "韓國投資人9月淨買入美國公債規模創紀錄最高",
+      "url": "https://money.udn.com/money/story/5599/9889198",
+      "source": "money.udn.com",
+      "published": 1795090147
+    },
+    {
+      "id": "80236f726760",
+      "title": "Anthropic 股價在暗盤市場上漲約20%",
+      "url": "https://money.udn.com/money/story/123398/9889456",
+      "source": "money.udn.com",
+      "published": 1795090115
+    },
+    {
+      "id": "57a987bbf811",
+      "title": "毛里求斯要加入查戈斯群岛讨论",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261119-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%AF%9B%E9%87%8C%E6%B1%82%E6%96%AF%E8%A6%81%E5%8A%A0%E5%85%A5%E6%9F%A5%E6%88%88%E6%96%AF%E7%BE%A4%E5%B2%9B%E8%AE%A8%E8%AE%BA",
+      "source": "rfi.fr",
+      "published": 1795090077
+    },
+    {
+      "id": "402bbb3b1d86",
+      "title": "美中俄領袖峰會落幕　川普搭乘空軍一號返華府",
+      "url": "https://money.udn.com/money/story/5599/9889790",
+      "source": "money.udn.com",
+      "published": 1795090044
+    },
+    {
+      "id": "95a2aa9eaf4d",
+      "title": "前美國情報員揭冷戰布拉格監控 StB使出美人計找弱點",
+      "url": "https://money.udn.com/money/story/5599/9889745",
+      "source": "money.udn.com",
+      "published": 1795088745
+    },
+    {
+      "id": "dc95280fa84a",
+      "title": "特习普结束历史性三方会晤，讨论乌战与核军控并发表联合《和平宣言》",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E7%89%B9%E4%B9%A0%E6%99%AE%E7%BB%93%E6%9D%9F%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%89%E6%96%B9%E4%BC%9A%E6%99%A4%EF%BC%8C%E8%AE%A8%E8%AE%BA%E4%B9%8C%E6%88%98%E4%B8%8E%E6%A0%B8%E5%86%9B%E6%8E%A7%E5%B9%B6%E5%8F%91%E8%A1%A8%E8%81%94%E5%90%88-%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80",
+      "source": "rfi.fr",
+      "published": 1795087800
+    },
+    {
+      "id": "44312ee351d0",
+      "title": "從領導人合照到場邊會談：高市早苗的APEC外交觀察",
+      "url": "https://www.bbc.com/zhongwen/articles/ck782e5dxeygo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1795083644
+    },
+    {
+      "id": "7e17a7b5a74e",
+      "title": "高市早苗：对台立场不变 遵循《日中联合声明》",
+      "url": "https://www.dw.com/zh/高市早苗：对台立场不变-遵循《日中联合声明》/a-79989505?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1795083480
+    },
+    {
+      "id": "d6e4b43fe428",
+      "title": "朝中社报导金正恩视察海军大学，韩总统府：尚未发现朝美领导人可能会晤的“特殊动向”",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E6%9C%9D%E4%B8%AD%E7%A4%BE%E6%8A%A5%E5%AF%BC%E9%87%91%E6%AD%A3%E6%81%A9%E8%A7%86%E5%AF%9F%E6%B5%B7%E5%86%9B%E5%A4%A7%E5%AD%A6%EF%BC%8C%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%BA%9C-%E5%B0%9A%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%9C%9D%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%99%A4%E7%9A%84-%E7%89%B9%E6%AE%8A%E5%8A%A8%E5%90%91",
+      "source": "rfi.fr",
+      "published": 1795082510
+    },
+    {
+      "id": "b5b406ea64dc",
+      "title": "乌克兰一周内三次袭击克里米亚大桥 铁路运输中断",
+      "url": "https://www.dw.com/zh/乌克兰一周内三次袭击克里米亚大桥-铁路运输中断/a-79988821?maca=chi-rss-chi-all-1127-rdf",
+      "source": "dw.com",
+      "published": 1795081980
+    },
+    {
+      "id": "503dfaa1ed3f",
+      "title": "APEC 峰会之际 俄罗斯军机再次飞越台湾",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261119-apec-%E5%B3%B0%E4%BC%9A%E4%B9%8B%E9%99%85-%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%9B%E6%9C%BA%E5%86%8D%E6%AC%A1%E9%A3%9E%E8%B6%8A%E5%8F%B0%E6%B9%BE",
+      "source": "rfi.fr",
+      "published": 1795081556
+    },
+    {
+      "id": "6bea1e89877a",
+      "title": "习近平：美国应在台湾问题上“做正确的事情”，避免中美关系出现大的波折",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E4%B9%A0%E8%BF%91%E5%B9%B3-%E7%BE%8E%E5%9B%BD%E5%BA%94%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A-%E5%81%9A%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%8B%E6%83%85-%EF%BC%8C%E9%81%BF%E5%85%8D%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%87%BA%E7%8E%B0%E5%A4%A7%E7%9A%84%E6%B3%A2%E6%8A%98",
+      "source": "rfi.fr",
+      "published": 1795081256
+    },
+    {
+      "id": "e75fcbce683d",
+      "title": "高市早苗在APEC峰会期间与普京举行会谈",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9C%A8apec%E5%B3%B0%E4%BC%9A%E6%9C%9F%E9%97%B4%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
+      "source": "rfi.fr",
+      "published": 1795079949
+    },
+    {
+      "id": "f25a65649861",
+      "title": "AI是做精神導師，發佈教法裁決？穆斯林對此意見不一",
+      "url": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1795079804
+    },
+    {
+      "id": "c74fdb5d56e4",
+      "title": "台湾APEC代表施振荣与习近平握手 台湾参会空间再成交点",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261119-%E5%8F%B0%E6%B9%BEapec%E4%BB%A3%E8%A1%A8%E6%96%BD%E6%8C%AF%E8%8D%A3%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%A1%E6%89%8B-%E5%8F%B0%E6%B9%BE%E5%8F%82%E4%BC%9A%E7%A9%BA%E9%97%B4%E5%86%8D%E6%88%90%E4%BA%A4%E7%82%B9",
+      "source": "rfi.fr",
+      "published": 1795079731
+    },
+    {
+      "id": "4a31c549d447",
+      "title": "日本方面普遍认为高市首相赴深圳出席APEC峰会遭中国冷遇",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261119-%E6%97%A5%E6%9C%AC%E6%96%B9%E9%9D%A2%E6%99%AE%E9%81%8D%E8%AE%A4%E4%B8%BA%E9%AB%98%E5%B8%82%E9%A6%96%E7%9B%B8%E8%B5%B4%E6%B7%B1%E5%9C%B3%E5%87%BA%E5%B8%ADapec%E5%B3%B0%E4%BC%9A%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%86%B7%E9%81%87",
+      "source": "rfi.fr",
+      "published": 1795079406
+    },
+    {
+      "id": "6ec0459dc726",
+      "title": "乌克兰本周内第三次袭击克里米亚大桥 导致铁路交通中断",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261119-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%9C%AC%E5%91%A8%E5%86%85%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%A2%AD%E5%87%BB%E5%85%8B%E9%87%8C%E7%B1%B3%E4%BA%9A%E5%A4%A7%E6%A1%A5-%E5%AF%BC%E8%87%B4%E9%93%81%E8%B7%AF%E4%BA%A4%E9%80%9A%E4%B8%AD%E6%96%AD",
+      "source": "rfi.fr",
+      "published": 1795079359
+    },
+    {
+      "id": "627b06477356",
+      "title": "三方会晤前特朗普对习近平表示中国可帮助结束乌克兰战争",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E4%B8%89%E6%96%B9%E4%BC%9A%E6%99%A4%E5%89%8D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A1%A8%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%8F%AF%E5%B8%AE%E5%8A%A9%E7%BB%93%E6%9D%9F%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%EF%BC%8C%E5%88%86%E6%9E%90%E4%BA%BA%E5%A3%AB%E8%AE%A4%E4%B8%BA%E4%B8%89%E6%96%B9%E5%BE%88%E9%9A%BE%E8%BE%BE%E6%88%90%E9%87%8D%E5%A4%A7%E5%8D%8F%E8%AE%AE",
+      "source": "rfi.fr",
+      "published": 1795078987
+    },
+    {
+      "id": "dcc6e4033b98",
+      "title": "高市早苗：希望与中国建立“稳定”关系，且日本对台湾立场自1972年来未变",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97-%E5%B8%8C%E6%9C%9B%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%BB%BA%E7%AB%8B-%E7%A8%B3%E5%AE%9A-%E5%85%B3%E7%B3%BB%EF%BC%8C%E4%B8%94%E6%97%A5%E6%9C%AC%E5%AF%B9%E5%8F%B0%E6%B9%BE%E7%AB%8B%E5%9C%BA%E6%9C%AA%E5%8F%98",
+      "source": "rfi.fr",
+      "published": 1795078054
+    },
+    {
+      "id": "d748924a34d8",
+      "title": "习近平APEC宣布：提供2000万推动亚太共同体合作",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261119-%E4%B9%A0%E8%BF%91%E5%B9%B3apec%E5%AE%A3%E5%B8%83-%E6%8F%90%E4%BE%9B2000%E4%B8%87%E6%8E%A8%E5%8A%A8%E4%BA%9A%E5%A4%AA%E5%85%B1%E5%90%8C%E4%BD%93%E5%90%88%E4%BD%9C",
+      "source": "rfi.fr",
+      "published": 1795075720
+    },
+    {
+      "id": "df21e0d977b2",
+      "title": "建宏福苑火灾纪录库者因揭名医之女涉嫌「请枪」反被控四宗罪：吹哨者变被告",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261119-%E5%BB%BA%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BE%E7%BA%AA%E5%BD%95%E5%BA%93%E8%80%85%E5%9B%A0%E6%8F%AD%E5%90%8D%E5%8C%BB%E4%B9%8B%E5%A5%B3%E6%B6%89%E5%AB%8C-%E8%AF%B7%E6%9E%AA-%E5%8F%8D%E8%A2%AB%E6%8E%A7%E5%9B%9B%E5%AE%97%E7%BD%AA-%E5%90%B9%E5%93%A8%E8%80%85%E5%8F%98%E8%A2%AB%E5%91%8A",
+      "source": "rfi.fr",
+      "published": 1795075154
+    },
+    {
+      "id": "4f052a70748a",
+      "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
+      "url": "https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1795071939
+    },
+    {
+      "id": "fe91e28a0fb7",
+      "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
+      "url": "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "bbc.com",
+      "published": 1795070589
     },
     {
       "id": "cd46437a0c09",
@@ -65,118 +394,6 @@
       "published": 1795058820
     },
     {
-      "id": "84404e265181",
-      "title": "深圳APEC晚宴 特朗普普京分坐習近平兩側 馬斯克低調隨行",
-      "url": "https://www.singtaousa.com/2026/11/18/news/china/apec-dinner-trump-putin-musk/",
-      "source": "singtaousa.com",
-      "published": 1795058553
-    },
-    {
-      "id": "0e60bee9bdec",
-      "title": "馬斯克認了自己「愚蠢」 悔砸4億美元助選 再挺黃仁勳比擬為「喬丹」",
-      "url": "https://money.udn.com/money/story/5599/9888398",
-      "source": "money.udn.com",
-      "published": 1795058544
-    },
-    {
-      "id": "397861389371",
-      "title": "川普：與習近平晚宴整晚談AI　僅簡短提及黃仁勳",
-      "url": "https://money.udn.com/money/story/5599/9888393",
-      "source": "money.udn.com",
-      "published": 1795058498
-    },
-    {
-      "id": "2ba3fa217b0e",
-      "title": "緬甸總統不滿東協施壓　稱正重新評估雙邊關係",
-      "url": "https://money.udn.com/money/story/5599/9888391",
-      "source": "money.udn.com",
-      "published": 1795058478
-    },
-    {
-      "id": "86798e7373e2",
-      "title": "影/習近平致詞川普打瞌睡畫面曝！普丁全神貫注 加拿大總理忙做筆記",
-      "url": "https://money.udn.com/money/story/5599/9888368",
-      "source": "money.udn.com",
-      "published": 1795058194
-    },
-    {
-      "id": "d6afeca20d91",
-      "title": "APEC會前各領袖深圳忙打卡...澳總理超市看龍蝦銷情、智利總統看櫻桃",
-      "url": "https://money.udn.com/money/story/5599/9888364",
-      "source": "money.udn.com",
-      "published": 1795058074
-    },
-    {
-      "id": "d9a247b8d300",
-      "title": "慈濟美國醫療基金會推「人人有食」 聖蓋博谷兩院區每月辦免費農夫市集",
-      "url": "https://www.singtaousa.com/2026/11/18/lifestyle/news-tzu-chi-food4all-free-farmers-market-southern-california/",
-      "source": "singtaousa.com",
-      "published": 1795057960
-    },
-    {
-      "id": "974fb8c31d1a",
-      "title": "APEC 領袖會議登場！習近平 APEC 宣布挹注2,000萬美元",
-      "url": "https://money.udn.com/money/story/5599/9888352",
-      "source": "money.udn.com",
-      "published": 1795057851
-    },
-    {
-      "id": "36060a62cd5f",
-      "title": "高市見習近平連表情都先準備 日媒緊盯APEC冷熱差",
-      "url": "https://money.udn.com/money/story/5599/9888344",
-      "source": "money.udn.com",
-      "published": 1795057849
-    },
-    {
-      "id": "67c1d28af1b9",
-      "title": "深圳APEC／IMF示警AI推升全球通膨今年估達4.7% 債務將創二戰後新高",
-      "url": "https://money.udn.com/money/story/5599/9888333",
-      "source": "money.udn.com",
-      "published": 1795057457
-    },
-    {
-      "id": "314344f1da26",
-      "title": "川習普歷史性峰會登場！美盟友憂川普為求外交勝利 犧牲台灣、烏克蘭",
-      "url": "https://money.udn.com/money/story/5599/9888331",
-      "source": "money.udn.com",
-      "published": 1795057408
-    },
-    {
-      "id": "7dd2f5e2bf8e",
-      "title": "馬斯克突切割MAGA！認砸近5億美元助選失敗 嘆「早知道就少花點」",
-      "url": "https://money.udn.com/money/story/5599/9888327",
-      "source": "money.udn.com",
-      "published": 1795057368
-    },
-    {
-      "id": "8c99e78a7b22",
-      "title": "習近平川普普丁APEC峰會合影　三方峰會前同框",
-      "url": "https://money.udn.com/money/story/5599/9888315",
-      "source": "money.udn.com",
-      "published": 1795057246
-    },
-    {
-      "id": "f9c9b281e655",
-      "title": "川普亞洲行第2天　普丁主動握手致意、菲律賓大打炸雞外交",
-      "url": "https://money.udn.com/money/story/5599/9888314",
-      "source": "money.udn.com",
-      "published": 1795057226
-    },
-    {
-      "id": "2be5042a7e05",
-      "title": "劉若英郭子同台 互相打趣關係不一般",
-      "url": "https://www.singtaousa.com/2026/11/18/entertainment/liu-ruo-ying-guo-zi-duo-tai/",
-      "source": "singtaousa.com",
-      "published": 1795057200
-    },
-    {
-      "id": "6b0741a4dafd",
-      "title": "旅發局「繽紛冬日巡禮」延伸至銅鑼灣 逾6000商戶提供近350項節日優惠",
-      "url": "https://www.singtaousa.com/2026/11/18/news/china/winter-wonderland-causeway-bay-consumer-offers/",
-      "source": "singtaousa.com",
-      "published": 1795056752
-    },
-    {
       "id": "44d3acbca727",
       "title": "习近平与高市早苗简短会面，中日关系无解冻迹象",
       "url": "https://cn.nytimes.com/world/20261119/xi-jinping-china-sanae-takaichi-japan/?utm_source=RSS",
@@ -184,74 +401,11 @@
       "published": 1795055851
     },
     {
-      "id": "55f9d6817e6b",
-      "title": "本週3度遭烏克蘭襲擊　克里米亞大橋交通暫時中斷",
-      "url": "https://money.udn.com/money/story/5599/9888253",
-      "source": "money.udn.com",
-      "published": 1795055788
-    },
-    {
-      "id": "89dd4fe78f13",
-      "title": "陳百祥「細公司論」惹議 網民質疑其起點 汪明荃輕描淡寫回應",
-      "url": "https://www.singtaousa.com/2026/11/18/entertainment/chen-bai-xiang-tvb-controversy/",
-      "source": "singtaousa.com",
-      "published": 1795055468
-    },
-    {
-      "id": "c70aa30b1f0b",
-      "title": "Anthropic超越SpaceX　改寫史上最大IPO紀錄",
-      "url": "https://money.udn.com/money/story/123398/9888240",
-      "source": "money.udn.com",
-      "published": 1795055423
-    },
-    {
-      "id": "990c41064ae3",
-      "title": "深圳APEC歡迎晚宴菜單揭曉 中西美饌展現粵菜精髓",
-      "url": "https://www.singtaousa.com/2026/11/18/news/china/apec-welcome-banquet-menu-shenzhen/",
-      "source": "singtaousa.com",
-      "published": 1795054954
-    },
-    {
-      "id": "b67aacd3f651",
-      "title": "美議員籲川普向習近平施壓　促釋放遭拘留美公民及政治犯",
-      "url": "https://money.udn.com/money/story/5599/9888210",
-      "source": "money.udn.com",
-      "published": 1795054917
-    },
-    {
-      "id": "e3dcda3a269a",
-      "title": "劉修甫奪最佳男配角獎",
-      "url": "https://www.singtaousa.com/2026/11/18/entertainment/liu-xiufu-best-supporting-actor/",
-      "source": "singtaousa.com",
-      "published": 1795053600
-    },
-    {
-      "id": "a023bedcb0e0",
-      "title": "APEC峰會期間 中國外事女保鏢工作引關注",
-      "url": "https://www.singtaousa.com/2026/11/18/news/china/apec-shenzhen-female-bodyguard-story/",
-      "source": "singtaousa.com",
-      "published": 1795053152
-    },
-    {
       "id": "80f5abe8909e",
       "title": "特朗普抵达深圳：展示友好关系，无视间谍丑闻",
       "url": "https://cn.nytimes.com/world/20261119/trump-xi-shenzhen-spy-scandal/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1795053151
-    },
-    {
-      "id": "f1213d47047b",
-      "title": "APE峰会期间，深圳变“空城”",
-      "url": "https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1795052946
-    },
-    {
-      "id": "d980ef76a96c",
-      "title": "馬斯克：花近5億助選共和黨「感覺相當愚蠢」 自稱不是MAGA",
-      "url": "https://www.singtaousa.com/2026/11/18/news/usa/elon-musk-admits-he-feels-pretty-foolish-having-spent-nearly-500-million-on-midterm-election-races-won-by-democrats-claims-he-is-not-maga/",
-      "source": "singtaousa.com",
-      "published": 1795052455
     },
     {
       "id": "c46dc54dffc9",
@@ -317,6 +471,13 @@
       "published": 1795038492
     },
     {
+      "id": "f1213d47047b",
+      "title": "APEC峰会期间，深圳变“空城”",
+      "url": "https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1795037913
+    },
+    {
       "id": "88df99aa643e",
       "title": "中美俄峰会：莫斯科渲染“新雅尔塔”，基辅不接受大国势力划分",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261118-%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%B3%B0%E4%BC%9A-%E8%8E%AB%E6%96%AF%E7%A7%91%E6%B8%B2%E6%9F%93-%E6%96%B0%E9%9B%85%E5%B0%94%E5%A1%94-%EF%BC%8C%E5%9F%BA%E8%BE%85%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A4%A7%E5%9B%BD%E5%8A%BF%E5%8A%9B%E5%88%92%E5%88%86",
@@ -331,11 +492,25 @@
       "published": 1795031375
     },
     {
-      "id": "d4810efb14ec",
-      "title": "中国再次承办APEC峰会：台湾会否成为大国博弈筹码？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%85%AC%E6%B0%91%E8%AE%BA%E5%9D%9B/20261118-%E4%B8%AD%E5%9B%BD%E5%86%8D%E6%AC%A1%E6%89%BF%E5%8A%9Eapec%E5%B3%B0%E4%BC%9A-%E5%8F%B0%E6%B9%BE%E4%BC%9A%E5%90%A6%E6%88%90%E4%B8%BA%E5%A4%A7%E5%9B%BD%E5%8D%9A%E5%BC%88%E7%AD%B9%E7%A0%81",
-      "source": "rfi.fr",
-      "published": 1795018741
+      "id": "5b8e72edb021",
+      "title": "如何解读特朗普与习近平的拥抱",
+      "url": "https://cn.nytimes.com/world/20261119/xi-trump-hug-shenzhen/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1795024935
+    },
+    {
+      "id": "0be42e089a8e",
+      "title": "中国军方对英伟达芯片触手可及？阿里巴巴扮演重要角色",
+      "url": "https://cn.nytimes.com/technology/20261119/nvidia-alibaba-china-military/?utm_source=RSS",
+      "source": "cn.nytimes.com",
+      "published": 1795022492
+    },
+    {
+      "id": "c0f75b933d17",
+      "title": "APEC：全球治理机制的新标杆",
+      "url": "https://www.ftchinese.com/story/001112098",
+      "source": "ftchinese.com",
+      "published": 1795017600
     },
     {
       "id": "a94999e179ba",
@@ -436,39 +611,11 @@
       "published": 1794999360
     },
     {
-      "id": "bf97088754f1",
-      "title": "卫星图像显示 : 中国正在西沙群岛的羚羊礁修建跑道",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261118-%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E6%98%BE%E7%A4%BA-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%9C%A8%E8%A5%BF%E6%B2%99%E7%BE%A4%E5%B2%9B%E7%BE%9A%E7%BE%8A%E7%A4%81%E4%BF%AE%E5%BB%BA%E8%B7%91%E9%81%93",
-      "source": "rfi.fr",
-      "published": 1794998707
-    },
-    {
       "id": "d9ba41604fd9",
       "title": "新西兰一位市长在访华后说：“民主制度已风光不再”",
       "url": "https://www.dw.com/zh/新西兰一位市长在访华后说：-民主制度已风光不再/a-79979358?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1794997800
-    },
-    {
-      "id": "0ca5a1bf1386",
-      "title": "新加坡：愿协助美国加强先进芯片监管",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261118-%E6%96%B0%E5%8A%A0%E5%9D%A1-%E6%84%BF%E5%8D%8F%E5%8A%A9%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%BC%BA%E5%85%88%E8%BF%9B%E8%8A%AF%E7%89%87%E7%9B%91%E7%AE%A1",
-      "source": "rfi.fr",
-      "published": 1794994258
-    },
-    {
-      "id": "393388692d87",
-      "title": "台湾：在美中俄领导人会晤前与美国“保持密切联系”",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261118-%E5%8F%B0%E6%B9%BE-%E5%9C%A8%E7%BE%8E%E4%B8%AD%E4%BF%84%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E6%99%A4%E5%89%8D%E4%B8%8E%E7%BE%8E%E5%9B%BD-%E4%BF%9D%E6%8C%81%E5%AF%86%E5%88%87%E8%81%94%E7%B3%BB",
-      "source": "rfi.fr",
-      "published": 1794992983
-    },
-    {
-      "id": "a051fc4b3a9c",
-      "title": "日本担心高市访华受到外交礼节上的冷遇  高市将与普京接触",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261118-%E6%97%A5%E6%9C%AC%E6%8B%85%E5%BF%83%E9%AB%98%E5%B8%82%E8%AE%BF%E5%8D%8E%E5%8F%97%E5%88%B0%E5%A4%96%E4%BA%A4%E7%A4%BC%E8%8A%82%E4%B8%8A%E7%9A%84%E5%86%B7%E9%81%87-%E9%AB%98%E5%B8%82%E5%B0%86%E4%B8%8E%E6%99%AE%E4%BA%AC%E6%8E%A5%E8%A7%A6",
-      "source": "rfi.fr",
-      "published": 1794992962
     },
     {
       "id": "5dbea32817c2",
@@ -478,39 +625,11 @@
       "published": 1794992880
     },
     {
-      "id": "fe71ea17aa25",
-      "title": "抵达深圳前，特朗普盛赞美菲同盟关系",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261118-%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%89%8D%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%9B%E8%B5%9E%E7%BE%8E%E8%8F%B2%E5%90%8C%E7%9B%9F%E5%85%B3%E7%B3%BB",
-      "source": "rfi.fr",
-      "published": 1794992299
-    },
-    {
       "id": "abc7f54da74e",
       "title": "中美俄峰會前 「習普會」先登場",
       "url": "https://www.dw.com/zh/中美俄峰會前-「習普會」先登場/a-79977094?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1794991380
-    },
-    {
-      "id": "737d61e1b058",
-      "title": "APEC开幕式讲话：习近平和普京共同抨击西方“保护主义”，但未提及美芯片出口管制或英伟达",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261118-apec%E5%BC%80%E5%B9%95%E5%BC%8F%E8%AE%B2%E8%AF%9D-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E6%99%AE%E4%BA%AC%E5%85%B1%E5%90%8C%E6%8A%A8%E5%87%BB%E8%A5%BF%E6%96%B9-%E4%BF%9D%E6%8A%A4%E4%B8%BB%E4%B9%89-%EF%BC%8C%E4%BD%86%E6%9C%AA%E6%8F%90%E5%8F%8A%E7%BE%8E%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%88%96%E8%8B%B1%E4%BC%9F%E8%BE%BE",
-      "source": "rfi.fr",
-      "published": 1794991220
-    },
-    {
-      "id": "28ccbea8aa60",
-      "title": "卡尼「用中国牌制衡美国」 引发国内强烈反弹",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261118-%E5%8D%A1%E5%B0%BC-%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%89%8C%E5%88%B6%E8%A1%A1%E7%BE%8E%E5%9B%BD-%E5%BC%95%E5%8F%91%E5%9B%BD%E5%86%85%E5%BC%BA%E7%83%88%E5%8F%8D%E5%BC%B9",
-      "source": "rfi.fr",
-      "published": 1794991055
-    },
-    {
-      "id": "e78b9860333a",
-      "title": "习近平在APEC峰会前单独与普京会晤，共处两个多小时",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261118-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8apec%E5%B3%B0%E4%BC%9A%E5%89%8D%E5%8D%95%E7%8B%AC%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4%EF%BC%8C%E5%85%B1%E5%A4%84%E4%B8%A4%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6",
-      "source": "rfi.fr",
-      "published": 1794990168
     },
     {
       "id": "c76c0b974bbf",
@@ -525,13 +644,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1794989209
-    },
-    {
-      "id": "d3bb9dfb89b5",
-      "title": "习近平提新组织 称支持成立世界湾区经济合作联盟",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261118-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%8F%90%E6%96%B0%E7%BB%84%E7%BB%87-%E7%A7%B0%E6%94%AF%E6%8C%81%E6%88%90%E7%AB%8B%E4%B8%96%E7%95%8C%E6%B9%BE%E5%8C%BA%E7%BB%8F%E6%B5%8E%E5%90%88%E4%BD%9C%E8%81%94%E7%9B%9F",
-      "source": "rfi.fr",
-      "published": 1794981776
     },
     {
       "id": "51648164c549",
@@ -555,20 +667,6 @@
       "published": 1794961778
     },
     {
-      "id": "919bca8131e2",
-      "title": "深圳：如何从边境小城到“世界工厂”，再到全球创新中心",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261117-%E6%B7%B1%E5%9C%B3-%E5%A6%82%E4%BD%95%E4%BB%8E%E8%BE%B9%E5%A2%83%E5%B0%8F%E5%9F%8E%E5%88%B0-%E4%B8%96%E7%95%8C%E5%B7%A5%E5%8E%82-%EF%BC%8C%E5%86%8D%E5%88%B0%E5%85%A8%E7%90%83%E5%88%9B%E6%96%B0%E4%B8%AD%E5%BF%83",
-      "source": "rfi.fr",
-      "published": 1794958474
-    },
-    {
-      "id": "886c68fbecb6",
-      "title": "金正恩现身中朝边境，会不会再跨过边境到访中国？",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261117-%E9%87%91%E6%AD%A3%E6%81%A9%E7%8E%B0%E8%BA%AB%E4%B8%AD%E6%9C%9D%E8%BE%B9%E5%A2%83%EF%BC%8C%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%86%8D%E8%B7%A8%E8%BF%87%E8%BE%B9%E5%A2%83%E5%88%B0%E8%AE%BF%E4%B8%AD%E5%9B%BD",
-      "source": "rfi.fr",
-      "published": 1794958250
-    },
-    {
       "id": "39c03e6f458d",
       "title": "间谍丑闻、贸易失衡：习近平的APEC“高光”会否蒙尘？",
       "url": "https://cn.nytimes.com/china/20261118/xi-apec/?utm_source=RSS",
@@ -581,13 +679,6 @@
       "url": "https://cn.nytimes.com/china/20261118/trump-xi-meeting-tensions/?utm_source=RSS",
       "source": "cn.nytimes.com",
       "published": 1794957514
-    },
-    {
-      "id": "cc1722362f0a",
-      "title": "黄仁勋表态若能重返英伟达担任执行长“很荣幸” 众议院民主党反对",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261117-%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A1%A8%E6%80%81%E8%8B%A5%E8%83%BD%E9%87%8D%E8%BF%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8B%85%E4%BB%BB%E6%89%A7%E8%A1%8C%E9%95%BF-%E5%BE%88%E8%8D%A3%E5%B9%B8-%E4%BC%97%E8%AE%AE%E9%99%A2%E6%B0%91%E4%B8%BB%E5%85%9A%E5%8F%8D%E5%AF%B9",
-      "source": "rfi.fr",
-      "published": 1794944890
     },
     {
       "id": "6242a5542e75",
@@ -653,41 +744,6 @@
       "published": 1794918660
     },
     {
-      "id": "0172c8e5d20a",
-      "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1794915842
-    },
-    {
-      "id": "3ff308b78840",
-      "title": "中加将进一步削减关税 卡尼赞两国关系更具“可预测性”",
-      "url": "https://www.dw.com/zh/中加将进一步削减关税-卡尼赞两国关系更具-可预测性/a-79969061?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1794915480
-    },
-    {
-      "id": "1645aeb9e22a",
-      "title": "特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」",
-      "url": "https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1794915432
-    },
-    {
-      "id": "8964447d3c91",
-      "title": "APEC峰会：习近平、特朗普、普京首次同桌 各有什么盘算？",
-      "url": "https://www.dw.com/zh/apec峰会：习近平、特朗普、普京首次同桌-各有什么盘算？/a-79967853?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1794914340
-    },
-    {
-      "id": "45523ed84da4",
-      "title": "俄罗斯军机侵犯日本领空 飞经韩国台湾的防空识别区",
-      "url": "https://www.dw.com/zh/俄罗斯军机侵犯日本领空-飞经韩国台湾的防空识别区/a-79967934?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1794913500
-    },
-    {
       "id": "02b86f76a561",
       "title": "「藍白合」示範區：新竹市選情如何透露台灣第三勢力的未來？",
       "url": "https://www.bbc.com/zhongwen/articles/cme3d27d7lnpo/trad?at_medium=RSS&at_campaign=rss",
@@ -700,13 +756,6 @@
       "url": "https://www.bbc.com/zhongwen/articles/cm7826g36xe5o/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1794908006
-    },
-    {
-      "id": "855b79057f1e",
-      "title": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
-      "url": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1794905080
     },
     {
       "id": "5022b03aab35",
@@ -744,32 +793,11 @@
       "published": 1794883091
     },
     {
-      "id": "c6dbae0f5e0c",
-      "title": "特朗普、习近平和普京将在中国举行三方会晤",
-      "url": "https://cn.nytimes.com/world/20261115/trump-putin-xi-china-nuclear-proliferation/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1794882329
-    },
-    {
-      "id": "52bf599d3458",
-      "title": "特朗普访华前，美国推进新规封堵芯片出口漏洞",
-      "url": "https://cn.nytimes.com/usa/20261117/trump-china-ai-chip-loophole/?utm_source=RSS",
-      "source": "cn.nytimes.com",
-      "published": 1794882292
-    },
-    {
       "id": "35ef51988aef",
       "title": "APEC深圳觀察：習近平想告訴世界，中國掌握著未來",
       "url": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss",
       "source": "bbc.com",
       "published": 1794881362
-    },
-    {
-      "id": "023580e81f05",
-      "title": "俄羅斯超級富豪們已經在設想一個「後普京時代」",
-      "url": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1794875690
     },
     {
       "id": "0f112e7dffa4",
@@ -1003,13 +1031,6 @@
       "published": 1794716915
     },
     {
-      "id": "88b4877e4845",
-      "title": "一周世界舆论聚焦：黄仁勋的陨落与APEC峰会",
-      "url": "https://www.ftchinese.com/story/001111370",
-      "source": "ftchinese.com",
-      "published": 1794672000
-    },
-    {
       "id": "b73c589bf586",
       "title": "專訪：民主黨重掌國會，華府對台政策會出現轉向嗎？",
       "url": "https://www.dw.com/zh/專訪：民主黨重掌國會，華府對台政策會出現轉向嗎？/a-79947376?maca=chi-rss-chi-all-1127-rdf",
@@ -1122,13 +1143,6 @@
       "published": 1794397620
     },
     {
-      "id": "fc5c056bc5a5",
-      "title": "認識史蒂芬妮·凱斯——首位在南極洲跑完100英里的女性",
-      "url": "https://www.bbc.com/zhongwen/articles/cmg46yzz5vrxo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1794392565
-    },
-    {
       "id": "b1bcf60d866a",
       "title": "「台灣之光」形象重挫？民眾如何看黃仁勳婚外情風波",
       "url": "https://www.bbc.com/zhongwen/articles/cm0e0ey0qx7yo/trad?at_medium=RSS&at_campaign=rss",
@@ -1234,13 +1248,6 @@
       "published": 1794042360
     },
     {
-      "id": "27fe6e8e6b1c",
-      "title": "美國中期選舉掀「藍色浪潮」 將怎樣影響世界",
-      "url": "https://www.bbc.com/zhongwen/watch/c5vgjjr77wvxo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1793977095
-    },
-    {
       "id": "f802ff08f6f3",
       "title": "「短睡眠基因」：為何有人只需睡四小時？",
       "url": "https://www.bbc.com/zhongwen/articles/cm0j0341z50qo/trad?at_medium=RSS&at_campaign=rss",
@@ -1316,28 +1323,7 @@
       "url": "https://www.dw.com/zh/馬斯克證實特斯拉、spacex合併討論中-中國市場成風險？/a-79724184?maca=chi-rss-chi-all-1127-rdf",
       "source": "dw.com",
       "published": 1792589280
-    },
-    {
-      "id": "6a912e2f9553",
-      "title": "字节阿里腾讯砸数百亿美金 抢购英伟达芯片",
-      "url": "https://www.dw.com/zh/字节阿里腾讯砸数百亿美金-抢购英伟达芯片/a-79712724?maca=chi-rss-chi-all-1127-rdf",
-      "source": "dw.com",
-      "published": 1792496520
-    },
-    {
-      "id": "b2e685c2f9a2",
-      "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
-      "url": "https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1792485609
-    },
-    {
-      "id": "27e7e1fd300a",
-      "title": "DeepSeek被美國政府系統禁用：中美AI競爭繼續升溫",
-      "url": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "bbc.com",
-      "published": 1792482165
     }
   ],
-  "build_id": 1795061828
+  "build_id": 1795095462
 }
